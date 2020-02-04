@@ -5,7 +5,7 @@ from urllib.parse import urlparse
 
 def query_api(cik, date_from, date_to):
     # API Key
-    TOKEN = "09c0d12aebb609b87abbb6f023a45609d213555a59bc181bfe8a1c9ae3155e63" # replace YOUR_API_KEY with the API key you got from sec-api.io after sign up
+    TOKEN =  "f172ab24e14a02bd5d673b407b6c02ce4a66671c893abebc26d21fc271924c01" # replace YOUR_API_KEY with the API key you got from sec-api.io after sign up
     # API endpoint
     API = "https://api.sec-api.io?token=" + TOKEN
 

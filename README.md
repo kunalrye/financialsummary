@@ -1,4 +1,7 @@
 # financialsummary
 
-requires pip installation of bs4 and urllib libraries 
+requires pip installation of the following libraries:
+bs4,
+urllib,
+pandas
 
