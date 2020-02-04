@@ -1,3 +1,5 @@
+## This script extracts plaintext from an external html document 
+
 import urllib.request
 from bs4 import BeautifulSoup
 
