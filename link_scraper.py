@@ -35,21 +35,21 @@ def query_api(cik, date_from, date_to):
     res_body = response.read()
     # transform the response into JSON
     filings = json.loads(res_body.decode("utf-8"))
-    return filings 
+    return filings
 
 def get_10qs(filings):
   num_filings = int(filings['total']['value'])
-  print("FOUND " + str(num_filings) + "10Q REPORTS: ")
+  print("FOUND " + str(num_filings) + " 10Q REPORTS: ")
 
   links = []
 
   for i in range(num_filings):
-    print("HTML link is " + filings['filings'][i]['linkToHtml'])
-    print("Text link is " + filings['filings'][i]['linkToTxt'])
     htmllink = filings['filings'][i]['linkToHtml']
     txtlink = filings['filings'][i]['linkToTxt']
+    print("HTML link is " + htmllink)
+    print("Text link is " + txtlink)
 
-    data = urllib.request.urlopen(txtlink).read(2000).decode("utf-8") 
+    data = urllib.request.urlopen(txtlink).read(2000).decode("utf-8")
     data = data.split("\n")
     # lines = data.split("\n") # then split it into lines
     fname = ""
@@ -59,12 +59,12 @@ def get_10qs(filings):
         fname = line[10:]
         print("filename found: " + fname)
         break
-    
+
     orig_url = urlparse(htmllink)
     split_path = orig_url.path.split('/')
 
     accession_num_contents = split_path[-1].split("-")
-    acc_num = ''.join(accession_num_contents[:3]) ##obtains the accession number 
+    acc_num = ''.join(accession_num_contents[:3]) ##obtains the accession number
 
     final_path = split_path[:-1]
     final_path.append(acc_num + '/' + fname)

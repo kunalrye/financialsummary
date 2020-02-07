@@ -10,35 +10,38 @@ random.seed(15)  # set rng seed for reproducibility
 # nltk.download('punkt')#NEED TO download sentence parser (if not already done)
 
 
-#Select random 10-q from list of all
-all_urls = open('links.txt').read().splitlines()
+# Select random 10-q from list of all
+all_urls = open('C:/Users/jsbae/financialsummary/links.txt').read().splitlines()
 num_urls = len(all_urls)
 rand_url = random.randint(0, num_urls - 1)
 url = all_urls[rand_url]
 
-#Retrieve document
+# Retrieve document
 document = html_to_text(url)
 
-#An example of retrieving sentences
+# An example of retrieving sentences
 sentences = nltk.sent_tokenize(document)
 print(len(sentences))
 num_good_sents = 0
 good_sents = []
+
+
 def check_for_formatting(string):
-    #Ignore sentences with annoying syntax
-    #TODO: figure out how to remove backslash and maybe also remove tabs?
+    # Ignore sentences with annoying syntax
+    # TODO: figure out how to remove backslash and maybe also remove tabs?
     regex = re.compile('[☒_☐@#^&*()<>?/\|}{~:]|\s\s')
-    if(regex.search(string) == None):
+    if (regex.search(string) == None):
         return True
+
 
 for sentence in sentences:
     if check_for_formatting(sentence):
-        num_good_sents = num_good_sents+1
+        num_good_sents = num_good_sents + 1
         good_sents.append(sentence)
         print(sentence)
 
-print("Total acceptable sentences =",num_good_sents)
-#Converting the sentences to a document
+print("Total acceptable sentences =", num_good_sents)
+# Converting the sentences to a document
 good_doc = " ".join(good_sents)
 
 # DOESN'T work yet
@@ -52,5 +55,3 @@ good_doc = " ".join(good_sents)
 # ## For looking at sentences
 # # for counter in range(5):
 # #     print(sentences[3+counter])
-
-
