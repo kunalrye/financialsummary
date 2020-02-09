@@ -1,3 +1,9 @@
+'''
+For a given url, should output:
+    sentences (good_sents [list])
+    document (good_doc [string])
+Includes minor pre-processing  to remove special chars
+'''
 import pandas as pd
 from link_scraper import get_10qs, query_api
 from html_to_text import *
@@ -6,7 +12,7 @@ import random
 import nltk
 from nltk.collocations import *
 
-random.seed(15)  # set rng seed for reproducibility
+random.seed(20)  # set rng seed for reproducibility
 # nltk.download('punkt')#NEED TO download sentence parser (if not already done)
 
 
