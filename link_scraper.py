@@ -1,3 +1,7 @@
+'''
+Library for querying the SEC Filings API and for obtaining the 10q links. 
+'''
+
 import json
 import urllib.request
 from urllib.parse import urlparse
