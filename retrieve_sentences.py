@@ -1,7 +1,11 @@
 '''
 Creates a text file given a 10-q url
-'''
 
+For a given url, should output:
+    sentences (good_sents [list])
+    document (good_doc [string])
+Includes minor pre-processing  to remove special chars
+'''
 import pandas as pd
 from link_scraper import get_10qs, query_api
 from html_to_text import *
