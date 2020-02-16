@@ -10,6 +10,7 @@ import pandas as pd
 from yellowbrick.text import TSNEVisualizer
 from yellowbrick.datasets import load_hobbies
 
+## words to exclude from the TFIDF matrix 
 ENGLISH_STOP_WORDS = [
     "a", "about", "above", "across", "after", "afterwards", "again", "against",
     "all", "almost", "alone", "along", "already", "also", "although", "always",
@@ -54,6 +55,7 @@ ENGLISH_STOP_WORDS = [
     "yourselves"]
 
 
+
 def linksToTxt():
     all_urls = open('links.txt').read().splitlines()
     all_docs = []
@@ -72,6 +74,11 @@ Requires: 'docs' is a list of strings, where each string is the plain text of th
 Returns: TFIDF matrix, list of feature names 
 '''
 def computeTFIDF(docs):
+    print('in compute')
+    ## prevents numbers from being included in tfidf 
+    for i in range(1000):
+        ENGLISH_STOP_WORDS.append(str(i))
+    print(ENGLISH_STOP_WORDS)
     vectorizer = TfidfVectorizer(max_df=1.0, min_df=1, stop_words=ENGLISH_STOP_WORDS, use_idf=True, norm=None)
     transformed_documents = vectorizer.fit_transform(docs)
     transformed_documents_as_array = transformed_documents.toarray()
