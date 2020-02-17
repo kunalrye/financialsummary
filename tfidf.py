@@ -55,12 +55,15 @@ ENGLISH_STOP_WORDS = [
 
 
 
-'''
-Requires: 'docs' is a list of strings, where each string is the plain text of the 10Q
-
-Returns: TFIDF matrix, list of feature names 
-'''
 def computeTFIDF(docs):
+    """Computes the TFIDF matrix for all 10Qs
+    
+    Arguments:
+        docs {List<String>} -- each string is the plain text of the 10Q
+    
+    Returns:
+        [2D ndarray, List<String>] -- TFIDF matrix, list of terms in the TFIDF matrix 
+    """
     print('in compute')
     ## prevents numbers from being included in tfidf 
     for i in range(1000):
@@ -75,17 +78,17 @@ def computeTFIDF(docs):
     return transformed_documents_as_array, vectorizer.get_feature_names()
 
 
-'''
-Requires: 
-    tfidf_mat is a numpy array corresponding to the feature matrix
-    featureList is a python list of feature names (i.e. unique words)
-
-Returns: 
-    List of top_n words (as a python list)
-'''
-
-def topN(tfidf_mat, featureList):
-    n = 200
+def topN(tfidf_mat, featureList, n):
+    """Computes the topN words 
+    
+    Arguments:
+        tfidf_mat {2D ndarray} -- the TFIDF matrix 
+        featureList {List<String>} -- list of the terms in the TFIDF matrix 
+        n {int} -- specifies how many words to select 
+    
+    Returns:
+        List<String> -- top n terms from the TFIDF matrix 
+    """
     feature_array = np.array(featureList)
     tfidf_sorting = np.argsort(tfidf_mat).flatten()[::-1]
     top_n = feature_array[tfidf_sorting][:n]
@@ -96,7 +99,7 @@ def topN(tfidf_mat, featureList):
 
 ## compute the top-n words 
 if __name__ == "__main__":
-    print(topN(*computeTFIDF(txtToStrings())))
+    print(topN(*computeTFIDF(txtToStrings()), 200))
 
 
 

@@ -1,5 +1,7 @@
 '''
-Creates a text file given a 10-q url
+Functions to: 
+    Retrieve text from url 
+    Creates a text file given a 10-q url
 
 For a given url, should output:
     sentences (good_sents [list])
@@ -10,12 +12,35 @@ import pandas as pd
 import re
 import random
 import nltk
+import urllib.request
 from nltk.collocations import *
 from link_scraper import get_10qs, query_api
-from html_to_text import *
+from bs4 import BeautifulSoup
+
+
+def html_to_text(url):
+    '''
+    :param url: [string] to a sec websites
+    :return: document [string], with no processing
+    '''
+    #Pretty self explanatory, but is easier than remebering this syntax every time
+    html = urllib.request.urlopen(url)
+    return BeautifulSoup(html,features="html.parser").get_text()
 
 
 def makeText(url, index):
+    """
+    Gets the text from a specified url, does basic sentence processing 
+    to remove malformed sentences, and writes the contents to a 
+    text file 
+    
+    Arguments:
+        url {string} -- web url to 10Q
+        index {} -- 1-indexed index of url in the links.txt file 
+    
+    Returns:
+        Nothing -> writes to a text file 
+    """
     #Retrieve document
     document = html_to_text(url)
 
@@ -25,6 +50,14 @@ def makeText(url, index):
     num_good_sents = 0
     good_sents = []
     def check_for_formatting(string):
+        """Simple format check for sentences 
+        
+        Arguments:
+            string {String} -- the sentence to be checked 
+        
+        Returns:
+            Boolean -- whether the sentence passes the regex test 
+        """
         #Ignore sentences with annoying syntax
         #TODO: figure out how to remove backslash and maybe also remove tabs?
         regex = re.compile('[☒_☐@#^&*()<>?/\|}{~:]|\s\s')
@@ -40,17 +73,19 @@ def makeText(url, index):
     print("Total acceptable sentences =",num_good_sents)
     #Converting the sentences to a document
     good_doc = " ".join(good_sents)
-    text_file = open("txt_files/" + str(index) + ".txt", "w")
+    text_file = open("txt_files/" + str(index - 1) + ".txt", "w")
     text_file.write(good_doc)
     text_file.close()
 
 
 
-'''
-Opens every 10Q text file and reads its contents as a string. 
-Returns a list of strings
-'''
+
 def txtToStrings():
+    """Opens every 10Q text file and reads its contents as a string. 
+    
+    Returns:
+        List<String> -- List of strings, where each string corresopnds to the text of a 10Q
+    """
     all_urls = open('links.txt').read().splitlines()
     all_docs = []
     for i in range(len(all_urls)):
@@ -64,15 +99,19 @@ def txtToStrings():
 
 
 
-'''
-Opens a specific 10Q textfile and reads its contents as a string. 
-Returns a single string
 
-Requires: 
-    idx is an integer corresponding to the line number on the links.txt text file. 
-    Note that idx should be 1-indexed, as 0-indexing is handled internally. 
-'''
 def txtToString(idx):
+    """Opens a specific 10Q textfile and reads its contents as a string. 
+    Returns a single string
+    
+    Arguments:
+        idx {int} -- int corresponding to the line number on the links.txt text file. 
+        Note that idx should be 1-indexed, as 0-indexing is handled internally. 
+    
+    Returns:
+        [string] -- the contents of the 10Q text file 
+    """
+    
     fname = "txt_files/" + str(idx-1) + ".txt"
     with open(fname) as f:
         print(fname)
@@ -84,7 +123,6 @@ def txtToString(idx):
 
 if __name__ == "main":
     random.seed(15)  # set rng seed for reproducibility
-                
 
     #Select random 10-q from list of all
     all_urls = open('links.txt').read().splitlines()
