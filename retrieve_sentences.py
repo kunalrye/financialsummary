@@ -7,12 +7,12 @@ For a given url, should output:
 Includes minor pre-processing  to remove special chars
 '''
 import pandas as pd
-from link_scraper import get_10qs, query_api
-from html_to_text import *
 import re
 import random
 import nltk
 from nltk.collocations import *
+from link_scraper import get_10qs, query_api
+from html_to_text import *
 
 
 def makeText(url, index):
@@ -46,15 +46,54 @@ def makeText(url, index):
 
 
 
-random.seed(15)  # set rng seed for reproducibility
-# nltk.download('punkt')#NEED TO download sentence parser (if not already done)
+'''
+Opens every 10Q text file and reads its contents as a string. 
+Returns a list of strings
+'''
+def txtToStrings():
+    all_urls = open('links.txt').read().splitlines()
+    all_docs = []
+    for i in range(len(all_urls)):
+        fname = "txt_files/" + str(i) + ".txt"
+        with open(fname) as f:
+            print(fname)
+            txt_file_as_string = f.read()
+        all_docs.append(txt_file_as_string)
+    return all_docs
 
-#Select random 10-q from list of all
-all_urls = open('links.txt').read().splitlines()
-num_urls = len(all_urls)
-rand_url = random.randint(0, num_urls - 1)
-url = all_urls[rand_url]
-makeText(url, rand_url)
+
+
+
+'''
+Opens a specific 10Q textfile and reads its contents as a string. 
+Returns a single string
+
+Requires: 
+    idx is an integer corresponding to the line number on the links.txt text file. 
+    Note that idx should be 1-indexed, as 0-indexing is handled internally. 
+'''
+def txtToString(idx):
+    fname = "txt_files/" + str(idx-1) + ".txt"
+    with open(fname) as f:
+        print(fname)
+        txt_file_as_string = f.read()
+    return txt_file_as_string
+
+
+
+
+if __name__ == "main":
+    random.seed(15)  # set rng seed for reproducibility
+                
+
+    #Select random 10-q from list of all
+    all_urls = open('links.txt').read().splitlines()
+    num_urls = len(all_urls)
+    rand_url = random.randint(0, num_urls - 1)
+    url = all_urls[rand_url]
+    makeText(url, rand_url)
+
+
 
 
 

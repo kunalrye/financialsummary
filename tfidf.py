@@ -2,11 +2,10 @@
 Computes the TF-IDF matrix and the top-n words from the corpus of 187 documents
 Requires: subdirectory txt_files containing the text files of the 10-Qs
 '''
-
-from retrieve_sentences import makeText
-from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np
 import pandas as pd 
+from retrieve_sentences import makeText, txtToStrings
+from sklearn.feature_extraction.text import TfidfVectorizer
 from yellowbrick.text import TSNEVisualizer
 from yellowbrick.datasets import load_hobbies
 
@@ -56,18 +55,6 @@ ENGLISH_STOP_WORDS = [
 
 
 
-def linksToTxt():
-    all_urls = open('links.txt').read().splitlines()
-    all_docs = []
-    for i in range(len(all_urls)):
-        fname = "txt_files/" + str(i) + ".txt"
-        with open(fname) as f:
-            print(fname)
-            txt_file_as_string = f.read()
-        all_docs.append(txt_file_as_string)
-    return all_docs
-
-
 '''
 Requires: 'docs' is a list of strings, where each string is the plain text of the 10Q
 
@@ -92,6 +79,9 @@ def computeTFIDF(docs):
 Requires: 
     tfidf_mat is a numpy array corresponding to the feature matrix
     featureList is a python list of feature names (i.e. unique words)
+
+Returns: 
+    List of top_n words (as a python list)
 '''
 
 def topN(tfidf_mat, featureList):
@@ -105,7 +95,9 @@ def topN(tfidf_mat, featureList):
 
 
 ## compute the top-n words 
-print(topN(*computeTFIDF(linksToTxt())))
+if __name__ == "__main__":
+    print(topN(*computeTFIDF(txtToStrings())))
+
 
 
 
