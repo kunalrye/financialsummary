@@ -1,18 +1,19 @@
 
 10-Q
 1
-txn-10q_20180630.htm
+txn-10q_20180331.htm
 10-Q
 
 
 
 
 
-txn-10q_20180630.htm
+txn-10q_20180331.htm
 
 
 
 
+ 
  
  
 UNITED STATES
@@ -29,7 +30,7 @@ FORM 10-Q
 ☒
 
 QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
-For the quarterly period ended June 30, 2018
+For the quarterly period ended March 31, 2018
 
 
 
@@ -106,7 +107,7 @@ Delaware
 Registrant’s telephone number, including area code 214-479-3773
  
 Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.     Yes  ☒    No  ☐
-Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).     Yes  ☒    No  ☐
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Website, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).     Yes  ☒    No  ☐
 Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
 
 
@@ -140,7 +141,6 @@ Accelerated filer
 
 
 
-
 Non-accelerated filer
 
 ☐
@@ -150,7 +150,6 @@ Non-accelerated filer
 Smaller reporting company
 
 ☐
-
 
 
 
@@ -166,7 +165,6 @@ Emerging growth company
 
 
 
-
  
 
  
@@ -176,7 +174,6 @@ Emerging growth company
  
 
  
-
 
 
 
@@ -185,15 +182,16 @@ If an emerging growth company, indicate by check mark if the registrant has elec
 ☐
 
 
-
 Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).     Yes  ☐    No  ☒
-972,195,072
+978,918,151
 Number of shares of Registrant’s common stock outstanding as of
-July 24, 2018
+April 24, 2018
+ 
  
  
 
 TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES 
+ 
  
 PART I - FINANCIAL INFORMATION
 ITEM 1. Financial Statements.
@@ -210,43 +208,19 @@ For Three Months Ended
 
  
 
- 
-
-For Six Months Ended
-
- 
-
 
 
 Consolidated Statements of Income
 
  
 
-June 30,
-
- 
-
- 
-
-June 30,
+March 31,
 
  
 
 
 
 (Millions of dollars, except share and per-share amounts)
-
- 
-
-2018
-
- 
-
- 
-
-2017
-
- 
 
  
 
@@ -270,7 +244,7 @@ $
 
  
 
-4,017
+3,789
 
  
 
@@ -280,27 +254,7 @@ $
 
  
 
-3,693
-
- 
-
- 
-
-$
-
- 
-
-7,806
-
- 
-
- 
-
-$
-
- 
-
-7,095
+3,402
 
  
 
@@ -314,7 +268,7 @@ Cost of revenue (COR)
 
  
 
-1,398
+1,342
 
  
 
@@ -324,27 +278,7 @@ Cost of revenue (COR)
 
  
 
-1,319
-
- 
-
- 
-
- 
-
- 
-
-2,740
-
- 
-
- 
-
- 
-
- 
-
-2,577
+1,258
 
  
 
@@ -358,7 +292,7 @@ Gross profit
 
  
 
-2,619
+2,447
 
  
 
@@ -368,27 +302,7 @@ Gross profit
 
  
 
-2,374
-
- 
-
- 
-
- 
-
- 
-
-5,066
-
- 
-
- 
-
- 
-
- 
-
-4,518
+2,144
 
  
 
@@ -402,7 +316,7 @@ Research and development (R&D)
 
  
 
-384
+385
 
  
 
@@ -412,27 +326,7 @@ Research and development (R&D)
 
  
 
-378
-
- 
-
- 
-
- 
-
- 
-
-769
-
- 
-
- 
-
- 
-
- 
-
-747
+369
 
  
 
@@ -446,7 +340,7 @@ Selling, general and administrative (SG&A)
 
  
 
-441
+433
 
  
 
@@ -456,27 +350,7 @@ Selling, general and administrative (SG&A)
 
  
 
-434
-
- 
-
- 
-
- 
-
- 
-
-874
-
- 
-
- 
-
- 
-
- 
-
-873
+439
 
  
 
@@ -490,7 +364,7 @@ Acquisition charges
 
  
 
-79
+80
 
  
 
@@ -500,27 +374,7 @@ Acquisition charges
 
  
 
-79
-
- 
-
- 
-
- 
-
- 
-
-159
-
- 
-
- 
-
- 
-
- 
-
-159
+80
 
  
 
@@ -534,17 +388,7 @@ Restructuring charges/other
 
  
 
-3
-
- 
-
- 
-
- 
-
- 
-
-3
+1
 
  
 
@@ -558,16 +402,6 @@ Restructuring charges/other
 
  
 
- 
-
- 
-
- 
-
-7
-
- 
-
 
 
 Operating profit
@@ -578,7 +412,7 @@ Operating profit
 
  
 
-1,712
+1,548
 
  
 
@@ -588,27 +422,7 @@ Operating profit
 
  
 
-1,480
-
- 
-
- 
-
- 
-
- 
-
-3,260
-
- 
-
- 
-
- 
-
- 
-
-2,732
+1,252
 
  
 
@@ -622,7 +436,7 @@ Other income (expense), net (OI&E)
 
  
 
-24
+28
 
  
 
@@ -632,27 +446,7 @@ Other income (expense), net (OI&E)
 
  
 
-26
-
- 
-
- 
-
- 
-
- 
-
-52
-
- 
-
- 
-
- 
-
- 
-
-47
+21
 
  
 
@@ -666,7 +460,7 @@ Interest and debt expense
 
  
 
-30
+23
 
  
 
@@ -676,27 +470,7 @@ Interest and debt expense
 
  
 
-20
-
- 
-
- 
-
- 
-
- 
-
-53
-
- 
-
- 
-
- 
-
- 
-
-38
+18
 
  
 
@@ -710,7 +484,7 @@ Income before income taxes
 
  
 
-1,706
+1,553
 
  
 
@@ -720,27 +494,7 @@ Income before income taxes
 
  
 
-1,486
-
- 
-
- 
-
- 
-
- 
-
-3,259
-
- 
-
- 
-
- 
-
- 
-
-2,741
+1,255
 
  
 
@@ -754,7 +508,7 @@ Provision for income taxes
 
  
 
-301
+187
 
  
 
@@ -764,27 +518,7 @@ Provision for income taxes
 
  
 
-430
-
- 
-
- 
-
- 
-
- 
-
-488
-
- 
-
- 
-
- 
-
- 
-
-688
+258
 
  
 
@@ -798,7 +532,7 @@ $
 
  
 
-1,405
+1,366
 
  
 
@@ -808,51 +542,11 @@ $
 
  
 
-1,056
-
- 
-
- 
-
-$
-
- 
-
-2,771
-
- 
-
- 
-
-$
-
- 
-
-2,053
+997
 
  
 
 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
  
 
@@ -900,26 +594,6 @@ Earnings per common share (EPS):
 
  
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 
 
 Basic
@@ -930,7 +604,7 @@ $
 
  
 
-1.43
+1.38
 
  
 
@@ -940,27 +614,7 @@ $
 
  
 
-1.05
-
- 
-
- 
-
-$
-
- 
-
-2.80
-
- 
-
- 
-
-$
-
- 
-
-2.04
+.99
 
  
 
@@ -974,7 +628,7 @@ $
 
  
 
-1.40
+1.35
 
  
 
@@ -984,51 +638,11 @@ $
 
  
 
-1.03
-
- 
-
- 
-
-$
-
- 
-
-2.75
-
- 
-
- 
-
-$
-
- 
-
-2.00
+.97
 
  
 
 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
  
 
@@ -1076,26 +690,6 @@ Average shares outstanding (millions):
 
  
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 
 
 Basic
@@ -1106,7 +700,7 @@ Basic
 
  
 
-977
+983
 
  
 
@@ -1116,27 +710,7 @@ Basic
 
  
 
-994
-
- 
-
- 
-
- 
-
- 
-
-980
-
- 
-
- 
-
- 
-
- 
-
-996
+998
 
  
 
@@ -1150,7 +724,7 @@ Diluted
 
  
 
-997
+1,005
 
  
 
@@ -1160,51 +734,11 @@ Diluted
 
  
 
-1,015
-
- 
-
- 
-
- 
-
- 
-
-1,001
-
- 
-
- 
-
- 
-
- 
-
-1,017
+1,019
 
  
 
 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
  
 
@@ -1252,26 +786,6 @@ $
 
  
 
- 
-
-$
-
- 
-
-1.24
-
- 
-
- 
-
-$
-
- 
-
-1.00
-
- 
-
 
 
  
@@ -1280,7 +794,7 @@ $
 
 
 
-A portion of Net income is allocated to unvested restricted stock units (RSUs) on which we pay dividend equivalents. Diluted EPS is calculated using the following:
+As a result of accounting rule ASC 260, which requires a portion of Net income to be allocated to unvested restricted stock units (RSUs) on which we pay dividend equivalents, diluted EPS is calculated using the following:
 
  
 
@@ -1300,7 +814,7 @@ $
 
  
 
-1,405
+1,366
 
  
 
@@ -1310,27 +824,7 @@ $
 
  
 
-1,056
-
- 
-
- 
-
-$
-
- 
-
-2,771
-
- 
-
- 
-
-$
-
- 
-
-2,053
+997
 
  
 
@@ -1358,26 +852,6 @@ Income allocated to RSUs
 
 )
 
- 
-
- 
-
- 
-
-(22
-
-)
-
- 
-
- 
-
- 
-
-(20
-
-)
-
 
 
 Income allocated to common stock for diluted EPS
@@ -1388,7 +862,7 @@ $
 
  
 
-1,394
+1,355
 
  
 
@@ -1398,51 +872,11 @@ $
 
  
 
-1,046
-
- 
-
- 
-
-$
-
- 
-
-2,749
-
- 
-
- 
-
-$
-
- 
-
-2,033
+987
 
  
 
 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
  
 
@@ -1490,26 +924,6 @@ See accompanying notes.
 
  
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 
  
  
@@ -1532,43 +946,19 @@ For Three Months Ended
 
  
 
- 
-
-For Six Months Ended
-
- 
-
 
 
 Consolidated Statements of Comprehensive Income
 
  
 
-June 30,
-
- 
-
- 
-
-June 30,
+March 31,
 
  
 
 
 
 (Millions of dollars)
-
- 
-
-2018
-
- 
-
- 
-
-2017
-
- 
 
  
 
@@ -1592,7 +982,7 @@ $
 
  
 
-1,405
+1,366
 
  
 
@@ -1602,53 +992,13 @@ $
 
  
 
-1,056
-
- 
-
- 
-
-$
-
- 
-
-2,771
-
- 
-
- 
-
-$
-
- 
-
-2,053
+997
 
  
 
 
 
 Other comprehensive income (loss), net of taxes
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
  
 
@@ -1694,26 +1044,6 @@ Net actuarial losses of defined benefit plans:
 
  
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 
 
 Adjustments
@@ -1724,17 +1054,7 @@ Adjustments
 
  
 
-15
-
- 
-
- 
-
- 
-
- 
-
-(3
+(16
 
 )
 
@@ -1744,17 +1064,7 @@ Adjustments
 
  
 
-(1
-
-)
-
- 
-
- 
-
- 
-
-(15
+(12
 
 )
 
@@ -1778,27 +1088,7 @@ Recognized within Net income
 
  
 
-11
-
- 
-
- 
-
- 
-
- 
-
-18
-
- 
-
- 
-
- 
-
- 
-
-23
+12
 
  
 
@@ -1826,26 +1116,6 @@ Prior service credit of defined benefit plans:
 
  
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 
 
 Recognized within Net income
@@ -1870,114 +1140,6 @@ Recognized within Net income
 
 )
 
- 
-
- 
-
- 
-
-(2
-
-)
-
- 
-
- 
-
- 
-
-(2
-
-)
-
-
-
-Derivative instruments:
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-
-Change in fair value
-
- 
-
- 
-
- 
-
-(2
-
-)
-
- 
-
- 
-
- 
-
-—
-
- 
-
- 
-
- 
-
- 
-
-(2
-
-)
-
- 
-
- 
-
- 
-
-—
-
- 
-
 
 
 Other comprehensive income (loss)
@@ -1988,7 +1150,9 @@ Other comprehensive income (loss)
 
  
 
-21
+(8
+
+)
 
  
 
@@ -1996,31 +1160,9 @@ Other comprehensive income (loss)
 
  
 
- 
+(1
 
-7
-
- 
-
- 
-
- 
-
- 
-
-13
-
- 
-
- 
-
- 
-
- 
-
-6
-
- 
+)
 
 
 
@@ -2032,7 +1174,7 @@ $
 
  
 
-1,426
+1,358
 
  
 
@@ -2042,51 +1184,11 @@ $
 
  
 
-1,063
-
- 
-
- 
-
-$
-
- 
-
-2,784
-
- 
-
- 
-
-$
-
- 
-
-2,059
+996
 
  
 
 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
  
 
@@ -2134,26 +1236,6 @@ See accompanying notes.
 
  
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 
  
  
@@ -2173,7 +1255,7 @@ TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
 
  
 
-June 30,
+March 31,
 
  
 
@@ -2281,7 +1363,7 @@ $
 
  
 
-2,919
+1,717
 
  
 
@@ -2305,7 +1387,7 @@ Short-term investments
 
  
 
-2,211
+2,362
 
  
 
@@ -2321,7 +1403,7 @@ Short-term investments
 
 
 
-Accounts receivable, net of allowances of ($9) and ($8)
+Accounts receivable, net of allowances of ($8) and ($8)
 
  
 
@@ -2329,7 +1411,7 @@ Accounts receivable, net of allowances of ($9) and ($8)
 
  
 
-1,551
+1,454
 
  
 
@@ -2353,7 +1435,7 @@ Raw materials
 
  
 
-155
+144
 
  
 
@@ -2377,7 +1459,7 @@ Work in process
 
  
 
-1,079
+1,076
 
  
 
@@ -2401,7 +1483,7 @@ Finished goods
 
  
 
-856
+812
 
  
 
@@ -2425,7 +1507,7 @@ Inventories
 
  
 
-2,090
+2,032
 
  
 
@@ -2449,7 +1531,7 @@ Prepaid expenses and other current assets
 
  
 
-821
+1,025
 
  
 
@@ -2473,7 +1555,7 @@ Total current assets
 
  
 
-9,592
+8,590
 
  
 
@@ -2497,7 +1579,7 @@ Property, plant and equipment at cost
 
  
 
-5,025
+4,907
 
  
 
@@ -2521,7 +1603,7 @@ Accumulated depreciation
 
  
 
-(2,170
+(2,171
 
 )
 
@@ -2545,7 +1627,7 @@ Property, plant and equipment
 
  
 
-2,855
+2,736
 
  
 
@@ -2617,7 +1699,7 @@ Acquisition-related intangibles
 
  
 
-787
+866
 
  
 
@@ -2641,7 +1723,7 @@ Deferred tax assets
 
  
 
-205
+218
 
  
 
@@ -2665,7 +1747,7 @@ Capitalized software licenses
 
  
 
-101
+102
 
  
 
@@ -2689,7 +1771,7 @@ Overfunded retirement plans
 
  
 
-205
+215
 
  
 
@@ -2713,7 +1795,7 @@ Other long-term assets
 
  
 
-149
+147
 
  
 
@@ -2737,7 +1819,7 @@ $
 
  
 
-18,527
+17,507
 
  
 
@@ -2833,7 +1915,7 @@ $
 
  
 
-—
+500
 
  
 
@@ -2857,7 +1939,7 @@ Accounts payable
 
  
 
-492
+488
 
  
 
@@ -2881,7 +1963,7 @@ Accrued compensation
 
  
 
-472
+344
 
  
 
@@ -2905,7 +1987,7 @@ Income taxes payable
 
  
 
-120
+133
 
  
 
@@ -2929,7 +2011,7 @@ Accrued expenses and other liabilities
 
  
 
-382
+395
 
  
 
@@ -2953,7 +2035,7 @@ Total current liabilities
 
  
 
-1,466
+1,860
 
  
 
@@ -2977,7 +2059,7 @@ Long-term debt
 
  
 
-5,066
+3,578
 
  
 
@@ -3001,7 +2083,7 @@ Underfunded retirement plans
 
  
 
-82
+92
 
  
 
@@ -3025,7 +2107,7 @@ Deferred tax liabilities
 
  
 
-50
+53
 
  
 
@@ -3049,7 +2131,7 @@ Other long-term liabilities
 
  
 
-1,229
+1,282
 
  
 
@@ -3073,7 +2155,7 @@ Total liabilities
 
  
 
-7,893
+6,865
 
  
 
@@ -3217,7 +2299,7 @@ Paid-in capital
 
  
 
-1,867
+1,770
 
  
 
@@ -3241,7 +2323,7 @@ Retained earnings
 
  
 
-36,413
+35,619
 
  
 
@@ -3281,7 +2363,7 @@ Treasury common stock at cost
 
 
 
-Shares: June 30, 2018 – 766,450,417; December 31, 2017 – 757,657,217
+Shares: March 31, 2018 – 759,098,020; December 31, 2017 – 757,657,217
 
  
 
@@ -3289,7 +2371,7 @@ Shares: June 30, 2018 – 766,450,417; December 31, 2017 – 757,657,217
 
  
 
-(29,016
+(28,096
 
 )
 
@@ -3313,7 +2395,7 @@ Accumulated other comprehensive income (loss), net of taxes (AOCI)
 
  
 
-(371
+(392
 
 )
 
@@ -3337,7 +2419,7 @@ Total stockholders’ equity
 
  
 
-10,634
+10,642
 
  
 
@@ -3361,7 +2443,7 @@ $
 
  
 
-18,527
+17,507
 
  
 
@@ -3441,7 +2523,7 @@ TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
 
  
 
-For Six Months Ended
+For Three Months Ended
 
  
 
@@ -3451,7 +2533,7 @@ Consolidated Statements of Cash Flows
 
  
 
-June 30,
+March 31,
 
  
 
@@ -3505,7 +2587,7 @@ $
 
  
 
-2,771
+1,366
 
  
 
@@ -3515,7 +2597,7 @@ $
 
  
 
-2,053
+997
 
  
 
@@ -3553,7 +2635,7 @@ Depreciation
 
  
 
-281
+137
 
  
 
@@ -3563,7 +2645,7 @@ Depreciation
 
  
 
-273
+139
 
  
 
@@ -3577,7 +2659,7 @@ Amortization of acquisition-related intangibles
 
  
 
-159
+80
 
  
 
@@ -3587,7 +2669,7 @@ Amortization of acquisition-related intangibles
 
  
 
-159
+80
 
  
 
@@ -3601,7 +2683,7 @@ Amortization of capitalized software
 
  
 
-22
+12
 
  
 
@@ -3611,7 +2693,7 @@ Amortization of capitalized software
 
  
 
-23
+11
 
  
 
@@ -3625,7 +2707,7 @@ Stock compensation
 
  
 
-144
+70
 
  
 
@@ -3635,7 +2717,7 @@ Stock compensation
 
  
 
-143
+68
 
  
 
@@ -3649,7 +2731,7 @@ Deferred taxes
 
  
 
-(30
+(31
 
 )
 
@@ -3659,9 +2741,9 @@ Deferred taxes
 
  
 
-(45
+9
 
-)
+ 
 
 
 
@@ -3697,7 +2779,7 @@ Accounts receivable
 
  
 
-(273
+(176
 
 )
 
@@ -3707,7 +2789,7 @@ Accounts receivable
 
  
 
-(200
+(68
 
 )
 
@@ -3721,7 +2803,7 @@ Inventories
 
  
 
-(155
+(97
 
 )
 
@@ -3731,7 +2813,7 @@ Inventories
 
  
 
-(157
+(53
 
 )
 
@@ -3745,7 +2827,7 @@ Prepaid expenses and other current assets
 
  
 
-417
+356
 
  
 
@@ -3755,9 +2837,9 @@ Prepaid expenses and other current assets
 
  
 
-12
+(71
 
- 
+)
 
 
 
@@ -3769,7 +2851,7 @@ Accounts payable and accrued expenses
 
  
 
-(45
+(51
 
 )
 
@@ -3779,7 +2861,7 @@ Accounts payable and accrued expenses
 
  
 
-(66
+(78
 
 )
 
@@ -3793,7 +2875,7 @@ Accrued compensation
 
  
 
-(249
+(372
 
 )
 
@@ -3803,7 +2885,7 @@ Accrued compensation
 
  
 
-(225
+(356
 
 )
 
@@ -3817,7 +2899,7 @@ Income taxes payable
 
  
 
-(11
+(131
 
 )
 
@@ -3827,9 +2909,9 @@ Income taxes payable
 
  
 
-(236
+149
 
-)
+ 
 
 
 
@@ -3841,7 +2923,9 @@ Changes in funded status of retirement plans
 
  
 
-14
+(15
+
+)
 
  
 
@@ -3849,11 +2933,9 @@ Changes in funded status of retirement plans
 
  
 
- 
+(14
 
-5
-
- 
+)
 
 
 
@@ -3865,7 +2947,7 @@ Other
 
  
 
-(107
+(36
 
 )
 
@@ -3875,7 +2957,7 @@ Other
 
  
 
-(27
+(18
 
 )
 
@@ -3889,7 +2971,7 @@ Cash flows from operating activities
 
  
 
-2,938
+1,112
 
  
 
@@ -3899,7 +2981,7 @@ Cash flows from operating activities
 
  
 
-1,712
+795
 
  
 
@@ -3961,7 +3043,7 @@ Capital expenditures
 
  
 
-(438
+(189
 
 )
 
@@ -3971,7 +3053,7 @@ Capital expenditures
 
  
 
-(278
+(127
 
 )
 
@@ -4009,7 +3091,7 @@ Purchases of short-term investments
 
  
 
-(2,209
+(996
 
 )
 
@@ -4019,7 +3101,7 @@ Purchases of short-term investments
 
  
 
-(1,887
+(757
 
 )
 
@@ -4033,7 +3115,7 @@ Proceeds from short-term investments
 
  
 
-2,830
+1,455
 
  
 
@@ -4043,7 +3125,7 @@ Proceeds from short-term investments
 
  
 
-2,385
+1,120
 
  
 
@@ -4057,7 +3139,9 @@ Other
 
  
 
-2
+(4
+
+)
 
  
 
@@ -4065,9 +3149,7 @@ Other
 
  
 
- 
-
-(1
+(9
 
 )
 
@@ -4081,7 +3163,7 @@ Cash flows from investing activities
 
  
 
-185
+266
 
  
 
@@ -4091,7 +3173,7 @@ Cash flows from investing activities
 
  
 
-259
+267
 
  
 
@@ -4140,30 +3222,6 @@ Cash flows from financing activities
  
 
  
-
- 
-
-
-
-Proceeds from issuance of long-term debt
-
- 
-
- 
-
- 
-
-1,500
-
- 
-
- 
-
- 
-
- 
-
-605
 
  
 
@@ -4177,9 +3235,7 @@ Repayment of debt
 
  
 
-(500
-
-)
+—
 
  
 
@@ -4187,7 +3243,9 @@ Repayment of debt
 
  
 
-(625
+ 
+
+(250
 
 )
 
@@ -4201,7 +3259,7 @@ Dividends paid
 
  
 
-(1,217
+(611
 
 )
 
@@ -4211,7 +3269,7 @@ Dividends paid
 
  
 
-(998
+(500
 
 )
 
@@ -4225,7 +3283,7 @@ Stock repurchases
 
  
 
-(1,891
+(873
 
 )
 
@@ -4235,7 +3293,7 @@ Stock repurchases
 
  
 
-(1,200
+(550
 
 )
 
@@ -4249,7 +3307,7 @@ Proceeds from common stock transactions
 
  
 
-280
+178
 
  
 
@@ -4259,7 +3317,7 @@ Proceeds from common stock transactions
 
  
 
-245
+161
 
  
 
@@ -4273,7 +3331,7 @@ Other
 
  
 
-(32
+(11
 
 )
 
@@ -4283,7 +3341,7 @@ Other
 
  
 
-(12
+(4
 
 )
 
@@ -4297,7 +3355,7 @@ Cash flows from financing activities
 
  
 
-(1,860
+(1,317
 
 )
 
@@ -4307,7 +3365,7 @@ Cash flows from financing activities
 
  
 
-(1,985
+(1,143
 
 )
 
@@ -4345,7 +3403,7 @@ Net change in Cash and cash equivalents
 
  
 
-1,263
+61
 
  
 
@@ -4355,7 +3413,7 @@ Net change in Cash and cash equivalents
 
  
 
-(14
+(81
 
 )
 
@@ -4393,7 +3451,7 @@ $
 
  
 
-2,919
+1,717
 
  
 
@@ -4403,7 +3461,7 @@ $
 
  
 
-1,140
+1,073
 
  
 
@@ -4498,39 +3556,15 @@ For Three Months Ended
 
  
 
- 
-
-For Six Months Ended
-
- 
-
 
 
  
 
-June 30,
-
- 
-
- 
-
-June 30,
+March 31,
 
  
 
 
-
- 
-
-2018
-
- 
-
- 
-
-2017
-
- 
 
  
 
@@ -4566,26 +3600,6 @@ Revenue:
 
  
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 
 
 Analog
@@ -4594,7 +3608,7 @@ $
 
  
 
-2,690
+2,566
 
  
 
@@ -4604,27 +3618,7 @@ $
 
  
 
-2,411
-
- 
-
- 
-
-$
-
- 
-
-5,256
-
- 
-
- 
-
-$
-
- 
-
-4,667
+2,256
 
  
 
@@ -4636,7 +3630,7 @@ Embedded Processing
 
  
 
-943
+926
 
  
 
@@ -4646,27 +3640,7 @@ Embedded Processing
 
  
 
-868
-
- 
-
- 
-
- 
-
- 
-
-1,869
-
- 
-
- 
-
- 
-
- 
-
-1,671
+803
 
  
 
@@ -4678,7 +3652,7 @@ Other
 
  
 
-384
+297
 
  
 
@@ -4688,27 +3662,7 @@ Other
 
  
 
-414
-
- 
-
- 
-
- 
-
- 
-
-681
-
- 
-
- 
-
- 
-
- 
-
-757
+343
 
  
 
@@ -4720,7 +3674,7 @@ $
 
  
 
-4,017
+3,789
 
  
 
@@ -4730,51 +3684,11 @@ $
 
  
 
-3,693
-
- 
-
- 
-
-$
-
- 
-
-7,806
-
- 
-
- 
-
-$
-
- 
-
-7,095
+3,402
 
  
 
 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
  
 
@@ -4818,26 +3732,6 @@ Operating profit:
 
  
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 
 
 Analog
@@ -4846,7 +3740,7 @@ $
 
  
 
-1,263
+1,166
 
  
 
@@ -4856,27 +3750,7 @@ $
 
  
 
-1,077
-
- 
-
- 
-
-$
-
- 
-
-2,429
-
- 
-
- 
-
-$
-
- 
-
-2,012
+935
 
  
 
@@ -4888,7 +3762,7 @@ Embedded Processing
 
  
 
-334
+328
 
  
 
@@ -4898,27 +3772,7 @@ Embedded Processing
 
  
 
-271
-
- 
-
- 
-
- 
-
- 
-
-662
-
- 
-
- 
-
- 
-
- 
-
-511
+240
 
  
 
@@ -4930,7 +3784,7 @@ Other
 
  
 
-115
+54
 
  
 
@@ -4940,27 +3794,7 @@ Other
 
  
 
-132
-
- 
-
- 
-
- 
-
- 
-
-169
-
- 
-
- 
-
- 
-
- 
-
-209
+77
 
  
 
@@ -4972,7 +3806,7 @@ $
 
  
 
-1,712
+1,548
 
  
 
@@ -4982,27 +3816,7 @@ $
 
  
 
-1,480
-
- 
-
- 
-
-$
-
- 
-
-3,260
-
- 
-
- 
-
-$
-
- 
-
-2,732
+1,252
 
  
 
@@ -5019,39 +3833,15 @@ For Three Months Ended
 
  
 
- 
-
-For Six Months Ended
-
- 
-
 
 
  
 
-June 30,
-
- 
-
- 
-
-June 30,
+March 31,
 
  
 
 
-
- 
-
-2018
-
- 
-
- 
-
-2017
-
- 
 
  
 
@@ -5087,26 +3877,6 @@ Revenue:
 
  
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 
 
 United States
@@ -5115,7 +3885,7 @@ $
 
  
 
-614
+504
 
  
 
@@ -5125,27 +3895,7 @@ $
 
  
 
-472
-
- 
-
- 
-
-$
-
- 
-
-1,118
-
- 
-
- 
-
-$
-
- 
-
-871
+399
 
  
 
@@ -5157,7 +3907,7 @@ Asia (a)
 
  
 
-2,340
+2,215
 
  
 
@@ -5167,27 +3917,7 @@ Asia (a)
 
  
 
-2,159
-
- 
-
- 
-
- 
-
- 
-
-4,555
-
- 
-
- 
-
- 
-
- 
-
-4,163
+2,004
 
  
 
@@ -5199,7 +3929,7 @@ Europe, Middle East and Africa
 
  
 
-764
+771
 
  
 
@@ -5209,27 +3939,7 @@ Europe, Middle East and Africa
 
  
 
-733
-
- 
-
- 
-
- 
-
- 
-
-1,535
-
- 
-
- 
-
- 
-
- 
-
-1,416
+683
 
  
 
@@ -5241,7 +3951,7 @@ Japan
 
  
 
-218
+220
 
  
 
@@ -5251,27 +3961,7 @@ Japan
 
  
 
-261
-
- 
-
- 
-
- 
-
- 
-
-438
-
- 
-
- 
-
- 
-
- 
-
-511
+250
 
  
 
@@ -5283,7 +3973,7 @@ Rest of world
 
  
 
-81
+79
 
  
 
@@ -5293,27 +3983,7 @@ Rest of world
 
  
 
-68
-
- 
-
- 
-
- 
-
- 
-
-160
-
- 
-
- 
-
- 
-
- 
-
-134
+66
 
  
 
@@ -5325,7 +3995,7 @@ $
 
  
 
-4,017
+3,789
 
  
 
@@ -5335,27 +4005,7 @@ $
 
  
 
-3,693
-
- 
-
- 
-
-$
-
- 
-
-7,806
-
- 
-
- 
-
-$
-
- 
-
-7,095
+3,402
 
  
 
@@ -5366,7 +4016,7 @@ $
 
 (a)
 
-Revenue from products shipped into China, including Hong Kong, was $1.7 billion and $1.6 billion in the second quarters of 2018 and 2017, respectively, and $3.3 billion and $3.1 billion in the first six months of 2018 and 2017, respectively.
+Revenue from products shipped into China, including Hong Kong, was $1.6 billion and $1.5 billion in the three months ended March 31, 2018, and March 31, 2017, respectively.
  
  
 6
@@ -5375,7 +4025,7 @@ TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
  
 2. Basis of presentation and significant accounting policies and practices
 Basis of presentation
-The consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States (GAAP) and on the same basis as the audited financial statements included in our annual report on Form 10-K for the year ended December 31, 2017, except for the effects of adopting Accounting Standards Update (ASU) No. 2014-09, Revenue from Contracts with Customers (Topic 606). The Consolidated Statements of Income, Comprehensive Income and Cash Flows for the periods ended June 30, 2018 and 2017, and the Consolidated Balance Sheet as of June 30, 2018, are not audited but reflect all adjustments that are of a normal recurring nature and are necessary for a fair statement of the results of the periods shown. Certain information and note disclosures normally included in annual consolidated financial statements have been omitted pursuant to the rules and regulations of the U.S. Securities and Exchange Commission. Because the consolidated interim financial statements do not include all of the information and notes required by GAAP for a complete set of financial statements, they should be read in conjunction with the audited consolidated financial statements and notes included in our annual report on Form 10-K for the year ended December 31, 2017. The results for the three- and six-month periods are not necessarily indicative of a full year’s results. 
+The consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States (GAAP) and on the same basis as the audited financial statements included in our annual report on Form 10-K for the year ended December 31, 2017, except for the effects of adopting Accounting Standards Update (ASU) No. 2014-09, Revenue from Contracts with Customers (Topic 606). The Consolidated Statements of Income, Comprehensive Income and Cash Flows for the periods ended March 31, 2018 and 2017, and the Consolidated Balance Sheet as of March 31, 2018, are not audited but reflect all adjustments that are of a normal recurring nature and are necessary for a fair statement of the results of the periods shown. Certain information and note disclosures normally included in annual consolidated financial statements have been omitted pursuant to the rules and regulations of the U.S. Securities and Exchange Commission. Because the consolidated interim financial statements do not include all of the information and notes required by GAAP for a complete set of financial statements, they should be read in conjunction with the audited consolidated financial statements and notes included in our annual report on Form 10-K for the year ended December 31, 2017. The results for the three-month periods are not necessarily indicative of a full year’s results. 
 Significant accounting policies and practices
 Revenue recognition 
 We generate revenue primarily from the sale of semiconductor products, either directly to a customer or to a distributor, or at the conclusion of a consignment process. We have a variety of types of contracts with our customers and distributors. In determining whether a contract exists, we evaluate the terms of the agreement, the relationship with the customer or distributor and their ability to pay. 
@@ -5384,12 +4034,12 @@ Revenue from sales of our products that is subject to inventory consignment agre
 The amount of revenue recognized is adjusted based on allowances, which are prepared on a portfolio basis using a most likely amount methodology based on analysis of historical data, current economic conditions and contractual terms. These allowances, which are not material, generally include adjustments for pricing arrangements, product returns and incentives. The length of time between invoicing and payment is not significant under any of our payment terms. In instances where the timing of revenue recognition differs from the timing of invoicing, we have determined our contracts generally do not include a significant financing component.
 In addition, we record allowances for accounts receivable that we estimate may not be collected. We monitor collectability of accounts receivable primarily through review of accounts receivable aging. When collection is at risk, we assess the impact on amounts recorded for bad debts and, if necessary, record a charge in the period such determination is made.
 We recognize shipping fees, if any, received from customers in revenue. We include shipping and handling costs in COR. The majority of our customers pay these fees directly to third parties. 
+Earnings per share (EPS)
+Unvested share-based payment awards that contain non-forfeitable rights to receive dividends or dividend equivalents, such as our restricted stock units (RSUs), are considered to be participating securities and the two-class method is used for purposes of calculating EPS. Under the two-class method, a portion of Net income is allocated to these participating securities and, therefore, is excluded from the calculation of EPS allocated to common stock, as shown in the table below. 
 7
 
 TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES 
  
-Earnings per share (EPS)
-Unvested share-based payment awards that contain non-forfeitable rights to receive dividends or dividend equivalents, such as our restricted stock units (RSUs), are considered to be participating securities and the two-class method is used for purposes of calculating EPS. Under the two-class method, a portion of Net income is allocated to these participating securities and, therefore, is excluded from the calculation of EPS allocated to common stock, as shown in the table below. 
 Computation and reconciliation of earnings per common share are as follows (shares in millions):
  
 
@@ -5398,7 +4048,7 @@ Computation and reconciliation of earnings per common share are as follows (shar
 
  
 
-For Three Months Ended June 30,
+For Three Months Ended March 31,
 
  
 
@@ -5562,7 +4212,7 @@ $
 
  
 
-1,405
+1,366
 
  
 
@@ -5587,682 +4237,6 @@ $
  
 
 $
-
- 
-
-1,056
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-
-Income allocated to RSUs
-
- 
-
- 
-
-(11
-
-)
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-(10
-
-)
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-
-Income allocated to common stock
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-
-for basic EPS calculation
-
-$
-
- 
-
-1,394
-
- 
-
- 
-
- 
-
-977
-
- 
-
- 
-
-$
-
- 
-
-1.43
-
- 
-
- 
-
-$
-
- 
-
-1,046
-
- 
-
- 
-
- 
-
-994
-
- 
-
- 
-
-$
-
- 
-
-1.05
-
- 
-
-
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-
-Adjustment for dilutive shares:
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-
-Stock compensation plans
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-20
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-21
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-
-Diluted EPS:
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-
-Net income
-
-$
-
- 
-
-1,405
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-$
-
- 
-
-1,056
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-
-Income allocated to RSUs
-
- 
-
- 
-
-(11
-
-)
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-(10
-
-)
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-
-Income allocated to common stock
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-
-for diluted EPS calculation
-
-$
-
- 
-
-1,394
-
- 
-
- 
 
  
 
@@ -6272,248 +4246,6 @@ $
 
  
 
-$
-
- 
-
-1.40
-
- 
-
- 
-
-$
-
- 
-
-1,046
-
- 
-
- 
-
- 
-
-1,015
-
- 
-
- 
-
-$
-
- 
-
-1.03
-
- 
-
-
- 
-
-
-
-
- 
-
-For Six Months Ended June 30,
-
- 
-
-
-
- 
-
-2018
-
- 
-
- 
-
-2017
-
- 
-
-
-
- 
-
-Net
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Net
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-
- 
-
-Income
-
- 
-
- 
-
-Shares
-
- 
-
- 
-
-EPS
-
- 
-
- 
-
-Income
-
- 
-
- 
-
-Shares
-
- 
-
- 
-
-EPS
-
- 
-
-
-
-Basic EPS:
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-
-Net income
-
-$
-
- 
-
-2,771
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-$
-
- 
-
-2,053
-
- 
-
- 
-
  
 
  
@@ -6538,7 +4270,7 @@ Income allocated to RSUs
 
  
 
-(23
+(11
 
 )
 
@@ -6566,7 +4298,7 @@ Income allocated to RSUs
 
  
 
-(20
+(10
 
 )
 
@@ -6654,7 +4386,7 @@ $
 
  
 
-2,748
+1,355
 
  
 
@@ -6662,17 +4394,7 @@ $
 
  
 
-980
-
- 
-
- 
-
-$
-
- 
-
-2.80
+983
 
  
 
@@ -6682,15 +4404,7 @@ $
 
  
 
-2,033
-
- 
-
- 
-
- 
-
-996
+1.38
 
  
 
@@ -6700,7 +4414,25 @@ $
 
  
 
-2.04
+987
+
+ 
+
+ 
+
+ 
+
+998
+
+ 
+
+ 
+
+$
+
+ 
+
+.99
 
  
 
@@ -6836,7 +4568,7 @@ Stock compensation plans
 
  
 
-21
+22
 
  
 
@@ -7002,7 +4734,7 @@ $
 
  
 
-2,771
+1,366
 
  
 
@@ -7030,7 +4762,7 @@ $
 
  
 
-2,053
+997
 
  
 
@@ -7060,7 +4792,7 @@ Income allocated to RSUs
 
  
 
-(22
+(11
 
 )
 
@@ -7088,7 +4820,7 @@ Income allocated to RSUs
 
  
 
-(20
+(10
 
 )
 
@@ -7176,7 +4908,7 @@ $
 
  
 
-2,749
+1,355
 
  
 
@@ -7184,17 +4916,7 @@ $
 
  
 
-1,001
-
- 
-
- 
-
-$
-
- 
-
-2.75
+1,005
 
  
 
@@ -7204,15 +4926,7 @@ $
 
  
 
-2,033
-
- 
-
- 
-
- 
-
-1,017
+1.35
 
  
 
@@ -7222,37 +4936,51 @@ $
 
  
 
-2.00
+987
+
+ 
+
+ 
+
+ 
+
+1,019
+
+ 
+
+ 
+
+$
+
+ 
+
+.97
 
  
 
 
  
-Potentially dilutive securities representing 5 million and 6 million shares of common stock that were outstanding during the second quarters of 2018 and 2017, and during the first six months of 2018 and 2017, respectively, were excluded from the computation of diluted earnings per common share for these periods because their effect would have been anti-dilutive.
+Potentially dilutive securities representing 5 million and 6 million shares of common stock that were outstanding during the first quarters of 2018 and 2017, respectively, were excluded from the computation of diluted earnings per common share for these periods because their effect would have been anti-dilutive.
 Derivatives and hedging
 We use derivative financial instruments to manage exposure to foreign exchange risk. These instruments are primarily forward foreign currency exchange contracts, which are used as economic hedges to reduce the earnings impact that exchange rate fluctuations may have on our non-U.S. dollar net balance sheet exposures. Gains and losses from changes in the fair value of these forward foreign currency exchange contracts are credited or charged to OI&E. We do not apply hedge accounting to our foreign currency derivative instruments.
 In connection with the issuance of long-term debt, we may use financial derivatives such as treasury-rate lock agreements that are recognized in AOCI and amortized over the life of the related debt. The results of these derivative transactions have not been material.
+We do not use derivatives for speculative or trading purposes.
+Fair values of financial instruments
+The fair values of our derivative financial instruments were not material as of March 31, 2018. Our investments in cash equivalents, short-term investments and certain long-term investments, as well as our deferred compensation liabilities, are carried at fair value. The carrying values for other current financial assets and liabilities, such as accounts receivable and accounts payable, approximate fair value due to the short maturity of such instruments. The carrying value of our long-term debt approximates the fair value as measured using broker-dealer quotes, which are Level 2 inputs. See Note 4 for a description of fair value and the definition of Level 2 inputs.
+Changes in accounting standards – adopted standards for current period
+ASU No. 2014-09, Revenue from Contracts with Customers (Topic 606) 
+This standard provides a single set of guidelines for revenue recognition to be used across all industries and requires additional disclosures. We adopted Accounting Standards Codification Topic 606 (ASC 606) as of January 1, 2018, using the modified retrospective transition method applied only to contracts that were not completed as of the adoption date. The reported results for 2018 reflect the application of the new accounting guidance, while the reported results for prior period amounts are not adjusted and continue to be reported in accordance with our historical accounting under ASC 605, Revenue Recognition (ASC 605).
 8
 
 TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES 
  
-We do not use derivatives for speculative or trading purposes.
-Fair values of financial instruments
-The fair values of our derivative financial instruments were not material as of June 30, 2018. Our investments in cash equivalents, short-term investments and certain long-term investments, as well as our deferred compensation liabilities, are carried at fair value. The carrying values for other current financial assets and liabilities, such as accounts receivable and accounts payable, approximate fair value due to the short maturity of such instruments. The carrying value of our long-term debt approximates the fair value as measured using broker-dealer quotes, which are Level 2 inputs. See Note 4 for a description of fair value and the definition of Level 2 inputs.
-Changes in accounting standards – adopted standards for current period
-ASU No. 2014-09, Revenue from Contracts with Customers (Topic 606) 
-This standard provides a single set of guidelines for revenue recognition to be used across all industries and requires additional disclosures. We adopted Accounting Standards Codification Topic 606 (ASC 606) as of January 1, 2018, using the modified retrospective transition method applied only to contracts that were not completed as of the adoption date. The reported results for 2018 reflect the application of the new accounting guidance, while the reported results for prior period amounts are not adjusted and continue to be reported in accordance with our historical accounting under ASC 605, Revenue Recognition (ASC 605).
 The most significant impact from adopting the standard relates to our accounting for royalty income on licenses of intellectual property; however, the effect of such change during any individual reporting period will not materially impact our results of operations and financial position. Although royalty income is recorded within OI&E, the new revenue guidance applies to these agreements by analogy, and therefore, such agreements have been evaluated for ASC transition considerations. Under ASC 606, royalty income for our fixed-rate royalty agreements is bifurcated between two performance obligations: providing a right to use our initial patent portfolio and the right to access our future patents when those patents are developed. We have determined that the value of these agreements is allocated more heavily to the initial performance obligation. As a result, income from these agreements is recognized predominately at the time of contract execution rather than ratably over the life of the agreements, accelerating the timing of when we recognize royalty income in OI&E.
 The timing of revenue recognition, billings and cash collections may result in billed accounts receivable, unbilled receivables (contract assets), and customer advances and deposits (contract liabilities). These items are included in other current and non-current assets and liabilities on the Consolidated Balance Sheets.
 The time frame between when the customer places an order for products and when it is shipped is less than 12 months. Generally, we invoice customers for payment upon shipment or when goods are pulled from consignment inventory, which results in an unconditional right to consideration. Our contract assets are primarily related to our rights to consideration for satisfied or partially satisfied performance obligations on our royalty agreements for which payment has not been received as of the reporting date. 
 We recognized an increase to opening retained earnings of $206 million, net of taxes, as of January 1, 2018, due to the cumulative impact of adopting ASC 606, with the impact primarily related to our fixed payment patent licensing agreements that were not completed as of the adoption date. A contract asset of $283 million and deferred tax liabilities of $55 million were recorded as of January 1, 2018, related to the transition period adjustments. 
 Occasionally, as of the end of a reporting period, some of the performance obligations associated with contracts will have been unsatisfied or only partially satisfied. In accordance with the practical expedients available in the guidance, we do not disclose the value of unsatisfied performance obligations for contracts with an original expected duration of one year or less. Similarly, we do not disclose information for variable-rate consideration on our sales-based or usage-based royalties for our patent licenses.
-For royalty income from licensing our patent portfolios, income is allocated to performance obligations that have not yet been satisfied. The remaining performance obligations represent contracted income that has not yet been recognized, including amounts that will be invoiced and recognized as income in future periods. As of June 30, 2018, we had $72 million of remaining performance obligations that had not yet been satisfied. We expect to recognize 22 percent of our remaining performance obligations as income over the next 12 months and the remainder thereafter.
-As of June 30, 2018, we had contract assets of $275 million. During the six months ended June 30, 2018, our contract assets were reduced by $8 million, due to $16 million of cash received offset by $8 million of income recognized.
-9
-
-TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES 
- 
+For royalty income from licensing our patent portfolios, income is allocated to performance obligations that have not yet been satisfied. The remaining performance obligations represent contracted income that has not yet been recognized, including amounts that will be invoiced and recognized as income in future periods. As of March 31, 2018, we had $75 million of remaining performance obligations that had not yet been satisfied. We expect to recognize approximately 20 percent of our remaining performance obligations as income over the next 12 months and the remainder thereafter.
+As of March 31, 2018, we had contract assets of $273 million. During the three months ended March 31, 2018, our contract assets were reduced by $10 million, due to $14 million of cash received offset by $4 million of income recognized.
 We incur commission expenses paid to internal sales personnel that are incremental to obtaining contracts with customers. We generally expense sales commissions when incurred because the amortization period would have been one year or less. These costs are included in SG&A.
 Other standards
 The following standards were adopted during the current period and did not have a material impact on our financial position and results of operations:
@@ -7308,9 +5036,13 @@ Other Income – Gains and Losses from the Derecognition of Nonfinancial Assets 
 January 1, 2018
 
 
+9
+
+TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES 
+ 
 Changes in accounting standards – standards not yet adopted
 ASU No. 2016-02, Leases (Topic 842)
-This standard requires all leases that have a term of over 12 months to be recognized on the balance sheet with the liability for lease payments and the corresponding right-of-use asset initially measured at the present value of amounts expected to be paid over the term. Recognition of the costs of these leases on the income statement will be dependent upon their classification as either an operating or a financing lease. We do not expect to have any financing leases at the time of adoption. This standard will be effective for our interim and annual periods beginning January 1, 2019, and must be applied on a modified retrospective basis. In July 2018, the FASB approved an optional transition method to initially account for the impact of the adoption with a cumulative-effect adjustment to the January 1, 2019, rather than the January 1, 2017, financial statements. This will eliminate the need to restate amounts presented prior to January 1, 2019. We will adopt the standard effective January 1, 2019, and we expect to elect this optional transition method, as well as certain practical expedients permitted under the transition guidance within the standard. We are currently evaluating the potential impact of this standard on our financial position, but we do not expect it to have a material impact on our results of operations.
+This standard requires all leases that have a term of over 12 months to be recognized on the balance sheet with the liability for lease payments and the corresponding right-of-use asset initially measured at the present value of amounts expected to be paid over the term. Recognition of the costs of these leases on the income statement will be dependent upon their classification as either an operating or a financing lease. Costs of an operating lease will continue to be recognized as a single operating expense on a straight-line basis over the lease term. Costs for a financing lease will be disaggregated and recognized as both an operating expense (for the amortization of the right-of-use asset) and interest expense (for interest on the lease liability). This standard will be effective for our interim and annual periods beginning January 1, 2019, and must be applied on a modified retrospective basis. In March 2018, the FASB tentatively approved an optional transition method to initially account for the impact of the adoption with a cumulative-effect adjustment to the January 1, 2019, rather than January 1, 2017, financial statements. This would eliminate the need to restate amounts presented prior to January 1, 2019. We plan to adopt the standard effective January 1, 2019, and expect to elect this optional transition method. We are currently evaluating the potential impact of this standard on our financial position, but we do not expect it to have a material impact on our results of operations.
 ASU No. 2016-13, Financial Instruments – Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments
 This standard requires entities to use a current lifetime expected credit loss methodology to measure impairments of certain financial assets. Using this methodology will result in earlier recognition of losses than under the current incurred loss approach, which requires waiting to recognize a loss until it is probable of having been incurred. There are other provisions within the standard that affect how impairments of other financial assets may be recorded and presented, and that expand disclosures. This standard will be effective for our interim and annual periods beginning January 1, 2020, and permits earlier application but not before periods beginning January 1, 2019. The standard will be applied using a modified retrospective approach. We are currently evaluating the potential impact of this standard, but we do not expect it to have a material impact on our financial position and results of operations.
 ASU No. 2018-02, Income Statement – Reporting Comprehensive Income (Topic 220): Reclassification of Certain Tax Effects from Accumulated Other Comprehensive Income
@@ -7318,17 +5050,17 @@ This standard allows a reclassification of stranded tax effects as a result of t
  
  
 3. Income taxes
-Our Provision for income taxes was $301 million and $430 million for the second quarters of 2018 and 2017, respectively, and $488 million and $688 million for the first six months of 2018 and 2017, respectively. 
+Our Provision for income taxes was $187 million and $258 million for the first quarters of 2018 and 2017, respectively. 
 Our estimated annual effective tax rate is about 20 percent, which does not include discrete tax items. This differs from the 21 percent statutory corporate tax rate due to the effect of U.S. tax benefits, offset by a 2018 transitional tax effect. 
+We have included the provisions of the Tax Act in the calculation of our estimated annual effective tax rate. The estimates could change when additional information on implementation of the provisions of the Tax Act becomes available.
+The Tax Act was enacted on December 22, 2017. We have not completed our accounting for the tax effects of enactment of the Tax Act. We have made reasonable estimates of the tax on indefinitely reinvested earnings and the effects on our existing deferred tax balances. This resulted in additional tax expense in 2017 of $773 million, consisting of $714 million related to the tax on indefinitely reinvested earnings and $59 million related to remeasuring our existing deferred tax balances.
+The tax on indefinitely reinvested earnings is based on our non-U.S. post-1986 earnings and profits (E&P) that we previously deferred from U.S. income taxes. We have not yet completed our calculation of the total post-1986 E&P for these non-U.S. subsidiaries. 
+In the first quarter of 2018 we reduced the amount of income tax expense recorded for indefinitely reinvested earnings to $669 million from $714 million recorded in 2017. This adjustment did not affect the estimated annual effective tax rate for 2018.
+The calculations of the tax effect of the Tax Act for both indefinitely reinvested earnings and deferred tax assets and liabilities are expected to be completed with the preparation of the U.S. 2017 tax return in the third quarter of 2018.
 10
 
 TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES 
  
-We have included the provisions of the Tax Act in the calculation of our estimated annual effective tax rate. The estimates could change when additional information on implementation of the provisions of the Tax Act becomes available.
-The Tax Act was enacted on December 22, 2017. We have not completed our accounting for the tax effects of enactment of the Tax Act. We have made reasonable estimates of the tax on indefinitely reinvested earnings and the effects on our existing deferred tax balances. This resulted in additional tax expense in 2017 of $773 million, consisting of $714 million related to the tax on indefinitely reinvested earnings and $59 million related to remeasuring our existing deferred tax balances.
-The tax on indefinitely reinvested earnings is based on our non-U.S. post-1986 earnings and profits that we previously deferred from U.S. income taxes. We have not yet completed our calculation of the total post-1986 earnings and profits for these non-U.S. subsidiaries. 
-In the first quarter of 2018, we reduced the amount of income tax expense recorded for indefinitely reinvested earnings to $669 million from $714 million recorded in 2017. In the second quarter of 2018, we reduced the amount of income tax expense recorded for the effects of the Tax Act on our deferred tax balances to $50 million from $59 million recorded in 2017. These adjustments did not affect the estimated annual effective tax rate for 2018.
-The calculations of the tax effect of the Tax Act for both indefinitely reinvested earnings and deferred tax assets and liabilities are expected to be completed with the preparation of the U.S. 2017 tax return in the fourth quarter of 2018.
 Provision for income taxes is based on the following:
 
 
@@ -7340,39 +5072,15 @@ For Three Months Ended
 
  
 
- 
-
-For Six Months Ended
-
- 
-
 
 
  
 
-June 30,
-
- 
-
- 
-
-June 30,
+March 31,
 
  
 
 
-
- 
-
-2018
-
- 
-
- 
-
-2017
-
- 
 
  
 
@@ -7394,7 +5102,7 @@ $
 
  
 
-344
+316
 
  
 
@@ -7404,27 +5112,7 @@ $
 
  
 
-458
-
- 
-
- 
-
-$
-
- 
-
-660
-
- 
-
- 
-
-$
-
- 
-
-840
+382
 
  
 
@@ -7436,7 +5124,7 @@ Discrete tax items
 
  
 
-(43
+(129
 
 )
 
@@ -7446,27 +5134,7 @@ Discrete tax items
 
  
 
-(28
-
-)
-
- 
-
- 
-
- 
-
-(172
-
-)
-
- 
-
- 
-
- 
-
-(152
+(124
 
 )
 
@@ -7478,7 +5146,7 @@ $
 
  
 
-301
+187
 
  
 
@@ -7488,51 +5156,11 @@ $
 
  
 
-430
-
- 
-
- 
-
-$
-
- 
-
-488
-
- 
-
- 
-
-$
-
- 
-
-688
+258
 
  
 
 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
  
 
@@ -7572,27 +5200,7 @@ Estimated annual effective tax rate
 
  
 
-31
-
-%
-
- 
-
- 
-
- 
-
-20
-
-%
-
- 
-
- 
-
- 
-
-31
+30
 
 %
 
@@ -7604,7 +5212,7 @@ Actual effective tax rate
 
  
 
-18
+12
 
 %
 
@@ -7614,27 +5222,7 @@ Actual effective tax rate
 
  
 
-29
-
-%
-
- 
-
- 
-
- 
-
-15
-
-%
-
- 
-
- 
-
- 
-
-25
+21
 
 %
 
@@ -7647,10 +5235,6 @@ We classify our investments as available for sale, trading, equity method or non
 Available-for-sale and trading securities are stated at fair value, which is generally based on market prices or broker quotes. See Fair-value considerations below. Unrealized gains and losses from available-for-sale debt securities are recorded as an increase or decrease, net of taxes, in AOCI on our Consolidated Balance Sheets. We record other-than-temporary impairments on available-for-sale debt securities in OI&E in our Consolidated Statements of Income.
 We classify certain mutual funds as trading securities. These mutual funds hold a variety of debt and equity investments intended to generate returns that offset changes in certain deferred compensation liabilities. We record changes in the fair value of these mutual funds and the related deferred compensation liabilities in SG&A.
 Our other investments include equity-method investments and non-marketable equity investments, which are not measured at fair value. These investments consist of interests in venture capital funds and other non-marketable equity securities. Gains and losses from equity-method investments are recognized in OI&E based on our ownership share of the investee’s financial results. 
-11
-
-TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES 
- 
 Details of our investments are as follows:
  
 
@@ -7659,7 +5243,7 @@ Details of our investments are as follows:
 
  
 
-June 30, 2018
+March 31, 2018
 
  
 
@@ -7877,7 +5461,7 @@ $
 
  
 
-441
+369
 
  
 
@@ -7939,7 +5523,7 @@ Corporate obligations
 
  
 
-474
+413
 
  
 
@@ -7949,7 +5533,7 @@ Corporate obligations
 
  
 
-1,150
+764
 
  
 
@@ -8001,7 +5585,7 @@ U.S. government agency and Treasury securities
 
  
 
-1,841
+699
 
  
 
@@ -8011,7 +5595,7 @@ U.S. government agency and Treasury securities
 
  
 
-1,061
+1,598
 
  
 
@@ -8187,7 +5771,7 @@ Total
 
  
 
-2,756
+1,481
 
  
 
@@ -8197,7 +5781,7 @@ Total
 
  
 
-2,211
+2,362
 
  
 
@@ -8497,7 +6081,7 @@ Cash on hand
 
  
 
-163
+236
 
  
 
@@ -8559,7 +6143,7 @@ $
 
  
 
-2,919
+1,717
 
  
 
@@ -8569,7 +6153,7 @@ $
 
  
 
-2,211
+2,362
 
  
 
@@ -8615,9 +6199,13 @@ $
 
 
  
-As of June 30, 2018, and December 31, 2017, unrealized gains and losses associated with our available-for-sale investments were not material. We did not recognize any credit losses related to available-for-sale investments for the first six months of 2018 and 2017.
-Proceeds from sales, redemptions and maturities of short-term available-for-sale investments were $1.38 billion and $1.27 billion for the second quarters of 2018 and 2017, respectively, and $2.83 billion and $2.39 billion for the first six months of 2018 and 2017, respectively. Gross realized gains and losses from these sales were not material.
-The following table presents the aggregate maturities of our available-for-sale investments as of June 30, 2018:
+As of March 31, 2018, and December 31, 2017, unrealized gains and losses associated with our available-for-sale investments were not material. We did not recognize any credit losses related to available-for-sale investments for the three months ended March 31, 2018, and March 31, 2017.
+11
+
+TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES 
+ 
+For the three months ended March 31, 2018, and March 31, 2017, the proceeds from sales, redemptions and maturities of short-term available-for-sale investments were $1.46 billion and $1.12 billion, respectively. Gross realized gains and losses from these sales were not material.
+The following table presents the aggregate maturities of our available-for-sale investments as of March 31, 2018:
  
 
 
@@ -8641,7 +6229,7 @@ $
 
  
 
-4,892
+3,833
 
  
 
@@ -8655,13 +6243,13 @@ One to two years
 
  
 
-75
+10
 
  
 
 
  
-Other-than-temporary declines and impairments in the values of our available-for-sale investments, which were recognized in OI&E, were not material in the first six months of 2018 and 2017.
+Other-than-temporary declines and impairments in the values of our available-for-sale investments, which were recognized in OI&E, were not material in the three months ended March 31, 2018, and March 31, 2017.
 Fair-value considerations
 We measure and report certain financial assets and liabilities at fair value on a recurring basis. Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date.
 The three-level hierarchy discussed below indicates the extent and level of judgment used to estimate fair-value measurements.
@@ -8683,10 +6271,6 @@ Level 1 – Uses unadjusted quoted prices that are available in active markets f
 •
 
 Level 2 – Uses inputs other than Level 1 that are either directly or indirectly observable as of the reporting date through correlation with market data, including quoted prices for similar assets and liabilities in active markets and quoted prices in markets that are not active. Level 2 also includes assets and liabilities that are valued using models or other pricing methodologies that do not require significant judgment since the input assumptions used in the models, such as interest rates and volatility factors, are corroborated by readily observable data. We utilize a third-party data service to provide Level 2 valuations. We verify these valuations for reasonableness relative to unadjusted quotes obtained from brokers or dealers based on observable prices for similar assets in active markets.
-12
-
-TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES 
- 
 
 
 
@@ -8695,7 +6279,7 @@ TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
 
 •
 
-Level 3 – Uses inputs that are unobservable, supported by little or no market activity and reflect the use of significant management judgment. These values are generally determined using pricing models that utilize management estimates of market participant assumptions. As of June 30, 2018 and December 31, 2017, we had no Level 3 assets or liabilities, other than certain assets held by our postretirement plans.
+Level 3 – Uses inputs that are unobservable, supported by little or no market activity and reflect the use of significant management judgment. These values are generally determined using pricing models that utilize management estimates of market participant assumptions. As of March 31, 2018 and December 31, 2017, we had no Level 3 assets or liabilities, other than certain assets held by our postretirement plans.
 The following are our assets and liabilities that were accounted for at fair value on a recurring basis. These tables do not include cash on hand, assets held by our postretirement plans, or assets and liabilities that are measured at historical cost or any basis other than fair value.
  
 
@@ -8704,7 +6288,7 @@ The following are our assets and liabilities that were accounted for at fair val
 
  
 
-June 30, 2018
+March 31, 2018
 
  
 
@@ -8822,7 +6406,7 @@ $
 
  
 
-441
+369
 
  
 
@@ -8842,7 +6426,7 @@ $
 
  
 
-441
+369
 
  
 
@@ -8894,7 +6478,7 @@ Corporate obligations
 
  
 
-1,624
+1,177
 
  
 
@@ -8904,7 +6488,7 @@ Corporate obligations
 
  
 
-1,624
+1,177
 
  
 
@@ -8946,7 +6530,7 @@ U.S. government agency and Treasury securities
 
  
 
-2,902
+2,247
 
  
 
@@ -8956,7 +6540,7 @@ U.S. government agency and Treasury securities
 
  
 
-—
+50
 
  
 
@@ -8966,7 +6550,7 @@ U.S. government agency and Treasury securities
 
  
 
-2,902
+2,297
 
  
 
@@ -9070,7 +6654,7 @@ $
 
  
 
-3,586
+2,859
 
  
 
@@ -9080,7 +6664,7 @@ $
 
  
 
-1,624
+1,227
 
  
 
@@ -9090,7 +6674,7 @@ $
 
  
 
-5,210
+4,086
 
  
 
@@ -9256,7 +6840,7 @@ $
 
  
 
-263
+256
 
  
 
@@ -9276,7 +6860,7 @@ $
 
  
 
-263
+256
 
  
 
@@ -9318,7 +6902,7 @@ $
 
  
 
-263
+256
 
  
 
@@ -9338,7 +6922,7 @@ $
 
  
 
-263
+256
 
  
 
@@ -9376,7 +6960,11 @@ $
  
  
 5. Goodwill and acquisition-related intangibles
-Goodwill was $4.36 billion as of June 30, 2018, and December 31, 2017. There was no impairment of goodwill during the first six months of 2018 or 2017.
+Goodwill was $4.36 billion as of March 31, 2018, and December 31, 2017. There was no impairment of goodwill during the three months ended March 31, 2018, or March 31, 2017.
+12
+
+TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES 
+ 
 The components of Acquisition-related intangibles are as follows:
  
 
@@ -9389,7 +6977,7 @@ Amortization
 
  
 
-June 30, 2018
+March 31, 2018
 
  
 
@@ -9505,7 +7093,7 @@ $
 
  
 
-1,469
+1,415
 
  
 
@@ -9515,7 +7103,7 @@ $
 
  
 
-661
+715
 
  
 
@@ -9571,7 +7159,7 @@ Customer relationships
 
  
 
-684
+659
 
  
 
@@ -9581,7 +7169,7 @@ Customer relationships
 
  
 
-126
+151
 
  
 
@@ -9637,7 +7225,7 @@ $
 
  
 
-2,153
+2,074
 
  
 
@@ -9647,7 +7235,7 @@ $
 
  
 
-787
+866
 
  
 
@@ -9682,7 +7270,7 @@ $
  
 
 
-Amortization of acquisition-related intangibles was $79 million for the second quarters of both 2018 and 2017, and $159 million for the first six months of both 2018 and 2017. Fully amortized assets are written off against accumulated amortization.
+Amortization of acquisition-related intangibles was $80 million for the first quarters of both 2018 and 2017. Fully amortized assets are written off against accumulated amortization.
  
  
 6. Postretirement benefit plans
@@ -9732,7 +7320,7 @@ Defined Benefit
 
 
 
-For Three Months Ended June 30,
+For Three Months Ended March 31,
 
 2018
 
@@ -9786,7 +7374,7 @@ $
 
  
 
-6
+5
 
  
 
@@ -9848,7 +7436,7 @@ Interest cost
 
  
 
-11
+10
 
  
 
@@ -9858,7 +7446,7 @@ Interest cost
 
  
 
-3
+4
 
  
 
@@ -9868,7 +7456,7 @@ Interest cost
 
  
 
-5
+4
 
  
 
@@ -9878,7 +7466,7 @@ Interest cost
 
  
 
-11
+12
 
  
 
@@ -9900,7 +7488,7 @@ Expected return on plan assets
 
  
 
-(10
+(11
 
 )
 
@@ -9920,7 +7508,7 @@ Expected return on plan assets
 
  
 
-(3
+(4
 
 )
 
@@ -9930,7 +7518,7 @@ Expected return on plan assets
 
  
 
-(5
+(4
 
 )
 
@@ -9950,7 +7538,7 @@ Expected return on plan assets
 
  
 
-(15
+(16
 
 )
 
@@ -9972,7 +7560,59 @@ Recognized net actuarial loss
 
  
 
-3
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+ 
+
+7
+
+ 
+
+
+
+Amortization of prior service credit
+
+ 
+
+ 
+
+—
 
  
 
@@ -9992,7 +7632,111 @@ Recognized net actuarial loss
 
  
 
+(1
+
+)
+
+ 
+
+ 
+
+ 
+
+(1
+
+)
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+
+
+Net periodic benefit costs
+
+ 
+
+ 
+
+7
+
+ 
+
+ 
+
+ 
+
+ 
+
+9
+
+ 
+
+ 
+
+ 
+
+ 
+
 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+9
+
+ 
+
+ 
+
+ 
+
+ 
+
+11
+
+ 
+
+
+
+Settlement losses
+
+ 
+
+ 
+
+2
 
  
 
@@ -10012,18 +7756,6 @@ Recognized net actuarial loss
 
  
 
-7
-
- 
-
-
-
-Amortization of prior service credit
-
- 
-
- 
-
 —
 
  
@@ -10054,151 +7786,7 @@ Amortization of prior service credit
 
  
 
-(1
-
-)
-
- 
-
- 
-
- 
-
-(1
-
-)
-
- 
-
- 
-
- 
-
-(1
-
-)
-
-
-
-Net periodic benefit costs
-
- 
-
- 
-
-8
-
- 
-
- 
-
- 
-
- 
-
-10
-
- 
-
- 
-
- 
-
- 
-
-1
-
- 
-
- 
-
- 
-
- 
-
-1
-
- 
-
- 
-
- 
-
- 
-
-8
-
- 
-
- 
-
- 
-
- 
-
-11
-
- 
-
-
-
-Settlement losses
-
- 
-
- 
-
 —
-
- 
-
- 
-
- 
-
- 
-
-4
-
- 
-
- 
-
- 
-
- 
-
-—
-
- 
-
- 
-
- 
-
- 
-
-—
-
- 
-
- 
-
- 
-
- 
-
-1
-
- 
-
- 
-
- 
-
- 
-
-1
 
  
 
@@ -10210,46 +7798,6 @@ $
 
  
 
-8
-
- 
-
- 
-
-$
-
- 
-
-14
-
- 
-
- 
-
-$
-
- 
-
-1
-
- 
-
- 
-
-$
-
- 
-
-1
-
- 
-
- 
-
-$
-
- 
-
 9
 
  
@@ -10257,416 +7805,6 @@ $
  
 
 $
-
- 
-
-12
-
- 
-
-
- 
-
-
-13
-
-TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES 
- 
-
-
-
-
- 
-
-U.S.
-
- 
-
- 
-
-U.S.
-
- 
-
- 
-
-Non-U.S.
-
- 
-
-
-
- 
-
-Defined Benefit
-
- 
-
- 
-
-Retiree Health Care
-
- 
-
- 
-
-Defined Benefit
-
- 
-
-
-
-For Six Months Ended June 30,
-
-2018
-
- 
-
- 
-
-2017
-
- 
-
- 
-
-2018
-
- 
-
- 
-
-2017
-
- 
-
- 
-
-2018
-
- 
-
- 
-
-2017
-
- 
-
-
-
-Service cost
-
-$
-
- 
-
-10
-
- 
-
- 
-
-$
-
- 
-
-11
-
- 
-
- 
-
-$
-
- 
-
-2
-
- 
-
- 
-
-$
-
- 
-
-2
-
- 
-
- 
-
-$
-
- 
-
-18
-
- 
-
- 
-
-$
-
- 
-
-18
-
- 
-
-
-
-Interest cost
-
- 
-
- 
-
-18
-
- 
-
- 
-
- 
-
- 
-
-21
-
- 
-
- 
-
- 
-
- 
-
-7
-
- 
-
- 
-
- 
-
- 
-
-9
-
- 
-
- 
-
- 
-
- 
-
-23
-
- 
-
- 
-
- 
-
- 
-
-22
-
- 
-
-
-
-Expected return on plan assets
-
- 
-
- 
-
-(21
-
-)
-
- 
-
- 
-
- 
-
-(20
-
-)
-
- 
-
- 
-
- 
-
-(7
-
-)
-
- 
-
- 
-
- 
-
-(9
-
-)
-
- 
-
- 
-
- 
-
-(34
-
-)
-
- 
-
- 
-
- 
-
-(31
-
-)
-
-
-
-Recognized net actuarial loss
-
- 
-
- 
-
-8
-
- 
-
- 
-
- 
-
- 
-
-7
-
- 
-
- 
-
- 
-
- 
-
-1
-
- 
-
- 
-
- 
-
- 
-
-2
-
- 
-
- 
-
- 
-
- 
-
-11
-
- 
-
- 
-
- 
-
- 
-
-14
-
- 
-
-
-
-Amortization of prior service credit
-
- 
-
- 
-
-—
-
- 
-
- 
-
- 
-
- 
-
-—
-
- 
-
- 
-
- 
-
- 
-
-(1
-
-)
-
- 
-
- 
-
- 
-
-(2
-
-)
-
- 
-
- 
-
- 
-
-(1
-
-)
-
- 
-
- 
-
- 
-
-(1
-
-)
-
-
-
-Net periodic benefit costs
-
- 
 
  
 
@@ -10676,99 +7814,7 @@ Net periodic benefit costs
 
  
 
- 
-
- 
-
-19
-
- 
-
- 
-
- 
-
- 
-
-2
-
- 
-
- 
-
- 
-
- 
-
-2
-
- 
-
- 
-
- 
-
- 
-
-17
-
- 
-
- 
-
- 
-
- 
-
-22
-
- 
-
-
-
-Settlement losses
-
- 
-
- 
-
-2
-
- 
-
- 
-
- 
-
- 
-
-10
-
- 
-
- 
-
- 
-
- 
-
-—
-
- 
-
- 
-
- 
-
- 
-
-—
-
- 
-
- 
-
- 
+$
 
  
 
@@ -10778,7 +7824,7 @@ Settlement losses
 
  
 
- 
+$
 
  
 
@@ -10786,25 +7832,13 @@ Settlement losses
 
  
 
-
-
-Total, including other postretirement losses
-
-$
-
- 
-
-17
-
- 
-
  
 
 $
 
  
 
-29
+9
 
  
 
@@ -10814,37 +7848,7 @@ $
 
  
 
-2
-
- 
-
- 
-
-$
-
- 
-
-2
-
- 
-
- 
-
-$
-
- 
-
-18
-
- 
-
- 
-
-$
-
- 
-
-23
+11
 
  
 
@@ -10853,10 +7857,13 @@ $
  
 7. Debt and lines of credit
 Short-term borrowings
-We maintain a line of credit to support commercial paper borrowings, if any, and to provide additional liquidity through bank loans. As of June 30, 2018, we had a variable-rate revolving credit facility from a consortium of investment-grade banks that allows us to borrow up to $2 billion until March 2023. The interest rate on borrowings under this credit facility, if drawn, is indexed to the applicable London Interbank Offered Rate (LIBOR). As of June 30, 2018, our credit facility was undrawn, and we had no commercial paper outstanding.
+We maintain a line of credit to support commercial paper borrowings, if any, and to provide additional liquidity through bank loans. As of March 31, 2018, we had a variable-rate revolving credit facility from a consortium of investment-grade banks that allows us to borrow up to $2 billion until March 2023. The interest rate on borrowings under this credit facility, if drawn, is indexed to the applicable London Interbank Offered Rate (LIBOR). As of March 31, 2018, our credit facility was undrawn, and we had no commercial paper outstanding.
 Long-term debt
-We retired $500 million of maturing debt in May 2018.
-In the second quarter of 2018, we issued an aggregate principal amount of $1.5 billion of fixed-rate, long-term debt due in 2048, comprised of the issuance of $1.3 billion in May 2018 and an additional $200 million in June 2018. We incurred $16 million of issuance and other related costs. We received $1.5 billion in proceeds, net of the original issuance discount and premium, to be used for general corporate purposes.
+On April 30, 2018, we agreed to issue $1.30 billion principal amount of debt that we expect to use for general corporate purposes, including to replenish our cash on hand following the repayment of maturing debt. The offering is expected to close on May 7, 2018.
+13
+
+TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES 
+ 
 Long-term debt outstanding is as follows:
  
 
@@ -10865,7 +7872,7 @@ Long-term debt outstanding is as follows:
 
  
 
-June 30,
+March 31,
 
  
 
@@ -10893,17 +7900,17 @@ December 31,
 
 Notes due 2018 at 1.00%
 
-$
-
- 
-
-—
-
  
 
  
 
-$
+500
+
+ 
+
+ 
+
+ 
 
  
 
@@ -11067,35 +8074,13 @@ Notes due 2027 at 2.90%
 
 
 
-Notes due 2048 at 4.15%
-
- 
-
- 
-
-1,500
-
- 
-
- 
-
- 
-
- 
-
-—
-
- 
-
-
-
 Total debt
 
  
 
  
 
-5,100
+4,100
 
  
 
@@ -11117,7 +8102,7 @@ Net unamortized discounts, premiums and debt issuance costs
 
  
 
-(34
+(22
 
 )
 
@@ -11139,7 +8124,7 @@ Total debt, including net unamortized discounts, premiums and debt issuance cost
 
  
 
-5,066
+4,078
 
  
 
@@ -11161,9 +8146,9 @@ Current portion of long-term debt
 
  
 
-—
+(500
 
- 
+)
 
  
 
@@ -11183,7 +8168,7 @@ $
 
  
 
-5,066
+3,578
 
  
 
@@ -11198,12 +8183,8 @@ $
  
 
 
-Interest and debt expense was $30 million and $20 million for the second quarters of 2018 and 2017, respectively, and $53 million and $38 million for the first six months of 2018 and 2017, respectively. This was net of the amortization of the debt discounts, premiums and debt issuance costs. Capitalized interest was not material.
+Interest and debt expense was $23 million and $18 million for the first quarters of 2018 and 2017, respectively. This was net of the amortization of the debt discounts, premiums and debt issuance costs. Capitalized interest was not material.
  
- 
-14
-
-TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES 
  
 8. Contingencies
 Indemnification guarantees
@@ -11219,8 +8200,12 @@ Acquisition charges
 Acquisition charges represent the ongoing amortization of intangible assets resulting from the acquisition of National Semiconductor Corporation. These amounts are included in Other for segment reporting purposes, consistent with how management measures the performance of its segments. See Note 5 for additional information. 
 Restructuring charges/other
 Restructuring charges/other are included in Other for segment reporting purposes.
-We have recognized $21 million of restructuring charges on a cumulative basis through June 30, 2018, for severance and benefit costs related to the previously reported reorganization of the product lines within our two reportable segments. We have paid $18 million to terminated employees for severance and benefits. Any further charges are not expected to be material. 
-We have recognized $36 million of restructuring charges on a cumulative basis through June 30, 2018, for severance and benefits costs, as well as accelerated depreciation, related to the phase out of a manufacturing facility in Greenock, Scotland. Total restructuring charges, primarily severance and benefit costs, are estimated to be about $40 million. The remaining charges are expected to be recognized through 2019.
+14
+
+TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES 
+ 
+As of March 31, 2018, we have recognized $21 million of restructuring charges for severance and benefit costs related to the previously reported reorganization of the product lines within our two reportable segments. We have paid $18 million to terminated employees for severance and benefits. Any further charges are not expected to be material. 
+As of March 31, 2018, we have recognized $33 million of restructuring charges for severance and benefits costs, as well as accelerated depreciation, related to the phase out of a manufacturing facility in Greenock, Scotland. Total restructuring charges, primarily severance and benefit costs, are estimated to be about $40 million. The remaining charges are expected to be recognized through 2019.
 Changes in accrued restructuring balances are as follows:
  
 
@@ -11245,7 +8230,7 @@ Restructuring charges
 
  
 
-4
+1
 
  
 
@@ -11257,9 +8242,9 @@ Non-cash items (a)
 
  
 
-(1
+1
 
-)
+ 
 
 
 
@@ -11269,13 +8254,13 @@ Payments
 
  
 
-(3
+(2
 
 )
 
 
 
-Balance, June 30, 2018
+Balance, March 31, 2018
 
 $
 
@@ -11294,12 +8279,8 @@ $
 
 Reflects charges for impacts of accelerated depreciation and changes in exchange rates.
 The restructuring accrual balances are primarily reported as a component of either Accrued expenses and other liabilities or Other long-term liabilities on our Consolidated Balance Sheets, depending on the expected timing of payment. 
-15
-
-TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES 
- 
 Details on amounts reclassified out of Accumulated other comprehensive income (loss), net of taxes, to Net income
-Our Consolidated Statements of Comprehensive Income include items that have been recognized within Net income during the first six months of 2018 and 2017. The table below details where these transactions are recorded in our Consolidated Statements of Income.
+Our Consolidated Statements of Comprehensive Income include items that have been recognized within Net income during the periods ended March 31, 2018, and March 31, 2017. The table below details where these transactions are recorded in our Consolidated Statements of Income.
  
 
 
@@ -11315,12 +8296,6 @@ For Three Months Ended
 
  
 
-For Six Months Ended
-
- 
-
- 
-
  
 
 
@@ -11329,13 +8304,7 @@ For Six Months Ended
 
  
 
-June 30,
-
- 
-
- 
-
-June 30,
+March 31,
 
  
 
@@ -11344,18 +8313,6 @@ June 30,
 Impact to Related
 
 
-
- 
-
- 
-
-2018
-
- 
-
- 
-
-2017
 
  
 
@@ -11403,26 +8360,6 @@ Net actuarial losses of defined benefit plans:
 
  
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 
 
 Recognized net actuarial loss and Settlement losses (a)
@@ -11433,7 +8370,7 @@ $
 
  
 
-11
+12
 
  
 
@@ -11443,27 +8380,7 @@ $
 
  
 
-16
-
- 
-
- 
-
-$
-
- 
-
-23
-
- 
-
- 
-
-$
-
- 
-
-34
+18
 
  
 
@@ -11481,7 +8398,7 @@ Tax effect
 
  
 
-(2
+(3
 
 )
 
@@ -11491,27 +8408,7 @@ Tax effect
 
  
 
-(5
-
-)
-
- 
-
- 
-
- 
-
-(5
-
-)
-
- 
-
- 
-
- 
-
-(11
+(6
 
 )
 
@@ -11539,27 +8436,7 @@ $
 
  
 
-11
-
- 
-
- 
-
-$
-
- 
-
-18
-
- 
-
- 
-
-$
-
- 
-
-23
+12
 
  
 
@@ -11568,26 +8445,6 @@ $
 Decrease to Net income
 
 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
  
 
@@ -11643,26 +8500,6 @@ Prior service credit of defined benefit plans:
 
  
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 
 
 Amortization of prior service credit (a)
@@ -11683,27 +8520,7 @@ $
 
  
 
-(2
-
-)
-
- 
-
-$
-
- 
-
-(2
-
-)
-
- 
-
-$
-
- 
-
-(3
+(1
 
 )
 
@@ -11731,27 +8548,7 @@ Tax effect
 
  
 
-1
-
- 
-
- 
-
- 
-
- 
-
 —
-
- 
-
- 
-
- 
-
- 
-
-1
 
  
 
@@ -11785,26 +8582,6 @@ $
 
  
 
-$
-
- 
-
-(2
-
-)
-
- 
-
-$
-
- 
-
-(2
-
-)
-
- 
-
 Increase to Net income
 
 
@@ -11816,11 +8593,11 @@ Increase to Net income
 
 Detailed in Note 6.
 Stock compensation
-Total shares of 2,135,405 and 9,028,819 were issued from treasury shares during the second quarter and first six months of 2018, respectively, related to stock compensation.
+Total shares of 6,893,414 were issued from treasury shares during the first quarter of 2018 related to stock compensation.
  
  
  
-16
+15
 
  
 ITEM 2. Management’s discussion and analysis of financial condition and results of operations.
@@ -11910,7 +8687,7 @@ Unless otherwise noted, changes in our revenue are attributable to changes in cu
 o
 
 New products tend not to have a significant impact on our revenue in any given period because we sell such a large number of products.
-17
+16
 
  
 
@@ -11941,26 +8718,27 @@ o
 
 Over time, we have been allocating resources from areas like manufacturing support and SG&A into R&D activities.
 Performance summary
-Our second-quarter revenue was $4.02 billion, net income was $1.41 billion and earnings per share (EPS) were $1.40. EPS included a 3 cent discrete tax benefit not in our original guidance.
-Revenue increased 9 percent from the same quarter a year ago. Demand for our Analog and Embedded Processing products continued to be strong in the industrial and automotive markets. 
-Our cash flow from operations of $6.6 billion for the trailing 12 months again underscored the strength of our business model. Free cash flow for the trailing 12 months was $5.7 billion, or 36.6 percent of revenue. This reflects the quality of our product portfolio, as well as the efficiency of our manufacturing strategy, including the benefit of 300-millimeter Analog production.
-We have returned $5.6 billion to owners in the past 12 months through stock repurchases and dividends, and our strategy to return to owners all of our free cash flow remains consistent. Over the last 12 months, our dividends represented 41 percent of free cash flow, emphasizing their sustainability.
-We continue to expect our ongoing annual operating tax rate to be about 20 percent in 2018 and 16 percent starting in 2019.
+Our first-quarter revenue was $3.79 billion, net income was $1.37 billion and earnings per share (EPS) were $1.35. Earnings per share include 14 cents in tax-related benefits not in our original guidance.
+Revenue increased 11 percent from the same quarter a year ago. Demand for our Analog and Embedded Processing products continued to be strong in the industrial and automotive markets.
+Our cash flow from operations of $5.7 billion for the trailing 12 months again underscored the strength of our business model. Free cash flow for the trailing 12 months was up 17 percent from a year ago to $4.9 billion, or 32.1 percent of revenue. This reflects the quality of our product portfolio, as well as the efficiency of our manufacturing strategy, including the benefit of 300-millimeter Analog production.
+We have returned $5.1 billion to owners in the past 12 months through stock repurchases and dividends, consistent with our strategy to return to owners all of our free cash flow. Over the last 12 months, our dividends represented 45 percent of free cash flow, emphasizing their sustainability.
+We now expect our ongoing annual operating tax rate to be about 16 percent starting in 2019 and 20 percent in 2018, lower than our previous expectation of 18 percent and 23 percent, respectively.
 For an explanation of free cash flow and the term “annual operating tax rate,” see the Non-GAAP financial information section.
-Results of operations – second-quarter 2018 compared with second-quarter 2017 
-Revenue of $4.02 billion increased $324 million, or 9 percent, due to higher revenue from Analog and Embedded Processing. 
-Gross profit of $2.62 billion was up $245 million, or 10 percent, primarily due to higher revenue. As a percentage of revenue, gross profit increased to 65.2 percent from 64.3 percent.
-Operating expenses (R&D and SG&A) were $825 million compared with $812 million.
-Acquisition charges of $79 million were non-cash. See Note 9 to the financial statements.
-Operating profit was $1.71 billion, or 42.6 percent of revenue, compared with $1.48 billion, or 40.1 percent of revenue.
-OI&E was $24 million of income compared with $26 million of income.
-Our Provision for income taxes was $301 million compared with $430 million, which includes discrete tax benefits of $43 million and $28 million, respectively. The decrease in our tax provision was primarily due to a lower U.S. statutory corporate tax rate and other net benefits resulting from the U.S. Tax Cuts and Jobs Act (the Tax Act), partially offset by higher income before income taxes.
-Our annual operating tax rate, which does not include discrete tax items, is about 20 percent compared with 31 percent in 2017. We use “annual operating tax rate” to describe the estimated annual effective tax rate. The 2018 rate differs from the 21 percent U.S. statutory corporate tax rate due to the effect of U.S. tax benefits, offset by a transitional non-cash tax expense. 
-Net income was $1.41 billion compared with $1.06 billion. EPS was $1.40 compared with $1.03.
-18
+ 
+Results of operations – first-quarter 2018 compared with first-quarter 2017 
+Revenue increased $387 million, or 11 percent, due to higher revenue from Analog and Embedded Processing.
+Gross profit of $2.45 billion was up $303 million, or 14 percent, due to higher revenue and lower manufacturing costs. As a percentage of revenue, gross profit increased to 64.6 percent from 63.0 percent.
+Operating expenses (R&D and SG&A) were $818 million compared with $808 million.
+Acquisition charges of $80 million were non-cash. See Note 9 to the financial statements.
+Operating profit was $1.55 billion, or 40.9 percent of revenue, compared with $1.25 billion, or 36.8 percent of revenue.
+OI&E was $28 million of income compared with $21 million.
+Our Provision for income taxes was $187 million compared with $258 million, which includes discrete tax benefits of $129 million and $124 million, respectively. The decrease in our tax provision was primarily due to a lower U.S. statutory corporate tax rate and other net benefits resulting from the U.S. Tax Cuts and Jobs Act (the Tax Act), partially offset by higher income before income taxes. The $129 million discrete tax benefits include $82 million due to stock-based compensation, $45 million due to updated estimates related to the Tax Act, and $2 million of other net tax benefits.
+Our annual operating tax rate, which does not include discrete tax items, is about 20 percent compared with 31 percent in 2017. We use “annual operating tax rate” to describe the estimated annual effective tax rate. The 2018 rate differs from the 21 percent U.S. statutory corporate tax rate due to the effect of U.S. tax benefits, offset by a transitional non-cash tax expense.
+Net income was $1.37 billion compared with $997 million. EPS was $1.35 compared with $0.97.
+17
 
  
-Second-quarter 2018 segment results
+First-quarter 2018 segment results
 Our segment results compared with the year-ago quarter are as follows:
 Analog (includes Power, Signal Chain and High Volume product lines)
 
@@ -11971,13 +8749,13 @@ Analog (includes Power, Signal Chain and High Volume product lines)
 
  
 
-2Q18
+1Q18
 
  
 
  
 
-2Q17
+1Q17
 
  
 
@@ -11997,7 +8775,7 @@ $
 
  
 
-2,690
+2,566
 
  
 
@@ -12007,7 +8785,7 @@ $
 
  
 
-2,411
+2,256
 
  
 
@@ -12017,7 +8795,7 @@ $
 
  
 
-12
+14
 
 %
 
@@ -12031,7 +8809,7 @@ Operating profit
 
  
 
-1,263
+1,166
 
  
 
@@ -12041,7 +8819,7 @@ Operating profit
 
  
 
-1,077
+935
 
  
 
@@ -12051,7 +8829,7 @@ Operating profit
 
  
 
-17
+25
 
 %
 
@@ -12065,7 +8843,7 @@ Operating profit % of revenue
 
  
 
-47.0
+45.4
 
 %
 
@@ -12075,7 +8853,7 @@ Operating profit % of revenue
 
  
 
-44.7
+41.4
 
 %
 
@@ -12090,7 +8868,7 @@ Operating profit % of revenue
  
 
 
-Analog revenue increased due to Power and, to a lesser extent, Signal Chain. High Volume revenue decreased due to the mix of products shipped. Operating profit increased due to higher revenue and associated gross profit.
+Analog revenue increased due to Power and, to a lesser extent, Signal Chain. High Volume revenue was about even. Operating profit increased due to higher revenue and associated gross profit.
 Embedded Processing (includes Connected Microcontrollers and Processors product lines)
 
 
@@ -12100,13 +8878,13 @@ Embedded Processing (includes Connected Microcontrollers and Processors product 
 
  
 
-2Q18
+1Q18
 
  
 
  
 
-2Q17
+1Q17
 
  
 
@@ -12126,7 +8904,7 @@ $
 
  
 
-943
+926
 
  
 
@@ -12136,7 +8914,7 @@ $
 
  
 
-868
+803
 
  
 
@@ -12146,7 +8924,7 @@ $
 
  
 
-9
+15
 
 %
 
@@ -12160,7 +8938,7 @@ Operating profit
 
  
 
-334
+328
 
  
 
@@ -12170,7 +8948,7 @@ Operating profit
 
  
 
-271
+240
 
  
 
@@ -12180,7 +8958,7 @@ Operating profit
 
  
 
-23
+37
 
 %
 
@@ -12204,7 +8982,7 @@ Operating profit % of revenue
 
  
 
-31.2
+29.9
 
 %
 
@@ -12219,7 +8997,7 @@ Operating profit % of revenue
  
 
 
-Embedded Processing revenue increased in both product lines about equally. Operating profit increased primarily due to higher revenue and associated gross profit.
+Embedded Processing revenue increased in both product lines, led by Processors. Operating profit increased primarily due to higher revenue and associated gross profit.
 Other (includes DLP® products, calculators and custom ASIC products)
 
 
@@ -12229,13 +9007,13 @@ Other (includes DLP® products, calculators and custom ASIC products)
 
  
 
-2Q18
+1Q18
 
  
 
  
 
-2Q17
+1Q17
 
  
 
@@ -12255,7 +9033,7 @@ $
 
  
 
-384
+297
 
  
 
@@ -12265,41 +9043,7 @@ $
 
  
 
-414
-
- 
-
- 
-
- 
-
- 
-
-(7
-
-)%
-
-
-
-Operating profit*
-
- 
-
- 
-
- 
-
-115
-
- 
-
- 
-
- 
-
- 
-
-132
+343
 
  
 
@@ -12315,6 +9059,40 @@ Operating profit*
 
 
 
+Operating profit*
+
+ 
+
+ 
+
+ 
+
+54
+
+ 
+
+ 
+
+ 
+
+ 
+
+77
+
+ 
+
+ 
+
+ 
+
+ 
+
+(30
+
+)%
+
+
+
 Operating profit % of revenue
 
  
@@ -12323,7 +9101,7 @@ Operating profit % of revenue
 
  
 
-29.9
+18.2
 
 %
 
@@ -12333,7 +9111,7 @@ Operating profit % of revenue
 
  
 
-31.9
+22.4
 
 %
 
@@ -12388,464 +9166,21 @@ Operating profit % of revenue
  
 
 
-Other revenue decreased by $30 million, and operating profit declined by $17 million.
-Results of operations – first six months of 2018 compared with first six months of 2017
-Revenue of $7.81 billion increased $711 million, or 10 percent, due to higher revenue from Analog and Embedded Processing. 
-Gross profit of $5.07 billion was up $548 million, or 12 percent, primarily due to higher revenue. As a percentage of revenue, gross profit increased to 64.9 percent from 63.7 percent.
-Operating expenses were $1.64 billion compared with $1.62 billion.
-Acquisition charges of $159 million were non-cash. See Note 9 to the financial statements.
-Operating profit was $3.26 billion, or 41.8 percent of revenue, compared with $2.73 billion, or 38.5 percent of revenue.
-OI&E was $52 million of income compared with $47 million of income.
-Our Provision for income taxes was $488 million compared with $688 million, which includes discrete tax benefits of $172 million and $152 million, respectively. The decrease in our tax provision was primarily due to a lower U.S. statutory corporate tax rate and other net benefits resulting from the Tax Act, partially offset by higher income before income taxes. 
-Net income was $2.77 billion compared with $2.05 billion. EPS was $2.75 compared with $2.00. 
-19
-
- 
-Year-to-date segment results
-Our segment results compared with the year-ago period are as follows:
-Analog
- 
-
-
-
-
- 
-
- 
-
-YTD 2018
-
- 
-
- 
-
-YTD 2017
-
- 
-
- 
-
-Change
-
- 
-
-
-
-Revenue
-
- 
-
-$
-
- 
-
-5,256
-
- 
-
- 
-
-$
-
- 
-
-4,667
-
- 
-
- 
-
- 
-
- 
-
-13
-
-%
-
-
-
-Operating profit
-
- 
-
- 
-
- 
-
-2,429
-
- 
-
- 
-
- 
-
- 
-
-2,012
-
- 
-
- 
-
- 
-
- 
-
-21
-
-%
-
-
-
-Operating profit % of revenue
-
- 
-
- 
-
- 
-
-46.2
-
-%
-
- 
-
- 
-
- 
-
-43.1
-
-%
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-Analog revenue increased due to Power and, to a lesser extent, Signal Chain. High Volume revenue decreased due to the mix of products shipped. Operating profit increased due to higher revenue and associated gross profit.
-Embedded Processing
- 
-
-
-
-
- 
-
- 
-
-YTD 2018
-
- 
-
- 
-
-YTD 2017
-
- 
-
- 
-
-Change
-
- 
-
-
-
-Revenue
-
- 
-
-$
-
- 
-
-1,869
-
- 
-
- 
-
-$
-
- 
-
-1,671
-
- 
-
- 
-
- 
-
- 
-
-12
-
-%
-
-
-
-Operating profit
-
- 
-
- 
-
- 
-
-662
-
- 
-
- 
-
- 
-
- 
-
-511
-
- 
-
- 
-
- 
-
- 
-
-30
-
-%
-
-
-
-Operating profit % of revenue
-
- 
-
- 
-
- 
-
-35.4
-
-%
-
- 
-
- 
-
- 
-
-30.6
-
-%
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-Embedded Processing revenue increased in both product lines, led by Processors. Operating profit increased primarily due to higher revenue and associated gross profit.
-Other
- 
-
-
-
-
- 
-
- 
-
-YTD 2018
-
- 
-
- 
-
-YTD 2017
-
- 
-
- 
-
-Change
-
- 
-
-
-
-Revenue
-
- 
-
-$
-
- 
-
-681
-
- 
-
- 
-
-$
-
- 
-
-757
-
- 
-
- 
-
- 
-
- 
-
-(10
-
-)%
-
-
-
-Operating profit*
-
- 
-
- 
-
- 
-
-169
-
- 
-
- 
-
- 
-
- 
-
-209
-
- 
-
- 
-
- 
-
- 
-
-(19
-
-)%
-
-
-
-Operating profit % of revenue
-
- 
-
- 
-
- 
-
-24.8
-
-%
-
- 
-
- 
-
- 
-
-27.6
-
-%
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-
-* Includes Acquisition charges and Restructuring charges/other.
-
- 
-
-
-Other revenue decreased by $76 million, and operating profit declined by $40 million.
+Other revenue decreased by $46 million, and operating profit declined by $23 million.
 Financial condition
-At the end of the second quarter of 2018, total cash (Cash and cash equivalents plus Short-term investments) was $5.13 billion, an increase of $661 million from the end of 2017.
-Accounts receivable were $1.55 billion, an increase of $273 million compared with the end of 2017. Days sales outstanding at the end of the second quarter of 2018 were 35 compared with 31 at the end of 2017.
-Inventory was $2.09 billion, an increase of $133 million from the end of 2017. Days of inventory at the end of the second quarter of 2018 were 135 compared with 134 at the end of 2017.
+At the end of the first quarter of 2018, total cash (Cash and cash equivalents plus Short-term investments) was $4.08 billion, a decrease of $390 million from the end of 2017.
+Accounts receivable were $1.45 billion, an increase of $176 million compared with the end of 2017. Days sales outstanding at the end of the first quarter of 2018 were 35 compared with 31 at the end of 2017.
+Inventory was $2.03 billion, an increase of $75 million from the end of 2017. Days of inventory at the end of the first quarter of 2018 were 136 compared with 134 at the end of 2017.
 Liquidity and capital resources
-Our primary source of liquidity is cash flow from operations. Additional sources of liquidity are Cash and cash equivalents, Short-term investments and a variable-rate, revolving credit facility. Cash flows from operating activities for the first six months of 2018 were $2.94 billion, an increase of $1.23 billion from the year-ago period. This increase was due to higher Net income and a reduction in cash used for working capital, both of which benefited from a lower tax rate.
-Our revolving credit facility is with a consortium of investment-grade banks and allows us to borrow up to $2 billion until March 2023. This credit facility also serves as support for the issuance of commercial paper. As of June 30, 2018, our credit facility was undrawn, and we had no commercial paper outstanding.
-20
+Our primary source of liquidity is cash flow from operations. Additional sources of liquidity are Cash and cash equivalents, Short-term investments and a variable-rate, revolving credit facility. Cash flows from operating activities for the first three months of 2018 were $1.11 billion, an increase of $317 million from the year-ago period. This increase was primarily due to higher Net income.
+Our revolving credit facility is with a consortium of investment-grade banks and allows us to borrow up to $2 billion until March 2023. This credit facility also serves as support for the issuance of commercial paper. As of March 31, 2018, our credit facility was undrawn, and we had no commercial paper outstanding.
+Investing activities for the first three months of 2018 provided $266 million compared with $267 million in the year-ago period. Capital expenditures were $189 million compared with $127 million in the year-ago period and were primarily for semiconductor manufacturing equipment in both periods. We had proceeds from sales of short-term investments, net of purchases, that provided cash of $459 million compared with $363 million in the year-ago period.
+18
 
  
-Investing activities for the first six months of 2018 provided $185 million compared with $259 million in the year-ago period. Capital expenditures were $438 million compared with $278 million in the year-ago period and were primarily for semiconductor manufacturing equipment in both periods. We had proceeds from sales of short-term investments, net of purchases, that provided cash of $621 million compared with $498 million in the year-ago period.
-Financing activities for the first six months of 2018 used $1.86 billion compared with $1.99 billion in the year-ago period. In 2018, we received net proceeds of $1.50 billion from the issuance of fixed-rate, long-term debt and retired maturing debt of $500 million. In the year-ago period, we received net proceeds of $605 million from the issuance of fixed-rate, long-term debt and retired maturing debt of $625 million. Dividends paid were $1.22 billion compared with $998 million in the year-ago period, reflecting an increase in the dividend rate, partially offset by fewer shares outstanding. We used $1.89 billion to repurchase 17.8 million shares of our common stock compared with $1.20 billion used in the year-ago period to repurchase 15.2 million shares. Employee exercises of stock options provided cash proceeds of $280 million compared with $245 million in the year-ago period.
-We had $2.92 billion of Cash and cash equivalents and $2.21 billion of Short-term investments as of June 30, 2018. We believe we have the necessary financial resources and operating plans to fund our working capital needs, capital expenditures, dividend and debt-related payments, and other business requirements for at least the next 12 months.  
+Financing activities for the first three months of 2018 used $1.32 billion compared with $1.14 billion in the year-ago period. In the year-ago period, we repaid $250 million of maturing debt. Dividends paid were $611 million compared with $500 million in the year-ago period, reflecting an increase in the dividend rate, partially offset by fewer shares outstanding. We used $873 million to repurchase 8.2 million shares of our common stock compared with $550 million used in the year-ago period to repurchase 7.1 million shares. Employee exercises of stock options provided cash proceeds of $178 million compared with $161 million in the year-ago period.
+On April 30, 2018, we agreed to issue $1.30 billion principal amount of debt that we expect to use for general corporate purposes, including to replenish our cash on hand following the repayment of maturing debt. The offering is expected to close on May 7, 2018.
+We had $1.72 billion of Cash and cash equivalents and $2.36 billion of Short-term investments as of March 31, 2018. We believe we have the necessary financial resources and operating plans to fund our working capital needs, capital expenditures, dividend and debt-related payments, and other business requirements for at least the next 12 months. 
 Non-GAAP financial information
 This MD&A includes references to free cash flow and ratios based on that measure. These are financial measures that were not prepared in accordance with generally accepted accounting principles in the United States (GAAP). Free cash flow was calculated by subtracting Capital expenditures from the most directly comparable GAAP measure, Cash flows from operating activities (also referred to as cash flow from operations).
 We believe that free cash flow and the associated ratios provide insight into our liquidity, our cash-generating capability and the amount of cash potentially available to return to shareholders, as well as insight into our financial performance. These non-GAAP measures are supplemental to the comparable GAAP measures.
@@ -12873,7 +9208,7 @@ For 12 Months Ended
 
  
 
-June 30,
+March 31,
 
  
 
@@ -12913,7 +9248,7 @@ $
 
  
 
-6,589
+5,680
 
  
 
@@ -12923,7 +9258,7 @@ $
 
  
 
-4,564
+4,756
 
  
 
@@ -12931,7 +9266,7 @@ $
 
  
 
-44
+19
 
 %
 
@@ -12943,7 +9278,7 @@ Capital expenditures
 
  
 
-(855
+(757
 
 )
 
@@ -12953,7 +9288,7 @@ Capital expenditures
 
  
 
-(527
+(534
 
 )
 
@@ -12973,7 +9308,7 @@ $
 
  
 
-5,734
+4,923
 
  
 
@@ -12983,7 +9318,7 @@ $
 
  
 
-4,037
+4,222
 
  
 
@@ -12991,7 +9326,7 @@ $
 
  
 
-42
+17
 
 %
 
@@ -13033,7 +9368,7 @@ $
 
  
 
-15,672
+15,348
 
  
 
@@ -13043,7 +9378,7 @@ $
 
  
 
-14,184
+13,764
 
  
 
@@ -13093,7 +9428,7 @@ Cash flow from operations as a percent of revenue (GAAP)
 
  
 
-42.0
+37.0
 
 %
 
@@ -13103,7 +9438,7 @@ Cash flow from operations as a percent of revenue (GAAP)
 
  
 
-32.2
+34.6
 
 %
 
@@ -13123,7 +9458,7 @@ Free cash flow as a percent of revenue (non-GAAP)
 
  
 
-36.6
+32.1
 
 %
 
@@ -13133,7 +9468,7 @@ Free cash flow as a percent of revenue (non-GAAP)
 
  
 
-28.5
+30.7
 
 %
 
@@ -13148,13 +9483,13 @@ Free cash flow as a percent of revenue (non-GAAP)
 
 This MD&A also includes references to an annual operating tax rate, a non-GAAP term we use to describe the estimated annual effective tax rate, a GAAP measure that by definition does not include discrete tax items. We believe the term annual operating tax rate more clearly communicates that discrete tax items are excluded from such rate. The term also helps differentiate from the effective tax rate, which includes discrete tax items. No adjustments are made to the estimated annual effective tax rate when using the term annual operating tax rate.
 Long-term contractual obligations
-Information regarding long-term debt obligations is described in the long-term contractual obligations table in Item 7 of our Form 10-K for the year ended December 31, 2017. Additionally, in the first six months of 2018, we issued $1.50 billion principal amount of 4.15 percent notes maturing in 2048 and retired $500 million of maturing debt.
+Information regarding long-term debt obligations is described in the long-term contractual obligations table in Item 7 of our Form 10-K for the year ended December 31, 2017.
 Critical accounting policies
 Our critical accounting policies are described in Management’s Discussion and Analysis of Financial Condition and Results of Operations – Critical Accounting Policies in our Annual Report on Form 10-K for the year ended December 31, 2017. 
-21
+On January 1, 2018, we adopted Accounting Standards Update No. 2014-09, Revenue from Contracts with Customers (Topic 606), which is discussed in Note 2 of our consolidated financial statements.
+19
 
  
-On January 1, 2018, we adopted Accounting Standards Update No. 2014-09, Revenue from Contracts with Customers (Topic 606), which is discussed in Note 2 of our financial statements.
 Changes in accounting standards
 See Note 2 to the financial statements for detailed information regarding the status of new accounting and reporting standards.
  
@@ -13163,7 +9498,7 @@ ITEM 4. Controls and Procedures.
 An evaluation as of the end of the period covered by this report was carried out under the supervision and with the participation of management, including our Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934). Based upon that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that those disclosure controls and procedures were effective. In addition, there has been no change in our internal control over financial reporting (as defined in Rule 13a-15(f) and 15d-15(f) under the Securities Exchange Act of 1934) that occurred during the period covered by this report that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
  
  
-22
+20
 
  
 PART II – OTHER INFORMATION
@@ -13179,136 +9514,243 @@ ISSUER PURCHASES OF EQUITY SECURITIES
 
 
 
-Period
+ 
 
  
 
-Total Number
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total Number
+
+Approximate
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
 of Shares
+
+Dollar Value
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Purchased as
+
+of Shares that
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Part of
+
+May Yet Be
+
+
+
+ 
+
+Total
+
+ 
+
+Publicly
+
 Purchased
 
+
+
  
+
+Number of
 
 Average
-Price Paid
+
+Announced
+
+Under the
+
+
+
+ 
+
+Shares
+
+Price Paid
+
+Plans or
+
+Plans or
+
+
+
+Period
+
+Purchased
+
 per Share
 
- 
+Programs(1)
 
-Total Number
-of Shares
-Purchased as
-Part of
-Publicly
-Announced
-Plans or
-Programs (a)
+Programs(1)
+
+
+
+January 1, 2018 through January 31, 2018
 
  
 
-Approximate Dollar Value of Shares that May Yet Be Purchased Under the Plans or Programs (a)
-
-
-
-April 1, 2018 through April 30, 2018
-
- 
-
-4,568,941
-
- 
+3,446,350
 
  
 
 $
 
- 
-
- 101.79
+110.91
 
  
 
-4,566,831
-
  
+
+2,978,806
 
  
 
 $
 
-7.89
-
- 
+8.91
 
 billion
 
 
 
-May 1, 2018 through May 31, 2018
+February 1, 2018 through February 28, 2018
 
  
 
-4,417,417
-
- 
-
- 
+3,814,825
 
  
 
  
 
- 107.98
-
- 
-
-4,417,417
+104.01
 
  
 
  
 
- 
-
-7.41
+3,814,825
 
  
+
+ 
+
+8.52
 
 billion
 
 
 
-June 1, 2018 through June 30, 2018
+March 1, 2018 through March 31, 2018
 
  
 
-503,554
-
- 
-
- 
+1,540,586
 
  
 
  
 
- 115.48
-
- 
-
-503,554
+105.76
 
  
 
  
 
- 
-
-7.35
+1,540,586
 
  
+
+ 
+
+8.35
 
 billion
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
 
 
 
@@ -13316,57 +9758,53 @@ Total
 
  
 
-9,489,912
+8,801,761
 
- (b)
+(2)
+
+$
+
+107.02
+
+(2)
+
+ 
+
+8,334,217
 
  
 
 $
 
- 
+8.35
 
- 105.40 (b)
+billion(3)
 
- 
-
-9,487,802
 
  
 
- 
-
-$
-
-7.35
-
- 
-
-billion (c)
 
 
 
-
-
-
-(a)
+(1)
 
 All open-market purchases during the quarter were made under the authorization from our board of directors to purchase up to $7.5 billion of additional shares of TI common stock announced September 17, 2015. On September 21, 2017, our board of directors authorized the purchase of an additional $6.0 billion of our common stock.
 
 
 
 
-(b)
+(2)
 
-In addition to open-market purchases, 2,110 shares of common stock were surrendered by employees to satisfy tax withholding obligations in connection with the vesting of restricted stock units.
-
-
+In addition to open-market purchases, 467,544 shares of common stock were surrendered by employees to satisfy tax withholding obligations in connection with the vesting of restricted stock units.
 
 
-(c)
 
-As of June 30, 2018, this amount consisted of the remaining portion of the $7.5 billion authorized in September 2015 and the $6.0 billion authorized in September 2017. No expiration date has been specified for these authorizations.
-23
+
+(3)
+
+As of March 31, 2018, this amount consisted of the remaining portion of the $7.5 billion authorized in September 2015 and the $6.0 billion authorized in September 2017. No expiration date has been specified for these authorizations.
+
+21
 
  
 ITEM 6. Exhibits.
@@ -13393,24 +9831,6 @@ Restated Certificate of Incorporation of the Registrant, dated April 18, 1985, a
 3(b)
 
 By-Laws of the Registrant (incorporated by reference to Exhibit 3 of the Registrant's Current Report on Form 8-K filed December 12, 2016).
-
-
-
-4(a)
-
-Officer’s Certificate, dated May 7, 2018 (incorporated by reference to Exhibit 4.1 of the Registrant’s Current Report on Form 8-K filed May 7, 2018).
-
-
-
-4(b)
-
-Officer’s Certificate, dated June 8, 2018 (incorporated by reference to Exhibit 4.1 of the Registrant’s Current Report on Form 8-K filed June 8, 2018).
-
-
-
-10(a)
-
-Texas Instruments 2018 Director Compensation Plan.†
 
 
 
@@ -13481,7 +9901,7 @@ XBRL Taxonomy Extension Presentation Linkbase Document†
 
 Filed or furnished herewith.
 
-24
+22
 
  
 Notice regarding forward-looking statements
@@ -13666,14 +10086,14 @@ Our ability to successfully integrate and realize opportunities for growth from 
 Impairments of our non-financial assets. 
 
 
-25
+23
 
  
 For a more detailed discussion of these factors see the Risk Factors discussion in Item 1A of our most recent Form 10-K. The forward-looking statements included in this report are made only as of the date of this report, and we undertake no obligation to update the forward-looking statements to reflect subsequent events or circumstances. If we do update any forward-looking statement, you should not infer that we will make additional updates with respect to that statement or any other forward-looking statement.
  
  
  
-26
+24
 
  
 SIGNATURE
@@ -13708,7 +10128,7 @@ Rafael R. Lizardi
 
  
 
-Senior Vice President and 
+Senior Vice President, 
 
 
 
@@ -13716,12 +10136,12 @@ Senior Vice President and
 
  
 
-Chief Financial Officer 
+Chief Financial Officer and Chief Accounting Officer
 
 
  
-Date: August 2, 2018
-27
+Date: May 3, 2018
+25
 
 
 

@@ -1,7 +1,7 @@
 
 10-Q
 1
-a2235412z10-q.htm
+a2234312z10-q.htm
 10-Q
 
 
@@ -52,10 +52,10 @@ FORM 10-Q
 
 ý
  
- QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
 
 
- For the Quarterly Period Ended March 30, 2018
+ For the Quarterly Period Ended December 29, 2017
 
 
  Or
@@ -63,7 +63,7 @@ FORM 10-Q
 
 o
  
- TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
 
 
 
@@ -94,7 +94,6 @@ Switzerland
  
  98-0518048
 (I.R.S. Employer Identification No.)
-
 
 
 
@@ -129,11 +128,10 @@ emerging growth company. See the definitions of "large accelerated filer," "acce
 
 
 
-Large accelerated
+Large accelerated
 filer ý
  
-Accelerated
-filer o
+Accelerated filer o
  
 Non-accelerated filer o (Do not check if a
 smaller reporting company)
@@ -152,7 +150,7 @@ an emerging growth company, indicate by check mark if the registrant has elected
 standards provided pursuant to Section 13(a) of the Exchange Act. o 
         Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange
 Act). Yes o    No ý 
-        The number of common shares outstanding as of April 20, 2018 was 350,139,019. 
+        The number of common shares outstanding as of January 19, 2018 was 351,206,368. 
   
 
    
@@ -173,10 +171,11 @@ Act). Yes o    No ý
 
 
 
-  Table of Contents 
+Table of Contents 
  
- TE CONNECTIVITY LTD.
-INDEX TO FORM 10-Q  
+ 
+ 
+  TE CONNECTIVITY LTD.  INDEX TO FORM 10-Q     
 
  
 
@@ -250,8 +249,8 @@ Page
 
  
  
- Condensed Consolidated Statements of Operations for the Quarters and Six Months Ended March 30, 2018 and March 31, 2017
-(unaudited)
+ Condensed Consolidated Statements of Operations for the Quarters Ended December 29, 2017 and December 30, 2016 (unaudited)
+
  
  
 1
@@ -269,8 +268,8 @@ Page
 
  
  
- Condensed Consolidated Statements of Comprehensive Income for the Quarters and Six Months Ended March 30, 2018 and March 31,
-2017 (unaudited)
+ Condensed Consolidated Statements of Comprehensive Income for the Quarters Ended December 29, 2017 and December 30, 2016
+(unaudited)
  
  
 2
@@ -288,7 +287,7 @@ Page
 
  
  
- Condensed Consolidated Balance Sheets as of March 30, 2018 and September 29, 2017 (unaudited)
+ Condensed Consolidated Balance Sheets as of December 29, 2017 and September 29, 2017 (unaudited)
  
  
 3
@@ -306,7 +305,7 @@ Page
 
  
  
- Condensed Consolidated Statements of Shareholders' Equity for the Six Months Ended March 30, 2018 and March 31, 2017
+ Condensed Consolidated Statements of Shareholders' Equity for the Quarters Ended December 29, 2017 and December 30, 2016
 (unaudited)
  
  
@@ -325,7 +324,7 @@ Page
 
  
  
- Condensed Consolidated Statements of Cash Flows for the Six Months Ended March 30, 2018 and March 31, 2017 (unaudited)
+ Condensed Consolidated Statements of Cash Flows for the Quarters Ended December 29, 2017 and December 30, 2016 (unaudited)
 
  
  
@@ -366,7 +365,7 @@ Page
 Operations
  
  
-27
+23
  
 
 
@@ -384,7 +383,7 @@ Operations
  Quantitative and Qualitative Disclosures About Market Risk
  
  
-42
+37
  
 
 
@@ -402,7 +401,7 @@ Operations
  Controls and Procedures
  
  
-43
+37
  
 
 
@@ -438,7 +437,7 @@ Operations
  Legal Proceedings
  
  
-44
+38
  
 
 
@@ -456,7 +455,7 @@ Operations
  Risk Factors
  
  
-44
+38
  
 
 
@@ -474,7 +473,7 @@ Operations
  Unregistered Sales of Equity Securities and Use of Proceeds
  
  
-44
+38
  
 
 
@@ -492,7 +491,7 @@ Operations
  Exhibits
  
  
-45
+39
  
 
 
@@ -508,7 +507,7 @@ Operations
   Signatures
  
  
-46
+40
  
 
 
@@ -555,41 +554,27 @@ Table of Contents
 
 
 
-
-
-
-
-
-
  
  
 For the
 Quarters Ended 
  
-For the
-Six Months Ended 
- 
 
 
  
  
-March 30,
-2018 
- 
-March 31,
+December 29,
 2017 
  
-March 30,
-2018 
- 
-March 31,
-2017 
+December 30,
+2016 
  
 
 
  
  
-(in millions, except per share data)
+(in millions, except per share
+data)
  
 
 
@@ -598,38 +583,22 @@ March 31,
 
 
 $
-3,745
+3,480
  
 
 
 $
-3,227
- 
-
-
-$
-7,225
- 
-
-
-$
-6,290
+3,063
  
 
 
  Cost of sales
  
  
-2,502
+2,303
  
  
-2,117
- 
- 
-4,805
- 
- 
-4,113 
+1,996 
  
 
 
@@ -643,31 +612,7 @@ $
 
 
 
-
 ​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
 
 
 
@@ -689,80 +634,50 @@ $
  Gross margin
  
  
-1,243
+1,177
  
  
-1,110
- 
- 
-2,420
- 
- 
-2,177
+1,067
  
 
 
  Selling, general, and administrative expenses
  
  
-428
+383
  
  
-407
- 
- 
-811
- 
- 
-774
+367
  
 
 
  Research, development, and engineering expenses
  
  
-182
+176
  
  
-161
- 
- 
-358
- 
- 
-317
+156
  
 
 
  Acquisition and integration costs
  
  
-3
- 
- 
 2
  
  
-5
- 
- 
-4
+2
  
 
 
  Restructuring and other charges, net
  
  
-6
+35
  
  
-59
- 
- 
-41
- 
- 
-106 
+47 
  
 
 
@@ -784,27 +699,6 @@ $
 ​
 ​
 
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
 
 
 
@@ -820,16 +714,10 @@ $
  Operating income
  
  
-624
+581
  
  
-481
- 
- 
-1,205
- 
- 
-976
+495
  
 
 
@@ -839,45 +727,27 @@ $
 4
  
  
-6
- 
- 
-8
- 
- 
-11
+5
  
 
 
  Interest expense
  
  
-(29
+(26
 )
  
-(32
-)
- 
-(55
-)
- 
-(63
+(31
 )
 
 
  Other income (expense), net
  
  
-1
+2
  
  
-(10
-)
- 
-3
- 
- 
-(19
+(9
 ) 
 
 
@@ -888,27 +758,6 @@ $
 ​
 ​
 
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
 
 
 
@@ -935,32 +784,20 @@ $
  Income from continuing operations before income taxes
  
  
-600
+561
  
  
-445
- 
- 
-1,161
- 
- 
-905
+460
  
 
 
  Income tax expense
  
  
-(108
+(600
 )
  
-(39
-)
- 
-(708
-)
- 
-(93
+(54
 ) 
 
 
@@ -974,17 +811,6 @@ $
 
 
 
-​
-
-
-
-
-​
-​
-
-
-
-
 
 ​
 
@@ -1003,126 +829,69 @@ $
 
 
 ​
-​
 
 
-
-
-​
-
-
-
-
-
-​
-
-
- Income from continuing operations
+ Income (loss) from continuing operations
  
  
-492
- 
+(39
+)
  
 406
- 
- 
-453
- 
- 
-812
  
 
 
  Income (loss) from discontinued operations, net of income taxes
  
  
-(2
-)
- 
 (1
 )
  
-(3
+3 
+ 
+
+
+
+
+
+​
+​
+​
+
+
+
+
+
+​
+
+
+
+
+​
+​
+
+
+
+
+​
+
+
+
+
+​
+
+
+ Net income (loss)
+ 
+
+
+$
+(40
 )
- 
-2 
- 
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
-
-
- Net income
- 
 
 
 $
-490
- 
-
-
-$
-405
- 
-
-
-$
-450
- 
-
-
-$
-814 
+409 
  
 
 
@@ -1141,29 +910,6 @@ $
 
 
 
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
 ​
 ​
 
@@ -1189,40 +935,12 @@ $
 ​
 ​
 ​
-​
-​
-​
-​
-​
-​
 
 
 
 
 
 ​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
 ​
 ​
 
@@ -1248,15 +966,7 @@ $
 ​ 
 
 
- Basic earnings per share:
- 
- 
-
- 
- 
- 
-
- 
+ Basic earnings (loss) per share:
  
  
 
@@ -1268,13 +978,13 @@ $
  
 
 
- Income from continuing operations
+ Income (loss) from continuing operations
  
 
 
 $
-1.40
- 
+(0.11
+)
 
 
 $
@@ -1282,121 +992,69 @@ $
  
 
 
-$
-1.29
+ Income (loss) from discontinued operations
+ 
+ 
+—
+ 
+ 
+0.01
+ 
+
+
+ Net income (loss)
+ 
+ 
+(0.11
+)
+ 
+1.15
+ 
+
+
+ Diluted earnings (loss) per share:
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+
+ Income (loss) from continuing operations
  
 
 
 $
-2.28
+(0.11
+)
+
+
+$
+1.13
  
 
 
  Income (loss) from discontinued operations
  
  
-(0.01
-)
- 
 —
  
- 
-(0.01
-)
  
 0.01
  
 
 
- Net income
+ Net income (loss)
  
  
-1.40
- 
+(0.11
+)
  
 1.14
- 
- 
-1.28
- 
- 
-2.29
- 
-
-
- Diluted earnings per share:
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-
- 
- 
-
-
- Income from continuing operations
- 
-
-
-$
-1.39
- 
-
-
-$
-1.13
- 
-
-
-$
-1.28
- 
-
-
-$
-2.26
- 
-
-
- Income (loss) from discontinued operations
- 
- 
-(0.01
-)
- 
-—
- 
- 
-(0.01
-)
- 
-0.01
- 
-
-
- Net income
- 
- 
-1.38
- 
- 
-1.13
- 
- 
-1.27
- 
- 
-2.27
  
 
 
@@ -1416,27 +1074,7 @@ $
  
 
 
-$
-
-0.80
- 
-
-
-$
-
-0.74
- 
-
-
  Weighted-average number of shares outstanding:
- 
- 
-
- 
- 
- 
-
- 
  
  
 
@@ -1451,13 +1089,7 @@ $
  Basic
  
  
-351
- 
- 
-356
- 
- 
-351
+352
  
  
 356
@@ -1467,13 +1099,7 @@ $
  Diluted
  
  
-354
- 
- 
-359
- 
- 
-355
+352
  
  
 359
@@ -1522,35 +1148,20 @@ Table of Contents
 
 
 
-
-
-
-
-
-
  
  
 For the
 Quarters Ended 
  
-For the
-Six Months Ended 
- 
 
 
  
  
-March 30,
-2018 
- 
-March 31,
+December 29,
 2017 
  
-March 30,
-2018 
- 
-March 31,
-2017 
+December 30,
+2016 
  
 
 
@@ -1560,37 +1171,21 @@ March 31,
  
 
 
- Net income. 
+ Net income (loss). 
  
 
 
 $
-490
- 
+(40
+)
 
 
 $
-405
- 
-
-
-$
-450
- 
-
-
-$
-814
+409
  
 
 
  Other comprehensive income (loss):
- 
- 
- 
- 
- 
- 
  
  
  
@@ -1603,48 +1198,30 @@ $
  Currency translation
  
  
-114
+67
  
  
-83
- 
- 
-181
- 
- 
-(102
+(185
 )
 
 
  Adjustments to unrecognized pension and postretirement benefit costs, net of income taxes
  
  
-8
+7
  
  
-12
- 
- 
-15
- 
- 
-25
+13
  
 
 
- Gains (losses) on cash flow hedges, net of income taxes
+ Gains on cash flow hedges, net of income taxes
  
  
-(49
-)
- 
-19
+2
  
  
-(47
-)
- 
-35 
+16 
  
 
 
@@ -1660,27 +1237,6 @@ $
 
 ​
 
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
 
 
 
@@ -1702,16 +1258,10 @@ $
  Other comprehensive income (loss)
  
  
-73
+76
  
  
-114
- 
- 
-149
- 
- 
-(42
+(156
 ) 
 
 
@@ -1742,28 +1292,6 @@ $
 
 
 ​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
 
 
  Comprehensive income. 
@@ -1771,22 +1299,12 @@ $
 
 
 $
-563
+36
  
 
 
 $
-519
- 
-
-
-$
-599
- 
-
-
-$
-772 
+253 
  
 
 
@@ -1805,28 +1323,6 @@ $
 
 
 
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
 
 ​
 ​
@@ -1845,12 +1341,6 @@ $
 
 
 
-​
-​
-​
-​
-​
-​
 ​
 ​
 ​
@@ -1879,28 +1369,6 @@ $
 ​
 ​
 
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-
-​
-
-
-
-
-​
-​
 
 
 
@@ -1957,8 +1425,8 @@ Table of Contents
 
  
  
-March 30,
-2018 
+December 29,
+2017 
  
 September 29,
 2017 
@@ -1997,7 +1465,7 @@ data)
 
 
 $
-559
+704
  
 
 
@@ -2006,10 +1474,10 @@ $
  
 
 
- Accounts receivable, net of allowance for doubtful accounts of $22 and $21, respectively
+ Accounts receivable, net of allowance for doubtful accounts of $21
  
  
-2,643
+2,378
  
  
 2,290
@@ -2019,7 +1487,7 @@ $
  Inventories
  
  
-2,045
+1,984
  
  
 1,813
@@ -2029,7 +1497,7 @@ $
  Prepaid expenses and other current assets
  
  
-713
+667
  
  
 605 
@@ -2068,7 +1536,7 @@ $
  Total current assets
  
  
-5,960
+5,733
  
  
 5,926
@@ -2078,7 +1546,7 @@ $
  Property, plant, and equipment, net
  
  
-3,676
+3,527
  
  
 3,400
@@ -2088,7 +1556,7 @@ $
  Goodwill
  
  
-5,730
+5,672
  
  
 5,651
@@ -2098,7 +1566,7 @@ $
  Intangible assets, net
  
  
-1,786
+1,806
  
  
 1,841
@@ -2108,7 +1576,7 @@ $
  Deferred income taxes
  
  
-1,631
+1,615
  
  
 2,141
@@ -2118,7 +1586,7 @@ $
  Other assets
  
  
-464
+458
  
  
 444 
@@ -2159,7 +1627,7 @@ $
 
 
 $
-19,247
+18,811
  
 
 
@@ -2266,7 +1734,7 @@ $
 
 
 $
-675
+688
  
 
 
@@ -2278,7 +1746,7 @@ $
  Accounts payable
  
  
-1,613
+1,556
  
  
 1,436
@@ -2288,7 +1756,7 @@ $
  Accrued and other current liabilities
  
  
-1,729
+1,264
  
  
 1,626
@@ -2298,7 +1766,7 @@ $
  Deferred revenue
  
  
-147
+127
  
  
 75 
@@ -2337,7 +1805,7 @@ $
  Total current liabilities
  
  
-4,164
+3,635
  
  
 3,847
@@ -2347,7 +1815,7 @@ $
  Long-term debt
  
  
-3,335
+3,317
  
  
 3,634
@@ -2357,7 +1825,7 @@ $
  Long-term pension and postretirement liabilities
  
  
-1,149
+1,150
  
  
 1,160
@@ -2377,7 +1845,7 @@ $
  Income taxes
  
  
-302
+303
  
  
 293
@@ -2387,7 +1855,7 @@ $
  Other liabilities
  
  
-579
+537
  
  
 482 
@@ -2426,7 +1894,7 @@ $
  Total Liabilities
  
  
-9,767
+9,180
  
  
 9,652 
@@ -2496,17 +1964,17 @@ $
  Accumulated earnings
  
  
-9,957
+10,047
  
  
 10,175
  
 
 
- Treasury shares, at cost, 6,444,345 and 5,356,369 shares, respectively
+ Treasury shares, at cost, 5,679,926 and 5,356,369 shares, respectively
  
  
-(585
+(489
 )
  
 (421
@@ -2516,7 +1984,7 @@ $
  Accumulated other comprehensive loss
  
  
-(49
+(84
 )
  
 (160
@@ -2556,7 +2024,7 @@ $
  Total Shareholders' Equity
  
  
-9,480
+9,631
  
  
 9,751 
@@ -2597,7 +2065,7 @@ $
 
 
 $
-19,247
+18,811
  
 
 
@@ -2767,7 +2235,7 @@ Accumulated
 Earnings 
  
 Total
-Shareholders'
+Sharedholders'
 Equity 
  
 
@@ -2830,7 +2298,7 @@ $
  
 
 
- Adoption of ASU No. 2018-02
+ Net loss
  
  
 —
@@ -2848,42 +2316,14 @@ $
 —
  
  
-38
- 
- 
-(38
+(40
 )
  
 —
  
-
-
- Net income
  
- 
-—
- 
- 
-—
- 
- 
-—
- 
- 
-—
- 
- 
-—
- 
- 
-450
- 
- 
-—
- 
- 
-450
- 
+(40
+)
 
 
  Other comprehensive income
@@ -2907,10 +2347,10 @@ $
 —
  
  
-149
+76
  
  
-149
+76
  
 
 
@@ -2929,7 +2369,7 @@ $
 —
  
  
-52
+29
  
  
 —
@@ -2938,36 +2378,8 @@ $
 —
  
  
-52
+29
  
-
-
- Dividends approved
- 
- 
-—
- 
- 
-—
- 
- 
-—
- 
- 
-—
- 
- 
-—
- 
- 
-(617
-)
- 
-—
- 
- 
-(617
-)
 
 
  Exercise of share options
@@ -2979,13 +2391,10 @@ $
 —
  
  
-2
+1
  
  
-94
- 
- 
-—
+54
  
  
 —
@@ -2994,7 +2403,10 @@ $
 —
  
  
-94
+—
+ 
+ 
+54
  
 
 
@@ -3007,22 +2419,22 @@ $
 —
  
  
-1
+—
  
  
-125
+92
  
  
-(52
+(29
 )
  
-(89
+(88
 )
  
 —
  
  
-(16
+(25
 )
 
 
@@ -3035,10 +2447,10 @@ $
 —
  
  
-(4
+(2
 )
  
-(383
+(214
 )
  
 —
@@ -3050,7 +2462,7 @@ $
 —
  
  
-(383
+(214
 ) 
 
 
@@ -3064,39 +2476,6 @@ $
 
 
 
-​
-
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
 
 ​
 
@@ -3149,9 +2528,43 @@ $
 
 
 ​
+​
 
 
- Balance at March 30, 2018
+
+
+​
+
+
+
+
+​
+​
+
+
+
+
+​
+
+
+
+
+​
+​
+
+
+
+
+
+​
+
+
+
+
+​
+
+
+ Balance at December 29, 2017
  
  
 357
@@ -3167,7 +2580,7 @@ $
 
 
 $
-(585
+(489
 )
 
 
@@ -3177,17 +2590,17 @@ $
 
 
 $
-9,957
+10,047
  
 
 
 $
-(49
+(84
 )
 
 
 $
-9,480 
+9,631 
  
 
 
@@ -3217,6 +2630,7 @@ $
 
 
 
+
 ​
 ​
 
@@ -3250,7 +2664,6 @@ $
 
 
 
-
 ​
 ​
 
@@ -3269,6 +2682,7 @@ $
 
 
 ​
+
 
 
 
@@ -3344,6 +2758,7 @@ $
 
 
 
+
 ​
 ​
 
@@ -3351,7 +2766,6 @@ $
 
 
 ​
-
 
 
 
@@ -3400,9 +2814,9 @@ $
 
 
 
+
 ​
 ​
-
 
 
 
@@ -3509,13 +2923,13 @@ $
 —
  
  
-814
+409
  
  
 —
  
  
-814
+409
  
 
 
@@ -3540,10 +2954,10 @@ $
 —
  
  
-(42
+(156
 )
  
-(42
+(156
 )
 
 
@@ -3562,7 +2976,7 @@ $
 —
  
  
-47
+24
  
  
 —
@@ -3571,36 +2985,8 @@ $
 —
  
  
-47
+24
  
-
-
- Dividends approved
- 
- 
-—
- 
- 
-—
- 
- 
-—
- 
- 
-—
- 
- 
-(569
-)
- 
-—
- 
- 
-—
- 
- 
-(569
-)
 
 
  Exercise of share options
@@ -3612,13 +2998,10 @@ $
 —
  
  
-2
+1
  
  
-64
- 
- 
-—
+26
  
  
 —
@@ -3627,7 +3010,10 @@ $
 —
  
  
-64
+—
+ 
+ 
+26
  
 
 
@@ -3640,13 +3026,13 @@ $
 —
  
  
-1
+2
  
  
-126
+82
  
  
-(132
+(96
 )
  
 —
@@ -3655,7 +3041,7 @@ $
 —
  
  
-(6
+(14
 )
 
 
@@ -3668,10 +3054,10 @@ $
 —
  
  
-(3
+(2
 )
  
-(205
+(102
 )
  
 —
@@ -3683,7 +3069,7 @@ $
 —
  
  
-(205
+(102
 ) 
 
 
@@ -3697,39 +3083,6 @@ $
 
 
 
-​
-
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
 
 ​
 
@@ -3782,9 +3135,43 @@ $
 
 
 ​
+​
 
 
- Balance at March 31, 2017
+
+
+​
+
+
+
+
+​
+​
+
+
+
+
+​
+
+
+
+
+​
+​
+
+
+
+
+
+​
+
+
+
+
+​
+
+
+ Balance at December 30, 2016
  
  
 383
@@ -3795,32 +3182,32 @@ $
 168
  
  
-(28
+(27
 )
 
 
 $
-(1,639
+(1,618
 )
 
 
 $
-1,147
+1,729
  
 
 
 $
-9,661
+9,256
  
 
 
 $
-(584
+(698
 )
 
 
 $
-8,753 
+8,837 
  
 
 
@@ -3850,6 +3237,7 @@ $
 
 
 
+
 ​
 ​
 
@@ -3883,7 +3271,6 @@ $
 
 
 
-
 ​
 ​
 
@@ -3902,6 +3289,7 @@ $
 
 
 ​
+
 
 
 
@@ -3977,6 +3365,7 @@ $
 
 
 
+
 ​
 ​
 
@@ -3984,7 +3373,6 @@ $
 
 
 ​
-
 
 
 
@@ -4033,9 +3421,9 @@ $
 
 
 
+
 ​
 ​
-
 
 
 
@@ -4093,17 +3481,17 @@ Table of Contents
  
  
 For the
-Six Months Ended 
+Quarters Ended 
  
 
 
  
  
-March 30,
-2018 
- 
-March 31,
+December 29,
 2017 
+ 
+December 30,
+2016 
  
 
 
@@ -4123,27 +3511,27 @@ March 31,
  
 
 
- Net income
+ Net income (loss)
  
 
 
 $
-450
- 
+(40
+)
 
 
 $
-814
+409
  
 
 
  (Income) loss from discontinued operations, net of income taxes
  
  
-3
+1
  
  
-(2
+(3
 ) 
 
 
@@ -4177,17 +3565,17 @@ $
 ​
 
 
- Income from continuing operations
+ Income (loss) from continuing operations
  
  
-453
+(39
+)
  
- 
-812
+406
  
 
 
- Adjustments to reconcile income from continuing operations to net cash provided by operating activities:
+ Adjustments to reconcile income (loss) from continuing operations to net cash provided by operating activities:
  
  
  
@@ -4200,50 +3588,50 @@ $
  Depreciation and amortization
  
  
-341
+168
  
  
-312
+160
  
 
 
  Deferred income taxes
  
  
-499
+511
  
  
-(118
+(69
 )
 
 
  Provision for losses on accounts receivable and inventories
  
  
-23
+15
  
  
-9
+4
  
 
 
  Share-based compensation expense
  
  
-52
+29
  
  
-47
+24
  
 
 
  Other
  
  
-(17
+(6
 )
  
-12
+4
  
 
 
@@ -4260,80 +3648,80 @@ $
  Accounts receivable, net
  
  
-(337
+(89
 )
  
-(215
+(30
 )
 
 
  Inventories
  
  
-(244
+(185
 )
  
-(69
+(59
 )
 
 
  Prepaid expenses and other current assets
  
  
-(107
+(43
 )
  
-32
+31
  
 
 
  Accounts payable
  
  
-187
+149
  
  
-148
+64
  
 
 
  Accrued and other current liabilities
  
  
-(224
+(250
 )
  
-13
- 
+(70
+)
 
 
  Deferred revenue
  
  
-72
+52
  
  
-(83
+(59
 )
 
 
  Income taxes
  
  
-2
+7
  
  
-33
+28
  
 
 
  Other
  
  
-27
+31
  
  
-(8
+(30
 ) 
 
 
@@ -4370,10 +3758,10 @@ $
  Net cash provided by operating activities
  
  
-727
+350
  
  
-925 
+404 
  
 
 
@@ -4419,30 +3807,20 @@ $
  Capital expenditures
  
  
-(447
+(241
 )
  
-(289
+(130
 )
-
-
- Proceeds from sale of property, plant, and equipment
- 
- 
-7
- 
- 
-8
- 
 
 
  Other
  
  
-(2
-)
+—
  
-(16
+ 
+(24
 ) 
 
 
@@ -4457,7 +3835,6 @@ $
 
 
 ​
-
 
 
 
@@ -4479,10 +3856,10 @@ $
  Net cash used in investing activities
  
  
-(442
+(241
 )
  
-(297
+(154
 ) 
 
 
@@ -4497,6 +3874,7 @@ $
 
 
 ​
+
 
 
 
@@ -4525,14 +3903,14 @@ $
  
 
 
- Net increase (decrease) in commercial paper
+ Net increase in commercial paper
  
  
-225
+241
  
  
-(162
-)
+10
+ 
 
 
  Proceeds from issuance of debt
@@ -4541,7 +3919,7 @@ $
 119
  
  
-89
+—
  
 
 
@@ -4558,30 +3936,30 @@ $
  Proceeds from exercise of share options
  
  
-94
+54
  
  
-64
+25
  
 
 
  Repurchase of common shares
  
  
-(381
+(167
 )
  
-(198
+(93
 )
 
 
  Payment of common share dividends to shareholders
  
  
-(281
+(141
 )
  
-(263
+(132
 )
 
 
@@ -4591,7 +3969,7 @@ $
 (32
 )
  
-(22
+(19
 ) 
 
 
@@ -4610,9 +3988,9 @@ $
 
 
 
-​
-​
 
+​
+​
 
 
 
@@ -4628,10 +4006,10 @@ $
  Net cash used in financing activities
  
  
-(964
+(634
 )
  
-(492
+(209
 ) 
 
 
@@ -4667,20 +4045,20 @@ $
  Effect of currency translation on cash
  
  
-20
+11
  
  
-(10
+(23
 )
 
 
  Net increase (decrease) in cash and cash equivalents
  
  
-(659
+(514
 )
  
-126
+18
  
 
 
@@ -4709,7 +4087,6 @@ $
 
 
 
-
 ​
 ​
 
@@ -4729,12 +4106,12 @@ $
 
 
 $
-559
+704
  
 
 
 $
-773 
+665 
  
 
 
@@ -4753,37 +4130,7 @@ $
 
 
 
-​
-​
 
-
-
-
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-​
-​
-​
-​
-​
-​
-
-
-
-
-
-​
 ​
 ​
 
@@ -4796,7 +4143,39 @@ $
 
 
 ​
+
+
+
+
+
 ​
+​
+​
+​
+​
+​
+​
+​
+
+
+
+
+
+​
+​
+​
+
+
+
+
+​
+
+
+
+
+​
+​
+
 
 
 
@@ -4849,15 +4228,15 @@ Basis of Presentation
 
         The unaudited Condensed Consolidated Financial Statements of TE Connectivity Ltd. ("TE Connectivity" or the "Company," which may be
 referred to as "we," "us," or "our") have been prepared in United States ("U.S.") dollars, in accordance with accounting principles generally accepted in the U.S. ("GAAP") and the instructions to
-Form 10-Q under the Securities Exchange Act of 1934, as amended. In management's opinion, the unaudited Condensed Consolidated Financial Statements contain all normal recurring
-adjustments necessary for a fair presentation of interim results. The results of operations reported for interim periods are not necessarily indicative of the results of operations for the entire
-fiscal year or any subsequent interim period. 
+Form 10-Q under the Securities Exchange Act of 1934, as amended. In management's opinion, the unaudited Condensed Consolidated Financial Statements contain all normal recurring adjustments
+necessary for a fair presentation of interim results. The results of operations reported for interim periods are not necessarily indicative of the results of operations for the entire fiscal year or
+any subsequent interim period. 
         The
 year-end balance sheet data was derived from audited financial statements, but does not include all of the information and disclosures required by GAAP. These financial statements
 should be read in conjunction with our audited Consolidated Financial Statements contained in our Annual Report on Form 10-K for the fiscal year ended September 29, 2017. 
         Unless
-otherwise indicated, references in the Condensed Consolidated Financial Statements to fiscal 2018 and fiscal 2017 are to our fiscal years ending September 28,
-2018 and ended September 29, 2017, respectively. 
+otherwise indicated, references in the Condensed Consolidated Financial Statements to fiscal 2018 and fiscal 2017 are to our fiscal years ending September 28, 2018 and
+ended September 29, 2017, respectively. 
 
 
 
@@ -4865,13 +4244,14 @@ otherwise indicated, references in the Condensed Consolidated Financial Statemen
 
 Recently Issued Accounting Pronouncement  
 
-        In May 2014, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") No. 2014-09 which
-codified Accounting Standards Codification ("ASC") 606, Revenue from Contracts with Customers. This guidance supersedes ASC 605,  Revenue Recognition, and introduces a single, comprehensive, five-step revenue recognition model. ASC 606 also enhances disclosures related to
+        In May 2014, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") No. 2014-09 which codified
+Accounting Standards Codification ("ASC") topic 606, Revenue from Contracts with Customers. This guidance supersedes ASC 605,  Revenue Recognition,
+ and introduces a single, comprehensive, five-step revenue recognition model. ASC 606 also enhances disclosures related to
 revenue recognition. ASC 606, as amended, is effective for us beginning in fiscal 2019, and we intend to adopt the new standard using the modified retrospective approach applied to
-contracts that are not completed as of that date. We are continuing to assess the impact of adopting ASC 606. Based on the ongoing evaluation of our current contracts and revenue streams, we do
-not expect that adoption will have a material impact on our results of operations or financial position. We are in the process of identifying necessary changes to accounting policies, processes,
-financial statement disclosures, internal controls, and systems to enable compliance with this new standard. We believe we are following an appropriate timeline to allow for the proper recognition,
-reporting, and disclosure of revenue upon adoption of ASC 606 at the beginning of fiscal 2019. 
+contracts that are not completed as of that date. We are continuing to assess the impact of adopting ASC 606. Based on the ongoing evaluation of our current contracts and revenue streams, we do not
+expect that adoption will have a material impact on our results of operations or financial position. We are in the process of identifying necessary changes to accounting policies, processes, financial
+statement disclosures, internal controls, and systems to enable compliance with this new standard. We believe we are following an appropriate timeline to allow for the proper recognition, reporting,
+and disclosure of revenue upon adoption of ASC 606 at the beginning of fiscal 2019. 
 
 
 
@@ -4879,12 +4259,10 @@ reporting, and disclosure of revenue upon adoption of ASC 606 at the beginning o
 
 Recently Adopted Accounting Pronouncement  
 
-        In February 2018, the FASB issued ASU No. 2018-02, an update to ASC 220, Income
-Statement—Reporting Comprehensive Income, to allow a reclassification from accumulated other comprehensive income (loss) for stranded tax effects resulting from the
-Tax Cuts and Jobs Act (the "Act"). See Note 10 for additional information regarding the Act. We elected to early adopt this update in the quarter ended March 30, 2018 and reclassify the
-stranded tax effects resulting from the change in the U.S. federal corporate income tax rate. This change in accounting principle resulted in a reclassification of $38 million, primarily
-associated with our pension plans, during the period of adoption. The reclassification increased both accumulated other comprehensive loss and accumulated earnings with no impact to total
-shareholders' equity. 
+        In March 2017, the FASB issued ASU No. 2017-07, an update to ASC 715, Compensation—Retirement
+Benefits, which changes the income statement presentation of net periodic pension benefit cost and net periodic postretirement benefit cost. The ASU requires that service costs
+be presented with other employee compensation costs within operating income and that other cost components be presented outside of operating income. We elected to early adopt this update in the
+quarter ended December 29, 2017. The update was applied retrospectively and did not have a material impact on our Condensed Consolidated Statements of Operations. 
 6
 
 
@@ -4894,16 +4272,6 @@ Table of Contents
 
 TE CONNECTIVITY LTD. 
  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) (Continued) 
-
-
-
-
-1. Basis of Presentation and Accounting Pronouncements (Continued) 
-        In
-March 2017, the FASB issued ASU No. 2017-07, an update to ASC 715, Compensation—Retirement Benefits, which
-changes the income statement presentation of net periodic pension and postretirement benefit costs. The ASU requires that service costs be presented with other employee compensation costs within
-operating income and that other cost components be presented outside of operating income. We elected to early adopt this update in the quarter ended December 29, 2017. The update was applied
-retrospectively and did not have a material impact on our Condensed Consolidated Statements of Operations. 
 
 
 
@@ -4927,35 +4295,20 @@ retrospectively and did not have a material impact on our Condensed Consolidated
 
 
 
-
-
-
-
-
-
  
  
 For the
 Quarters Ended 
  
-For the
-Six Months Ended 
- 
 
 
  
  
-March 30,
-2018 
- 
-March 31,
+December 29,
 2017 
  
-March 30,
-2018 
- 
-March 31,
-2017 
+December 30,
+2016 
  
 
 
@@ -4970,36 +4323,20 @@ March 31,
 
 
 $
-10
+35
  
 
 
 $
-59
+46
  
 
 
-$
-45
+ Other charges
  
-
-
-$
-105
- 
-
-
- Other charges (credits), net
- 
- 
-(4
-)
  
 —
  
- 
-(4
-)
  
 1 
  
@@ -5031,30 +4368,6 @@ $
 
 
 
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-
 ​
 
 
@@ -5063,22 +4376,12 @@ $
 
 
 $
-6
+35
  
 
 
 $
-59
- 
-
-
-$
-41
- 
-
-
-$
-106 
+47 
  
 
 
@@ -5103,29 +4406,6 @@ $
 
 
 
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
 ​
 
 
@@ -5145,41 +4425,12 @@ $
 ​
 ​
 ​
-​
-​
-​
-​
-​
-​
 
 
 
 
 
 ​
-​
-​
-
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
 ​
 ​
 
@@ -5225,35 +4476,20 @@ restructuring charges by segment were as follows:
 
 
 
-
-
-
-
-
-
  
  
 For the
 Quarters Ended 
  
-For the
-Six Months Ended 
- 
 
 
  
  
-March 30,
-2018 
- 
-March 31,
+December 29,
 2017 
  
-March 30,
-2018 
- 
-March 31,
-2017 
+December 30,
+2016 
  
 
 
@@ -5268,54 +4504,32 @@ March 31,
 
 
 $
-1
+4
  
 
 
 $
-33
- 
-
-
-$
-5
- 
-
-
-$
-57
+24
  
 
 
  Industrial Solutions
  
  
-7
+23
  
  
-19
- 
- 
-30
- 
- 
-39
+20
  
 
 
  Communications Solutions
  
  
-2
+8
  
  
-7
- 
- 
-10
- 
- 
-9 
+2 
  
 
 
@@ -5326,27 +4540,6 @@ $
 ​
 ​
 
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
 
 
 
@@ -5375,22 +4568,12 @@ $
 
 
 $
-10
+35
  
 
 
 $
-59
- 
-
-
-$
-45
- 
-
-
-$
-105 
+46 
  
 
 
@@ -5421,39 +4604,11 @@ $
 
 
 ​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
 
 
 
 
 
-​
-​
-​
-​
-​
-​
 ​
 ​
 ​
@@ -5468,29 +4623,6 @@ $
 
 
 ​
-​
-​
-
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
 ​
 ​
 
@@ -5518,20 +4650,6 @@ $
 
 
 
-7
-
-
-
- 
-Table of Contents
-
-TE CONNECTIVITY LTD. 
- NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) (Continued) 
-
-
-
-
-2. Restructuring and Other Charges, Net (Continued) 
         Activity
 in our restructuring reserves was as follows: 
 
@@ -5587,8 +4705,8 @@ Currency
 Translation 
  
 Balance at
-March 30,
-2018 
+December 29,
+2017 
  
 
 
@@ -5598,7 +4716,7 @@ March 30,
  
 
 
- Fiscal 2018 Actions:
+ Fiscal 2018 Actions:
  
  
  
@@ -5633,7 +4751,7 @@ $
 
 
 $
-30
+18
  
 
 
@@ -5643,7 +4761,7 @@ $
 
 
 $
-(8
+(4
 )
 
 
@@ -5658,7 +4776,7 @@ $
 
 
 $
-23
+15
  
 
 
@@ -5668,7 +4786,7 @@ $
 —
  
  
-6
+4
  
  
 —
@@ -5683,7 +4801,7 @@ $
 —
  
  
-6 
+4 
  
 
 
@@ -5777,13 +4895,13 @@ $
 —
  
  
-36
+22
  
  
 —
  
  
-(8
+(4
 )
  
 —
@@ -5792,7 +4910,7 @@ $
 1
  
  
-29 
+19 
  
 
 
@@ -5880,7 +4998,7 @@ $
 ​
 
 
- Fiscal 2017 Actions:
+ Fiscal 2017 Actions:
  
  
  
@@ -5914,19 +5032,19 @@ $
 4
  
  
-(2
-)
+—
  
-(42
+ 
+(19
 )
  
 —
  
  
-2
+—
  
  
-65
+88
  
 
 
@@ -5942,7 +5060,7 @@ $
 —
  
  
-(2
+(1
 )
  
 —
@@ -5951,7 +5069,7 @@ $
 —
  
  
-— 
+1 
  
 
 
@@ -6051,19 +5169,19 @@ $
 5
  
  
-(2
-)
+—
  
-(44
+ 
+(20
 )
  
 —
  
  
-2
+—
  
  
-65 
+89 
  
 
 
@@ -6154,7 +5272,7 @@ $
 ​
 
 
- Pre-Fiscal 2017 Actions:
+ Pre-Fiscal 2017 Actions:
  
  
  
@@ -6188,10 +5306,10 @@ $
 6
  
  
-(2
+(1
 )
  
-(14
+(7
 )
  
 —
@@ -6200,7 +5318,7 @@ $
 1
  
  
-27
+35
  
 
 
@@ -6210,13 +5328,13 @@ $
 9
  
  
-4
+2
  
  
 —
  
  
-(5
+(2
 )
  
 —
@@ -6225,7 +5343,7 @@ $
 —
  
  
-8
+9
  
 
 
@@ -6238,10 +5356,10 @@ $
 1
  
  
-(3
-)
+—
  
-3
+ 
+—
  
  
 (1
@@ -6280,16 +5398,6 @@ $
 
 
 
-​
-​
-
-
-
-
-​
-
-
-
 
 ​
 ​
@@ -6313,6 +5421,18 @@ $
 
 
 
+
+​
+​
+
+
+
+
+​
+
+
+
+
 ​
 ​
 
@@ -6320,6 +5440,7 @@ $
 
 
 ​
+
 
 
 
@@ -6344,13 +5465,13 @@ $
 45
  
  
-11
+9
  
  
-(5
+(1
 )
  
-(16
+(9
 )
  
 (1
@@ -6359,7 +5480,7 @@ $
 1
  
  
-35 
+44 
  
 
 
@@ -6380,6 +5501,7 @@ $
 
 ​
 ​
+
 
 
 
@@ -6457,17 +5579,17 @@ $
 
 
 $
-52
+36
  
 
 
 $
-(7
+(1
 )
 
 
 $
-(68
+(33
 )
 
 
@@ -6477,12 +5599,12 @@ $
 
 
 $
-4
+2
  
 
 
 $
-129 
+152 
  
 
 
@@ -6691,37 +5813,7 @@ $
 
 
 
-
-
-
-
-
-Fiscal 2018 Actions  
-
-        During fiscal 2018, we initiated a restructuring program associated with footprint consolidation and structural improvements primarily
-impacting the Industrial Solutions segment. In connection with this program, during the six months ended March 30, 2018, we recorded restructuring charges of $36 million. We expect to
-complete significantly all restructuring actions commenced during the six months ended March 30, 2018 by the end of fiscal 2019 and to incur total charges of approximately $40 million. 
-
-
-
-
-
-Fiscal 2017 Actions  
-
-        During fiscal 2017, we initiated a restructuring program associated with footprint consolidation related to recent acquisitions and
-structural improvements impacting all segments. In connection with this program, during the six months ended March 30, 2018 and March 31, 2017, we recorded net restructuring charges of
-$3 million and $100 million, respectively. We expect to complete all restructuring actions commenced during fiscal 2017 by the end of fiscal 2019 and anticipate that any
-additional charges will be insignificant. 
-
-
-
-
-
-Pre-Fiscal 2017 Actions  
-
-        Prior to fiscal 2017, we initiated a restructuring program associated with headcount reductions impacting all segments and product line
-closures in the Communications Solutions segment. During the six months ended March 30, 2018 and March 31, 2017, we recorded net restructuring charges of 
-8
+7
 
 
 
@@ -6735,9 +5827,38 @@ TE CONNECTIVITY LTD.
 
 
 2. Restructuring and Other Charges, Net (Continued) 
-$6 million
-and $5 million, respectively, related to pre-fiscal 2017 actions. We expect to incur additional charges of approximately $15 million related to pre-fiscal 2017
-actions with the remaining charges related to employee severance primarily in the Communications Solutions segment. 
+
+
+
+
+
+Fiscal 2018 Actions  
+
+        During fiscal 2018, we initiated a restructuring program associated with footprint consolidation and structural improvements primarily impacting
+the Industrial Solutions segment. In connection with this program, during the quarter ended December 29, 2017, we recorded restructuring charges of $22 million. We expect to complete
+significantly all restructuring actions commenced during the quarter ended December 29, 2017 by the end of fiscal 2019 and to incur total charges of approximately $30 million with the
+remaining charges primarily in the Industrial Solutions segment. 
+
+
+
+
+
+Fiscal 2017 Actions  
+
+        During fiscal 2017, we initiated a restructuring program associated with footprint consolidation related to recent acquisitions and structural
+improvements impacting all segments. In connection with this program, during the quarters ended December 29, 2017 and December 30, 2016, we recorded restructuring charges of
+$5 million and $46 million, respectively. We expect to complete all restructuring actions commenced during fiscal 2017 by the end of fiscal 2019 and to incur total charges of
+approximately $160 million with the remaining charges primarily in the Communications Solutions segment. 
+
+
+
+
+
+Pre-Fiscal 2017 Actions  
+
+        Prior to fiscal 2017, we initiated a restructuring program associated with headcount reductions impacting all segments and product line closures
+in the Communications Solutions segment. During the quarter ended December 29, 2017, we recorded net restructuring charges of $8 million related to pre-fiscal 2017 actions. We expect to
+incur additional charges of approximately $15 million related to pre-fiscal 2017 actions with the remaining charges primarily in the Communications Solutions segment. 
 
 
 
@@ -6764,8 +5885,8 @@ Total Restructuring Reserves
 
  
  
-March 30,
-2018 
+December 29,
+2017 
  
 September 29,
 2017 
@@ -6783,7 +5904,7 @@ September 29,
 
 
 $
-116
+139
  
 
 
@@ -6837,7 +5958,7 @@ $
 
 
 $
-129
+152
  
 
 
@@ -6920,6 +6041,15 @@ $
 
 
 
+8
+
+
+
+ 
+Table of Contents
+
+TE CONNECTIVITY LTD. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) (Continued) 
 
 
 
@@ -6945,8 +6075,8 @@ $
 
  
  
-March 30,
-2018 
+December 29,
+2017 
  
 September 29,
 2017 
@@ -6964,7 +6094,7 @@ September 29,
 
 
 $
-342
+345
  
 
 
@@ -6976,7 +6106,7 @@ $
  Work in progress
  
  
-662
+637
  
  
 580
@@ -6986,7 +6116,7 @@ $
  Finished goods
  
  
-910
+882
  
  
 810
@@ -6996,7 +6126,7 @@ $
  Inventoried costs on long-term contracts
  
  
-131
+120
  
  
 117 
@@ -7037,7 +6167,7 @@ $
 
 
 $
-2,045
+1,984
  
 
 
@@ -7196,92 +6326,92 @@ $
  Currency translation and other
  
  
-25
+4
  
  
-46
+15
  
  
-8
+2
  
  
-79 
- 
-
-
-
-
-
-​
-​
-​
-
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-
-
- March 30, 2018(1)
+21 
  
 
 
-$
-2,036
+
+
+
+​
+​
+​
+
+
+
+
+
+​
+
+
+
+
+​
+​
+
+
+
+
+​
+
+
+
+
+​
+​
+
+
+
+
+​
+
+
+
+
+​
+​
+
+
+
+
+​
+
+
+
+
+​
+
+
+ December 29, 2017(1)
  
 
 
 $
-3,093
+2,015
  
 
 
 $
-601
+3,062
  
 
 
 $
-5,730 
+595
+ 
+
+
+$
+5,672 
  
 
 
@@ -7414,18 +6544,9 @@ $
 
 
 (1)At
-March 30, 2018 and September 29, 2017, accumulated impairment losses for the Transportation Solutions, Industrial Solutions, and Communications
+December 29, 2017 and September 29, 2017, accumulated impairment losses for the Transportation Solutions, Industrial Solutions, and Communications
 Solutions segments were $2,191 million, $669 million, and $1,514 million, respectively. 
 
-9
-
-
-
- 
-Table of Contents
-
-TE CONNECTIVITY LTD. 
- NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) (Continued) 
 
 
 
@@ -7463,7 +6584,7 @@ TE CONNECTIVITY LTD.
 
  
  
-March 30, 2018 
+December 29, 2017 
  
 September 29, 2017 
  
@@ -7506,17 +6627,17 @@ Amount
 
 
 $
-1,461
+1,441
  
 
 
 $
-(351
+(325
 )
 
 
 $
-1,110
+1,116
  
 
 
@@ -7538,13 +6659,13 @@ $
  Intellectual property
  
  
-1,276
+1,266
  
  
-(620
+(597
 )
  
-656
+669
  
  
 1,263
@@ -7563,10 +6684,10 @@ $
 37
  
  
-(17
+(16
 )
  
-20
+21
  
  
 36
@@ -7660,17 +6781,17 @@ $
 
 
 $
-2,774
+2,744
  
 
 
 $
-(988
+(938
 )
 
 
 $
-1,786
+1,806
  
 
 
@@ -7864,10 +6985,31 @@ $
 
 
         Intangible
-asset amortization expense was $45 million and $41 million for the quarters ended March 30, 2018 and March 31, 2017, respectively, and
-$90 million and $83 million for the six months ended March 30, 2018 and March 31, 2017, respectively. 
-        The
-aggregate amortization expense on intangible assets is expected to be as follows: 
+asset amortization expense was $45 million and $42 million for the quarters ended December 29, 2017 and December 30, 2016, respectively. 
+9
+
+
+
+
+ 
+
+
+
+
+
+
+
+ Table of Contents 
+
+TE CONNECTIVITY LTD.  
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) (Continued)  
+
+
+
+
+5. Intangible Assets, Net (Continued)  
+
+        The aggregate amortization expense on intangible assets is expected to be as follows: 
 
 
 
@@ -7887,54 +7029,54 @@ aggregate amortization expense on intangible assets is expected to be as follows
  
 
 
- Remainder of fiscal 2018
+ Remainder of fiscal 2018
  
 
 
 $
-94
+139
  
 
 
- Fiscal 2019
+ Fiscal 2019
  
  
-185
- 
-
-
- Fiscal 2020
- 
- 
-177
+182
  
 
 
- Fiscal 2021
+ Fiscal 2020
  
  
-174
- 
-
-
- Fiscal 2022
- 
- 
-173
+175
  
 
 
- Fiscal 2023
+ Fiscal 2021
  
  
-173
+172
+ 
+
+
+ Fiscal 2022
+ 
+ 
+171
+ 
+
+
+ Fiscal 2023
+ 
+ 
+170
  
 
 
  Thereafter
  
  
-810 
+797 
  
 
 
@@ -7962,7 +7104,7 @@ $
 
 
 $
-1,786 
+1,806 
  
 
 
@@ -8020,37 +7162,19 @@ $
 
 6. Debt  
 
-        During the six months ended March 30, 2018, Tyco Electronics Group S.A. ("TEGSA"), our 100%-owned subsidiary, repaid, at maturity, $708 million of 6.55% senior notes
-due October 2017. 
-        We
-reclassified $325 million of 2.375% senior notes due December 2018 from long-term debt to short-term debt on the Condensed Consolidated Balance Sheet during the six months
-ended March 30, 2018. 
+        During October 2017, Tyco Electronics Group S.A. ("TEGSA"), our 100%-owned subsidiary, repaid, at maturity, $708 million 6.55% senior notes due 2017. 
         During
-the six months ended March 30, 2018, TEGSA entered into an uncommitted revolving credit facility under which it borrowed €100 million at a 0%
-interest rate with repayment due at maturity in December 2018. 
+the quarter ended December 29, 2017, we reclassified $325 million of 2.375% senior notes due 2018 from long-term debt to short-term debt on the Condensed
+Consolidated Balance Sheet. 
+        During
+December 2017, TEGSA entered into an uncommitted revolving credit facility under which it borrowed €100 million, at a 0% interest rate with repayment due at
+maturity in December 2018. 
         As
-of March 30, 2018, TEGSA had $225 million of commercial paper outstanding at a weighted-average interest rate of 2.26%. TEGSA had no commercial paper outstanding at
+of December 29, 2017, TEGSA had $241 million of commercial paper outstanding at a weighted-average interest rate of 1.96%. TEGSA had no commercial paper outstanding at
 September 29, 2017. 
         The
-fair value of our debt, based on indicative valuations, was approximately $4,223 million and $4,622 million at March 30, 2018 and September 29, 2017,
+fair value of our debt, based on indicative valuations, was approximately $4,298 million and $4,622 million at December 29, 2017 and September 29, 2017,
 respectively. 
-10
-
-
-
-
- 
-
-
-
-
-
-
-
- Table of Contents 
-
-TE CONNECTIVITY LTD.  
- NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) (Continued)  
 
 
 
@@ -8075,38 +7199,8 @@ law, we do not expect that the outcome of these proceedings, either individually
 Environmental Matters  
 
         We are involved in various stages of investigation and cleanup related to environmental remediation matters at a number of sites. The ultimate
-cost of site cleanup is difficult to predict given the uncertainties regarding the extent of the required cleanup, the interpretation of applicable laws and regulations, and alternative cleanup
-methods. As of March 30, 2018, we concluded that it was probable that we would incur investigation and remediation costs at these sites in the range of $15 million to $45 million,
-and we accrued $19 million which was the best estimate within this range. We believe that any potential payment of such estimated amounts will not have a material adverse effect on our results
-of operations, financial position, or cash flows. 
-
-
-
-
-
-Guarantees  
-
-        In disposing of assets or businesses, we often provide representations, warranties, and/or indemnities to cover various risks including unknown
-damage to assets, environmental risks involved in the sale of real estate, liability for investigation and remediation of environmental contamination at waste disposal sites and manufacturing
-facilities, and unidentified tax liabilities and legal fees related to periods prior to disposition. We do not expect that these uncertainties will have a material adverse effect on our results of
-operations, financial position, or cash flows. 
-        At
-March 30, 2018, we had outstanding letters of credit, letters of guarantee, and surety bonds of $285 million. 
-        We
-generally record estimated product warranty costs when contract revenues are recognized under the percentage-of-completion method for construction related contracts; other warranty
-reserves are not significant. The estimation is based primarily on historical experience and actual warranty claims. Amounts accrued for warranty claims were $46 million and $50 million
-at March 30, 2018 and September 29, 2017, respectively. 
-
-
-
-
-
-Tax Sharing Agreement  
-
-        Under a Tax Sharing Agreement, we, Tyco International plc ("Tyco International"), and Covidien plc ("Covidien") share 31%, 27%,
-and 42%, respectively, of income tax liabilities that arise from adjustments made by tax authorities to the collective income tax returns for certain of our, Tyco International's, and Covidien's
-income tax liabilities for periods prior to and including June 29, 2007. Pursuant to the Tax Sharing Agreement, we entered into certain guarantee commitments and 
-11
+cost of site cleanup is difficult to predict given 
+10
 
 
 
@@ -8120,132 +7214,41 @@ TE CONNECTIVITY LTD.
 
 
 7. Commitments and Contingencies (Continued) 
-indemnifications
-with Tyco International and Covidien. We have substantially settled all U.S. federal income tax matters with the Internal Revenue Service ("IRS") for periods covered under the Tax
-Sharing Agreement. Certain shared U.S. state and non-U.S. income tax matters remain open. We do not expect these matters will have a material effect on our results of operations, financial position,
-or cash flows. 
+the
+uncertainties regarding the extent of the required cleanup, the interpretation of applicable laws and regulations, and alternative cleanup methods. As of December 29, 2017, we concluded
+that it was probable that we would incur investigation and remediation costs at these sites in the range of $15 million to $44 million, and that the best estimate within this range was
+$19 million. We believe that any potential payment of such estimated amounts will not have a material adverse effect on our results of operations, financial position, or cash flows. 
 
 
 
 
-8. Financial Instruments  
 
-        During fiscal 2015, we entered into cross-currency swap contracts with an aggregate notional value of €1,000 million to reduce our exposure to foreign
-currency exchange risk associated with certain intercompany loans. Under the terms of these contracts, which have been designated as cash flow hedges, we make quarterly interest payments in euros at
-3.50% per annum and receive interest in U.S. dollars at a weighted-average rate of 5.33% per annum. Upon the maturities of these contracts in fiscal 2022, we will pay the principal amount of
-the loans in euros and receive U.S. dollars from our counterparties. In connection with the cross-currency swaps, we are required to post cash collateral with our counterparties. 
+Guarantees  
+
+        In disposing of assets or businesses, we often provide representations, warranties, and/or indemnities to cover various risks including unknown
+damage to assets, environmental risks involved in the sale of real estate, liability for investigation and remediation of environmental contamination at waste disposal sites and manufacturing
+facilities, and unidentified tax liabilities and legal fees related to periods prior to disposition. We do not expect that these uncertainties will have a material adverse effect on our results of
+operations, financial position, or cash flows. 
         At
-March 30, 2018 and September 29, 2017, our cross-currency swap contracts were in a liability position of $178 million and $96 million, respectively, and
-were recorded in other liabilities on the Condensed Consolidated Balance Sheets. At March 30, 2018 and September 29, 2017, collateral paid to our counterparties approximated the
-derivative positions and was recorded in prepaid expenses and other current assets on the Condensed Consolidated Balance Sheets. The impacts of our cross-currency swap contracts were as follows: 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
-For the
-Quarters Ended 
- 
-For the
-Six Months Ended 
- 
-
-
- 
- 
-March 30,
-2018 
- 
-March 31,
-2017 
- 
-March 30,
-2018 
- 
-March 31,
-2017 
- 
-
-
- 
- 
-(in millions)
- 
-
-
- Gains (losses) recorded in other comprehensive income (loss)
- 
-
-
-$
-(22
-)
-
-
-$
-8
- 
-
-
-$
-(32
-)
-
-
-$
-(8
-)
-
-
- Gains (losses) excluded from the hedging relationship(1)
- 
- 
-(31
-)
- 
-(16
-)
- 
-(50
-)
- 
-54
- 
-
-
-
-
-
-
-
-
-(1)Gains
-and losses excluded from the hedging relationship are recognized prospectively in selling, general, and administrative expenses and are offset by losses and
-gains generated as a result of re-measuring certain non-U.S. dollar-denominated intercompany non-derivative financial instruments to the U.S. dollar. 
-
+December 29, 2017, we had outstanding letters of credit, letters of guarantee, and surety bonds of $291 million. 
         We
-hedge our net investment in certain foreign operations using intercompany non-derivative financial instruments denominated in the same currencies. The aggregate notional value of
-these 
-12
+generally record estimated product warranty costs when contract revenues are recognized under the percentage-of-completion method for construction related contracts; other warranty
+reserves are not significant. The estimation is based primarily on historical experience and actual warranty claims. Amounts accrued for warranty claims were $49 million and $50 million
+at December 29, 2017 and September 29, 2017, respectively. 
+
+
+
+
+
+Tax Sharing Agreement  
+
+        As previously reported, under a Tax Sharing Agreement, we, Tyco International plc ("Tyco International"), and Covidien plc
+("Covidien") share 31%, 27%, and 42%, respectively, of income tax liabilities that arise from adjustments made by tax authorities to the collective income tax returns for certain of our, Tyco
+International's, and Covidien's income tax liabilities for periods prior to and including June 29, 2007. Pursuant to the Tax Sharing Agreement, we entered into certain guarantee
+commitments and indemnifications with Tyco International and Covidien. We have substantially settled all U.S. federal income tax matters with the Internal Revenue Service for periods covered under the
+Tax Sharing Agreement. Certain shared U.S. state and non-U.S. income tax matters remain open. We do not expect these matters will have a material effect on our results of operations, financial
+position, or cash flows. 
+11
 
 
 
@@ -8258,15 +7261,10 @@ TE CONNECTIVITY LTD.
 
 
 
-8. Financial Instruments (Continued) 
-hedges
-was $3,111 million and $3,110 million at March 30, 2018 and September 29, 2017, respectively. The impacts of our hedging program were as follows: 
+8. Financial Instruments  
 
-
-
-
-
-
+        We hedge our net investment in certain foreign operations using intercompany non-derivative financial instruments denominated in the same currencies. The aggregate notional value of
+these hedges was $3,343 million and $3,110 million at December 29, 2017 and September 29, 2017, respectively. The impacts of our hedging program were as follows: 
 
 
 
@@ -8288,24 +7286,15 @@ was $3,111 million and $3,110 million at March 30, 2018 and September 29, 20
 For the
 Quarters Ended 
  
-For the
-Six Months Ended 
- 
 
 
  
  
-March 30,
-2018 
- 
-March 31,
+December 29,
 2017 
  
-March 30,
-2018 
- 
-March 31,
-2017 
+December 30,
+2016 
  
 
 
@@ -8315,40 +7304,25 @@ March 31,
  
 
 
- Foreign currency exchange gains (losses)(1)
+ Foreign exchange gains (losses)
  
 
 
 $
-(79
+(66
 )
 
 
 $
-(78
-)
-
-
-$
-(145
-)
-
-
-$
-144
+222
  
 
 
 
 
-
-
-
-
-(1)Foreign
-currency exchange gains and losses are recorded as currency translation, a component of accumulated other comprehensive loss, and are offset by changes
-attributable to the translation of the net investment. 
-
+These
+foreign exchange gains and losses were recorded as currency translation, a component of accumulated other comprehensive loss, offsetting changes attributable to the translation of the net
+investment. 
 
 
 
@@ -8398,17 +7372,17 @@ Quarters Ended
 
  
  
-March 30,
-2018 
- 
-March 31,
+December 29,
 2017 
  
-March 30,
-2018 
+December 30,
+2016 
  
-March 31,
+December 29,
 2017 
+ 
+December 30,
+2016 
  
 
 
@@ -8423,7 +7397,7 @@ March 31,
 
 
 $
-4
+3
  
 
 
@@ -8433,7 +7407,7 @@ $
 
 
 $
-11
+12
  
 
 
@@ -8451,7 +7425,7 @@ $
 11
  
  
-11
+10
  
  
 9
@@ -8464,29 +7438,29 @@ $
 (15
 )
  
-(14
+(13
 )
  
 (17
 )
  
-(17
+(18
 )
 
 
  Amortization of net actuarial loss
  
  
-5
+6
  
  
 10
  
  
-5
+6
  
  
-10
+11
  
 
 
@@ -8499,10 +7473,10 @@ $
 —
  
  
-(1
+(2
 )
  
-(1
+(2
 ) 
 
 
@@ -8569,7 +7543,7 @@ $
 
 
 $
-10
+11
  
 
 
@@ -8579,7 +7553,7 @@ $
 
 
 $
-14 
+13 
  
 
 
@@ -8600,361 +7574,6 @@ $
 
 ​
 ​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
-
-
-
-
-
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-
-
-
-
-
-​
-​
-​
-
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​ 
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
-U.S. Plans 
- 
-Non-U.S. Plans 
- 
-
-
- 
- 
-For the
-Six Months Ended 
- 
-For the
-Six Months Ended 
- 
-
-
- 
- 
-March 30,
-2018 
- 
-March 31,
-2017 
- 
-March 30,
-2018 
- 
-March 31,
-2017 
- 
-
-
- 
- 
-(in millions)
- 
-
-
- Service cost
- 
-
-
-$
-7
- 
-
-
-$
-6
- 
-
-
-$
-23
- 
-
-
-$
-26
- 
-
-
- Interest cost
- 
- 
-22
- 
- 
-22
- 
- 
-21
- 
- 
-18
- 
-
-
- Expected return on plan assets
- 
- 
-(30
-)
- 
-(27
-)
- 
-(34
-)
- 
-(35
-)
-
-
- Amortization of net actuarial loss
- 
- 
-11
- 
- 
-20
- 
- 
-11
- 
- 
-21
- 
-
-
- Amortization of prior service credit
- 
- 
-—
- 
- 
-—
- 
- 
-(3
-)
- 
-(3
-) 
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
-
-
- Net periodic pension benefit cost
- 
-
-
-$
-10
- 
-
-
-$
-21
- 
-
-
-$
-18
- 
-
-
-$
-27 
- 
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
 
 
 
@@ -9064,6 +7683,58 @@ $
 
         The
 components of net periodic pension benefit cost other than service cost are included in other income (expense), net on the Condensed Consolidated Statements of Operations. 
+        During
+the quarter ended December 29, 2017, we contributed $13 million to our non-U.S. pension plans. 
+12
+
+
+
+ 
+Table of Contents
+
+TE CONNECTIVITY LTD. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) (Continued) 
+
+
+
+
+10. Income Taxes  
+
+        We recorded income tax expense of $600 million and $54 million for the quarters ended December 29, 2017 and December 30, 2016, respectively. The income tax
+expense for the quarter ended December 29, 2017 included $567 million of income tax expense related to the tax impacts of the Tax Cuts and Jobs Act (the "Act") and a $61 million
+net income tax benefit related to certain legal entity restructurings. See "Tax Cuts and Jobs Act" below for additional information. The income tax expense for the quarter ended December 30,
+2016 included a $30 million income tax benefit associated with the tax impacts of certain intercompany restructurings and the corresponding reduction in the valuation allowance for U.S. tax
+loss carryforwards. 
+        We
+record accrued interest and penalties related to uncertain tax positions as part of income tax expense. As of December 29, 2017 and September 29, 2017, we had
+$62 million and $60 million, respectively, of accrued interest and penalties related to uncertain tax positions on the Condensed Consolidated Balance Sheets, recorded primarily in income
+taxes. During the quarter ended December 29, 2017, we recognized $2 million of income tax expense related to interest and penalties on the Condensed Consolidated Statement of Operations. 
+        Although
+it is difficult to predict the timing or results of our worldwide examinations, we estimate that up to approximately $40 million of unrecognized income tax benefits,
+excluding the impact relating to accrued interest and penalties, could be resolved within the next twelve months. 
+        We
+are not aware of any other matters that would result in significant changes to the amount of unrecognized income tax benefits reflected on the Condensed Consolidated Balance Sheet as
+of December 29, 2017. 
+
+
+
+
+
+Tax Cuts and Jobs Act  
+
+        On December 22, 2017, the President of the U.S. signed the Act into law. The Act includes numerous significant changes to existing tax
+law, including a permanent reduction in the U.S. federal statutory income tax rate from 35% to 21%, further limitations on the deductibility of interest expense and certain executive compensation,
+repeal of the corporate Alternative Minimum Tax, and imposition of a territorial tax system with a one-time repatriation tax on deemed repatriated earnings of foreign subsidiaries. While some of the
+new provisions of the Act will impact us in fiscal 2019 and beyond, the change in the corporate income tax rate was effective January 1, 2018. During the quarter ended December 29, 2017,
+we were required to revalue our U.S. federal deferred tax assets and liabilities at the new federal corporate income tax rate in the period of enactment; accordingly, we recorded additional income tax
+expense of $567 million primarily to write-down our net U.S. federal deferred tax asset to the lower statutory tax rate. Most of this charge related to the revaluation of our U.S. federal net
+operating loss and interest carryforwards to the lower tax rate. Included in the $567 million charge was a $34 million benefit related to the reduction in the existing valuation
+allowance recorded against certain U.S. federal tax credit carryforwards. The limitations on interest expense deductions contained in the Act are expected to increase prospective taxable income and
+thereby allow the utilization of more tax credits in future years. As a Swiss corporation, the one-time repatriation tax imposed by the Act will not be significant to us. Also, we do not expect a
+change in our fiscal 2018 cash taxes because of the new law. 
+        The
+Act makes broad and complex changes to the U.S. tax code, and in certain instances, lacks clarity and is subject to interpretation until additional Internal Revenue Service guidance
+is issued. The 
 13
 
 
@@ -9077,90 +7748,20 @@ TE CONNECTIVITY LTD.
 
 
 
-9. Retirement Plans (Continued) 
-        During
-the six months ended March 30, 2018, we contributed $26 million to our non-U.S. pension plans. 
-
-
-
-
-10. Income Taxes  
-
-        We recorded income tax expense of $108 million and $39 million for the quarters ended March 30, 2018 and March 31, 2017, respectively. The income tax expense
-for the quarter ended March 30, 2018 included a $17 million income tax benefit resulting from lapses of statutes of limitations in certain non-U.S. jurisdictions. The income tax expense
-for the quarter ended March 31, 2017 included a $24 million income tax benefit resulting from lapses of statutes of limitations in the U.S. and certain non-U.S. jurisdictions, and a
-$22 million income tax benefit associated with the tax impacts of certain intercompany transactions. 
-        We
-recorded income tax expense of $708 million and $93 million for the six months ended March 30, 2018 and March 31, 2017, respectively. The tax expense for
-the six months ended March 30, 2018 included $567 million of income tax expense related to the tax impacts of the Tax Cuts and Jobs Act and a $61 million net income tax benefit
-related to certain legal entity restructurings. See "Tax Cuts and
-Jobs Act" below for additional information. The tax expense for the six months ended March 31, 2017 included a $52 million income tax benefit associated with the tax impacts of certain
-intercompany transactions and the corresponding reduction in the valuation allowance for U.S. tax loss carryforwards, as well as a $24 million income tax benefit resulting from lapses of
-statutes of limitations in the U.S. and certain non-U.S. jurisdictions. 
-        We
-record accrued interest and penalties related to uncertain tax positions as part of income tax expense. As of March 30, 2018 and September 29, 2017, we had
-$59 million and $60 million, respectively, of accrued interest and penalties related to uncertain tax positions on the Condensed Consolidated Balance Sheets, recorded primarily in income
-taxes. During the six months ended March 30, 2018, we recognized $1 million of income tax benefits related to interest and penalties on the Condensed Consolidated Statement of
-Operations. 
-        Although
-it is difficult to predict the timing or results of our worldwide examinations, we estimate that approximately $30 million of unrecognized income tax benefits, excluding
-the impact relating to accrued interest and penalties, could be resolved within the next twelve months. 
-        We
-are not aware of any other matters that would result in significant changes to the amount of unrecognized income tax benefits reflected on the Condensed Consolidated Balance Sheet as
-of March 30, 2018. 
-
-
-
-
-
-Tax Cuts and Jobs Act  
-
-        On December 22, 2017, the President of the U.S. signed the Tax Cuts and Jobs Act (the "Act") into law. The Act includes numerous
-significant changes to existing tax law, including a permanent reduction in the U.S. federal corporate income tax rate from 35% to 21%, further limitations on the deductibility of interest expense and
-certain executive compensation, repeal of the corporate Alternative Minimum Tax, and imposition of a territorial tax system with a one-time repatriation tax on deemed repatriated earnings of foreign
-subsidiaries. While some of the new provisions of the Act will impact us in fiscal 2019 and beyond, the change in the tax rate was effective January 1, 2018. In the 
-14
-
-
-
- 
-Table of Contents
-
-TE CONNECTIVITY LTD. 
- NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) (Continued) 
-
-
-
-
 10. Income Taxes (Continued) 
-period
-of enactment, we were required to revalue our U.S. federal deferred tax assets and liabilities at the new tax rate. Accordingly, during the quarter ended December 29, 2017, we recorded
-income tax expense of $567 million primarily in connection with the write-down of our U.S. federal deferred tax asset for net operating loss and interest carryforwards to the lower tax rate.
-Included in the expense of $567 million was an income tax benefit of $34 million related to the reduction in the existing valuation allowance recorded against certain U.S. federal tax
-credit carryforwards. The limitations on interest expense deductions contained in the Act are expected to increase prospective taxable income and thereby allow the utilization of more tax credits in
-future years. As a Swiss corporation, the one-time repatriation tax imposed by the Act will not be significant to us. 
-        The
-Act makes broad and complex changes to the U.S. Internal Revenue Code, and in certain instances, lacks clarity and is subject to interpretation until additional IRS guidance is
-issued. The ultimate impact of the Act may differ from our estimates due to changes in the interpretations and assumptions we made as well as any forthcoming regulatory guidance. One area requiring
-guidance is a transition rule regarding limitations on interest expense deductions. The Act does not address the treatment of the carryforward of disallowed interest expense generated under the prior
-law. Our interpretation is that the carryforward of interest should survive and will be deductible in future periods subject to the new interest limitations. Accordingly, during the quarter ended
-December 29, 2017, we revalued our beginning deferred tax asset related to our interest carryforwards to $223 million to reflect the lower tax rate. It is possible additional regulatory
-guidance could be issued contrary to this interpretation at which point we may be required to record a charge to income tax expense to revalue or eliminate the related deferred tax asset. On
-April 2, 2018, the Treasury Department and the IRS issued Notice 2018-28 stating their intention to issue regulations consistent with our position related to the carryforward of the
-disallowed interest expense. 
+ultimate
+impact of the Act may differ from our estimates due to changes in the interpretations and assumptions we made as well as any forthcoming regulatory guidance. One area requiring guidance is a
+transition rule regarding limitations on interest expense deductions. The Act does not address the treatment of the carryforward of disallowed interest expense generated under the prior law. Our
+interpretation is that the carryforward of interest should survive and is deductible in future periods subject to the new interest limitations. Accordingly, during the quarter ended
+December 29, 2017, we revalued our beginning deferred tax asset related to our interest carryforwards to $223 million to reflect the lower statutory rate. It is possible additional
+regulatory guidance could be issued contrary to this interpretation at which point we may be required to record a charge to income tax expense to revalue or eliminate the related deferred tax asset. 
 
 
 
 
-11. Earnings Per Share  
+11. Earnings (Loss) Per Share  
 
-        The weighted-average number of shares outstanding used in the computations of basic and diluted earnings per share were as follows: 
-
-
-
-
-
-
+        The weighted-average number of shares outstanding used in the computations of basic and diluted earnings (loss) per share were as follows: 
 
 
 
@@ -9182,24 +7783,15 @@ disallowed interest expense.
 For the
 Quarters Ended 
  
-For the
-Six Months Ended 
- 
 
 
  
  
-March 30,
-2018 
- 
-March 31,
+December 29,
 2017 
  
-March 30,
-2018 
- 
-March 31,
-2017 
+December 30,
+2016 
  
 
 
@@ -9212,13 +7804,7 @@ March 31,
  Basic
  
  
-351
- 
- 
-356
- 
- 
-351
+352
  
  
 356
@@ -9228,13 +7814,7 @@ March 31,
  Dilutive impact of share-based compensation arrangements
  
  
-3
- 
- 
-3
- 
- 
-4
+—
  
  
 3 
@@ -9256,28 +7836,6 @@ March 31,
 
 
 
-​
-​
-
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
 
 ​
 ​
@@ -9296,13 +7854,7 @@ March 31,
  Diluted
  
  
-354
- 
- 
-359
- 
- 
-355
+352
  
  
 359 
@@ -9335,41 +7887,12 @@ March 31,
 
 
 
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
 ​
 
 
 
 
 
-​
-​
-​
-​
-​
-​
 ​
 ​
 ​
@@ -9386,29 +7909,6 @@ March 31,
 ​
 ​
 ​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
 
 
 
@@ -9435,25 +7935,11 @@ March 31,
 
 
         There
-were one million share options that were not included in the computation of diluted earnings per share for the six months ended March 30, 2018 and March 31, 2017
-because the instruments' underlying exercise prices were greater than the average market prices of our common shares and inclusion would be antidilutive. 
-15
-
-
-
-
- 
-
-
-
-
-
-
-
- Table of Contents 
-
-TE CONNECTIVITY LTD.  
- NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) (Continued)  
+were one million and two million share options that were not included in the computation of diluted earnings (loss) per share for the quarters ended December 29, 2017 and
+December 30, 2016, respectively, because the instruments' underlying exercise prices were greater than the average market prices of our common shares and inclusion would be antidilutive. 
+        For
+the quarter ended December 29, 2017, there were three million nonvested share awards and options outstanding with underlying exercise prices less than the average market
+prices of our common shares; however, these were excluded from the calculation of diluted loss per share as inclusion would be antidilutive as a result of our loss during the period. 
 
 
 
@@ -9464,22 +7950,26 @@ TE CONNECTIVITY LTD.
 
 
 
-Common Shares  
-
-        In March 2018, our shareholders reapproved and extended through March 14, 2020, our board of directors' authorization to issue
-additional new shares, subject to certain conditions specified in our articles of association, in aggregate not exceeding 50% of the amount of our authorized shares. 
-
-
-
-
-
 Dividends  
 
-        In March 2018, our shareholders approved a dividend payment to shareholders of $1.76 per share, payable in four equal quarterly
-installments of $0.44 per share beginning in the third quarter of fiscal 2018 and ending in the second quarter of fiscal 2019. 
+        We paid a cash dividend of $0.40 per share during the quarter ended December 29, 2017. 
         Upon
-shareholders' approval of a dividend payment, we record a liability with a corresponding charge to shareholders' equity. At March 30, 2018 and September 29, 2017, the
-unpaid portion of the dividends recorded in accrued and other current liabilities on the Condensed Consolidated Balance Sheets totaled $617 million and $281 million, respectively. 
+shareholders' approval of a dividend payment, we record a liability with a corresponding charge to shareholders' equity. At December 29, 2017 and September 29, 2017,
+the unpaid portion of the dividends recorded in accrued and other current liabilities on the Condensed Consolidated Balance Sheets totaled $140 million and $281 million, respectively. 
+14
+
+
+
+ 
+Table of Contents
+
+TE CONNECTIVITY LTD. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) (Continued) 
+
+
+
+
+12. Shareholders' Equity (Continued) 
 
 
 
@@ -9487,7 +7977,7 @@ unpaid portion of the dividends recorded in accrued and other current liabilitie
 
 Share Repurchase Program  
 
-        During the six months ended March 30, 2018, our board of directors authorized an increase of $1.5 billion in the share repurchase
+        During the quarter ended December 29, 2017, our board of directors authorized an increase of $1.5 billion in the share repurchase
 program. Common shares repurchased under the share repurchase program were as follows: 
 
 
@@ -9508,17 +7998,17 @@ program. Common shares repurchased under the share repurchase program were as fo
  
  
 For the
-Six Months Ended 
+Quarters Ended 
  
 
 
  
  
-March 30,
-2018 
- 
-March 31,
+December 29,
 2017 
+ 
+December 30,
+2016 
  
 
 
@@ -9531,10 +8021,10 @@ March 31,
  Number of common shares repurchased
  
  
-4
+2
  
  
-3
+2
  
 
 
@@ -9543,19 +8033,19 @@ March 31,
 
 
 $
-383
+214
  
 
 
 $
-205
+102
  
 
 
 
 
         At
-March 30, 2018, we had $1.6 billion of availability remaining under our share repurchase authorization. 
+December 29, 2017, we had $1,766 million of availability remaining under our share repurchase authorization. 
 
 
 
@@ -9579,35 +8069,20 @@ March 30, 2018, we had $1.6 billion of availability remaining under our share 
 
 
 
-
-
-
-
-
-
  
  
 For the
 Quarters Ended 
  
-For the
-Six Months Ended 
- 
 
 
  
  
-March 30,
-2018 
- 
-March 31,
+December 29,
 2017 
  
-March 30,
-2018 
- 
-March 31,
-2017 
+December 30,
+2016 
  
 
 
@@ -9622,44 +8097,20 @@ March 31,
 
 
 $
-23
+29
  
 
 
 $
-23
- 
-
-
-$
-52
- 
-
-
-$
-47
+24
  
 
 
 
 
         As
-of March 30, 2018, there was $180 million of unrecognized compensation expense related to share-based awards, which is expected to be recognized over a weighted-average
-period of 2.1 years. 
-16
-
-
-
- 
-Table of Contents
-
-TE CONNECTIVITY LTD. 
- NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) (Continued) 
-
-
-
-
-13. Share Plans (Continued) 
+of December 29, 2017, there was $204 million of unrecognized compensation expense related to share-based awards, which is expected to be recognized over a
+weighted-average period of 2.3 years. 
         During
 the quarter ended December 29, 2017, we granted the following share-based awards as part of our annual incentive plan grant: 
 
@@ -9731,8 +8182,32 @@ $
 
 
         As
-of March 30, 2018, we had 20 million shares available for issuance under our stock and incentive plans, of which the TE Connectivity Ltd. 2007 Stock and Incentive
-Plan, amended and restated as of March 8, 2017, was the primary plan. 
+of December 29, 2017, we had 20 million shares available for issuance under our stock and incentive plans, of which the TE Connectivity Ltd. 2007 Stock and
+Incentive Plan, amended and restated as of March 8, 2017, was the primary plan. 
+15
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Table of Contents 
+
+TE CONNECTIVITY LTD.  
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) (Continued)  
+
+
+
+
+13. Share Plans (Continued)  
 
 
 
@@ -9793,7 +8268,7 @@ $
 
 14. Segment Data  
 
-        Net sales by segment were as follows: 
+        Net sales and operating income by segment were as follows: 
 
 
 
@@ -9814,6 +8289,14 @@ $
 
 
 
+
+
+ 
+ 
+Net Sales(1) 
+ 
+Operating Income 
+ 
 
 
  
@@ -9822,23 +8305,23 @@ For the
 Quarters Ended 
  
 For the
-Six Months Ended 
+Quarters Ended 
  
 
 
  
  
-March 30,
-2018 
- 
-March 31,
+December 29,
 2017 
  
-March 30,
-2018 
+December 30,
+2016 
  
-March 31,
+December 29,
 2017 
+ 
+December 30,
+2016 
  
 
 
@@ -9853,129 +8336,131 @@ March 31,
 
 
 $
-2,134
+2,032
  
 
 
 $
-1,755
+1,675
  
 
 
 $
-4,166
+420
  
 
 
 $
-3,430
+348
  
 
 
  Industrial Solutions
  
  
-972
+882
  
  
-853
+795
  
  
-1,854
+102
  
  
-1,648
+70
  
 
 
  Communications Solutions
  
  
-639
+566
  
  
-619
+593
  
  
-1,205
+59
  
  
-1,212 
- 
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-
-
- Total(1)
+77 
  
 
 
-$
-3,745
+
+
+
+​
+​
+​
+
+
+
+
+​
+
+
+
+
+​
+​
+
+
+
+
+​
+
+
+
+
+
+​
+​
+
+
+
+
+​
+
+
+
+
+​
+​
+
+
+
+
+​
+
+
+
+
+
+​
+
+
+ Total
  
 
 
 $
-3,227
+3,480
  
 
 
 $
-7,225
+3,063
  
 
 
 $
-6,290 
+581
+ 
+
+
+$
+495 
  
 
 
@@ -10110,332 +8595,7 @@ $
 (1)Intersegment
 sales were not material and were recorded at selling prices that approximated market prices. 
 
-17
-
-
-
- 
-Table of Contents
-
-TE CONNECTIVITY LTD. 
- NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) (Continued) 
-
-
-
-
-14. Segment Data (Continued) 
-        Operating
-income by segment was as follows: 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
-For the
-Quarters Ended 
- 
-For the
-Six Months Ended 
- 
-
-
- 
- 
-March 30,
-2018 
- 
-March 31,
-2017 
- 
-March 30,
-2018 
- 
-March 31,
-2017 
- 
-
-
- 
- 
-(in millions)
- 
-
-
- Transportation Solutions
- 
-
-
-$
-428
- 
-
-
-$
-305
- 
-
-
-$
-848
- 
-
-
-$
-653
- 
-
-
- Industrial Solutions
- 
- 
-126
- 
- 
-88
- 
- 
-228
- 
- 
-158
- 
-
-
- Communications Solutions
- 
- 
-70
- 
- 
-88
- 
- 
-129
- 
- 
-165 
- 
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-
-
- Total
- 
-
-
-$
-624
- 
-
-
-$
-481
- 
-
-
-$
-1,205
- 
-
-
-$
-976 
- 
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-
-
-
-
-
-​
-​
-​
-
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​ 
-
-
-
-
-18
+16
 
 
 
@@ -10454,8 +8614,9 @@ TE CONNECTIVITY LTD.
 subsidiaries. TEGSA is the obligor under our senior notes, commercial paper, and five-year unsecured senior revolving credit facility, which are fully and unconditionally guaranteed by its parent, TE
 Connectivity Ltd. The following tables present condensed consolidating financial information for TE Connectivity Ltd., TEGSA, and all other subsidiaries that are not providing a
 guarantee of debt but which represent assets of TEGSA, using the equity method of accounting. 
- Condensed Consolidating Statement of Operations (UNAUDITED)
-For the Quarter Ended March 30, 2018  
+ 
+ 
+  Condensed Consolidating Statement of Operations (UNAUDITED)  For the Quarter Ended December 29, 2017     
 
 
 
@@ -10520,7 +8681,7 @@ $
 
 
 $
-3,745
+3,480
  
 
 
@@ -10530,7 +8691,7 @@ $
 
 
 $
-3,745
+3,480
  
 
 
@@ -10543,13 +8704,13 @@ $
 —
  
  
-2,502
+2,303
  
  
 —
  
  
-2,502 
+2,303 
  
 
 
@@ -10625,32 +8786,32 @@ $
 —
  
  
-1,243
+1,177
  
  
 —
  
  
-1,243
+1,177
  
 
 
  Selling, general, and administrative expenses, net
  
  
-41
+47
  
  
-9
+(3
+)
  
- 
-378
+339
  
  
 —
  
  
-428
+383
  
 
 
@@ -10663,13 +8824,13 @@ $
 —
  
  
-182
+176
  
  
 —
  
  
-182
+176
  
 
 
@@ -10682,13 +8843,13 @@ $
 —
  
  
-3
+2
  
  
 —
  
  
-3
+2
  
 
 
@@ -10701,13 +8862,13 @@ $
 —
  
  
-6
+35
  
  
 —
  
  
-6 
+35 
  
 
 
@@ -10778,19 +8939,19 @@ $
  Operating income (loss)
  
  
-(41
+(47
 )
  
-(9
-)
+3
  
-674
+ 
+625
  
  
 —
  
  
-624
+581
  
 
 
@@ -10800,10 +8961,10 @@ $
 —
  
  
-1
+—
  
  
-3
+4
  
  
 —
@@ -10819,7 +8980,7 @@ $
 —
  
  
-(29
+(26
 )
  
 —
@@ -10828,7 +8989,7 @@ $
 —
  
  
-(29
+(26
 )
 
 
@@ -10841,29 +9002,29 @@ $
 —
  
  
-1
+2
  
  
 —
  
  
-1
+2
  
 
 
  Equity in net income of subsidiaries
  
  
-550
+21
  
  
-557
+16
  
  
 —
  
  
-(1,107
+(37
 )
  
 —
@@ -10873,16 +9034,16 @@ $
  Equity in net loss of subsidiaries of discontinued operations
  
  
-(2
+(1
 )
  
-(2
+(1
 )
  
 —
  
  
-4
+2
  
  
 —
@@ -10892,13 +9053,13 @@ $
  Intercompany interest income (expense), net
  
  
-(17
+(13
 )
  
-30
+28
  
  
-(13
+(15
 )
  
 —
@@ -10971,22 +9132,22 @@ $
 ​
 
 
- Income from continuing operations before income taxes
+ Income (loss) from continuing operations before income taxes
  
  
-490
- 
- 
-548
- 
- 
-665
- 
- 
-(1,103
+(40
 )
  
-600
+20
+ 
+ 
+616
+ 
+ 
+(35
+)
+ 
+561
  
 
 
@@ -10999,13 +9160,13 @@ $
 —
  
  
-(108
+(600
 )
  
 —
  
  
-(108
+(600
 ) 
 
 
@@ -11072,23 +9233,23 @@ $
 ​
 
 
- Income from continuing operations
+ Income (loss) from continuing operations
  
  
-490
- 
- 
-548
- 
- 
-557
- 
- 
-(1,103
+(40
 )
  
-492
+20
  
+ 
+16
+ 
+ 
+(35
+)
+ 
+(39
+)
 
 
  Loss from discontinued operations, net of income taxes
@@ -11100,13 +9261,13 @@ $
 —
  
  
-(2
+(1
 )
  
 —
  
  
-(2
+(1
 ) 
 
 
@@ -11173,41 +9334,41 @@ $
 ​
 
 
- Net income
+ Net income (loss)
  
  
-490
- 
- 
-548
- 
- 
-555
- 
- 
-(1,103
+(40
 )
  
-490
+20
  
+ 
+15
+ 
+ 
+(35
+)
+ 
+(40
+)
 
 
  Other comprehensive income
  
  
-73
+76
  
  
-73
+76
  
  
-94
+87
  
  
-(167
+(163
 )
  
-73 
+76 
  
 
 
@@ -11248,20 +9409,20 @@ $
 
 
 
+
 ​
-​
-
-
-
-
 ​
 
 
 
 
 ​
-​
 
+
+
+
+​
+​
 
 
 
@@ -11279,27 +9440,27 @@ $
 
 
 $
-563
+36
  
 
 
 $
-621
+96
  
 
 
 $
-649
+102
  
 
 
 $
-(1,270
+(198
 )
 
 
 $
-563 
+36 
  
 
 
@@ -11313,28 +9474,6 @@ $
 
 
 
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-
-
-
 
 ​
 
@@ -11352,46 +9491,6 @@ $
 
 
 
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-
-
-
-
-
-​
 ​
 ​
 
@@ -11427,6 +9526,35 @@ $
 
 
 ​
+
+
+
+
+
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+
+
+
+
+​
+​
 ​
 
 
@@ -11439,6 +9567,40 @@ $
 
 ​
 ​
+
+
+
+
+​
+
+
+
+
+​
+​
+
+
+
+
+​
+
+
+
+
+​
+​
+
+
+
+
+​
+
+
+
+
+​
+​
+
 
 
 
@@ -11453,7 +9615,7 @@ $
 
 
 
-19
+17
 
 
 
@@ -11467,8 +9629,9 @@ TE CONNECTIVITY LTD.
 
 
 15. Tyco Electronics Group S.A. (Continued) 
- Condensed Consolidating Statement of Operations (UNAUDITED)
-For the Quarter Ended March 31, 2017  
+ 
+ 
+  Condensed Consolidating Statement of Operations (UNAUDITED)  For the Quarter Ended December 30, 2016     
 
 
 
@@ -11533,7 +9696,7 @@ $
 
 
 $
-3,227
+3,063
  
 
 
@@ -11543,7 +9706,7 @@ $
 
 
 $
-3,227
+3,063
  
 
 
@@ -11556,13 +9719,13 @@ $
 —
  
  
-2,117
+1,996
  
  
 —
  
  
-2,117 
+1,996 
  
 
 
@@ -11638,32 +9801,32 @@ $
 —
  
  
-1,110
+1,067
  
  
 —
  
  
-1,110
+1,067
  
 
 
  Selling, general, and administrative expenses, net
  
  
-48
+28
  
  
-18
+(88
+)
  
- 
-341
+427
  
  
 —
  
  
-407
+367
  
 
 
@@ -11676,13 +9839,13 @@ $
 —
  
  
-161
+156
  
  
 —
  
  
-161
+156
  
 
 
@@ -11714,13 +9877,13 @@ $
 —
  
  
-59
+47
  
  
 —
  
  
-59 
+47 
  
 
 
@@ -11791,19 +9954,19 @@ $
  Operating income (loss)
  
  
-(48
+(28
 )
  
-(18
-)
+88
  
-547
+ 
+435
  
  
 —
  
  
-481
+495
  
 
 
@@ -11816,13 +9979,13 @@ $
 —
  
  
-6
+5
  
  
 —
  
  
-6
+5
  
 
 
@@ -11832,7 +9995,7 @@ $
 —
  
  
-(32
+(31
 )
  
 —
@@ -11841,7 +10004,7 @@ $
 —
  
  
-(32
+(31
 )
 
 
@@ -11854,48 +10017,48 @@ $
 —
  
  
-(10
+(9
 )
  
 —
  
  
-(10
+(9
 )
 
 
  Equity in net income of subsidiaries
  
  
-462
+440
  
  
-483
+356
  
  
 —
  
  
-(945
+(796
 )
  
 —
  
 
 
- Equity in net income (loss) of subsidiaries of discontinued operations
+ Equity in net income of subsidiaries of discontinued operations
  
  
-(1
-)
+3
  
-10
+ 
+4
  
  
 —
  
  
-(9
+(7
 )
  
 —
@@ -11905,10 +10068,10 @@ $
  Intercompany interest income (expense), net
  
  
-(8
+(6
 )
  
-29
+27
  
  
 (21
@@ -11987,19 +10150,19 @@ $
  Income from continuing operations before income taxes
  
  
-405
+409
  
  
-472
+444
  
  
-522
+410
  
  
-(954
+(803
 )
  
-445
+460
  
 
 
@@ -12012,13 +10175,13 @@ $
 —
  
  
-(39
+(54
 )
  
 —
  
  
-(39
+(54
 ) 
 
 
@@ -12088,1656 +10251,30 @@ $
  Income from continuing operations
  
  
-405
+409
  
  
-472
+444
  
  
-483
+356
  
  
-(954
+(803
 )
  
 406
  
 
 
- Income (loss) from discontinued operations, net of income taxes(1)
- 
- 
-—
- 
- 
-(11
-)
- 
-10
+ Income (loss) from discontinued operations, net of income taxes
  
  
 —
  
  
 (1
-) 
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-
-​
-
-
-
-
-​
-
-
- Net income
- 
- 
-405
- 
- 
-461
- 
- 
-493
- 
- 
-(954
 )
- 
-405
- 
-
-
- Other comprehensive income
- 
- 
-114
- 
- 
-114
- 
- 
-106
- 
- 
-(220
-)
- 
-114 
- 
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-
-
- Comprehensive income
- 
-
-
-$
-519
- 
-
-
-$
-575
- 
-
-
-$
-599
- 
-
-
-$
-(1,174
-)
-
-
-$
-519 
- 
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​ 
-
-
-
-
-
-
-
-
-(1)Includes
-the internal allocation of gains and losses associated with the divestiture of our Broadband Network Solutions ("BNS") business. 
-
-20
-
-
-
- 
-Table of Contents
-
-TE CONNECTIVITY LTD. 
- NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) (Continued) 
-
-
-
-
-15. Tyco Electronics Group S.A. (Continued) 
- Condensed Consolidating Statement of Operations (UNAUDITED)
-For the Six Months Ended March 30, 2018  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
-TE
-Connectivity
-Ltd. 
- 
-TEGSA 
- 
-Other
-Subsidiaries 
- 
-Consolidating
-Adjustments 
- 
-Total 
- 
-
-
- 
- 
-(in millions)
- 
-
-
- Net sales
- 
-
-
-$
-—
- 
-
-
-$
-—
- 
-
-
-$
-7,225
- 
-
-
-$
-—
- 
-
-
-$
-7,225
- 
-
-
- Cost of sales
- 
- 
-—
- 
- 
-—
- 
- 
-4,805
- 
- 
-—
- 
- 
-4,805 
- 
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-
-​
-
-
-
-
-​
-
-
- Gross margin
- 
- 
-—
- 
- 
-—
- 
- 
-2,420
- 
- 
-—
- 
- 
-2,420
- 
-
-
- Selling, general, and administrative expenses, net
- 
- 
-88
- 
- 
-6
- 
- 
-717
- 
- 
-—
- 
- 
-811
- 
-
-
- Research, development, and engineering expenses
- 
- 
-—
- 
- 
-—
- 
- 
-358
- 
- 
-—
- 
- 
-358
- 
-
-
- Acquisition and integration costs
- 
- 
-—
- 
- 
-—
- 
- 
-5
- 
- 
-—
- 
- 
-5
- 
-
-
- Restructuring and other charges, net
- 
- 
-—
- 
- 
-—
- 
- 
-41
- 
- 
-—
- 
- 
-41 
- 
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-
-
- Operating income (loss)
- 
- 
-(88
-)
- 
-(6
-)
- 
-1,299
- 
- 
-—
- 
- 
-1,205
- 
-
-
- Interest income
- 
- 
-—
- 
- 
-1
- 
- 
-7
- 
- 
-—
- 
- 
-8
- 
-
-
- Interest expense
- 
- 
-—
- 
- 
-(55
-)
- 
-—
- 
- 
-—
- 
- 
-(55
-)
-
-
- Other income, net
- 
- 
-—
- 
- 
-—
- 
- 
-3
- 
- 
-—
- 
- 
-3
- 
-
-
- Equity in net income of subsidiaries
- 
- 
-571
- 
- 
-573
- 
- 
-—
- 
- 
-(1,144
-)
- 
-—
- 
-
-
- Equity in net loss of subsidiaries of discontinued operations
- 
- 
-(3
-)
- 
-(3
-)
- 
-—
- 
- 
-6
- 
- 
-—
- 
-
-
- Intercompany interest income (expense), net
- 
- 
-(30
-)
- 
-58
- 
- 
-(28
-)
- 
-—
- 
- 
-— 
- 
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-
-
- Income from continuing operations before income taxes
- 
- 
-450
- 
- 
-568
- 
- 
-1,281
- 
- 
-(1,138
-)
- 
-1,161
- 
-
-
- Income tax expense
- 
- 
-—
- 
- 
-—
- 
- 
-(708
-)
- 
-—
- 
- 
-(708
-) 
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-
-
- Income from continuing operations
- 
- 
-450
- 
- 
-568
- 
- 
-573
- 
- 
-(1,138
-)
- 
-453
- 
-
-
- Loss from discontinued operations, net of income taxes
- 
- 
-—
- 
- 
-—
- 
- 
-(3
-)
- 
-—
- 
- 
-(3
-) 
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-
-
- Net income
- 
- 
-450
- 
- 
-568
- 
- 
-570
- 
- 
-(1,138
-)
- 
-450
- 
-
-
- Other comprehensive income
- 
- 
-149
- 
- 
-149
- 
- 
-181
- 
- 
-(330
-)
- 
-149 
- 
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-
-​
-
-
-
-
-​
-
-
- Comprehensive income
- 
-
-
-$
-599
- 
-
-
-$
-717
- 
-
-
-$
-751
- 
-
-
-$
-(1,468
-)
-
-
-$
-599 
- 
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​ 
-
-
-
-
-21
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-Table of Contents 
-
-TE CONNECTIVITY LTD.  
- NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) (Continued)  
-
-
-
-
-15. Tyco Electronics Group S.A. (Continued)  
- 
-    Condensed Consolidating Statement of Operations (UNAUDITED)  For the Six Months Ended March 31, 2017     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
-TE
-Connectivity
-Ltd. 
- 
-TEGSA 
- 
-Other
-Subsidiaries 
- 
-Consolidating
-Adjustments 
- 
-Total 
- 
-
-
- 
- 
-(in millions)
- 
-
-
- Net sales
- 
-
-
-$
-—
- 
-
-
-$
-—
- 
-
-
-$
-6,290
- 
-
-
-$
-—
- 
-
-
-$
-6,290
- 
-
-
- Cost of sales
- 
- 
-—
- 
- 
-—
- 
- 
-4,113
- 
- 
-—
- 
- 
-4,113 
- 
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-
-​
-
-
-
-
-​
-
-
- Gross margin
- 
- 
-—
- 
- 
-—
- 
- 
-2,177
- 
- 
-—
- 
- 
-2,177
- 
-
-
- Selling, general, and administrative expenses, net
- 
- 
-76
- 
- 
-(70
-)
- 
-768
- 
- 
-—
- 
- 
-774
- 
-
-
- Research, development, and engineering expenses
- 
- 
-—
- 
- 
-—
- 
- 
-317
- 
- 
-—
- 
- 
-317
- 
-
-
- Acquisition and integration costs
- 
- 
-—
- 
- 
-—
- 
  
 4
  
@@ -13745,376 +10282,14 @@ $
 —
  
  
-4
+3 
  
 
 
- Restructuring and other charges, net
- 
- 
-—
- 
- 
-—
- 
- 
-106
- 
- 
-—
- 
- 
-106 
- 
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-
-
- Operating income (loss)
- 
- 
-(76
-)
- 
-70
- 
- 
-982
- 
- 
-—
- 
- 
-976
- 
-
-
- Interest income
- 
- 
-—
- 
- 
-—
- 
- 
-11
- 
- 
-—
- 
- 
-11
- 
-
-
- Interest expense
- 
- 
-—
- 
- 
-(63
-)
- 
-—
- 
- 
-—
- 
- 
-(63
-)
-
-
- Other expense, net
- 
- 
-—
- 
- 
-—
- 
- 
-(19
-)
- 
-—
- 
- 
-(19
-)
-
-
- Equity in net income of subsidiaries
- 
- 
-902
- 
- 
-839
- 
- 
-—
- 
- 
-(1,741
-)
- 
-—
- 
-
-
- Equity in net income of subsidiaries of discontinued operations
- 
- 
-2
- 
- 
-14
- 
- 
-—
- 
- 
-(16
-)
- 
-—
- 
-
-
- Intercompany interest income (expense), net
- 
- 
-(14
-)
- 
-56
- 
- 
-(42
-)
- 
-—
- 
- 
-— 
- 
-
-
-
-
-
-​
-​
-​
-
 
 
 
 ​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-
-
- Income from continuing operations before income taxes
- 
- 
-814
- 
- 
-916
- 
- 
-932
- 
- 
-(1,757
-)
- 
-905
- 
-
-
- Income tax expense
- 
- 
-—
- 
- 
-—
- 
- 
-(93
-)
- 
-—
- 
- 
-(93
-) 
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
 ​
 ​
 
@@ -14127,51 +10302,6 @@ $
 
 
 ​
-
-
- Income from continuing operations
- 
- 
-814
- 
- 
-916
- 
- 
-839
- 
- 
-(1,757
-)
- 
-812
- 
-
-
- Income (loss) from discontinued operations, net of income taxes(1)
- 
- 
-—
- 
- 
-(12
-)
- 
-14
- 
- 
-—
- 
- 
-2 
- 
-
-
-
-
-
-​
-​
 ​
 
 
@@ -14193,19 +10323,9 @@ $
 
 
 
-​
-​
-
-
-
 
 ​
-
-
-
-
 ​
-​
 
 
 
@@ -14217,7 +10337,6 @@ $
 
 ​
 ​
-
 
 
 
@@ -14233,38 +10352,38 @@ $
  Net income
  
  
-814
+409
  
  
-904
+443
  
  
-853
+360
  
  
-(1,757
+(803
 )
  
-814
+409
  
 
 
  Other comprehensive loss
  
  
-(42
+(156
 )
  
-(42
+(156
 )
  
-(69
+(175
 )
  
-111
+331
  
  
-(42
+(156
 ) 
 
 
@@ -14289,7 +10408,6 @@ $
 
 
 
-
 ​
 
 
@@ -14306,14 +10424,14 @@ $
 
 
 
-​
-​
-
-
-
 
 ​
+​
 
+
+
+
+​
 
 
 
@@ -14337,27 +10455,27 @@ $
 
 
 $
-772
+253
  
 
 
 $
-862
+287
  
 
 
 $
-784
+185
  
 
 
 $
-(1,646
+(472
 )
 
 
 $
-772 
+253 
  
 
 
@@ -14371,28 +10489,6 @@ $
 
 
 
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-
-
-
 
 ​
 
@@ -14410,46 +10506,6 @@ $
 
 
 
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-
-
-
-
-
-​
 ​
 ​
 
@@ -14485,6 +10541,35 @@ $
 
 
 ​
+
+
+
+
+
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+
+
+
+
+​
+​
 ​
 
 
@@ -14497,6 +10582,40 @@ $
 
 ​
 ​
+
+
+
+
+​
+
+
+
+
+​
+​
+
+
+
+
+​
+
+
+
+
+​
+​
+
+
+
+
+​
+
+
+
+
+​
+​
+
 
 
 
@@ -14511,14 +10630,7 @@ $
 
 
 
-
-
-
-
-(1)Includes
-the internal allocation of gains and losses associated with the divestiture of our BNS business. 
-
-22
+18
 
 
 
@@ -14532,8 +10644,9 @@ TE CONNECTIVITY LTD.
 
 
 15. Tyco Electronics Group S.A. (Continued) 
- Condensed Consolidating Balance Sheet (UNAUDITED)
-As of March 30, 2018  
+ 
+ 
+  Condensed Consolidating Balance Sheet (UNAUDITED)  As of December 29, 2017     
 
 
 
@@ -14636,7 +10749,7 @@ $
 
 
 $
-559
+704
  
 
 
@@ -14646,7 +10759,7 @@ $
 
 
 $
-559
+704
  
 
 
@@ -14659,13 +10772,13 @@ $
 —
  
  
-2,643
+2,378
  
  
 —
  
  
-2,643
+2,378
  
 
 
@@ -14678,29 +10791,29 @@ $
 —
  
  
-2,045
+1,984
  
  
 —
  
  
-2,045
+1,984
  
 
 
  Intercompany receivables
  
  
-40
+35
  
  
-2,473
+2,188
  
  
-55
+52
  
  
-(2,568
+(2,275
 )
  
 —
@@ -14710,19 +10823,19 @@ $
  Prepaid expenses and other current assets
  
  
-7
+2
  
  
-176
+117
  
  
-530
+548
  
  
 —
  
  
-713 
+667 
  
 
 
@@ -14737,6 +10850,7 @@ $
 
 
 ​
+
 
 
 
@@ -14791,19 +10905,19 @@ $
  Total current assets
  
  
-47
+37
  
  
-2,649
+2,305
  
  
-5,832
+5,666
  
  
-(2,568
+(2,275
 )
  
-5,960
+5,733
  
 
 
@@ -14816,13 +10930,13 @@ $
 —
  
  
-3,676
+3,527
  
  
 —
  
  
-3,676
+3,527
  
 
 
@@ -14835,13 +10949,13 @@ $
 —
  
  
-5,730
+5,672
  
  
 —
  
  
-5,730
+5,672
  
 
 
@@ -14854,13 +10968,13 @@ $
 —
  
  
-1,786
+1,806
  
  
 —
  
  
-1,786
+1,806
  
 
 
@@ -14873,29 +10987,29 @@ $
 —
  
  
-1,631
+1,615
  
  
 —
  
  
-1,631
+1,615
  
 
 
  Investment in subsidiaries
  
  
-12,587
+12,033
  
  
-20,672
+20,157
  
  
 —
  
  
-(33,259
+(32,190
 )
  
 —
@@ -14908,13 +11022,13 @@ $
 2
  
  
-6,561
+4,050
  
  
-13,077
+10,312
  
  
-(19,640
+(14,364
 )
  
 —
@@ -14927,16 +11041,16 @@ $
 —
  
  
+2
+ 
+ 
+456
+ 
+ 
 —
  
  
-464
- 
- 
-—
- 
- 
-464 
+458 
  
 
 
@@ -14961,7 +11075,6 @@ $
 
 
 
-
 ​
 
 
@@ -14969,6 +11082,7 @@ $
 
 ​
 ​
+
 
 
 
@@ -15008,27 +11122,27 @@ $
 
 
 $
-12,636
+12,072
  
 
 
 $
-29,882
+26,514
  
 
 
 $
-32,196
+29,054
  
 
 
 $
-(55,467
+(48,829
 )
 
 
 $
-19,247 
+18,811 
  
 
 
@@ -15047,7 +11161,6 @@ $
 
 
 
-
 ​
 ​
 
@@ -15070,7 +11183,6 @@ $
 
 
 
-
 ​
 ​
 
@@ -15088,8 +11200,8 @@ $
 
 
 
-​
 
+​
 
 
 
@@ -15134,17 +11246,6 @@ $
 
 
 
-​
-​
-
-
-
-
-​
-
-
-
-
 
 ​
 ​
@@ -15165,6 +11266,16 @@ $
 
 ​
 
+
+
+
+​
+​
+
+
+
+
+​
 
 
 
@@ -15186,18 +11297,23 @@ $
  Liabilities and Shareholders' Equity
  
  
+
  
  
  
+
  
  
  
+
  
  
  
+
  
  
  
+
  
  
 
@@ -15231,7 +11347,7 @@ $
 
 
 $
-673
+686
  
 
 
@@ -15246,7 +11362,7 @@ $
 
 
 $
-675
+688
  
 
 
@@ -15259,32 +11375,32 @@ $
 —
  
  
-1,610
+1,553
  
  
 —
  
  
-1,613
+1,556
  
 
 
  Accrued and other current liabilities
  
  
-625
+199
  
  
-33
+45
  
  
-1,071
+1,020
  
  
 —
  
  
-1,729
+1,264
  
 
 
@@ -15297,29 +11413,29 @@ $
 —
  
  
-147
+127
  
  
 —
  
  
-147
+127
  
 
 
  Intercompany payables
  
  
-2,528
+2,239
  
  
 —
  
  
-40
+36
  
  
-(2,568
+(2,275
 )
  
 — 
@@ -15337,6 +11453,7 @@ $
 
 
 ​
+
 
 
 
@@ -15391,19 +11508,19 @@ $
  Total current liabilities
  
  
-3,156
+2,441
  
  
-706
+731
  
  
-2,870
+2,738
  
  
-(2,568
+(2,275
 )
  
-4,164
+3,635
  
 
 
@@ -15413,7 +11530,7 @@ $
 —
  
  
-3,330
+3,312
  
  
 5
@@ -15422,7 +11539,7 @@ $
 —
  
  
-3,335
+3,317
  
 
 
@@ -15432,13 +11549,13 @@ $
 —
  
  
-13,078
+10,313
  
  
-6,562
+4,051
  
  
-(19,640
+(14,364
 )
  
 —
@@ -15454,13 +11571,13 @@ $
 —
  
  
-1,149
+1,150
  
  
 —
  
  
-1,149
+1,150
  
 
 
@@ -15492,13 +11609,13 @@ $
 —
  
  
-302
+303
  
  
 —
  
  
-302
+303
  
 
 
@@ -15508,16 +11625,16 @@ $
 —
  
  
-181
+125
  
  
-398
+412
  
  
 —
  
  
-579 
+537 
  
 
 
@@ -15536,17 +11653,6 @@ $
 
 
 
-​
-​
-
-
-
-
-​
-
-
-
-
 
 ​
 ​
@@ -15567,6 +11673,16 @@ $
 
 ​
 
+
+
+
+​
+​
+
+
+
+
+​
 
 
 
@@ -15588,19 +11704,19 @@ $
  Total Liabilities
  
  
-3,156
+2,441
  
  
-17,295
+14,481
  
  
-11,524
+8,897
  
  
-(22,208
+(16,639
 )
  
-9,767 
+9,180 
  
 
 
@@ -15619,17 +11735,6 @@ $
 
 
 
-​
-​
-
-
-
-
-​
-
-
-
-
 
 ​
 ​
@@ -15650,6 +11755,16 @@ $
 
 ​
 
+
+
+
+​
+​
+
+
+
+
+​
 
 
 
@@ -15671,19 +11786,19 @@ $
  Total Shareholders' Equity
  
  
-9,480
+9,631
  
  
-12,587
+12,033
  
  
-20,672
+20,157
  
  
-(33,259
+(32,190
 )
  
-9,480 
+9,631 
  
 
 
@@ -15702,17 +11817,6 @@ $
 
 
 
-​
-​
-
-
-
-
-​
-
-
-
-
 
 ​
 ​
@@ -15733,6 +11837,16 @@ $
 
 ​
 
+
+
+
+​
+​
+
+
+
+
+​
 
 
 
@@ -15756,27 +11870,27 @@ $
 
 
 $
-12,636
+12,072
  
 
 
 $
-29,882
+26,514
  
 
 
 $
-32,196
+29,054
  
 
 
 $
-(55,467
+(48,829
 )
 
 
 $
-19,247 
+18,811 
  
 
 
@@ -15790,19 +11904,8 @@ $
 
 
 
-​
-
-
-
 
 ​
-​
-
-
-
-
-​
-
 
 
 
@@ -15842,6 +11945,17 @@ $
 
 
 ​
+​
+
+
+
+
+​
+
+
+
+
+​
 
 
 
@@ -15916,6 +12030,7 @@ $
 
 ​
 ​
+
 
 
 
@@ -15930,7 +12045,7 @@ $
 
 
 
-23
+19
 
 
 
@@ -15944,8 +12059,9 @@ TE CONNECTIVITY LTD.
 
 
 15. Tyco Electronics Group S.A. (Continued) 
- Condensed Consolidating Balance Sheet (UNAUDITED)
-As of September 29, 2017  
+ 
+ 
+  Condensed Consolidating Balance Sheet (UNAUDITED)  As of September 29, 2017     
 
 
 
@@ -16149,6 +12265,7 @@ $
 
 
 ​
+
 
 
 
@@ -16373,7 +12490,6 @@ $
 
 
 
-
 ​
 
 
@@ -16381,6 +12497,7 @@ $
 
 ​
 ​
+
 
 
 
@@ -16459,7 +12576,6 @@ $
 
 
 
-
 ​
 ​
 
@@ -16482,7 +12598,6 @@ $
 
 
 
-
 ​
 ​
 
@@ -16500,8 +12615,8 @@ $
 
 
 
-​
 
+​
 
 
 
@@ -16546,17 +12661,6 @@ $
 
 
 
-​
-​
-
-
-
-
-​
-
-
-
-
 
 ​
 ​
@@ -16577,6 +12681,16 @@ $
 
 ​
 
+
+
+
+​
+​
+
+
+
+
+​
 
 
 
@@ -16598,18 +12712,23 @@ $
  Liabilities and Shareholders' Equity
  
  
+
  
  
  
+
  
  
  
+
  
  
  
+
  
  
  
+
  
  
 
@@ -16749,6 +12868,7 @@ $
 
 
 ​
+
 
 
 
@@ -16948,17 +13068,6 @@ $
 
 
 
-​
-​
-
-
-
-
-​
-
-
-
-
 
 ​
 ​
@@ -16979,6 +13088,16 @@ $
 
 ​
 
+
+
+
+​
+​
+
+
+
+
+​
 
 
 
@@ -17031,17 +13150,6 @@ $
 
 
 
-​
-​
-
-
-
-
-​
-
-
-
-
 
 ​
 ​
@@ -17062,6 +13170,16 @@ $
 
 ​
 
+
+
+
+​
+​
+
+
+
+
+​
 
 
 
@@ -17114,17 +13232,6 @@ $
 
 
 
-​
-​
-
-
-
-
-​
-
-
-
-
 
 ​
 ​
@@ -17145,6 +13252,16 @@ $
 
 ​
 
+
+
+
+​
+​
+
+
+
+
+​
 
 
 
@@ -17202,19 +13319,8 @@ $
 
 
 
-​
-
-
-
 
 ​
-​
-
-
-
-
-​
-
 
 
 
@@ -17254,6 +13360,17 @@ $
 
 
 ​
+​
+
+
+
+
+​
+
+
+
+
+​
 
 
 
@@ -17328,6 +13445,7 @@ $
 
 ​
 ​
+
 
 
 
@@ -17342,7 +13460,7 @@ $
 
 
 
-24
+20
 
 
 
@@ -17356,8 +13474,9 @@ TE CONNECTIVITY LTD.
 
 
 15. Tyco Electronics Group S.A. (Continued) 
- Condensed Consolidating Statement of Cash Flows (UNAUDITED)
-For the Six Months Ended March 30, 2018  
+ 
+ 
+  Condensed Consolidating Statement of Cash Flows (UNAUDITED)  For the Quarter Ended December 29, 2017     
 
 
 
@@ -17431,17 +13550,17 @@ Total
 
 
 $
-(116
+(51
 )
 
 
 $
-(67
+(10
 )
 
 
 $
-917
+418
  
 
 
@@ -17451,7 +13570,7 @@ $
 
 
 $
-727 
+350 
  
 
 
@@ -17546,52 +13665,14 @@ $
 —
  
  
-(447
+(241
 )
  
 —
  
  
-(447
+(241
 )
-
-
- Proceeds from sale of property, plant, and equipment
- 
- 
-—
- 
- 
-—
- 
- 
-7
- 
- 
-—
- 
- 
-7
- 
-
-
- Intercompany distribution receipts(1)
- 
- 
-—
- 
- 
-64
- 
- 
-—
- 
- 
-(64
-)
- 
-—
- 
 
 
  Change in intercompany loans
@@ -17613,23 +13694,23 @@ $
  
 
 
- Other
+ Intercompany distribution receipts(1)
  
  
 —
  
  
+23
+ 
+ 
 —
  
  
-(2
+(23
 )
  
-—
+— 
  
- 
-(2
-) 
 
 
 
@@ -17643,7 +13724,6 @@ $
 
 
 ​
-
 
 
 
@@ -17683,6 +13763,7 @@ $
 
 ​
 ​
+
 
 
 
@@ -17701,16 +13782,16 @@ $
 —
  
  
-399
+358
  
  
-(442
+(241
 )
  
-(399
+(358
 )
  
-(442
+(241
 ) 
 
 
@@ -17729,7 +13810,6 @@ $
 
 
 
-
 ​
 ​
 
@@ -17765,6 +13845,7 @@ $
 
 ​
 ​
+
 
 
 
@@ -17799,13 +13880,13 @@ $
  Changes in parent company equity(2)
  
  
-62
+30
  
  
-32
+—
  
  
-(94
+(30
 )
  
 —
@@ -17821,7 +13902,7 @@ $
 —
  
  
-225
+241
  
  
 —
@@ -17830,7 +13911,7 @@ $
 —
  
  
-225
+241
  
 
 
@@ -17881,55 +13962,55 @@ $
 —
  
  
-94
+54
  
  
 —
  
  
-94
+54
  
 
 
  Repurchase of common shares
  
  
-(218
+(108
 )
  
 —
  
  
-(163
+(59
 )
  
 —
  
  
-(381
+(167
 )
 
 
  Payment of common share dividends to shareholders
  
  
-(285
+(143
 )
  
 —
  
  
-4
+2
  
  
 —
  
  
-(281
+(141
 )
 
 
- Intercompany distributions(1)
+ Intercompany distribution payments(1)
  
  
 —
@@ -17938,10 +14019,10 @@ $
 —
  
  
-(71
+(30
 )
  
-71
+30
  
  
 —
@@ -17951,13 +14032,13 @@ $
  Loan activity with parent
  
  
-557
+272
  
  
 —
  
  
-(892
+(607
 )
  
 335
@@ -18001,28 +14082,6 @@ $
 
 
 
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-
-​
-
-
-
 
 ​
 ​
@@ -18043,6 +14102,27 @@ $
 
 ​
 
+
+
+
+​
+​
+
+
+
+
+​
+
+
+
+
+​
+​
+
+
+
+
+​
 
 
 
@@ -18053,19 +14133,19 @@ $
  Net cash provided by (used in) financing activities
  
  
-116
+51
  
  
-(332
+(348
 )
  
-(1,154
+(702
 )
  
-406
+365
  
  
-(964
+(634
 ) 
 
 
@@ -18084,20 +14164,20 @@ $
 
 
 
+
 ​
-​
-
-
-
-
 ​
 
 
 
 
 ​
-​
 
+
+
+
+​
+​
 
 
 
@@ -18141,13 +14221,13 @@ $
 —
  
  
-20
+11
  
  
 —
  
  
-20
+11
  
 
 
@@ -18160,13 +14240,13 @@ $
 —
  
  
-(659
+(514
 )
  
 —
  
  
-(659
+(514
 )
 
 
@@ -18204,7 +14284,6 @@ $
 
 
 
-
 ​
 ​
 
@@ -18212,6 +14291,7 @@ $
 
 
 ​
+
 
 
 
@@ -18267,7 +14347,7 @@ $
 
 
 $
-559
+704
  
 
 
@@ -18277,7 +14357,7 @@ $
 
 
 $
-559 
+704 
  
 
 
@@ -18291,18 +14371,6 @@ $
 
 
 
-
-​
-
-
-
-
-​
-​
-
-
-
-
 ​
 
 
@@ -18343,6 +14411,17 @@ $
 
 
 ​
+​
+
+
+
+
+​
+
+
+
+
+​
 
 
 
@@ -18382,16 +14461,6 @@ $
 
 
 
-​
-​
-
-
-
-
-​
-
-
-
 
 ​
 ​
@@ -18418,6 +14487,16 @@ $
 ​
 ​
 
+
+
+
+​
+
+
+
+
+​
+​
 
 
 
@@ -18437,12 +14516,12 @@ $
 
 
 (1)During
-fiscal 2018, other subsidiaries made distributions to TEGSA in the amount of $71 million. Cash flows are presented based upon the nature of the
+fiscal 2018, other subsidiaries made distributions to TEGSA in the amount of $30 million. Cash flows are presented based upon the nature of the
 distributions.
 (2)Changes
 in parent company equity includes cash flows related to certain intercompany equity and funding transactions, and other intercompany activity. 
 
-25
+21
 
 
 
@@ -18456,8 +14535,9 @@ TE CONNECTIVITY LTD.
 
 
 15. Tyco Electronics Group S.A. (Continued) 
- Condensed Consolidating Statement of Cash Flows (UNAUDITED)
-For the Six Months Ended March 31, 2017  
+ 
+ 
+  Condensed Consolidating Statement of Cash Flows (UNAUDITED)  For the Quarter Ended December 30, 2016     
 
 
 
@@ -18531,17 +14611,17 @@ Total
 
 
 $
-(86
+(30
 )
 
 
 $
-(2
-)
+22
+ 
 
 
 $
-1,013
+412
  
 
 
@@ -18551,7 +14631,7 @@ $
 
 
 $
-925 
+404 
  
 
 
@@ -18646,33 +14726,14 @@ $
 —
  
  
-(289
+(130
 )
  
 —
  
  
-(289
+(130
 )
-
-
- Proceeds from sale of property, plant, and equipment
- 
- 
-—
- 
- 
-—
- 
- 
-8
- 
- 
-—
- 
- 
-8
- 
 
 
  Change in intercompany loans
@@ -18681,13 +14742,13 @@ $
 —
  
  
-(37
+(141
 )
  
 —
  
  
-37
+141
  
  
 —
@@ -18700,16 +14761,16 @@ $
 —
  
  
-(12
-)
+4
  
-(4
+ 
+(28
 )
  
 —
  
  
-(16
+(24
 ) 
 
 
@@ -18734,6 +14795,17 @@ $
 
 
 
+​
+
+
+
+
+​
+​
+
+
+
+
 
 ​
 
@@ -18759,17 +14831,6 @@ $
 
 ​
 
-
-
-
-
-​
-​
-
-
-
-
-​
 
 
 
@@ -18783,16 +14844,16 @@ $
 —
  
  
-(49
+(137
 )
  
-(285
+(158
 )
  
-37
+141
  
  
-(297
+(154
 ) 
 
 
@@ -18817,6 +14878,17 @@ $
 
 
 
+​
+
+
+
+
+​
+​
+
+
+
+
 
 ​
 
@@ -18830,18 +14902,6 @@ $
 
 
 ​
-
-
-
-
-​
-​
-
-
-
-
-​
-
 
 
 
@@ -18882,13 +14942,13 @@ $
  Changes in parent company equity(1)
  
  
-45
+22
  
  
-124
+105
  
  
-(169
+(127
 )
  
 —
@@ -18898,32 +14958,13 @@ $
  
 
 
- Net decrease in commercial paper
+ Net increase in commercial paper
  
  
 —
  
  
-(162
-)
- 
-—
- 
- 
-—
- 
- 
-(162
-)
-
-
- Proceeds from issuance of debt
- 
- 
-—
- 
- 
-89
+10
  
  
 —
@@ -18932,7 +14973,7 @@ $
 —
  
  
-89
+10
  
 
 
@@ -18945,13 +14986,13 @@ $
 —
  
  
-64
+25
  
  
 —
  
  
-64
+25
  
 
 
@@ -18964,21 +15005,40 @@ $
 —
  
  
-(198
+(93
 )
  
 —
  
  
-(198
+(93
 )
 
 
  Payment of common share dividends to shareholders
  
  
-(264
+(132
 )
+ 
+—
+ 
+ 
+—
+ 
+ 
+—
+ 
+ 
+(132
+)
+
+
+ Loan activity with parent
+ 
+ 
+140
+ 
  
 —
  
@@ -18986,26 +15046,7 @@ $
 1
  
  
-—
- 
- 
-(263
-)
-
-
- Loan activity with parent
- 
- 
-305
- 
- 
-—
- 
- 
-(268
-)
- 
-(37
+(141
 )
  
 —
@@ -19021,13 +15062,13 @@ $
 —
  
  
-(22
+(19
 )
  
 —
  
  
-(22
+(19
 ) 
 
 
@@ -19052,17 +15093,6 @@ $
 
 
 
-​
-
-
-
-
-​
-​
-
-
-
-
 
 ​
 
@@ -19076,6 +15106,18 @@ $
 
 
 ​
+
+
+
+
+​
+​
+
+
+
+
+​
+
 
 
 
@@ -19097,19 +15139,19 @@ $
  Net cash provided by (used in) financing activities
  
  
-86
+30
  
  
-51
+115
  
  
-(592
+(213
 )
  
-(37
+(141
 )
  
-(492
+(209
 ) 
 
 
@@ -19134,16 +15176,6 @@ $
 
 
 
-​
-
-
-
-
-​
-​
-
-
-
 
 ​
 
@@ -19164,6 +15196,17 @@ $
 ​
 ​
 
+
+
+
+​
+
+
+
+
+
+​
+​
 
 
 
@@ -19185,13 +15228,13 @@ $
 —
  
  
-(10
+(23
 )
  
 —
  
  
-(10
+(23
 )
 
 
@@ -19204,13 +15247,13 @@ $
 —
  
  
-126
+18
  
  
 —
  
  
-126
+18
  
 
 
@@ -19243,7 +15286,6 @@ $
 
 
 
-
 ​
 
 
@@ -19271,7 +15313,6 @@ $
 
 
 
-
 ​
 ​
 
@@ -19285,6 +15326,7 @@ $
 
 ​
 ​
+
 
 
 
@@ -19312,7 +15354,7 @@ $
 
 
 $
-773
+665
  
 
 
@@ -19322,7 +15364,7 @@ $
 
 
 $
-773 
+665 
  
 
 
@@ -19352,83 +15394,9 @@ $
 
 
 
-​
-​
-
-
-
-
-
-​
-
-
-
 
 ​
 ​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
 
 
 
@@ -19457,6 +15425,79 @@ $
 
 ​
 
+
+
+
+​
+
+
+
+
+
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+
+
+
+
+​
+​
+​
+
+
+
+
+​
+
+
+
+
+
+​
+​
+
+
+
+
+​
+
+
+
+
+​
+​
+
+
+
+
+​
+
+
+
+
+​
+​
+
+
+
+
+​
 
 
 
@@ -19484,7 +15525,7 @@ $
 (1)Changes
 in parent company equity includes cash flows related to certain intercompany equity and funding transactions, and other intercompany activity. 
 
-26
+22
 
 
 
@@ -19509,7 +15550,9 @@ those under the heading "Forward-Looking Information" and "Part II. Item 1A. R
         Our
 Condensed Consolidated Financial Statements have been prepared in United States ("U.S.") dollars, in accordance with accounting principles generally accepted in the U.S. ("GAAP"). 
         The
-following discussion includes organic net sales growth which is a non-GAAP financial measure. See "Non-GAAP Financial Measure" for additional information regarding this measure. 
+following discussion includes organic net sales growth which is a non-GAAP financial measure. We believe this non-GAAP financial measure, together with GAAP financial measures,
+provides useful information to investors because it is one of the financial measures that management uses in evaluating the underlying results of our operations. See "Non-GAAP Financial Measure" for
+more information about this non-GAAP financial measure, including our reasons for including the measure and material limitations with respect to the usefulness of the measure. 
  
  
   Overview     
@@ -19517,66 +15560,86 @@ following discussion includes organic net sales growth which is a non-GAAP finan
 manufacturing leader creating a safer, sustainable, productive, and connected future. For more than 75 years, our connectivity and sensor solutions, proven in the harshest environments, have
 enabled advancements in transportation, industrial applications, medical technology, energy, data communications, and the home. 
         Highlights
-for the second quarter and first six months of fiscal 2018 include the following:
+for the first quarter of fiscal 2018 include the following:
 
 
-• Our net sales increased 16.1% and 14.9% in the second quarter and first six months of fiscal 2018, respectively, as compared to the same
-periods of fiscal 2017 primarily as a result of growth in the Transportation Solutions and Industrial Solutions segments. Foreign currency exchange rates positively impacted net sales by
-$235 million and $350 million in the second quarter and first six months of fiscal 2018, respectively, as compared to the same periods of fiscal 2017. On an organic basis,
-our net sales increased 6.9% and 7.4% during the second quarter and first six months of fiscal 2018, respectively, as compared to the same periods of fiscal 2017.  
+• Our net sales increased 13.6% in the first quarter of fiscal 2018 as compared to the first quarter of fiscal 2017 with sales growth in the
+Transportation Solutions and Industrial Solutions segments, partially offset by declines in the Communications Solutions segment. Foreign currency exchange rates positively impacted net sales by
+$115 million in the first quarter of fiscal 2018 as compared to the same period of fiscal 2017. On an organic basis, our net sales increased 7.9% during the first quarter of fiscal 2018 as
+compared to the first quarter of fiscal 2017. 
 • Our net sales by segment were as follows:  
 
 
-•Transportation Solutions—Our net sales increased 21.6% and 21.5% in
-the second quarter and first six months of fiscal 2018, respectively, as a result of sales increases in all end markets.   
-•Industrial Solutions—Our net sales increased 14.0% and 12.5% during
-the second quarter and first six months of fiscal 2018, respectively, due primarily to increased sales in the industrial equipment end market.   
-•Communications Solutions—Our net sales increased 3.2% in the second
-quarter of fiscal 2018 and decreased 0.6% in the first six months of fiscal 2018 with sales increases in the appliances and the data and devices end markets and sales declines in the
-subsea communications end market. 
+•Transportation Solutions—Our net sales increased 21.3% in the first
+quarter of fiscal 2018 as a result of sales increases in all end markets.   
+•Industrial Solutions—Our net sales increased 10.9% during the first
+quarter of fiscal 2018 due primarily to increased sales in the industrial equipment end market.   
+•Communications Solutions—Our net sales decreased 4.6% in the first
+quarter of fiscal 2018 with sales declines in the subsea communications end market, partially offset by sales increases in the appliances and, to a lesser degree, the data and devices end markets.  
 
-• Net cash provided by operating activities was $727 million in the first six months of fiscal 2018. 
+• Net cash provided by operating activities was $350 million in the first quarter of fiscal 2018. 
 
 
 
 
 
 Outlook  
-        In the third quarter of fiscal 2018, we expect our net sales to be between $3.65 billion and $3.7 billion as compared to
-$3.4 billion in the third quarter of fiscal 2017. We expect our net sales to be 
-27
+        In the second quarter of fiscal 2018, we expect our net sales to be between $3.55 billion and $3.65 billion as compared to
+$3.2 billion in the second quarter of fiscal 2017. This increase reflects sales growth in the Transportation Solutions and Industrial Solutions segments, and to a lesser degree, the 
+23
 
 
 
  
 Table of Contents
-between
-$14.5 billion and $14.7 billion in fiscal 2018 as compared to $13.1 billion in fiscal 2017. These increases are due primarily to sales growth in the Transportation
-Solutions and Industrial Solutions segments. Additional information regarding expectations for our reportable segments for the third quarter of fiscal 2018 as compared to the same period of
-fiscal 2017 and for fiscal 2018 compared to fiscal 2017 is as follows:
+Communications
+Solutions segment relative to the second quarter of fiscal 2017. Additional information regarding expectations for our reportable segments for the second quarter of fiscal 2018 as
+compared to the same period of fiscal 2017 is as follows:
+
+
+•Transportation Solutions—We expect our net sales increase in the automotive end
+market to exceed anticipated global automotive production growth of approximately 2% due primarily to increased content per vehicle, market share gains, and sales contributions from a recent
+acquisition. We also expect continued growth in the commercial transportation and sensors end markets. 
+•Industrial Solutions—We expect our net sales to increase in the industrial
+equipment end market due primarily to continued growth in the factory automation and controls market and the medical market.
+•Communications Solutions—We expect our net sales growth in the appliances and the
+data and devices end markets to be partially offset by sales declines in the subsea communications end market. 
+
+We
+expect diluted earnings per share from continuing operations to be in the range of $1.18 to $1.22 per share in the second quarter of fiscal 2018. This outlook reflects the positive impact of
+foreign currency exchange rates on net sales and earnings per share of approximately $123 million and $0.06 per share, respectively, in the second quarter of fiscal 2018 as compared to the
+second quarter of fiscal 2017. 
+        For
+fiscal 2018, we expect our net sales to be between $14.1 billion and $14.3 billion as compared to $13.1 billion in fiscal 2017. This increase reflects sales
+growth in the Transportation Solutions and Industrial Solutions segments relative to fiscal 2017. Additional information regarding expectations for our reportable segments for fiscal 2018 compared to
+fiscal 2017 is as follows:
 
 
 •Transportation Solutions—We expect our net sales to increase in the automotive end
-market as a result of increased content per vehicle, market share gains, and sales contributions from a recent acquisition. We expect global automotive production growth of approximately 2% in fiscal
-2018. We also expect continued growth in the commercial transportation and sensors end markets. 
+market due primarily to increased content per vehicle, market share gains, and sales contributions from a recent acquisition. We expect global automotive production to increase approximately 2% in
+fiscal 2018. We also expect continued growth in the commercial transportation and sensors end markets. 
 •Industrial Solutions—We expect our net sales to increase in the industrial
-equipment end market due primarily to continued strength in factory automation and controls applications. Also, we expect net sales growth in the aerospace, defense, oil, and gas end market to be
-driven by growth in the defense and commercial aerospace markets. 
+equipment end market primarily as a result of growth in the factory automation and controls market and the medical market.
 •Communications Solutions—We expect our net sales growth in the appliances and the
-data and devices end markets to be more than offset by sales declines in the subsea communications end market. We expect our net sales in the subsea communications end market to be in the range of
-$700 million to $750 million in fiscal 2018. 
+data and devices end markets to be offset by sales declines in the subsea communications end market. We expect our sales in the subsea communications end market to be approximately $800 million
+in fiscal 2018. 
 
 We
-expect diluted earnings per share from continuing operations to be in the range of $1.13 to $1.15 per share in the third quarter of fiscal 2018. For fiscal 2018, we expect diluted
-earnings per share from continuing operations to be in the range of $3.70 to $3.76 per share. This outlook reflects the positive impact of foreign currency exchange rates on net sales and earnings per
-share of approximately $120 million and $0.05 per share, respectively, in the third quarter of fiscal 2018 as compared to the same period of fiscal 2017 and approximately
-$500 million and $0.20 per share, respectively, in fiscal 2018 as compared to fiscal 2017. 
+expect diluted earnings per share from continuing operations to be in the range of $3.61 to $3.71 per share in fiscal 2018. This outlook reflects the positive impact of foreign currency exchange
+rates on net sales and earnings per share of approximately $228 million and $0.11 per share, respectively, in fiscal 2018 as compared to fiscal 2017. 
         The
 above outlook is based on foreign currency exchange rates and commodity prices that are consistent with current levels. 
         We
 are monitoring the current macroeconomic environment and its potential effects on our customers and the end markets we serve. We continue to closely manage our costs in line with
-economic conditions. Additionally, we are managing our capital resources and monitoring capital availability to ensure that we have sufficient resources to fund future capital needs. See further
-discussion in "Liquidity and Capital Resources." 
+economic conditions. Additionally, we are managing our capital resources and monitoring capital 
+24
+
+
+
+ 
+Table of Contents
+availability
+to ensure that we have sufficient resources to fund future capital needs. See further discussion in "Liquidity and Capital Resources." 
  
  
   Results of Operations     
@@ -19608,41 +15671,20 @@ Net Sales
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
  
  
 For the
 Quarters Ended 
  
-For the
-Six Months Ended 
- 
 
 
  
  
-March 30,
-2018 
- 
-March 31,
+December 29,
 2017 
  
-March 30,
-2018 
- 
-March 31,
-2017 
+December 30,
+2016 
  
 
 
@@ -19657,31 +15699,15 @@ March 31,
 
 
 $
-2,134
+2,032
  
  
-57
+59
 %
 
 
 $
-1,755
- 
- 
-55
-%
-
-
-$
-4,166
- 
- 
-57
-%
-
-
-$
-3,430
+1,675
  
  
 55
@@ -19691,25 +15717,13 @@ $
  Industrial Solutions
  
  
-972
+882
  
  
-26
+25
  
  
-853
- 
- 
-26
- 
- 
-1,854
- 
- 
-26
- 
- 
-1,648
+795
  
  
 26
@@ -19719,25 +15733,13 @@ $
  Communications Solutions
  
  
-639
+566
  
  
-17
+16
  
  
-619
- 
- 
-19
- 
- 
-1,205
- 
- 
-17
- 
- 
-1,212
+593
  
  
 19 
@@ -19793,50 +15795,6 @@ $
 
 
 ​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
 
 
  Total
@@ -19844,7 +15802,7 @@ $
 
 
 $
-3,745
+3,480
  
  
 100
@@ -19852,23 +15810,7 @@ $
 
 
 $
-3,227
- 
- 
-100
-%
-
-
-$
-7,225
- 
- 
-100
-%
-
-
-$
-6,290
+3,063
  
  
 100
@@ -19901,54 +15843,7 @@ $
 
 
 
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
 ​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
 ​
 
 
@@ -19970,16 +15865,12 @@ $
 
 
 
-
 ​
 
 
 
 
 
-​
-​
-​
 ​
 ​
 ​
@@ -19994,54 +15885,12 @@ $
 ​
 ​
 ​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
 
 
-​
-​
 
 
 
-
 ​
-
-
-
-
 ​
 ​
 
@@ -20054,23 +15903,13 @@ $
 
 
 ​
-​
-
-
-
-
 ​
 
 
 
 
-​
 ​
 
-
-
-
-​
 
 
 
@@ -20102,12 +15941,6 @@ $
 
 
 
-28
-
-
-
- 
-Table of Contents
         The
 following table provides an analysis of the change in our net sales by segment: 
 
@@ -20138,45 +15971,14 @@ following table provides an analysis of the change in our net sales by segment:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  
  
-Change in Net Sales for the Quarter Ended March 30, 2018
-versus Net Sales for the Quarter Ended March 31, 2017 
- 
-Change in Net Sales for the Six Months Ended March 30, 2018
-versus Net Sales for the Six Months Ended March 31, 2017 
+Change in Net Sales for the Quarter Ended December 29, 2017
+versus Net Sales for the Quarter Ended December 30, 2016 
  
 
 
  
- 
-Net
-Sales Growth 
- 
-Organic Net
-Sales Growth 
- 
-Translation 
- 
-Acquisitions 
  
 Net
 Sales Growth 
@@ -20201,131 +16003,69 @@ Acquisitions
 
 
 $
-379
+357
  
  
-21.6
+21.3
 %
 
 
 $
-167
+224
  
  
-9.5
+13.4
 %
 
 
 $
-159
+79
  
 
 
 $
-53
- 
-
-
-$
-736
- 
- 
-21.5
-%
-
-
-$
-390
- 
- 
-11.4
-%
-
-
-$
-239
- 
-
-
-$
-107
+54
  
 
 
  Industrial Solutions
  
  
-119
+87
  
  
-14.0
+10.9
  
  
 50
  
  
-5.9
+6.3
  
  
-60
+29
  
  
-9
- 
- 
-206
- 
- 
-12.5
- 
- 
-101
- 
- 
-6.1
- 
- 
-88
- 
- 
-17
+8
  
 
 
  Communications Solutions
  
  
-20
- 
- 
-3.2
- 
- 
-4
- 
- 
-0.6
- 
- 
-16
- 
- 
-—
- 
- 
-(7
+(27
 )
  
-(0.6
+(4.6
 )
  
-(30
+(34
 )
  
-(2.5
+(5.7
 )
  
-23
+7
  
  
 — 
@@ -20342,56 +16082,6 @@ $
 
 
 
-​
-
-
-
-
-​
-​
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
 
 ​
 
@@ -20426,14 +16116,14 @@ $
 
 
 
-​
-​
-
-
-
 
 ​
+​
 
+
+
+
+​
 
 
 
@@ -20446,54 +16136,28 @@ $
 
 
 $
-518
+417
  
  
-16.1
+13.6
 %
 
 
 $
-221
+240
  
  
-6.9
+7.9
 %
 
 
 $
-235
+115
  
 
 
 $
-62
- 
-
-
-$
-935
- 
- 
-14.9
-%
-
-
-$
-461
- 
- 
-7.4
-%
-
-
-$
-350
- 
-
-
-$
-124 
+62 
  
 
 
@@ -20507,35 +16171,7 @@ $
 
 
 
-​
-
-
-
-
-​
-​
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-​
-​
-​
 
-
-
-
 ​
 
 
@@ -20543,16 +16179,7 @@ $
 
 ​
 ​
-
-
-
-
-
 ​
-
-
-
-
 ​
 ​
 
@@ -20564,34 +16191,21 @@ $
 
 
 
-​
 ​
 ​
 ​
 ​
-
-
-
-
 ​
 
 
 
 
-​
-​
 ​
-​
-​
-
 
 
 
-​
-
 
 
-
 ​
 ​
 
@@ -20609,15 +16223,6 @@ $
 
 
 
-​
-​
-​
-​
-​
-​
-​
-​
-​
 ​
 ​
 ​
@@ -20638,72 +16243,12 @@ $
 ​
 ​
 ​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-​
-​
-​
-
-
-
-
-
-​
-
-
-
-
-​
-​
-​
-​
-​
-
-
-
-
-​
-
 
 
 
-​
-​
-
-
 
 
 ​
-
-
-
-
 ​
 ​
 
@@ -20760,13 +16305,9 @@ $
 
 
         Net
-sales increased $518 million, or 16.1%, in the second quarter of fiscal 2018 as compared to the second quarter of fiscal 2017. The increase in net sales resulted
-from the positive impact of foreign currency translation of 7.3% due to the strengthening of certain foreign currencies, organic net sales growth of 6.9%, and sales contributions from acquisitions of
-1.9%. Price erosion adversely affected organic net sales by $49 million in the second quarter of fiscal 2018. 
-        In
-the first six months of fiscal 2018, net sales increased $935 million, or 14.9%, as compared to the first six months of fiscal 2017 as a result of organic net
-sales growth of 7.4%, the positive impact of foreign currency translation of 5.5% due to the strengthening of certain foreign currencies, and sales
-contributions from acquisitions of 2.0%. Price erosion adversely affected organic net sales by $93 million in the first six months of fiscal 2018. 
+sales increased $417 million, or 13.6%, in the first quarter of fiscal 2018 as compared to the first quarter of fiscal 2017. The increase in net sales resulted from organic
+net sales growth of 7.9%, the positive impact of foreign currency translation of 3.7% due to the strengthening of certain foreign currencies, and sales contributions from acquisitions of 2.0%. Price
+erosion adversely affected organic net sales by $44 million in the first quarter of fiscal 2018. 
         See
 further discussion of net sales below under "Segment Results." 
          Net Sales by Geographic Region.    Our business operates in three geographic regions—the Americas, Europe/Middle East/Africa
@@ -20774,21 +16315,15 @@ further discussion of net sales below under "Segment Results."
 Asia–Pacific—and our results of operations are influenced by changes in foreign currency exchange rates. Increases or decreases in the value of the U.S. dollar, compared to
 other currencies, will directly affect our reported results as we translate those currencies into U.S. dollars at the end of each fiscal period. 
         Approximately
-59% of our net sales were invoiced in currencies other than the U.S. dollar in the first six months of fiscal 2018. 
+60% of our net sales were invoiced in currencies other than the U.S. dollar in the first quarter of fiscal 2018. 
+25
+
+
+
+ 
+Table of Contents
         The
 following table presents our net sales and the percentage of total net sales by geographic region(1): 
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -20816,24 +16351,15 @@ following table presents our net sales and the percentage of total net sales by 
 For the
 Quarters Ended 
  
-For the
-Six Months Ended 
- 
 
 
  
  
-March 30,
-2018 
- 
-March 31,
+December 29,
 2017 
  
-March 30,
-2018 
- 
-March 31,
-2017 
+December 30,
+2016 
  
 
 
@@ -20848,7 +16374,7 @@ March 31,
 
 
 $
-1,138
+1,041
  
  
 30
@@ -20856,23 +16382,7 @@ $
 
 
 $
-1,070
- 
- 
-33
-%
-
-
-$
-2,179
- 
- 
-30
-%
-
-
-$
-2,075
+1,005
  
  
 33
@@ -20882,56 +16392,32 @@ $
  EMEA
  
  
-1,425
+1,219
  
  
-38
+35
  
  
-1,099
+971
  
  
-34
- 
- 
-2,644
- 
- 
-37
- 
- 
-2,070
- 
- 
-33
+32
  
 
 
  Asia–Pacific
  
  
-1,182
+1,220
  
  
-32
+35
  
  
-1,058
+1,087
  
  
-33
- 
- 
-2,402
- 
- 
-33
- 
- 
-2,145
- 
- 
-34 
+35 
  
 
 
@@ -20939,50 +16425,6 @@ $
 
 
 ​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
 ​
 ​
 
@@ -21035,7 +16477,7 @@ $
 
 
 $
-3,745
+3,480
  
  
 100
@@ -21043,23 +16485,7 @@ $
 
 
 $
-3,227
- 
- 
-100
-%
-
-
-$
-7,225
- 
- 
-100
-%
-
-
-$
-6,290
+3,063
  
  
 100
@@ -21092,54 +16518,7 @@ $
 
 
 
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
 ​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
 ​
 
 
@@ -21161,16 +16540,12 @@ $
 
 
 
-
 ​
 
 
 
 
 
-​
-​
-​
 ​
 ​
 ​
@@ -21185,54 +16560,12 @@ $
 ​
 ​
 ​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
 
 
-​
-​
 
 
 
-
 ​
-
-
-
-
 ​
 ​
 
@@ -21245,23 +16578,13 @@ $
 
 
 ​
-​
-
-
-
-
 ​
 
 
 
 
-​
 ​
 
-
-
-
-​
 
 
 
@@ -21300,12 +16623,6 @@ $
 (1)Net
 sales to external customers are attributed to individual countries based on the legal entity that records the sale. 
 
-29
-
-
-
- 
-Table of Contents
         The
 following table provides an analysis of the change in our net sales by geographic region: 
 
@@ -21336,51 +16653,20 @@ following table provides an analysis of the change in our net sales by geographi
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  
  
-Change in Net Sales for the Quarter Ended March 30, 2018
-versus Net Sales for the Quarter Ended March 31, 2017 
- 
-Change in Net Sales for the Six Months Ended March 30, 2018
-versus Net Sales for the Six Months Ended March 31, 2017 
+Change in Net Sales for the Quarter Ended December 29, 2017
+versus Net Sales for the Quarter Ended December 30, 2016 
  
 
 
  
  
 Net
-Sales Growth 
+Sales Growth 
  
-Organic Net
-Sales Growth 
- 
-Translation 
- 
-Acquisitions 
- 
-Net
-Sales Growth 
- 
-Organic Net
-Sales Growth 
+Organic Net
+Sales Growth 
  
 Translation 
  
@@ -21399,134 +16685,72 @@ Acquisitions
 
 
 $
-68
+36
  
  
-6.4
+3.6
 %
 
 
 $
-54
+19
  
  
-5.0
+1.9
 %
 
 
 $
-1
+5
  
 
 
 $
-13
- 
-
-
-$
-104
- 
- 
-5.0
-%
-
-
-$
-73
- 
- 
-3.5
-%
-
-
-$
-6
- 
-
-
-$
-25
+12
  
 
 
  EMEA
  
  
-326
+248
  
  
-29.7
+25.5
  
  
-109
+112
  
  
-9.9
+11.6
  
  
-172
+89
  
  
-45
- 
- 
-574
- 
- 
-27.7
- 
- 
-222
- 
- 
-10.7
- 
- 
-260
- 
- 
-92
+47
  
 
 
  Asia–Pacific
  
  
-124
+133
  
  
-11.7
+12.2
  
  
-58
+109
  
  
-5.5
+10.0
  
  
-62
+21
  
  
-4
- 
- 
-257
- 
- 
-12.0
- 
- 
-166
- 
- 
-7.7
- 
- 
-84
- 
- 
-7 
+3 
  
 
 
@@ -21540,19 +16764,6 @@ $
 
 
 
-​
-
-
-
-
-​
-​
-​
-​
-​
-
-
-
 
 ​
 
@@ -21564,43 +16775,6 @@ $
 ​
 ​
 ​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-​
-​
-​
-
 
 
 
@@ -21644,54 +16818,28 @@ $
 
 
 $
-518
+417
  
  
-16.1
+13.6
 %
 
 
 $
-221
+240
  
  
-6.9
+7.9
 %
 
 
 $
-235
+115
  
 
 
 $
-62
- 
-
-
-$
-935
- 
- 
-14.9
-%
-
-
-$
-461
- 
- 
-7.4
-%
-
-
-$
-350
- 
-
-
-$
-124 
+62 
  
 
 
@@ -21705,52 +16853,15 @@ $
 
 
 
-​
-
-
-
-
-​
-​
-​
-​
-​
-
-
-
-
-
-​
-
-
-
-
-​
-​
-​
-​
-​
-
 
-
-
 ​
 
 
 
 
-
 ​
 ​
-
-
-
-
 ​
-
-
-
-
 ​
 ​
 
@@ -21771,26 +16882,12 @@ $
 
 
 
-​
-
-
-
-
-
-​
-​
 ​
-​
-​
-
 
 
 
-​
-
 
 
-
 ​
 ​
 
@@ -21808,15 +16905,6 @@ $
 
 
 
-​
-​
-​
-​
-​
-​
-​
-​
-​
 ​
 ​
 ​
@@ -21837,72 +16925,12 @@ $
 ​
 ​
 ​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-​
-​
-​
 
 
 
 
-​
-
-
-
-
-​
-​
-
 
-
-
 ​
-
-
-
-
-
 ​
 ​
 
@@ -21933,7 +16961,6 @@ $
 ​
 ​
 ​
-
 
 
 
@@ -21984,42 +17011,25 @@ Cost of Sales and Gross Margin
 
 
 
-
-
-
-
-
-
-
-
-
  
  
 For the
 Quarters Ended 
  
-For the
-Six Months Ended 
+ 
  
 
 
  
  
-March 30,
-2018 
- 
-March 31,
+December 29,
 2017 
  
-Change 
+December 30,
+2016 
  
-March 30,
-2018 
- 
-March 31,
-2017 
- 
-Change 
+Increase
+(Decrease) 
  
 
 
@@ -22034,55 +17044,31 @@ Change
 
 
 $
-2,502
+2,303
  
 
 
 $
-2,117
+1,996
  
 
 
 $
-385
- 
-
-
-$
-4,805
- 
-
-
-$
-4,113
- 
-
-
-$
-692
+307
  
 
 
  As a percentage of net sales
  
  
-66.8
+66.2
 %
  
-65.6
+65.2
 %
  
- 
- 
- 
-66.5
+1.0
 %
- 
-65.4
-%
- 
- 
- 
 
 
  Gross margin
@@ -22090,74 +17076,53 @@ $
 
 
 $
-1,243
+
+1,177
  
 
 
 $
-1,110
+
+1,067
  
 
 
 $
-133
- 
 
-
-$
-2,420
- 
-
-
-$
-2,177
- 
-
-
-$
-243
+110
  
 
 
  As a percentage of net sales
  
  
-33.2
+33.8
 %
  
-34.4
+34.8
 %
  
- 
- 
- 
-33.5
-%
- 
-34.6
-%
- 
- 
- 
+ (1.0
+)%
 
 
 
 
         Gross
-margin increased $133 million and $243 million in the second quarter and first six months of fiscal 2018, respectively, as compared to the same periods of
-fiscal 2017. The increases were due primarily to higher volume, the positive impact of changes in foreign currency exchange rates, and lower material costs, partially offset by the negative
-impact of price erosion and declines in our Subsea Communications business related to production delays. Gross margin as a percentage of net sales decreased to 33.2% in the second quarter of fiscal
-2018 from 34.4% in the second quarter of fiscal 2017 and decreased to 33.5% in the first six months of fiscal 2018 from 34.6% in the same period of fiscal 2017. 
+margin increased $110 million in the first quarter of fiscal 2018 as compared to the first quarter of fiscal 2017. The increase in gross margin was due primarily to higher
+volume and improved manufacturing productivity, partially offset by the negative impact of price erosion. Gross margin as a percentage of net sales decreased to 33.8% in the first quarter of 2018 from
+34.8% in the first quarter of fiscal 2017. 
         Cost
 of sales and gross margin are subject to variability in raw material prices which continue to fluctuate for many of the raw materials used in the manufacture of our products. We
-expect to purchase approximately 200 million pounds of copper, 150,000 troy ounces of gold, and 2.8 million troy ounces of silver in fiscal 2018. The following table presents the
-average prices incurred related to copper, gold, and silver: 
+expect to purchase approximately 200 million pounds of copper, 140,000 troy ounces of gold, and 2.7 million troy 
+26
 
 
 
-
-
-
+ 
+Table of Contents
+ounces
+of silver in fiscal 2018. The following table presents the average prices incurred related to copper, gold, and silver: 
 
 
 
@@ -22183,26 +17148,17 @@ average prices incurred related to copper, gold, and silver:
 For the
 Quarters Ended 
  
-For the
-Six Months Ended 
- 
 
 
  
  
 Measure 
  
-March 30,
-2018 
- 
-March 31,
+December 29,
 2017 
  
-March 30,
-2018 
- 
-March 31,
-2017 
+December 30,
+2016 
  
 
 
@@ -22213,17 +17169,7 @@ Lb.
 
 
 $
-2.78
- 
-
-
-$
-2.35
- 
-
-
-$
-2.79
+2.80
  
 
 
@@ -22237,16 +17183,10 @@ $
 Troy oz.
  
  
-1,293
+1,265
  
  
-1,220
- 
- 
-1,279
- 
- 
-1,213
+1,206
  
 
 
@@ -22255,27 +17195,15 @@ Troy oz.
 Troy oz.
  
  
-17.51
+17.09
  
  
-16.74
- 
- 
-17.30
- 
- 
-16.53
+16.33
  
 
 
 
 
-30
-
-
-
- 
-Table of Contents
 
 
 
@@ -22301,42 +17229,25 @@ Operating Expenses
 
 
 
-
-
-
-
-
-
-
-
-
  
  
 For the
 Quarters Ended 
  
-For the
-Six Months Ended 
+ 
  
 
 
  
  
-March 30,
-2018 
- 
-March 31,
+December 29,
 2017 
  
-Change 
+December 30,
+2016 
  
-March 30,
-2018 
- 
-March 31,
-2017 
- 
-Change 
+Increase
+(Decrease) 
  
 
 
@@ -22351,55 +17262,31 @@ Change
 
 
 $
-428
+383
  
 
 
 $
-407
+367
  
 
 
 $
-21
- 
-
-
-$
-811
- 
-
-
-$
-774
- 
-
-
-$
-37
+16
  
 
 
  As a percentage of net sales
  
  
-11.4
+11.0
 %
  
-12.6
+12.0
 %
  
- 
- 
- 
-11.2
-%
- 
-12.3
-%
- 
- 
- 
+ (1.0
+)%
 
 
  Research, development, and engineering expenses
@@ -22408,140 +17295,79 @@ $
 
 $
 
-182
+176
  
 
 
 $
 
-161
+156
  
 
 
 $
 
-21
- 
-
-
-$
-
-358
- 
-
-
-$
-
-317
- 
-
-
-$
-
-41
+20
  
 
 
  Acquisition and integration costs
  
-
-
-$
-3
  
-
-
-$
 2
  
-
-
-$
-1
  
-
-
-$
-5
+2
  
-
-
-$
-4
  
-
-
-$
-1
+—
  
 
 
  Restructuring and other charges, net
  
-
-
-$
-6
  
-
-
-$
-59
+35
  
-
-
-$
-(53
-)
-
-
-$
-41
  
-
-
-$
-106
+47
  
-
-
-$
-(65
+ 
+(12
 )
 
 
 
 
-         Selling, General, and Administrative Expenses.    Selling, general, and administrative expenses increased $21 million and
-$37 million in
-the second quarter and first six months of fiscal 2018, respectively, from the same periods in fiscal 2017. The increases resulted primarily from increased selling expenses to support
-higher sales levels. Selling, general, and administrative expenses as a percentage of net sales decreased to 11.4% in the second quarter of fiscal 2018 from 12.6% in the second quarter of
-fiscal 2017 and decreased to 11.2% in the first six months of fiscal 2018 from 12.3% in the same period of fiscal 2017. 
-         Research, Development, and Engineering Expenses.    In the second quarter and first six months of fiscal 2018, research,
-development, and
-engineering expenses increased $21 million and $41 million, respectively, as compared to the same periods of fiscal 2017 due to costs related to growth initiatives, primarily in
-the Transportation Solutions segment. 
-        Restructuring and Other Charges, Net.    We are committed to continuous productivity improvements and consistently evaluate
+         Selling, General, and Administrative Expenses.    Selling, general, and administrative expenses increased $16 million in the
+first quarter of
+fiscal 2018 from the first quarter of fiscal 2017. The increase resulted primarily from increased selling expenses to support higher sales levels. Selling, general, and
+administrative expenses as a percentage of net sales decreased to 11.0% in the first quarter of 2018 from 12.0% in the first quarter of fiscal 2017. 
+        Research, Development, and Engineering Expenses.    In the first quarter of fiscal 2018, research, development, and engineering
+expenses increased
+$20 million as compared to the same period of fiscal 2017 due to costs related to growth initiatives, primarily in the Transportation Solutions segment. 
+         Restructuring and Other Charges, Net.    We are committed to continuous productivity improvements and consistently evaluate
 opportunities to simplify
 our global manufacturing footprint, migrate facilities to lower-cost regions, reduce fixed costs, and eliminate excess capacity. These initiatives are designed to help us maintain our competitiveness
 in the industry, improve our operating leverage, and position us for future growth. 
         During
-fiscal 2018, we initiated a restructuring program associated with footprint consolidation and structural improvements primarily impacting the Industrial Solutions segment.
-During fiscal 2017, we initiated a restructuring program associated with footprint consolidation related to recent acquisitions and structural improvements impacting all segments. 
+fiscal 2018, we initiated a restructuring program associated with footprint consolidation and structural improvements primarily impacting the Industrial Solutions segment. During
+fiscal 2017, we initiated a restructuring program associated with footprint consolidation related to recent acquisitions and structural improvements impacting all segments. 
         In
-connection with these initiatives, we incurred net restructuring charges of $45 million during the first six months of fiscal 2018, of which $36 million related
-to the fiscal 2018 restructuring program. Annualized cost savings related to the fiscal 2018 actions commenced during the first six months of fiscal 2018 are expected to be
-approximately $30 million and are expected to be realized by the end of fiscal 2019. Cost savings will be reflected primarily in cost of sales and selling, general, and administrative
-expenses. During fiscal 2018, we expect to incur net restructuring charges of approximately $150 million. We expect total spending, which will be funded with cash from operations, to be
-approximately $130 million in fiscal 2018. 
-        See
-Note 2 to the Condensed Consolidated Financial Statements for additional information regarding net restructuring and other charges. 
-31
+connection with these initiatives, we incurred net restructuring charges of $35 million during the first quarter of fiscal 2018, of which $22 million related to the
+fiscal 2018 restructuring program. Annualized cost savings related to fiscal 2018 actions commenced during the first quarter of fiscal 2018 are expected to be approximately $20 million and are
+expected to be realized by the end of fiscal 2019. Cost savings will be reflected primarily in cost of sales and selling, general, and administrative expenses. During fiscal 2018, we expect to incur
+net restructuring charges of approximately $150 million. We 
+27
 
 
 
  
 Table of Contents
+expect
+total spending, which will be funded with cash from operations, to be approximately $130 million in fiscal 2018. 
+        See
+Note 2 to the Condensed Consolidated Financial Statements for additional information regarding net restructuring and other charges. 
 
 
 
@@ -22567,42 +17393,25 @@ Operating Income
 
 
 
-
-
-
-
-
-
-
-
-
  
  
 For the
 Quarters Ended 
  
-For the
-Six Months Ended 
+ 
  
 
 
  
  
-March 30,
-2018 
- 
-March 31,
+December 29,
 2017 
  
-Change 
+December 30,
+2016 
  
-March 30,
-2018 
- 
-March 31,
-2017 
- 
-Change 
+Increase
+(Decrease) 
  
 
 
@@ -22617,32 +17426,17 @@ Change
 
 
 $
-624
+581
  
 
 
 $
-481
+495
  
 
 
 $
-143
- 
-
-
-$
-1,205
- 
-
-
-$
-976
- 
-
-
-$
-229
+86
  
 
 
@@ -22652,20 +17446,11 @@ $
 16.7
 %
  
-14.9
+16.2
 %
  
- 
- 
- 
-16.7
+0.5
 %
- 
-15.5
-%
- 
- 
- 
 
 
 
@@ -22688,35 +17473,20 @@ income included the following:
 
 
 
-
-
-
-
-
-
  
  
 For the
 Quarters Ended 
  
-For the
-Six Months Ended 
- 
 
 
  
  
-March 30,
-2018 
- 
-March 31,
+December 29,
 2017 
  
-March 30,
-2018 
- 
-March 31,
-2017 
+December 30,
+2016 
  
 
 
@@ -22734,12 +17504,6 @@ March 31,
  
  
  
- 
- 
- 
- 
- 
- 
 
 
  Acquisition and integration costs
@@ -22747,38 +17511,22 @@ March 31,
 
 
 $
-3
- 
-
-
-$
 2
  
 
 
 $
-5
- 
-
-
-$
-4
+2
  
 
 
  Charges associated with the amortization of acquisition related fair value adjustments
  
  
-2
+5
  
  
-1
- 
- 
-7
- 
- 
-2 
+1 
  
 
 
@@ -22792,7 +17540,6 @@ $
 
 
 
-
 ​
 
 
@@ -22801,28 +17548,6 @@ $
 ​
 ​
 
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
 
 
 
@@ -22838,32 +17563,20 @@ $
  
  
  
-5
+7
  
  
 3
- 
- 
-12
- 
- 
-6
  
 
 
  Restructuring and other charges, net
  
  
-6
+35
  
  
-59
- 
- 
-41
- 
- 
-106 
+47 
  
 
 
@@ -22879,27 +17592,6 @@ $
 
 ​
 
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
 
 
 
@@ -22923,22 +17615,12 @@ $
 
 
 $
-11
+42
  
 
 
 $
-62
- 
-
-
-$
-53
- 
-
-
-$
-112 
+50 
  
 
 
@@ -22968,41 +17650,12 @@ $
 
 
 
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
 ​
 
 
 
 
 
-​
-​
-​
-​
-​
-​
 ​
 ​
 ​
@@ -23019,29 +17672,6 @@ $
 ​
 ​
 ​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
 
 
 
@@ -23094,42 +17724,25 @@ Non-Operating Items
 
 
 
-
-
-
-
-
-
-
-
-
  
  
 For the
 Quarters Ended 
  
-For the
-Six Months Ended 
+ 
  
 
 
  
  
-March 30,
-2018 
- 
-March 31,
+December 29,
 2017 
  
-Change 
+December 30,
+2016 
  
-March 30,
-2018 
- 
-March 31,
-2017 
- 
-Change 
+Increase
+(Decrease) 
  
 
 
@@ -23144,32 +17757,17 @@ Change
 
 
 $
-29
+26
  
 
 
 $
-32
+31
  
 
 
 $
-(3
-)
-
-
-$
-55
- 
-
-
-$
-63
- 
-
-
-$
-(8
+(5
 )
 
 
@@ -23178,32 +17776,17 @@ $
 
 
 $
-(1
+(2
 )
 
 
 $
-10
+9
  
 
 
 $
 (11
-)
-
-
-$
-(3
-)
-
-
-$
-19
- 
-
-
-$
-(22
 )
 
 
@@ -23213,69 +17796,62 @@ $
 
 $
 
-108
+600
  
 
 
 $
 
-39
+54
  
 
 
 $
 
-69
- 
-
-
-$
-
-708
- 
-
-
-$
-
-93
- 
-
-
-$
-
-615
+546
  
 
 
  Effective tax rate
  
  
-18.0
+107.0
 %
  
-8.8
+11.7
 %
  
- 
- 
- 
-61.0
+95.3
 %
+
+
+ Income (loss) from discontinued operations, net of income taxes
  
-10.3
-%
+
+
+$
+
+(1
+)
+
+
+$
+
+3
  
- 
- 
+
+
+$
+
+(4
+)
 
 
 
 
-         Income Taxes.    See Note 10 to the Condensed Consolidated Financial Statements for discussion of items impacting income tax
-expense for the
-second quarters and first six months of fiscal 2018 and 2017 and information regarding the Tax Cuts and Jobs Act (the "Act"). We do not expect a significant change in our effective tax
-rate on future results of operations as a result of the Act. 
-32
+         Income Taxes.    See Note 10 to the Condensed Consolidated Financial Statements for discussion of items
+impacting income tax expense for the first quarters of fiscal 2018 and 2017 and information regarding the Tax Cuts and Jobs Act. 
+28
 
 
 
@@ -23324,41 +17900,20 @@ end market(1):
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
  
  
 For the
 Quarters Ended 
  
-For the
-Six Months Ended 
- 
 
 
  
  
-March 30,
-2018 
- 
-March 31,
+December 29,
 2017 
  
-March 30,
-2018 
- 
-March 31,
-2017 
+December 30,
+2016 
  
 
 
@@ -23373,7 +17928,7 @@ March 31,
 
 
 $
-1,571
+1,517
  
  
 74
@@ -23381,23 +17936,7 @@ $
 
 
 $
-1,309
- 
- 
-75
-%
-
-
-$
-3,088
- 
- 
-74
-%
-
-
-$
-2,584
+1,275
  
  
 76
@@ -23407,25 +17946,13 @@ $
  Commercial transportation
  
  
-333
+300
  
  
 15
  
  
-248
- 
- 
-14
- 
- 
-633
- 
- 
-15
- 
- 
-461
+213
  
  
 13
@@ -23435,25 +17962,13 @@ $
  Sensors
  
  
-230
+215
  
  
 11
  
  
-198
- 
- 
-11
- 
- 
-445
- 
- 
-11
- 
- 
-385
+187
  
  
 11 
@@ -23486,16 +18001,6 @@ $
 
 
 
-​
-​
-
-
-
-
-​
-
-
-
 
 ​
 ​
@@ -23516,38 +18021,6 @@ $
 
 ​
 
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
 
 
 
@@ -23560,7 +18033,7 @@ $
 
 
 $
-2,134
+2,032
  
  
 100
@@ -23568,23 +18041,7 @@ $
 
 
 $
-1,755
- 
- 
-100
-%
-
-
-$
-4,166
- 
- 
-100
-%
-
-
-$
-3,430
+1,675
  
  
 100
@@ -23642,69 +18099,11 @@ $
 
 
 ​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
 
 
 
 
 
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
-
-
-
-
-
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
 ​
 ​
 ​
@@ -23728,49 +18127,6 @@ $
 ​
 ​
 
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
 
 
 
@@ -23855,45 +18211,14 @@ following table provides an analysis of the change in the Transportation Solutio
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  
  
-Change in Net Sales for the Quarter Ended March 30, 2018
-versus Net Sales for the Quarter Ended March 31, 2017 
- 
-Change in Net Sales for the Six Months Ended March 30, 2018
-versus Net Sales for the Six Months Ended March 31, 2017 
+Change in Net Sales for the Quarter Ended December 29, 2017
+versus Net Sales for the Quarter Ended December 30, 2016 
  
 
 
  
- 
-Net
-Sales Growth 
- 
-Organic Net
-Sales Growth 
- 
-Translation 
- 
-Acquisition 
  
 Net
 Sales Growth 
@@ -23918,91 +18243,47 @@ Acquisition
 
 
 $
-262
+242
  
  
-20.0
+19.0
 %
 
 
 $
-91
+131
  
  
-7.0
+10.2
 %
 
 
 $
-118
+57
  
 
 
 $
-53
- 
-
-
-$
-504
- 
- 
-19.5
-%
-
-
-$
-222
- 
- 
-8.6
-%
-
-
-$
-175
- 
-
-
-$
-107
+54
  
 
 
  Commercial transportation
  
  
-85
+87
  
  
-34.3
+40.8
  
  
-61
+73
  
  
-24.4
+34.2
  
  
-24
- 
- 
-—
- 
- 
-172
- 
- 
-37.3
- 
- 
-133
- 
- 
-28.9
- 
- 
-39
+14
  
  
 —
@@ -24012,37 +18293,19 @@ $
  Sensors
  
  
-32
+28
  
  
-16.2
+15.0
  
  
-15
+20
  
  
-7.6
+10.6
  
  
-17
- 
- 
-—
- 
- 
-60
- 
- 
-15.6
- 
- 
-35
- 
- 
-9.0
- 
- 
-25
+8
  
  
 — 
@@ -24103,57 +18366,6 @@ $
 
 
 
-​
-​
-
-
-
-
-
-​
-
-
-
-
-​
-​
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
 
 ​
 
@@ -24163,54 +18375,28 @@ $
 
 
 $
-379
+357
  
  
-21.6
+21.3
 %
 
 
 $
-167
+224
  
  
-9.5
+13.4
 %
 
 
 $
-159
+79
  
 
 
 $
-53
- 
-
-
-$
-736
- 
- 
-21.5
-%
-
-
-$
-390
- 
- 
-11.4
-%
-
-
-$
-239
- 
-
-
-$
-107 
+54 
  
 
 
@@ -24243,67 +18429,16 @@ $
 
 
 
-
-​
-​
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
 ​
 ​
 ​
 ​
-
-
-
-
 ​
-
-
 
 
-​
-​
-​
-​
-​
 
 
 
-
 ​
 
 
@@ -24326,15 +18461,6 @@ $
 
 
 
-​
-​
-​
-​
-​
-​
-​
-​
-​
 ​
 ​
 ​
@@ -24355,72 +18481,12 @@ $
 ​
 ​
 ​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-​
-​
-​
-
-
-
-
-
-​
-
-
-
-
-​
-​
-​
-​
-​
-
-
-
-
-​
-
 
 
 
-​
-​
-
-
 
 
 ​
-
-
-
-
 ​
 ​
 
@@ -24477,42 +18543,26 @@ $
 
 
         Net
-sales in the Transportation Solutions segment increased $379 million, or 21.6%, in the second quarter of fiscal 2018 from the second quarter of fiscal 2017 due to
-organic net sales growth of 9.5%, the positive impact of foreign currency translation of 9.1%, and sales contributions from an acquisition of 3.0%. Our organic net sales by primary industry end market
-were as follows:
+sales in the Transportation Solutions segment increased $357 million, or 21.3%, in the first quarter of fiscal 2018 from the first quarter of fiscal 2017 due to organic net
+sales growth of 13.4%, the positive impact of foreign currency translation of 4.7%, and sales contributions from an acquisition of 3.2%. Our organic net sales by primary industry end market were as
+follows:
 
 
-•Automotive—Our organic net sales increased 7.0% in the second quarter of
-fiscal 2018 with growth of 10.9% in the Americas region, 10.7% in the EMEA region, and 1.7% in the Asia–Pacific region. Our growth in the Americas region was driven by content
-growth and market share gains in North America and market growth in South America. In the EMEA region, our organic net sales increased due to market growth, electronification, and new model launches.
-Our growth in the Asia–Pacific region resulted from market share gains and electronification. 
-•Commercial transportation—Our organic net sales increased 24.4% in the second
-quarter of fiscal 2018 with growth in all regions, primarily as a result of strength in the heavy truck and construction markets. 
-•Sensors—Our organic net sales increased 7.6% in the second quarter of
-fiscal 2018 due primarily to growth in the commercial transportation and automotive markets. 
+•Automotive—Our organic net sales increased 10.2% in the first quarter of fiscal
+2018 with growth of 14.5% in the Americas region, 13.3% in the EMEA region, and 6.2% in the Asia–Pacific region. In the Americas region, our organic net sales increased due to content
+growth in North America and continued market recovery in South America. Our growth in the EMEA region was driven by market growth, electronification, and new model launches. Our growth in the
+Asia–Pacific region resulted from market share gains and electronification. 
+•Commercial transportation—Our organic net sales increased 34.2% in the first
+quarter of fiscal 2018, with growth in the heavy truck, construction, and agriculture markets and sales increases across all regions. 
+•Sensors—Our organic net sales increased 10.6% in the first quarter of fiscal 2018
+due primarily to growth in the commercial transportation, industrial equipment, and automotive markets. 
 
-        In
-the first six months of fiscal 2018, net sales in the Transportation Solutions segment increased $736 million, or 21.5%, as compared to the first six months of
-fiscal 2017 as a result of organic net sales growth of 11.4%, the positive impact of foreign currency translation of 7.0%, and sales 
-33
+29
 
 
 
  
 Table of Contents
-contributions
-from an acquisition of 3.1%. Our organic net sales by primary industry end market were as follows:
-
-
-•Automotive—Our organic net sales increased 8.6% in the first six months of
-fiscal 2018 with growth of 12.6% in the Americas region, 11.9% in the EMEA region, and 4.0% in the Asia–Pacific region. Our growth in the Americas region resulted from content
-growth and market share gains in North America and market growth in South America. Our growth in the EMEA region was driven by market growth, electronification, and new model launches. In the
-Asia–Pacific region, our growth was attributable to market share gains and electronification. 
-•Commercial transportation—Our organic net sales increased 28.9% in the first six
-months of fiscal 2018 with strength in all regions, due primarily to growth in the heavy truck and construction markets. 
-•Sensors—Our organic net sales increased 9.0% in the first six months of
-fiscal 2018 primarily as a result of growth in the commercial transportation, industrial equipment, and automotive markets. 
-
         Operating Income.    The following table presents the Transportation Solutions segment's operating income and operating margin
 information: 
 
@@ -24534,42 +18584,25 @@ information:
 
 
 
-
-
-
-
-
-
-
-
-
  
  
 For the
 Quarters Ended 
  
-For the
-Six Months Ended 
+ 
  
 
 
  
  
-March 30,
-2018 
- 
-March 31,
+December 29,
 2017 
  
-Change 
+December 30,
+2016 
  
-March 30,
-2018 
- 
-March 31,
-2017 
- 
-Change 
+Increase
+(Decrease) 
  
 
 
@@ -24584,68 +18617,38 @@ Change
 
 
 $
-428
+420
  
 
 
 $
-305
+348
  
 
 
 $
-123
- 
-
-
-$
-848
- 
-
-
-$
-653
- 
-
-
-$
-195
+72
  
 
 
  Operating margin
  
  
-20.1
+20.7
 %
  
-17.4
+20.8
 %
  
- 
- 
- 
-20.4
-%
- 
-19.0
-%
- 
- 
- 
+ (0.1
+)%
 
 
 
 
-        Operating
-income in the Transportation Solutions segment increased $123 million and $195 million in the second quarter and first six months of fiscal 2018,
-respectively, as compared to the same periods of fiscal 2017. The Transportation Solutions segment's operating income included the following: 
-
-
-
-
-
-
+        In
+the first quarter of fiscal 2018, operating income in the Transportation Solutions segment increased $72 million as compared to the first quarter of fiscal 2017. The
+Transportation Solutions segment's operating income included the following: 
 
 
 
@@ -24667,40 +18670,25 @@ respectively, as compared to the same periods of fiscal 2017. The Transportatio
 For the
 Quarters Ended 
  
-For the
-Six Months Ended 
- 
 
 
  
  
-March 30,
-2018 
- 
-March 31,
+December 29,
 2017 
  
-March 30,
-2018 
- 
-March 31,
-2017 
+December 30,
+2016 
  
 
 
  
  
-(in millions)
+($ in millions)
  
 
 
  Acquisition related charges:
- 
- 
- 
- 
- 
- 
  
  
  
@@ -24715,17 +18703,7 @@ March 31,
 
 
 $
-2
- 
-
-
-$
-—
- 
-
-
-$
-3
+1
  
 
 
@@ -24735,12 +18713,6 @@ $
 
 
  Charges associated with the amortization of acquisition related fair value adjustments
- 
- 
-—
- 
- 
-—
  
  
 4
@@ -24771,28 +18743,6 @@ $
 
 
 
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-
-
-
 
 ​
 
@@ -24805,13 +18755,7 @@ $
  
  
  
-2
- 
- 
-—
- 
- 
-7
+5
  
  
 1
@@ -24821,16 +18765,10 @@ $
  Restructuring and other charges, net
  
  
-(2
-)
- 
-33
+4
  
  
-2
- 
- 
-57 
+24 
  
 
 
@@ -24846,27 +18784,6 @@ $
 
 ​
 
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
 
 
 
@@ -24890,22 +18807,12 @@ $
 
 
 $
-—
- 
-
-
-$
-33
- 
-
-
-$
 9
  
 
 
 $
-58 
+25 
  
 
 
@@ -24935,41 +18842,12 @@ $
 
 
 
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
 ​
 
 
 
 
 
-​
-​
-​
-​
-​
-​
 ​
 ​
 ​
@@ -24986,29 +18864,6 @@ $
 ​
 ​
 ​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
 
 
 
@@ -25035,14 +18890,7 @@ $
 
 
 Excluding
-these items, operating income increased in the second quarter and first six months of fiscal 2018 due primarily to higher volume and lower material costs, partially offset by the
-negative impact of price erosion. 
-34
-
-
-
- 
-Table of Contents
+these items, operating income increased in the first quarter of fiscal 2018 due primarily to higher volume, partially offset by the negative impact of price erosion. 
 
 
 
@@ -25073,41 +18921,20 @@ market(1):
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
  
  
 For the
 Quarters Ended 
  
-For the
-Six Months Ended 
- 
 
 
  
  
-March 30,
-2018 
- 
-March 31,
+December 29,
 2017 
  
-March 30,
-2018 
- 
-March 31,
-2017 
+December 30,
+2016 
  
 
 
@@ -25122,31 +18949,15 @@ March 31,
 
 
 $
-496
+471
  
  
-51
+53
 %
 
 
 $
-418
- 
- 
-49
-%
-
-
-$
-967
- 
- 
-52
-%
-
-
-$
-801
+383
  
  
 48
@@ -25156,25 +18967,13 @@ $
  Aerospace, defense, oil, and gas
  
  
-298
+254
  
  
-31
+29
  
  
-268
- 
- 
-31
- 
- 
-552
- 
- 
-30
- 
- 
-520
+252
  
  
 32
@@ -25184,25 +18983,13 @@ $
  Energy
  
  
-178
+157
  
  
 18
  
  
-167
- 
- 
-20
- 
- 
-335
- 
- 
-18
- 
- 
-327
+160
  
  
 20 
@@ -25258,50 +19045,6 @@ $
 
 
 ​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
 
 
  Total
@@ -25309,7 +19052,7 @@ $
 
 
 $
-972
+882
  
  
 100
@@ -25317,23 +19060,7 @@ $
 
 
 $
-853
- 
- 
-100
-%
-
-
-$
-1,854
- 
- 
-100
-%
-
-
-$
-1,648
+795
  
  
 100
@@ -25366,54 +19093,7 @@ $
 
 
 
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
 ​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
 ​
 
 
@@ -25435,16 +19115,12 @@ $
 
 
 
-
 ​
 
 
 
 
 
-​
-​
-​
 ​
 ​
 ​
@@ -25459,54 +19135,12 @@ $
 ​
 ​
 ​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
 
 
-​
-​
 
 
 
-
 ​
-
-
-
-
 ​
 ​
 
@@ -25519,23 +19153,13 @@ $
 
 
 ​
-​
-
-
-
-
 ​
 
 
 
 
-​
 ​
 
-
-
-
-​
 
 
 
@@ -25574,6 +19198,12 @@ $
 (1)Industry
 end market information is presented consistently with our internal management reporting and may be revised periodically as management deems necessary. 
 
+30
+
+
+
+ 
+Table of Contents
         The
 following table provides an analysis of the change in the Industrial Solutions segment's net sales by primary industry end market: 
 
@@ -25604,45 +19234,14 @@ following table provides an analysis of the change in the Industrial Solutions s
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  
  
-Change in Net Sales for the Quarter Ended March 30, 2018
-versus Net Sales for the Quarter Ended March 31, 2017 
- 
-Change in Net Sales for the Six Months Ended March 30, 2018
-versus Net Sales for the Six Months Ended March 31, 2017 
+Change in Net Sales for the Quarter Ended December 29, 2017
+versus Net Sales for the Quarter Ended December 30, 2016 
  
 
 
  
- 
-Net
-Sales Growth 
- 
-Organic Net
-Sales Growth 
- 
-Translation 
- 
-Acquisition 
  
 Net
 Sales Growth 
@@ -25667,91 +19266,47 @@ Acquisition
 
 
 $
-78
+88
  
  
-18.7
+23.0
 %
 
 
 $
-38
+66
  
  
-9.1
+16.9
 %
 
 
 $
-31
+14
  
 
 
 $
-9
- 
-
-
-$
-166
- 
- 
-20.7
-%
-
-
-$
-105
- 
- 
-12.8
-%
-
-
-$
-44
- 
-
-
-$
-17
+8
  
 
 
  Aerospace, defense, oil, and gas
  
  
-30
+2
  
  
-11.2
+0.8
  
  
-14
+(6
+)
  
- 
-5.1
- 
- 
-16
- 
- 
-—
- 
- 
-32
- 
- 
-6.2
- 
+(2.2
+)
  
 8
- 
- 
-1.6
- 
- 
-24
  
  
 —
@@ -25761,37 +19316,19 @@ $
  Energy
  
  
-11
- 
- 
-6.6
- 
- 
-(2
+(3
 )
  
-(1.2
+(1.9
 )
  
-13
- 
- 
-—
- 
- 
-8
- 
- 
-2.4
- 
- 
-(12
+(10
 )
  
-(3.6
+(6.1
 )
  
-20
+7
  
  
 — 
@@ -25822,7 +19359,6 @@ $
 
 
 
-
 ​
 
 
@@ -25850,55 +19386,6 @@ $
 
 ​
 
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
 
 
 
@@ -25911,10 +19398,10 @@ $
 
 
 $
-119
+87
  
  
-14.0
+10.9
 %
 
 
@@ -25922,43 +19409,17 @@ $
 50
  
  
-5.9
+6.3
 %
 
 
 $
-60
+29
  
 
 
 $
-9
- 
-
-
-$
-206
- 
- 
-12.5
-%
-
-
-$
-101
- 
- 
-6.1
-%
-
-
-$
-88
- 
-
-
-$
-17 
+8 
  
 
 
@@ -26000,57 +19461,7 @@ $
 
 
 
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-​
-​
-​
-
-
 
-
 ​
 
 
@@ -26058,7 +19469,6 @@ $
 
 ​
 ​
-
 
 
 
@@ -26074,16 +19484,6 @@ $
 
 
 
-​
-​
-​
-​
-​
-​
-​
-​
-​
-​
 ​
 ​
 ​
@@ -26104,72 +19504,12 @@ $
 ​
 ​
 ​
-​
-​
-​
-​
-​
-​
-​
-​
-
-
-
-
-
-​
-​
-​
-
-
-
-
-
-​
-
-
-
-
-​
-​
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-​
-​
-​
 
 
 
 
-​
-
-
-
-
-​
-​
-
 
-
-
 ​
-
-
-
-
-
 ​
 ​
 
@@ -26186,7 +19526,6 @@ $
 ​
 ​
 ​
-
 
 
 
@@ -26226,40 +19565,20 @@ $
 
 
 
-        Net
-sales in the Industrial Solutions segment increased $119 million, or 14.0%, in the second quarter of fiscal 2018 as compared to the second quarter of fiscal 2017
-primarily as a result of the positive impact of foreign currency translation of 7.0% and organic net sales growth of 5.9%. Our organic net sales by primary industry end market were as
+        In
+the first quarter of fiscal 2018, net sales in the Industrial Solutions segment increased $87 million, or 10.9%, from the first quarter of fiscal 2017 primarily as a result of
+organic net sales growth of 6.3% and the positive impact of foreign currency translation of 3.6%. Our organic net sales by primary industry end market were as
 follows:
 
 
-•Industrial equipment—Our organic net sales increased 9.1% in the second quarter of
-fiscal 2018 with growth in all regions, due primarily to growth in factory automation and controls applications. 
-•Aerospace, defense, oil, and gas—Our organic net sales increased 5.1% in the second
-quarter of fiscal 2018 primarily as a result of growth in the commercial aerospace and defense markets. 
-•Energy—Our organic net sales decreased 1.2% in the second quarter of
-fiscal 2018 due to weakness in the Asia–Pacific and EMEA regions, partially offset by strength in the Americas region. 
+•Industrial equipment—Our organic net sales increased 16.9% in the first quarter of
+fiscal 2018 due primarily to growth in the factory automation and controls market and the medical market. 
+•Aerospace, defense, oil, and gas—Our organic net sales decreased 2.2% in the first
+quarter of fiscal 2018 primarily as a result of declines in our sales into the commercial aerospace market. 
+•Energy—Our organic net sales decreased 6.1% in the first quarter of fiscal 2018 due
+to weakness in the power market and declines in all regions. 
 
-        In
-the first six months of fiscal 2018, net sales in the Industrial Solutions segment increased $206 million, or 12.5%, from the first six months of fiscal 2017 due
-primarily to organic net sales 
-35
-
-
-
- 
-Table of Contents
-growth
-of 6.1% and the positive impact of foreign currency translation of 5.3%. Our organic net sales by primary industry end market were as follows:
-
-
-•Industrial equipment—Our organic net sales increased 12.8% in the first six months
-of fiscal 2018 with growth in all regions, primarily as a result of growth in factory automation and controls applications. 
-•Aerospace, defense, oil, and gas—Our organic net sales increased 1.6% in the first
-six months of fiscal 2018 due primarily to growth in the oil and gas market and the defense market. 
-•Energy—Our organic net sales decreased 3.6% in the first six months of
-fiscal 2018 due primarily to weakness in the Asia–Pacific and EMEA regions. 
-
-        Operating Income.    The following table presents the Industrial Solutions segment's operating income and operating margin
+         Operating Income.    The following table presents the Industrial Solutions segment's operating income and operating margin
 information: 
 
 
@@ -26280,42 +19599,25 @@ information:
 
 
 
-
-
-
-
-
-
-
-
-
  
  
 For the
 Quarters Ended 
  
-For the
-Six Months Ended 
+ 
  
 
 
  
  
-March 30,
-2018 
- 
-March 31,
+December 29,
 2017 
  
-Change 
+December 30,
+2016 
  
-March 30,
-2018 
- 
-March 31,
-2017 
- 
-Change 
+Increase
+(Decrease) 
  
 
 
@@ -26330,27 +19632,7 @@ Change
 
 
 $
-126
- 
-
-
-$
-88
- 
-
-
-$
-38
- 
-
-
-$
-228
- 
-
-
-$
-158
+102
  
 
 
@@ -26359,39 +19641,29 @@ $
  
 
 
+$
+32
+ 
+
+
  Operating margin
  
  
-13.0
+11.6
 %
  
-10.3
+8.8
 %
  
- 
- 
- 
-12.3
+2.8
 %
- 
-9.6
-%
- 
- 
- 
 
 
 
 
         Operating
-income in the Industrial Solutions segment increased $38 million and $70 million in the second quarter and first six months of fiscal 2018, respectively,
-as compared to the same periods of fiscal 2017. The Industrial Solutions segment's operating income included the following: 
-
-
-
-
-
-
+income in the Industrial Solutions segment increased $32 million in the first quarter of fiscal 2018 as compared to the first quarter of fiscal 2017. The Industrial
+Solutions segment's operating income included the following: 
 
 
 
@@ -26413,24 +19685,15 @@ as compared to the same periods of fiscal 2017. The Industrial Solutions segmen
 For the
 Quarters Ended 
  
-For the
-Six Months Ended 
- 
 
 
  
  
-March 30,
-2018 
- 
-March 31,
+December 29,
 2017 
  
-March 30,
-2018 
- 
-March 31,
-2017 
+December 30,
+2016 
  
 
 
@@ -26441,12 +19704,6 @@ March 31,
 
 
  Acquisition related charges:
- 
- 
- 
- 
- 
- 
  
  
  
@@ -26466,33 +19723,17 @@ $
 
 
 $
-2
- 
-
-
-$
-2
- 
-
-
-$
-3
+1
  
 
 
  Charges associated with the amortization of acquisition related fair value adjustments
  
  
-2
- 
- 
 1
  
  
-3
- 
- 
-2 
+1 
  
 
 
@@ -26506,7 +19747,6 @@ $
 
 
 
-
 ​
 
 
@@ -26515,28 +19755,6 @@ $
 ​
 ​
 
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
 
 
 
@@ -26552,32 +19770,20 @@ $
  
  
  
-3
+2
  
  
-3
- 
- 
-5
- 
- 
-5
+2
  
 
 
  Restructuring and other charges, net
  
  
-6
+23
  
  
-19
- 
- 
-29
- 
- 
-40 
+21 
  
 
 
@@ -26593,27 +19799,6 @@ $
 
 ​
 
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
 
 
 
@@ -26637,22 +19822,12 @@ $
 
 
 $
-9
+25
  
 
 
 $
-22
- 
-
-
-$
-34
- 
-
-
-$
-45 
+23 
  
 
 
@@ -26682,41 +19857,12 @@ $
 
 
 
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
 ​
 
 
 
 
 
-​
-​
-​
-​
-​
-​
 ​
 ​
 ​
@@ -26733,29 +19879,6 @@ $
 ​
 ​
 ​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
 
 
 
@@ -26781,31 +19904,22 @@ $
 
 
 
-Excluding
-these items, operating income increased in the second quarter and first six months of fiscal 2018 primarily as a result of higher volume. 
-36
-
+31
 
 
 
  
-
-
-
-
-
-
-
-
-
-Table of Contents 
+Table of Contents
+Excluding
+these items, operating income increased in the first quarter of fiscal 2018 primarily as a result of higher volume and improved manufacturing productivity, partially offset by the negative
+impact of price erosion. 
 
 
 
 
 Communications Solutions  
-        Net Sales.    The following table presents the Communications Solutions segment's net sales and the percentage of total net sales by
-primary industry
+         Net Sales.    The following table presents the Communications Solutions segment's net sales and the percentage of total net sales
+by primary industry
 end market(1): 
 
 
@@ -26829,41 +19943,20 @@ end market(1):
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
  
  
 For the
 Quarters Ended 
  
-For the
-Six Months Ended 
- 
 
 
  
  
-March 30,
-2018 
- 
-March 31,
+December 29,
 2017 
  
-March 30,
-2018 
- 
-March 31,
-2017 
+December 30,
+2016 
  
 
 
@@ -26878,59 +19971,31 @@ March 31,
 
 
 $
-258
+239
  
  
-40
+42
 %
 
 
 $
-233
+231
  
  
-38
-%
-
-
-$
-497
- 
- 
-41
-%
-
-
-$
-464
- 
- 
-38
+39
 %
 
 
  Subsea communications
  
  
-183
+143
  
  
-29
+25
  
  
-221
- 
- 
-36
- 
- 
-326
- 
- 
-27
- 
- 
-435
+214
  
  
 36
@@ -26940,28 +20005,16 @@ $
  Appliances
  
  
-198
+184
  
  
-31
+33
  
  
-165
+148
  
  
-26
- 
- 
-382
- 
- 
-32
- 
- 
-313
- 
- 
-26 
+25 
  
 
 
@@ -26969,50 +20022,6 @@ $
 
 
 ​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
 ​
 ​
 
@@ -27065,7 +20074,7 @@ $
 
 
 $
-639
+566
  
  
 100
@@ -27073,23 +20082,7 @@ $
 
 
 $
-619
- 
- 
-100
-%
-
-
-$
-1,205
- 
- 
-100
-%
-
-
-$
-1,212
+593
  
  
 100
@@ -27122,54 +20115,7 @@ $
 
 
 
-
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
 ​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
 ​
 
 
@@ -27191,16 +20137,12 @@ $
 
 
 
-
 ​
 
 
 
 
 
-​
-​
-​
 ​
 ​
 ​
@@ -27215,54 +20157,12 @@ $
 ​
 ​
 ​
-​
-​
-​
-​
-​
-​
-​
-​
-​
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
 
 
-​
-​
 
 
 
-
 ​
-
-
-
-
 ​
 ​
 
@@ -27275,23 +20175,13 @@ $
 
 
 ​
-​
-
-
-
-
 ​
 
 
 
 
-​
 ​
 
-
-
-
-​
 
 
 
@@ -27357,40 +20247,14 @@ following table provides an analysis of the change in the Communications Solutio
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  
  
-Change in Net Sales for the Quarter Ended March 30, 2018
-versus Net Sales for the Quarter Ended March 31, 2017 
- 
-Change in Net Sales for the Six Months Ended March 30, 2018
-versus Net Sales for the Six Months Ended March 31, 2017 
+Change in Net Sales for the Quarter Ended December 29, 2017
+versus Net Sales for the Quarter Ended December 30, 2016 
  
 
 
  
- 
-Net
-Sales Growth 
- 
-Organic Net
-Sales Growth 
- 
-Translation 
  
 Net
 Sales Growth 
@@ -27413,75 +20277,39 @@ Translation
 
 
 $
-25
- 
- 
-10.7
-%
-
-
-$
-17
- 
- 
-7.4
-%
-
-
-$
 8
  
-
-
-$
-33
  
- 
-7.1
+3.5
 %
 
 
 $
-22
+4
  
  
-4.7
+1.9
 %
 
 
 $
-11
+4
  
 
 
  Subsea communications
  
  
-(38
+(71
 )
  
-(17.2
+(33.2
 )
  
-(38
+(71
 )
  
-(17.2
-)
- 
-—
- 
- 
-(109
-)
- 
-(25.1
-)
- 
-(109
-)
- 
-(25.1
+(33.2
 )
  
 —
@@ -27491,34 +20319,19 @@ $
  Appliances
  
  
+36
+ 
+ 
+24.3
+ 
+ 
 33
  
  
-20.0
+21.7
  
  
-25
- 
- 
-14.4
- 
- 
-8
- 
- 
-69
- 
- 
-22.0
- 
- 
-57
- 
- 
-17.9
- 
- 
-12 
+3 
  
 
 
@@ -27528,47 +20341,6 @@ $
 ​
 ​
 ​
-
-
-
-
-​
-
-
-
-
-​
-​
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-
 
 
 
@@ -27614,44 +20386,23 @@ $
 
 
 $
-20
- 
- 
-3.2
-%
-
-
-$
-4
- 
- 
-0.6
-%
-
-
-$
-16
- 
-
-
-$
-(7
+(27
 )
  
- (0.6
+ (4.6
 )%
 
 
 $
-(30
+(34
 )
  
- (2.5
+ (5.7
 )%
 
 
 $
-23 
+7 
  
 
 
@@ -27693,46 +20444,7 @@ $
 
 
 
-​
-
-
-
-
-​
-​
-
-
-
-
-​
-
-
-
-
-
-​
-​
-​
-​
-​
-
 
-
-
-​
-
-
-
-
-​
-​
-​
-​
-​
-
-
-
-
 ​
 
 
@@ -27744,14 +20456,6 @@ $
 
 
 
-​
-​
-​
-​
-​
-​
-​
-​
 ​
 ​
 ​
@@ -27769,59 +20473,12 @@ $
 ​
 ​
 ​
-​
-​
-​
-​
-​
-​
-​
-
-
-
-
-
-​
-​
-​
-
-
-
-
-​
-
-
-
-
-​
-​
-​
-​
-​
-
-
-
-
-
-​
-
 
 
 
-​
-​
-​
-​
-​
-
 
 
-
 ​
-
-
-
-
 ​
 ​
 
@@ -27843,7 +20500,6 @@ $
 
 
 ​
-
 
 
 
@@ -27867,41 +20523,38 @@ $
 
 
 
-        In
-the second quarter of fiscal 2018, net sales in the Communications Solutions segment increased $20 million, or 3.2%, from the second quarter of fiscal 2017 due to
-the positive impact of foreign currency translation of 2.6% and organic net sales growth of 0.6%. Our organic net sales by primary industry end market were as
-follows:
-
-
-•Data and devices—Our organic net sales increased 7.4% in the second quarter of
-fiscal 2018 with growth in all regions, primarily attributable to growth in high speed connectivity in data center applications. 
-•Subsea communications—Our organic net sales decreased 17.2% in the second quarter
-of fiscal 2018 primarily as a result of production delays on a program. 
-•Appliances—Our organic net sales increased 14.4% in the second quarter of
-fiscal 2018 due to market share gains and growth in all regions. 
-
         Net
-sales in the Communications Solutions segment decreased $7 million, or 0.6%, in the first six months of fiscal 2018 as compared to the same period of fiscal 2017
-due to organic net sales declines of 2.5%, partially offset by the positive impact of foreign currency translation of 1.9%. Our organic net sales by primary industry end market were as
-follows:
+sales in the Communications Solutions segment decreased $27 million, or 4.6%, from the first quarter of fiscal 2018 as compared to the first quarter of fiscal 2017 due
+primarily to organic net sales declines of 5.7%. Our organic net sales by primary industry end market were as follows:
 
 
-•Data and devices—Our organic net sales increased 4.7% in the first six months of
-fiscal 2018 with growth in all regions, primarily as a result of continued growth in high speed connectivity in data center applications. 
+•Data and devices—Our organic net sales increased 1.9% in the first quarter of
+fiscal 2018 primarily as a result of market strength in the Asia–Pacific region and continued growth in high speed connectivity in data center applications.  
+•Subsea communications—Our organic net sales decreased 33.2% in the first quarter of
+fiscal 2018 as a result of lower levels of project activity and production delays on a program. 
+•Appliances—Our organic net sales increased 21.7% in the first quarter of fiscal
+2018 due to market share gains and growth in all regions. 
 
-37
+32
+
+
+
+
+
 
 
 
  
-Table of Contents
 
 
-•Subsea communications—Our organic net sales decreased 25.1% in the first six months
-of fiscal 2018 due primarily to production delays on a program. 
-•Appliances—Our organic net sales increased 17.9% in the first six months of
-fiscal 2018 as a result of market share gains and growth in all regions. 
 
+
+
+
+
+
+
+Table of Contents 
         Operating Income.    The following table presents the Communications Solutions segment's operating income and operating margin
 information: 
 
@@ -27923,42 +20576,25 @@ information:
 
 
 
-
-
-
-
-
-
-
-
-
  
  
 For the
 Quarters Ended 
  
-For the
-Six Months Ended 
+ 
  
 
 
  
  
-March 30,
-2018 
- 
-March 31,
+December 29,
 2017 
  
-Change 
+December 30,
+2016 
  
-March 30,
-2018 
- 
-March 31,
-2017 
- 
-Change 
+Increase
+(Decrease) 
  
 
 
@@ -27973,12 +20609,12 @@ Change
 
 
 $
-70
+59
  
 
 
 $
-88
+77
  
 
 
@@ -27987,54 +20623,24 @@ $
 )
 
 
-$
-129
- 
-
-
-$
-165
- 
-
-
-$
-(36
-)
-
-
  Operating margin
  
  
-11.0
+10.4
 %
  
-14.2
+13.0
 %
  
- 
- 
- 
-10.7
-%
- 
-13.6
-%
- 
- 
- 
+ (2.6
+)%
 
 
 
 
         Operating
-income in the Communications Solutions segment decreased $18 million and $36 million in the second quarter and first six months of fiscal 2018,
-respectively, as compared to the same periods of fiscal 2017. The Communications Solutions segment's operating income included the following: 
-
-
-
-
-
-
+income in the Communications Solutions segment decreased $18 million in the first quarter of fiscal 2018 as compared to the first quarter of fiscal 2017. The
+Communications Solutions segment's operating income included the following: 
 
 
 
@@ -28056,24 +20662,15 @@ respectively, as compared to the same periods of fiscal 2017. The Communication
 For the
 Quarters Ended 
  
-For the
-Six Months Ended 
- 
 
 
  
  
-March 30,
-2018 
- 
-March 31,
+December 29,
 2017 
  
-March 30,
-2018 
- 
-March 31,
-2017 
+December 30,
+2016 
  
 
 
@@ -28088,105 +20685,82 @@ March 31,
 
 
 $
+8
+ 
+
+
+$
 2
- 
-
-
-$
-7
- 
-
-
-$
-10
- 
-
-
-$
-9
  
 
 
 
 
 Excluding
-these items, operating income decreased in the second quarter and first six months of fiscal 2018 due primarily to declines in our Subsea Communications business related to production
-delays. 
+these items, operating income decreased in the first quarter of fiscal 2018 due primarily to declines in our Subsea Communications business related to production delays. 
  
  
   Liquidity and Capital Resources     
         Our ability to fund our future capital needs will be affected by our ability to continue to generate cash from operations and may be affected by
 our ability to access the capital markets, money markets, or other sources of funding, as well as the capacity and terms of our financing arrangements. We believe that cash generated from operations
 and, to the extent necessary, these other sources of potential funding will be sufficient to meet our anticipated capital needs for the foreseeable future, including the payment of $325 million
-of 2.375% senior notes and €100 million borrowed under the uncommitted revolving credit facility, both of which are due in December 2018. We
-may use excess cash to purchase a portion of our common shares pursuant to our authorized share repurchase program, to acquire strategic businesses or product lines, to pay dividends on our common
-shares, or to reduce our outstanding debt, including through the possible repurchase of our debt in accordance with applicable law. The cost or availability of future funding may be impacted by
-financial market conditions. We will continue to monitor financial markets and respond as necessary to changing conditions. 
+of 2.375% senior notes due in 2018. We may use excess cash to purchase a portion of our common shares pursuant to our authorized share repurchase program, to acquire strategic businesses or product
+lines, to pay dividends on our common shares, or to reduce our outstanding debt, including through the possible repurchase of our debt in accordance with applicable law. The cost or availability of
+future funding may be impacted by financial market conditions. We will continue to monitor financial markets and respond as necessary to changing conditions. 
 
 
 
 
 Cash Flows from Operating Activities  
-        In the first six months of fiscal 2018, net cash provided by operating activities decreased $198 million to $727 million
-from $925 million in the first six months of fiscal 2017. The decrease resulted primarily from an increase in employee-compensation related payments and the unfavorable effects of
-changes in accounts receivable and inventory levels, partially offset by higher pre-tax income levels. 
-38
-
-
-
- 
-Table of Contents
+        In the first quarter of fiscal 2018, net cash provided by operating activities decreased $54 million to $350 million from
+$404 million in the first quarter of fiscal 2017. The decrease resulted primarily from an increase in employee-compensation related payments, partially offset by higher pre-tax income levels. 
         The
-amount of income taxes paid, net of refunds, during the first six months of fiscal 2018 and 2017 was $208 million and $177 million, respectively. We do
-not expect a significant change in our income tax payments as a result of the Tax Cuts and Jobs Act. 
+amount of income taxes paid, net of refunds, during the first quarters of fiscal 2018 and 2017 was $82 million and $96 million, respectively. 
 
 
 
 
 Cash Flows from Investing Activities  
-        Capital expenditures were $447 million and $289 million in the first six months of fiscal 2018 and 2017,
-respectively. We expect fiscal 2018 capital spending levels to be approximately 6% of net sales. We believe our capital funding levels are adequate to support new programs, and we continue to invest
-in our manufacturing infrastructure to further enhance productivity and manufacturing capabilities. 
-
-
-
-
-Cash Flows from Financing Activities and Capitalization  
-        Total debt at March 30, 2018 and September 29, 2017 was $4,010 million and $4,344 million, respectively. See
-Note 6 to the Condensed Consolidated Financial Statements for additional information regarding debt. 
-        During
-the first six months of fiscal 2018, Tyco Electronics Group S.A. ("TEGSA"), our 100%-owned subsidiary, repaid, at maturity, $708 million of 6.55% senior notes
-due October 2017. 
-        During
-the first six months of fiscal 2018, TEGSA entered into an uncommitted revolving credit facility under which it borrowed €100 million at a 0%
-interest rate with repayment due at maturity in December 2018. 
-        TEGSA
-has a five-year unsecured senior revolving credit facility ("Credit Facility") with a maturity date of December 2020 and total commitments of $1,500 million. TEGSA
-had no borrowings under the Credit Facility at March 30, 2018 or September 29, 2017. Borrowings under our commercial paper program are backed by the Credit Facility and reduce the
-availability of funds from the Credit Facility. 
-        The
-Credit Facility contains a financial ratio covenant providing that if, as of the last day of each fiscal quarter, our ratio of Consolidated Total Debt to Consolidated EBITDA (as
-defined in the Credit Facility) for the then most recently concluded period of four consecutive fiscal quarters exceeds 3.75 to 1.0, an Event of Default (as defined in the Credit Facility) is
-triggered. The Credit Facility and our other debt agreements contain other customary covenants. None of our covenants are presently considered restrictive to our operations. As of March 30,
-2018, we were in compliance with all of our debt covenants and believe that we will continue to be in compliance with our existing covenants for the foreseeable future. 
-        In
-addition to the Credit Facility, TEGSA is the borrower under our senior notes and commercial paper. TEGSA's payment obligations under its senior notes, commercial paper, and Credit
-Facility are fully and unconditionally guaranteed by its parent, TE Connectivity Ltd. 
-        Payments
-of common share dividends to shareholders were $281 million and $263 million in the first six months of fiscal 2018 and 2017, respectively. 
-        In
-March 2018, our shareholders approved a dividend payment to shareholders of $1.76 per share, payable in four equal quarterly installments of $0.44 per share beginning in the
-third quarter of fiscal 2018 and ending in the second quarter of fiscal 2019. 
-        During
-the first six months of fiscal 2018, our board of directors authorized an increase of $1.5 billion in the share repurchase program. We repurchased approximately
-4 million of our common shares for $383 million and approximately 3 million of our common shares for $205 million under our share repurchase program during the first six
-months of fiscal 2018 and 2017, respectively. At March 30, 2018, we had $1.6 billion of availability remaining under our share repurchase authorization. 
-39
+        Capital expenditures were $241 million and $130 million in the first quarters of fiscal 2018 and 2017, respectively. We expect
+fiscal 2018 capital spending levels to be approximately 5% of net sales. We believe our capital funding levels are adequate to support new programs, and we continue to invest in our manufacturing
+infrastructure to further enhance productivity and manufacturing capabilities. 
+33
 
 
 
  
 Table of Contents
+
+
+
+
+Cash Flows from Financing Activities and Capitalization  
+        Total debt at December 29, 2017 and September 29, 2017 was $4,005 million and $4,344 million, respectively. See
+Note 6 to the Condensed Consolidated Financial Statements for additional information regarding debt. 
+        During
+October 2017, Tyco Electronics Group S.A. ("TEGSA"), our 100%-owned subsidiary, repaid, at maturity, $708 million 6.55% senior notes due 2017. 
+        During
+December 2017, TEGSA entered into an uncommitted revolving credit facility under which it borrowed €100 million, at a 0% interest rate with repayment due at
+maturity in December 2018. 
+        TEGSA
+has a five-year unsecured senior revolving credit facility ("Credit Facility") with a maturity date of December 2020 and total commitments of $1,500 million. TEGSA had no
+borrowings under the
+Credit Facility at December 29, 2017 or September 29, 2017. Borrowings under our commercial paper program are backed by the Credit Facility and reduce the availability of funds from the
+Credit Facility. 
+        The
+Credit Facility contains a financial ratio covenant providing that if, as of the last day of each fiscal quarter, our ratio of Consolidated Total Debt to Consolidated EBITDA (as
+defined in the Credit Facility) for the then most recently concluded period of four consecutive fiscal quarters exceeds 3.75 to 1.0, an Event of Default (as defined in the Credit Facility) is
+triggered. The Credit Facility and our other debt agreements contain other customary covenants. None of our covenants are presently considered restrictive to our operations. As of December 29,
+2017, we were in compliance with all of our debt covenants and believe that we will continue to be in compliance with our existing covenants for the foreseeable future. 
+        In
+addition to the Credit Facility, TEGSA is the borrower under our senior notes and commercial paper. TEGSA's payment obligations under its senior notes, commercial paper, and Credit
+Facility are fully and unconditionally guaranteed by its parent, TE Connectivity Ltd. 
+        Payments
+of common share dividends to shareholders were $141 million and $132 million in the first quarters of fiscal 2018 and 2017, respectively. 
+        During
+the first quarter of fiscal 2018, our board of directors authorized an increase of $1.5 billion in the share repurchase program. We repurchased approximately
+2 million of our common shares for $214 million and approximately 2 million of our common shares for $102 million under our share repurchase program during the first
+quarters of fiscal 2018 and 2017, respectively. At December 29, 2017, we had $1,766 million of availability remaining under our share repurchase authorization. 
  
  
   Commitments and Contingencies     
@@ -28196,31 +20770,40 @@ Table of Contents
 
 Legal Proceedings  
         In the normal course of business, we are subject to various legal proceedings and claims, including patent infringement claims, product
-liability matters, employment disputes, disputes on agreements, other commercial disputes, environmental matters, antitrust claims, and tax matters, including non-income tax matters such as value
-added tax, sales and use tax, real estate tax, and transfer tax. Although it is not feasible to predict the outcome of these proceedings, based upon our experience, current information, and applicable
-law, we do not expect that the outcome of these proceedings, either individually or in the aggregate, will have a material effect on our results of operations, financial position, or cash flows. 
+liability matters, employment disputes, disputes on agreements, other commercial disputes, environmental matters, antitrust claims, and tax matters,
+including non-income tax matters such as value added tax, sales and use tax, real estate tax, and transfer tax. Although it is not feasible to predict the outcome of these proceedings, based upon our
+experience, current information, and applicable law, we do not expect that the outcome of these proceedings, either individually or in the aggregate, will have a material effect on our results of
+operations, financial position, or cash flows. 
 
 
 
 
 Guarantees  
         In certain instances, we have guaranteed the performance of third parties and provided financial guarantees for uncompleted work and financial
-commitments. The terms of these guarantees vary with end dates ranging from fiscal 2018 through the completion of such transactions. The guarantees would be triggered in the event of
-nonperformance, and the potential exposure for nonperformance under the guarantees would not have a material effect on our results of operations, financial position, or cash flows. 
+commitments. The terms of these guarantees vary with 
+34
+
+
+
+ 
+Table of Contents
+end
+dates ranging from fiscal 2018 through the completion of such transactions. The guarantees would be triggered in the event of nonperformance, and the potential exposure for nonperformance under
+the guarantees would not have a material effect on our results of operations, financial position, or cash flows. 
         In
 disposing of assets or businesses, we often provide representations, warranties, and/or indemnities to cover various risks including unknown damage to assets, environmental risks
 involved in the sale of real estate, liability for investigation and remediation of environmental contamination at waste disposal sites and manufacturing facilities, and unidentified tax liabilities
 and legal fees related to periods prior to disposition. We do not expect that these uncertainties will have a material adverse effect on our results of operations, financial position, or cash flows. 
         At
-March 30, 2018, we had outstanding letters of credit, letters of guarantee, and surety bonds of $285 million. 
+December 29, 2017, we had outstanding letters of credit, letters of guarantee, and surety bonds of $291 million. 
 
 
 
 
 Tax Sharing Agreement  
-        We are a party to a Tax Sharing Agreement that generally governs our, Tyco International plc's, and Covidien plc's respective
-rights, responsibilities, and obligations with respect to taxes for periods prior to and including June 29, 2007. See Note 7 to the Condensed Consolidated Financial Statements for
-additional information regarding the Tax Sharing Agreement. 
+        As previously reported, we are a party to a Tax Sharing Agreement that generally governs our, Tyco International plc's, and
+Covidien plc's respective rights, responsibilities, and obligations with respect to taxes for periods prior to and including June 29, 2007. See Note 7 to the Condensed
+Consolidated Financial Statements for additional information regarding the Tax Sharing Agreement. 
  
  
   Critical Accounting Policies and Estimates     
@@ -28230,13 +20813,7 @@ that affect the reported amounts of assets and liabilities, the disclosure of co
 accounting policies for revenue recognition, goodwill and other intangible assets, income taxes, and pension liabilities are based on, among other things, judgments and assumptions
 made by management. For additional information regarding these policies and the underlying accounting assumptions and estimates used in these policies, refer to the Consolidated Financial Statements
 and accompanying notes contained in our Annual Report on Form 10-K for the fiscal year ended September 29, 2017. There were no significant changes to this information during the first
-six months of fiscal 2018. 
-40
-
-
-
- 
-Table of Contents
+quarter of fiscal 2018. 
  
  
   Accounting Pronouncements     
@@ -28255,6 +20832,12 @@ results in accordance with GAAP. Organic net sales growth represents net sales g
 acquisitions and divestitures that occurred in the preceding twelve months, if any. Organic net sales growth is a useful measure of our performance because it excludes items that are not completely
 under management's control, such as the impact of changes in foreign currency exchange rates, and items that do not reflect the underlying growth of the company, such as acquisition and divestiture
 activity. 
+35
+
+
+
+ 
+Table of Contents
         Organic
 net sales growth provides useful information about our results and the trends of our business. Management uses organic net sales growth to monitor and evaluate performance. Also,
 management uses organic net sales growth together with GAAP financial measures in its decision-making processes related to the operations of our reportable segments and our overall company. It is also
@@ -28269,20 +20852,14 @@ of any increase or decrease in reported amounts.
  
   Forward-Looking Information     
         Certain statements in this Quarterly Report on Form 10-Q are "forward-looking statements" within the meaning of the U.S. Private
-Securities Litigation Reform Act of 1995. These statements are based on our management's beliefs and assumptions and on information currently available to our management. Forward-looking
-statements include, among others, the information concerning our possible or assumed future results of operations, business strategies, financing plans, competitive position, potential growth
-opportunities, potential operating performance improvements, acquisitions, divestitures, the effects of competition, and the effects of future legislation or regulations. Forward-looking statements
-include all statements that are not historical facts and can be identified by the use of forward-looking terminology such as the words "believe," "expect," "plan," "intend," "anticipate," "estimate,"
-"predict," "potential," "continue," "may," "should," or the negative of these terms or similar expressions. 
+Securities Litigation Reform Act of 1995. These statements are based on our management's beliefs and assumptions and on information currently available to our management. Forward-looking statements
+include, among others, the information concerning our possible or assumed future results of operations, business strategies, financing plans, competitive position, potential growth opportunities,
+potential operating performance improvements, acquisitions, divestitures, the effects of competition, and the effects of future legislation or regulations. Forward-looking statements include all
+statements that are not historical facts and can be identified by the use of forward-looking terminology such as the words "believe," "expect," "plan," "intend," "anticipate," "estimate," "predict,"
+"potential," "continue," "may," "should," or the negative of these terms or similar expressions. 
         Forward-looking
 statements involve risks, uncertainties, and assumptions. Actual results may differ materially from those expressed in these forward-looking statements. Investors should
 not place undue reliance on any forward-looking statements. We do not have any intention or obligation to update forward-looking statements after we file this report except as required by law. 
-41
-
-
-
- 
-Table of Contents
         The
 following and other risks, which are described in greater detail in "Part I. Item 1A. Risk Factors," in our Annual Report on Form 10-K for the fiscal year ended
 September 29, 2017, could cause our results to differ materially from those expressed in forward-looking statements:
@@ -28295,6 +20872,15 @@ September 29, 2017, could cause our results to differ materially from those exp
 • raw material availability, quality, and cost; 
 • fluctuations in foreign currency exchange rates; 
 • financial condition and consolidation of customers and vendors; 
+
+36
+
+
+
+ 
+Table of Contents
+
+
 • reliance on third-party suppliers; 
 • risks associated with current and future acquisitions and divestitures; 
 • global risks of business interruptions such as natural disasters and political, economic, and military instability;  
@@ -28314,15 +20900,9 @@ our worldwide corporate effective tax rate and negatively impact our U.S. govern
 may be other risks and uncertainties that we are unable to predict at this time or that we currently do not expect to have a material adverse effect on our business. 
  
     ITEM 3.    QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK     
-        There have been no significant changes in our exposures to market risk during the six months ended March 30, 2018. For further discussion
-of our exposures to market risk, refer to "Part II. Item 7A. Quantitative and Qualitative Disclosures About Market Risk" in our Annual Report on Form 10-K for the fiscal year
-ended September 29, 2017. 
-42
-
-
-
- 
-Table of Contents
+        There have been no significant changes in our exposures to market risk during the first quarter of fiscal 2018. For further discussion of our
+exposures to market risk, refer to "Part II. Item 7A. Quantitative and Qualitative Disclosures About Market Risk" in our Annual Report on Form 10-K for the fiscal year ended
+September 29, 2017.  
  
     ITEM 4.    CONTROLS AND PROCEDURES     
 
@@ -28331,16 +20911,16 @@ Table of Contents
 
 Evaluation of Disclosure Controls and Procedures  
         Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of our disclosure
-controls and procedures (as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934, as amended), as of March 30, 2018. Based on that evaluation, our Chief Executive
-Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective as of March 30, 2018. 
+controls and procedures (as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934, as amended), as of December 29, 2017. Based on that evaluation, our Chief Executive
+Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective as of December 29, 2017. 
 
 
 
 
 Changes in Internal Control Over Financial Reporting  
-        During the quarter ended March 30, 2018, there were no changes in our internal control over financial reporting that have materially
+        During the quarter ended December 29, 2017, there were no changes in our internal control over financial reporting that have materially
 affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
-43
+37
 
 
 
@@ -28367,24 +20947,9 @@ information regarding legal proceedings.
  
     ITEM 1A.    RISK FACTORS     
         There have been no material changes in our risk factors from those disclosed in "Part I. Item 1A. Risk Factors" in our Annual
-Report on Form 10-K for the fiscal year ended September 29, 2017 except as described below. The risk factors described in our Annual Report on Form 10-K, in addition to other
-information set forth below and in this report, could materially affect our business operations, financial condition, or liquidity. Additional risks and uncertainties not currently known to us or that
-we currently believe are immaterial may also impair our business operations, financial condition, and liquidity. 
-        
-
-
-
-
-
-Changes in United States federal tax laws could result in adverse consequences to United States persons
-treated as owning 10% or more of our shares.  
-        Although we are a Swiss corporation, recent U.S. tax law changes have expanded application of certain ownership attribution rules and cause
-certain of our non-U.S. subsidiaries to be treated as Controlled Foreign Corporations ("CFCs") for U.S. federal income tax purposes. A U.S. person that is treated for U.S. federal income tax purposes
-as owning, directly, indirectly, or constructively, 10% or more of our shares may be required to annually report and include in its U.S. taxable income its pro rata share of certain types of income
-earned by our subsidiaries that are treated as CFCs, whether or not we make any distributions to such U.S. shareholder. A U.S. person that owns 10% or more of our shares should consult its own tax
-advisers regarding any potential implications to it of these changes in U.S. federal income tax law. The risk of U.S. federal income tax reporting and compliance obligations with respect to our
-subsidiaries that now are treated as CFCs may deter our current shareholders from increasing their investment in us, and others from investing in us, which could impact the demand for, and value of,
-our shares.  
+Report on Form 10-K for the fiscal year ended September 29, 2017. The risk factors described in our Annual Report on Form 10-K, in addition to other information in this report,
+could materially affect our business operations, financial condition, or liquidity. Additional risks and uncertainties not currently known to us or that we currently believe are immaterial may also
+impair our business operations, financial condition, and liquidity.  
  
     ITEM 2.    UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS     
 
@@ -28393,18 +20958,12 @@ our shares.
 
 Recent Sales of Unregistered Securities  
         None. 
-44
-
-
-
- 
-Table of Contents
 
 
 
 
 Issuer Purchases of Equity Securities  
-        The following table presents information about our purchases of our common shares during the quarter ended March 30, 2018: 
+        The following table presents information about our purchases of our common shares during the quarter ended December 29, 2017: 
 
 
 
@@ -28457,55 +21016,55 @@ or Programs(2)
  
 
 
- December 30, 2017–January 26, 2018
+ September 30–October 27, 2017
  
  
-428,476
- 
-
-
-$
-100.07
- 
- 
-427,100
+506,437
  
 
 
 $
-1,723,550,156
+87.38
+ 
+ 
+506,433
  
 
 
- January 27–March 2, 2018
- 
- 
-693,557
- 
- 
-100.67
- 
- 
-689,200
- 
- 
-1,654,180,167
+$
+436,225,272
  
 
 
- March 3–March 30, 2018
+ October 28–December 1, 2017
  
  
-564,897
+1,022,087
  
  
-100.84
+93.82
  
  
-564,470
+837,800
  
  
-1,597,258,621 
+357,513,984
+ 
+
+
+ December 2–December 29, 2017
+ 
+ 
+1,110,784
+ 
+ 
+95.20
+ 
+ 
+958,800
+ 
+ 
+1,766,284,720 
  
 
 
@@ -28547,15 +21106,15 @@ $
  Total
  
  
-1,686,930
+2,639,308
  
 
 
 $
-100.58
+93.16
  
  
-1,680,770
+2,303,033
  
  
  
@@ -28659,20 +21218,27 @@ $
 
 
 (1)These
-columns include the following transactions which occurred during the quarter ended March 30, 2018:
+columns include the following transactions which occurred during the quarter ended December 29, 2017:
 
 
 (i)the
-acquisition of 6,160 common shares from individuals in order to satisfy tax withholding requirements in connection with the vesting of restricted share awards
+acquisition of 336,275 common shares from individuals in order to satisfy tax withholding requirements in connection with the vesting of restricted share awards
 issued under equity compensation plans; and
 (ii)open
-market purchases totaling 1,680,770 common shares, summarized on a trade-date basis, in conjunction with the share repurchase program announced in
-September 2007.
+market purchases totaling 2,303,033 common shares, summarized on a trade-date basis, in conjunction with the share repurchase program announced in September
+2007.
 
-(2)Our
-share repurchase program authorizes us to purchase a portion of our outstanding common shares from time to time through open market or private transactions,
-depending on business and market conditions. The share repurchase program does not have an expiration date. 
+(2)During
+the quarter ended December 29, 2017, our board of directors authorized an increase of $1.5 billion in the share repurchase program. Our share
+repurchase program authorizes us to purchase a portion of our outstanding common shares from time to time through open market or private transactions, depending on business and market conditions. The
+share repurchase program does not have an expiration date. 
 
+38
+
+
+
+ 
+Table of Contents
  
     ITEM 6.    EXHIBITS     
 
@@ -28696,12 +21262,25 @@ Number
 Exhibit 
 
 
-3.1
+10.1
+ 
+‡*
+ 
+Employment Agreement between John S. Jenkins and Tyco Electronics Corporation dated December 15, 2015
+
+
+  
  
  
  
-Articles of Association of TE Connectivity Ltd., as amended and restated (incorporated by reference to Exhibit 3.1
-to TE Connectivity's Current Report on Form 8-K, filed March 19, 2018)
+ 
+
+
+10.2
+ 
+‡*
+ 
+Letter Agreement between Joseph B. Donahue and TE Connectivity dated January 18, 2018
 
 
   
@@ -28715,7 +21294,7 @@ to TE Connectivity's Current Report on Form 8-K, filed March 19, 2018)
  
 *
  
-Certification by the Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+Certification by the Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
 
 
   
@@ -28729,7 +21308,7 @@ Certification by the Chief Executive Officer pursuant to Section 302 of the Sar
  
 *
  
-Certification by the Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+Certification by the Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
 
 
   
@@ -28743,7 +21322,7 @@ Certification by the Chief Financial Officer pursuant to Section 302 of the Sar
  
 **
  
-Certification by the Chief Executive Officer and Chief Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+Certification by the Chief Executive Officer and Chief Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
 
 
   
@@ -28757,8 +21336,8 @@ Certification by the Chief Executive Officer and Chief Financial Officer pursuan
  
 *
  
-Financial statements from the Quarterly Report on Form 10-Q of TE Connectivity Ltd. for the quarterly period ended March 30, 2018, filed on April 25, 2018, formatted in XBRL: (i) the Condensed
-Consolidated Statements of Operations, (ii) the Condensed Consolidated Statements of Comprehensive Income, (iii) the Condensed Consolidated Balance Sheets, (iv) the Condensed Consolidated Statements of Shareholders' Equity,
+Financial statements from the Quarterly Report on Form 10-Q of TE Connectivity Ltd. for the quarterly period ended December 29, 2017, filed on January 24, 2018, formatted in XBRL: (i) the
+Condensed Consolidated Statements of Operations, (ii) the Condensed Consolidated Statements of Comprehensive Income, (iii) the Condensed Consolidated Balance Sheets, (iv) the Condensed Consolidated Statements of Shareholders' Equity,
 (v) the Condensed Consolidated Statements of Cash Flows, and (vi) the Notes to Condensed Consolidated Financial Statements
 
 
@@ -28768,12 +21347,14 @@ Consolidated Statements of Operations, (ii) the Condensed Consolidated Statemen
 
 
 
+‡Management
+contract or compensatory plan or arrangement
 *Filed
 herewith
 **Furnished
 herewith 
 
-45
+39
 
 
 
@@ -28792,8 +21373,8 @@ Table of Contents
  
  
   SIGNATURES     
-        Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its
-behalf by the undersigned, thereunto duly authorized. 
+        Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized. 
 
 
 
@@ -28826,8 +21407,8 @@ Officer (Principal Financial Officer)
 
 
 Date:
-April 25, 2018 
-46
+January 24, 2018 
+40
 
 
 

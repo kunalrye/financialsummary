@@ -81,10 +81,10 @@ def makeText(url, index):
 
 
 def txtToStrings():
-    """Opens every 10Q text file and reads its contents as a string. 
+    """Opens every filtered 10Q text file and reads its contents as a string. 
     
     Returns:
-        List<String> -- List of strings, where each string corresopnds to the text of a 10Q
+        List<String> -- List of strings, where each string corresopnds to the filtered text of a 10Q
     """
     all_urls = open('links.txt').read().splitlines()
     all_docs = []
@@ -109,7 +109,7 @@ def txtToString(idx):
         Note that idx should be 1-indexed, as 0-indexing is handled internally. 
     
     Returns:
-        [string] -- the contents of the 10Q text file 
+        [string] -- the contents of the filtered 10Q text file 
     """
     
     fname = "resources/filtered/" + str(idx-1) + ".txt"
@@ -117,6 +117,45 @@ def txtToString(idx):
         print(fname)
         txt_file_as_string = f.read()
     return txt_file_as_string
+
+
+
+def unfilteredTxtToStrings():
+    """Opens every unfiltered 10Q text file and reads its contents as a string. 
+    
+    Returns:
+        List<String> -- List of strings, where each string corresopnds to the unfiltered text of a 10Q
+    """
+    all_urls = open('links.txt').read().splitlines()
+    all_docs = []
+    for i in range(len(all_urls)):
+        fname = "resources/unfiltered/" + str(i) + ".txt"
+        with open(fname) as f:
+            print(fname)
+            txt_file_as_string = f.read()
+        all_docs.append(txt_file_as_string)
+    return all_docs
+
+
+
+def unfilteredTxtToString(idx):
+    """Opens a specific unfiltered 10Q textfile and reads its contents as a string. 
+    Returns a single string
+    
+    Arguments:
+        idx {int} -- int corresponding to the line number on the links.txt text file. 
+        Note that idx should be 1-indexed, as 0-indexing is handled internally. 
+    
+    Returns:
+        [string] -- the contents of the unfiltered 10Q text file 
+    """
+    
+    fname = "resources/unfiltered/" + str(idx-1) + ".txt"
+    with open(fname) as f:
+        print(fname)
+        txt_file_as_string = f.read()
+    return txt_file_as_string
+
 
 
 
