@@ -1,6 +1,6 @@
 '''
 Computes the TF-IDF matrix and the top-n words from the corpus of 187 documents
-Requires: subdirectory txt_files containing the text files of the 10-Qs
+Requires: resources directory containing the text files of the 10-Qs
 '''
 import numpy as np
 import pandas as pd 
@@ -100,7 +100,6 @@ def topN(tfidf_mat, featureList, n):
 ## compute the top-n words 
 if __name__ == "__main__":
     print(topN(*computeTFIDF(txtToStrings()), 200))
-
 
 
 
