@@ -73,7 +73,7 @@ def makeText(url, index):
     print("Total acceptable sentences =",num_good_sents)
     #Converting the sentences to a document
     good_doc = " ".join(good_sents)
-    text_file = open("txt_files/" + str(index - 1) + ".txt", "w")
+    text_file = open("resources/filtered/" + str(index - 1) + ".txt", "w")
     text_file.write(good_doc)
     text_file.close()
 
@@ -89,7 +89,7 @@ def txtToStrings():
     all_urls = open('links.txt').read().splitlines()
     all_docs = []
     for i in range(len(all_urls)):
-        fname = "txt_files/" + str(i) + ".txt"
+        fname = "resources/filtered/" + str(i) + ".txt"
         with open(fname) as f:
             print(fname)
             txt_file_as_string = f.read()
@@ -112,7 +112,7 @@ def txtToString(idx):
         [string] -- the contents of the 10Q text file 
     """
     
-    fname = "txt_files/" + str(idx-1) + ".txt"
+    fname = "resources/filtered/" + str(idx-1) + ".txt"
     with open(fname) as f:
         print(fname)
         txt_file_as_string = f.read()
