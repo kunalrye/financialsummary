@@ -1,12 +1,12 @@
 import summa
 
 
-document = open('C:/Users/jsbae/financialsummary/txt_files/0.txt', encoding="utf8").read()
+document = open('txt_files/0.txt', encoding="utf8").read()
 summarized_doc = summa.summarizer.summarize(document,ratio=.05)
 print(summarized_doc)
 words = summa.keywords.keywords(document).split()
 # summarized_doc = " ".join(summarized_doc)
-text_file = open("C:/Users/jsbae/financialsummary/txt_files/textrank_files/" + str(0) + ".txt", "w")
+text_file = open("txt_files/textrank_files/" + str(0) + ".txt", "w")
 text_file.write(summarized_doc)
 text_file.close()
 
