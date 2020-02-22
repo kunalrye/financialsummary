@@ -3,10 +3,8 @@ Functions to extract the sections from a 10Q report, such as "Management's Discu
 "Controls and Procedures", etc. 
 '''
 
-from retrieve_sentences import unfilteredTxtToStrings, html_to_text
-from nltk.collocations import *
-import nltk
-import re 
+from wrangling.retrieve_sentences import unfilteredTxtToStrings, html_to_text
+import re
 
 
 section_headers = [

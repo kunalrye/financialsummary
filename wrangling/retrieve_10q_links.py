@@ -3,7 +3,7 @@
 # then forms a new url to directly access 10Q report 
 ##########################
 import pandas as pd
-from link_scraper import get_10qs, query_api
+from wrangling.link_scraper import get_10qs, query_api
 
 
 #Request timed out at verisign INC
