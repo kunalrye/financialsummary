@@ -1,7 +1,7 @@
 import summa
 
 
-document = open('resources/textrank_files/0.txt').read()
+document = open('resources/filtered/0.txt').read()
 summarized_doc = summa.summarizer.summarize(document,ratio=.05)
 print(summarized_doc)
 words = summa.keywords.keywords(document).split()
