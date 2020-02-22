@@ -16,6 +16,11 @@ numpy = "*"
 matplotlib = "*"
 dtale = "*"
 summa = "*"
+bert-serving-server = "*"
+bert-serving-client = "*"
+jupyter = "*"
+seaborn = "*"
+tensorflow = "==1.15"
 
 [requires]
 python_version = "3.7"
