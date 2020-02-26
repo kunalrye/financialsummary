@@ -8,13 +8,10 @@ For a given url, should output:
     document (good_doc [string])
 Includes minor pre-processing  to remove special chars
 '''
-import pandas as pd
 import re
 import random
 import nltk
 import urllib.request
-from nltk.collocations import *
-from link_scraper import get_10qs, query_api
 from bs4 import BeautifulSoup
 
 

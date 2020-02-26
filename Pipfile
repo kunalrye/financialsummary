@@ -1,0 +1,26 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+requests = "*"
+bs4 = "*"
+pandas = "*"
+yellowbrick = "*"
+nltk = "*"
+sklearn = "*"
+numpy = "*"
+matplotlib = "*"
+dtale = "*"
+summa = "*"
+bert-serving-server = "*"
+bert-serving-client = "*"
+jupyter = "*"
+seaborn = "*"
+tensorflow = "==1.15"
+
+[requires]
+python_version = "3.7"

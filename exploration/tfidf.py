@@ -4,10 +4,8 @@ Requires: resources directory containing the text files of the 10-Qs
 '''
 import numpy as np
 import pandas as pd 
-from retrieve_sentences import makeText, txtToStrings
+from wrangling.retrieve_sentences import txtToStrings
 from sklearn.feature_extraction.text import TfidfVectorizer
-from yellowbrick.text import TSNEVisualizer
-from yellowbrick.datasets import load_hobbies
 
 ## words to exclude from the TFIDF matrix 
 ENGLISH_STOP_WORDS = [
@@ -73,7 +71,7 @@ def computeTFIDF(docs):
     transformed_documents = vectorizer.fit_transform(docs)
     transformed_documents_as_array = transformed_documents.toarray()
     ## save the tfidf matrix 
-    pd.DataFrame(transformed_documents_as_array).to_csv("tfidf_mat.csv")
+    pd.DataFrame(transformed_documents_as_array).to_csv("resources/tfidf_mat.csv")
     # compute the top-n tfidf weights 
     return transformed_documents_as_array, vectorizer.get_feature_names()
 
