@@ -23,5 +23,6 @@ def cleanhtml(raw_html):
   cleantext = re.sub(cleanr, '', raw_html)
   return cleantext
 
+
 print(cleanhtml(xbrl_str))
 
