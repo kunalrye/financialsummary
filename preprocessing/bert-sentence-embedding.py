@@ -1,5 +1,8 @@
 """
-Uses Bert-As-A-Service for sentence embeddings
+Uses Bert-As-A-Service for sentence embeddings.
+
+Start the bert server with startServer. Note: the bert server will terminate when the parent process
+is finished executing, so run CMD in an external shell if you want a persistent server
 """
 import subprocess
 from bert_serving.client import BertClient
