@@ -9,6 +9,20 @@ Pretrained models can be found here: https://github.com/google-research/bert#pre
 import subprocess
 from bert_serving.client import BertClient
 
+
+def encodeSentences(vecs):
+    """
+    Encodes sentences as fixed-length vectors
+    :param vecs: List<String> -> list of sentences
+    :return:ndarray corresponding to list of fixed-length vectors 
+    """
+    bc = BertClient()
+    vectors = bc.encode(vecs)
+
+    print(vectors)
+
+
+
 def startServer(bertModelPath):
     """
     Starts the bert server. Command can also be run in a separate shell for a persistent server
