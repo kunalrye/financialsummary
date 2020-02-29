@@ -7,6 +7,7 @@ is finished executing, so run CMD in an external shell if you want a persistent 
 import subprocess
 from bert_serving.client import BertClient
 
+
 def startServer(bertModelPath):
     """
     Starts the bert server. Command can also be run in a separate shell for a persistent server
@@ -16,7 +17,7 @@ def startServer(bertModelPath):
     CMD = "bert-serving-start -model_dir" + bertModelPath + " -num_worker=1 -max_seq_len=50"
 
     # runs the bert server
-    popen = subprocess.Popen(CMD.split(),stderr=subprocess.PIPE, universal_newlines=True)
+    popen = subprocess.Popen(CMD.split(), stderr=subprocess.PIPE, universal_newlines=True)
 
     # polls the child process until the server is ready, or if the process
     while True:
@@ -32,9 +33,10 @@ def startServer(bertModelPath):
 
     print("bert server ready")
 
+
 if __name__ == "__main__":
     startServer("~/Documents/uncased_L-12_H-768_A-12")
-    ####### encoding sentences #####
+    ###### encoding sentences #####
     sentences = []
     for i in range(3):
         sentences += open(f"../resources/filtered/{i}.txt").read().split('.')

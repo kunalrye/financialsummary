@@ -1,8 +1,7 @@
 import summa
 
-
 document = open('resources/filtered/0.txt').read()
-summarized_doc = summa.summarizer.summarize(document,ratio=.05)
+summarized_doc = summa.summarizer.summarize(document, ratio=.05)
 print(summarized_doc)
 words = summa.keywords.keywords(document).split()
 # summarized_doc = " ".join(summarized_doc)
@@ -14,7 +13,8 @@ text_file.close()
 # print(summ_summarized_doc)
 import nltk
 from nltk.corpus import wordnet
-#nltk.download('wordnet') #Run once
+
+# nltk.download('wordnet') #Run once
 
 unique_lemma = list()
 for word in words:

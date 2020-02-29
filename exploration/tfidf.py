@@ -2,6 +2,7 @@
 Computes the TF-IDF matrix and the top-n words from the corpus of 187 documents
 Requires: resources directory containing the text files of the 10-Qs
 '''
+
 import numpy as np
 import pandas as pd 
 from wrangling.retrieve_sentences import txtToStrings
@@ -52,9 +53,9 @@ ENGLISH_STOP_WORDS = [
     "yourselves"]
 
 
-
 def computeTFIDF(docs):
-    """Computes the TFIDF matrix for all 10Qs
+    """
+    Computes the TFIDF matrix for all 10Qs
     
     Arguments:
         docs {List<String>} -- each string is the plain text of the 10Q
@@ -77,7 +78,8 @@ def computeTFIDF(docs):
 
 
 def topN(tfidf_mat, featureList, n):
-    """Computes the topN words 
+    """
+    Computes the topN words
     
     Arguments:
         tfidf_mat {2D ndarray} -- the TFIDF matrix 
@@ -93,13 +95,9 @@ def topN(tfidf_mat, featureList, n):
     return top_n
 
 
-
-
 ## compute the top-n words 
 if __name__ == "__main__":
     print(topN(*computeTFIDF(txtToStrings()), 200))
-
-
 
 
 # # Create the visualizer and draw the vectors
