@@ -16,11 +16,17 @@ def join_excerpts(directory):
             if file.endswith('.txt'):
                 name_path = os.path.join(subdir, file)
                 txt_files.append(name_path)
+    # split file name by underscore then match the elements of split then open and add
     groups = [list(g) for _, g in itertools.groupby(sorted(txt_files), lambda x: x[0:64])]
     # print(groups)
     for group in groups:
-        with open(group[1][36:64]+'.txt', 'w') as outfile:
-            print(group[1][36:64]+'.txt')
+        splitfile = (group[0].rsplit("_"))
+        unique = splitfile[2:5]
+        unique2 = ''.join(map(str, unique))
+        print(unique2)
+
+        # with open(group[1][36:64]+'.txt', 'w') as outfile:
+        #     print(group[1][36:64]+'.txt')
     #         for file in group:
     #             with open(file) as fp:
     #                 data = fp.read()
