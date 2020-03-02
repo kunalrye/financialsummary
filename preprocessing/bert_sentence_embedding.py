@@ -16,9 +16,9 @@ def encodeSentences(vecs):
     :param vecs: List<String> -> list of sentences
     :return:ndarray corresponding to list of fixed-length vectors 
     """
-    bc = BertClient()
-    vectors = bc.encode(vecs)
-    return vectors
+    bert_c = BertClient()
+    encoded_vecs = bert_c.encode(vecs)
+    return encoded_vecs
 
 
 
@@ -46,15 +46,14 @@ def startServer(bertModelPath):
             print(stderr_line)
 
     print("bert server ready")
-
-if __name__ == "__main__":
-    startServer("~/Documents/uncased_L-12_H-768_A-12")
-    ####### encoding sentences #####
-    sentences = []
-    for i in range(3):
-        sentences += open(f"../resources/filtered/{i}.txt").read().split('.')
-    non_empty = [sentence for sentence in sentences if len(sentence) > 0]
-
-    bc = BertClient()
-    vectors = bc.encode(non_empty)
-    print(vectors)
+#
+# if __name__ == "__main__":
+#     startServer("~/Documents/uncased_L-12_H-768_A-12")
+#     ####### encoding sentences #####
+#     sentences = []
+#     for i in range(3):
+#         sentences += open(f"../resources/filtered/{i}.txt").read().split('.')
+#     non_empty = [sentence for sentence in sentences if len(sentence) > 0]
+#
+#     bc = BertClient()
+#     vectors = bc.encode(non_empty)
