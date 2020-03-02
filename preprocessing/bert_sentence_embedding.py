@@ -8,17 +8,28 @@ Pretrained models can be found here: https://github.com/google-research/bert#pre
 """
 import subprocess
 from bert_serving.client import BertClient
+from nltk import tokenize
 
-
-def encodeSentences(vecs):
+def generate_embeddings(sents):
     """
-    Encodes sentences as fixed-length vectors
-    :param vecs: List<String> -> list of sentences
-    :return:ndarray corresponding to list of fixed-length vectors 
+    Encodes sentences as fixed length vectors
+    :param vecs: List<String> list of sentences
+    :return:ndarray corresponding to list of fixed-length sentence embeddings
     """
     bert_c = BertClient()
-    encoded_vecs = bert_c.encode(vecs)
+    encoded_vecs = bert_c.encode(sents)
     return encoded_vecs
+
+def generate_embeddings_from_file(fname):
+    """
+    Encodes sentences as fixed-length vectors
+    :param fname: <String> filename of the file whose sentences we want to generate embeddings for
+    :return:ndarray corresponding to list of fixed-length sentence embeddings
+    """
+
+    text = open(fname).read()
+    sents = tokenize.sent_tokenize(text)
+    return generate_embeddings(sents)
 
 
 
