@@ -21,6 +21,7 @@ bert-serving-client = "*"
 jupyter = "*"
 seaborn = "*"
 tensorflow = "==1.15"
+tensorflow-hub = "*"
 
 [requires]
 python_version = "3.7"
