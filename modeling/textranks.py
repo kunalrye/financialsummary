@@ -21,7 +21,6 @@ text_file.close()
 
 # summ_summarized_doc = summa.summarizer.summarize(summarized_doc)
 # print(summ_summarized_doc)
-import nltk
 from nltk.corpus import wordnet
 #nltk.download('wordnet') #Run once
 
