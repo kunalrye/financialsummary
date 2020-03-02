@@ -21,11 +21,11 @@ and extracts the most important sentences to form a summary.
 Much of the initial code to run bert was taken from the following link.
 https://stackoverflow.com/questions/55619176/how-to-cluster-similar-sentences-using-bert
 
-To download the pretrained model used, we consult **link here**
-
-Bert server and bert client: 
-
-### BERT CLI Usage
+###To download the pretrained model:
+* Visit: https://github.com/google-research/bert#pre-trained-models
+* Download Bert-Base (Uncased) to ~/Documents/uncased_L-12_H-768_A-12/ 
+###Bert server and bert client: 
+####BERT CLI Usage
 bert-serving-start -model_dir ~/Documents/uncased_L-12_H-768_A-12/ -num_worker=1 -max_seq_len=50
 
 pip installations in the pip file
