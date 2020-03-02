@@ -18,8 +18,7 @@ def encodeSentences(vecs):
     """
     bc = BertClient()
     vectors = bc.encode(vecs)
-
-    print(vectors)
+    return vectors
 
 
 
