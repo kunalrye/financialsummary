@@ -8,6 +8,7 @@ All paths in the code are specified from the project root.
 The .py files contain many helper functions called by other py files. However, many of the .py
 files contain small-use case examples under an `if __name__ == "__main__"` block. 
 
+
 # About:
 financialsummary is a repo dedicated to identification of key information in quarterly reports.
 Specifically, financialsummary analyzes 10-Q reports from various companies in the Information Technology sector,
@@ -27,7 +28,14 @@ and extracts the most important sentences to form a summary.
 
 ## BERT Usage: 
 Much of the initial code to run bert was taken from the following link.
-https://stackoverflow.com/questions/55619176/how-to-cluster-similar-sentences-using-bert
+https://stackoverflow.com/questions/55619176/how-to-cluster-similar-sentences-using-bert\ 
+**note**: tensorflow version 1.15 or lower must be used to avoid Type Error. This requires a manual pip installation of 
+tensorflow version 1.15, and we are currently working to use a different implementation of 
+bert to fix this inconvenience.\ \
+
+Code files that depend on a running bert server (and tensorflow version 1.15) include `bert_sentence_embedding.py`,
+ `off_diagonal_exploration`, and `sentence_similarity.py`
+
 
 ### To download the pretrained model:
 * Visit: https://github.com/google-research/bert#pre-trained-models
@@ -36,8 +44,8 @@ https://stackoverflow.com/questions/55619176/how-to-cluster-similar-sentences-us
 ### Bert server and bert client: 
 #### BERT CLI Usage
 bert-serving-start -model_dir ~/Documents/uncased_L-12_H-768_A-12/ -num_worker=1 -max_seq_len=50
-*note: change the path to the the model to wherever you download the pretrained models 
-pip installations in the pip file
-**note**: tensorflow version 1.15 or lower must be used to avoid Type Error. This requires a manual pip installation of tensorflow version 1.15, and we are currently working to fix this inconvenience.  
+change the path to the the model to wherever you download the pretrained models 
+
+  
 
 
