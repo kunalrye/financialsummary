@@ -14,7 +14,7 @@ date_to = "2018-12-31"
 
 # cik of company to look up
 #Read the NCT csv
-NCTdf = pd.read_csv('TechStocks_NameCIKTicker.csv')
+NCTdf = pd.read_csv('resources/TechStocks_NameCIKTicker.csv')
 #find total number of stocks
 tot_stocks = len(NCTdf.index)
 #Set a list of what has been queried
@@ -23,7 +23,7 @@ NCTdf['Queried'] = 0
 NCTdf['Valid and Queried']=0
 
 #open links.txt and see what urls we have
-prev_links = open('links.txt').read().splitlines()
+prev_links = open('resources/links.txt').read().splitlines()
 #Make note of all current companies that are on our list atm.
 current_companies = []
 #iterate over CIK and add the text to the txt file
@@ -46,7 +46,7 @@ for stock_idx in range(tot_stocks):
                         else:
                             print(f"{NCTdf['CompanyName'][stock_idx]} already transcribed!")
         except:
-            NCTdf.to_csv('TechStocks_NameCIKTickerQuery.csv')
+            NCTdf.to_csv('resources/TechStocks_NameCIKTickerQuery.csv')
 
 #save the list of what has been queried
-NCTdf.to_csv('TechStocks_NameCIKTickerQuery.csv')
+NCTdf.to_csv('resources/TechStocks_NameCIKTickerQuery.csv')
