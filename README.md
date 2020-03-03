@@ -5,7 +5,8 @@ A Rice University D2K Lab Project
 If running code from an IDE, ensure that the run configuration has set the working directory to be the root of the project. 
 All paths in the code are specified from the project root. 
 
-
+The .py files contain many helper functions called by other py files. However, many of the .py
+files contain small-use case examples under an `if __name__ == "__main__"` block. 
 
 # About:
 financialsummary is a repo dedicated to identification of key information in quarterly reports.
@@ -30,11 +31,12 @@ https://stackoverflow.com/questions/55619176/how-to-cluster-similar-sentences-us
 
 ### To download the pretrained model:
 * Visit: https://github.com/google-research/bert#pre-trained-models
-* Download Bert-Base (Uncased) to ~/Documents/uncased_L-12_H-768_A-12/ 
+* Download Bert-Base (Uncased) to ~/Documents/uncased_L-12_H-768_A-12/
+ 
 ### Bert server and bert client: 
 #### BERT CLI Usage
 bert-serving-start -model_dir ~/Documents/uncased_L-12_H-768_A-12/ -num_worker=1 -max_seq_len=50
-
+*note: change the path to the the model to wherever you download the pretrained models 
 pip installations in the pip file
 **note**: tensorflow version 1.15 or lower must be used to avoid Type Error. This requires a manual pip installation of tensorflow version 1.15, and we are currently working to fix this inconvenience.  
 

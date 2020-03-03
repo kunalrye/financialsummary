@@ -161,7 +161,7 @@ if __name__ == "main":
     random.seed(15)  # set rng seed for reproducibility
 
     #Select random 10-q from list of all
-    all_urls = open('links.txt').read().splitlines()
+    all_urls = open('resources/links.txt').read().splitlines()
     num_urls = len(all_urls)
     rand_url = random.randint(0, num_urls - 1)
     url = all_urls[rand_url]
