@@ -8,6 +8,7 @@ All paths in the code are specified from the project root.
 The .py files contain many helper functions called by other py files. However, many of the .py
 files contain small-use case examples under an `if __name__ == "__main__"` block. 
 
+The github also has an `xbrl` branch that contains some in-progress work on using xbrl instead of html files 
 
 # About:
 financialsummary is a repo dedicated to identification of key information in quarterly reports.
@@ -31,7 +32,7 @@ Much of the initial code to run bert was taken from the following link.
 https://stackoverflow.com/questions/55619176/how-to-cluster-similar-sentences-using-bert\ 
 **note**: tensorflow version 1.15 or lower must be used to avoid Type Error. This requires a manual pip installation of 
 tensorflow version 1.15, and we are currently working to use a different implementation of 
-bert to fix this inconvenience.\ \
+bert to fix this inconvenience.
 
 Code files that depend on a running bert server (and tensorflow version 1.15) include `bert_sentence_embedding.py`,
  `off_diagonal_exploration`, and `sentence_similarity.py`
