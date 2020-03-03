@@ -17,8 +17,8 @@ and extracts the most important sentences to form a summary.
 
 # Installation
 ## To download dependecies:
-* Install the pipenv package  
-* Run pipenv install while in your repo directory
+* Install the pipenv package via `pipenv install`
+* Run `pipenv install` while in your repo directory to automatically install all project dependencies
 
 ## BERT Usage: 
 Much of the initial code to run bert was taken from the following link.
@@ -32,6 +32,6 @@ https://stackoverflow.com/questions/55619176/how-to-cluster-similar-sentences-us
 bert-serving-start -model_dir ~/Documents/uncased_L-12_H-768_A-12/ -num_worker=1 -max_seq_len=50
 
 pip installations in the pip file
-* note: tensorflow version 1.15 or lower must be used to avoid Type Error 
+**note**: tensorflow version 1.15 or lower must be used to avoid Type Error. This requires a manual pip installation of tensorflow version 1.15, and we are currently working to fix this inconvenience.  
 
 
