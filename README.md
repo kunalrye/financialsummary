@@ -1,5 +1,8 @@
 # financialsummary
 A Rice University D2K Lab Project
+
+![Thumb](https://github.com/kunalrye/financialsummary/resources/Thumb.jpg)
+
 #About:
 financialsummary is a repo dedicated to identification of key information in quarterly reports.
 Specifically, financialsummary analyzes 10-Q reports from various companies in the Information Technology sector,
