@@ -7,12 +7,12 @@ The following folders consist of intermediate files for convenience.\
 **figures**: data visualizations
 
 ## Files
-**call.txt** financial document used for similarity comparison against 10Qs
-**tfidf_mat.csv**tfidf matrix for the 187 10Q documents (for convenience)
-**TechStocks_NameCIKTIcker.csv**
-**TechStocks_NameCIKTIckerQuery.csv**
-**links.txt** contains the links to the html pages of the 10Qs for the companies in **TechStocks_NameCIKTickerQuery.csv**
-**10q_commpname** list of companies whose 10Qs we are extracting
+**call.txt** financial document used for similarity comparison against 10Qs\
+**tfidf_mat.csv**tfidf matrix for the 187 10Q documents (for convenience)\
+**TechStocks_NameCIKTIcker.csv**\
+**TechStocks_NameCIKTIckerQuery.csv**\
+**links.txt** contains the links to the html pages of the 10Qs for the companies in **TechStocks_NameCIKTickerQuery.csv**\
+**10q_commpname** list of companies whose 10Qs we are extracting\
 
 
  
