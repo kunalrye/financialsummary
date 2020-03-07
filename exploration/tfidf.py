@@ -72,7 +72,7 @@ def computeTFIDF(docs):
     transformed_documents = vectorizer.fit_transform(docs)
     transformed_documents_as_array = transformed_documents.toarray()
     ## save the tfidf matrix 
-    pd.DataFrame(transformed_documents_as_array).to_csv("resources/tfidf_mat.csv")
+    pd.DataFrame(transformed_documents_as_array).to_csv("../resources/tfidf_mat.csv")
     # compute the top-n tfidf weights 
     return transformed_documents_as_array, vectorizer.get_feature_names()
 
@@ -85,7 +85,7 @@ def topN(tfidf_mat, featureList, n):
         tfidf_mat {2D ndarray} -- the TFIDF matrix 
         featureList {List<String>} -- list of the terms in the TFIDF matrix 
         n {int} -- specifies how many words to select 
-    
+
     Returns:
         List<String> -- top n terms from the TFIDF matrix 
     """

@@ -70,7 +70,7 @@ def makeText(url, index):
     print("Total acceptable sentences =",num_good_sents)
     #Converting the sentences to a document
     good_doc = " ".join(good_sents)
-    text_file = open("resources/filtered/" + str(index - 1) + ".txt", "w")
+    text_file = open("../resources/filtered/" + str(index - 1) + ".txt", "w",encoding='utf-8')
     text_file.write(good_doc)
     text_file.close()
 
@@ -83,11 +83,11 @@ def txtToStrings():
     Returns:
         List<String> -- List of strings, where each string corresopnds to the filtered text of a 10Q
     """
-    all_urls = open('links.txt').read().splitlines()
+    all_urls = open('../resources/links.txt',encoding='utf-8').read().splitlines()
     all_docs = []
     for i in range(len(all_urls)):
-        fname = "resources/filtered/" + str(i) + ".txt"
-        with open(fname) as f:
+        fname = "../resources/filtered/" + str(i) + ".txt"
+        with open(fname,encoding="utf-8") as f:
             print(fname)
             txt_file_as_string = f.read()
         all_docs.append(txt_file_as_string)
@@ -109,8 +109,8 @@ def txtToString(idx):
         [string] -- the contents of the filtered 10Q text file 
     """
     
-    fname = "resources/filtered/" + str(idx-1) + ".txt"
-    with open(fname) as f:
+    fname = "../resources/filtered/" + str(idx-1) + ".txt"
+    with open(fname,encoding='utf-8') as f:
         print(fname)
         txt_file_as_string = f.read()
     return txt_file_as_string
@@ -123,11 +123,11 @@ def unfilteredTxtToStrings():
     Returns:
         List<String> -- List of strings, where each string corresopnds to the unfiltered text of a 10Q
     """
-    all_urls = open('links.txt').read().splitlines()
+    all_urls = open('../resources/links.txt',encoding='utf-8').read().splitlines()
     all_docs = []
     for i in range(len(all_urls)):
-        fname = "resources/unfiltered/" + str(i) + ".txt"
-        with open(fname) as f:
+        fname = "../resources/unfiltered/" + str(i) + ".txt"
+        with open(fname,encoding='utf-8') as f:
             print(fname)
             txt_file_as_string = f.read()
         all_docs.append(txt_file_as_string)
@@ -148,7 +148,7 @@ def unfilteredTxtToString(idx):
     """
     
     fname = "resources/unfiltered/" + str(idx-1) + ".txt"
-    with open(fname) as f:
+    with open(fname,encoding='utf-8') as f:
         print(fname)
         txt_file_as_string = f.read()
     return txt_file_as_string
@@ -161,7 +161,7 @@ if __name__ == "main":
     random.seed(15)  # set rng seed for reproducibility
 
     #Select random 10-q from list of all
-    all_urls = open('resources/links.txt').read().splitlines()
+    all_urls = open('../resources/links.txt',encoding='utf-8').read().splitlines()
     num_urls = len(all_urls)
     rand_url = random.randint(0, num_urls - 1)
     url = all_urls[rand_url]
