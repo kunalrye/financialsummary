@@ -19,7 +19,7 @@ and extracts the most important sentences to form a summary.
 * Exploration: Data exploration, such as TFIDF, Sentiment analysis etc.
 * Modeling: Methods to visualize the data, includes newsgraph and textrank
 * Preprocessing: Removal of sentences that will hinder further classification, i.e. legal jargon
-* Resources: Smaller csv and txt datafile 
+* Resources: Smaller csv and txt datafiles
 * Wrangling: Gathers 10-Q data and performs basic parsing
 
 # Installation
