@@ -3,8 +3,6 @@ Take each text document, and create a dictionary of the document structure by id
 headers and their respective content
 """
 import os
-import re
-from collections import defaultdict
 
 
 def separate_document(directory):
@@ -28,9 +26,10 @@ def separate_document(directory):
                     headers = []
                     content = []
                     doc_structure = {}
+                    # check percent of capital letters in a sentence, if most are capitalized, it is a header
                     for x in my_list:
                         # throw out all "\n" characters from the list, and find all content sections
-                        if 15 <= len(x) <= 100:
+                        if 15 <= len(x) <= 100: # using length does not solve for all cases effectively
                             headers.append(x)
                         elif len(x) > 100:
                             content.append(x)
@@ -49,3 +48,5 @@ def separate_document(directory):
                     f.close()
     return full_dict
 
+x = separate_document('/Users/kunal/Dropbox/XBRLoutput_files_examples/batch_0002')
+print(x)
