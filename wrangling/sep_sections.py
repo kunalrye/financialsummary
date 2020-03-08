@@ -3,6 +3,42 @@ Take each text document, and create a dictionary of the document structure by id
 headers and their respective content
 """
 import os
+import string
+from functools import reduce
+from tempfile import mkstemp
+from shutil import move, copymode
+from os import fdopen, remove
+import re
+
+
+def replace(file_path):
+    # Create temp file
+    bad_Sents = []
+    fh, abs_path = mkstemp()
+    with fdopen(fh, 'w') as new_file:
+        with open(file_path) as old_file:
+            for line in old_file:
+                line = str(line)
+                regex = re.compile("[☒_☐@#^&*<>?/\|}{~:]")
+                if (regex.search(line)) and len(line) > 150:
+                    new_file.write(line)
+                elif regex.search(line) is None:
+                    new_file.write(line)
+                else:
+                    bad_Sents.append(line)
+    # Copy the file permissions from the old file to the new file
+    copymode(file_path, abs_path)
+    # Remove original file
+    remove(file_path)
+    # Move new file
+    move(abs_path, file_path)
+
+    return None
+
+
+
+def ilen(iterable):
+    return reduce(lambda sum, element: sum + 1, iterable, 0)
 
 
 def separate_document(directory):
@@ -29,7 +65,11 @@ def separate_document(directory):
                     # check percent of capital letters in a sentence, if most are capitalized, it is a header
                     for x in my_list:
                         # throw out all "\n" characters from the list, and find all content sections
-                        if 15 <= len(x) <= 100: # using length does not solve for all cases effectively
+                        capitals = sum(map(str.isupper, x))
+                        str_len = len(x.split())
+                        capital_factor = capitals/str_len
+                        if 15 <= len(x) <= 100 and (capital_factor > 0.5) and \
+                                 (any(char.isdigit() for char in x)) == False:# using length does not solve for all cases effectively
                             headers.append(x)
                         elif len(x) > 100:
                             content.append(x)
@@ -48,5 +88,7 @@ def separate_document(directory):
                     f.close()
     return full_dict
 
-x = separate_document('/Users/kunal/Dropbox/XBRLoutput_files_examples/batch_0002')
-print(x)
+# x = separate_document('/Users/kunal/Desktop/test')
+# print(x)
+
+replace('/Users/kunal/Desktop/test/AAPL_0000320193_10Q_20171230_AllItems_excerpt.txt')
