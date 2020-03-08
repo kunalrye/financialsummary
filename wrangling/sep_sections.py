@@ -3,7 +3,6 @@ Take each text document, and create a dictionary of the document structure by id
 headers and their respective content
 """
 import os
-import string
 from functools import reduce
 from tempfile import mkstemp
 from shutil import move, copymode
@@ -11,30 +10,34 @@ from os import fdopen, remove
 import re
 
 
-def replace(file_path):
+def replace(directory):
+    """
+    Parse all the files and clean any remaining symbols and small phrases out
+    :param file_path: filepath for files
+    :return: None
+    """
     # Create temp file
-    bad_Sents = []
-    fh, abs_path = mkstemp()
-    with fdopen(fh, 'w') as new_file:
-        with open(file_path) as old_file:
-            for line in old_file:
-                line = str(line)
-                regex = re.compile("[☒_☐@#^&*<>?/\|}{~:]")
-                if (regex.search(line)) and len(line) > 150:
-                    new_file.write(line)
-                elif regex.search(line) is None:
-                    new_file.write(line)
-                else:
-                    bad_Sents.append(line)
-    # Copy the file permissions from the old file to the new file
-    copymode(file_path, abs_path)
-    # Remove original file
-    remove(file_path)
-    # Move new file
-    move(abs_path, file_path)
+    for subdir, dirs, files in os.walk(directory):
+        for filename in files:
+            file_path = os.path.join(subdir, filename)
+            fh, abs_path = mkstemp()
+            with fdopen(fh, 'w') as new_file:
+                with open(file_path) as old_file:
+                    for line in old_file:
+                        line = str(line)
+                        regex = re.compile("[☒_☐@#^&*<>?/\|}{~:]")
+                        if (regex.search(line)) and len(line) > 150:
+                            new_file.write(line)
+                        elif regex.search(line) is None:
+                            new_file.write(line)
+            # Copy the file permissions from the old file to the new file
+            copymode(file_path, abs_path)
+            # Remove original file
+            remove(file_path)
+            # Move new file
+            move(abs_path, file_path)
 
     return None
-
 
 
 def ilen(iterable):
@@ -69,7 +72,8 @@ def separate_document(directory):
                         str_len = len(x.split())
                         capital_factor = capitals/str_len
                         if 15 <= len(x) <= 100 and (capital_factor > 0.5) and \
-                                 (any(char.isdigit() for char in x)) == False:# using length does not solve for all cases effectively
+                                 (any(char.isdigit() for char in x)) == False:
+                            # using length does not solve for all cases effectively
                             headers.append(x)
                         elif len(x) > 100:
                             content.append(x)
@@ -90,5 +94,4 @@ def separate_document(directory):
 
 # x = separate_document('/Users/kunal/Desktop/test')
 # print(x)
-
-replace('/Users/kunal/Desktop/test/AAPL_0000320193_10Q_20171230_AllItems_excerpt.txt')
+# replace('/Users/kunal/Desktop/test')
