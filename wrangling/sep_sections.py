@@ -10,10 +10,31 @@ from os import fdopen, remove
 import re
 
 
+def ilen(iterable):
+    return reduce(lambda n_sum, element: n_sum + 1, iterable, 0)
+
+
+def nested_dict_to_txt(nested_dict, directory):
+    """
+    Convert the nested dictionary from sep_sections to txt files for each key
+    :param nested_dict: nested output from separate_document function
+    :param directory: path for directory to save new files to
+    :return: .txt files for every key value pair in the dictionary
+    """
+    for key1, val1 in nested_dict.items():
+        file_start = key1
+        for key2, val2 in val1.items():
+            # write each key2, val2 pair to a new .txt file
+            full_file = directory + file_start + key2
+            with open(full_file, 'w') as f:
+                f.write(val2)
+                f.close()
+
+
 def replace(directory):
     """
     Parse all the files and clean any remaining symbols and small phrases out
-    :param file_path: filepath for files
+    :param directory: filepath for files
     :return: None
     """
     # Create temp file
@@ -38,10 +59,6 @@ def replace(directory):
             move(abs_path, file_path)
 
     return None
-
-
-def ilen(iterable):
-    return reduce(lambda sum, element: sum + 1, iterable, 0)
 
 
 def separate_document(directory):
@@ -93,59 +110,95 @@ def separate_document(directory):
     return full_dict
 
 
+def item_one(new_path, file_key, data):
+    """
+    gets item 1 given readlines data and saves to a new file
+    :param readlines_data: lines of a txt file using the readlines function
+    :return: None
+    """
+    parsing = False
+    outF = open(new_path + file_key + "_item1.txt", "w")
+    for line in data:
+        if line.startswith("Item 1. F") or line.startswith("Item 1.F"):
+            parsing = True
+        elif line.startswith("Item 2.M") or line.startswith("Item 2. M"):
+            parsing = False
+        if parsing:
+            # write line to output file
+            outF.write(line)
+            outF.write("\n")
+    outF.close()
+
+
+def item_two(new_path, file_key, data):
+    """
+    gets item 1 given readlines data and saves to a new file
+    :param readlines_data: lines of a txt file using the readlines function
+    :return: None
+    """
+    parsing = False
+    outF = open(new_path + file_key + "_item2.txt", "w")
+    for line in data:
+        if line.startswith("Item 2.M") or line.startswith("Item 2. M"):
+            parsing = True
+        elif line.startswith("Item 3.Q") or line.startswith("Item 3. Q"):
+            parsing = False
+        if parsing:
+            # write line to output file
+            outF.write(line)
+            outF.write("\n")
+    outF.close()
+
+def item_three(new_path, file_key, data):
+    """
+    gets item 1 given readlines data and saves to a new file
+    :param readlines_data: lines of a txt file using the readlines function
+    :return: None
+    """
+    parsing = False
+    outF = open(new_path + file_key + "_item3.txt", "w")
+    for line in data:
+        if line.startswith("Item 3.Q") or line.startswith("Item 3. Q"):
+            parsing = True
+        elif line.startswith("Item 4.C") or line.startswith("Item 4. C"):
+            parsing = False
+        if parsing:
+            # write line to output file
+            outF.write(line)
+            outF.write("\n")
+    outF.close()
+
+
 def separate_item(directory):
     """
-    separates document by items from the file
+    separates document by items from the file, and saves file with ending filename being the item number
     :param directory: directory containing the text files
-    :return:nested dict
+    :return:None
     """
-    full_dict = {}
+
     for subdir, dirs, files in os.walk(directory):
         for filename in files:
             if filename.endswith('.txt'):
                 name_path = os.path.join(subdir, filename)
+                new_path = str(os.path.join(subdir))
                 filename_list = filename.rsplit('_')
-                file_key = filename_list[0] + "_" + filename_list[1] + "_" + filename_list[3]
-                with open(name_path) as f:
-                    outFile = open(, "w")
-                    buffer = []
-                   for line in f:
-                       for x in range(1,8):
-                            if line.startswith('Item' + repr(x)):
-                                buffer = ['']
-                            elif line.startswith("End"):
-                                outFile.write("".join(buffer))
-                                buffer = []
-                            elif buffer:
-                                 buffer.append(line)
-                    inFile.close()
-                    outFile.close()
-
-# SEPARATE_ITEMS IS UNFINISHED
+                file_key = str(filename_list[0] + "_" + filename_list[1] + "_" + filename_list[3])
+                data = open(name_path).readlines()
+                item_one(new_path, file_key, data)
+                item_two(new_path, file_key, data)
+                item_three(new_path, file_key, data)
+    return None
 
 
 
 
 
 
-def nested_dict_to_txt(nested_dict, directory):
-    """
-    Convert the nested dictionary from sep_sections to txt files for each key
-    :param nested_dict: nested output from separate_document function
-    :param directory: path for directory to save new files to
-    :return: .txt files for every key value pair in the dictionary
-    """
-    for key1, val1 in nested_dict.items():
-        file_start = key1
-        for key2, val2 in val1.items():
-            # write each key2, val2 pair to a new .txt file
-            full_file = directory + file_start + key2
-            with open(full_file, 'w') as f:
-                f.write(val2)
-                f.close()
 
 
-# print(x)
-replace('/Users/kunal/Desktop/test')
+
+#######################################################################################################################
+# replace('/Users/kunal/Desktop/test')
 # x = separate_document('/Users/kunal/Desktop/test')
 # nested_dict_to_txt(x,"/Users/kunal/Desktop/")
+separate_item('/Users/kunal/Desktop/test')
