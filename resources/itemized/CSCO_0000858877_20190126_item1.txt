@@ -1,0 +1,2174 @@
+Item 1.Financial Statements (Unaudited)
+
+
+
+CISCO SYSTEMS, INC.
+
+
+
+CONSOLIDATED BALANCE SHEETS
+
+
+
+(in millions, except par value)
+
+
+
+(Unaudited)
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+See Notes to Consolidated Financial Statements.
+
+
+
+3
+
+CISCO SYSTEMS, INC.
+
+
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+
+
+
+(in millions, except per-share amounts)
+
+
+
+(Unaudited) 
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+See Notes to Consolidated Financial Statements.
+
+
+
+4
+
+CISCO SYSTEMS, INC.
+
+
+
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)
+
+
+
+(in millions)
+
+
+
+(Unaudited)
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+See Notes to Consolidated Financial Statements.
+
+
+
+5
+
+CISCO SYSTEMS, INC.
+
+
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+
+
+(in millions)
+
+
+
+(Unaudited)
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+See Notes to Consolidated Financial Statements.
+
+
+
+6
+
+CISCO SYSTEMS, INC.
+
+
+
+CONSOLIDATED STATEMENTS OF EQUITY
+
+
+
+(in millions, except per-share amounts)
+
+
+
+(Unaudited)
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+7
+
+[DATA_TABLE_REMOVED]
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+See Notes to Consolidated Financial Statements.
+
+
+
+8
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+(Unaudited)
+
+
+
+1.Basis of Presentation
+
+
+
+The fiscal year for Cisco Systems, Inc. (the “Company,” “Cisco,” “we,” “us,” or “our”) is the 52 or 53 weeks ending on the last Saturday in July. Fiscal 2019 and fiscal 2018 are each 52-week fiscal years. The Consolidated Financial Statements include our accounts and those of our subsidiaries. All intercompany accounts and transactions have been eliminated. We conduct business globally and are primarily managed on a geographic basis in the following three geographic segments: the Americas; Europe, Middle East, and Africa (EMEA); and Asia Pacific, Japan, and China (APJC). 
+
+
+
+We have prepared the accompanying financial data as of January 26, 2019 and for the second quarter and first six months of fiscal 2019 and fiscal 2018, without audit, pursuant to the rules and regulations of the U.S. Securities and Exchange Commission ("SEC"). Certain information and footnote disclosures normally included in financial statements prepared in accordance with generally accepted accounting principles in the United States ("GAAP") have been condensed or omitted pursuant to such rules and regulations. The July 28, 2018 Consolidated Balance Sheet was derived from audited financial statements, but does not include all disclosures required by accounting principles generally accepted in the United States. However, we believe that the disclosures are adequate to make the information presented not misleading. These Consolidated Financial Statements should be read in conjunction with the Consolidated Financial Statements and the notes thereto included in our Annual Report on Form 10-K for the fiscal year ended July 28, 2018.
+
+
+
+We consolidate our investments in certain variable interest entities (VIEs) where we are the primary beneficiary. The noncontrolling interests attributed to these investments, if any, are presented as a separate component from our equity in the equity section of the Consolidated Balance Sheets. The share of earnings attributable to the noncontrolling interests are not presented separately in the Consolidated Statements of Operations as these amounts are not material for any of the fiscal periods presented.
+
+
+
+In the opinion of management, all normal recurring adjustments necessary to present fairly the consolidated balance sheet as of January 26, 2019; the results of operations and the statements of comprehensive income (loss) for the second quarter and first six months of fiscal 2019 and fiscal 2018; the statements of cash flows for the first six months of fiscal 2019 and fiscal 2018; and the statements of equity for the second quarter and first six months of fiscal 2019 and fiscal 2018, as applicable, have been made. The results of operations for the second quarter and first six months of fiscal 2019 and fiscal 2018 are not necessarily indicative of the operating results for the full fiscal year or any future periods.
+
+
+
+Certain reclassifications have been made to the amounts in prior periods in order to conform to the current period’s presentation. We have evaluated subsequent events through the date that the financial statements were issued.
+
+
+
+2.Recent Accounting Pronouncements
+
+
+
+(a)New Accounting Updates Recently Adopted
+
+
+
+Revenue Recognition In May 2014, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Codification ("ASC") 606, Revenue from Contracts with Customers, a new accounting standard related to revenue recognition. ASC 606 supersedes nearly all U.S. GAAP on revenue recognition and eliminated industry-specific guidance. The underlying principle of ASC 606 is to recognize revenue when a customer obtains control of promised goods or services at an amount that reflects the consideration that is expected to be received in exchange for those goods or services. It also requires increased disclosures including the nature, amount, timing, and uncertainty of revenues and cash flows related to contracts with customers.
+
+
+
+ASC 606 allows two methods of adoption: i) retrospectively to each prior period presented (“full retrospective method”), or ii) retrospectively with the cumulative effect recognized in retained earnings as of the date of adoption ("modified retrospective method"). At the beginning of the first quarter of fiscal 2019, we adopted ASC 606 using the modified retrospective method to those contracts that were not completed as of July 28, 2018. Refer to Opening Balance Adjustments below for the impact of adoption on our Consolidated Financial Statements. 
+
+
+
+We have implemented new accounting policies, systems, processes, and internal controls necessary to support the requirements of ASC 606. 
+
+
+
+ASC 606 primarily impacts our revenue recognition for software arrangements and sales to two-tier distributors. In both areas, the new standard accelerates the recognition of revenue. 
+
+
+
+9
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+The table below details the timing of when revenue was typically recognized under the prior revenue standard compared to the timing of when revenue is typically recognized under ASC 606 for these major areas:
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+In addition to the above revenue recognition timing impacts, ASC 606 requires incremental contract acquisition costs (such as sales commissions) for customer contracts to be capitalized and amortized on a systematic basis that is consistent with the transfer to the customer of the goods or services to which the assets relates. 
+
+
+
+We enter into contracts with customers that can include various combinations of products and services which are generally distinct and accounted for as separate performance obligations. As a result, our contracts may contain multiple performance obligations. We determine whether arrangements are distinct based on whether the customer can benefit from the product or service on its own or together with other resources that are readily available and whether our commitment to transfer the product or service to the customer is separately identifiable from other obligations in the contract. We classify our hardware, perpetual software licenses, and software-as-a-service (SaaS) as distinct performance obligations. Term software licenses represent multiple obligations, which include software licenses and software maintenance. In transactions where we deliver hardware or software, we are typically the principal and we record revenue and costs of goods sold on a gross basis. We refer to our term software licenses, security software licenses, SaaS, and associated service arrangements as subscription offers.
+
+
+
+We recognize revenue upon transfer of control of promised goods or services in a contract with a customer in an amount that reflects the consideration we expect to receive in exchange for those products or services. Transfer of control occurs once the customer has the contractual right to use the product, generally upon shipment or once delivery and risk of loss has transferred to the customer. Transfer of control can also occur over time for software maintenance and services as the customer receives the benefit over the contract term. Our hardware and perpetual software licenses are distinct performance obligations where revenue is recognized upfront upon transfer of control. Term software licenses include multiple performance obligations where the term licenses are recognized upfront upon transfer of control, with the associated software maintenance revenue recognized ratably over the contract term as services and software updates are provided. SaaS arrangements have one distinct performance obligation which is satisfied over time with revenue recognized ratably over the contract term as the customer consumes the services. On our product sales, we record consideration from shipping and handling on a gross basis within net product sales. We record our revenue net of any associated sales taxes.
+
+
+
+Significant Judgments 
+
+
+
+Revenue is allocated among these performance obligations in a manner that reflects the consideration that we expect to be entitled to for the promised goods or services based on standalone selling prices (SSP). SSP is estimated for each distinct performance obligation and judgment may be required in their determination. The best evidence of SSP is the observable price of a product or service when we sell the goods separately in similar circumstances and to similar customers. In instances where SSP is not directly observable, we determine SSP using information that may include market conditions and other observable inputs. 
+
+
+
+We apply judgment in determining the transaction price as we may be required to estimate variable consideration when determining the amount of revenue to recognize. Variable consideration includes various rebate, cooperative marketing, and other incentive programs that we offer to our distributors, partners and customers. When determining the amount of revenue to recognize, we estimate the expected usage of these programs, applying the expected value or most likely estimate and update the estimate at each reporting period as actual utilization becomes available. We also consider the customers' right of return in determining the transaction price, where applicable.
+
+
+
+We assess certain software licenses, such as for security software, that contain critical updates or upgrades which customers can download throughout the contract term. Without these updates or upgrades, the functionality of the software would diminish over a relatively short time period. These updates or upgrades provide the customer the full functionality of the purchased security software licenses and are required to maintain the security license's utility as the risks and threats in the environment are rapidly 
+
+
+
+10
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+changing. In these circumstances, the revenue from these software arrangements is recognized as a distinct performance obligation satisfied over the contract term. 
+
+
+
+For the additional disclosures required as part of ASC 606 see Note 3.
+
+
+
+Financial Instruments In January 2016, the FASB issued an accounting standard update that changes the accounting for equity investments, financial liabilities under the fair value option, and the presentation and disclosure requirements for financial instruments. The most significant impact of this accounting standard update is that it requires the remeasurement of investments not accounted for under the equity method to be recorded at fair value through the Consolidated Statement of Operations at the end of each reporting period. The application of this accounting standard update increases the variability of other income (loss), net. 
+
+
+
+Our equity investments are accounted for as follows:
+
+
+
+•Marketable equity securities have readily determinable fair value (RDFV) that are measured and recorded at fair value. 
+
+
+
+•Non-marketable equity securities do not have RDFV and are measured using a measurement alternative recorded at cost less any impairment, plus or minus changes resulting from qualifying observable price changes. For certain of these securities, we have elected to apply the net asset value (NAV) practical expedient. The NAV is the estimated fair value of these investments. 
+
+
+
+•Equity method investments are securities we do not control, but are able to exert significant influence over the investee. These investments are measured at cost less any impairment, plus or minus our share of equity method investee income or loss. 
+
+
+
+We adopted this accounting standard update beginning the first quarter of fiscal 2019. The standard was adopted using the modified retrospective method for our marketable equity securities and non-marketable equity securities measured using the NAV practical expedient. For our non-marketable equity securities measured using the measurement alternative, we applied the prospective method. Refer to Opening Balance Adjustments below for the impact of adoption on our Consolidated Balance Sheet.
+
+
+
+Income Taxes on Intra-Entity Transfers of Assets In October 2016, the FASB issued an accounting standard update that requires recognition of the income tax consequences of intra-entity transfers of assets (other than inventory) at the transaction date. We adopted this accounting standard update beginning in the first quarter of fiscal 2019 on a modified retrospective basis. The ongoing impact of this standard will be facts and circumstances dependent on any transactions within its scope. Refer to Opening Balance Adjustments below for the impact of adoption on our Consolidated Balance Sheet.
+
+
+
+Classification of Cash Flow Elements In August 2016, the FASB issued an accounting standard update related to the classification of certain cash receipts and cash payments on the statement of cash flows. We adopted this accounting standard update beginning in the first quarter of fiscal 2019 on a retrospective basis. The application of this accounting standard update did not have an impact on our Consolidated Statements of Cash Flows.
+
+
+
+Restricted Cash in Statement of Cash Flows In November 2016, the FASB issued an accounting standard update that provides guidance on the classification and presentation of changes in restricted cash and cash equivalents in the statement of cash flows. We adopted this accounting standard update beginning in the first quarter of fiscal 2019 using a retrospective transition method to each period presented. The application of this accounting standard update did not have a material impact on our Consolidated Statements of Cash Flows. Prior period information has been retrospectively adjusted due to the adoption of ASU 2016-18, Statement of Cash Flows, Restricted Cash at the beginning of the first quarter of fiscal 2019.
+
+
+
+Simplifying the Test for Goodwill Impairment  In January 2017, the FASB issued an accounting standard update that removes Step
+
+
+
+2 of the goodwill impairment test, which requires the assessment of fair value of individual assets and liabilities of a reporting unit to measure goodwill impairments. Goodwill impairment will now be the amount by which a reporting unit's carrying value exceeds its fair value. We early adopted this accounting standard update beginning in the first quarter of fiscal 2019 on a prospective basis. The application of this accounting standard update did not have any impact on our Consolidated Financial Statements.
+
+
+
+Definition of a Business In January 2017, the FASB issued an accounting standard update that clarifies the definition of a business to help companies evaluate whether acquisition or disposal transactions should be accounted for as asset groups or as businesses. We adopted this accounting standard update beginning in the first quarter of fiscal 2019 on a prospective basis. The impact of this accounting standard update will be fact dependent, but we expect that some transactions that were previously accounted for as business combinations or disposal transactions will be accounted for as asset purchases or asset sales under the accounting standard update.
+
+
+
+11
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+Opening Balance Adjustments
+
+
+
+The following table summarizes the cumulative effect of the changes made to the Consolidated Balance Sheet for the adoption of ASC 606, ASU 2016-01, Financial Instruments, and ASU 2016-16, Intra-Entity Transfers of Assets Other than Inventory (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+(1) Primarily represents the decrease to accounts receivable related to the change in recognizing revenue on sales to two-tier distributors from a sell-through to a sell-in basis
+
+
+
+(2) Primarily represents the reduction of inventory for the change from recognizing revenue on sales to two-tier distributors from a sell-through to a sell-in basis
+
+
+
+(3) Includes the impacts to deferred tax assets, liabilities and other income tax balances
+
+
+
+(4) Primarily represents capitalized contract acquisition costs (e.g. commissions)
+
+
+
+(5) Primarily represents deferred revenue adjusted to retained earnings primarily due to the change in revenue recognition for certain software arrangements from ratable to upfront, recognizing revenue on sales to two-tier distributors from a sell-through to a sell-in basis. Of this total $2.8 billion adjustment, $2.6 billion related to product deferred revenue, of which $1.3 billion relates to our recurring software and subscription offers, $0.6 billion relates to two-tier distribution, and the remainder relates to non-recurring software and other adjustments.
+
+
+
+(6) Primarily represents the reclassification of accounts receivable contra balances to other current liabilities, adjustments to rebate liabilities for the change from recognizing revenue on sales to two-tier distributors from a sell-through to a sell-in basis, and reclassifications from other current liabilities for amounts that are not contract liabilities under ASC 606
+
+
+
+(7) Represents the adjustment due to the remeasurement of non-marketable equity investments at fair value
+
+
+
+(8) Primarily represents the change in net deferred tax assets related to unrecognized income tax effects of intra-entity asset transfers
+
+
+
+(9) Represents the reclassification of net unrealized gains from accumulated other comprehensive income (loss) to retained earnings
+
+
+
+(10) Retained earnings impact from the adjustments noted above
+
+
+
+12
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+Impact of ASC 606 Adoption
+
+
+
+The application of ASC 606 increased our total revenue by $267 million and $516 million in the second quarter and first six months of fiscal 2019, respectively. The application of ASC 606 did not have a material impact to either our cost of sales or our operating expenses in the second quarter and first six months of fiscal 2019. We recognized a $152 million benefit to our provision for income taxes relating to indirect effects from the adoption of ASC 606 in the first quarter of fiscal 2019. For additional information regarding ASC 606, see Note 3 to the Consolidated Financial Statements.
+
+
+
+In connection with the adoption of ASC 606, we recorded a transition adjustment to increase retained earnings by $2.3 billion. See above for the transition impact of ASC 606 by balance sheet line item. As of January 26, 2019, the balance sheet changes attributable to ASC 606 related to accounts receivable, inventories, and deferred revenue were not materially different than the impacts upon adoption. In connection with the adoption of ASC 606, we established contract assets for unbilled receivables. As of January 26, 2019, we had total contract assets of $557 million, of which $241 million was recorded in other current assets and $316 million was recorded in other assets. As of January 26, 2019, we had total capitalized contract acquisition costs of $686 million, of which $380 million was recorded in other current assets and $306 million was recorded in other assets. The adoption of ASC 606 did not have any impact on net cash provided by operating activities.
+
+
+
+(b)Recent Accounting Standards or Updates Not Yet Effective
+
+
+
+Leases In February 2016, the FASB issued an accounting standard update and subsequent amendments related to leases requiring lessees to recognize operating and financing lease liabilities on the balance sheet, as well as corresponding right-of-use assets. The new lease standard also makes some changes to lessor accounting and aligns key aspects of the lessor accounting model with the revenue recognition standard. In addition, disclosures will be required to enable users of financial statements to assess the amount, timing, and uncertainty of cash flows arising from leases. The accounting standard update will be effective for us beginning in the first quarter of fiscal 2020 and early adoption is permitted. We expect to adopt this accounting standard update on a modified retrospective basis in the first quarter of fiscal 2020, and we are currently evaluating the impact of this accounting standard update on our Consolidated Financial Statements.
+
+
+
+Credit Losses of Financial Instruments  In June 2016, the FASB issued an accounting standard update that requires measurement and recognition of expected credit losses for financial assets held based on historical experience, current conditions, and reasonable and supportable forecasts that affect the collectibility of the reported amount. The accounting standard update will be effective for us beginning in the first quarter of fiscal 2021 and early adoption in fiscal 2020 is permitted. We expect to adopt this accounting standard update on a modified retrospective basis in the first quarter of fiscal 2021, and we are currently evaluating the impact of this accounting standard update on our Consolidated Financial Statements.
+
+
+
+13
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+3.Revenue 
+
+
+
+(a)Disaggregation of Revenue
+
+
+
+We disaggregate our revenue into groups of similar products and services that depict the nature, amount, and timing of revenue and cash flows for our various offerings. The sales cycle, contractual obligations, customer requirements, and go-to-market strategies differ for each of our product categories, resulting in different economic risk profiles for each category. The following table presents this disaggregation of revenue (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Amounts may not sum due to rounding.
+
+
+
+(1) During the second quarter of fiscal 2019, we completed the divestiture of the Service Provider Video Software Solutions ("SPVSS") business. Total revenue includes SPVSS business revenue of $0 and $230 million for the second quarter of fiscal 2019 and 2018, respectively, and $168 million and $478 million for the first six months of fiscal 2019 and 2018, respectively.
+
+
+
+Infrastructure Platforms consist of our core networking technologies of switching, routing, data center products, and wireless that are designed to work together to deliver networking capabilities and transport and/or store data. These technologies consist of both hardware and software offerings, including software licenses and software-as-a-service (SaaS), that help our customers build networks, automate, orchestrate, integrate, and digitize data. We are shifting and expanding more of our business to software and subscriptions across our core networking portfolio. Our hardware and perpetual software in this category are distinct performance obligations where revenue is recognized upfront upon transfer of control. Term software licenses are multiple performance obligations where the term license is recognized upfront upon transfer of control with the associated software maintenance revenue recognized ratably over the contract term. SaaS arrangements in this category have one distinct performance obligation which is satisfied over time with revenue recognized ratably over the contract term.
+
+
+
+Applications consists of offerings that utilize the core networking and data center platforms to provide their functions. The products consist primarily of software offerings, including software licenses and SaaS, as well as hardware. Our perpetual software and hardware in this category are distinct performance obligations where revenue is recognized upfront upon transfer of control. Term software licenses are multiple performance obligations where the term license is recognized upfront upon transfer of control with the associated software maintenance revenue recognized ratably over the contract term. SaaS arrangements in this category have one distinct performance obligation which is satisfied over time with revenue recognized ratably over the contract term. 
+
+
+
+Security primarily includes our unified threat management, advanced threat security, and web security products. These products consist of both hardware and software offerings, including software licenses and SaaS. Updates and upgrades for the term software licenses are critical for our software to perform its intended commercial purpose because of the continuous need for our software to secure our customers' network environments against frequent threats. Therefore, security software licenses are generally represented by a single distinct performance obligation with revenue recognized ratably over the contract term. Our hardware and perpetual software in this category are distinct performance obligations where revenue is recognized upfront upon transfer of control. SaaS arrangements in this category have one distinct performance obligation which is satisfied over time with revenue recognized ratably over the contract term. 
+
+
+
+Other Products primarily include our Service Provider Video Software Solutions and cloud and system management products. On May 1, 2018, we announced a definitive agreement to sell the SPVSS business. The sale closed on October 28, 2018. These products include both hardware and software licenses. Our offerings in this category are distinct performance obligations where revenue is recognized upfront upon transfer of control. 
+
+
+
+In addition to our product offerings, we provide a broad range of service and support options for our customers, including technical support services and advanced services. Technical support services represent the majority of these offerings which are distinct 
+
+
+
+14
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+performance obligations that are satisfied over time with revenue recognized ratably over the contract term. Advanced services are distinct performance obligations that are satisfied over time with revenue recognized as services are delivered. 
+
+
+
+The sales arrangements as discussed above are typically made pursuant to customer purchase orders based on master purchase or partner agreements. Cash is received based on our standard payment terms which is typically 30 days. We provide financing arrangements to customers for all of our hardware, software and service offerings. Refer to Note 8 for additional information. For these arrangements, cash is typically received over time.
+
+
+
+(b)Contract Balances
+
+
+
+Accounts receivable, net was $3.7 billion as of January 26, 2019 compared to $5.6 billion as of July 28, 2018, as reported on the Consolidated Balance Sheet. 
+
+
+
+Contract assets consist of unbilled receivables and are recorded when revenue is recognized in advance of scheduled billings to our customers. These amounts are primarily related to software and service arrangements where transfer of control has occurred but we have not yet invoiced. As of January 26, 2019 and July 29, 2018, our contract assets for these unbilled receivables were $557 million and $122 million, respectively, and were included in other current assets and other assets.
+
+
+
+Contract liabilities consist of deferred revenue. Deferred revenue was $17.3 billion as of January 26, 2019 compared to $19.7 billion as of July 28, 2018. In connection with the adoption of ASC 606, we recorded an adjustment to retained earnings to reduce deferred revenue by $2.8 billion. We recognized approximately $2.6 billion and $6.0 billion of revenue during the second quarter and first six months of fiscal 2019, respectively, that was included in the deferred revenue balance at July 29, 2018. 
+
+
+
+(c)Remaining Performance Obligations
+
+
+
+Remaining Performance Obligations (RPO) are comprised of deferred revenue plus unbilled contract revenue. As of January 26, 2019, the aggregate amount of RPO was $22.5 billion, comprised of $17.3 billion of deferred revenue and $5.2 billion of unbilled contract revenue. We expect approximately 56% of this amount to be recognized as revenue over the next year. Unbilled contract revenue represents non-cancelable contracts for which we have not invoiced, have an obligation to perform, and revenue has not yet been recognized in the financial statements. 
+
+
+
+(d)Capitalized Contract Acquisition Costs
+
+
+
+In connection with the adoption of ASC 606, we began to capitalize direct and incremental costs incurred to acquire contracts, primarily sales commissions, for which the associated revenue is expected to be recognized in future periods. We incur these costs in connection with both initial contracts and renewals. These costs are initially deferred and typically amortized over the term of the customer contract which corresponds to the period of benefit. Deferred sales commissions were $686 million and $644 million as of January 26, 2019 and July 29, 2018, respectively, and were included in other current assets and other assets. The amortization expense associated with these costs was $100 million and $212 million for the second quarter and first six months of fiscal 2019, respectively, and was included in sales and marketing expenses. 
+
+
+
+4.Acquisitions and Divestitures 
+
+
+
+We completed three acquisitions during the first six months of fiscal 2019. A summary of the allocation of the total purchase consideration is presented as follows (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+On September 28, 2018, we completed our acquisition of privately held Duo Security, Inc. ("Duo"), a leading provider of unified access security and multi-factor authentication delivered through the cloud. Revenue from the Duo acquisition has been included in our Security product category.
+
+
+
+The total purchase consideration related to acquisitions completed during the first six months of fiscal 2019 consisted of cash consideration. The total cash and cash equivalents acquired from these acquisitions was approximately $85 million. Total transaction costs related to acquisition and divestiture activities were $11 million and $14 million for the first six months of fiscal 2019 and 
+
+
+
+15
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+fiscal 2018, respectively. These transaction costs were expensed as incurred in general and administrative expenses ("G&A") in the Consolidated Statements of Operations.
+
+
+
+The goodwill generated from acquisitions completed during the first six months of fiscal 2019 is primarily related to expected synergies. The goodwill is generally not deductible for income tax purposes.
+
+
+
+The Consolidated Financial Statements include the operating results of each acquisition from the date of acquisition. Pro forma results of operations and the revenue and net income subsequent to the acquisition date for the acquisitions completed during the first six months of fiscal 2019 have not been presented because the effects of the acquisitions, individually and in the aggregate, were not material to our financial results. 
+
+
+
+Divestiture of Service Provider Video Software Solutions On October 28, 2018, we completed the sale of the Service Provider Video Software Solutions business. This business had tangible assets of approximately $160 million (primarily comprised of accounts receivables, inventories and various other current and long-term assets) and net intangible assets and goodwill (based on relative fair value) of $340 million. In addition, the business had total liabilities of approximately $200 million (primarily comprised of deferred revenue and various other current and long-term liabilities). We recognized an immaterial gain from this transaction in the second quarter of fiscal 2019. 
+
+
+
+We completed two divestitures during the second quarter of fiscal 2018. The financial statement impact of these divestitures was not material for the second quarter and first six months of fiscal 2018.
+
+
+
+Acquisition of Luxtera On February 6, 2019, we completed our acquisition of Luxtera, Inc. ("Luxtera"), a semiconductor company, for total consideration of approximately $660 million in cash and assumed equity awards. Revenue from the Luxtera acquisition will be included in our Infrastructure Platforms product category. We expect that most of the purchase price will be allocated to goodwill and purchased intangible assets.
+
+
+
+16
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+5.Goodwill and Purchased Intangible Assets 
+
+
+
+(a)Goodwill 
+
+
+
+The following table presents the goodwill allocated to our reportable segments as of January 26, 2019 and during the first six months of fiscal 2019 (in millions): 
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+“Other” in the table above primarily consists of foreign currency translation as well as immaterial purchase accounting adjustments.
+
+
+
+(b)Purchased Intangible Assets
+
+
+
+The following table presents details of our intangible assets acquired through acquisitions completed during the first six months of fiscal 2019 (in millions, except years):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+The following tables present details of our purchased intangible assets (in millions): 
+
+
+
+[DATA_TABLE_REMOVED] 
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Purchased intangible assets include intangible assets acquired through acquisitions as well as through direct purchases or licenses. 
+
+
+
+17
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+There were no impairment charges related to purchased intangible assets for the second quarter and first six months of fiscal 2019 and for the corresponding periods of fiscal 2018. Impairment charges are primarily a result of declines in estimated fair values of certain purchased intangible assets resulting from the reduction or elimination of expected future cash flows associated with certain of our technology and in-process research and development (IPR&D) intangible assets. 
+
+
+
+The following table presents the amortization of purchased intangible assets, including impairment charges (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+The estimated future amortization expense of purchased intangible assets with finite lives as of January 26, 2019 is as follows (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+18
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+6.Restructuring and Other Charges
+
+
+
+We initiated a restructuring plan during fiscal 2018 (the "Fiscal 2018 Plan") in order to realign the organization and enable further investment in key priority areas with estimated pretax charges of approximately $600 million. These aggregate pretax charges are primarily cash-based and consist of employee severance and other one-time termination benefits, and other associated costs. In connection with the Fiscal 2018 Plan, we have incurred charges of $186 million and $264 million for the second quarter and first six months of fiscal 2019, respectively, and have incurred cumulative charges of $372 million. We expect the Fiscal 2018 Plan to be substantially completed in fiscal 2019.
+
+
+
+We announced a restructuring plan in August 2016 (the "Fiscal 2017 Plan"), in order to reinvest in our key priority areas. In connection with the Fiscal 2017 Plan, we incurred cumulative charges of approximately $1.0 billion, which were primarily cash-based and consisted of employee severance and other one-time termination benefits, and other associated costs. We completed the Fiscal 2017 Plan in fiscal 2018.
+
+
+
+The following tables summarize the activities related to the restructuring and other charges (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+19
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+7.Balance Sheet Details 
+
+
+
+The following tables provide details of selected balance sheet items (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+20
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+8.Financing Receivables and Operating Leases 
+
+
+
+(a)Financing Receivables 
+
+
+
+Financing receivables primarily consist of lease receivables, loan receivables, and financed service contracts. Lease receivables represent sales-type and direct-financing leases resulting from the sale of Cisco’s and complementary third-party products and are typically collateralized by a security interest in the underlying assets. Lease receivables consist of arrangements with terms of four years on average. Loan receivables represent financing arrangements related to the sale of our hardware, software, and services, which may include additional funding for other costs associated with network installation and integration of our products and services. Loan receivables generally have terms of up to three years. Financed service contracts include financing receivables related to technical support and advanced services. Revenue related to the technical support services is typically deferred and included in deferred service revenue and is recognized ratably over the period during which the related services are to be performed, which typically ranges from one to three years. 
+
+
+
+A summary of our financing receivables is presented as follows (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Future minimum lease payments to Cisco on lease receivables as of January 26, 2019 are summarized as follows (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Actual cash collections may differ from the contractual maturities due to early customer buyouts, refinancings, or defaults.
+
+
+
+21
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+(b)Credit Quality of Financing Receivables
+
+
+
+Gross receivables, excluding residual value, less unearned income categorized by our internal credit risk rating as of January 26, 2019 and July 28, 2018 are summarized as follows (in millions): 
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+We determine the adequacy of our allowance for credit loss by assessing the risks and losses inherent in our financing receivables by portfolio segment. The portfolio segment is based on the types of financing offered by us to our customers, which consist of the following: lease receivables, loan receivables, and financed service contracts. 
+
+
+
+Our internal credit risk ratings of 1 through 4 correspond to investment-grade ratings, while credit risk ratings of 5 and 6 correspond to non-investment grade ratings. Credit risk ratings of 7 and higher correspond to substandard ratings. 
+
+
+
+The following tables present the aging analysis of gross receivables, excluding residual value and less unearned income as of January 26, 2019 and July 28, 2018 (in millions): 
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Past due financing receivables are those that are 31 days or more past due according to their contractual payment terms. The data in the preceding tables is presented by contract, and the aging classification of each contract is based on the oldest outstanding receivable, and therefore past due amounts also include unbilled and current receivables within the same contract. The balances of either unbilled or current financing receivables included in the category of 91 days plus past due for financing receivables were $396 million and $503 million as of January 26, 2019 and July 28, 2018, respectively. 
+
+
+
+As of January 26, 2019, we had financing receivables of $247 million, net of unbilled or current receivables, that were in the category of 91 days plus past due but remained on accrual status as they are well secured and in the process of collection. Such balance was $182 million as of July 28, 2018.
+
+
+
+22
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+(c)Allowance for Credit Loss Rollforward 
+
+
+
+The allowances for credit loss and the related financing receivables are summarized as follows (in millions): 
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+We assess the allowance for credit loss related to financing receivables on either an individual or a collective basis. We consider various factors in evaluating lease and loan receivables and the earned portion of financed service contracts for possible impairment on an individual basis. These factors include our historical experience, credit quality and age of the receivable balances, and economic conditions that may affect a customer’s ability to pay. When the evaluation indicates that it is probable that all amounts due pursuant to the contractual terms of the financing agreement, including scheduled interest payments, are unable to be collected, the financing receivable is considered impaired. All such outstanding amounts, including any accrued interest, will be assessed and fully reserved at the customer level. Our internal credit risk ratings are categorized as 1 through 10, with the lowest credit risk rating representing the highest quality financing receivables. 
+
+
+
+Typically, we also consider receivables with a risk rating of 8 or higher to be impaired and will include them in the individual assessment for allowance. These balances, as of January 26, 2019 and July 28, 2018, are presented under “(b) Credit Quality of Financing Receivables” above.
+
+
+
+We evaluate the remainder of our financing receivables portfolio for impairment on a collective basis and record an allowance for credit loss at the portfolio segment level. When evaluating the financing receivables on a collective basis, we use expected default frequency rates published by a major third-party credit-rating agency as well as our own historical loss rate in the event of default, while also systematically giving effect to economic conditions, concentration of risk, and correlation.
+
+
+
+23
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+(d)Operating Leases
+
+
+
+We provide financing of certain equipment through operating leases, and the amounts are included in property and equipment in the Consolidated Balance Sheets. Amounts relating to equipment on operating lease assets and the associated accumulated depreciation are summarized as follows (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Minimum future rentals on noncancelable operating leases as of January 26, 2019 are summarized as follows (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+9.Available-for-Sale Debt Investments and Equity Investments
+
+
+
+The following table summarizes our available-for-sale debt investments and equity investments (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+(1) We held equity interests in certain private equity funds of $0.6 billion as of January 26, 2019 which are accounted for under the NAV practical expedient following the adoption of ASU 2016-01, Financial Instruments, in the first quarter of fiscal 2019.
+
+
+
+(a)Summary of Available-for-Sale Debt Investments
+
+
+
+The following tables summarize our available-for-sale debt investments (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+24
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+(1) Net unsettled investment purchases were $4 million and net unsettled investment sales were $1.5 billion as of January 26, 2019 and July 28, 2018, respectively and were included in other current assets and other current liabilities. 
+
+
+
+Non-U.S. government and agency securities include agency and corporate debt securities that are guaranteed by non-U.S. governments.
+
+
+
+The following table presents the gross realized gains and gross realized losses related to available-for-sale debt investments (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+The following tables present the breakdown of the available-for-sale debt investments with gross unrealized losses and the duration that those losses had been unrealized at January 26, 2019 and July 28, 2018 (in millions): 
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+25
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+There were no impairment charges related to our available-for-sale debt investments for the second quarter and first six months of fiscal 2019, and for the corresponding periods of fiscal 2018, respectively. For available-for-sale debt investments that were in an unrealized loss position as of January 26, 2019, we have determined that no other-than-temporary impairments were required to be recognized.
+
+
+
+The following table summarizes the maturities of our available-for-sale debt investments as of January 26, 2019 (in millions): 
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Actual maturities may differ from the contractual maturities because borrowers may have the right to call or prepay certain obligations. 
+
+
+
+(b)Summary of Equity Investments
+
+
+
+We recorded adjustments to the carrying value of our non-marketable equity securities measured using the measurement alternative during the second quarter and first six months of fiscal 2019 as follows (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Gains and losses recognized on our marketable and non-marketable equity securities for the second quarter and first six months of fiscal 2019 are summarized below (in millions):
+
+
+
+[DATA_TABLE_REMOVED] 
+
+
+
+(c)Securities Lending
+
+
+
+We periodically engage in securities lending activities with certain of our available-for-sale debt investments. These transactions are accounted for as a secured lending of the securities, and the securities are typically loaned only on an overnight basis. The average daily balance of securities lending was $1.2 billion and $0.4 billion for the first six months of fiscal 2019 and fiscal 2018, respectively. We require collateral equal to at least 102% of the fair market value of the loaned security and that the collateral be in the form of cash or liquid, high-quality assets. We engage in these secured lending transactions only with highly creditworthy counterparties, and the associated portfolio custodian has agreed to indemnify us against collateral losses. We did not experience any losses in connection with the secured lending of securities during the periods presented. As of January 26, 2019 and July 28, 2018, we had no outstanding securities lending transactions. 
+
+
+
+(d)Variable Interest Entities
+
+
+
+In the ordinary course of business, we have investments in privately held companies and provide financing to certain customers. These privately held companies and customers may be considered to be variable interest entities. We evaluate on an ongoing basis our investments in these privately held companies and our customer financings, and have determined that as of January 26, 2019, 
+
+
+
+26
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+except as disclosed in Note 1, there were no significant variable interest entities required to be consolidated in our Consolidated Financial Statements.
+
+
+
+As of January 26, 2019, the carrying value of investments in privately held companies was $1.25 billion, of which $670 million of such investments are considered to be in variable interest entities which are unconsolidated. In addition, we have additional funding commitments of $192 million related to these investments, some of which are based on the achievement of certain agreed-upon milestones, and some of which are required to be funded on demand. The carrying value of these investments and the additional funding commitments collectively represent our maximum exposure related to these variable interest entities.
+
+
+
+10. Fair Value 
+
+
+
+Fair value is defined as the price that would be received from selling an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. When determining the fair value measurements for assets and liabilities required or permitted to be either recorded or disclosed at fair value, we consider the principal or most advantageous market in which we would transact, and we also consider assumptions that market participants would use when pricing the asset or liability.
+
+
+
+(a)Fair Value Hierarchy
+
+
+
+The accounting guidance for fair value measurement requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. The standard establishes a fair value hierarchy based on the level of independent, objective evidence surrounding the inputs used to measure fair value. A financial instrument’s categorization within the fair value hierarchy is based upon the lowest level of input that is significant to the fair value measurement. The fair value hierarchy is as follows:
+
+
+
+Level 1 applies to assets or liabilities for which there are quoted prices in active markets for identical assets or liabilities.
+
+
+
+Level 2 applies to assets or liabilities for which there are inputs other than quoted prices that are observable for the asset or liability, such as quoted prices for similar assets or liabilities in active markets; quoted prices for identical assets or liabilities in markets with insufficient volume or infrequent transactions (less active markets); or model-derived valuations in which significant inputs are observable or can be derived principally from, or corroborated by, observable market data.
+
+
+
+Level 3 applies to assets or liabilities for which there are unobservable inputs to the valuation methodology that are significant to the measurement of the fair value of the assets or liabilities.
+
+
+
+27
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+(b)Assets and Liabilities Measured at Fair Value on a Recurring Basis
+
+
+
+Assets and liabilities measured at fair value on a recurring basis were as follows (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Level 1 marketable equity securities are determined by using quoted prices in active markets for identical assets. Level 2 available-for-sale debt investments are priced using quoted market prices for similar instruments or nonbinding market prices that are corroborated by observable market data. We use inputs such as actual trade data, benchmark yields, broker/dealer quotes, and other similar data, which are obtained from quoted market prices, independent pricing vendors, or other sources, to determine the ultimate fair value of these assets and liabilities. We use such pricing data as the primary input to make our assessments and determinations as to the ultimate valuation of our investment portfolio and have not made, during the periods presented, any material adjustments to such inputs. We are ultimately responsible for the financial statements and underlying estimates. Our derivative instruments are primarily classified as Level 2, as they are not actively traded and are valued using pricing models that use observable market inputs. We did not have any transfers between Level 1 and Level 2 fair value measurements during the periods presented.
+
+
+
+28
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+(c)Assets Measured at Fair Value on a Nonrecurring Basis
+
+
+
+The following table presents gains and losses on assets that were measured at fair value on a nonrecurring basis (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+These assets were measured at fair value due to events or circumstances we identified as having significant impact on their fair value during the respective periods. The carrying value of our non-marketable equity securities recorded to fair value on a non-recurring basis is adjusted for observable transactions for identical or similar investments of the same issuer or impairment. These securities are classified as Level 3 in the fair value hierarchy because we estimate the value based on valuation methods using the observable transaction price at the transaction date and other unobservable inputs such as volatility, rights, and obligations of the securities we hold. 
+
+
+
+The fair value of property held for sale was measured with the assistance of third-party valuation models, which used discounted cash flow techniques as part of their analysis. The fair value measurement was categorized as Level 3, as significant unobservable inputs were used in the valuation report. The impairment charge as a result of the valuations, which represented the difference between the fair value less cost to sell and the carrying amount of the assets held for sale, was included in restructuring and other charges. The remaining carrying value of property held for sale that was impaired was zero as of January 27, 2018.
+
+
+
+(d) Other Fair Value Disclosures 
+
+
+
+The fair value of short-term loan receivables and financed service contracts approximates their carrying value due to their short duration. The aggregate carrying value of long-term loan receivables and financed service contracts as of January 26, 2019 and July 28, 2018 was $3.3 billion and $3.6 billion, respectively. The estimated fair value of long-term loan receivables and financed service contracts approximates their carrying value. We use significant unobservable inputs in determining discounted cash flows to estimate the fair value of our long-term loan receivables and financed service contracts, and therefore they are categorized as Level 3.
+
+
+
+As of January 26, 2019, the estimated fair value of our short-term debt approximates its carrying value due to the short maturities. As of January 26, 2019, the fair value of our senior notes and other long-term debt was $26.5 billion with a carrying amount of $25.6 billion. This compares to a fair value of $26.4 billion and a carrying amount of $25.6 billion as of July 28, 2018. The fair value of the senior notes and other long-term debt was determined based on observable market prices in a less active market and was categorized as Level 2 in the fair value hierarchy. 
+
+
+
+11.Borrowings 
+
+
+
+(a)Short-Term Debt
+
+
+
+The following table summarizes our short-term debt (in millions, except percentages):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+We repaid our senior notes due on February 15, 2019 for an aggregate principal amount of $2.0 billion upon maturity.
+
+
+
+We have a short-term debt financing program of up to $10.0 billion through the issuance of commercial paper notes. We use the proceeds from the issuance of commercial paper notes for general corporate purposes. We had no commercial paper notes outstanding as of January 26, 2019 and July 28, 2018.  As of February 18, 2019, we had approximately $2 billion of commercial paper notes outstanding.
+
+
+
+The effective rates for the short- and long-term debt include the interest on the notes, the accretion of the discount, the issuance costs, and, if applicable, adjustments related to hedging.
+
+
+
+29
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+(b)Long-Term Debt
+
+
+
+The following table summarizes our long-term debt (in millions, except percentages):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+We entered into interest rate swaps in prior periods with an aggregate notional amount of $6.75 billion designated as fair value hedges of certain of our fixed-rate senior notes. These swaps convert the fixed interest rates of the fixed-rate notes to floating interest rates based on the London InterBank Offered Rate ("LIBOR"). The gains and losses related to changes in the fair value of the interest rate swaps substantially offset changes in the fair value of the hedged portion of the underlying debt that are attributable to the changes in market interest rates. For additional information, see Note 12.
+
+
+
+Interest is payable semiannually on each class of the senior fixed-rate notes and payable quarterly on the floating-rate notes. Each of the senior fixed-rate notes is redeemable by us at any time, subject to a make-whole premium. The senior notes rank at par with the commercial paper notes that may be issued in the future pursuant to our short-term debt financing program, as discussed above under “(a) Short-Term Debt.” As of January 26, 2019, we were in compliance with all debt covenants.
+
+
+
+30
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+As of January 26, 2019, future principal payments for long-term debt, including the current portion, are summarized as follows (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+(c)Credit Facility
+
+
+
+On May 15, 2015, we entered into a credit agreement with certain institutional lenders that provides for a $3.0 billion unsecured revolving credit facility that is scheduled to expire on May 15, 2020. Any advances under the credit agreement will accrue interest at rates that are equal to, based on certain conditions, either (i) the highest of (a) the Federal Funds rate plus 0.50%, (b) Bank of America’s “prime rate” as announced from time to time, or (c) LIBOR, or a comparable or successor rate that is approved by the Administrative Agent (“Eurocurrency Rate”), for an interest period of one-month plus 1.00%, or (ii) the Eurocurrency Rate, plus a margin that is based on our senior debt credit ratings as published by Standard & Poor’s Financial Services, LLC and Moody’s Investors Service, Inc., provided that in no event will the Eurocurrency Rate be less than zero. We may also, upon the agreement of either the then-existing lenders or additional lenders not currently parties to the agreement, increase the commitments under the credit facility by up to an additional $2.0 billion and/or extend the expiration date of the credit facility up to May 15, 2022. 
+
+
+
+This credit agreement requires that we comply with certain covenants, including that we maintain an interest coverage ratio as defined in the agreement. As of January 26, 2019, we were in compliance with the required interest coverage ratio and the other covenants, and we had not borrowed any funds under this credit facility.
+
+
+
+31
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+12.Derivative Instruments 
+
+
+
+(a)Summary of Derivative Instruments
+
+
+
+We use derivative instruments primarily to manage exposures to foreign currency exchange rate, interest rate, and equity price risks. Our primary objective in holding derivatives is to reduce the volatility of earnings and cash flows associated with changes in foreign currency exchange rates, interest rates, and equity prices. Our derivatives expose us to credit risk to the extent that the counterparties may be unable to meet the terms of the agreement. We do, however, seek to mitigate such risks by limiting our counterparties to major financial institutions. In addition, the potential risk of loss with any one counterparty resulting from this type of credit risk is monitored. Management does not expect material losses as a result of defaults by counterparties.
+
+
+
+The fair values of our derivative instruments and the line items on the Consolidated Balance Sheets to which they were recorded are summarized as follows (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+The effects of our cash flow and net investment hedging instruments on other comprehensive income (OCI) and the Consolidated Statements of Operations are summarized as follows (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+32
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+As of January 26, 2019, we estimate that approximately $9 million of net derivative losses related to our cash flow hedges included in accumulated other comprehensive income (AOCI) will be reclassified into earnings within the next 12 months when the underlying hedged item impacts earnings.
+
+
+
+The effect on the Consolidated Statements of Operations of derivative instruments designated as fair value hedges and the underlying hedged items is summarized as follows (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+The effect on the Consolidated Statements of Operations of derivative instruments not designated as hedges is summarized as follows (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+33
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+The notional amounts of our outstanding derivatives are summarized as follows (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+(b)Offsetting of Derivative Instruments
+
+
+
+We present our derivative instruments at gross fair values in the Consolidated Balance Sheets. However, our master netting and other similar arrangements with the respective counterparties allow for net settlement under certain conditions, which are designed to reduce credit risk by permitting net settlement with the same counterparty. To further limit credit risk, we also enter into collateral security arrangements related to certain derivative instruments whereby cash is posted as collateral between the counterparties based on the fair market value of the derivative instrument. Information related to these offsetting arrangements is summarized as follows (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+(c)Foreign Currency Exchange Risk
+
+
+
+We conduct business globally in numerous currencies. Therefore, we are exposed to adverse movements in foreign currency exchange rates. To limit the exposure related to foreign currency changes, we enter into foreign currency contracts. We do not enter into such contracts for speculative purposes.
+
+
+
+We hedge forecasted foreign currency transactions related to certain revenues, operating expenses and service cost of sales with currency options and forward contracts. These currency options and forward contracts, designated as cash flow hedges, generally have maturities of less than 24 months. We assess effectiveness based on changes in total fair value of the derivatives. The effective portion of the derivative instrument’s gain or loss is initially reported as a component of AOCI and subsequently reclassified into earnings when the hedged exposure affects earnings. The ineffective portion, if any, of the gain or loss is reported in earnings immediately. During the periods presented, we did not discontinue any cash flow hedges for which it was probable that a forecasted transaction would not occur.
+
+
+
+34
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+We enter into foreign exchange forward and option contracts to reduce the short-term effects of foreign currency fluctuations on assets and liabilities such as foreign currency receivables, including long-term customer financings, investments, and payables. These derivatives are not designated as hedging instruments. Gains and losses on the contracts are included in other income (loss), net, and substantially offset foreign exchange gains and losses from the remeasurement of intercompany balances or other current assets, investments, or liabilities denominated in currencies other than the functional currency of the reporting entity.
+
+
+
+We hedge certain net investments in our foreign operations with forward contracts to reduce the effects of foreign currency fluctuations on our net investment in those foreign subsidiaries. These derivative instruments generally have maturities of up to six months. 
+
+
+
+(d)Interest Rate Risk
+
+
+
+Interest Rate Derivatives, Investments Our primary objective for holding available-for-sale debt investments is to achieve an appropriate investment return consistent with preserving principal and managing risk. To realize these objectives, we may utilize interest rate swaps or other derivatives designated as fair value or cash flow hedges. As of January 26, 2019 and July 28, 2018, we did not have any outstanding interest rate derivatives related to our available-for-sale debt investments.
+
+
+
+Interest Rate Derivatives Designated as Fair Value Hedges, Long-Term Debt In the first six months of fiscal 2019, we did not enter into any interest rate swaps. In prior fiscal years, we entered into interest rate swaps designated as fair value hedges related to fixed-rate senior notes that are due in fiscal 2019 through 2025. Under these interest rate swaps, we receive fixed-rate interest payments and make interest payments based on LIBOR plus a fixed number of basis points. The effect of such swaps is to convert the fixed interest rates of the senior fixed-rate notes to floating interest rates based on LIBOR. The gains and losses related to changes in the fair value of the interest rate swaps are included in interest expense and substantially offset changes in the fair value of the hedged portion of the underlying debt that are attributable to the changes in market interest rates. The fair value of the interest rate swaps was reflected in other assets and other current and long-term liabilities. 
+
+
+
+(e)Equity Price Risk 
+
+
+
+We may hold equity securities for strategic purposes or to diversify our overall investment portfolio. The marketable equity securities in our portfolio are subject to price risk. To manage our exposure to changes in the fair value of certain equity securities, we have periodically entered into equity derivatives that are designated as fair value hedges. The changes in the value of the hedging instruments are included in other income (loss), net, and offset the change in the fair value of the underlying hedged investment. In addition, we periodically enter into equity derivatives that are not designated as accounting hedges. The changes in the fair value of these derivatives are also included in other income (loss), net. 
+
+
+
+We are also exposed to variability in compensation charges related to certain deferred compensation obligations to employees. Although not designated as accounting hedges, we utilize derivatives such as total return swaps to economically hedge this exposure. 
+
+
+
+(f)Hedge Effectiveness 
+
+
+
+For the periods presented, amounts excluded from the assessment of hedge effectiveness were not material for fair value, cash flow, and net investment hedges. In addition, hedge ineffectiveness for fair value, cash flow, and net investment hedges was not material for any of the periods presented.
+
+
+
+35
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+13.Commitments and Contingencies 
+
+
+
+(a)Operating Leases
+
+
+
+We lease office space in many U.S. locations. Outside the United States, larger leased sites include sites in Australia, Belgium, Canada, China, Germany, India, Japan, Mexico, Poland and the United Kingdom. We also lease equipment and vehicles. Future minimum lease payments under all noncancelable operating leases with an initial term in excess of one year as of January 26, 2019 are as follows (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+(b)Purchase Commitments with Contract Manufacturers and Suppliers 
+
+
+
+We purchase components from a variety of suppliers and use several contract manufacturers to provide manufacturing services for our products. During the normal course of business, in order to manage manufacturing lead times and help ensure adequate component supply, we enter into agreements with contract manufacturers and suppliers that either allow them to procure inventory based upon criteria as defined by us or establish the parameters defining our requirements. A significant portion of our reported purchase commitments arising from these agreements consists of firm, noncancelable, and unconditional commitments. Certain of these purchase commitments with contract manufacturers and suppliers relate to arrangements to secure long-term pricing for certain product components for multi-year periods. In certain instances, these agreements allow us the option to cancel, reschedule, and adjust our requirements based on our business needs prior to firm orders being placed. 
+
+
+
+The following table summarizes our purchase commitments with contract manufacturers and suppliers (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+We record a liability for firm, noncancelable, and unconditional purchase commitments for quantities in excess of our future demand forecasts consistent with the valuation of our excess and obsolete inventory. As of January 26, 2019 and July 28, 2018, the liability for these purchase commitments was $148 million and $159 million, respectively, and was included in other current liabilities.
+
+
+
+(c)Other Commitments
+
+
+
+In connection with our acquisitions, we have agreed to pay certain additional amounts contingent upon the achievement of certain agreed-upon technology, development, product, or other milestones or upon the continued employment with Cisco of certain employees of the acquired entities. 
+
+
+
+The following table summarizes the compensation expense related to acquisitions (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+As of January 26, 2019, we estimated that future cash compensation expense of up to $528 million may be required to be recognized pursuant to the applicable business combination agreements. 
+
+
+
+36
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+We also have certain funding commitments, primarily related to our non-marketable equity and other investments, some of which are based on the achievement of certain agreed-upon milestones, and some of which are required to be funded on demand. The funding commitments were $357 million and $223 million as of January 26, 2019 and July 28, 2018, respectively.
+
+
+
+(d)Product Warranties
+
+
+
+The following table summarizes the activity related to the product warranty liability (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+We accrue for warranty costs as part of our cost of sales based on associated material product costs, labor costs for technical support staff, and associated overhead. Our products are generally covered by a warranty for periods ranging from 90 days to five years, and for some products we provide a limited lifetime warranty.
+
+
+
+(e)Financing and Other Guarantees
+
+
+
+In the ordinary course of business, we provide financing guarantees for various third-party financing arrangements extended to channel partners and end-user customers. Payments under these financing guarantee arrangements were not material for the periods presented.
+
+
+
+Channel Partner Financing Guarantees We facilitate arrangements for third-party financing extended to channel partners, consisting of revolving short-term financing, generally with payment terms ranging from 60 to 90 days. These financing arrangements facilitate the working capital requirements of the channel partners, and, in some cases, we guarantee a portion of these arrangements. The volume of channel partner financing was $7.3 billion and $6.9 billion for the second quarter of fiscal 2019 and fiscal 2018, respectively, and was $14.5 billion and $13.6 billion for the first six months of fiscal 2019 and fiscal 2018, respectively. The balance of the channel partner financing subject to guarantees was $1.3 billion and $1.0 billion as of January 26, 2019 and July 28, 2018, respectively.
+
+
+
+End-User Financing Guarantees We also provide financing guarantees for third-party financing arrangements extended to end-user customers related to leases and loans, which typically have terms of up to three years. The volume of financing provided by third parties for leases and loans as to which we had provided guarantees was $6 million and $12 million for the second quarter of fiscal 2019 and fiscal 2018, respectively, and was $9 million and $26 million for the first six months of fiscal 2019 and fiscal 2018, respectively.
+
+
+
+37
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+Financing Guarantee Summary The aggregate amounts of financing guarantees outstanding at January 26, 2019 and July 28, 2018, representing the total maximum potential future payments under financing arrangements with third parties along with the related deferred revenue, are summarized in the following table (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Other Guarantees Our other guarantee arrangements as of January 26, 2019 and July 28, 2018 that were subject to recognition and disclosure requirements were not material.
+
+
+
+(f)Indemnifications 
+
+
+
+In the normal course of business, we indemnify other parties, including customers, lessors, and parties to other transactions with us, with respect to certain matters. We have agreed to indemnify against losses arising from a breach of representations or covenants or out of intellectual property infringement or other claims made against certain parties. These agreements may limit the time within which an indemnification claim can be made and the amount of the claim. 
+
+
+
+We have been asked to indemnify Time Warner Cable (“TWC”) for patent infringement claims asserted against it by Sprint Communications Company, L.P. (“Sprint”) in federal court in Kansas. Sprint alleges that TWC infringed certain Sprint patents by offering VoIP telephone services utilizing products provided by us generally in combination with those of other manufacturers. Sprint seeks monetary damages. Following a trial on March 3, 2017, a jury in Kansas found that TWC willfully infringed five Sprint patents and awarded Sprint $139.8 million in damages. On March 14, 2017, the Kansas court declined Sprint's request for enhanced damages and entered judgment in favor of Sprint for $139.8 million plus 1.06% in post-judgment interest. On May 30, 2017, the Court awarded Sprint $20.3 million in pre-judgment interest and denied TWC's post-trial motions. TWC appealed to the U.S. Court of Appeals for the Federal Circuit, and, on November 30, 2018, a panel of the court affirmed the judgment. TWC filed a petition for rehearing en banc on January 29, 2019. Due to the uncertainty surrounding the litigation process, we are unable to reasonably estimate the ultimate outcome of the TWC litigation at this time. Should Sprint prevail in litigation, or TWC agree to a settlement, we, in accordance with our agreements, may have an obligation to indemnify TWC. At this time, we do not anticipate that our obligations regarding the final outcome would be material. 
+
+
+
+During the first six months of fiscal 2018, we recorded legal and indemnification settlement charges of $127 million to product cost of sales related to prior indemnification matters resolved in fiscal 2018. 
+
+
+
+In addition, we have entered into indemnification agreements with our officers and directors, and our Amended and Restated Bylaws contain similar indemnification obligations to our agents. 
+
+
+
+It is not possible to determine the maximum potential amount under these indemnification agreements due to our limited history with prior indemnification claims and the unique facts and circumstances involved in each particular agreement. Historically, payments made by us under these agreements have not had a material effect on our operating results, financial position, or cash flows.
+
+
+
+38
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+(g)Legal Proceedings 
+
+
+
+Brazil Brazilian authorities have investigated our Brazilian subsidiary and certain of our former employees, as well as a Brazilian importer of our products, and its affiliates and employees, relating to alleged evasion of import taxes and alleged improper transactions involving the subsidiary and the importer. Brazilian tax authorities have assessed claims against our Brazilian subsidiary based on a theory of joint liability with the Brazilian importer for import taxes, interest, and penalties. In addition to claims asserted by the Brazilian federal tax authorities in prior fiscal years, tax authorities from the Brazilian state of Sao Paulo have asserted similar claims on the same legal basis in prior fiscal years.
+
+
+
+The asserted claims by Brazilian federal tax authorities that remain are for calendar years 2003 through 2007, and the asserted claims by the tax authorities from the state of Sao Paulo are for calendar years 2005 through 2007. The total asserted claims by Brazilian state and federal tax authorities aggregate to $215 million for the alleged evasion of import and other taxes, $1.4 billion for interest, and $1.0 billion for various penalties, all determined using an exchange rate as of January 26, 2019. We have completed a thorough review of the matters and believe the asserted claims against our Brazilian subsidiary are without merit, and we are defending the claims vigorously. While we believe there is no legal basis for the alleged liability, due to the complexities and uncertainty surrounding the judicial process in Brazil and the nature of the claims asserting joint liability with the importer, we are unable to determine the likelihood of an unfavorable outcome against our Brazilian subsidiary and are unable to reasonably estimate a range of loss, if any. We do not expect a final judicial determination for several years. 
+
+
+
+SRI International  On September 4, 2013, SRI International, Inc. (“SRI”) asserted patent infringement claims against us in the U.S. District Court for the District of Delaware, accusing our products and services in the area of network intrusion detection of infringing two U.S. patents. SRI sought monetary damages of at least a reasonable royalty and enhanced damages. The trial on these claims began on May 2, 2016 and, on May 12, 2016, the jury returned a verdict finding willful infringement of the asserted patents. The jury awarded SRI damages of $23.7 million. On May 25, 2017, the Court awarded SRI enhanced damages and attorneys’ fees, entered judgment in the new amount of $57.0 million, and ordered an ongoing royalty of 3.5% through the expiration of the patents in 2018. We have appealed to the United States Court of Appeals for the Federal Circuit on various grounds. We believe we have strong arguments to overturn the jury verdict and/or reduce the damages award. While the ultimate outcome of the case may still result in a loss, we do not expect it to be material.
+
+
+
+Straight Path On September 24, 2014, Straight Path IP Group, Inc. (“Straight Path”) asserted patent infringement claims against us in the U.S. District Court for the Northern District of California, accusing our 9971 IP Phone, Unified Communications Manager working in conjunction with 9971 IP Phones, and Video Communication Server products of infringement. All of the asserted patents have expired and Straight Path was therefore limited to seeking monetary damages for the alleged past infringement. On November 13, 2017, the Court granted our motion for summary judgment of non-infringement, thereby dismissing Straight Path's claims against us and cancelling a trial which had been set for March 12, 2018. Straight Path appealed to the U.S. Court of Appeal for the Federal Circuit, and, on January 23, 2019, the court summarily affirmed the finding of non-infringement.
+
+
+
+Arista Networks, Inc. As reported in our Form 10-K for the fiscal year ended July 28, 2018 we received a payment of $400 million from Arista Networks, Inc. ("Arista") in connection with the settlement of litigation. The payment was recognized in general and administrative expenses in our first quarter of fiscal 2019. 
+
+
+
+Oyster Optics On November 24, 2016, Oyster Optics, LLC (“Oyster”) asserted patent infringement claims against us in the U.S. District Court for the Eastern District of Texas. Oyster alleges that certain Cisco ONS 15454 and NCS 2000 line cards infringe U.S. Patent No. 7,620,327 (“the ‘327 Patent”). Oyster seeks monetary damages. Oyster filed infringement claims based on the ‘327 Patent against other defendants, including ZTE, Nokia, NEC, Infinera, Huawei, Ciena, Alcatel-Lucent, and Fujitsu, and the court consolidated the cases alleging infringement of the ‘327 Patent. Oyster's cases against some of the defendants were resolved. The court vacated the November 4, 2018 trial date set for Oyster's claims against Cisco and one other remaining defendant, pending resolution of Oyster's appeal of the court's summary judgment ruling dismissing certain of Oyster's claims. While we believe that we have strong non-infringement arguments and that the patent is invalid, if we do not prevail in the District Court, we believe damages ultimately assessed would not be material. Due to uncertainty surrounding patent litigation processes, we are unable to reasonably estimate the ultimate outcome of this litigation at this time. However, we do not anticipate that any final outcome of the dispute would be material.
+
+
+
+In addition, we are subject to legal proceedings, claims, and litigation arising in the ordinary course of business, including intellectual property litigation. While the outcome of these matters is currently not determinable, we do not expect that the ultimate costs to resolve these matters will have a material adverse effect on our consolidated financial position, results of operations, or cash flows. For additional information regarding intellectual property litigation, see “Part II, Item 1A. Risk Factors-We may be found to infringe on intellectual property rights of others” herein. 
+
+
+
+39
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+14.Shareholders’ Equity 
+
+
+
+(a)Cash Dividends on Shares of Common Stock 
+
+
+
+We declared and paid cash dividends of $0.33 and $0.29 per common share, or $1.5 billion and $1.4 billion, on our outstanding common stock for the second quarter of fiscal 2019 and fiscal 2018, respectively. We declared and paid cash dividends of $0.66 and $0.58 per common share, or $3.0 billion and $2.9 billion, on our outstanding common stock for the first six months of fiscal 2019 and fiscal 2018, respectively.
+
+
+
+On February 13, 2019, our Board of Directors declared a quarterly dividend of $0.35 per common share to be paid on April 24, 2019 to all shareholders of record as of the close of business on April 5, 2019. Any future dividends will be subject to the approval of our Board of Directors.
+
+
+
+(b)Stock Repurchase Program
+
+
+
+In September 2001, our Board of Directors authorized a stock repurchase program. On February 13, 2019, our Board of Directors authorized a $15 billion increase to the stock repurchase program. The remaining authorized amount for stock repurchases under this program, including the additional authorization, is approximately $24 billion with no termination date. A summary of the stock repurchase activity for fiscal 2019 and 2018 under the stock repurchase program, reported based on the trade date, is summarized as follows (in millions, except per-share amounts):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+There were $160 million and $180 million of stock repurchases that were pending settlement as of January 26, 2019 and July 28, 2018, respectively.
+
+
+
+The purchase price for the shares of our stock repurchased is reflected as a reduction to shareholders’ equity. We are required to allocate the purchase price of the repurchased shares as (i) a reduction to retained earnings and (ii) a reduction of common stock and additional paid-in capital.
+
+
+
+(c) Preferred Stock
+
+
+
+Under the terms of our Articles of Incorporation, the Board of Directors may determine the rights, preferences, and terms of our authorized but unissued shares of preferred stock.
+
+
+
+40
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+15.Employee Benefit Plans 
+
+
+
+(a)Employee Stock Incentive Plans
+
+
+
+Stock Incentive Plan Program Description As of January 26, 2019, we had one stock incentive plan: the 2005 Stock Incentive Plan (the “2005 Plan”). In addition, we have, in connection with our acquisitions of various companies, assumed the share-based awards granted under stock incentive plans of the acquired companies or issued share-based awards in replacement thereof. Share-based awards are designed to reward employees for their long-term contributions to us and provide incentives for them to remain with Cisco. The number and frequency of share-based awards are based on competitive practices, operating results of Cisco, government regulations, and other factors. Our primary stock incentive plan is summarized as follows: 
+
+
+
+2005 Plan  As of January 26, 2019, the maximum number of shares issuable under the 2005 Plan over its term was 694 million shares, plus shares from certain previous plans that are forfeited or are terminated for any other reason before being exercised or settled. If any awards granted under the 2005 Plan are forfeited or are terminated for any other reason before being exercised or settled, the unexercised or unsettled shares underlying the awards will again be available under the 2005 Plan. In addition, starting November 19, 2013, shares withheld by Cisco from an award other than a stock option or stock appreciation right to satisfy withholding tax liabilities resulting from such award will again be available for issuance, based on the fungible share ratio in effect on the date of grant.
+
+
+
+Pursuant to an amendment approved by our shareholders on November 12, 2009, the number of shares available for issuance under the 2005 Plan is reduced by 1.5 shares for each share awarded as a stock grant or a stock unit, and any shares underlying awards outstanding from certain previous plans that expire unexercised at the end of their maximum terms become available for reissuance under the 2005 Plan. The 2005 Plan permits the granting of stock options, restricted stock, and restricted stock units ("RSUs"), the vesting of which may be performance-based or market-based along with the requisite service requirement, and stock appreciation rights to employees (including employee directors and officers), consultants of Cisco and its subsidiaries and affiliates, and non-employee directors of Cisco. Stock options and stock appreciation rights granted under the 2005 Plan have an exercise price of at least 100% of the fair market value of the underlying stock on the grant date. The expiration date for stock options and stock appreciation rights shall be no later than 10 years from the grant date. 
+
+
+
+The stock options will generally become exercisable for 20% or 25% of the option shares one year from the date of grant and then ratably over the following 48 months or 36 months, respectively. Time-based stock grants and time-based RSUs will generally vest over a four year term. The majority of the performance-based and market-based RSUs vests at the end of the three-year requisite service period or earlier if the award recipient meets certain retirement eligibility conditions. Certain performance-based RSUs, that are based on the achievement of financial and/or non-financial operating goals, typically vest upon the achievement of milestones (and may require subsequent service periods), with overall vesting of the shares underlying the award ranging from six months to three years. The Compensation and Management Development Committee of our Board of Directors has the discretion to use different vesting schedules. Stock appreciation rights may be awarded in combination with stock options or stock grants, and such awards shall provide that the stock appreciation rights will not be exercisable unless the related stock options or stock grants are forfeited. Stock grants may be awarded in combination with non-statutory stock options, and such awards may provide that the stock grants will be forfeited in the event that the related non-statutory stock options are exercised.
+
+
+
+(b)Employee Stock Purchase Plan
+
+
+
+We have an Employee Stock Purchase Plan, which includes its subplan named the International Employee Stock Purchase Plan (together, the “Purchase Plan”), under which 721 million shares of our common stock have been reserved for issuance as of January 26, 2019. Eligible employees are offered shares through a 24-month offering period, which consists of four consecutive 6-month purchase periods. Employees may purchase a limited number of shares of our stock at a discount of up to 15% of the lesser of the market value at the beginning of the offering period or the end of each 6-month purchase period. The Purchase Plan is scheduled to terminate on the earlier of (i) January 3, 2030 and (ii) the date on which all shares available for issuance under the Purchase Plan are sold pursuant to exercised purchase rights. Under the Purchase Plan, we issued 9 million shares during the second quarter and first six months of fiscal 2019 and 12 million shares during the second quarter and first six months of fiscal 2018. As of January 26, 2019, 169 million shares were available for issuance under the Purchase Plan.
+
+
+
+41
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+(c)Summary of Share-Based Compensation Expense
+
+
+
+Share-based compensation expense consists primarily of expenses for stock options, stock purchase rights, restricted stock, and RSUs granted to employees. The following table summarizes share-based compensation expense (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+As of January 26, 2019, the total compensation cost related to unvested share-based awards not yet recognized was $3.2 billion which is expected to be recognized over approximately 2.7 years on a weighted-average basis. 
+
+
+
+(d)Share-Based Awards Available for Grant
+
+
+
+A summary of share-based awards available for grant is as follows (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+For each share awarded as restricted stock or a restricted stock unit award under the 2005 Plan, 1.5 shares was deducted from the available share-based award balance. For restricted stock units that were awarded with vesting contingent upon the achievement of future financial performance or market-based metrics, the maximum awards that can be achieved upon full vesting of such awards were reflected in the preceding table. 
+
+
+
+42
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+(e)Restricted Stock and Stock Unit Awards 
+
+
+
+A summary of the restricted stock and stock unit activity, which includes time-based and performance-based or market-based RSUs, is as follows (in millions, except per-share amounts):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+(f)Stock Option Awards
+
+
+
+A summary of the stock option activity is as follows (in millions, except per-share amounts):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+The following table summarizes significant ranges of outstanding and exercisable stock options as of January 26, 2019 (in millions, except years and share prices):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+The aggregate intrinsic value in the preceding table represents the total pretax intrinsic value, based on our closing stock price of $46.13 as of January 25, 2019. The total number of in-the-money stock options exercisable as of January 26, 2019 was 3 million. As of July 28, 2018, 4 million outstanding stock options were exercisable and the weighted-average exercise price was $6.84.
+
+
+
+43
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+(g)Valuation of Employee Share-Based Awards
+
+
+
+Time-based restricted stock units and performance-based restricted stock units ("PRSUs") that are based on our financial performance metrics or non-financial operating goals are valued using the market value of our common stock on the date of grant, discounted for the present value of expected dividends. On the date of grant, we estimated the fair value of the total shareholder return ("TSR") component of the PRSUs using a Monte Carlo simulation model. The assumptions for the valuation of time-based RSUs and PRSUs are summarized as follows:
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+The PRSUs granted during the periods presented are contingent on the achievement of our financial performance metrics, our comparative market-based returns, or the achievement of financial and non-financial operating goals. For the awards based on financial performance metrics or comparative market-based returns, generally 50% of the PRSUs are earned based on the average of annual operating cash flow and earnings per share goals established at the beginning of each fiscal year over a three-year performance period. Generally, the remaining 50% of the PRSUs are earned based on our TSR measured against the benchmark TSR of a peer group over the same period. Each PRSU recipient could vest in 0% to 150% of the target shares granted contingent on the achievement of our financial performance metrics or our comparative market-based returns and 0% to 100% of the target shares granted contingent on the achievement of non-financial operating goals. 
+
+
+
+44
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+16.Comprehensive Income (Loss) 
+
+
+
+The components of AOCI, net of tax, and the other comprehensive income (loss), excluding noncontrolling interest, for the first six months of fiscal 2019 and fiscal 2018 are summarized as follows (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+45
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+The net gains (losses) reclassified out of AOCI into the Consolidated Statements of Operations, with line item location, during each period were as follows (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+46
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+17.Income Taxes
+
+
+
+The following table provides details of income taxes (in millions, except percentages):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+The effective tax rate for the first six months of fiscal 2019 includes a $152 million tax benefit relating to indirect effects from adoption of ASC 606 at the beginning of fiscal 2019.
+
+
+
+On December 22, 2017, the Tax Cuts and Jobs Act (the "Tax Act") was enacted. The Tax Act significantly revises the U.S. corporate income tax by, among other things, lowering the statutory corporate income tax rate (“federal tax rate”) from 35% to 21% effective January 1, 2018, implementing a modified territorial tax system, and imposing a mandatory one-time transition tax on accumulated earnings of foreign subsidiaries. The enactment of the Tax Act resulted in us recording a provisional tax expense of $10.4 billion in fiscal 2018. In the second quarter of fiscal 2019, we completed our accounting relating to the Tax Act and recorded an additional $58 million of tax expense. The total tax charge as a result of the Tax Act was $10.5 billion, consisting of $8.2 billion of tax expense for the U.S. transition tax on accumulated earnings of foreign subsidiaries, $1.2 billion of foreign withholding tax and $1.1 billion of tax expense for DTA re-measurement. The tax expense related to the U.S. transition tax on accumulated earnings in foreign subsidiaries is net of a $0.9 billion benefit related to U.S. taxation of deemed foreign dividends in the transition fiscal year. This benefit may be reduced or eliminated in future legislation. If such legislation is enacted, we will record the impact of the legislation in the quarter of enactment.
+
+
+
+The Tax Act includes a Global Intangible Low-Taxed Income ("GILTI") provision that imposes U.S. tax on certain foreign subsidiary income in the year it is earned. Our accounting policy is to treat tax on GILTI as a current period cost included in tax expense in the year incurred.
+
+
+
+As of January 26, 2019, we had $1.8 billion of unrecognized tax benefit, of which $1.6 billion, if recognized, would favorably impact the effective tax rate. We regularly engage in discussions and negotiations with tax authorities regarding tax matters in various jurisdictions. We believe it is reasonably possible that certain federal, foreign and state tax matters may be concluded in the next 12 months. Specific positions that may be resolved include issues involving transfer pricing and various other matters. We estimate that the unrecognized tax benefits at January 26, 2019 could be reduced by approximately $50 million in the next 12 months.
+
+
+
+47
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+18.Segment Information and Major Customers 
+
+
+
+(a)Revenue and Gross Margin by Segment
+
+
+
+We conduct business globally and are primarily managed on a geographic basis consisting of three segments: the Americas, EMEA, and APJC. Our management makes financial decisions and allocates resources based on the information it receives from our internal management system. Sales are attributed to a segment based on the ordering location of the customer. We do not allocate research and development, sales and marketing, or general and administrative expenses to our segments in this internal management system because management does not include the information in our measurement of the performance of the operating segments. In addition, we do not allocate amortization and impairment of acquisition-related intangible assets, share-based compensation expense, significant litigation settlements and other contingencies, charges related to asset impairments and restructurings, and certain other charges to the gross margin for each segment because management does not include this information in our measurement of the performance of the operating segments. 
+
+
+
+Summarized financial information by segment for the second quarter and the first six months of fiscal 2019 and fiscal 2018, based on our internal management system and as utilized by our Chief Operating Decision Maker ("CODM"), is as follows (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Amounts may not sum and percentages may not recalculate due to rounding.
+
+
+
+Revenue in the United States was $6.4 billion and $6.1 billion for the second quarter of fiscal 2019 and fiscal 2018, respectively, and $13.3 billion and $12.6 billion for the first six months of fiscal 2019 and fiscal 2018, respectively.
+
+
+
+(b)Revenue for Groups of Similar Products and Services
+
+
+
+We design, manufacture, and sell Internet Protocol (IP)-based networking and other products related to the communications and information technology (IT) industry and provide services associated with these products and their use. 
+
+
+
+48
+
+CISCO SYSTEMS, INC.
+
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited) 
+
+
+
+The following table presents revenue for groups of similar products and services (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+(1) Includes SPVSS business revenue of $0 and $230 million for the second quarter of fiscal 2019 and 2018, respectively, and $168 million and $478 million for the first six months of fiscal 2019 and fiscal 2018, respectively.
+
+
+
+(c)Additional Segment Information
+
+
+
+The majority of our assets was attributable to our U.S. operations as of each of January 26, 2019 and July 28, 2018. 
+
+
+
+Property and equipment information is based on the physical location of the assets. The following table presents property and equipment information for geographic areas (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+19.Net Income (Loss) per Share
+
+
+
+The following table presents the calculation of basic and diluted net income (loss) per share (in millions, except per-share amounts):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Employee equity share options, unvested shares, and similar equity instruments granted and assumed by Cisco are treated as potential common shares outstanding in computing diluted earnings per share. Diluted shares outstanding include the dilutive effect of in-the-money options, unvested restricted stock, and restricted stock units. The dilutive effect of such equity awards is calculated based on the average share price for each fiscal period using the treasury stock method. Under the treasury stock method, the amount the employee must pay for exercising stock options and the amount of compensation cost for future service that has not yet recognized are collectively assumed to be used to repurchase shares.
+
+
+
+We excluded antidilutive employee-share based awards of 27 million and 28 million for the second quarter and first six months of fiscal 2019, respectively. For the second quarter and first six months of fiscal 2018, we excluded the impact of potentially dilutive common shares from the calculation of net income (loss) per share as the inclusion would have an antidilutive effect. 
+
+
+
+49
+

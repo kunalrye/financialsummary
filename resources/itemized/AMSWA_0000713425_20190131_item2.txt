@@ -1,0 +1,687 @@
+Item 2.Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+
+
+FORWARD-LOOKING STATEMENTS
+
+
+
+This quarterly report on Form 10-Q (this “Quarterly Report”) contains forward-looking statements relating to our future financial performance, business strategy, financing plans and other future events that involve uncertainties and risks. You can identify these statements by forward-looking words such as “anticipate,” “intend,” “plan,” “continue,” “could,” “grow,” “may,” “potential,” “predict,” “strive” “will,” “seek,” “estimate,” “believe,” “expect,” and similar expressions that convey uncertainty of future events or outcomes. Any forward-looking statements we make herein are pursuant to the safe harbor provision of the Private Securities Litigation Reform Act of 1995. Forward-looking statements include statements concerning future:
+
+
+
+•results of operations;
+
+
+
+•liquidity, cash flow and capital expenditures;
+
+
+
+•demand for and pricing of our products and services;
+
+
+
+•annual contract value (“ACV”);
+
+
+
+•viability and effectiveness of strategic alliances;
+
+
+
+•industry conditions and market conditions;
+
+
+
+•acquisition activities and the effect of completed acquisitions; and
+
+
+
+•general economic conditions.
+
+
+
+Although we believe that the goals, plans, expectations, and prospects that our forward-looking statements reflect are reasonable in view of the information currently available to us, those statements are not guarantees of performance. There are many factors that could cause our actual results to differ materially from those anticipated by forward-looking statements made herein. These factors include, but are not limited to, continuing U.S. and global economic uncertainty, the timing and degree of business recovery, unpredictability and the irregular pattern of future revenues, dependence on particular market segments or customers, competitive pressures, delays, product liability and warranty claims and other risks associated with new product development, undetected software errors, market acceptance of our products, technological complexity, the challenges and risks associated with integration of acquired product lines, companies and services, as well as a number of other risk factors that could affect our future performance. All forward-looking statements included in Quarterly Report are based upon information available to us as of the filing date of this Quarterly Report. We undertake no obligation to update any of these forward-looking statements for any reason. These forward-looking statements involve known and unknown risks, uncertainties and other factors that may cause our actual results, levels of activity, performance, or achievements to differ materially from those expressed or implied by these statements. We discuss certain factors in greater detail in “Business Overview” below.
+
+
+
+ECONOMIC OVERVIEW
+
+
+
+Corporate capital spending trends and commitments are the primary determinants of the size of the market for business software. Corporate capital spending is, in turn, a function of general economic conditions in the U.S. and abroad and in particular may be affected by conditions in global credit markets.
+
+
+
+In January 2019, the International Monetary Fund (“IMF”) provided an update to the World Economic Outlook for 2018 and 2019. The update noted that, “Global growth for 2018 is estimated at 3.7 percent, as in the October 2018 World Economic Outlook (WEO) forecast, despite weaker performance in some economies, notably Europe and Asia. The global economy is projected to grow at 3.5 percent in 2019 and 3.6 percent in 2020, 0.2 and 0.1 percentage point below last October’s projections. The global growth forecast for 2019 and 2020 had already been revised downward in the last WEO, partly because of the negative effects of tariff increases enacted in the United States and China earlier that year. The further downward revision since October in part reflects carry over from softer momentum in the second half of 2018—including in Germany following the introduction of new automobile fuel emission standards and in Italy where concerns about sovereign and financial risks have weighed on domestic demand—but also weakening financial market sentiment as well as a contraction in Turkey now projected to be deeper than anticipated."
+
+
+
+For fiscal 2019, we expect the global economy to improve modestly when compared to the prior year. We believe information technology spending will incrementally improve over the long term as increased global competition forces companies to improve productivity by upgrading their technology systems, which could result in an improved selling environment. Although this improvement could slow or regress at any time, due in part to concerns in global capital markets 
+
+
+
+23
+
+and general economic conditions, we believe that our organizational and financial structure will enable us to take advantage of any sustained economic rebound. Customers continue to take long periods to evaluate discretionary software purchases.
+
+
+
+We believe improved economic conditions may be driving some businesses to focus on achieving more process and efficiency enhancements in their operations and to invest in solutions that improve operating margins, rather than make large infrastructure-type technology purchases. If this trend continues, we believe it may tend to favor solutions such as our supply chain solutions, which are designed to provide a more rapid return on investment and are targeted at some of the largest profit drivers in a customer’s business.
+
+
+
+BUSINESS OVERVIEW
+
+
+
+American Software was incorporated as a Georgia corporation in 1970. We develop, market and support a portfolio of software and services that deliver enterprise management and collaborative supply chain solutions to the global marketplace. We have designed our software and services to bring business value to enterprises by supporting their operations over intranets, extranets, client/servers or the Internet. References to “the Company,” “our products,” “our software,” “our services” and similar references include the appropriate business segment actually providing the product or service.
+
+
+
+The SCM segment primarily consists of Logility, which is a leading provider of collaborative supply chain optimization and advanced retail planning solutions that help medium, large and Fortune 500 companies transform their supply chain operations to gain a competitive advantage and which is recognized for its high-touch approach to customer service, rapid implementations and industry-leading return on investment (ROI). The SCM segment also includes (i) DMI, which delivers affordable, easy-to-use Software-as-a-Service (SaaS) supply chain planning solutions designed to increase forecast accuracy, improve customer service and reduce inventory to maximize profits and lower costs, (ii) NGC, which is a leading provider of cloud-based supply chain and product lifecycle management solutions for brands, retailers and consumer products companies, and (iii) Halo, which is an advanced analytics software provider leveraging an innovative blend of artificial intelligence and machine learning technology to drive greater supply chain performance. The IT Consulting segment consists of The Proven Method, Inc., an IT staffing and consulting services firm, which provides support for their customers products, such as software enhancements, documentation, updates, customer education, consulting, systems integration services, maintenance and support services. The Other segment consists of (i) American Software ERP, which provides purchasing and materials management, customer order processing, financial, e-commerce and traditional manufacturing solutions, and (ii) corporate overhead and other common expenses.
+
+
+
+We derive revenues primarily from four sources: software licenses, subscriptions, professional services and other, and maintenance. We generally determine software license and SaaS fees based on the depth of functionality, contractual term, number of production deployments, users and/or sites licensed and/or subscribed. Professional services and other revenues consist primarily of fees from software implementation, training, and consulting services. We bill primarily under time and materials arrangements and recognize revenues as we perform services. SaaS and maintenance agreements typically are for a one- to three-year term, commencing at the time of the initial contract. We generally bill these fees annually in advance under agreements with terms of one to three years, and then recognize the resulting revenues ratably over the term of the agreement. Deferred revenue represents payments or billings for subscriptions, software licenses, services and maintenance in advance of the time we recognize the related revenues.
+
+
+
+Our cost of revenue for licenses includes amortization of capitalized computer software development costs, amortization of acquired developed technology, royalties paid to third-party software vendors, and agent commission expenses related to license revenues generated by the indirect channel, primarily from DMI. Costs for maintenance and services include the cost of personnel to conduct implementations and customer support, consulting, other personnel-related expenses, and agent commission expenses related to maintenance revenues generated by the indirect channel, primarily from DMI. We account for the development costs of software intended for sale in accordance with the Software topic of the FASB ASC. We monitor the net realizable value of our capitalized software on a quarterly basis based on an estimate of future product revenues. We currently expect to fully recover the value of the capitalized software asset recorded on our condensed consolidated balance sheet; however, if future product revenues are less than management’s current expectations, we may incur a write-down of capitalized software costs.
+
+
+
+Our selling expenses mainly include the salary and commissions paid to our sales professionals, along with marketing, promotional, travel and associated costs. Our general and administrative expenses mainly include the salary and benefits paid to executive, corporate and support personnel, as well as facilities-related costs, utilities, communications expenses, and various professional fees.
+
+
+
+We currently view the following factors as the primary opportunities and risks associated with our business:
+
+
+
+24
+
+•Dependence on Capital Spending Patterns. There is risk associated with our dependence on the capital spending patterns of U.S. and international businesses, which in turn are functions of economic trends and conditions over which we have no control.
+
+
+
+•Acquisition Opportunities. There are opportunities for selective acquisitions or investments to expand our sales distribution channels and/or broaden our product offering by providing additional solutions for our target markets.
+
+
+
+•Acquisition Risks. There are risks associated with acquisitions of complementary companies, products and technologies, including the risks that we will not achieve the financial and strategic goals that we contemplate at the time of the transaction. More specifically, in any acquisition we will face risks and challenges associated with the uncertain value of the acquired business or assets, the difficulty of assimilating operations and personnel, integrating acquired technologies and products and maintaining the loyalty of the customers of the acquired business.
+
+
+
+•Competitive Technologies. There is a risk that our competitors may develop technologies that are substantially equivalent or superior to our technology.
+
+
+
+•Competition in General. There are risks inherent in the market for business application software and related services, which has been and continues to be intensely competitive; for example, some of our competitors may become more aggressive with their prices and/or payment terms, which may adversely affect our profit margins.
+
+
+
+A discussion of a number of additional risk factors associated with our business is included in our Annual Report for fiscal 2018. Additional information and other factors that could affect future financial results may be included, from time to time, in our filings with the Securities and Exchange Commission (“SEC”).
+
+
+
+Recent Accounting Pronouncements
+
+
+
+For information with respect to recent accounting pronouncements, if any, and the impact of these pronouncements on our consolidated financial statements, if any, see Note A in the Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report.
+
+
+
+25
+
+COMPARISON OF RESULTS OF OPERATIONS
+
+
+
+Three-Month Comparisons. The following table sets forth certain revenue and expense items as a percentage of total revenues and the percentage changes in those items for the three months ended January 31, 2019 and 2018:
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+26
+
+Nine-Month Comparisons. The following table sets forth certain revenue and expense items as a percentage of total revenues and the percentage changes in those items for the nine months ended January 31, 2019 and 2018:
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+COMPARISON OF RESULTS OF OPERATIONS FOR THE THREE AND NINE MONTHS ENDED JANUARY 31, 2019 AND 2018 REVENUES
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+27
+
+[DATA_TABLE_REMOVED]
+
+
+
+For the three months ended January 31, 2019, the 10% decrease in revenues over the three months ended January 31, 2018 was attributable primarily to a 71% decrease in license revenues and to a lesser extent a 2% decrease in professional fees and other revenues, when compared to the same period last year. This decrease was partially offset by a 43% increase in subscription fees revenues and to a lesser extent a 2% increase in maintenance revenues.
+
+
+
+For the nine months ended January 31, 2019, the 1% decrease in revenues over the nine months ended January 31, 2018 was attributable primarily to a 56% decrease in license revenues, when compared to the same period last year. This decrease was partially offset by a 63% increase in subscription fees revenues, and to a lesser extent a 5% increase in maintenance revenues and a 1% increase in professional services revenues.
+
+
+
+Due to intense competition in our industry, we sometimes discount license fees from our published list price. Numerous factors contribute to the amount of the discount provided, such as previous customer purchases, the number of customer sites utilizing the software, the number of modules purchased and the number of users, as well as the overall size of the contract. While all these factors may affect the discount amount of a particular contract, the overall percentage discount has not materially changed in the recent reported fiscal periods.
+
+
+
+The change in our revenues from period to period is primarily due to the volume of products and related services sold in any period and the number of products or modules purchased with each sale.
+
+
+
+International revenues represented approximately 17% and 19% of total revenues in the three and nine months ended January 31, 2019, respectively and 20% of total revenues in the three and nine months ended January 31, 2018. Our revenues, in particular our international revenues, may fluctuate substantially from period to period primarily because we derive most of our license fee revenues from a relatively small number of customers in a given period.
+
+
+
+License Revenues
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+For the three and nine months ended January 31, 2019, license fee revenues decreased 71% and 56%, respectively, when compared to the same period in the prior year. In the three and nine months ended January 31, 2019, license fee revenues from our SCM segment decreased 71% and 57%, respectively, when compared to the corresponding periods in the prior year due to an increase in sales of our products on Logility’s cloud services platform that require revenue to be deferred over the life of the contracted period, which is typically one to three years. For both the three months and nine months ended January 31, 2019 and 2018, our SCM segment constituted approximately 98% and 99% of total license fee revenues, respectively. Our Other segment license fee revenues decreased by 56% and increased by 30%, respectively, for the three and nine months ended January 31, 
+
+
+
+28
+
+2019 when compared to the same period in the prior year primarily due to timing of additional sales to our existing ERP customers.
+
+
+
+The direct sales channel provided approximately 79% and 87% of license fee revenues for the three and nine months ended January 31, 2019, compared to approximately 91% and 83% in the comparable periods last year. The increase in the percentage of sales by our direct sales channel for the nine months ended January 31, 2019 was due to our indirect channel selling proportionately more SaaS than license contracts compared to our direct channel. For the three and nine months ended January 31, 2019, our margins after commissions on direct sales were approximately 95% and 90%, compared to 88% and 87% in the comparable periods last year. The increase in margins is due to the mix of sales commission rates based on each individual salesperson’s quotas and related achievement. For the three months ended January 31, 2019 and 2018, our margins after commissions on indirect sales were approximately 52% and 32%, respectively. For the nine months ended January 31, 2019 and 2018, our margins after commissions on indirect sales were approximately 54% and 36%, respectively. The indirect channel margins for the current quarter increased compared to the same periods in the prior year due to the mix of value-added reseller (“VAR”) commission rates. These margin calculations include only commission expense for comparative purposes and do not include other costs of license fees such as amortization of capitalized software.
+
+
+
+Subscription Fees
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+For the three and nine months ended January 31, 2019, subscription fees revenues increased by 43% and 63%, respectively, primarily due to the increased subscription fees revenues from our SCM segment which increased sales of our products on our cloud services platform that require revenue to be deferred over the life of the contracted period, which is typically one to three years.
+
+
+
+For the nine months ended January 31, 2019, cloud services ACV increased approximately 49% to $16.2 million compared to $10.9 million in the same period of the prior year due to increased sales of our products on our Cloud Services platform that require revenue to be deferred over the life of the contracted period, which is typically one to three years. ACV is a forward-looking operating measure used by management to better understand cloud services (SaaS and other related cloud services) revenue trends within our business, as it reflects our current estimate of revenue to be generated under existing client contracts in the forward 12-month period.
+
+
+
+Professional Services and other revenues
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+29
+
+[DATA_TABLE_REMOVED]
+
+
+
+For the three and nine months ended January 31, 2019, professional services and other revenues decreased by 2% and increased by 1%, respectively, due to the increased professional services and other revenues from our Other and IT Consulting segments. This increase was partially offset by a decrease in professional services and other revenues from our SCM segment. For the three and nine months ended January 31, 2019, our Other segment’s revenues increased 5% and 16% when compared to the same periods last year. For the three and nine months ended January 31, 2019, our IT Consulting segment’s revenues increased 8% and 15% when compared to the same periods in the prior year due to an increase in project work from existing and new customers. For the three and nine months ended January 31, 2019, our SCM segment’s revenues decreased 10% and 9%, primarily because certain implementation project work ended during the quarter before new projects could start. We have observed that there is a tendency for services and other revenues, other than from IT Consulting, to lag changes in license and subscription revenues by one to three quarters, as new licenses and subscriptions in one quarter often involve implementation and consulting services in subsequent quarters, for which we recognize revenues only as we perform those services.
+
+
+
+Maintenance Revenues
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+For the three and nine months ended January 31, 2019, maintenance revenues increased 2% and 5%, respectively when compared to the same periods in the prior year. Our SCM maintenance revenue increased 2% and 6% for the three and nine months ended January 31, 2019, when compared to the same periods last year due primarily to our recent Halo acquisition in the third quarter of fiscal 2018 and improved customer retention. The SCM segment accounted for 97% of total maintenance revenues for the three and nine months ended January 31, 2019 and accounted for 97% for the same periods in the prior year. Typically, our maintenance revenues have had a direct relationship to current and historic license fee revenues, since new licenses are the potential source of new maintenance customers.
+
+
+
+30
+
+GROSS MARGIN
+
+
+
+The following table provides both dollar amounts (in thousands) and percentage measures of gross margin:
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+For the three and nine months ended January 31, 2019, our total gross margin percentages decreased when compared to the same periods in the prior year primarily due to our lower margins on license fee revenue and professional services and other revenue, partially offset by higher margins on subscription fees and maintenance revenue.
+
+
+
+Gross Margin on License Fees
+
+
+
+License fee gross margin percentage for the three and nine months ended January 31, 2019 decreased when compared to the same period in the prior year. License fee gross margin percentage tends to be directly related to the level of license fee revenues due to the relatively fixed cost of computer software amortization expense, amortization of acquired software and the sales mix between our direct and indirect channels.
+
+
+
+Gross Margin on Subscription Fees
+
+
+
+Our gross margin percentage on subscription fees revenues increased from 60% and 56% for the three and nine months ended January 31, 2018 to 62% and 63% for the three and nine months ended January 31, 2019, respectively, primarily due to the increase in subscription revenue, combined with a lower incremental increase in cost.
+
+
+
+Gross Margin on Professional Services and Other
+
+
+
+Our gross margin percentage on professional services and other revenues remained flat at 24% for the three months ended January 31, 2018 and for the three months ended January 31, 2019. Our gross margin percentage on professional services and other revenues decreased from 29% for the nine months ended January 31, 2018 to 24% for the nine months ended January 31, 2019. This decrease was primarily due to lower gross margins in our SCM segment services of 28% and 32% for the three months ended January 31, 2019 and 2018, and 23% and 31% for the nine months ended January 31, 2019 and 2018, respectively, due to lower billing utilization from several large projects ending during the quarter. Our Other segment professional services gross margin increased from 28% to 51% for the three months ended January 31, 2019 and 2018, respectively, and from 33% to 45% for the nine months ended January 31, 2019 and 2018, due to higher margin projects in the current quarter. Our IT Consulting segment professional services gross margin increased from 23% to 24% for the three months ended January 31, 2019 and 2018, respectively, and 21% to 24% for the nine months ended January 31, 2019 and 2018, due to higher margin projects in the current quarter. Professional services and other gross margin is directly related to the level of services and other revenues. The primary component of cost of services and other revenues is services staffing, which is relatively inelastic in the short term.
+
+
+
+Gross Margin on Maintenance
+
+
+
+Maintenance gross margin percentage increased from 79% and 79% for the three and nine months ended January 31, 2018 to 82% and 81% for the three and nine months ended January 31, 2019, respectively, mainly due to an increase in maintenance revenue. The primary cost component is maintenance staffing, which is relatively inelastic in the short term.
+
+
+
+31
+
+EXPENSES
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Research and Development
+
+
+
+Gross product research and development costs include all non-capitalized and capitalized software development costs. A breakdown of the research and development costs is as follows:
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+*Included in cost of license fees and subscription fees.
+
+
+
+For the three and nine months ended January 31, 2019, gross product research and development costs increased 18% and 17%, respectively, when compared to the same periods in the previous year due partially to the recent Halo acquisition in the third quarter of fiscal 2018 and increased headcount in our SCM segment. We expect capitalized product development costs to decrease due to timing of projects and we expect capitalized software amortization expense to be relatively stable in coming quarters. Costs included in gross product development are salaries of product development personnel, hardware lease expense, computer software expense, telephone expense and rent.
+
+
+
+Sales and Marketing
+
+
+
+For the three and nine months ended January 31, 2019, sales and marketing expenses decreased 13% and increased 1%, respectively, when compared to the same periods a year ago, primarily due to lower commissions in the current quarter due to lower sales revenue and an increase in headcount for the nine months ended January 31, 2019 when compared to the same periods last year.
+
+
+
+32
+
+General and Administrative
+
+
+
+For the three and nine months ended January 31, 2019, general and administrative expenses increased 1% and 13%, respectively, when compared to the same periods a year ago, primarily due to the recent Halo acquisition in the third quarter of fiscal 2018.
+
+
+
+At January 31, 2019, the total number of employees was 452 compared to 440 at January 31, 2018.
+
+
+
+Operating Income/(Loss)
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+*Includes all corporate overhead and other common expenses in fiscal 2019.
+
+
+
+Our SCM segment operating income decreased by 17% and 23% in the three and nine months ended January 31, 2019 compared to the same periods in the prior year primarily due to the recent Halo acquisition in the third quarter of fiscal 2018.
+
+
+
+Our IT Consulting segment’s operating income increased by 32% and 29% for the three and nine months ended January 31, 2019 compared to same periods last year primarily due to increased revenues and gross margins.
+
+
+
+Our Other segment operating loss increased by 59% and 67% for the three and nine months ended January 31, 2019 when compared to the same periods in the prior year because all corporate overhead and common expenses are included in this segment in fiscal 2019.
+
+
+
+Other Income
+
+
+
+Other income is comprised of net interest and dividend income, rental income, exchange rate gains and losses, and realized and unrealized gains and losses from investments. For the three and nine months ended January 31, 2019, the decrease in other income is mainly due to higher unrealized losses on investments when compared to the same periods last year. We recorded losses of approximately $80,000 and $393,000 for the three and nine months ended January 31, 2019, respectively, from our trading securities portfolio. We recorded gains of approximately $997,000 and $1,378,000 the three and nine months ended January 31, 2018, respectively, from our trading securities portfolio.
+
+
+
+For the three and nine months ended January 31, 2019, our investments generated an annualized yield of approximately 1.33% and 1.38%, respectively, compared to approximately 1.34% and 1.37% for the three and nine months ended January 31, 2018, respectively.
+
+
+
+Income Taxes
+
+
+
+We recognize deferred tax assets and liabilities based on the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their tax bases. We measure deferred tax assets and liabilities using statutory tax rates in effect in the year in which we expect the differences to reverse. We establish a deferred tax asset for the expected future benefit of net operating loss and credit carry-forwards. Under the Income Tax Topic of the FASB ASC, we cannot recognize a deferred tax asset for the future benefit of our net operating losses, tax credits and temporary differences unless we can establish that it is “more likely than not” that the deferred tax asset would be realized.
+
+
+
+During the three and nine months ended January 31, 2019, we recorded income tax expense of $356,000 and $424,000, respectively, primarily due to discrete stock compensation shortfalls of $26,000 and discrete stock compensation benefits of $260,000, respectively, net of normal income tax expense from operations. Before adjusting for these discrete tax benefits, our effective tax rate would have been 14.3% and 13.7%, respectively, in the three and nine months ended January 31, 2019 compared to our tax effective rate of 22.5% and 29.8% in the three and nine months ended January 31, 2018. The Tax Cuts and Jobs Act enacted on December 22, 2017, which lowered our U.S. statutory federal income tax rate from 35% to 21%, was the primary driver of the reduction in our effective tax rate. In addition, research and development and foreign tax credits reduced our effective tax rate by 7.5% and 2.7%, respectively, in the nine months ended January 31, 2019, compared to reductions of 3% and 1%, respectively, in the nine months ended January 31, 2018.
+
+
+
+33
+
+Operating Pattern
+
+
+
+We experience an irregular pattern of quarterly operating results, caused primarily by fluctuations in both the number and size of software license and subscription contracts received and delivered from quarter to quarter and our ability to recognize revenues in that quarter in accordance with our revenue recognition policies. We expect this pattern to continue.
+
+
+
+LIQUIDITY, CAPITAL RESOURCES AND FINANCIAL CONDITION
+
+
+
+Sources and Uses of Cash
+
+
+
+We have historically funded, and continue to fund, our operations and capital expenditures primarily with cash generated from operating activities. The changes in net cash that our operating activities provide generally reflect the changes in net earnings and non-cash operating items plus the effect of changes in operating assets and liabilities, such as investment trading securities, trade accounts receivable, trade accounts payable, accrued expenses and deferred revenue. We have no debt obligations or off-balance sheet financing arrangements, and therefore, we used no cash for debt service purposes.
+
+
+
+The following table shows information about our cash flows and liquidity positions during the nine months ended January 31, 2019 and 2018. You should read this table and the discussion that follows in conjunction with our condensed consolidated statements of cash flows contained in “Item 1” in Part I of this Quarterly Report and in our Annual Report for fiscal 2018.
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+For the nine months ended January 31, 2019, the net increase in cash provided by operating activities when compared to the same period last year was due primarily to the following: (1) a decrease in purchases of trading securities, (2) a relative decrease in prepaid expenses when compared to the same period in the prior year due to the timing of purchases, (3) a relative decrease in customer accounts receivables caused by the timing of closing customer sales and related collections, (4) a loss on investments compared to a gain in the same period last year, (5) higher proceeds from the maturity and sales of trading securities, (6) an increase in depreciation and amortization and (7) an increase in stock-based compensation expense.
+
+
+
+This increase in cash provided by operating activities was partially offset by: (1) a decrease in net earnings, (2) a relative decrease in deferred revenue due to timing of revenue recognition, (3) a relative decrease in accounts payable and other accruals due to timing of payments and (4) a decrease in deferred income tax.
+
+
+
+The decrease in cash used in investing activities when compared to the same period in the prior year was mainly due to the Halo acquisition in fiscal 2018, partially offset by an increase in purchases of property and equipment and higher capitalized computer software development costs.
+
+
+
+The increase in cash used in financing activities compared to the prior year was due primarily to an increase in dividends paid and a decrease in proceeds from exercise of stock options.
+
+
+
+The following table shows net changes in total cash, cash equivalents, and investments, which is one measure management uses to understand net total cash generated by our activities:
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+34
+
+Our total activities used more cash and investments during the nine months ended January 31, 2019, when compared to the prior year period, primarily due to normal business operations.
+
+
+
+Days Sales Outstanding in accounts receivable were 78 days as of January 31, 2019, compared to 70 days as of January 31, 2018. This increase is primarily due to the timing of billings and cash collections. Our current ratio on January 31, 2019 was 2.7 to 1 and on January 31, 2018 was 2.3 to 1.
+
+
+
+Our business in recent periods has generated substantial positive cash flow from operations, excluding purchases and proceeds of sale of trading securities. For this reason, and because we had $84.2 million in cash and investments with no debt as of January 31, 2019, we believe that our sources of liquidity and capital resources will be sufficient to satisfy our presently anticipated requirements during at least the next twelve months for working capital, capital expenditures and other corporate needs. However, at some future date we may need to seek additional sources of capital to meet our requirements. If such need arises, we may be required to raise additional funds through equity or debt financing. We do not currently have a bank line of credit. We can provide no assurance that bank lines of credit or other financing will be available on terms acceptable to us. If available, such financing may result in dilution to our shareholders or higher interest expense.
+
+
+
+On August 19, 2002, our Board of Directors approved a resolution authorizing the repurchase of up to an additional 2.0 million shares of our Class A common stock. We have made and will make these repurchases through open market purchases at prevailing market prices. The timing of any repurchase will depend upon market conditions, the market price of our common stock and management’s assessment of our liquidity and cash flow needs. Under this repurchase plan, through January 31, 2019, we have repurchased 1,053,679 shares of common stock at a cost of approximately $6.2 million. As of January 31, 2019, under all repurchase plans previously authorized, including this most recent plan, we have repurchased a total of 4,588,632 shares of common stock at a cost of approximately $25.6 million.
+
+
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+
+
+We have based the foregoing discussion and analysis of financial condition and results of operations on our condensed consolidated financial statements, which we have prepared in accordance with U.S. generally accepted accounting principles. The preparation of these condensed consolidated financial statements requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, and disclosures of contingent assets and liabilities at the date of the condensed consolidated financial statements and the reported amounts of revenues and expenses during the reporting period. Note 1 in the Notes to the Consolidated Financial Statements in our Annual Report for fiscal 2018, describes the significant accounting policies that we have used in preparing our consolidated financial statements. On an ongoing basis, we evaluate our estimates, including, but not limited to, those related to revenue/collectability, stock-based compensation and income taxes. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Our actual results could differ materially from these estimates under different assumptions or conditions.
+
+
+
+We believe the critical accounting policies listed below affect significant judgments and estimates used in the preparation of the condensed consolidated financial statements.
+
+
+
+Revenue Recognition. For information with respect to revenue recognition policy, see Notes A and B in the Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report.
+
+
+
+Stock-Based Compensation. We estimate the value of options granted on the date of grant using the Black-Scholes option pricing model. Management’s judgments and assumptions related to volatility, the expected term and the forfeiture rate are made in connection with the calculation of stock-based compensation expense. We periodically review all assumptions used in our stock option pricing model. Changes in these assumptions could have a significant impact on the amount of stock-based compensation expense.
+
+
+
+Income Taxes. We provide for the effect of income taxes on our financial position and results of operations in accordance with the Income Tax Topic of the FASB ASC. Under this accounting guidance, income tax expense is recognized for the amount of income taxes payable or refundable for the current year and for the change in net deferred tax assets or liabilities resulting from events that are recorded for financial reporting purposes in a different reporting period than recorded in the tax return. Management must make significant assumptions, judgments and estimates to determine our current provision for income taxes and also our deferred tax assets and liabilities and any valuation allowance to be recorded against our net deferred tax asset. Our judgments, assumptions and estimates relative to the current provision for income tax take into account current tax laws, our interpretation of current tax laws, allowable deductions, and projected tax credits. Changes in tax law or our interpretation of tax 
+
+
+
+35
+
+laws could significantly impact the amounts provided for income taxes in our financial position and results of operations. Our assumptions, judgments and estimates relative to the value of our deferred tax assets take into account our expectations of the amount and category of future taxable income. Actual operating results and the underlying amount and category of income in future years, which could significantly increase tax expense, could render inaccurate our current assumptions, judgments and estimates of recoverable net deferred taxes.
+
+
+
+36
+
+Item 3Quantitative and Qualitative Disclosures About Market Risk
+
+
+
+Foreign Currency. In each of the three and nine months ended January 31, 2019, we generated approximately 17% and 19% of our revenues, respectively, outside the United States. We typically make international sales through our foreign branches or Logility and denominate those sales in U.S. dollars, British pounds sterling or euros. However, expenses incurred in connection with these sales are typically denominated in the local currencies. We recorded exchange rate losses of approximately $21,000 and of $375,000 for the three and nine months ended January 31, 2019, respectively, compared to an exchange rate gain of approximately $75,000 for both the three months and nine months ended January 31, 2018, respectively. We estimate that a 10% movement in foreign currency rates would have had the effect of creating up to a $390,000 and $430,000 exchange rate gain or loss for the three and nine months ended January 31, 2019, respectively. We have not engaged in any hedging activities.
+
+
+
+Interest Rates and Other Market Risks. We have no debt, and therefore limit our discussion of interest rate risk to risk associated with our investment profile. We manage our interest rate risk by maintaining an investment portfolio of trading investments with high credit quality and relatively short average maturities. These instruments include, but are not limited to, money-market instruments, bank time deposits, and taxable and tax-advantaged variable rate and fixed rate obligations of corporations, municipalities, and national, state, and local government agencies, in accordance with an investment policy approved by our Board of Directors. These instruments are denominated in U.S. dollars. The fair market value of these instruments as of January 31, 2019 was approximately $78.3 million compared to $84.0 million as of January 31, 2018.
+
+
+
+We also hold cash balances in accounts with commercial banks in the United States and foreign countries. These cash balances represent operating balances only and are invested in short-term time deposits of the local bank. Such operating cash balances held at banks outside the United States are denominated in the local currency and are minor.
+
+
+
+Many of our investments carry a degree of interest rate risk. When interest rates fall, our income from investments in variable-rate securities declines. When interest rates rise, the fair market value of our investments in fixed-rate securities declines. In addition, our investments in equity securities are subject to stock market volatility. Due in part to these factors, our future investment income may fall short of expectations or we may suffer losses in principal if forced to sell securities, which have seen a decline in market value due to changes in interest rates. We attempt to mitigate risk by holding fixed-rate securities to maturity, but, if our liquidity needs force us to sell fixed-rate securities prior to maturity, we may experience a loss of principal.
+
+
+
+Inflation. Although we cannot accurately determine the amounts attributable thereto, we have been affected by inflation through increased costs of employee compensation and other operational expenses. To the extent permitted by the marketplace for our products and services, we attempt to recover increases in costs by periodically increasing prices.
+
+
+
+37
+
+Item 4.Controls and Procedures
+
+
+
+Management’s Report on Internal Control Over Financial Reporting
+
+
+
+Our disclosure controls and procedures (as defined in Rule 13a-15(e) of the Securities Exchange Act of 1934 (“Exchange Act”)) are designed to provide reasonable assurance that information required to be disclosed in our reports filed or submitted under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC rules and forms. Our disclosure controls and procedures are also designed to ensure that such information is accumulated and communicated to our management, including our principal executive officer and principal financial officer, to allow timely decisions regarding disclosure.
+
+
+
+Our principal executive officer and principal financial officer, with the assistance of our Disclosure Committee, have conducted an evaluation of the effectiveness of our disclosure controls and procedures as of the end of the period covered by this Quarterly Report. We perform this evaluation on a quarterly basis so that the conclusions concerning the effectiveness of our disclosure controls and procedures can be reported in our Annual Report and Quarterly Reports. Based on this evaluation, our principal executive officer and principal financial officer have concluded that our disclosure controls and procedures were effective as of the end of the period covered by this Quarterly Report.
+
+
+
+Changes in Internal Control over Financial Reporting
+
+
+
+We adopted and implemented Topic 606 in the first quarter of fiscal 2019, which impacted our condensed consolidated balance sheet and our ongoing revenue recognition. See Notes A and B within the Notes to Condensed Consolidated Financial Statements for more information on the impact of adopting Topic 606 and ongoing considerations. In connection with the adoption of Topic 606, we modified our internal control over financial reporting (as this term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act), including our accounting policies and procedures, operational processes and documentation practices. These modifications included:
+
+
+
+•updates to our policies and procedures for revenue recognition, including assessment of SSP and documentation processes related to meeting the new criteria for revenue recognition;
+
+
+
+•changes to our contract review controls to take into account the new criteria for recognizing revenue, with specific focus on assessing whether the allocation objective is met;
+
+
+
+•the addition of controls for reviewing recoverability of contract assets and reevaluation of our significant contract judgments and estimates on a periodic basis; and
+
+
+
+•the addition of controls to address related required disclosures, including processes to evaluate changes in contract assets and liabilities and disaggregation of revenue.
+
+
+
+Other than as described above relating to the adoption of Topic 606, there have been no changes in our internal control over financial reporting during the most recent fiscal quarter that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+
+
+38
+
+PART II—OTHER INFORMATION
+
+
+
+Item 1.Legal Proceedings
+
+
+
+We are not currently involved in legal proceedings requiring disclosure under this item.
+
+
+
+Item 1A.Risk Factors
+
+
+
+In addition to the other information set forth in this Quarterly Report, you should carefully consider the risk factors disclosed in Item 1A, “Risk Factors,” of our Annual Report for fiscal 2018. There have been no material changes to the risk factors as previously disclosed in such Annual Report.
+
+
+
+Item 2.Unregistered Sales of Equity Securities and Use of Proceeds
+
+
+
+None
+
+
+
+Item 3.Defaults Upon Senior Securities
+
+
+
+Not applicable.
+
+
+
+Item 4.Mine Safety Disclosures
+
+
+
+Not applicable.
+
+
+
+Item 5.Other Information
+
+
+
+None.
+
+
+
+Item 6.Exhibits
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+______________
+
+
+
+(1)Incorporated by reference herein. Filed by the Company as an exhibit to its Quarterly Report filed on Form 10-Q for the quarter ended October 31, 1990. (P) Filed in paper format.
+
+
+
+(2)Incorporated by reference herein. Filed by the Company as Exhibit 3.1 to its Quarterly Report filed on Form 10-Q for the quarter ended January 31, 2010.
+
+
+
+39
+
+SIGNATURES
+
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+40

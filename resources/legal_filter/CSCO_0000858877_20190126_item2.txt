@@ -1,0 +1,1091 @@
+We undertake no obligation to revise or update any forward-looking statements for any reason.
+OVERVIEW
+
+
+
+Cisco designs and sells a broad range of technologies that have been powering the Internet since 1984.
+Across networking, security, collaboration, applications and the cloud, our evolving intent-based technologies are constantly learning and adapting to provide customers with a highly secure, intelligent platform for their digital business.
+A summary of our results is as follows (in millions, except percentages and per-share amounts):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+NM - Not meaningful; we recognized a net loss for the second quarter and first six months of fiscal 2018 related to the enactment of the Tax Cuts and Jobs Act.
+We adopted ASC 606 in the first quarter of fiscal 2019 using the modified retrospective method.
+See Note 2 to the Consolidated Financial Statements for impact of this adoption on our operating results for the second quarter and first six months of fiscal 2019.
+(1) During the second quarter of fiscal 2019, we completed the sale of our Service Provider Video Software Solutions (“SPVSS”) business.
+As a result, revenue from this business will not recur in future periods.
+Includes SPVSS business revenue of $0 and $230 million for the second quarter of fiscal 2019 and 2018, respectively, and $168 million and $478 million for the first six months of fiscal 2019 and 2018, respectively.
+(2) Second quarter and first six months of fiscal 2018 results include an $11.1 billion charge related to the enactment of the Tax Cuts and Jobs Act.
+50
+
+
+
+Table of Contents 
+
+
+
+CISCO SYSTEMS, INC.
+
+
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+
+
+Three Months Ended January 26, 2019 Compared with Three Months Ended January 27, 2018
+
+
+
+In the second quarter of fiscal 2019, we delivered revenue growth across all geographies and product areas, solid margins and operating cash flow.
+While the overall environment remains uncertain, we continue to aggressively invest in priority areas with the objective of driving profitable growth over the long term.
+Total revenue increased by 5% compared with the second quarter of fiscal 2018.
+Within total revenue, product revenue increased by 6% and service revenue was flat.
+In the second quarter of fiscal 2019, on October 28, 2018, we completed the sale of our SPVSS business.
+Total revenue for the second quarter of fiscal 2019 increased 7% not including revenue from SPVSS business in the prior year period.
+Operating income as a percentage of revenue decreased by 0.1 percentage points.
+The net loss and net loss per share in the prior year period were driven by the one-time transition tax on accumulated earnings of foreign subsidiaries, foreign withholding taxes, and re-measurement of net deferred tax assets and liabilities recorded during the second quarter of fiscal 2018.
+In terms of our geographic segments, revenue from the Americas increased $348 million, EMEA revenue increased by $161 million, and revenue in our APJC segment increased by $52 million.
+These increases reflect broad strength across several countries within these segments.
+The “BRICM” countries experienced product revenue growth of 5% in the aggregate, driven by increased product revenue in the emerging countries of Mexico, India, Brazil and Russia of 35%, 18%, 14% and 4%, respectively, partially offset by a product revenue decrease of 16% in China.
+From a customer market standpoint, we experienced product revenue growth in the public sector, enterprise and commercial markets, partially offset by a product revenue decline in the service provider market.
+From a product category perspective, total product revenue, not including SPVSS products in the prior year period, increased 9% year over year.
+The increase was driven by a 6% product revenue increase in Infrastructure Platforms and solid product revenue growth in Applications and Security, which grew by 24% and 18% respectively.
+51
+
+
+
+Table of Contents 
+
+
+
+CISCO SYSTEMS, INC.
+
+
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+
+
+Six Months Ended January 26, 2019 Compared with Six Months Ended January 27, 2018 
+
+
+
+Total revenue increased 6%, with product revenue increasing 8% and service revenue increasing 2%.
+Total gross margin increased by 0.3 percentage points due to productivity benefits and a $127 million legal and indemnification settlement charge recorded in the first six months of fiscal 2018, partially offset by unfavorable impacts from pricing.
+General and administrative expenses decreased due to a benefit from the $400 million litigation settlement with Arista in the first quarter of fiscal 2019.
+Operating income as a percentage of revenue increased by 3.2 percentage points.
+The net loss and net loss per share in the prior year period were driven by similar factors as discussed in the three-month period immediately above.
+Strategy and Priorities 
+
+
+
+As our customers add billions of new connections to their enterprises, and as more applications move to a multi-cloud environment, we believe the network continues to be extremely critical.
+We believe that our customers are looking for intent-based networks that provide meaningful business value through automation, security, and analytics across private, hybrid, and multi-cloud environments.
+Our vision is to deliver highly secure, software-defined, automated and intelligent platforms for our customers.
+Our strategic priorities include the following: accelerating our pace of innovation, increasing the value of the network, and transforming our business model.
+For additional discussion of our strategy and priorities, see Item 1. Business in our Annual Report on Form 10-K for the year ended July 28, 2018.
+Note 2 to the Consolidated Financial Statements in our Annual Report on Form 10-K for the year ended July 28, 2018, as updated as applicable in Note 2 to the Consolidated Financial Statements herein, describes the significant accounting policies and methods used in the preparation of the Consolidated Financial Statements.
+The accounting policies described below are significantly affected by critical accounting estimates.
+Revenue Recognition 
+
+
+
+In May 2014, the FASB issued ASC 606, Revenue from Contracts with Customers, a new accounting standard related to revenue recognition.
+ASC 606 supersedes nearly all U.S. GAAP on revenue recognition and eliminated industry-specific guidance.
+The underlying principle of ASC 606 is to recognize revenue when a customer obtains control of promised goods or services at an amount that reflects the consideration that is expected to be received in exchange for those goods or services.
+ASC 606 allowed two methods of adoption: i) retrospectively to each prior period presented (“full retrospective method”), or ii) retrospectively with the cumulative effect recognized in retained earnings as of the date of adoption (“modified retrospective method”).
+At the beginning of our first quarter of fiscal 2019, we adopted ASC 606 using the modified retrospective method to those contracts that were not completed as of July 28, 2018.
+ASC 606 primarily impacted our revenue recognition for software arrangements and sales to two-tier distributors.
+In both areas, the new standard accelerates the recognition of revenue.
+We enter into contracts with customers that can include various combinations of products and services which are generally distinct and accounted for as separate performance obligations.
+As a result, our contracts may contain multiple performance obligations.
+We determine whether arrangements are distinct based on whether the customer can benefit from the product or service on its own or together with other resources that are readily available and whether our commitment to transfer the product or service to the customer is separately identifiable from other obligations in the contract.
+We classify our hardware, perpetual software licenses, and SaaS as distinct performance obligations.
+Term software licenses represent multiple obligations, which include software licenses and software maintenance.
+Transfer of control occurs once the customer has the contractual right to use the product, generally upon shipment or once delivery and risk of loss has transferred to the customer.
+Transfer of control can also occur over time for software maintenance and services as the customer receives the benefit over the contract term.
+Term software licenses include multiple performance obligations where the term licenses are recognized upfront upon transfer of control, with the associated software maintenance revenue recognized ratably over the contract term as services and software updates are provided.
+SaaS arrangements have one distinct performance obligation which is satisfied over time with revenue recognized ratably over the contract term as the customer consumes the services.
+On our product sales, we record consideration from shipping and handling on a gross basis within net product sales.
+Revenue is allocated among these performance obligations in a manner that reflects the consideration that we expect to be entitled to for the promised goods or services based on standalone selling prices (SSP).
+SSP is estimated for each distinct performance obligation and judgment may be required in their determination.
+The best evidence of SSP is the observable price of a product or service when we sell the goods separately in similar circumstances and to similar customers.
+In instances where SSP is not directly observable, we determine SSP using information that may include market conditions and other observable inputs.
+We apply judgment in determining the transaction price as we may be required to estimate variable consideration when determining the amount of revenue to recognize.
+Variable consideration includes various rebate, cooperative marketing, and other incentive programs that we offer to our distributors, partners and customers.
+See Notes 2 and 3 to the Consolidated Financial Statements for more details.
+53
+
+
+
+Table of Contents 
+
+
+
+CISCO SYSTEMS, INC.
+
+
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+
+
+Allowances for Receivables and Sales Returns
+
+
+
+The allowances for receivables were as follows (in millions, except percentages):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+(1) Calculated as allowance for credit loss on lease receivables as a percentage of gross lease receivables and residual value before unearned income.
+The allowance for doubtful accounts is based on our assessment of the collectibility of customer accounts.
+We also consider the concentration of receivables outstanding with a particular customer in assessing the adequacy of our allowances for doubtful accounts.
+The allowance for credit loss on financing receivables is also based on the assessment of collectibility of customer accounts.
+We regularly review the adequacy of the credit allowances determined either on an individual or a collective basis.
+When evaluating the financing receivables on an individual basis, we consider historical experience, credit quality and age of receivable balances, and economic conditions that may affect a customer’s ability to pay.
+Determining expected default frequency rates and loss factors associated with internal credit risk ratings, as well as assessing factors such as economic conditions, concentration of risk, and correlation, are complex and subjective.
+Both accounts receivable and financing receivables are charged off at the point when they are considered uncollectible.
+A reserve for future sales returns is established based on historical trends in product return rates.
+The reserve for future sales returns as of January 26, 2019 and July 28, 2018 was $92 million and $123 million, respectively, and was recorded as a reduction of our accounts receivable and revenue.
+Inventory Valuation and Liability for Purchase Commitments with Contract Manufacturers and Suppliers
+
+
+
+Inventory is written down based on excess and obsolete inventories, determined primarily by future demand forecasts.
+At the point of the loss recognition, a new, lower cost basis for that inventory is established, and subsequent changes in facts and circumstances do not result in the restoration or increase in that newly established cost basis.
+Our provision for inventory was $23 million and $31 million for the first six months of fiscal 2019 and 2018, respectively.
+The provision for the liability related to purchase commitments with contract manufacturers and suppliers was $48 million and $44 million for the first six months of fiscal 2019 and 2018, respectively.
+We regularly evaluate our exposure for inventory write-downs and the adequacy of our liability for purchase commitments.
+These assertions have increased over time as a result of our growth and the general increase in the pace of patent claims assertions, particularly in the United States.
+Our products are generally covered by a warranty for periods ranging from 90 days to five years, and for some products we provide a limited lifetime warranty.
+Overhead cost is applied based on estimated time to support warranty activities.
+Impairment of Investments 
+
+
+
+We recognize an impairment charge when the declines in the fair values of our available-for-sale debt investments below their cost basis are judged to be other than temporary.
+The ultimate value realized on these securities, to the extent unhedged, is subject to market price volatility until they are sold.
+If the fair value of a debt security is less than its amortized cost, we assess whether the impairment is other than temporary.
+An impairment is considered other than temporary if (i) we have the intent to sell the security, (ii) it is more likely than not that we will be required to sell the security before recovery of its entire amortized cost basis, or (iii) we do not expect to recover the entire amortized cost of the security.
+If an impairment is considered other than temporary based on (i) or (ii) described in the prior sentence, the entire difference between the amortized cost and the fair value of the security is recognized in earnings.
+If an impairment is considered other than temporary based on condition (iii), the amount representing credit loss, defined as the difference between the present value of the cash flows expected to be collected and the amortized cost basis of the debt security, will be recognized in earnings, and the amount relating to all other factors will be recognized in other comprehensive income (OCI).
+In estimating the amount and timing of cash flows expected to be collected, we consider all available information, including past events, current conditions, the remaining payment terms of the security, the financial condition of the issuer, expected defaults, and the value of underlying collateral.
+We hold non-marketable equity and other investments, some of which are in the startup or development stages.
+As of January 26, 2019, our non-marketable equity and other investments were $1.3 billion, compared with $1.1 billion as of July 28, 2018, and were included in other assets.
+Goodwill and Purchased Intangible Asset Impairments
+
+
+
+Our methodology for allocating the purchase price relating to purchase acquisitions is determined through established valuation techniques.
+Goodwill represents a residual value as of the acquisition date, which in most cases results in measuring goodwill as an excess of the purchase consideration transferred plus the fair value of any noncontrolling interest in the acquired company over the fair value of net assets acquired, including contingent consideration.
+We perform goodwill impairment tests on an annual basis in the fourth fiscal quarter and between annual tests in certain circumstances for each reporting unit.
+The assessment of fair value for goodwill and purchased intangible assets is based on factors that market participants would use in an orderly transaction in accordance with the new accounting guidance for the fair value measurement of nonfinancial assets.
+55
+
+
+
+Table of Contents 
+
+
+
+CISCO SYSTEMS, INC.
+
+
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+
+
+The goodwill recorded in the Consolidated Balance Sheets as of January 26, 2019 and July 28, 2018 was $33.3 billion and $31.7 billion, respectively.
+There was no impairment of goodwill in each of the first six months of fiscal 2019 and 2018.
+The fair value of acquired technology and patents, as well as acquired technology under development, is determined at acquisition date primarily using the income approach, which discounts expected future cash flows to present value.
+We consider the pricing model for products related to these acquisitions to be standard within the high-technology communications industry, and the applicable discount rates represent the rates that market participants would use for valuation of such intangible assets.
+Recoverability of purchased intangible assets with finite lives is measured by comparing the carrying amount of the asset to the future undiscounted cash flows the asset is expected to generate.
+We review indefinite-lived intangible assets for impairment annually or whenever events or changes in circumstances indicate that the asset might be impaired.
+If the asset is considered to be impaired, the amount of any impairment is measured as the difference between the carrying value and the fair value of the impaired asset.
+There were no impairment charges related to purchased intangible assets for the first six months of fiscal 2019 and 2018.
+Our effective tax rate was 15.6% and 371.6% in the second quarter of fiscal 2019 and 2018, respectively.
+Our effective tax rate was 12.1% and 203.1% in the first six months of fiscal 2019 and 2018, respectively.
+This benefit may be reduced or eliminated in future legislation.
+If such legislation is enacted, we will record the impact of the legislation in the quarter of enactment.
+The provision for income taxes includes the impact of reserve provisions and changes to reserves that are considered appropriate, as well as the related net interest and penalties.
+Significant judgment is required to determine the recognition and measurement attributes prescribed in the accounting guidance for uncertainty in income taxes.
+The Organisation for Economic Co-operation and Development (OECD), an international association comprised of 36 countries, including the United States, has made changes to numerous long-standing tax principles.
+57
+
+
+
+Table of Contents 
+
+
+
+CISCO SYSTEMS, INC.
+
+
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+
+
+RESULTS OF OPERATIONS
+
+
+
+Revenue
+
+
+
+The following table presents the breakdown of revenue between product and service (in millions, except percentages):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+(1) Total revenue, product revenue and service revenue not including the SPVSS business in the prior year period increased 7%, 9% and 1%, respectively.
+We manage our business primarily on a geographic basis, organized into three geographic segments.
+Our revenue, which includes product and service for each segment, is summarized in the following table (in millions, except percentages):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Amounts may not sum and percentages may not recalculate due to rounding.
+Three Months Ended January 26, 2019 Compared with Three Months Ended January 27, 2018
+
+
+
+Total revenue increased by 5%.
+Product revenue increased by 6% while service revenue was flat.
+Our total revenue reflected growth across each of our geographic segments.
+Product revenue for the emerging countries of BRICM, in the aggregate, experienced 5% product revenue growth, with increases in Mexico, India, Brazil and Russia partially offset by a decrease in China.
+Six Months Ended January 26, 2019 Compared with Six Months Ended January 27, 2018 
+
+
+
+Total revenue increased by 6%.
+Product revenue increased by 8% and service revenue increased by 2%.
+Our total revenue reflected growth across each of our geographic segments.
+Product revenue for the emerging countries of BRICM, in the aggregate, experienced 14% product revenue growth, with increases in Mexico, India, Russia and Brazil, partially offset by decrease in China.
+58
+
+
+
+Table of Contents 
+
+
+
+CISCO SYSTEMS, INC.
+
+
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+
+
+Product Revenue by Segment
+
+
+
+The following table presents the breakdown of product revenue by segment (in millions, except percentages):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Amounts may not sum and percentages may not recalculate due to rounding.
+Americas 
+
+
+
+Three Months Ended January 26, 2019 Compared with Three Months Ended January 27, 2018
+
+
+
+Product revenue in the Americas segment increased by 7%, led by solid growth in the public sector, enterprise and commercial markets, partially offset by a decline in the service provider market.
+From a country perspective, product revenue increased by 7% in the United States, 35% in Mexico, 11% in Canada and 14% in Brazil.
+Six Months Ended January 26, 2019 Compared with Six Months Ended January 27, 2018 
+
+
+
+The increase in product revenue in the Americas segment was led by growth in the enterprise, public sector and commercial markets.
+These increases were partially offset by a product revenue decline in the service provider market.
+From a country perspective, product revenue increased by 7% in the United States, 48% in Mexico, 16% in Canada and 7% in Brazil.
+EMEA
+
+
+
+Three Months Ended January 26, 2019 Compared with Three Months Ended January 27, 2018
+
+
+
+Product revenue in the EMEA segment increased by 6%, with growth in the public sector, enterprise and commercial markets partially offset by a decline in the service provider market.
+Product revenue from emerging countries within EMEA was flat and product revenue for the remainder of the EMEA segment, which primarily consists of countries in Western Europe, increased by 8%.
+Six Months Ended January 26, 2019 Compared with Six Months Ended January 27, 2018 
+
+
+
+Product revenue in the EMEA segment increased by 9%, with growth across each of the customer markets in this geographic segment.
+Product revenue from emerging countries within EMEA increased by 5% and product revenue for the remainder of the EMEA segment increased by 11%.
+59
+
+
+
+Table of Contents 
+
+
+
+CISCO SYSTEMS, INC.
+
+
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+
+
+APJC
+
+
+
+Three Months Ended January 26, 2019 Compared with Three Months Ended January 27, 2018
+
+
+
+Product revenue in the APJC segment increased by 5%, led by solid growth in the public sector and enterprise markets and, to a lesser extent, growth in the commercial market.
+These increases were partially offset by a product revenue decline in the service provider market.
+From a country perspective, product revenue in India and in Japan each increased by 18% while product revenue in China decreased by 16%.
+Six Months Ended January 26, 2019 Compared with Six Months Ended January 27, 2018 
+
+
+
+Product revenue in the APJC segment increased 11%, with growth across each of the customer markets in this geographic segment.
+From a country perspective, product revenue increased by 36% in India and 13% in Japan while product revenue in China decreased by 8%.
+Product Revenue by Groups of Similar Products
+
+
+
+In addition to the primary view on a geographic basis, we also prepare financial information related to groups of similar products and customer markets for various purposes.
+We report our product revenue in the following categories: Infrastructure Platforms, Applications, Security, and Other Products.
+This aligns our product categories with our evolving business model.
+Prior period amounts have been reclassified to conform to the current period’s presentation.
+The following table presents revenue for groups of similar products (in millions, except percentages):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Amounts may not sum and percentages may not recalculate due to rounding.
+Infrastructure Platforms
+
+
+
+Three Months Ended January 26, 2019 Compared with Three Months Ended January 27, 2018
+
+
+
+The Infrastructure Platforms product category represents our core networking offerings related to switching, routing, wireless, and the data center.
+Infrastructure Platforms revenue increased by 6%, or $418 million.
+Switching had solid growth, with double digit revenue growth in campus switching driven by an increase in sales of our intent-based networking Catalyst 9000 Series.
+We also had double digit revenue growth from wireless products driven by our Wave 2 offerings as well as Meraki.
+Revenue from our routing products decreased due to weakness in the service provider market.
+Revenue from data center also decreased driven by lower sales of server products partially offset by revenue growth in our hyperconverged data center offering, HyperFlex.
+Six Months Ended January 26, 2019 Compared with Six Months Ended January 27, 2018 
+
+
+
+Revenue from the Infrastructure Platforms product category increased 8% or $1,080 million, with strength across the portfolio.
+Switching had solid growth, with solid revenue growth in campus switching driven by an increase in sales of our intent-based networking Catalyst 9000 Series, and with revenue growth in data center switching driven by increased revenue from our Nexus 9000 Series.
+Routing experienced revenue growth driven by growth in the service provider market.
+We experienced double digit revenue growth from wireless products driven by our Wave 2 offerings and Meraki.
+Revenue from data center increased driven by higher sales of our hyperconverged data center offering, HyperFlex, and our server products.
+60
+
+
+
+Table of Contents 
+
+
+
+CISCO SYSTEMS, INC.
+
+
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+
+
+Applications
+
+
+
+Three Months Ended January 26, 2019 Compared with Three Months Ended January 27, 2018
+
+
+
+The Applications product category includes our collaboration offerings (unified communications, Cisco TelePresence and conferencing) as well as the Internet of Things (IoT) and analytics software offerings from Jasper and AppDynamics, respectively.
+Revenue in our Applications product category increased by 24%, or $281 million, with growth across all of the business.
+We had strong revenue growth in unified communications, Telepresence and analytics from AppDynamics.
+Six Months Ended January 26, 2019 Compared with Six Months Ended January 27, 2018 
+
+
+
+Revenue in our Applications product category increased by 21%, or $497 million, with solid revenue growth in unified communications, TelePresence and analytics from AppDynamics.
+Security
+
+
+
+Three Months Ended January 26, 2019 Compared with Three Months Ended January 27, 2018
+
+
+
+Revenue in our Security product category increased 18%, or $101 million, driven by higher sales of identity and access, advance threat security and unified threat management products.
+The acquisition of Duo Security in the first quarter of fiscal 2019 also contributed to the revenue increase in this product category.
+Six Months Ended January 26, 2019 Compared with Six Months Ended January 27, 2018 
+
+
+
+Revenue in our Security product category increased 15%, or $166 million, driven by higher sales of identity and access, advance threat security, unified threat management and web security products.
+The acquisition of Duo Security in the first quarter of fiscal 2019 also contributed to the revenue increase in this product category.
+Other Products
+
+
+
+The decrease in revenue from our Other Products category for the second quarter and first six months of fiscal 2019, compared to corresponding periods of fiscal 2018, was primarily driven by a decrease in revenue from the SPVSS business which we divested on October 28, 2018.
+Service Revenue by Segment
+
+
+
+The following table presents the breakdown of service revenue by segment (in millions, except percentages):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Amounts may not sum and percentages may not recalculate due to rounding.
+Three Months Ended January 26, 2019 Compared with Three Months Ended January 27, 2018
+
+
+
+Service revenue was flat.
+Service revenue not including the SPVSS business in the prior year period increased by 1% .
+The service revenue increase in the EMEA segment offset the decreases in service revenue in our APJC and Americas segments.
+Six Months Ended January 26, 2019 Compared with Six Months Ended January 27, 2018 
+
+
+
+Service revenue increased 2%, driven by an increase in software and solution support offerings.
+Service revenue increased in the Americas and EMEA segments, partially offset by decreased revenue in our APJC segment.
+61
+
+
+
+Table of Contents 
+
+
+
+CISCO SYSTEMS, INC.
+
+
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+
+
+Gross Margin
+
+
+
+The following table presents the gross margin for products and services (in millions, except percentages):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Product Gross Margin
+
+
+
+The following table summarizes the key factors that contributed to the change in product gross margin percentage for the second quarter and first six months of fiscal 2019, as compared with the corresponding prior year periods: 
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+ (1) Productivity includes overall manufacturing-related costs, such as component costs, warranty expense, provision for inventory, freight, logistics, shipment volume, and other items not categorized elsewhere.
+Three Months Ended January 26, 2019 Compared with Three Months Ended January 27, 2018
+
+
+
+Product gross margin decreased by 0.5 percentage points driven by unfavorable impacts from product pricing and productivity, partially offset by favorable product mix.
+component redesign, board configuration, test processes and transformation processes) and continued operational efficiency in manufacturing operations.
+Six Months Ended January 26, 2019 Compared with Six Months Ended January 27, 2018 
+
+
+
+Product gross margin increased by 0.5 percentage points driven by productivity improvements, partially offset by unfavorable impacts from product pricing and product mix.
+A charge of $127 million to product cost of sales recorded in the first six months of fiscal 2018 related to legal and indemnification settlements also contributed to the increase.
+Productivity improvements were driven by cost reductions including value engineering efforts (e.g.
+component redesign, board configuration, test processes, and transformation processes) and continued operational efficiency in manufacturing operations.
+62
+
+
+
+Table of Contents 
+
+
+
+CISCO SYSTEMS, INC.
+
+
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+
+
+Service Gross Margin
+
+
+
+Three Months Ended January 26, 2019 Compared with Three Months Ended January 27, 2018
+
+
+
+Our service gross margin percentage decreased by 0.8 percentage points due to increased headcount-related costs and increased delivery costs, partially offset by favorable mix.
+Another factor is the mix of service offerings, as the gross margin from our advanced services is typically lower than the gross margin from technical support services.
+Six Months Ended January 26, 2019 Compared with Six Months Ended January 27, 2018 
+
+
+
+Service gross margin percentage decreased by 0.4 percentage points due to increased headcount-related costs and increased delivery costs.
+Gross Margin by Segment
+
+
+
+The following table presents the total gross margin for each segment (in millions, except percentages):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+ (1) The unallocated corporate items include the effects of amortization and impairments of acquisition-related intangible assets, share-based compensation expense, significant litigation settlements and other contingencies, charges related to asset impairments and restructurings, and certain other charges.
+We do not allocate these items to the gross margin for each segment because management does not include such information in measuring the performance of the operating segments.
+Amounts may not sum and percentages may not recalculate due to rounding.
+Three Months Ended January 26, 2019 Compared with Three Months Ended January 27, 2018
+
+
+
+We experienced a gross margin percentage decrease in our Americas segment due to unfavorable impacts from pricing and mix, partially offset by productivity improvements.
+63
+
+
+
+Table of Contents 
+
+
+
+CISCO SYSTEMS, INC.
+
+
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+
+
+Six Months Ended January 26, 2019 Compared with Six Months Ended January 27, 2018 
+
+
+
+The Americas segment had a gross margin percentage increase driven by productivity improvements, partially offset by unfavorable impacts from pricing and mix.
+Research and Development (“R&D”), Sales and Marketing, and General and Administrative (“G&A”) Expenses
+
+
+
+R&D, sales and marketing, and G&A expenses are summarized in the following table (in millions, except percentages):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+R&D Expenses
+
+
+
+Three Months Ended January 26, 2019 Compared with Three Months Ended January 27, 2018
+
+
+
+R&D expenses increased slightly as increases in headcount-related expenses and acquisition-related/divestiture costs significantly offset the decrease in discretionary spending.
+We continue to invest in R&D in order to bring a broad range of products to market in a timely fashion.
+Six Months Ended January 26, 2019 Compared with Six Months Ended January 27, 2018 
+
+
+
+R&D expenses increased primarily due to higher headcount-related expenses and, to a lesser extent, higher contracted services and higher acquisition-related/divestiture costs.
+These increases were partially offset by lower discretionary spending and share-based compensation expense.
+Six Months Ended January 26, 2019 Compared with Six Months Ended January 27, 2018 
+
+
+
+Sales and marketing expenses increased due to higher discretionary spending, higher headcount-related expenses and, to a lesser extent, higher contracted services and higher acquisition-related/divestiture costs, partially offset by lower share-based compensation expense.
+64
+
+
+
+Table of Contents 
+
+
+
+CISCO SYSTEMS, INC.
+
+
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+
+
+G&A Expenses
+
+
+
+Three Months Ended January 26, 2019 Compared with Three Months Ended January 27, 2018
+
+
+
+G&A expenses increased due to higher discretionary spending and headcount-related expenses, partially offset by lower contracted services.
+Six Months Ended January 26, 2019 Compared with Six Months Ended January 27, 2018 
+
+
+
+G&A expenses decreased due to a benefit from the $400 million litigation settlement with Arista, partially offset by higher discretionary spending, higher acquisition-related/divestiture costs and higher headcount-related expenses.
+Effect of Foreign Currency
+
+
+
+In the second quarter of fiscal 2019, foreign currency fluctuations, net of hedging, decreased the combined R&D, sales and marketing, and G&A expenses by approximately $52 million, or 1.2%, compared with the second quarter of fiscal 2018.
+In the first six months of fiscal 2019, foreign currency fluctuations, net of hedging, decreased the combined R&D, sales and marketing, and G&A expenses by approximately $102 million, or 1.2%, compared with the first six months of fiscal 2018.
+Share-Based Compensation Expense
+
+
+
+The following table presents share-based compensation expense (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Three Months Ended January 26, 2019 Compared with Three Months Ended January 27, 2018
+
+
+
+The decrease in share-based compensation expense was due primarily to higher forfeitures partially offset by higher restructuring charges.
+Six Months Ended January 26, 2019 Compared with Six Months Ended January 27, 2018 
+
+
+
+The increase in share-based compensation expense was due primarily to higher restructuring charges.
+Amortization of Purchased Intangible Assets
+
+
+
+The following table presents the amortization of purchased intangible assets including impairment charges (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+65
+
+
+
+Table of Contents 
+
+
+
+CISCO SYSTEMS, INC.
+
+
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+
+
+Three Months Ended January 26, 2019 Compared with Three Months Ended January 27, 2018
+
+
+
+Amortization of purchased intangible assets decreased due largely to the purchased intangible assets related to the divestiture of SPVSS business on October 28, 2018, partially offset by amortization from our recent acquisitions.
+Six Months Ended January 26, 2019 Compared with Six Months Ended January 27, 2018 
+
+
+
+Amortization of purchased intangible assets decreased due largely to the purchased intangible assets related to the divestiture of SPVSS business on October 28, 2018, partially offset by amortization from our recent acquisitions.
+Restructuring and Other Charges
+
+
+
+We initiated a restructuring plan during fiscal 2018 in order to realign our organization and enable further investment in key priority areas, with estimated pretax charges of approximately $600 million.
+In connection with this restructuring plan, we incurred charges of $186 million and $264 million for the second quarter and first six months of fiscal 2019, respectively, and have incurred cumulative charges of $372 million since inception.
+We expect this restructuring plan to be substantially completed in fiscal 2019.
+We incurred restructuring and other charges of $98 million and $250 million for the second quarter and first six months of fiscal 2018 in connection with the restructuring plan announced in August 2016.
+These charges were primarily cash-based and consisted of employee severance and other one-time termination benefits, and other associated costs.
+We expect to reinvest substantially all of the cost savings from these restructuring actions in our key priority areas.
+As a result, the overall cost savings from these restructuring actions are not expected to be material for future periods.
+Operating Income
+
+
+
+The following table presents our operating income and our operating income as a percentage of revenue (in millions, except percentages):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Three Months Ended January 26, 2019 Compared with Three Months Ended January 27, 2018
+
+
+
+Operating income increased by 4% and as a percentage of revenue operating income decreased by 0.1 percentage points.
+Six Months Ended January 26, 2019 Compared with Six Months Ended January 27, 2018 
+
+
+
+Operating income increased by 20% and as a percentage of revenue operating income increased by 3.2 percentage points.
+These increases resulted primarily from: a revenue increase, a gross margin percentage increase (driven primarily by productivity improvements and a charge of $127 million to product cost of sales recorded in the first six months of fiscal 2018 related to legal and indemnification settlements) and a benefit from the $400 million litigation settlement with Arista in the first quarter of fiscal 2019.
+Interest and Other Income (Loss), Net
+
+
+
+Interest Income (Expense), Net The following table summarizes interest income and interest expense (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Interest income decreased, driven by a decrease in the average balance of cash and available-for-sale debt investments.
+The decrease in interest expense was driven by a lower average debt balance, partially offset by the impact of higher effective interest rates.
+66
+
+
+
+Table of Contents 
+
+
+
+CISCO SYSTEMS, INC.
+
+
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+
+
+Other Income (Loss), Net  The components of other income (loss), net, are summarized as follows (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Three Months Ended January 26, 2019 Compared with Three Months Ended January 27, 2018
+
+
+
+The total change in net gains (losses) on available-for-sale debt investments was primarily attributable to lower realized losses as a result of market conditions, and the timing of sales of these investments.
+The total change in net gains (losses) on marketable equity investments was attributable to market value fluctuations and the timing of recognition of gains and losses.
+The change in net gains (losses) on non-marketable equity and other investments was primarily due to higher realized net losses, partially offset by higher unrealized gains and lower impairment charges.
+The change in other gains (losses), net was primarily driven by net favorable foreign exchange impacts.
+Six Months Ended January 26, 2019 Compared with Six Months Ended January 27, 2018 
+
+
+
+The total change in net gains (losses) on available-for-sale debt investments was primarily attributable to lower realized losses as a result of market conditions, and the timing of sales of these investments.
+The total change in net gains (losses) on marketable equity investments was attributable to market value fluctuations and the timing of recognition of gains and losses.
+The change in net gains (losses) on non-marketable equity and other investments was primarily due to higher realized net losses, partially offset by higher unrealized gains and lower impairment charges.
+The change in other gains (losses), net was driven by net favorable foreign exchange impacts partially offset by lower gains from customer lease terminations.
+Provision for Income Taxes 
+
+
+
+Three Months Ended January 26, 2019 Compared with Three Months Ended January 27, 2018
+
+
+
+The provision for income taxes resulted in an effective tax rate of 15.6% for the second quarter of fiscal 2019 compared with 371.6% for the second quarter of fiscal 2018.
+The decrease in the effective tax rate was primarily due to the one-time transition tax on accumulated earnings of foreign subsidiaries, foreign withholding tax, and DTA re-measurement recorded during the second quarter of fiscal 2018.
+67
+
+
+
+Table of Contents 
+
+
+
+CISCO SYSTEMS, INC.
+
+
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+
+
+Six Months Ended January 26, 2019 Compared with Six Months Ended January 27, 2018 
+
+
+
+The provision for income taxes resulted in an effective tax rate of 12.1% for the first six months of fiscal 2019 compared with 203.1% for the first six months of fiscal 2018.
+The decrease in the effective tax rate was primarily due to the one-time transition tax on accumulated earnings of foreign subsidiaries, foreign withholding tax, and DTA re-measurement recorded during the first six months of fiscal 2018.
+LIQUIDITY AND CAPITAL RESOURCES
+
+
+
+The following sections discuss the effects of changes in our balance sheet, our capital allocation strategy including stock repurchase program and dividends, our contractual obligations, and certain other commitments and activities on our liquidity and capital resources.
+Balance Sheet and Cash Flows
+
+
+
+Cash and Cash Equivalents and Investments The following table summarizes our cash and cash equivalents and investments (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+The decrease in cash and cash equivalents and investments in the first six months of fiscal 2019 was primarily driven by cash returned to shareholders in the form of repurchases of common stock of $10.1 billion under the stock repurchase program and cash dividends of $3.0 billion; net cash paid for acquisitions and divestitures of $1.6 billion; and capital expenditures of $0.5 billion.
+These uses of cash were partially offset by cash provided by operating activities of $7.6 billion and timing of settlements of investments and other of $1.6 billion.
+In addition to cash requirements in the normal course of business, in the third quarter of fiscal 2019 on February 6, 2019, we closed the acquisition of Luxtera for a purchase price of approximately $0.7 billion in cash and assumed equity awards.
+Additionally, $9.7 billion of long term debt which was outstanding at January 26, 2019 (of which $2.0 billion was repaid on February 15, 2019) and approximately $2 billion of commercial paper notes (issued in February 2019) will mature within the next 12 months from the balance sheet date.
+See further discussion of liquidity under “Liquidity and Capital Resource Requirements” below.
+We maintain an investment portfolio of various holdings, types, and maturities.
+We classify our investments as short-term investments based on their nature and their availability for use in current operations.
+We believe the overall credit quality of our portfolio is strong, with our cash equivalents and our available-for-sale debt investment portfolio consisting primarily of high quality investment-grade securities.
+We believe that our strong cash and cash equivalents and investments position allows us to use our cash resources for strategic investments to gain access to new technologies, for acquisitions, for customer financing activities, for working capital needs, and for the repurchase of shares of common stock and payment of dividends as discussed below.
+Free Cash Flow and Capital Allocation As part of our capital allocation strategy, we intend to return a minimum of 50% of our free cash flow annually to our shareholders through cash dividends and repurchases of common stock.
+We define free cash flow as net cash provided by operating activities less cash used to acquire property and equipment.
+For additional discussion, see “Part II, Item 1A.
+Risk Factors” in this report.
+We consider free cash flow to be a liquidity measure that provides useful information to management and investors because of our intent to return a stated percentage of free cash flow to shareholders in the form of dividends and stock repurchases.
+We further regard free cash flow as a useful measure because it reflects cash that can be used to, among other things, invest in our business, make strategic acquisitions, repurchase common stock, and pay dividends on our common stock, after deducting capital investments.
+A limitation of the utility of free cash flow as a measure of financial performance and liquidity is that the free cash flow does not represent the total increase or decrease in our cash balance for the period.
+Free cash flow is not a measure calculated in accordance with U.S. generally accepted accounting principles and should not be regarded in isolation or as an alternative for net income provided by operating activities or any other measure calculated in accordance with such principles, and other companies may calculate free cash flow in a different manner than we do.
+The following table summarizes the dividends paid and stock repurchases (in millions, except per-share amounts):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+On February 13, 2019, our Board of Directors declared a quarterly dividend of $0.35 per common share to be paid on April 24, 2019 to all shareholders of record as of the close of business on April 5, 2019.
+Any future dividends are subject to the approval of our Board of Directors.
+On February 13, 2019, our Board of Directors authorized a $15 billion increase to the stock repurchase program.
+The remaining authorized amount for stock repurchases under this program, including the additional authorization, is approximately $24 billion, with no termination date.
+The purchase price for the shares of our stock repurchased is reflected as a reduction to shareholders’ equity.
+We are required to allocate the purchase price of the repurchased shares as (i) a reduction to retained earnings and (ii) a reduction of common stock and additional paid-in capital.
+As a result of future stock repurchases, we may report an accumulated deficit in future periods in shareholders’ equity.
+Accounts Receivable, Net The following table summarizes our accounts receivable, net (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Our accounts receivable net, as of January 26, 2019 decreased by approximately 33%, as compared with the end of fiscal 2018, primarily due to product and service billings being more linear in the second quarter of fiscal 2019 compared with the fourth quarter of fiscal 2018.
+69
+
+
+
+Table of Contents 
+
+
+
+CISCO SYSTEMS, INC.
+
+
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+
+
+Inventory Supply Chain The following table summarizes our inventories and purchase commitments with contract manufacturers and suppliers (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Inventory as of January 26, 2019 decreased by 8% from our inventory balance at the end of fiscal 2018.
+The decrease in inventory was due primarily to lower deferred cost of sales related to the adoption of ASC 606 in the beginning of our first quarter of fiscal 2019.
+We purchase components from a variety of suppliers and use several contract manufacturers to provide manufacturing services for our products.
+During the normal course of business, in order to manage manufacturing lead times and help ensure adequate component supply, we enter into agreements with contract manufacturers and suppliers that allow them to procure inventory based upon criteria as defined by us or that establish the parameters defining our requirements and our commitment to securing manufacturing capacity.
+Our purchase commitments are for short-term product manufacturing requirements as well as for commitments to suppliers to secure manufacturing capacity.
+Certain of our purchase commitments with contract manufacturers and suppliers relate to arrangements to secure long-term pricing for certain product components for multi-year periods.
+A significant portion of our reported purchase commitments arising from these agreements are firm, noncancelable, and unconditional commitments.
+In certain instances, these agreements allow us the option to cancel, reschedule, and adjust our requirements based on our business needs prior to firm orders being placed.
+The following table summarizes our purchase commitments with contract manufacturers and suppliers as of the respective period ends (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Purchase commitments with contract manufacturers and suppliers decreased 3% compared to the end of fiscal 2018.
+On a combined basis, inventories and purchase commitments with contract manufacturers and suppliers decreased by 4% compared with the end of fiscal 2018.
+We believe the amount of our inventory and purchase commitments is appropriate for our revenue levels.
+Financing Receivables and Guarantees The following table summarizes our financing receivables (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Financing Receivables Our financing arrangements include leases, loans, and financed service contracts.
+Lease receivables include sales-type and direct-financing leases.
+Arrangements related to leases are generally collateralized by a security interest in the underlying assets.
+Our loan receivables include customer financing for purchases of our hardware, software and services and also may include additional funds for other costs associated with network installation and integration of our products and services.
+We also provide financing to certain qualified customers for long-term service contracts, which primarily relate to technical support services.
+The majority of the revenue from these financed service contracts is deferred and is recognized ratably over the period during which the services are performed.
+Financing receivables decreased by 2%.
+We expect to continue to expand the use of our financing programs in the near term.
+The financing arrangements to customers provided by third parties are related to leases and loans and typically have terms of up to three years.
+In some cases, we provide guarantees to third parties for these lease and loan arrangements.
+The financing arrangements to channel partners consist of revolving short-term financing provided by third parties, generally with payment terms ranging from 60 to 90 days.
+In certain instances, these financing arrangements result in a transfer of our receivables to the third party.
+The receivables are derecognized upon transfer, as these transfers qualify as true sales, and we receive payments for the receivables from the third party based on our standard payment terms.
+The volume of channel partner financing was $14.5 billion and $13.6 billion for the first six months of fiscal 2019 and 2018, respectively.
+These financing arrangements facilitate the working capital requirements of the channel partners, and in some cases, we guarantee a portion of these arrangements.
+The balance of the channel partner financing subject to guarantees was $1.3 billion and $1.0 billion as of January 26, 2019 and July 28, 2018, respectively.
+We could be called upon to make payments under these guarantees in the event of nonpayment by the channel partners or end-user customers.
+Historically, our payments under these arrangements have been immaterial.
+Where we provide a guarantee, we defer the revenue associated with the channel partner and end-user financing arrangement in accordance with revenue recognition policies, or we record a liability for the fair value of the guarantees.
+In either case, the deferred revenue is recognized as revenue when the guarantee is removed.
+As of January 26, 2019, the total maximum potential future payments related to these guarantees was approximately $363 million, of which approximately $86 million was recorded as deferred revenue.
+Borrowings
+
+
+
+Senior Notes The following table summarizes the principal amount of our senior notes (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+We repaid our senior notes due on February 15, 2019 for an aggregate principal amount of $2.0 billion upon maturity.
+Interest is payable semiannually on each class of the senior fixed-rate notes, each of which is redeemable by us at any time, subject to a make-whole premium.
+Interest is payable quarterly on the floating-rate notes.
+We were in compliance with all debt covenants as of January 26, 2019.
+71
+
+
+
+Table of Contents 
+
+
+
+CISCO SYSTEMS, INC.
+
+
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)
+
+
+
+Commercial Paper We have a short-term debt financing program in which up to $10.0 billion is available through the issuance of commercial paper notes.
+We use the proceeds from the issuance of commercial paper notes for general corporate purposes.
+We had no commercial paper notes outstanding as of January 26, 2019 and July 28, 2018.
+As of February 18, 2019, we had approximately $2 billion of commercial paper notes outstanding.
+Credit Facility On May 15, 2015, we entered into a credit agreement with certain institutional lenders that provides for a $3.0 billion unsecured revolving credit facility that is scheduled to expire on May 15, 2020.
+Any advances under the credit agreement will accrue interest at rates that are equal to, based on certain conditions, either (i) the highest of (a) the Federal Funds rate plus 0.50%, (b) Bank of America’s “prime rate” as announced from time to time, or (c) LIBOR, or a comparable or successor rate that is approved by the Administrative Agent (“Eurocurrency Rate”), for an interest period of one month plus 1.00%, or (ii) the Eurocurrency Rate, plus a margin that is based on our senior debt credit ratings as published by Standard & Poor’s Financial Services, LLC and Moody’s Investors Service, Inc., provided that in no event will the Eurocurrency Rate be less than zero.
+We may also, upon the agreement of either the then-existing lenders or additional lenders not currently parties to the agreement, increase the commitments under the credit facility by up to an additional $2.0 billion and/or extend the expiration date of the credit facility up to May 15, 2022.
+This credit agreement requires that we comply with certain covenants, including that we maintain an interest coverage ratio as defined in the agreement.
+As of January 26, 2019, we were in compliance with the required interest coverage ratio and the other covenants, and we had not borrowed any funds under the credit facility.
+Deferred Revenue The following table presents the breakdown of deferred revenue (in millions):
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Deferred revenue decreased primarily due to the adoption of ASC 606 in the beginning of our first quarter of fiscal 2019.
+Of the total deferred revenue decrease related to ASC 606 of $2.8 billion, $2.6 billion relates to deferred product revenue and $0.2 billion relates to deferred service revenue.
+Of the adjustment to deferred product revenue, $1.3 billion relates to our recurring software and subscription offers, $0.6 billion relates to two-tier distribution, and the remainder relates to non-recurring software and other adjustments.
+Contractual Obligations
+
+
+
+Operating Leases 
+
+
+
+We lease office space in many U.S. locations.
+Outside the United States, larger leased sites include sites in Australia, Belgium, Canada, China, Germany, India, Japan, Mexico, Poland and the United Kingdom.
+We also lease equipment and vehicles.
+The future minimum lease payments under all of our noncancelable operating leases with an initial term in excess of one year as of January 26, 2019 were $1.2 billion.
+Approximately $0.7 billion is payable in less than one year; $1.3 billion is payable between 1 to 3 years; $1.9 billion is payable between 3 to 5 years; and the remaining $3.5 billion is payable in more than 5 years.
+See Note 17 to the Consolidated Financial Statements.
+See Note 13 to the Consolidated Financial Statements.
+Other Funding Commitments We also have certain funding commitments primarily related to our non-marketable equity and other investments, some of which are based on the achievement of certain agreed-upon milestones, and some of which are required to be funded on demand.
+The funding commitments were $357 million as of January 26, 2019, compared with $223 million as of July 28, 2018.
+Off-Balance Sheet Arrangements
+
+
+
+We consider our investments in unconsolidated variable interest entities to be off-balance sheet arrangements.
+In the ordinary course of business, we have non-marketable equity and other investments and provide financing to certain customers.
+Certain of these investments are considered to be variable interest entities.
+As a result of this ongoing assessment, we may be required to make additional disclosures or consolidate these entities.
+Because we may not control these entities, we may not have the ability to influence these events.
+We provide financing guarantees, which are generally for various third-party financing arrangements extended to our channel partners and end-user customers.
+We could be called upon to make payments under these guarantees in the event of nonpayment by the channel partners or end-user customers.
+See the previous discussion of these financing guarantees under “Financing Receivables and Guarantees.”
+
+
+
+Liquidity and Capital Resource Requirements
+
+
+
+Based on past performance and current expectations, we believe our cash and cash equivalents, investments, cash generated from operations, and ability to access capital markets and committed credit lines will satisfy, through at least the next 12 months, our liquidity requirements, both in total and domestically, including the following: working capital needs, capital expenditures, investment requirements, stock repurchases, cash dividends, contractual obligations, commitments, principal and interest payments on debt, pending acquisitions, future customer financings, and other liquidity requirements associated with our operations.
+73
