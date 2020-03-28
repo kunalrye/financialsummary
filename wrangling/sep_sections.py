@@ -143,9 +143,9 @@ def item_two(new_path, file_key, data):
     parsing = False
     outF = open(new_path + file_key + "_item2.txt", "w")
     for line in data:
-        if line.startswith("Item 2.M") or line.startswith("Item 2. M"):
+        if line.startswith("Item 2.M") or line.startswith("Item 2. M") or line.startswith(" Item 2"):
             parsing = True
-        elif line.startswith("Item 3.Q") or line.startswith("Item 3. Q"):
+        elif line.startswith("Item 3.Q") or line.startswith("Item 3. Q") or line.startswith(" Item 3"):
             parsing = False
         if parsing:
             # write line to output file
@@ -163,9 +163,9 @@ def item_three(new_path, file_key, data):
     parsing = False
     outF = open(new_path + file_key + "_item3.txt", "w")
     for line in data:
-        if line.startswith("Item 3.Q") or line.startswith("Item 3. Q"):
+        if line.startswith("Item 3.Q") or line.startswith("Item 3. Q") or line.startswith(" Item 3"):
             parsing = True
-        elif line.startswith("Item 4.C") or line.startswith("Item 4. C"):
+        elif line.startswith("Item 4.C") or line.startswith("Item 4. C") or line.startswith(" Item 4"):
             parsing = False
         if parsing:
             # write line to output file
@@ -185,7 +185,7 @@ def item_four(new_path, file_key, data):
     for line in data:
         if line.startswith("Item4") or line.startswith("Item 4."):
             parsing = True
-        elif line.startswith("Part II") or line.startswith("PART II"):
+        elif line.startswith("Part II") or line.startswith("PART II") or line.startswith(" PART II"):
             parsing = False
         if parsing:
             # write line to output file
@@ -203,7 +203,7 @@ def part_two(new_path, file_key, data):
     parsing = False
     outF = open(new_path + file_key + "_part2.txt", "w")
     for line in data:
-        if line.startswith("PART II") or line.startswith("PART II."):
+        if line.startswith("PART II") or line.startswith("PART II.") or line.startswith(" PART II"):
             parsing = True
         elif line.startswith("SIGNATURE"):
             parsing = False
@@ -225,15 +225,17 @@ def separate_item(directory):
         for filename in files:
             if filename.endswith('.txt'):
                 name_path = os.path.join(subdir, filename)
-                new_path = str(os.path.join(subdir))
+                new_path = str((os.path.join(subdir) + "/itemized/"))
+                if not os.path.exists(new_path):
+                    os.makedirs(new_path)
                 filename_list = filename.rsplit('_')
                 file_key = str(filename_list[0] + "_" + filename_list[1] + "_" + filename_list[3])
                 data = open(name_path).readlines()
                 item_one(new_path, file_key, data)
-                # item_two(new_path, file_key, data)
-                # item_three(new_path, file_key, data)
-                # item_four(new_path,file_key, data)
-                # part_two(new_path, file_key, data)
+                item_two(new_path, file_key, data)
+                item_three(new_path, file_key, data)
+                item_four(new_path,file_key, data)
+                part_two(new_path, file_key, data)
     return None
 
 
@@ -241,4 +243,5 @@ def separate_item(directory):
 # replace('/Users/kunal/Desktop/test')
 # x = separate_document('/Users/kunal/Desktop/test')
 # nested_dict_to_txt(x,"/Users/kunal/Desktop/")
-separate_item('/Users/kunal/Dropbox/10Q_all_companies')
+# separate_item('/Users/kunal/Dropbox/10Q_all_companies')
+# separate_item("/Users/kunal/Desktop/test")
