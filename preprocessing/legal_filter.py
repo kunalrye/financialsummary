@@ -43,9 +43,9 @@ def filter(directory):
     legal_vectors = model(get_legal_bank())
 
     ## iterate over all the files in the directory
-    dirpath = os.path.expanduser("~/Documents/itemized")
+    dirpath = os.path.expanduser("../resources/itemized")
     print(dirpath)
-    outdir_path = os.path.expanduser("~/Documents/legal_filter/")
+    outdir_path = os.path.expanduser("../resources/legal_filter/")
     for subdir, dirs, files in os.walk(dirpath):
         for filename in files:
             if filename.endswith('.txt'):
@@ -53,7 +53,7 @@ def filter(directory):
                 doc_sentences = file_to_sents(fpath)
 
                 if not doc_sentences:
-                    ## don't pass empty files through the legal filter 
+                    ## don't pass empty files through the legal filter
                     print(filename + " is empty!")
                     continue
 
