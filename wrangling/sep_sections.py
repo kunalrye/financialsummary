@@ -49,8 +49,18 @@ def replace(directory):
                         regex = re.compile("[☒_☐@#^&*<>?/\|}{~:]")
                         if (regex.search(line)) and len(line) > 150:
                             new_file.write(line)
+                        elif line.startswith("[DATA_TABLE_REMOVED]") or line.isdigit() or line.startswith("("):
+                            continue
+                        elif (len(line) <= 300) and (line.startswith(" Item") or line.startswith(" Part") or
+                                        line.startswith("Item") or line.startswith("Part")):
+                            new_file.write(line)
+                        elif regex.search(line) is None and not (line.startswith(" Item") or line.startswith(" Part") or
+                                        line.startswith("Item") or line.startswith("Part")) and len(line) < 150:
+                            continue
                         elif regex.search(line) is None:
                             new_file.write(line)
+                        else:
+                            continue
             # Copy the file permissions from the old file to the new file
             copymode(file_path, abs_path)
             # Remove original file
@@ -245,3 +255,4 @@ def separate_item(directory):
 # nested_dict_to_txt(x,"/Users/kunal/Desktop/")
 # separate_item('/Users/kunal/Dropbox/10Q_all_companies')
 # separate_item("/Users/kunal/Desktop/test")
+replace('/Users/kunal/Desktop/test')
