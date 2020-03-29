@@ -1,5 +1,5 @@
 """
-Take each text document, and create a dictionary of the document structure by identifying
+Take each text document and replace the lines with cleaned text (removal of symbols, short lines
 headers and their respective content
 """
 import os
@@ -31,6 +31,10 @@ def nested_dict_to_txt(nested_dict, directory):
                 f.close()
 
 
+def hasNumbers(inputString):
+    return bool(re.search(r'\d', inputString))
+
+
 def replace(directory):
     """
     Parse all the files and clean any remaining symbols and small phrases out
@@ -45,18 +49,23 @@ def replace(directory):
             with fdopen(fh, 'w') as new_file:
                 with open(file_path) as old_file:
                     for line in old_file:
+                        nline = str(line.lower())
                         line = str(line)
+                        split_text = line.rsplit()
                         regex = re.compile("[☒_☐@#^&*<>?/\|}{~:]")
-                        if (regex.search(line)) and len(line) > 150:
+                        if (len(nline) <= 300) and (nline.startswith(" item") or nline.startswith(" part") or
+                                        nline.startswith("item") or nline.startswith("part")):
                             new_file.write(line)
-                        elif line.startswith("[DATA_TABLE_REMOVED]") or line.isdigit() or line.startswith("("):
+                        elif (regex.search(line)) and len(line) > 10000:
                             continue
-                        elif (len(line) <= 300) and (line.startswith(" Item") or line.startswith(" Part") or
-                                        line.startswith("Item") or line.startswith("Part")):
+                        elif line.startswith("[DATA_TABLE_REMOVED]") or line.endswith("[DATA_TABLE_REMOVED]"):
+                            continue
+                        elif len(split_text) <= 3 and hasNumbers(line):
+                            continue
+                        elif line.startswith("("):
+                            continue
+                        elif "forward-looking" in line or "FORWARD-LOOKING" in line:
                             new_file.write(line)
-                        elif regex.search(line) is None and not (line.startswith(" Item") or line.startswith(" Part") or
-                                        line.startswith("Item") or line.startswith("Part")) and len(line) < 150:
-                            continue
                         elif regex.search(line) is None:
                             new_file.write(line)
                         else:
@@ -123,7 +132,9 @@ def separate_document(directory):
 def item_one(new_path, file_key, data):
     """
     gets item 1 given readlines data and saves to a new file
-    :param readlines_data: lines of a txt file using the readlines function
+    :param new_path: the new path that the file is being saved to
+    :param file_key: the key made for the file so that filename is unique
+    :param data: the string data from parsing that is being iterated over in separate_item
     :return: None
     """
     # edge cases are where there is a space before the line starts or there is a space after the item
@@ -131,11 +142,12 @@ def item_one(new_path, file_key, data):
     parsing = False
     outF = open(new_path + file_key + "_item1.txt", "w")
     for line in data:
-        if line.startswith("Item 1. F") or line.startswith("Item 1.F") or line.startswith("ITEM 1.")\
-                or line.startswith(' Item 1'):
+        line2 = line.lower()
+        if line2.startswith("item 1. F") or line2.startswith("item 1.F") or line2.startswith("item 1")\
+                or line2.startswith(' item 1'):
             parsing = True
-        elif line.startswith("Item 2.M") or line.startswith("Item 2. M") or line.startswith("ITEM 2.")\
-                or line.startswith(" Item 2"):
+        elif line2.startswith("item 2.M") or line2.startswith("item 2. M") or line2.startswith("item 2")\
+                or line2.startswith(" item 2"):
             parsing = False
         if parsing:
             # write line to output file
@@ -146,16 +158,21 @@ def item_one(new_path, file_key, data):
 
 def item_two(new_path, file_key, data):
     """
-    gets item 1 given readlines data and saves to a new file
-    :param readlines_data: lines of a txt file using the readlines function
+    gets item 2 given readlines data and saves to a new file
+    :param new_path: the new path that the file is being saved to
+    :param file_key: the key made for the file so that filename is unique
+    :param data: the string data from parsing that is being iterated over in separate_item
     :return: None
     """
     parsing = False
     outF = open(new_path + file_key + "_item2.txt", "w")
     for line in data:
-        if line.startswith("Item 2.M") or line.startswith("Item 2. M") or line.startswith(" Item 2"):
+        line2 = line.lower()
+        if line2.startswith("item 2.M") or line2.startswith("item 2. M") or line2.startswith(" item 2")\
+                or line2.startswith("item 2"):
             parsing = True
-        elif line.startswith("Item 3.Q") or line.startswith("Item 3. Q") or line.startswith(" Item 3"):
+        elif line2.startswith("item 3.Q") or line2.startswith("item 3. Q") or line2.startswith(" item 3")\
+                or line2.startswith("item 3"):
             parsing = False
         if parsing:
             # write line to output file
@@ -166,16 +183,21 @@ def item_two(new_path, file_key, data):
 
 def item_three(new_path, file_key, data):
     """
-    gets item 1 given readlines data and saves to a new file
-    :param readlines_data: lines of a txt file using the readlines function
+    gets item 3 given readlines data and saves to a new file
+    :param new_path: the new path that the file is being saved to
+    :param file_key: the key made for the file so that filename is unique
+    :param data: the string data from parsing that is being iterated over in separate_item
     :return: None
     """
     parsing = False
     outF = open(new_path + file_key + "_item3.txt", "w")
     for line in data:
-        if line.startswith("Item 3.Q") or line.startswith("Item 3. Q") or line.startswith(" Item 3"):
+        line2 = line.lower()
+        if line2.startswith("item 3.Q") or line2.startswith("item 3. Q") or line2.startswith(" item 3")\
+                or line2.startswith("item 3"):
             parsing = True
-        elif line.startswith("Item 4.C") or line.startswith("Item 4. C") or line.startswith(" Item 4"):
+        elif line2.startswith("item 4.C") or line2.startswith("item 4. C") or line2.startswith(" item 4")\
+                or line2.startswith("item 4"):
             parsing = False
         if parsing:
             # write line to output file
@@ -186,16 +208,20 @@ def item_three(new_path, file_key, data):
 
 def item_four(new_path, file_key, data):
     """
-    gets item 1 given readlines data and saves to a new file
-    :param readlines_data: lines of a txt file using the readlines function
+    gets item 4 given readlines data and saves to a new file
+    :param new_path: the new path that the file is being saved to
+    :param file_key: the key made for the file so that filename is unique
+    :param data: the string data from parsing that is being iterated over in separate_item
     :return: None
     """
     parsing = False
     outF = open(new_path + file_key + "_item4.txt", "w")
     for line in data:
-        if line.startswith("Item4") or line.startswith("Item 4."):
+        line2 = line.lower()
+        if line2.startswith("item 4.C") or line2.startswith("item 4. C") or line2.startswith(" item 4")\
+                or line2.startswith("item 4"):
             parsing = True
-        elif line.startswith("Part II") or line.startswith("PART II") or line.startswith(" PART II"):
+        elif line2.startswith("part II") or line2.startswith("part ii") or line2.startswith(" part ii"):
             parsing = False
         if parsing:
             # write line to output file
@@ -206,16 +232,42 @@ def item_four(new_path, file_key, data):
 
 def part_two(new_path, file_key, data):
     """
-    gets item 1 given readlines data and saves to a new file
-    :param readlines_data: lines of a txt file using the readlines function
+    gets part 2 given readlines data and saves to a new file
+    :param new_path: the new path that the file is being saved to
+    :param file_key: the key made for the file so that filename is unique
+    :param data: the string data from parsing that is being iterated over in separate_item
     :return: None
     """
     parsing = False
     outF = open(new_path + file_key + "_part2.txt", "w")
     for line in data:
-        if line.startswith("PART II") or line.startswith("PART II.") or line.startswith(" PART II"):
+        line2 = line.lower()
+        if line2.startswith("part ii") or line2.startswith("part ii.") or line2.startswith(" part ii"):
             parsing = True
-        elif line.startswith("SIGNATURE"):
+        elif line2.startswith("SIGNATURE"):
+            parsing = False
+        if parsing:
+            # write line to output file
+            outF.write(line)
+            outF.write("\n")
+    outF.close()
+
+
+def forward_looking(new_path, file_key, data):
+    """
+    extracts information about forward looking statements to a text file
+    :param new_path: the new path that the file is being saved to
+    :param file_key: the key made for the file so that filename is unique
+    :param data: the string data from parsing that is being iterated over in separate_item
+    :return: None
+    """
+    parsing = False
+    outF = open(new_path + file_key + "_fls.txt", "w")
+    for line in data:
+        line2 = line.lower()
+        if "forward-looking" in line2:
+            parsing = True
+        elif len(line2) <= 150:
             parsing = False
         if parsing:
             # write line to output file
@@ -228,14 +280,16 @@ def separate_item(directory):
     """
     separates document by items from the file, and saves file with ending filename being the item number
     :param directory: directory containing the text files
-    :return:None
+    :return: None
     """
 
     for subdir, dirs, files in os.walk(directory):
         for filename in files:
             if filename.endswith('.txt'):
                 name_path = os.path.join(subdir, filename)
-                new_path = str((os.path.join(subdir) + "/itemized/"))
+                filename_list = filename.rsplit("_")
+                company = str(filename_list[0])
+                new_path = str((os.path.join(subdir) + "/itemized/" + company + "/"))
                 if not os.path.exists(new_path):
                     os.makedirs(new_path)
                 filename_list = filename.rsplit('_')
@@ -246,13 +300,10 @@ def separate_item(directory):
                 item_three(new_path, file_key, data)
                 item_four(new_path,file_key, data)
                 part_two(new_path, file_key, data)
+                forward_looking(new_path, file_key, data)
     return None
 
 
 #######################################################################################################################
-# replace('/Users/kunal/Desktop/test')
-# x = separate_document('/Users/kunal/Desktop/test')
-# nested_dict_to_txt(x,"/Users/kunal/Desktop/")
-# separate_item('/Users/kunal/Dropbox/10Q_all_companies')
-# separate_item("/Users/kunal/Desktop/test")
-replace('/Users/kunal/Desktop/test')
+# replace("/Users/kunal/Dropbox/10Q_all_companies/full_text/")
+# separate_item("/Users/kunal/Dropbox/10Q_all_companies/full_text/")
