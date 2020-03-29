@@ -1,6 +1,6 @@
 """
-Take each text document and replace the lines with cleaned text (removal of symbols, short lines
-headers and their respective content
+Take each text document and replace the lines with cleaned text (removal of symbols, short lines, etc)
+using replace() then separate each document into sections by ITEM using separate_item().
 """
 import os
 from functools import reduce
