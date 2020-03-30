@@ -1,0 +1,292 @@
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+
+
+The Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) in this Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, that involve risks and uncertainties, which are discussed in the “Forward-Looking Statements” section under Part I of this Quarterly Report on Form 10-Q.
+
+
+
+EXECUTIVE SUMMARY
+
+
+
+Overview
+
+
+
+Cypress Semiconductor Corporation (“Cypress” or “the Company”) manufactures and sells advanced embedded system solutions for automotive, industrial, smart home appliances, consumer electronics and medical products. Cypress' microcontrollers, analog ICs, wireless and wired connectivity solutions and memories help engineers design differentiated products and help with speed to market. Cypress is committed to providing customers with quality support and engineering resources. 
+
+
+
+
+
+Business Segments
+
+
+
+
+
+Business Segments Description
+
+
+
+Microcontroller and Connectivity Division  
+
+
+
+MCD focuses on high-performance microcontroller (MCU), analog and wireless and wired connectivity solutions. The portfolio includes Traveo™ automotive MCUs, PSoC® programmable MCUs and general-purpose MCUs with ARM® Cortex®-M4, -M3, -M0+ and R4 CPUs, analog PMIC Power Management ICs, CapSense® capacitive-sensing controllers, TrueTouch® touchscreen, Wi-Fi®, Bluetooth®, Bluetooth Low Energy and ZigBee® solutions and the WICED® development platform, and a broad line of USB controllers, including solutions for the USB-C and USB Power Delivery (PD) standards. This division also includes our intellectual property (IP) business.
+
+
+
+Memory Products Division  MPD focuses on specialized, high-performance parallel and serial NOR flash memories, NAND flash memories, static random access memory (SRAM), F-RAM™ ferroelectric memory devices, non-volatile SRAM (nvSRAM), other specialty memories and timing solutions. This division also includes our subsidiary AgigA Tech Inc.
+
+
+
+Business Strategy
+
+
+
+Refer to Part I Item 1. Business in our Annual Report on Form 10-K for the year ended December 31, 2017 for a discussion of our strategies.
+
+
+
+As we continue to implement our strategies, there are many internal and external factors that could impact our ability to meet any or all of our objectives. Some of these factors are discussed under Part I Item 1A in our Annual Report on Form 10-K for the year ended December 31, 2017 as well as in Part II Item 1A in this Quarterly Report on Form 10-Q.
+
+
+
+Results of Operations
+
+
+
+Revenues
+
+
+
+Our total revenues increased by $50.4 million, or 9.5%, to $582.2 million for the three-month period ended April 1, 2018 compared to the same period in the prior year. The increase was primarily driven by strength in the memory products.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Revenues recorded by MPD increased by $31.6 million, or 14.7%, in the three months ended April 1, 2018 compared to the same prior year period. The increase was primarily due to $28.5 million of revenue growth from the Flash memory products. The overall ASP of our products for MPD for the three months ended April 1, 2018 was $1.64, which increased by $0.38, compared with the same prior year period. The increase is primarily attributed to higher ASPs for Flash memory products and changes in product mix.
+
+
+
+Gross Margin
+
+
+
+
+
+Our gross margin improved to 36.5% in the three months ended April 1, 2018 from 29.5% in the three months ended April 2, 2017. One of the primary drivers of the improvement in gross margin was higher fab utilization which increased from 63% in the three months ended April 2, 2017 to 74% in the three months ended April 1, 2018 and a reduction in the cost of certain products. Favorable pricing and a shift to higher margin business also contributed to the gross margin improvement. Additionally, there was a reduction in write-downs of carrying value of inventory during the three months ended April 1, 2018 as compared to the same prior year period. Write-down of inventories during the three months ended April 1, 2018 was $7.0 million as compared to $10.5 million in the three months ended April 2, 2017. Write-down of inventories unfavorably impacted our gross margin by 1.2% and 2.0% for the three months ended April 1, 2018 and April 2, 2017, respectively. Sale of inventory that was previously written off or written down aggregated to $9.0 million and $7.6 million for the first quarters of fiscal years 2018 and 2017, which favorably impacted our gross margin by 1.6% and 1.4%, respectively. Included in the cost of revenues are restructuring charges of $1.9 million and $0.2 million for the first quarters of fiscal years 2018 and 2017 respectively. During first quarter of 2018, we initiated the 2018 Plan restructuring plan which will contribute towards increasing longer term operational efficiency. The 2018 plan will result in a reduction of approximately 75 positions, which is expected to favorably impact costs starting second half of 2018. Included in the cost of revenues are amortization of intangible assets of $48.1 million and $43.2 million for the first quarters of fiscal years 2018 and 2017 respectively.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Income Taxes
+
+
+
+
+
+Our income tax expense was $5.1 million and $4.9 million for the three months ended April 1, 2018 and April 2, 2017, respectively. The income tax expense for the three months ended April 1, 2018 and April 2, 2017 were primarily attributable to non-U.S. taxes associated with the Company's non-US operations.
+
+
+
+Liquidity and Capital Resources
+
+
+
+
+
+
+
+Key Components of Cash Flows
+
+
+
+
+
+Operating Activities
+
+
+
+
+
+•depreciation and amortization of $71.5 million, 
+
+
+
+•stock-based compensation expense of $18.5 million,
+
+
+
+•restructuring costs of $4.1 million, 
+
+
+
+•accretion of interest expense on Senior Exchangeable Notes and amortization of debt and financing costs on other debt of $8.4 million, 
+
+
+
+•loss on disposal and impairment of property and equipment of $5.3 million and
+
+
+
+•our share in the net loss of equity method investees of $3.5 million.
+
+
+
+
+
+•a decrease in accounts payable and accrued and other liabilities of $21.7 million mainly due to timing of payments and payments related to restructuring activities,
+
+
+
+•an increase in inventories of $4.2 million to support expected demand of MCD products for the upcoming quarters of 2018,
+
+
+
+
+
+Investing Activities
+
+
+
+
+
+
+
+•property and equipment expenditures of $17.3 million relating to purchases of certain manufacturing facility equipment.
+
+
+
+Financing Activities
+
+
+
+
+
+•a $10.0 million payment for extinguishment of 2% 2020 Spansion Exchangeable Notes,
+
+
+
+•with such payments being offset by $20.5 million of proceeds from employee equity awards. 
+
+
+
+Liquidity and Contractual Obligations
+
+
+
+Contractual Obligations
+
+
+
+
+
+
+
+
+
+
+
+As of April 1, 2018, our unrecognized tax benefits were $29.6 million, which were classified as long-term liabilities. We believe it is possible that we may recognize up to approximately $1.3 million of our existing unrecognized tax benefits within the next twelve months as a result of the lapse of statutes of limitation and the resolution of agreements with domestic and various foreign tax authorities.
+
+
+
+Capital Resources and Financial Condition
+
+
+
+Our long-term strategy is to maintain a minimum amount of cash and cash equivalents for operational purposes and to invest the remaining amount of our cash in interest-bearing and highly liquid cash equivalents and debt securities, payments of regularly scheduled cash dividends, and the repayment of debt. As of April 1, 2018, our cash, cash equivalents and short-term investment balance was $106.8 million as compared to $151.6 million as of December 31, 2017. As of April 1, 2018 approximately 41.6% of our cash was owned by our non-U.S. subsidiaries. While these amounts are primarily denominated in 
+
+
+
+
+
+U.S. dollars, a portion is denominated in foreign currencies. All non-U.S. cash balances are exposed to local political, banking, currency control and other risks. In addition, these amounts, if repatriated, may be subject to tax and other transfer restrictions. However, the Company has significant U.S. net operating losses that may negate any U.S. tax impact of cash repatriation.
+
+
+
+
+
+Critical Policies and Estimates
+
+
+
+The discussion and analysis of our financial condition and results of operations are based upon our Condensed Consolidated Financial Statements included in this Quarterly Report on Form 10-Q and the data used to prepare them. Our Condensed Consolidated Financial Statements have been prepared in accordance with accounting principles generally accepted in the United States and we are required to make estimates, judgments and assumptions in the course of such preparation. Note 1 of the Notes to Condensed Consolidated Financial Statements under Part I, Item 1 describes the significant accounting policies and methods used in the preparation of the consolidated financial statements. On an ongoing basis, we re-evaluate our judgments and estimates including those related to revenue recognition, allowances for doubtful accounts receivable, inventory valuation, valuation of long-lived assets, goodwill and financial instruments, stock-based compensation, settlement costs, and income taxes. We base our estimates and judgments on historical experience, knowledge of current conditions and our beliefs of what could occur in the future considering available information. Actual results may differ from these estimates under different assumptions or conditions.
+
+
+
+
+
+•Revenue Recognition
+
+
+
+•Business Combinations
+
+
+
+•Valuation of Inventories
+
+
+
+•Valuation of Long-Lived Assets
+
+
+
+•Valuation of Goodwill
+
+
+
+•Cash Flow Hedges
+
+
+
+•Stock-Based Compensation
+
+
+
+•Employee Benefits Plan
+
+
+
+•Accounting for Income Taxes
+
+
+
+As discussed in Note 1, we adopted Topic 606 on January 1, 2018. There have been no other changes to our critical accounting policies and estimates since the filing of our Annual Report on Form 10-K for the year ended December 31, 2017.
+
+
+
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+
+
+
+None.
+
+
+

@@ -1,79 +1,43 @@
- ITEM 2.  
 The following is a discussion of the financial condition, changes in financial condition, and results of operations for our fiscal quarters ended March 29, 2019, December 28, 2018 and March 30, 2018, referred to herein as the March 2019 quarter, the December 2018 quarter, and the March 2018 quarter, respectively. We operate and report financial results on a fiscal year of 52 or 53 weeks ending on the Friday closest to June 30. The March 2019, December 2018 and March 2018 quarters were all 13 weeks.  
 You should read this discussion in conjunction with financial information and related notes included elsewhere in this report. Unless the context indicates otherwise, as used herein, the terms we, us, Seagate, the Company and our refer to Seagate Technology plc, an Irish public limited company, and its subsidiaries. References to $ are to United States dollars.  
-the development and introduction of products based on new technologies and expansion into new data storage markets;  
-the Companys ability to achieve projected cost savings in connection with its restructuring plans and consolidation of its manufacturing activities;  
-the Companys ability to effectively manage its debt obligations and comply with certain covenants in its credit facilities with respect to financial ratios and financial condition tests and maintain a favorable cash liquidity position;  
-the Companys ability to successfully qualify, manufacture and sell its storage products, particularly the new disk drive products with lower cost structures, in increasing volumes on a cost-effective basis and with acceptable quality;  
-disruptions to the Companys supply chain or production capabilities;  
-consolidation trends in the data storage industry;  
-fluctuations in interest rates;  
-fluctuations in the value of the Companys investments and the associated investment income;  
-the evolving legal, regulatory and administrative climate in the international markets where the Company operates including changes in regulations relating to privacy and protection of data and environmental matters; and  
-Table of Contents 
 cyber-attacks or other data breaches that disrupt the Companys operations or result in the dissemination of proprietary or confidential information and cause reputational harm, and the cybersecurity threats and vulnerabilities associated with the Companys infrastructure updates to its information technology systems.  
-Our Company. Overview of our business.  
 Overview of the March 2019 quarter. Highlights of events in the March 2019 quarter that impacted our financial position.  
+Liquidity and Capital Resources. An analysis of changes in our balance sheet and cash flows, and discussion of our financial condition including the credit quality of our investment portfolio and potential sources of liquidity.  
 Contractual Obligations and Commitments. Overview of contractual obligations and contingent liabilities and commitments outstanding as of March 29, 2019.  
-Our Company  
-We are a leading provider of data storage technology and solutions. Our principal products are hard disk drives, commonly referred to as disk drives, hard drives or HDDs. In addition to HDDs, we produce a broad range of data storage products including solid state drives (SSD) and storage subsystems.  
 Hard disk drives are devices that store digitally encoded data on rapidly rotating disks with magnetic surfaces. Disk drives continue to be the primary medium of mass data storage due to their performance attributes, high quality and cost effectiveness. Complementing existing data center storage architecture, solid-state storage devices use integrated circuit assemblies as memory to store data, and most SSDs use NAND flash memory.  
 Our HDD products are designed for mission critical and nearline applications in enterprise servers and storage systems; edge compute applications, where our products are designed primarily for desktop and mobile computing; and edge non-compute applications, where our products are designed for a wide variety of end user devices such as portable external storage systems, surveillance systems, digital video recorders (DVRs), network-attached storage (NAS) and gaming consoles. Our SSD products mainly include serial attached SCSI (SAS) and Non-Volatile Memory Express (NVMe) SSDs.  
 Our enterprise data solutions (formerly referred to as the cloud systems and solutions) portfolio includes modular original equipment manufacturer (OEM) storage systems and scale-out storage servers.  
-Overview of the March 2019 quarter  
 During the March 2019 quarter, we shipped 77 exabytes of HDD storage capacity. We generated revenue of approximately $2.3 billion, gross margin of 26% and our operating cash flow was $438 million. We repurchased approximately 7 million of our ordinary shares for $327 million and paid $178 million in dividends. We entered into a new senior unsecured revolving credit facility (the 2019 Revolving Credit Facility) and borrowed $200 million from the 2019 Revolving Credit Facility.  
-Table of Contents 
-Table of Contents 
-Revenue  
 Revenue for the nine months ended March 29, 2019 decreased by $330 million from the nine months ended March 30, 2018 primarily due to price erosion, partially offset by an increase in exabytes shipped.  
-Cost of Revenue and Gross Margin  
+We maintain various sales incentive programs such as channel rebates and price masking. Sales incentive programs were approximately 13%, 13% and 12% of gross drive revenue for the March 2019, December 2018 and March 2018 quarters, respectively. Adjustments to revenues due to under or over accruals for sales incentive programs related to revenues reported in prior quarterly periods were less than 1% of quarterly gross revenue in all periods presented.  
+Gross margin as a percentage of revenue for the March 2019 quarter decreased from the December 2018 quarter primarily driven by factory underutilization and price erosion.  
 Compared to the March 2018 quarter, gross margin as a percentage of revenue for the March 2019 quarter decreased primarily driven by price erosion and factory underutilization.  
 Compared to the nine months ended March 29, 2019, gross margin as a percentage of revenue for the nine months ended March 30, 2018 remained flat primarily driven by favorable product mix offset by price erosion.  
 In the March 2019 quarter, total warranty cost was 0.6% of revenue and included a favorable change in estimates of prior warranty accruals of 0.5% of revenue due to improvements in return rates on newer generation products. Warranty cost related to new shipments was 1.1%, 1.1% and 1.3% of revenue for the March 2019, December 2018 and March 2018 quarters, respectively.  
-Table of Contents 
-Amortization of intangibles. Amortization of intangibles for the March 2019 quarter remained flat compared to the December 2018 quarter and March 2018 quarter. Amortization of intangibles for the nine months ended March 29, 2019 decreased by $30 million from the nine months ended March 30, 2018 due to certain intangible assets reaching the end of their useful lives.  
+Product development expense. Product development expense for the March 2019 quarter decreased by $8 million compared to the December 2018 quarter due to a $7 million decrease in other general expenses mainly as a result of timing of materials purchases, a $4 million decrease in variable compensation expense, offset by a $2 million increase in share-based compensation expense.  
+Compared to the corresponding nine months ended March 30, 2018, Product development expense for the nine months ended March 29, 2019 decreased by $17 million primarily due to an $18 million decrease in variable compensation expense and a $5 million decrease in salaries and employee benefits primarily due to the voluntary early exit program and restructuring of our workforce in prior periods, partially offset by a $9 million increase in share-based compensation expense.  
+Marketing and administrative expense. Marketing and administrative expense for the March 2019 quarter decreased by $10 million from the December 2018 quarter, primarily due to a decrease in other general expenses.  
+Compared to the March 2018 quarter, Marketing and administrative expense for the March 2019 quarter decreased by $25 million, primarily due to a $4 million decrease in salaries and employee benefits as a result of the restructuring of our workforce in prior periods, a $13 million decrease in other general expenses and a $7 million decrease in variable compensation expense.  
+Compared to the corresponding nine months ended March 30, 2018, Marketing and administrative expense for the nine months ended March 29, 2019 decreased by $77 million, primarily due to a $31 million decrease in salaries and employee benefits as a result of the restructuring of our workforce in prior periods, a $30 million decrease in other general expenses due to related operational efficiencies and a $15 million decrease in variable compensation expense.  
 Restructuring and other, net. Restructuring and other, net for nine months ended March 29, 2019 was comprised of charges primarily related to a voluntary early exit program. There was no new restructuring plan in the March 2019 quarter.  
 Restructuring and other, net for nine months ended March 30, 2018 was comprised of restructuring charges to reduce our global workforce by 1,100 employees.  
-Other Expense, Net  
-Table of Contents 
-Other expense, net. Other expense, net for the March 2019 quarter remained flat compared to the December 2018 quarter.  
 Compared to the March 2018 quarter, Other expense, net for the March 2019 quarter decreased by $27 million primarily due to a $16 million increase in interest income on our investment in a debt security, a $9 million net increase in gains due to favorable changes in foreign currency exchange rates, a $6 million decrease in interest expense due to the repayment of certain senior notes, a $3 million decrease due to impairment charge of a strategic investment that did not recur in fiscal year 2019, offset by a $5 million decrease in interest income primarily due to lower average invested balances.  
-Other expense, net for the nine months ended March 29, 2019 decreased by $103 million from the corresponding period in the prior year, primarily due to a $47 million increase in interest income on our investment in a debt security, a $43 million net increase in gains due to favorable changes in foreign currency exchange rates and a $14 million decrease in interest expense due to the repayment of certain senior notes.  
-Table of Contents 
 We recorded income tax provisions of $20 million and $52 million in the three and nine months ended March 29, 2019, respectively. The income tax provision for the three and nine months ended March 29, 2019 included approximately $9 million and $5 million of net discrete tax expense, respectively, primarily associated with a deferred withholding tax liability resulting from a change in indefinite reinvestment assertion for a foreign subsidiary. This was partially offset by the recognition of previously unrecognized tax benefits related to the expiration of certain statutes of limitation.  
 Our income tax provision was $12 million and $231 million in the three and nine months ended March 30, 2018, respectively. The income tax provision for the three and nine months ended March 30, 2018 included approximately $2 million of net discrete tax benefit and approximately $195 million of net discrete tax expense, respectively. The discrete items for the nine months ended March 30, 2018 are primarily associated with the revaluation of U.S. deferred tax assets as a result of the enactment of the Tax Act on December 22, 2017, partially offset by the recognition of previously unrecognized tax benefits associated with the expiration of certain statutes of limitation.  
-Liquidity and Capital Resources  
-Table of Contents 
-Cash and Cash Equivalents  
 Our cash and cash equivalents as of March 29, 2019 decreased by $465 million from June 29, 2018 primarily as a result of repurchases of our ordinary shares of $613 million, dividends to our shareholders of $539 million, repayment of our 2018 Senior Notes of $499 million, and payments for capital expenditures of $451 million, partially offset by net proceeds from the borrowing on the 2019 Revolving Credit Facility of $196 million and net cash provided by operating activities.  
-Cash Provided by Operating Activities  
-a decrease of $296 million in accounts receivable, primarily due to a decrease in revenue and improved collections;  
 a decrease of $108 million in accrued employee compensation primarily due to cash paid to our employees as part of our variable compensation plans.  
-Cash Used in Investing Activities  
 Cash used in investing activities for the nine months ended March 29, 2019 was $359 million, primarily attributable to the payments for the purchase of property, equipment and leasehold improvements of $451 million, offset by the proceeds from the settlement of foreign currency forward exchange contracts of $66 million and the proceeds from the sale of properties previously classified as held for sale of $27 million.  
-Cash Used in Financing Activities  
-$613 million in payments for repurchase of our ordinary shares;  
-$539 million in dividend payments;  
-$499 million in repayment of our 2018 Senior Notes; and  
-$30 million in payments for taxes related to net share settlement of equity awards;  
-partially offset by $196 million in net proceeds from the borrowing on the 2019 revolving credit facility; and  
 $68 million in proceeds from the issuance of ordinary shares under employee stock plans.  
-Liquidity Sources, Cash Requirements and Commitments  
-Table of Contents 
+On February 20, 2019, we terminated our senior unsecured revolving credit facility scheduled to expire on January 15, 2020, under which we were able to draw up to $700 million. Upon termination, we and our subsidiary Seagate HDD Cayman entered into a new credit agreement which provides us with a $1.3 billion senior unsecured revolving credit facility and an option to increase the facility by up to an aggregate of $300 million provided that (i) there has been, and will be after giving effect to such increase, no default, (ii) the increase is at least $25 million, and (iii) the existing commitments under the facility receive 0.50% most favored nation protection.  
 As of March 29, 2019, approximately $200 million in borrowings had been drawn and no borrowings had been utilized for letters of credit or swing line loans issued under the 2019 Revolving Credit Facility. The 2019 Revolving Credit Facility is available for borrowings, subject to compliance with financial covenants and other customary conditions to borrowing.  
+Our liquidity requirements are primarily to meet our working capital, product development and capital expenditure needs, to fund scheduled payments of principal and interest on our indebtedness, and to fund our quarterly dividend and any future strategic investments. Our ability to fund these requirements will depend on our future cash flows, which are determined by future operating performance, and therefore, subject to prevailing global macroeconomic conditions and financial, business and other factors, some of which are beyond our control.  
 For fiscal year 2019, we expect capital expenditures to remain within our long-term targeted range of 6% to 8% of revenue.  
 From time to time we may repurchase any of our outstanding notes in open market or privately negotiated purchases or otherwise, or we may repurchase outstanding notes pursuant to the terms of the applicable indenture.  
 Dividends declared in the March 2019 quarter of $174 million were subsequently paid on April 3, 2019. Our Board of Directors declared a quarterly cash dividend of $0.63 per share on April 30, 2019, which is payable on July 3, 2019 to shareholders of record at the close of business on June 19, 2019.  
-Table of Contents 
-Contractual Obligations and Commitments  
+From time to time we may repurchase any of our outstanding ordinary shares through private, open market, tender offers broker-assisted purchases or other means. On October 29, 2018, our Board of Directors authorized the repurchase of an additional $2.3 billion of its outstanding ordinary shares. As of March 29, 2019, $2.5 billion remained available for repurchase under our existing repurchase authorization limit. All repurchases are effected as redemptions in accordance with our Articles of Association.  
 Purchase obligations are defined as contractual obligations for the purchase of goods or services, which are enforceable and legally binding on us, and that specify all significant terms.  
 Includes total future minimum rent expense under non-cancelable leases for both occupied and vacated facilities (rent expense is shown net of sublease income).  
 Consists of funding requirements related to strategic commitments.  
-Critical Accounting Policies  
-Recent Accounting Pronouncements  
-Table of Contents 
- ITEM 2.  
-Repurchase of Equity Securities  
 All repurchases are effected as redemptions in accordance with the Companys Articles of Association.  
 On October 29, 2018, the Companys Board of Directors authorized the repurchase of an additional $2.3 billion of its outstanding ordinary shares. As of March 29, 2019, $2.5 billion remained available for repurchase under the existing repurchase authorization limit. There is no expiration date on this authorization.  
 Repurchase of shares including tax withholdings.  
