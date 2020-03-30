@@ -1,0 +1,434 @@
+ITEM 1.
+FINANCIAL STATEMENTS 
+
+
+
+SIERRA MONITOR CORPORATION 
+
+
+
+Condensed Balance Sheets 
+
+
+
+  [DATA_TABLE_REMOVED] 
+
+
+
+See accompanying notes to the unaudited interim condensed financial statements.
+Page 2 of 19 
+
+
+
+SIERRA MONITOR CORPORATION 
+
+
+
+Condensed Statements of Operations 
+
+
+
+(Unaudited) 
+
+
+
+  [DATA_TABLE_REMOVED] 
+
+
+
+See accompanying notes to the unaudited interim condensed financial statements.
+Page 3 of 19 
+
+
+
+SIERRA MONITOR CORPORATION 
+
+
+
+Condensed Statements of Cash Flows 
+
+
+
+(Unaudited) 
+
+
+
+  [DATA_TABLE_REMOVED] 
+
+
+
+See accompanying notes to the unaudited interim condensed financial statements.
+Page 4 of 19 
+
+
+
+SIERRA MONITOR CORPORATION 
+
+
+
+Notes to the Interim Condensed Financial Statements 
+
+
+
+(Unaudited) 
+
+
+
+March 31, 2018 
+
+
+
+Basis of Presentation 
+
+
+
+The accompanying unaudited interim condensed financial statements have been prepared by Sierra Monitor Corporation (the “Company,” “we,” or “us”) pursuant to the rules and regulations of the Securities and Exchange Commission (the “SEC”).
+In the opinion of the Company, all adjustments, including normal recurring adjustments necessary to present fairly the financial position, results of operations, and cash flows of the Company for the interim period have been included.
+Summary of Business 
+
+
+
+Sierra Monitor Corporation addresses the industrial and commercial facilities management market with Industrial Internet of Things (“IIoT”) solutions that target facility automation and facility safety requirements, also referred to as “Connect” and “Protect”.
+The Company’s FieldServer family of protocol gateways, routers, and network explorers targets facility automation requirements, and is used by original equipment manufacturers (“OEMs”) and system integrators to enable local and remote monitoring and control of assets and facilities.
+The FieldServer family of products works with the FieldPoP™ device cloud portal; a cloud-based service that registers and manages FieldServer products, provides secure remote access to the local web-based applications that run on FieldServer products, and integrates with third-party applications over REST APIs.
+With more than 200,000 installed gateways supporting over 140 protocols such as BACnet, LonWorks, MODBUS, and XML in commercial and industrial facilities, FieldServer is the industry’s leading multi-protocol gateway brand and is delivered in a variety of form factors appropriate to the asset being interfaced.
+The intellectual property in FieldServer products is embodied in the proprietary embedded software that runs on a variety of customized hardware platforms with different connectivity options such as Serial, Ethernet, WiFi, or cellular.
+In addition to bridging data protocols between various assets or devices within a facility, the embedded software includes value-added “fog” or “local application” software for monitoring, logging, alarming, and trending local field data.
+Additionally, the embedded software enables the assets or devices in the facility to securely connect to third-party clouds and to the Company’s own FieldPoP device cloud portal.
+The FieldPoP device cloud portal is a proprietary, secure, and scalable Software-as-a-Service product and is developed and deployed using the same core technologies and providers that are used by many of the world’s leading web sites and Internet-based services.
+The Company’s Flame and Gas (F&G) detection solutions target facility safety requirements, and are used by industrial and commercial facilities managers to protect their personnel and assets.
+The motivation for installing gas detection systems is driven, in part, by industrial safety professionals guided by the United States Occupational Safety and Health Administration, state and local governing bodies, insurance companies and various industry rule-making bodies.
+The solution consists of proprietary system hardware that runs embedded controller and gateway software, detector modules that sense the presence of various toxic and combustible gases and flames, connectivity between the modules and the controller, and a user interface and applications that a facility manager can interact with, either locally on site or remotely over the Internet.
+The complex software embedded in the various products facilitates system-wide functions such as calibration, alarm detection, notification, and mitigation.
+The controller software also includes local web-based applications that simplify management of the complete solution and a gateway to integrate the flame and gas detection solution with the facility’s local supervisory system or to the Company’s FieldPoP device cloud portal.
+With more than 100,000 detector modules sold, our flame and gas detection solutions are deployed in a variety of facilities, such as oil, gas and chemical processing plants, wastewater treatment facilities, alternate fuel vehicle maintenance garages and other sites where hazardous gases are used or produced.
+Page 5 of 19 
+
+
+
+The Company’s solutions are also sold to telecommunication companies and their suppliers to manage environmental and security conditions such as temperature, gas, and smoke in remote structures such as local DSL distribution nodes and buildings at cell tower sites.
+The Company was founded in 1978 and its common stock is quoted on the OTC Bulletin Board under the symbol “SRMC”.
+Accounting Policies 
+
+
+
+ a)Revenue Recognition 
+
+
+
+Effective January 1, 2018, the Company began recognizing revenue in accordance with FASB ASC Topic 606, Revenue from Contracts with Customers (“ASC 606”).
+ASC 606 provides for a five-step model that includes identifying the contract with a customer, identifying the performance obligations in the contract, determining the transaction price, allocating the transaction price to the performance obligations, and recognizing revenue when, or as, an entity satisfies a performance obligation.
+The Company adopted ASC 606 utilizing the modified retrospective method as of January 1, 2018.
+The discussion is incorporated herein by reference.
+In May 2014, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) 2014-09, Revenue from Contracts with Customers, issued as a new Topic, ASC Topic 606 (ASU 2014-09).
+The new revenue recognition standard provides a five-step analysis of transactions to determine when and how revenue is recognized.
+The premise of the standard is that a Company should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services.
+ASU 2014-09 can be adopted by the Company either retrospectively under the full retrospective approach or as a cumulative-effect adjustment as of the date of adoption under the modified retrospective approach.
+The Company has adopted the guidance beginning in fiscal 2018 and had previously disclosed that it would use the full retrospective approach.
+However, the Company has changed its implementation to the modified retrospective approach.
+Adoption of the standard did not have a material impact on our financial statements.
+See Critical Accounting Policies for disclosures.
+In February 2016, the FASB issued ASU 2016-2, “Leases” (Topic 842), which is intended to improve financial reporting for lease transactions.
+This ASU will require organizations that lease assets, such as real estate, airplanes and manufacturing equipment, to recognize on their balance sheet the assets and liabilities for the rights to use those assets for the lease term and obligations to make lease payments created by those leases that have terms of greater than 12 months.
+The recognition, measurement, and presentation of expenses and cash flows arising from a lease by a lessee primarily will depend on its classification as finance or operating lease.
+This ASU will also require disclosures to help investors and other financial statement users better understand the amount and timing of cash flows arising from leases.
+The ASU is effective for the Company for the year ending December 31, 2019 and interim reporting periods within that year, and early adoption is permitted.
+Management has not yet determined the effect of this ASU on the Company’s financial statements.
+Page 6 of 19 
+
+
+
+ c)Employee Stock-Based Compensation 
+
+
+
+In April 2016 and in May 2016, the Company’s Board of Directors and the Company’s shareholders, respectively, approved the Company’s 2016 Equity Incentive Plan (the “2016 Stock Plan”) and reserved a total of (i) 279,680 shares, plus (ii) 2,550,320 shares that remained available for issuance under the 2006 Stock Plan immediately prior to its expiration, plus (iii) any shares subject to stock options or restricted stock granted under the 2006 Stock Plan that, on or after the date the 2016 Stock Plan became effective, expired or otherwise terminated without having been exercised in full, or were forfeited to or repurchased by the Company, with the maximum number of shares to be added to the 2016 Stock Plan pursuant to clauses (ii) and (iii) equal to 2,668,320.
+Options granted under our 2006 Stock Plan and 2016 Stock Plan are at the fair market value of our common stock at the grant date, typically vest ratably over four years, and expire ten years from the grant date.
+As of March 31, 2018, a total of 1,154,000 shares were issued under the 2016 Stock Plan.
+All share-based payments to employees (incentive stock options) are recognized in the financial statements based on their fair values at the date of grant.
+The calculated fair value is recognized as expense (net of any capitalization) over the requisite service period, net of estimated forfeitures, using the straight-line method.
+The Company considers many factors when estimating expected forfeitures, including types of awards, employee class and historical experience.
+The modified prospective method of application requires compensation expense to be recognized in the financial statements for all unvested stock options beginning in the quarter of award.
+The cost is based on the grant date fair value of the stock option.
+Compensation expense recognized in future periods for share-based compensation will be adjusted for the effects of estimated forfeitures.
+For the three-month periods ended March 31, 2018 and 2017, general and administrative expenses included stock based compensation expense of $46,660 and $81,204, respectively, decreasing the Company’s income before income taxes and increasing the Company’s loss before income taxes, respectively, resulting from the recognition of compensation expense associated with employee stock options.
+There was no material impact on the Company’s basic and diluted net loss per share as a result of recognizing the employee stock-based compensation expense.
+Page 7 of 19 
+
+
+
+Inventories 
+
+
+
+A summary of inventories is as follows: 
+
+
+
+  [DATA_TABLE_REMOVED] 
+
+
+
+Net Income (Loss) Per Share 
+
+
+
+Basic earnings (loss) per share (“EPS”) is computed using the weighted average number of common shares outstanding during the period.
+Diluted EPS is computed using the weighted average number of common and dilutive potential common shares outstanding during the period.
+Dilutive potential common shares consist of common stock issuable upon exercise of stock options using the treasury stock method.
+No adjustments to earnings (losses) were made for purposes of per share calculations.
+At March 31, 2018 outstanding options to acquire 808,000 shares of common stock were not considered potentially dilutive common shares due to the exercise price of such options being higher than the stock price used in the EPS calculation.
+The following is a reconciliation of the shares used in the computation of basic and diluted EPS for the periods ended March 31, 2018 and 2017, respectively: 
+
+
+
+  [DATA_TABLE_REMOVED] 
+
+
+
+Concentrations 
+
+
+
+No customer made up more than 10% of accounts receivable at March 31, 2018 and at March 31, 2017.
+No customer made up more than 10% of net sales for the three-month periods ended March 31, 2018 and March 31, 2017.
+The Company currently maintains substantially all of its day to day operating cash with a major financial institution.
+At times, cash balances may be in excess of the amounts insured by the Federal Deposit Insurance Corporation.
+Cash balances of approximately $2,969,000 and $3,948,000 were in excess of such insured amounts at March 31, 2018 and December 31, 2017, respectively.
+Page 8 of 19 
+
+
+
+Segment Information 
+
+
+
+The Company operates in a single business segment, industrial instrumentation.
+The Company’s chief operating decision maker, the Chief Executive Officer (“CEO”), evaluates the performance of the Company and makes operating decisions based on financial data consistent with the presentation in the accompanying condensed financial statements.
+In addition, the CEO reviewed the following information on revenues by product category for the following periods: 
+
+
+
+  [DATA_TABLE_REMOVED] 
+
+
+
+Line of Credit 
+
+
+
+The Company maintains a line of credit with its commercial bank in the maximum amount of $2,000,000.
+No borrowings have been made under the Company’s line of credit during the first three months of fiscal year 2018 and there were no outstanding balances as of March 31, 2018 and December 31, 2017.
+As of March 31, 2018, the Company was in compliance with the financial covenants of the line of credit.
+Stock Option Grants 
+
+
+
+A total of 41,000 stock options were granted during the three-month period ended March 31, 2018.
+No stock options were granted during the three-month periods ended March 31, 2017.
+Stock Option Exercises and Expirations 
+
+
+
+No stock options were exercised and 1,000 options expired during the three-month period ended March 31, 2018.
+No stock options were exercised and 20,500 options expired during the three-month period ended March 31, 2017.
+Page 9 of 19 
+
+
+
+ITEM 2: MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+
+
+This Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”).
+The results for the first quarter of fiscal 2018 represent a 13.8% increase from the same period in the prior year.
+Sales of gas detection products, including industrial accounts and military sales, increased by approximately 19.9% in the first quarter of 2018 compared to the same period in the prior year.
+Our flame and gas detection products are generally sold to engineering and installation firms who utilize the products as part of larger fire and safety projects in a variety of facilities, such as oil, gas and chemical processing plants, wastewater treatment facilities, alternate fuel vehicle maintenance garages, and other sites where hazardous gases are used or produced.
+The increase in sales in the first quarter of 2018 compared to the same period in the prior year was primarily attributable to increased government shipments.
+Sales of our FieldServer product line increased by 8.6% in the first quarter of 2018 compared to the same period in the prior year.
+Our FieldServer products are primarily sold to OEMs who develop a broad range of products relevant to facility automation, such as boilers, chillers, air handlers, lighting controls, generator sets, electric sub-meters, etc.
+Our FieldServer products are also bought by system integrators looking to connect various discrete automation sub-systems to a common facility management system.
+Our IIoT focused products are showing growth due to pull through from other solutions like our SMC Cloud offer which is enabling device management, visualization and analytics.
+Customers are buying our equipment to access the cloud solution.
+Page 10 of 19 
+
+
+
+Gross profit for the three-month period ended March 31, 2018 was $3,166,454, or 61.5% of net sales, compared to $2,734,384, or 60.4% of net sales, for the same period in the prior year.
+Expenses for research and development, which include new product development and engineering to sustain existing products, were $774,428, or 15.0% of net sales, for the three-month period ended March 31, 2018, compared with $760,296, or 16.8% of net sales, in the same period in the prior year.
+Selling and marketing expenses, which consist primarily of salaries, commissions and promotional expenses, for the three-month period ended March 31, 2018 were $1,386,364, or 26.9% of net sales, compared to $1,355,211, or 29.9% of net sales, in the same period in the prior year.
+Selling and marketing expenses increased slightly compared to the first quarter of 2017 as we increase customer outreach and focus on both our OEM and system integrator channels.
+General and administrative expenses for the first quarter of 2018 were $914,712, or 17.8% of net sales, compared to $787,812, or 17.4% of net sales, in the same period in the prior year.
+General and administrative expenses increased in the first quarter of 2018 compared to the same period in the prior year primarily due to technology upgrades to key customer and delivery focused systems.
+Income from operations for the three-month period ended March 31, 2018 was $90,950, or 1.8% of net sales, compared to loss of $168,935, or 3.7% of net sales, in the same period in the prior year.
+The increase is primarily the result of increased net sales.
+Net income for the three-month period ended March 31, 2018 was $51,261, or approximately 1.0% of net sales, compared to net loss of $133,842, or approximately 3.0% of net sales, for the same period in the prior year.
+Liquidity and Capital Resources 
+
+
+
+During the three months ended March 31, 2018, net cash provided by operating activities was approximately $378,147 compared to approximately $112,390 net cash used in operating activities for the same period in the prior year.
+Working capital was approximately $8,444,000 at March 31, 2018, a decrease of approximately $14,000 from December 31, 2017.
+At March 31, 2018, our balance sheet reflected approximately $3,399,000 of cash and $2,862,000 of net trade receivables.
+At March 31, 2018, we had no long-term liabilities.
+We maintain a line of credit with a commercial bank in the maximum amount of $2,000,000.
+No borrowings have been made under our line of credit during the first three months of fiscal year 2018 and there were no outstanding balances at March 31, 2018 and December 31, 2017.
+As of March 31, 2018, we were in compliance with the financial covenants of the line of credit.
+ASC 606 requires the recognition of revenue when promised goods or services are transferred to customers in an amount that reflects the considerations to which the entity expects to be entitled to in exchange for those goods or services.
+On January 1, 2018, the Company adopted ASC 606 by using the modified retrospective method.
+The Company recognized the cumulative effect of initially applying ASC 606 as an adjustment to the opening balance of retained earnings.
+The comparative information has not been recast and continues to be reported under the accounting standards in effect for those periods.
+The majority of the impact has been on sales returns and the impact has been deemed immaterial.
+The Company’s revenues are derived from the sale of FieldServer products, FieldServer products services, Gas Detection and Environment Control products, and Gas Detection and Environment Control products services.
+The Company’s revenue arrangements consist of multiple performance obligations including hardware, software, and services.
+Determining the stand-alone selling price (“SSP”) and allocation of consideration from an arrangement to the individual performance obligations, and the appropriate timing of revenue recognition are significant judgments with respect to these arrangements.
+Page 12 of 19 
+
+
+
+When the Company’s products and services are sold in bundled arrangements (e.g., hardware, software, and/or services), for bundled arrangements, the Company accounts for individual products and services separately if they are distinct, that is, if a product or service is separately identifiable from other items in the bundled package and if a customer can benefit from it on its own or with other resources that are readily available to the customer.
+The consideration (including any discounts) is allocated between separate products or services in a bundle based on their individual SSP.
+The SSP is determined based on observable prices at which the Company separately sells the products and services.
+The following is a description of the principal activities from which the Company generates its revenues: 
+
+
+
+Gas Detection and Environment Control Products 
+
+
+
+Gas Detection and Environment Control Products are sold as off-the-shelf products with prices fixed at the time of order.
+The creditworthiness of customers is assessed prior to the Company accepting a customer’s first order.
+Additionally, international customers and customers who have developed a history of payment problems are generally required to prepay or pay through a letter-of-credit.
+Gas Detection and Environment Control Services 
+
+
+
+Gas detection and environment control services consist of field service orders (technical support) and training, which are provided separately from product orders.
+Revenue recognition occurs only when the service activity is completed.
+Such services are provided to current and prior customers, and, as noted above, creditworthiness has generally already been assessed.
+In cases where the probability of receiving payment is low, a credit card number is collected for immediate processing.
+Revenue is recognized in the period the technical support and training are performed.
+FieldServer Products 
+
+
+
+FieldServer products are sold in the same manner as Gas Detection and Environment Control Products (as discussed above) except that the products contain embedded software, which is integral to the operation of the device.
+The software embedded in FieldServer products includes two items: (a) a compiled program containing (i) the basic operating system for FieldServer products, which is common to every unit, and (ii) the correct set of protocol drivers based on the customer order (see FieldServer Services below for more information); and (b) a configuration file that identifies and links each data point as identified by the customer.
+The Company determined that the hardware, and the embedded software as defined above represent one performance obligation because the hardware is dependent upon and highly interrelated with the embedded software, and without which the hardware can’t operate.
+If the software requires modification, refer to FieldServer Services for details.
+Page 13 of 19 
+
+
+
+FieldServer Services 
+
+
+
+FieldServer services consist of orders for custom development of protocol drivers.
+However, if custom development of the protocol driver is required, the product order is not processed until development of the protocol driver is complete.
+The driver development involves further research after receipt of order, preparation of a scope document to be approved by the customer and then engineering time to write, test and release the driver program.
+When development of the driver is complete the customer is notified and can proceed with a FieldServer product.
+Revenues for protocol driver development are recognized at a point in time when the control of the product is transferred to the customer generally occurring upon shipment or delivery of the related product that includes the developed protocol drivers (as noted in FieldServer Products above).
+Discounts and Allowances 
+
+
+
+Discounts are applied at time of order entry and sales are processed at net pricing.
+No allowances are offered to customers.
+c)Warranty 
+
+
+
+The Company provides a warranty on all products sold for a period of two years after the date of shipment.
+Warranty issues are usually resolved with repair or replacement of the product.
+This standard warranty is assurance type warranty and does not offer any services in addition to the assurance that the product will continue working as specified.
+Therefore, warranties are not considered separate performance obligations in the arrangement.
+Instead, estimated future warranty obligations related to products are provided by charges to condensed statements of operations in the period in which the related revenue is recognized.
+d)Contract Balances 
+
+
+
+The Company records accounts receivable when it has an unconditional right to consideration.
+Contract liabilities are recorded when cash payments are received or due in advance of performance.
+Contract liabilities consist of only advance payments, where the Company has unsatisfied performance obligations.
+At times, billing may occur subsequent to revenue recognition, resulting in an unbilled receivable which represents a contract asset.
+The Company does not have any unbilled receivable on the condensed balance sheets.
+Payment terms vary by customer.
+The time between invoicing and when payment is due is not significant.
+For certain products or services and customer types, payment is required before the products or services are delivered to the customer.
+Page 14 of 19 
+
+
+
+  [DATA_TABLE_REMOVED] 
+
+
+
+There were no significant changes in estimates during the period that would affect the contract balances.
+The amounts of revenue recognized during the three months ended March 31, 2018 and March 31, 2017 from the opening deferred revenue balances were $425 and $0, respectively.
+For the periods ended March 31, 2018, and March 31, 2017 no impairment losses related to contract balances were recognized in the condensed statement of operations.
+e)Disaggregation of Revenue 
+
+
+
+In the following table, net sales are disaggregated by geographic region The Company conducts business across 5 geographic regions: United States & Canada, Latin America, Europe, Middle East and Asia.
+[DATA_TABLE_REMOVED] 
+
+
+
+ f)Shipping and Handling 
+
+
+
+The Company has elected to account for shipping and handling activities related to contracts with customers as costs to fulfill the promise to transfer the associated products.
+g)Remaining Performance Obligations 
+
+
+
+Remaining performance obligations represent the transaction price allocated to performances obligations that are unsatisfied or partially unsatisfied as of the end of the reporting period.
+As of March 31, 2018, the remaining performance obligation is approximately $4,920,000, 45% or $2,229,000 of which is expected to be recognized in 3 months and 69% or $3,408,000 of which is expected to be recognized within nine months.
+Our international sales are generally made based on secure payments, including cash wire advance payments and letters of credit.
+International sales are made on open account terms where sufficient historical experience justifies the credit risks involved.
+In many of our larger sales, the customers are frequently construction contractors who are in need of our field services to complete their work and obtain payment.
+Management’s ability to manage the credit terms and take advantage of the leverage provided by the customers’ need for our services is critical to the effective application of credit terms and minimization of accounts receivable losses.
+Page 15 of 19 
+
+
+
+We maintain an allowance for doubtful accounts which is analyzed on a periodic basis to determine adequacy.
+We believe that we have demonstrated the ability to make reasonable and reliable estimates of allowances for doubtful accounts based on significant historical experience.
+The Company uses an Enterprise Requirements Planning (“ERP”) software system which provides data upon which management relies to determine inventory trends and identify excesses.
+We evaluate the carrying value of inventory quarterly.
+The adequacy of these carrying amounts is dependent upon management’s ability to forecast demands accurately, manage product changes efficiently, and interpret the data provided by the ERP system.
+Off-Balance Sheet Arrangements 
+
+
+
+None.
+ITEM 3: QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+
+
+Not applicable.
+ITEM 4: CONTROLS AND PROCEDURES 
+
+
+
+Disclosure Controls and Procedures 
+
+
+
+As of the end of the period covered by this Quarterly Report on Form 10-Q, our management, with the participation of Jeffrey Brown, our principle executive officer, and Tamara S. Allen, our principal financial officer, carried out an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures, pursuant to Exchange Act Rules 13a-15(e) and 15d-15(e), which includes inquiries made to certain other employees.
+Based upon that evaluation, Mr. Brown and Ms. Allen concluded that, as of March 31, 2018, our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) of the Exchange Act) were effective.
+Page 16 of 19 
+
+
+
+PART II: OTHER INFORMATION 
+
+
+
+ITEM 1.
+ITEM 1A.
+The Company’s risk factors have not changed materially since December 31, 2017.

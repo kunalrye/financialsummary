@@ -1,0 +1,544 @@
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+
+
+The following Management’s Discussion and Analysis (“MD&A”) covers: (i) the results of operations for the three months ended March 31, 2019 and 2018 and (ii) the financial condition as of March 31, 2019. You should read the following discussion and analysis in conjunction with the audited consolidated financial statements (the “Audited Consolidated Financial Statements”) and related notes for the fiscal year ended December 31, 2018, included in the Company’s Annual Report on Form 10-K and with the unaudited consolidated condensed financial statements (the “Unaudited Consolidated Financial Statements”) and related notes appearing elsewhere herein. This MD&A contains forward-looking statements that involve risks and uncertainties. Our actual results may differ from those indicated in the forward-looking statements. See “Forward-Looking Statements” for a discussion of the risks, uncertainties and assumptions associated with these statements.
+
+
+
+Except as otherwise indicated or unless the context otherwise requires, (a) the terms “EVERTEC,” “we,” “us,” “our,” “our Company” and “the Company” refer to EVERTEC, Inc. and its subsidiaries on a consolidated basis, (b) the term “Holdings” refers to EVERTEC Intermediate Holdings, LLC, but not any of its subsidiaries and (c) the term “EVERTEC Group” refers to EVERTEC Group, LLC and its predecessor entities and their subsidiaries on a consolidated basis, including the operations of its predecessor entities prior to the Merger (as defined below). EVERTEC Inc.’s subsidiaries include Holdings, EVERTEC Group, EVERTEC Dominicana, SAS, Evertec Chile Holdings SpA (formerly known as Tecnopago SpA), Evertec Chile SpA (formerly known as EFT Group SpA), Evertec Chile Global SpA (formerly known as EFT Global Services SpA), Evertec Chile Servicios Profesionales SpA (formerly known as EFT Servicios Profesionales SpA), , EFT Group S.A., Tecnopago España SL, Paytrue S.A., Caleidon, S.A., Evertec Brasil Solutions Informática Ltda. (formerly known as Paytrue Solutions Informática Ltda.), EVERTEC Panamá, S.A., EVERTEC Costa Rica, S.A. (“EVERTEC CR”), EVERTEC Guatemala, S.A., Evertec Colombia, SAS (formerly known as Processa, SAS), EVERTEC USA, LLC and EVERTEC México Servicios de Procesamiento, S.A. de C.V. Neither EVERTEC nor Holdings conducts any operations other than with respect to its indirect or direct ownership of EVERTEC Group.
+
+
+
+Executive Summary
+
+
+
+EVERTEC is a leading full-service transaction processing business in Latin America and the Caribbean, providing a broad range of merchant acquiring, payment services and business process management services. According to the August 2018 Nilson Report, we are one of the largest merchant acquirers in Latin America based on total number of transactions and we believe we are the largest merchant acquirer in the Caribbean and Central America. We serve 26 countries in the region from our base in Puerto Rico. We manage a system of electronic payment networks that process more than two billion transactions annually, and offer a comprehensive suite of services for core bank processing, cash processing and technology outsourcing. In addition, we own and operate the ATH network, one of the leading debit networks in Latin America. We serve a diversified customer base of leading financial institutions, merchants, corporations and government agencies with “mission-critical” technology solutions that enable them to issue, process and accept transactions securely. We believe our business is well-positioned to continue to expand across the fast-growing Latin American region.
+
+
+
+We are differentiated, in part, by our diversified business model, which enables us to provide our varied customer base with a broad range of transaction-processing services from a single source across numerous channels and geographic markets. We believe this capability provides several competitive advantages that will enable us to continue to penetrate our existing customer base with complementary new services, win new customers, develop new sales channels and enter new markets. We believe these competitive advantages include:
+
+
+
+•Our ability to provide competitive products; 
+
+
+
+•Our ability to provide in one package a range of services that traditionally had to be sourced from different vendors; 
+
+
+
+•Our ability to serve customers with disparate operations in several geographies with technology solutions that enable them to manage their business as one enterprise; and 
+
+
+
+•Our ability to capture and analyze data across the transaction processing value chain and use that data to provide value-added services that are differentiated from those offered by pure-play vendors that serve only one portion of the transaction processing value chain (such as only merchant acquiring or payment services). 
+
+
+
+Our broad suite of services spans the entire transaction processing value chain and includes a range of front-end customer-facing solutions such as the electronic capture and authorization of transactions at the point-of-sale, as well as back-end support services such as the clearing and settlement of transactions and account reconciliation for card issuers. These include: (i) merchant acquiring services, which enable point of sales (“POS”) and e-commerce merchants to accept and process electronic methods of payment such as debit, credit, prepaid and electronic benefit transfer (“EBT”) cards; (ii) payment processing services, which enable financial institutions and other issuers to manage, support and facilitate the processing for credit, debit, 
+
+
+
+21
+
+prepaid, automated teller machines (“ATM”) and EBT card programs; and (iii) business process management solutions, which provide “mission-critical” technology solutions such as core bank processing, as well as IT outsourcing and cash management services to financial institutions, corporations and governments. We provide these services through scalable, end-to-end technology platforms that we manage and operate in-house and that generates significant operating efficiencies that enable us to maximize profitability. 
+
+
+
+We sell and distribute our services primarily through a proprietary direct sales force with established customer relationships. We continue to pursue joint ventures and merchant acquiring alliances. We benefit from an attractive business model, the hallmarks of which are recurring revenue, scalability, significant operating margins and moderate capital expenditure requirements. Our revenue is predominantly recurring in nature because of the mission-critical and embedded nature of the services we provide. In addition, we generally negotiate multi-year contracts with our customers. We believe our business model should enable us to continue to grow our business organically in the primary markets we serve without significant incremental capital expenditures. 
+
+
+
+Corporate Background
+
+
+
+EVERTEC, Inc. ("EVERTEC", formerly known as Carib Latam Holdings, Inc.) is a Puerto Rico corporation organized in April 2012. Our main operating subsidiary, EVERTEC Group, LLC (formerly known as EVERTEC, LLC and EVERTEC, Inc., hereinafter “EVERTEC Group”), was organized in Puerto Rico in 1988. EVERTEC Group was formerly a wholly-owned subsidiary of Popular. On September 30, 2010, pursuant to an Agreement and Plan of Merger (as amended, the “Merger Agreement”), AP Carib Holdings, Ltd. (“Apollo”), an affiliate of Apollo Global Management LLC, acquired a 51% indirect ownership interest in EVERTEC Group as part of a merger (the “Merger”) and EVERTEC Group became a wholly-owned subsidiary of Holdings. 
+
+
+
+On April 17, 2012, EVERTEC Group was converted from a Puerto Rico corporation to a Puerto Rico limited liability company (the “Conversion”) for the purpose of improving its consolidated tax efficiency by taking advantage of changes to the Puerto Rico Internal Revenue Code, as amended (the “PR Code”), that permit limited liability companies to be treated as partnerships that are pass-through entities for Puerto Rico tax purposes. Concurrent with the Conversion, Holdings, which is our direct subsidiary, was also converted from a Puerto Rico corporation to a Puerto Rico limited liability company. Prior to these conversions, EVERTEC, Inc. was formed in order to act as the new parent company of Holdings and its subsidiaries, including EVERTEC Group. The transactions described above in this paragraph are collectively referred to as the “Reorganization.” 
+
+
+
+Separation from and Key Relationship with Popular
+
+
+
+Prior to the Merger on September 30, 2010, EVERTEC Group was 100% owned by Popular, the largest financial institution in the Caribbean, and operated substantially as an independent entity within Popular. After the consummation of the Merger, Popular retained an indirect ownership interest in EVERTEC Group and is our largest customer. In connection with, and upon consummation of the Merger, EVERTEC Group entered into a 15-year Master Services Agreement (the “MSA”), and several related agreements with Popular. Under the terms of the MSA, Popular agreed to continue to use EVERTEC services on an ongoing and exclusive basis, for the duration of the agreement, on commercial terms consistent with those of our historical relationship. Additionally, Popular granted us a right of first refusal on the development of certain new financial technology products and services for the duration of the MSA.
+
+
+
+Factors and Trends Affecting the Results of Our Operations
+
+
+
+The ongoing migration from cash and paper methods of payment to electronic payments continues to benefit the transaction-processing industry globally. We believe that the penetration of electronic payments in the markets in which we operate is significantly lower relative to the U.S. market, and that this ongoing shift will continue to generate substantial growth opportunities for our business. For example, currently the adoption of banking products, including electronic payments, in the Latin American and Caribbean regions is lower relative to the mature U.S. and European markets. We believe that the unbanked and underbanked population in our markets will continue to shrink, and therefore drive incremental penetration and growth of electronic payments in Puerto Rico and other Latin American regions. We also benefit from the trend for financial institutions and government agencies to outsource technology systems and processes. Many medium- and small-size institutions in the Latin American markets in which we operate have outdated computer systems and updating these IT legacy systems is financially and logistically challenging, which presents a business opportunity for us. 
+
+
+
+Finally, our financial condition and results of operations are, in part, dependent on the economic and general conditions of the geographies in which we operate. 
+
+
+
+22
+
+On June 30, 2016, the U.S. President signed into law PROMESA. PROMESA establishes a fiscal oversight and the Oversight Board comprised of seven voting members appointed by the President. The Oversight Board has broad budgetary and financial powers over Puerto Rico’s budget, laws, financial plans and regulations, including the power to approve restructuring agreements with creditors, file petitions for restructuring and reform the electronic system for the tax collection. The Oversight Board will have ultimate authority in preparing the Puerto Rico government’s budget and any issuance of future debt by the government and its instrumentalities. In addition, PROMESA imposes an automatic stay on all litigation against Puerto Rico and its instrumentalities, as well as any other judicial or administrative actions or proceedings to enforce or collect claims against the Puerto Rico government. On May 1, 2017, the automatic stay expired. Promptly after the expiration of the stay, creditors of the Puerto Rico government filed various lawsuits involving defaults on more than $70 billion of bonds issued by Puerto Rico, having failed to reach a negotiated settlement on such defaults with the Puerto Rico government during the period of the automatic stay. On May 3, 2017, the Oversight Board filed a voluntary petition of relief on behalf of the Commonwealth pursuant to Title III of PROMESA for the restructuring of the Commonwealth’s debt. Subsequently, the Oversight Board filed voluntary petitions of relief pursuant to Title III of PROMESA on behalf certain public corporations and instrumentalities. Title III is an in-court debt restructuring proceeding similar to protections afforded debtors under Chapter 11 of the United States Code (the “Bankruptcy Code”); the Bankruptcy Code is not available to the Commonwealth or its instrumentalities.
+
+
+
+As the solution to the Puerto Rican government’s debt crisis remains unclear, we continue to carefully monitor our receivables with the government as well as monitor general economic trends to understand the impact the crisis has on the economy of Puerto Rico and our card payment volumes. To date our receivables with the Puerto Rican government and overall payment transaction volumes have not been significantly affected by the debt crisis, however we remain cautious.
+
+
+
+In addition to the macroeconomic trends described above, Management currently estimates that we will continue to experience a revenue attrition in Latin America of approximately $3 million to $4 million for previously disclosed migrations anticipated in 2019. The clients' decisions, which were made prior to 2015, for these anticipated migrations were driven by a variety of historical factors, most importantly customer service experience. Management believes that these customer decisions are unlikely to change, however timing is subject to change based on customer's conversion schedules. 
+
+
+
+Results of Operations
+
+
+
+Comparison of the three months ended March 31, 2019 and 2018 
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Revenues
+
+
+
+Total revenues in the first quarter of 2019 increased by $8.6 million or 8% to $118.8 million. Revenue increase in the first quarter of 2019 reflected growth from elevated sales volumes in Puerto Rico and increased core banking transactions, in part due to last year's hurricane impacted results. Additionally, revenue growth was a result of an increase in network services related to new managed services projects, as well as, a one-time revenue related to an electronic benefits contract of approximately $2.7 million. 
+
+
+
+23
+
+Cost of revenues 
+
+
+
+Cost of revenues amounted to $50.0 million, an increase of $2.6 million or 5% when compared with the prior year period. The increase is primarily related to increases in cost of sales and higher equipment maintenance expenses. 
+
+
+
+Selling, general and administrative
+
+
+
+Selling, general and administrative expenses in the first quarter of 2019 increased by $1.7 million or 13% when compared with the same quarter in 2018. The increase is primarily related to increases in salaries expense and increases in legal, consulting and other professional fees incurred in connection with specific initiatives. 
+
+
+
+Depreciation and amortization
+
+
+
+Depreciation and amortization expense amounted to $16.3 million, an increase of $0.4 million or 3%. The increase is mainly related to higher capital expenditures in prior year as well as impact from development projects going into production.
+
+
+
+Non-operating income (expenses)
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Non-operating expenses increased by $0.4 million to $6.9 million when compared with the prior year period. The increase is mainly related to a $0.6 million decrease in Other income, net due to a decrease in foreign exchange gains relative to the same quarter in 2018.
+
+
+
+Income tax expense 
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Income tax expense amounted to $3.8 million, relatively flat when compared with the prior year period. The effective tax rate for the quarter was 12.5%, compared with 14.5% in the 2018 period. The decrease in effective tax rate is primarily related to the mix between taxable and exempt income in Puerto Rico coupled with the impact of the decrease in income tax rate for fully taxable operations that came into effect on January 1, 2019. 
+
+
+
+Segment Results of Operations
+
+
+
+The Company operates in four business segments: Payment Services - Puerto Rico & Caribbean, Payment Services - Latin America, Merchant Acquiring, and Business Solutions. 
+
+
+
+The Payment Services - Puerto Rico & Caribbean segment revenues are comprised of revenues related to providing access to the ATH debit network and other card networks to financial institutions, including related services such as authorization, processing, management and recording of ATM and POS transactions, and ATM management and monitoring. The segment revenues also include revenues from card processing services (such as credit and debit card processing, authorization and settlement and fraud monitoring and control to debit or credit issuers), payment processing services (such as payment and billing products for merchants, businesses and financial institutions) and electronic benefit transfer (“EBT”) (which principally consist of services to the government of Puerto Rico for the delivery of benefits to participants). For ATH debit network and processing services, revenues are primarily driven by the number of transactions processed. Revenues are derived primarily 
+
+
+
+24
+
+from network fees, transaction switching and processing fees, and the leasing POS devices. For card issuer processing, revenues are primarily dependent upon the number of cardholder accounts on file, transactions and authorizations processed, the number of cards embossed and other processing services. For EBT services, revenues are primarily derived from the number of beneficiaries on file.
+
+
+
+The Payment Services - Latin America segment revenues consist of revenues related to providing access to the ATH network and other card networks to financial institutions, including related services such as authorization, processing, management and recording of ATM and POS transactions, and ATM management and monitoring. The segment revenues also include revenues from card processing services (such as credit and debit card processing, authorization and settlement and fraud monitoring and control to debit or credit issuers), payment processing services (such as payment and billing products for merchants, businesses and financial institutions), as well as, licensed software solutions for risk and fraud management and card payment processing. For ATH debit network and processing services, revenues are primarily driven by the number of transactions processed. Revenues are derived primarily from network fees, transaction switching and processing fees, and the leasing POS devices. For card issuer processing, revenues are primarily dependent upon the number of cardholder accounts on file, transactions and authorizations processed, the number of cards embossed and other processing services. 
+
+
+
+The Merchant Acquiring segment consists of revenues from services that allow merchants to accept electronic methods of payment. In the Merchant Acquiring segment, revenues include a discount fee and membership fees charged to merchants, debit network fees and rental fees from POS devices and other equipment, net of credit card interchange and assessment fees charged by credit cards associations (such as VISA or MasterCard) or payment networks. The discount fee is generally a percentage of the transaction value. EVERTEC also charges merchants for other services that are unrelated to the number of transactions or the transaction value.
+
+
+
+The Business Solutions segment consists of revenues from a full suite of business process management solutions in various product areas such as core bank processing, network hosting and management, IT professional services, business process outsourcing, item processing, cash processing, and fulfillment. Core bank processing and network services revenues are derived in part from a recurrent fee and from fees based on the number of accounts on file (i.e. savings or checking accounts, loans, etc.) or computer resources utilized. Revenues from other processing services within the Business Solutions segment are generally volume-based and depend on factors such as the number of accounts processed. In addition, EVERTEC is a reseller of hardware and software products and these resale transactions are generally one-time transactions.
+
+
+
+In addition to the four operating segments described above, Management identified certain functional cost areas that operate independently and do not constitute businesses in themselves. These units could neither be concluded as operating segments nor could they be combined with any other operating segments. Therefore, these units are aggregated and presented as “Corporate and Other” category in the financial statements alongside the operating segments. The Corporate and other category consists of corporate overhead expenses, intersegment eliminations, certain leveraged activities and other non-operating and miscellaneous expenses that are not included in the operating segments. The overhead and leveraged costs relate to activities such as:
+
+
+
+•marketing, 
+
+
+
+•corporate finance and accounting, 
+
+
+
+•human resources, 
+
+
+
+•legal, 
+
+
+
+•risk management functions, 
+
+
+
+•internal audit, 
+
+
+
+•corporate debt related costs, 
+
+
+
+•non-operating depreciation and amortization expenses generated as a result of merger and acquisition activity, 
+
+
+
+•intersegment revenues and expenses, and 
+
+
+
+•other non-recurring fees and expenses that are not considered when management evaluates financial performance at a segment level
+
+
+
+The CODM reviews the operating segments separate financial information to assess performance and to allocate resources. Management evaluates the operating results of each of its operating segments based upon revenues and Adjusted EBITDA. Adjusted EBITDA, as it relates to operating segments, is presented in conformity with Accounting Standards Codification Topic 280, "Segment Reporting" given that it is reported to the CODM for purposes of allocating resources. Segment asset disclosure is not used by the CODM as a measure of segment performance since the segment evaluation is driven by revenues and adjusted EBITDA performance. As such, segment assets are not disclosed in the notes to the accompanying consolidated financial statements.
+
+
+
+25
+
+The following tables set forth information about the Company’s operations by its four business segments for the periods indicated below. 
+
+
+
+Comparison of the three months ended March 31, 2019 and 2018
+
+
+
+Payment Services - Puerto Rico & Caribbean
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Payment Services - Puerto Rico & Caribbean segment revenue increased by $4.8 million to $32.0 million when compared with the 2018 period. The increase in revenues was driven by higher ATM Network and POS transaction volumes coupled with new transaction fees, growth over the prior year, as January and February in the prior year were still recovering from the 2017 hurricanes, and one-time revenue related to an electronic benefits contract of approximately $2.7 million. Adjusted EBITDA increased by $4.0 million to $21.3 million primarily due to higher revenues from the electronic benefits contract.
+
+
+
+Payment Services - Latin America
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Payment Services - Latin America segment revenue increased $0.4 million to $20.8 million driven mainly by higher intercompany software sale and development revenues from the Payment Services - Latin America segment to the Payment Services Puerto Rico & Caribbean segment, partially offset by one-time sales and revenue from completed implementations in the prior year that did not recur and impact from client attrition. Adjusted EBITDA increased $1.3 million when compared to the prior year period, due to increased revenue associated to intercompany services and licenses sold to Payment Services - Puerto Rico & Caribbean segment. 
+
+
+
+Merchant Acquiring
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Merchant Acquiring segment revenue increased $2.6 million to $26.0 million due to increased sales volumes compared to results in prior year, which was negatively impacted by the 2017 hurricanes, and by electronic benefit disaster recovery funding that started in March 2018 and ended in March 2019. Increases in transactional fees contributed to higher net spreads versus the same period in the previous year, while higher non-transactional fees also helped to drive the year-over-year revenue increase. Adjusted EBITDA increased $1.1 million mainly due to increased sales volumes and higher transactional and non-transactional fees, partially offset by higher transaction processing charges and lower average ticket versus the first quarter of 2018. 
+
+
+
+Business Solutions
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Business Solutions segment revenue increased $3.4 million or 7% mainly driven by new services provided to Popular and incremental managed services revenues from the Government of Puerto Rico. Adjusted EBITDA decreased $0.1 million to 
+
+
+
+26
+
+$23.0 million when compared with the prior year results mainly driven by higher costs incurred related to support and maintenance hours for Business Solutions applications, coupled with higher expenses related to infrastructure supporting the Business Solutions segment as we continue to replace obsolete assets.
+
+
+
+Liquidity and Capital Resources
+
+
+
+Our principal source of liquidity is cash generated from operations, and our primary liquidity requirements are the funding of capital expenditures, working capital needs and acquisitions. We also have a $125.0 million Revolving Facility, of which $82.9 million was available as of March 31, 2019. The Company issues letters of credit against our Revolving Facility which reduce our availability of funds to be drawn.
+
+
+
+At March 31, 2019, we had cash and cash equivalents of $73.2 million, of which $48.4 million resides in our subsidiaries located outside of Puerto Rico for purposes of (i) funding the respective subsidiary’s current business operations and (ii) funding potential future investment outside of Puerto Rico. We intend to indefinitely reinvest these funds outside of Puerto Rico, and based on our liquidity forecast, we will not need to repatriate this cash to fund the Puerto Rico operations or to meet debt-service obligations. However, if in the future we determine that we no longer need to maintain cash balances within our foreign subsidiaries, we may elect to distribute such cash to the Company in Puerto Rico. Distributions from the foreign subsidiaries to Puerto Rico may be subject to tax withholding and other tax consequences. Additionally, our credit agreement imposes certain restrictions on the distribution of dividends from subsidiaries.
+
+
+
+Our primary use of cash is for operating expenses, working capital requirements, capital expenditures, dividend payments, share repurchases, debt service, acquisitions and other transactions as opportunities present themselves.
+
+
+
+Based on our current level of operations, we believe our cash flows from operations and the available secured Revolving Credit Facility will be adequate to meet our liquidity needs for the next twelve months. However, our ability to fund future operating expenses, dividend payments, capital expenditures, mergers and acquisitions, and our ability to make scheduled payments of interest, to pay principal on or refinance our indebtedness and to satisfy any other of our present or future debt obligations will depend on our future operating performance, which will be affected by general economic, financial and other factors beyond our control.
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Net cash provided by operating activities for the three months ended March 31, 2019 was $29.3 million compared with cash provided by operating activities of $30.4 million for the corresponding 2018 period. The $1.0 million decrease in cash provided by operating activities is primarily driven by more cash used to pay down accounts payable, accrued liabilities, and income taxes, partially offset by more collections of accounts receivable. 
+
+
+
+Net cash used in investing activities for the three months ended March 31, 2019 was $14.0 million compared with $9.4 million for the corresponding period in 2018. The $4.6 million increase is attributable to increases in capital expenditures.
+
+
+
+Net cash used in financing activities for the three months ended March 31, 2019 was $15.6 million compared with $17.4 million for the corresponding 2018 period. The $1.7 million decrease was mainly related to a $15.0 million draw on our Revolving Facility, compared with a $12.0 million paydown in the prior year, coupled with a $1.5 million decrease is cash used to paydown long-term debt. This decrease was partially offset by cash dividends paid amounting to $3.6 million and cash used for repurchases of common stock of $17.5 million, while in the prior year no cash was used for these activities, and a $5.7 million increase in cash used for payment of statutory withholding taxes for share-based compensation. 
+
+
+
+27
+
+Capital Resources
+
+
+
+Our principal capital expenditures are for hardware and computer software (purchased and internally developed) and additions to property and equipment. We invested approximately $14.0 million and $9.4 million for the three months ended March 31, 2019 and 2018, respectively. Capital expenditures are expected to be funded by cash flow from operations and, if necessary, borrowings under our Revolving Facility. We expect capital expenditures to be in a range of $40 million to $45 million in 2019.
+
+
+
+Dividend Payments
+
+
+
+On April 25, 2019, the Board declared a regular quarterly cash dividend of $0.05 per share on the Company’s outstanding shares of common stock. The dividend will be paid on June 7, 2019 to stockholders of record as of the close of business on May 6, 2019. Any declaration and payment of future dividends to holders of our common stock will be at the discretion of our Board and will depend on many factors, including our financial condition, earnings, available cash, business opportunities, legal requirements, restrictions in our debt agreements and other contracts, capital requirements, level of indebtedness and other factors that our Board deems relevant. 
+
+
+
+Financial Obligations
+
+
+
+Secured Credit Facilities
+
+
+
+On November 27, 2018, EVERTEC and EVERTEC Group (“Borrower”) entered into a credit agreement governing the senior secured credit facilities, consisting of a $220.0 million term loan A facility that matures on November 27, 2023 "2023 Term A"), a $325.0 million term loan B facility that matures on November 27, 2024 ("2024 Term B") and a $125.0 million revolving credit facility (the "Revolving Facility") that matures on November 27, 2023, with a syndicate of lenders and Bank of America, N.A. (“Bank of America”), as administrative agent, collateral agent, swingline lender and line of credit issuer (collectively the “2018 Credit Agreement”). 
+
+
+
+The unpaid principal balance at March 31, 2019 of the 2023 Term A Loan and the 2024 Term B Loan was $217.3 million and $324.2 million, respectively. The additional borrowing capacity for the Revolving Facility at March 31, 2019 was $82.9 million. The Company issues letters of credit against the Revolving Facility which reduce the additional borrowing capacity of the Revolving Facility.
+
+
+
+Notes payable
+
+
+
+In May 2016, EVERTEC Group entered into a non-interest bearing financing agreement amounting to $0.7 million to purchase software. As of both March 31, 2019 and December 31, 2018, the outstanding principal balance of the note payable is $0.3 million. The current portion of these notes is recorded as part of accounts payable and the long-term portion is included in other long-term liabilities.
+
+
+
+In January 2019, EVERTEC Group entered into a non-interest bearing financing agreement amounting to $10.0 million to purchase data processing equipment and maintenance. As of March 31, 2019, the outstanding principal balance of the note payable was $6.4 million, recorded as part of accounts payable.
+
+
+
+Interest Rate Swaps
+
+
+
+As of March 31, 2019, the Company has the following interest rate swap agreements converting a portion of the interest rate exposure on the Company's Term B Loan from variable to fixed: 
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+The Company has accounted for these transactions as cash flow hedges. 
+
+
+
+As of March 31, 2019 and December 31, 2018, the carrying amount of the derivatives on the Company’s balance sheets is as follows:
+
+
+
+28
+
+[DATA_TABLE_REMOVED]
+
+
+
+During the three months ended March 31, 2019, the Company reclassified gains of $0.3 million from accumulated other comprehensive loss into income through interest expense. Based on current LIBOR rates, the Company expects to reclassify gains of $1.0 million from accumulated other comprehensive loss into income through interest expense over the next 12 months. Refer to Note 6 for tabular disclosure of the fair value of derivatives and to Note 7 for tabular disclosure of gains recorded on cash flow hedging activities.
+
+
+
+The cash flow hedge is considered highly effective.
+
+
+
+Covenant Compliance
+
+
+
+As of March 31, 2019, the secured leverage ratio was 2.31 to 1.00. As of the date of filing of this Form 10-Q, no event has occurred that constitutes an Event of Default or Default.
+
+
+
+Net Income Reconciliation to EBITDA, Adjusted EBITDA, Adjusted Net Income and Adjusted Earnings per common share (Non-GAAP Measures)
+
+
+
+We define “EBITDA” as earnings before interest, taxes, depreciation and amortization. We define “Adjusted EBITDA” as EBITDA further adjusted to exclude unusual items and other adjustments described below. Adjusted EBITDA by segment is reported to the chief operating decision maker for purposes of making decisions about allocating resources to the segments and assessing their performance. For this reason Adjusted EBITDA, as it relates to our segments, is presented in conformity with Accounting Standards Codification 280, Segment Reporting, and is excluded from the definition of non-GAAP financial measures under the Securities and Exchange Commission's Regulation G and Item 10(e) of Regulation S-K. We define “Adjusted Net Income” as net income adjusted to exclude unusual items and other adjustments described below. We define “Adjusted Earnings per common share” as Adjusted Net Income divided by diluted shares outstanding. 
+
+
+
+We present EBITDA and Adjusted EBITDA because we consider them important supplemental measures of our performance and believe they are frequently used by securities analysts, investors and other interested parties in the evaluation of ourselves and other companies in our industry. In addition, our presentation of Adjusted EBITDA is substantially consistent with the equivalent measurements that are contained in the senior secured credit facilities in testing EVERTEC Group’s compliance with covenants therein such as the senior secured leverage ratio. We use Adjusted Net Income to measure our overall profitability because we believe better reflects our comparable operating performance by excluding the impact of the non-cash amortization and depreciation that was created as a result of the Merger. In addition, in evaluating EBITDA, Adjusted EBITDA, Adjusted Net Income and Adjusted Earnings per common share, you should be aware that in the future we may incur expenses such as those excluded in calculating them. Further, our presentation of these measures should not be construed as an inference that our future operating results will not be affected by unusual or nonrecurring items. 
+
+
+
+Some of the limitations of EBITDA, Adjusted EBITDA, Adjusted Net Income and Adjusted earnings per common share are as follows: 
+
+
+
+•they do not reflect cash outlays for capital expenditures or future contractual commitments;
+
+
+
+•they do not reflect changes in, or cash requirements for, working capital;
+
+
+
+•although depreciation and amortization are non-cash charges, the assets being depreciated and amortized will often have to be replaced in the future, and EBITDA and Adjusted EBITDA do not reflect cash requirements for such replacements;
+
+
+
+•in the case of EBITDA and Adjusted EBITDA, they do not reflect interest expense, or the cash requirements necessary to service interest, or principal payments, on indebtedness;
+
+
+
+•in the case of EBITDA and Adjusted EBITDA, they do not reflect income tax expense or the cash necessary to pay income taxes; and
+
+
+
+•other companies, including other companies in our industry, may not use EBITDA, Adjusted EBITDA, Adjusted Net Income, and Adjusted Earnings per common share or may calculate EBITDA, Adjusted EBITDA, Adjusted Net Income and Adjusted Earnings per common share differently than as presented in this Report, limiting their usefulness as a comparative measure.
+
+
+
+29
+
+EBITDA, Adjusted EBITDA, Adjusted Net Income and Adjusted Earnings per common share are not measurements of liquidity or financial performance under GAAP. You should not consider EBITDA, Adjusted EBITDA, Adjusted Net Income and Adjusted Earnings per common share as alternatives to cash flows from operating activities or any other performance measures determined in accordance with GAAP, as an indicator of cash flows, as a measure of liquidity or as an alternative to operating or net income determined in accordance with GAAP. 
+
+
+
+A reconciliation of net income to EBITDA, Adjusted EBITDA, Adjusted Net Income and Adjusted Earnings per common share is provided below:
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+1)Represents the elimination of non-cash equity earnings from our 19.99% equity investment in Consorcio de Tarjetas Dominicanas S.A., net of cash dividends received. 
+
+
+
+2)Primarily represents share-based compensation and other compensation expense of $3.3 million and $3.6 million for the quarters ended March 31, 2019 and 2018, respectively and severance payments of $0.2 million for both quarters ended March 31, 2019 and 2018.
+
+
+
+3)Represents fees and expenses associated with corporate transactions as defined in the Credit Agreement, recorded as part of selling, general and administrative expenses and cost of revenues. 
+
+
+
+4)Represents operating depreciation and amortization expense, which excludes amounts generated as a result of merger and acquisition activity. 
+
+
+
+5)Represents interest expense, less interest income, as they appear on our consolidated statements of income and comprehensive income, adjusted to exclude non-cash amortization of the debt issue costs, premium and accretion of discount. 
+
+
+
+6)Represents income tax expense calculated on adjusted pre-tax income using the applicable GAAP tax rate, adjusted for certain discreet items.
+
+
+
+7)Represents the 35% non-controlling equity interest in Evertec Colombia, net of amortization for intangibles created as part of the purchase. 
+
+
+
+30
+
+Off Balance Sheet Arrangements
+
+
+
+In the ordinary course of business the Company may enter into commercial commitments. As of March 31, 2019, the Company did not have any off balance sheet items.
+
+
+
+Seasonality
+
+
+
+Our payment businesses generally experience moderate increased activity during the traditional holiday shopping periods and around other nationally recognized holidays, which follow consumer spending patterns.
+
+
+
+Effect of Inflation
+
+
+
+While inflationary increases in certain input costs, such as occupancy, labor and benefits, and general administrative costs, have an impact on our operating results, inflation has had minimal net effect on our operating results during the last three years as overall inflation has been offset by increased selling process and cost reduction actions. We cannot assure you, however, that we will not be affected by general inflation in the future.
+
+
+

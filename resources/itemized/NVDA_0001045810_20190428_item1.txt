@@ -1,0 +1,1108 @@
+ITEM 1. FINANCIAL STATEMENTS (UNAUDITED)
+
+
+
+NVIDIA CORPORATION AND SUBSIDIARIES
+
+
+
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+
+
+
+(In millions, except per share data)
+
+
+
+(Unaudited)
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+
+
+
+ 3
+
+
+
+NVIDIA CORPORATION AND SUBSIDIARIES
+
+
+
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+
+
+
+(In millions)
+
+
+
+(Unaudited)
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+
+
+
+ 4
+
+
+
+NVIDIA CORPORATION AND SUBSIDIARIES 
+
+
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+
+
+(In millions)
+
+
+
+(Unaudited)
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+
+
+
+ 5
+
+
+
+NVIDIA CORPORATION AND SUBSIDIARIES
+
+
+
+CONDENSED CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+
+
+
+ 6
+
+
+
+NVIDIA CORPORATION AND SUBSIDIARIES
+
+
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+
+
+(In millions)
+
+
+
+(Unaudited)
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+
+
+
+ 7
+
+
+
+NVIDIA CORPORATION AND SUBSIDIARIES
+
+
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+(Unaudited)
+
+
+
+Note 1 - Summary of Significant Accounting Policies
+
+
+
+Basis of Presentation
+
+
+
+The accompanying unaudited condensed consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States of America, or U.S. GAAP, for interim financial information and with the instructions to Form 10-Q and Article 10 of Securities and Exchange Commission, or SEC, Regulation S-X. The January 27, 2019 consolidated balance sheet was derived from our audited consolidated financial statements included in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019, as filed with the SEC, but does not include all disclosures required by U.S. GAAP. In the opinion of management, all adjustments, consisting only of normal recurring adjustments considered necessary for a fair statement of results of operations and financial position have been included. The results for the interim periods presented are not necessarily indicative of the results expected for any future period. The following information should be read in conjunction with the audited consolidated financial statements and notes thereto included in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019. 
+
+
+
+Significant Accounting Policies
+
+
+
+Except for the accounting policy for leases, which was updated as a result of adopting a new accounting standard related to leases, there have been no material changes to our significant accounting policies in Note 1 - Organization and Summary of Significant Accounting Policies, of the Notes to the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019.
+
+
+
+Leases 
+
+
+
+We determine if an arrangement is or contains a lease at inception. Operating leases with lease terms of more than 12 months are included in operating lease assets, accrued and other current liabilities, and long-term operating lease liabilities on our consolidated balance sheet. Operating lease assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments over the lease term.
+
+
+
+Operating lease assets and liabilities are recognized based on the present value of the remaining lease payments discounted using our incremental borrowing rate. Operating lease assets also include initial direct costs incurred and prepaid lease payments, minus any lease incentives. Our lease terms include options to extend or terminate the lease when it is reasonably certain that we will exercise that option. Lease expense is recognized on a straight-line basis over the lease term.
+
+
+
+We combine the lease and non-lease components in determining the operating lease assets and liabilities. 
+
+
+
+Refer to Note 3 of these Notes to Condensed Consolidated Financial Statements for additional information.
+
+
+
+Fiscal Year
+
+
+
+We operate on a 52- or 53-week year, ending on the last Sunday in January. Fiscal years 2020 and 2019 are both 52-week years. The first quarters of fiscal years 2020 and 2019 were both 13-week quarters.
+
+
+
+Reclassifications
+
+
+
+Certain prior fiscal year balances have been reclassified to conform to the current fiscal year presentation.
+
+
+
+Principles of Consolidation
+
+
+
+Our condensed consolidated financial statements include the accounts of NVIDIA Corporation and our wholly-owned subsidiaries. All intercompany balances and transactions have been eliminated in consolidation.
+
+
+
+Use of Estimates
+
+
+
+The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period. Actual results could differ materially from our estimates. On an on-going basis, we evaluate our estimates, including those related to revenue recognition, cash equivalents and marketable securities, accounts receivable, inventories, income taxes, goodwill, stock-based compensation, litigation, investigation and settlement costs, restructuring and other charges, and 
+
+
+
+ 8
+
+
+
+NVIDIA CORPORATION AND SUBSIDIARIES
+
+
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited)
+
+
+
+other contingencies. These estimates are based on historical facts and various other assumptions that we believe are reasonable.
+
+
+
+Adoption of New and Recently Issued Accounting Pronouncements
+
+
+
+Recently Adopted Accounting Pronouncement
+
+
+
+The Financial Accounting Standards Board, or FASB, issued an accounting standards update regarding the accounting for leases under which lease assets and liabilities are recognized on the balance sheet. We adopted this guidance on January 28, 2019 using the optional transition method by recognizing a cumulative-effect adjustment to the consolidated balance sheet. Refer to Note 3 of these Notes to Condensed Consolidated Financial Statements for additional information.
+
+
+
+Recent Accounting Pronouncement Not Yet Adopted
+
+
+
+In June 2016, the FASB issued a new accounting standard to replace the incurred loss impairment methodology under current GAAP with a methodology that reflects expected credit losses and requires consideration of a broader range of reasonable and supportable information to inform credit loss estimates. We will be required to use a forward-looking expected credit loss model for accounts receivable and other financial instruments, including available-for-sale debt securities. The standard will be effective for us beginning in the first quarter of fiscal year 2021, with early adoption permitted. We are currently evaluating the impact of this standard on our Consolidated Financial Statements.
+
+
+
+Note 2 - Merger Agreement with Mellanox Technologies, Ltd.
+
+
+
+On March 10, 2019, we entered into an Agreement and Plan of Merger, or the Merger Agreement, with Mellanox Technologies Ltd, or Mellanox, pursuant to which we will acquire all of the issued and outstanding common shares of Mellanox for $125 per share in cash, representing a total enterprise value of approximately $6.9 billion as of the date of the Merger Agreement. The closing of the merger is subject to certain conditions, including the approval by Mellanox shareholders and various regulatory agencies. If the Merger Agreement is terminated under certain circumstances involving the failure to obtain required regulatory approvals, we could be obligated to pay Mellanox a termination fee of $350 million.
+
+
+
+Note 3 - New Lease Accounting Standard
+
+
+
+Method and Impact of Adoption
+
+
+
+On January 28, 2019, we adopted the new lease accounting standard using the optional transition method by recognizing a cumulative-effect adjustment to the consolidated balance sheet and not adjusting comparative information for prior periods. In addition, we elected the package of practical expedients permitted under the transition guidance, which allowed us not to reassess (1) whether any expired or existing contracts are or contain leases, (2) lease classification for any expired or existing leases, and (3) initial direct costs for any existing leases. 
+
+
+
+The cumulative-effect adjustment upon adoption of the new lease accounting standard resulted in the recognition of $470 million of operating lease assets and $500 million of operating lease liabilities on our Consolidated Balance Sheet. The difference of $30 million represents deferred rent for leases that existed as of the date of adoption, which was an offset to the opening balance of operating lease assets.
+
+
+
+Lease Obligations
+
+
+
+Our lease obligations consist of operating leases for our headquarters complex, domestic and international office facilities, and data center space, with lease periods expiring between 2019 and 2035.
+
+
+
+ 9
+
+
+
+NVIDIA CORPORATION AND SUBSIDIARIES
+
+
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited)
+
+
+
+Future minimum lease payments under our non-cancelable operating leases as of April 28, 2019, are as follows: 
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Future minimum lease payments under our non-cancelable operating leases as of January 27, 2019, based on the previous lease accounting standard, are as follows:
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Operating lease expense for the first quarter of fiscal years 2020 and 2019 was $27 million and $16 million, respectively. Short-term and variable lease expenses for the first quarter of fiscal year 2020 were not significant. 
+
+
+
+Other information related to leases was as follows:
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+ 10
+
+
+
+NVIDIA CORPORATION AND SUBSIDIARIES
+
+
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited)
+
+
+
+Note 4 - Stock-Based Compensation
+
+
+
+Our stock-based compensation expense is associated with restricted stock units, or RSUs, performance stock units that are based on our corporate financial performance targets, or PSUs, performance stock units that are based on market conditions, or market-based PSUs, and our employee stock purchase plan, or ESPP.
+
+
+
+Our Condensed Consolidated Statements of Income include stock-based compensation expense, net of amounts allocated to inventory, as follows:
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Equity Award Activity
+
+
+
+The following is a summary of equity award transactions under our equity incentive plans:
+
+
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+
+
+Of the total fair value of equity awards granted during the first quarter of fiscal year 2020, we estimated that the stock-based compensation expense related to equity awards that are not expected to vest was $85 million. 
+
+
+
+As of April 28, 2019, there was $2.27 billion of aggregate unearned stock-based compensation expense. This amount is expected to be recognized over a weighted average period of 2.7 years for RSUs, PSUs, and market-based PSUs, and 1.3 years for ESPP.
+
+
+
+ 11
+
+
+
+NVIDIA CORPORATION AND SUBSIDIARIES
+
+
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited)
+
+
+
+Note 5 – Net Income Per Share
+
+
+
+The following is a reconciliation of the denominator of the basic and diluted net income per share computations for the periods presented:
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+(1)Calculated as net income divided by basic weighted average shares.
+
+
+
+(2)Calculated as net income divided by diluted weighted average shares.
+
+
+
+Note 6 – Income Taxes
+
+
+
+We recognized an income tax benefit of $5 million for the first quarter of fiscal year 2020 and income tax expense of $67 million for the first quarter of fiscal year 2019. The income tax benefit as a percentage of income before income tax was 1.3% for the first quarter of fiscal year 2020 and income tax expense as a percentage of income before tax was 5.1% for the first quarter of fiscal year 2019. 
+
+
+
+The decrease in our effective tax rate for the first quarter of fiscal year 2020 as compared to the same period in the prior fiscal year was primarily due to a decrease in the amount of earnings subject to United States tax, and an increase in the impact of tax benefits from stock-based compensation and the U.S. federal research tax credit.
+
+
+
+Our effective tax rates for the first quarter of fiscal years 2020 and 2019 were (1.3)% and 5.1%, respectively, and were lower than the U.S. federal statutory rate of 21%, due to income earned in jurisdictions that are subject to taxes lower than the U.S. federal statutory tax rate, tax benefits related to stock-based compensation, and the benefit of the U.S. federal research tax credit.
+
+
+
+For the first quarter of fiscal year 2020, there have been no material changes to our tax years that remain subject to examination by major tax jurisdictions. Additionally, there have been no material changes to our unrecognized tax benefits and any related interest or penalties since the fiscal year ended January 27, 2019.
+
+
+
+While we believe that we have adequately provided for all uncertain tax positions, or tax positions where we believe it is not more-likely-than-not that the position will be sustained upon review, amounts asserted by tax authorities could be greater or less than our accrued position. Accordingly, our provisions on federal, state and foreign tax related matters to be recorded in the future may change as revised estimates are made or the underlying matters are settled or otherwise resolved with the respective tax authorities. As of April 28, 2019, we do not believe that our estimates, as otherwise provided for, on such tax positions will significantly increase or decrease within the next twelve months.
+
+
+
+ 12
+
+
+
+NVIDIA CORPORATION AND SUBSIDIARIES
+
+
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited)
+
+
+
+Note 7 - Marketable Securities 
+
+
+
+Our cash equivalents and marketable securities are classified as “available-for-sale” debt securities.
+
+
+
+The following is a summary of cash equivalents and marketable securities as of April 28, 2019 and January 27, 2019:
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+The following table provides the breakdown of unrealized losses as of April 28, 2019, aggregated by investment category and length of time that individual securities have been in a continuous loss position: 
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+The gross unrealized losses are related to fixed income securities, temporary in nature, and driven primarily by changes in interest rates. We have the intent and ability to hold our investments until maturity. For the first quarter of fiscal years 2020 and 2019, there were no other-than-temporary impairment losses and net realized gains were not significant.
+
+
+
+The amortized cost and estimated fair value of cash equivalents and marketable securities as of April 28, 2019 and January 27, 2019 are shown below by contractual maturity. 
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Note 8 – Fair Value of Financial Assets and Liabilities
+
+
+
+The fair values of our financial assets and liabilities are determined using quoted market prices of identical assets or quoted market prices of similar assets from active markets. We review fair value hierarchy classification on a quarterly basis. There were no significant transfers between Levels 1 and 2 financial assets and liabilities for the first quarter of fiscal year 2020. Level 3 financial assets and liabilities are based on unobservable inputs to the valuation methodology and include our own data about assumptions market participants would use in pricing the asset or liability based on the best information available under the circumstances.
+
+
+
+ 13
+
+
+
+NVIDIA CORPORATION AND SUBSIDIARIES
+
+
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited)
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+(1)These liabilities are carried on our Consolidated Balance Sheets at their original issuance value, net of unamortized debt discount and issuance costs, and are not marked to fair value each period. Refer to Note 12 of these Notes to Condensed Consolidated Financial Statements for additional information.
+
+
+
+Note 9 - Amortizable Intangible Assets
+
+
+
+The components of our amortizable intangible assets are as follows:
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+The increase in gross carrying amount of intangible assets is due to purchases of licensed technology during the first quarter of fiscal year 2020. Amortization expense associated with intangible assets was $7 million and $11 million for the first quarter of fiscal years 2020 and 2019, respectively. Future amortization expense related to the net carrying amount of intangible assets as of April 28, 2019 is estimated to be $18 million for the remainder of fiscal year 2020, $17 million in fiscal year 2021, $9 million in fiscal year 2022, $7 million in fiscal year 2023, and $3 million in fiscal year 2024. 
+
+
+
+ 14
+
+
+
+NVIDIA CORPORATION AND SUBSIDIARIES
+
+
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited)
+
+
+
+Note 10 - Balance Sheet Components 
+
+
+
+Certain balance sheet components are as follows:
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+(1)Deferred revenue primarily includes customer advances and deferrals related to license and development arrangements and post contract customer support, or PCS. 
+
+
+
+(2)Refer to Note 13 of these Notes to Condensed Consolidated Financial Statements for a discussion regarding warranties.
+
+
+
+[DATA_TABLE_REMOVED][DATA_TABLE_REMOVED]
+
+
+
+(2)Deferred revenue primarily includes deferrals related to PCS.
+
+
+
+ 15
+
+
+
+NVIDIA CORPORATION AND SUBSIDIARIES
+
+
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited)
+
+
+
+Deferred Revenue 
+
+
+
+The following table shows the changes in deferred revenue during the first quarter of fiscal years 2020 and 2019.
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Note 11 - Derivative Financial Instruments
+
+
+
+We enter into foreign currency forward contracts to mitigate the impact of foreign currency exchange rate movements on our operating expenses. These contracts are designated as cash flow hedges for hedge accounting treatment. Gains or losses on the contracts are recorded in accumulated other comprehensive income or loss and reclassified to operating expense when the related operating expenses are recognized in earnings or ineffectiveness should occur. The fair value of the contracts was not significant as of April 28, 2019 and January 27, 2019.
+
+
+
+We also enter into foreign currency forward contracts to mitigate the impact of foreign currency movements on monetary assets and liabilities that are denominated in currencies other than U.S. dollar. These forward contracts were not designated for hedge accounting treatment. Therefore, the change in fair value of these contracts is recorded in other income or expense and offsets the change in fair value of the hedged foreign currency denominated monetary assets and liabilities, which is also recorded in other income or expense.
+
+
+
+The table below presents the notional value of our foreign currency forward contracts outstanding as of April 28, 2019 and January 27, 2019:
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+As of April 28, 2019, all designated foreign currency forward contracts mature within eighteen months. The expected realized gains and losses deferred into accumulated other comprehensive income (loss) related to foreign currency forward contracts within the next twelve months was not significant.
+
+
+
+During the first quarter of fiscal years 2020 and 2019, the impact of derivative financial instruments designated for hedge accounting treatment on other comprehensive income or loss was not significant and all such instruments were determined to be highly effective. Therefore, there were no gains or losses associated with ineffectiveness.
+
+
+
+ 16
+
+
+
+NVIDIA CORPORATION AND SUBSIDIARIES
+
+
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited)
+
+
+
+Note 12 - Debt
+
+
+
+Long-Term Debt
+
+
+
+2.20% Notes Due 2021 and 3.20% Notes Due 2026
+
+
+
+In fiscal year 2017, we issued $1.00 billion of the 2.20% Notes Due 2021, and $1.00 billion of the 3.20% Notes Due 2026, or collectively, the Notes. Interest on the Notes is payable on March 16 and September 16 of each year, beginning on March 16, 2017. Upon 30 days' notice to holders of the Notes, we may redeem the Notes for cash prior to maturity, at redemption prices that include accrued and unpaid interest, if any, and a make-whole premium. However, no make-whole premium will be paid for redemptions of the Notes Due 2021 on or after August 16, 2021, or for redemptions of the Notes Due 2026 on or after June 16, 2026. The net proceeds from the Notes were $1.98 billion, after deducting debt discount and issuance costs.
+
+
+
+The Notes are our unsecured senior obligations and rank equally in right of payment with all existing and future unsecured and unsubordinated indebtedness. The Notes are structurally subordinated to the liabilities of our subsidiaries and are effectively subordinated to any secured indebtedness to the extent of the value of the assets securing such indebtedness. All existing and future liabilities of our subsidiaries will be effectively senior to the Notes.
+
+
+
+The carrying value of the Notes and the associated interest rates were as follows:
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Revolving Credit Facility
+
+
+
+We have a Credit Agreement under which we may borrow up to $575 million for general corporate purposes and can obtain revolving loan commitments up to $425 million. As of April 28, 2019, we had not borrowed any amounts under this agreement.
+
+
+
+Commercial Paper
+
+
+
+We have a $575 million commercial paper program to support general corporate purposes. As of April 28, 2019, we had not issued any commercial paper.
+
+
+
+ 17
+
+
+
+NVIDIA CORPORATION AND SUBSIDIARIES
+
+
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited)
+
+
+
+Note 13 - Commitments and Contingencies
+
+
+
+Inventory Purchase Obligations
+
+
+
+As of April 28, 2019, we had outstanding inventory purchase obligations totaling $782 million.
+
+
+
+Capital Purchase Obligations
+
+
+
+As of April 28, 2019, we had outstanding capital purchase obligations totaling $194 million.
+
+
+
+Performance Obligations
+
+
+
+Revenue related to remaining performance obligations represents the amount of contracted license and development arrangements and PCS that has not been recognized. As of April 28, 2019, the amount of our remaining performance obligations that has not been recognized as revenue was $294 million, of which we expect to recognize approximately 57% as revenue over the next twelve months and the remainder thereafter. This amount excludes the value of remaining performance obligations for contracts with an original expected length of one year or less.
+
+
+
+Accrual for Product Warranty Liabilities
+
+
+
+The estimated amount of product returns and warranty liabilities was $18 million as of both April 28, 2019 and January 27, 2019.
+
+
+
+In connection with certain agreements that we have entered in the past, we have provided indemnification to cover the indemnified party for matters such as tax, product, and employee liabilities. We have included intellectual property indemnification provisions in our technology related agreements with third parties. Maximum potential future payments cannot be estimated because many of these agreements do not have a maximum stated liability. We have not recorded any liability in our Condensed Consolidated Financial Statements for such indemnifications.
+
+
+
+Litigation
+
+
+
+Polaris Innovations Limited
+
+
+
+On May 16, 2016, Polaris Innovations Limited, or Polaris, a non-practicing entity and wholly-owned subsidiary of Quarterhill Inc. (formerly WiLAN Inc.), filed a complaint against NVIDIA for patent infringement in the United States and Germany.
+
+
+
+NVIDIA and Polaris entered into an agreement effective April 3, 2019 that settled the litigation between the parties, which had an immaterial impact on our financial results. The agreement includes a license to NVIDIA for certain patents owned by Polaris, as well as options for NVIDIA to renew the license through the life of the patents.
+
+
+
+ZiiLabs 1 Patents Lawsuit
+
+
+
+On October 2, 2017, ZiiLabs Inc., Ltd., or ZiiLabs, a non-practicing entity, filed a complaint in the United States District Court for the District of Delaware alleging that NVIDIA had infringed and was continuing to infringe four U.S. patents relating to GPUs, or the ZiiLabs 1 Patents. ZiiLabs is a Bermuda corporation and a wholly-owned subsidiary of Creative Technology Asia Limited, a Hong Kong company which is itself is a wholly-owned subsidiary of Creative Technology Ltd., a publicly traded Singapore company. The complaint sought unspecified monetary damages, enhanced damages, interest, costs, and fees against NVIDIA and an injunction against further direct or indirect infringement of the ZiiLabs 1 Patents.
+
+
+
+On February 22, 2018, the Delaware Court stayed the ZiiLabs 1 case pending the resolution of the U.S. International Trade Commission, or USITC, investigation over the ZiiLabs 2 patents.
+
+
+
+On February 1, 2019, NVIDIA entered into an agreement in which it received a license to the ZiiLabs patents and a dismissal of the ZiiLabs 1 and 2 Patent Lawsuits, which had an immaterial impact on our financial results. The ZiiLabs 1 and 2 district court cases were dismissed pursuant to a stipulation of dismissal filed on February 8, 2019. The Administrative Law Judge issued an Initial Determination on February 12, 2019, granting the motion to terminate the USITC investigation addressing the ZiiLabs 2 patents.
+
+
+
+ 18
+
+
+
+NVIDIA CORPORATION AND SUBSIDIARIES
+
+
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited)
+
+
+
+ZiiLabs 2 Patents Lawsuits
+
+
+
+On December 27, 2017, ZiiLabs filed a second complaint in the United States District Court for the District of Delaware alleging that NVIDIA has infringed four additional U.S. patents, or the ZiiLabs 2 Patents. The second complaint also sought unspecified monetary damages, enhanced damages, interest, costs, and fees against NVIDIA and an injunction against further direct or indirect infringement of the ZiiLabs 2 Patents.
+
+
+
+On December 29, 2017, ZiiLabs filed a request with the USITC to commence an Investigation pursuant to Section 337 of the Tariff Act of 1930 relating to the unlawful importation of certain graphics processors and products containing the same. ZiiLabs alleged that the unlawful importation resulted from the infringement of the ZiiLabs 2 Patents by products from respondents NVIDIA, ASUSTeK Computer Inc., ASUS Computer International, EVGA Corporation, Gigabyte Technology Co., Ltd., G.B.T. Inc., Micro-Star International Co., Ltd., MSI Computer Corp., Nintendo Co., Ltd., Nintendo of America Inc., PNY Technologies Inc., Zotac International (MCO) Ltd., and Zotac USA Inc.
+
+
+
+On February 1, 2019, NVIDIA entered into an agreement in which it received a license to the ZiiLabs patents and a dismissal of the ZiiLabs 1 and 2 Patent Lawsuits, which had an immaterial impact on our financial results. The ZiiLabs 1 and 2 district court cases were dismissed pursuant to a stipulation of dismissal filed on February 8, 2019. The Administrative Law Judge issued an Initial Determination on February 12, 2019, granting the motion to terminate the USITC investigation addressing the ZiiLabs 2 patents.
+
+
+
+Securities Class Action and Derivative Lawsuits
+
+
+
+On December 21, 2018, a purported securities class action lawsuit was filed in the United States District Court for the Northern District of California, captioned Iron Workers Joint Funds v. Nvidia Corporation, et al. (Case No. 18-cv-7669), naming as defendants NVIDIA and certain of NVIDIA’s officers. The complaint asserts that the defendants violated Section 10(b) of the Securities Exchange Act of 1934, as amended, or the Exchange Act, and SEC Rule 10b-5, by making materially false or misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand between August 10, 2017 and November 15, 2018. The plaintiff also alleges that the NVIDIA officers who they named as defendants violated Section 20(a) of the Exchange Act. The plaintiff seeks class certification, an award of unspecified compensatory damages, an award of equitable/injunctive or other further relief as the Court may deem just and proper. On December 28, 2018, a substantially similar purported securities class action was commenced in the Northern District of California, captioned Oto v. Nvidia Corporation, et al. (Case No. 18-cv-07783), naming the same defendants, and seeking substantially similar relief. On February 19, 2019, a number of shareholders filed motions to consolidate the two cases and to be appointed lead plaintiff and for their respective counsel to be appointed lead counsel. On March 12, 2019, the two cases were consolidated under case number 4:18-cv-07669-HSG and titled In Re NVIDIA Corporation Securities Litigation. On May 2, 2019, the Court appointed lead plaintiff and lead counsel. 
+
+
+
+On January 18, 2019, a shareholder, purporting to act on the behalf of NVIDIA, filed a derivative lawsuit in the Northern District of California, captioned Han v. Huang, et al. (Case No. 19-cv-00341), seeking to assert claims on behalf of NVIDIA against the members of NVIDIA’s board of directors and certain officers. The lawsuit asserts claims for breach of fiduciary duty, unjust enrichment, waste of corporate assets, and violations of Sections 14(a), 10(b), and 20(a) of the Exchange Act based on the dissemination of allegedly false and misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand. The plaintiff is seeking unspecified damages and other relief, including reforms and improvements to NVIDIA’s corporate governance and internal procedures. On February 12, 2019, a substantially similar derivative lawsuit was filed in the Northern District of California captioned Yang v. Huang, et. al. (Case No. 19-cv-00766), naming the same named defendants, and seeking the same relief. On February 19, 2019, a third substantially similar derivative lawsuit was filed in the Northern District of California captioned The Booth Family Trust v. Huang, et. al. (Case No. 3:19-cv-00876), naming the same named defendants, and seeking substantially the same relief. On March 12, 2019, the three derivative actions were consolidated under case number 4:19-cv-00341-HSG, and titled In re NVIDIA Corporation Consolidated Derivative Litigation. The parties stipulated to stay the In re NVIDIA Corporation Consolidated Derivative Litigation pending resolution of any motion to dismiss that NVIDIA may file in the In Re NVIDIA Corporation Securities Litigation. 
+
+
+
+It is possible that additional suits will be filed, or allegations received from shareholders, with respect to these same or other matters, naming us and/or our officers and directors as defendants. 
+
+
+
+ 19
+
+
+
+NVIDIA CORPORATION AND SUBSIDIARIES
+
+
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited)
+
+
+
+Litigation Related to Mellanox Merger
+
+
+
+On May 3, 2019, an alleged stockholder of Mellanox filed a putative class action lawsuit alleging that the proxy statement filed by Mellanox in connection with the stockholder vote on NVIDIA’s pending acquisition of Mellanox violates Sections 14(a) and 20(a) of the Securities Exchange Act of 1934 and asserting claims under those statutes against Mellanox and its board of directors as well as NVIDIA. The complaint, which is captioned Stein v. Mellanox Technologies, Ltd., et al., Case No. 19-2428 (United States District Court, Northern District of California), seeks declaratory and injunctive relief and unspecified damages. A number of other alleged Mellanox stockholders have filed substantially similar lawsuits against Mellanox and its directors in the United States District Court for the Northern District of California and in the United States District Court for the Southern District of New York, but to date, NVIDIA has not been named as a defendant in any of these other lawsuits.
+
+
+
+Accounting for Loss Contingencies
+
+
+
+We are engaged in legal actions not described above arising in the ordinary course of business and, while there can be no assurance of favorable outcomes, we believe that the ultimate outcome of these actions will not have a material adverse effect on our operating results, liquidity or financial position. As of April 28, 2019, we have not recorded any accrual for contingent liabilities associated with the legal proceedings described above based on our belief that liabilities, while possible, are not probable. Further, except as specifically described above, any possible loss or range of loss in these matters cannot be reasonably estimated at this time.
+
+
+
+Note 14 - Shareholders’ Equity 
+
+
+
+Capital Return Program 
+
+
+
+Beginning August 2004, our Board of Directors authorized us to repurchase our stock.
+
+
+
+During the first quarter of fiscal year 2020, we paid $97 million in cash dividends to our shareholders.
+
+
+
+Through April 28, 2019, we have repurchased an aggregate of 260 million shares under our share repurchase program for a total cost of $7.08 billion. All shares delivered from these repurchases have been placed into treasury stock. As of April 28, 2019, we were authorized, subject to certain specifications, to repurchase additional shares of our common stock up to $7.24 billion through December 2022.
+
+
+
+Preferred Stock
+
+
+
+As of April 28, 2019 and January 27, 2019, there were no shares of preferred stock outstanding.
+
+
+
+Common Stock
+
+
+
+We are authorized to issue up to 2.00 billion shares of our common stock at $0.001 per share par value.
+
+
+
+Note 15 - Segment Information
+
+
+
+Our Chief Executive Officer, who is considered to be our chief operating decision maker, or CODM, reviews financial information presented on an operating segment basis for purposes of making operating decisions and assessing financial performance. Our operating segments are equivalent to our reportable segments. 
+
+
+
+We report our business in two primary reportable segments - the GPU business and the Tegra Processor business - based on a single underlying architecture. 
+
+
+
+Our GPU product brands are aimed at specialized markets including GeForce for gamers; Quadro for designers; Tesla and DGX for artificial intelligence, data scientists and big data researchers; and GRID for cloud-based visual computing users. Our Tegra brand integrates an entire computer onto a single chip, and incorporates GPUs and multi-core CPUs to drive supercomputing for autonomous robots, drones, and cars, as well as for game consoles and mobile gaming and entertainment devices. 
+
+
+
+Under the single unifying architecture for our GPU and Tegra Processors, we leverage our visual computing expertise by charging the operating expenses of certain core engineering functions to the GPU business, while charging the Tegra Processor business for the incremental cost of the teams working directly for that business. In instances where the operating expenses of certain functions benefit both reportable segments, our CODM assigns 100% of those expenses to the reportable segment that benefits the most. 
+
+
+
+ 20
+
+
+
+NVIDIA CORPORATION AND SUBSIDIARIES
+
+
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited)
+
+
+
+The “All Other” category presented below represents the revenue and expenses that our CODM does not assign to either the GPU business or the Tegra Processor business for purposes of making operating decisions or assessing financial performance. The revenue includes primarily patent licensing revenue and the expenses include stock-based compensation expense, corporate infrastructure and support costs, acquisition-related costs, legal settlement costs, contributions, restructuring and other charges, product warranty charge, and other non-recurring charges and benefits that our CODM deems to be enterprise in nature. 
+
+
+
+Our CODM does not review any information regarding total assets on a reportable segment basis. Reportable segments do not record intersegment revenue, and, accordingly, there is none to be reported. The accounting policies for segment reporting are the same as for our consolidated financial statements. The table below presents details of our reportable segments and the “All Other” category.
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+ 21
+
+
+
+NVIDIA CORPORATION AND SUBSIDIARIES
+
+
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+
+
+(Unaudited)
+
+
+
+Revenue by geographic region is allocated to individual countries based on the location to which the products are initially billed even if our customers’ revenue is attributable to end customers that are located in a different location. The following table summarizes information pertaining to our revenue from customers based on the invoicing address by geographic regions:
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+The following table summarizes information pertaining to our revenue by each of the specialized markets we serve:
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Revenue from significant customers, those representing 10% or more of total revenue, was approximately 11% of our total revenue from one customer for the first quarter of fiscal year 2020, and aggregated approximately 20% of our total revenue from two customers for the first quarter of fiscal year 2019, and was attributable primarily to the GPU business.
+
+
+
+Accounts receivable from significant customers, those representing more than 10% of total accounts receivable, aggregated approximately 21% of our accounts receivable balance from one customer as of April 28, 2019, and approximately 19% of our accounts receivable balance from one customer as of January 27, 2019.
+
+
+
+ 22
+
+
+
+ITEM 1. LEGAL PROCEEDINGS
+
+
+
+Refer to Part I, Item 1, Note 13 of the Notes to Condensed Consolidated Financial Statements for a discussion of significant developments in our legal proceedings since January 27, 2019. Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019 for a prior discussion of our legal proceedings.
+
+
+
+ITEM 1A. RISK FACTORS
+
+
+
+Refer to the description of the risk factors associated with our business previously disclosed in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 27, 2019. Other than the risk factor listed below, there have been no material changes from the risk factors previously described under Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 27, 2019.
+
+
+
+Before you buy our common stock, you should know that making such an investment involves some risks including, but not limited to, the risks described in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 27, 2019. Additionally, any one of those risks could harm our business, financial condition and results of operations, which could cause our stock price to decline. Additional risks and uncertainties not presently known to us or that we currently deem immaterial may also impair our business operations.
+
+
+
+ 30
+
+
+
+We may not be able to realize the potential financial or strategic benefits of business acquisitions or strategic investments, including the Mellanox acquisition, and we may not be able to successfully integrate acquisition targets, which could hurt our ability to grow our business, develop new products or sell our products.
+
+
+
+We have in the past acquired and invested in, and may continue to acquire and invest in, other businesses that offer products, services and technologies that we believe will help expand or enhance our existing products, strategic objectives and business. In March 2019, we announced our agreement to acquire Mellanox for approximately $6.9 billion. The Mellanox acquisition and other past or future acquisitions or investments involve significant challenges and risks, and could impair our ability to grow our business, develop new products or sell our products, and ultimately could have a negative impact on our growth or our financial results. Given that our resources are limited, our decision to pursue a transaction has opportunity costs; accordingly, if we pursue a particular transaction, we may need to forgo the prospect of entering into other transactions that could help us achieve our strategic objectives. Additional risks related to the Mellanox acquisition, and other acquisitions or strategic investments include, but are not limited to:
+
+
+
+•difficulty in combining the technology, products, operations or workforce of the acquired business with our business;
+
+
+
+•diversion of capital and other resources, including management’s attention;
+
+
+
+•assumption of liabilities and incurring amortization expenses, impairment charges to goodwill or write-downs of acquired assets;
+
+
+
+•integrating financial forecasting and controls, procedures and reporting cycles;
+
+
+
+•coordinating and integrating operations in countries in which we have not previously operated;
+
+
+
+•difficulty in realizing a satisfactory return, if at all;
+
+
+
+•difficulty in obtaining regulatory, other approvals or financing;
+
+
+
+•failure and costs associated with the failure to consummate a proposed acquisition or other strategic investment;
+
+
+
+•legal proceedings initiated as a result of an acquisition or investment;
+
+
+
+•uncertainties and time needed to realize the benefits of an acquisition or strategic investment, if at all;
+
+
+
+•negative changes in general economic conditions in the regions or the industries in which we or our target operate;
+
+
+
+•the need to later divest acquired assets if an acquisition does not meet our expectations;
+
+
+
+•potential failure of our due diligence processes to identify significant issues with the acquired assets or company; and
+
+
+
+•impairment of relationships with, or loss of our or our target’s, employees, vendors and customers, as a result of our acquisition or investment.
+
+
+

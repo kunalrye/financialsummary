@@ -1,0 +1,440 @@
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+
+
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), which are subject to the “safe harbor” created by those sections. These statements involve known and unknown risks, uncertainties and other factors, which may cause our actual results to differ materially from those implied by the forward-looking statements. Words such as “anticipates,” “expects,” “intends,” “plans,” “projects,” “believes,” “seeks,” “estimates,” “may,” “can,” “will,” “would” and similar expressions identify such forward-looking statements. 
+
+
+
+Forward-looking statements are subject to risks and uncertainties that could cause actual results to differ materially from those indicated in the forward-looking statements. Factors that could cause actual results to differ materially from those predicted, include, but are not limited to: 
+
+
+
+•our ability to successfully integrate the business of Cavium with our business;
+
+
+
+•our ability to realize anticipated synergies in connection with the Cavium acquisition;
+
+
+
+•our dependence on a small number of customers;
+
+
+
+•severe financial hardship or bankruptcy of one or more of our major customers;
+
+
+
+•the effects of any potential future acquisitions, strategic investments, divestitures, mergers or joint ventures; 
+
+
+
+•risks associated with acquisition and consolidation activity in the semiconductor industry;
+
+
+
+our ability and the ability of our customers to successfully compete in the markets in which we serve;
+
+
+
+•our dependence upon the storage market, which is highly cyclical and intensely competitive;
+
+
+
+•our ability and our customers’ ability to develop new and enhanced products and the adoption of those products in the market;
+
+
+
+•our ability to define, design and develop products for the infrastructure and 5G market and market and sell those products to infrastructure customers;
+
+
+
+•decreases in our gross margin and results of operations in the future due to a number of factors;
+
+
+
+•our reliance on independent foundries and subcontractors for the manufacture, assembly and testing of our products;
+
+
+
+•the risks associated with manufacturing and selling a majority of our products and our customers’ products outside of the United States;
+
+
+
+•the effects of transitioning to smaller geometry process technologies;
+
+
+
+•our ability to scale our operations in response to changes in demand for existing or new products and services;
+
+
+
+•our ability to limit costs related to defective products;
+
+
+
+•our ability to recruit and retain experienced executive management as well as highly skilled engineering and sales and marketing personnel; 
+
+
+
+•our ability to mitigate risks related to our information technology systems;
+
+
+
+•our ability to protect our intellectual property;
+
+
+
+•our ability to estimate customer demand and future sales accurately;
+
+
+
+•our reliance on third-party distributors and manufacturers' representatives to sell our products;
+
+
+
+•the impact of international conflict and continued economic volatility in either domestic or foreign markets;
+
+
+
+•the impact and costs associated with changes in international financial and regulatory conditions; 
+
+
+
+•the impact of any changes in our application of the United Stated federal income tax laws and the loss of any beneficial treatment that we currently enjoy; 
+
+
+
+•our maintenance of an effective system of internal controls; and 
+
+
+
+•the outcome of pending or future litigation and legal and regulatory proceedings.
+
+
+
+Additional factors which could cause actual results to differ materially include those set forth in the following discussion, as well as the risks discussed in Part II, Item 1A, “Risk Factors,” and other sections of this Quarterly Report on Form 10-Q. These forward-looking statements speak only as of the date hereof. Unless required by law, we undertake no obligation to update any forward-looking statements.
+
+
+
+Overview
+
+
+
+We are a fabless semiconductor provider of high-performance, application-specific standard products. Our core strength is developing complex System-on-a-Chip (“SoC”) devices, leveraging our technology portfolio of intellectual property in the areas of analog, mixed-signal, digital signal processing, and embedded and standalone integrated circuits. We also develop integrated hardware platforms along with software that incorporates digital computing technologies designed and configured to provide an optimized computing solution. Our broad product portfolio includes devices for storage, networking and connectivity.
+
+
+
+29
+
+Unless noted otherwise, our discussion under Part I, Item 2, Management’s Discussion and Analysis of Financial Condition and Results of Operations, refers to our continuing operations.
+
+
+
+On July 6, 2018, we completed our acquisition of Cavium. Cavium is a provider of highly integrated semiconductor processors that enable intelligent processing for wired and wireless infrastructure and cloud for networking, communications, storage and security applications. Cavium designs, develops and markets semiconductor processors for intelligent and secure networks. Cavium's operating results from the acquisition date through our third quarter ended November 3, 2018 have been included in our consolidated financial statements. See “Note 3 - Business Combination” of Notes to Condensed Consolidated Financial Statements for further discussion regarding our acquisition of Cavium. 
+
+
+
+In the third quarter of fiscal 2019, our net revenue increased year over year by 38.1% from $616.3 million net revenue in the third quarter fiscal 2018 compared with $851.1 million in the third quarter of fiscal 2019. The increase was primarily due to a 57% increase in our networking product sales and 29% increase in our storage product sales, with sales benefiting from our acquisition of Cavium. This increase was partially offset by decreased sales of our other products, which decreased by 4% in relation to the three months ended October 28, 2017. Our net revenue for the nine months ended November 3, 2018 increased by $327.2 million compared to net revenue for the nine months ended October 28, 2017. The increase was primarily due to increased sales of our networking products by 29% and storage products by 14%, with sales benefiting from our acquisition of Cavium. The growth was offset by decreased sales of our other products, which decreased by 5% in relation to the nine months ended October 28, 2017. 
+
+
+
+Capital Return Program. We remain committed to delivering shareholder value through our share repurchase and dividend programs. On October 16, 2018, we announced that our Board of Directors authorized a $700 million addition to the balance of our existing share repurchase plan. Under the program authorized by our Board of Directors, we may repurchase shares in the open-market or through privately negotiated transactions. The extent to which we repurchase our shares and the timing of such repurchases will depend upon market conditions and other corporate considerations, as determined by our management team. The repurchase program may be suspended or discontinued at any time. As of November 3, 2018, there was $1.0 billion remaining available for future share repurchases.
+
+
+
+For the nine months ended November 3, 2018, we repurchased 2.9 million shares of our common stock for $54.0 million. As of November 3, 2018, a total of 289.3 million shares have been repurchased to date under the Company’s share repurchase program for a total $3.8 billion in cash. We returned $162.6 million to stockholders in the nine months ended November 3, 2018, including our repurchases of common stock and $108.6 million of cash dividends. 
+
+
+
+Cash and Short Term Investments. Our total cash, cash equivalents and short-term investments were $610.3 million at November 3, 2018, which was lower than our balance of $1.8 billion at our fiscal year ended February 3, 2018. The decrease was primarily due to cash paid for the Cavium acquisition of $2.6 billion and cash paid on debt principal payments of $681.1 million, offset by proceeds from debt financing of $1.9 billion. 
+
+
+
+Sales and Customer Composition. Historically, a relatively small number of customers have accounted for a significant portion of our net revenue. Net revenue attributable to significant customers whose revenue as a percentage of net revenue was 10% or greater of total net revenue is presented in the following table:
+
+
+
+[DATA_TABLE_REMOVED] 
+
+
+
+*Less than 10% of net revenue
+
+
+
+30
+
+We continuously monitor the creditworthiness of our major customers and distributors and believe the distributors’ sales to diverse end customers and geographies further serve to mitigate our exposure to credit risk.
+
+
+
+Most of our sales are made to customers located outside of the United States, primarily in Asia, and all of our products are manufactured outside the United States. Sales shipped to customers with operations in Asia represented approximately 82% and 88% of our net revenue in the three and nine months ended November 3, 2018, and approximately 94% of net revenue in both the three and nine months ended October 28, 2017, respectively. Because many manufacturers and manufacturing subcontractors of our customers are located in Asia, we expect that most of our net revenue will continue to be represented by sales to our customers in that region. For risks related to our global operations, see Part II, Item 1A, “Risk Factors,” including but not limited to the risk detailed under the caption "We face additional risks due to the extent of our global operations since a majority of our products, and those of our customers, are manufactured and sold outside of the United States. The occurrence of any or a combination of the additional risks described below would significantly and negatively impact our business and results of operations."
+
+
+
+Historically, a relatively large portion of our sales have been made on the basis of purchase orders rather than long-term agreements. Customers can generally cancel or defer purchase orders on short notice without incurring a significant penalty. In addition, the development process for our products is long, which may cause us to experience a delay between the time we incur expenses and the time revenue is generated from these expenditures. We anticipate that the rate of new orders may vary significantly from quarter to quarter. For risks related to our sales cycles, see Part II, Item 1A, “Risk Factors,” including but not limited to the risk detailed under the caption "We are subject to order and shipment uncertainties. If we are unable to accurately predict customer demand, we may hold excess or obsolete inventory, which would reduce our gross margin. Conversely, we may have insufficient inventory, which would result in lost revenue opportunities and potential loss of market share as well as damaged customer relationships." 
+
+
+
+Critical Accounting Policies and Estimates
+
+
+
+Except for the accounting policy for revenue recognition that was updated as a result of adopting the new accounting standard on the recognition of revenue from contracts with customers, and the estimates involved with the purchase accounting associated with Cavium business combination, there have been no material changes to our critical accounting policies and estimates from the information provided in the “Critical Accounting Policies and Estimates” section of our Management's Discussion and Analysis of Financial Condition and Results of Operations included in our Annual Report on Form 10-K for the fiscal year ended February 3, 2018. See “Note 3. Business Combination,” “Note 12. Revenue - New Revenue Recognition Policy Including Significant Judgments and Estimates” and “Note 4. Goodwill and Acquired Intangible Assets, Net” for additional information.
+
+
+
+31
+
+Results of Operations
+
+
+
+The following table sets forth information derived from our unaudited condensed consolidated statements of operations expressed as a percentage of net revenue:
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Three and nine months ended November 3, 2018 and October 28, 2017 
+
+
+
+Net Revenue
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+ At the beginning of fiscal year 2019, we adopted the new revenue recognition standard using the modified retrospective method. Refer to “Note 12 - Revenue” for further information. 
+
+
+
+Our net revenue for the three months ended November 3, 2018 increased by $234.7 million compared to net revenue for the three months ended October 28, 2017. This was primarily due to increased sales of our networking products by 57% and higher sales of our storage products by 29%, with sales benefiting from our acquisition of Cavium, which occurred in the second quarter of fiscal year 2019. This increase was partially offset by decreased sales of our other products, which were down 4% compared to the three months ended October 28, 2017. 
+
+
+
+Our net revenue for the nine months ended November 3, 2018 increased by $327.2 million compared to net revenue for the nine months ended October 28, 2017. This increase was primarily due to increased sales of our networking products by 29% and increased sales of our storage products by 14%, with sales benefiting from our acquisition of Cavium. This growth was offset by a decline in other products, which were down 5% compared to the nine months ended October 28, 2017.
+
+
+
+In the three months ended November 3, 2018, unit shipments were 15% lower and average selling prices increased 45% compared to the three months ended October 28, 2017. In the nine months ended November 3, 2018, unit shipments were 1% higher and average selling prices increased 17% compared to the nine months ended October 28, 2017. 
+
+
+
+32
+
+Cost of Goods Sold and Gross Profit
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Cost of goods sold as a percentage of net revenue was higher for the three and nine months ended November 3, 2018 due primarily to our acquisition of Cavium, which resulted in increased inventory acquisition costs and amortization of acquired intangible assets, partially offset by lower manufacturing costs and improved product mix. As a result, gross margin for the three and nine months ended November 3, 2018 decreased 16.2 percentage points and 7.1 percentage points, respectively, compared to the three and nine months ended October 28, 2017. 
+
+
+
+Research and Development
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Research and development expenses increased by $99.4 million in the three months ended November 3, 2018 compared to the three months ended October 28, 2017. The increase was primarily due to additional costs from our acquisition of Cavium. The increase primarily consisted of $74.5 million of higher employee personnel-related costs, $6.7 million of higher computer-aided design software costs, $5.1 million of higher other personnel-related costs and $4.9 million of higher depreciation and amortization expense.
+
+
+
+Research and development expenses increased by $123.5 million in the nine months ended November 3, 2018, compared to the nine months ended October 28, 2017. The increase was due primarily to additional costs from our acquisition of Cavium. The increase primarily consisted of $103.5 million of higher employee personnel-related costs, $5.9 million of higher other personnel-related costs and $5.0 million of higher depreciation and amortization expense. 
+
+
+
+Selling, general and administrative
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Selling, general and administrative expense increased by $53.1 million in the three months ended November 3, 2018 compared to the three months ended October 28, 2017. The increase was primarily due to additional costs from our acquisition of Cavium, including $20.0 million of intangibles amortization expense, $13.9 million of higher employee personnel-related costs $10.8 million of merger-related costs and $8.2 million of higher facility-related expenses.
+
+
+
+33
+
+Selling, general and administrative expense increased by $148.3 million in the nine months ended November 3, 2018 compared to the nine months ended October 28, 2017. The increase was due primarily to additional costs from our acquisition of Cavium, including $55.6 million of higher employee personnel-related costs, $53.9 million of merger-related costs,$24.8 million of intangibles amortization expense and $9.3 million of higher facility-related expenses. 
+
+
+
+Restructuring Related Charges
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+We recognized $27.0 million and $64.0 million of total restructuring related charges in the three and nine months ended November 3, 2018 as the Company continues to evaluate its existing operations to increase operational efficiency, decrease costs and increase profitability. See “Note 6 - Restructuring and Other Related Charges” for further information. 
+
+
+
+Interest Income
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Interest income decreased by $3.3 million and $1.0 million in the three and nine months ended November 3, 2018, respectively, compared to the three and nine months ended October 28, 2017. The decrease is primarily due to the sale of investments in the first and second quarter of fiscal 2019. 
+
+
+
+Interest Expense
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Interest expense increased by $22.1 million and $38.0 million in the three and nine months ended November 3, 2018, respectively, compared to the three and nine months ended October 28, 2017. The increase is primarily due to interest expense incurred resulting from the issuance of our 2023 Notes, 2028 Notes and amounts borrowed under our credit agreement. 
+
+
+
+Other Income (Loss), Net
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+34
+
+Other income (loss), net, was a loss of $2.7 million in the three months ended November 3, 2018, compared to a gain of $2.2 million in the three months ended October 28, 2017. This was primarily a result of a loss from the sale of a business and foreign currency remeasurement loss in the three months ended November 3, 2018 compared with a gain from sale of a private equity investment and foreign currency remeasurement gain in the three months ended October 28, 2017. 
+
+
+
+Other income (loss), net, was a loss of $3.9 million in the nine months ended November 3, 2018 compared to a gain of $5.5 million in the nine months ended October 28, 2017. This was primarily a result of a loss from the sale of a business and foreign currency measurement loss in the nine months ended November 3, 2018 compared with a $5.1 million gain from the sale of a business recognized in the nine months ended October 28, 2017. 
+
+
+
+Provision (benefit) for Income Taxes
+
+
+
+[DATA_TABLE_REMOVED]
+
+
+
+Our income tax expense for the three months ended November 3, 2018 was $9.3 million compared to tax expense of $6.8 million for the three months ended October 28, 2017. Our income tax expense for the three months ended November 3, 2018 differs from the same period in the prior year primarily as a result of combining our projected Cavium and Marvell results in estimating our annual effective tax rate. With this acquisition, we are projecting significant amounts of pre-tax losses in the U.S. for the current fiscal year for which an income tax benefit will be realized at the U.S. statutory rate of 21%. This projected income tax benefit is in excess of our projected income taxes from other jurisdictions. During the three months ended November 3, 2018, our estimated annual effective tax rate was adjusted requiring us to true up our year to date income tax benefit in the current three month period. The effective tax rate for the three months ended November 3, 2018 and October 28, 2017 differs from the statutory Federal rate of 21% and 35%, respectively, primarily due to non-U.S. earnings that are taxed at a substantially lower tax rate. 
+
+
+
+Our income tax benefit for the nine months ended November 3, 2018 was $16.9 million compared to tax expense of $8.0 million for the nine months ended October 28, 2017. Our income tax provision for the nine months ended November 3, 2018 differs from the same period in the prior year primarily as a result of combining our projected Cavium and Marvell results. With this acquisition, we are projecting significant amounts of pre-tax losses in the U.S. for the current fiscal year for which an income tax benefit is realized at the U.S. statutory rate of 21%. This income tax benefit is in excess of our projected income taxes from other jurisdictions. As a result, our effective tax rate in the current period reflects a significant consolidated income tax benefit, in addition to the reversal of uncertain tax positions and other prior year tax positions. The effective tax rate for the nine months ended November 3, 2018 and October 28, 2017 differs from the statutory Federal rate of 21% and 35%, respectively, primarily due to non-U.S. earnings that are taxed at a substantially lower tax rate. 
+
+
+
+Our provision for income taxes may be affected by changes in the geographic mix of earnings with different applicable tax rates, accruals related to contingent tax liabilities and period-to-period changes in such accruals, the results of income tax audits, the expiration of statutes of limitations, the implementation of tax planning strategies, tax rulings, court decisions, settlements with tax authorities and changes in tax laws. It is possible that significant negative evidence may become available to reach a conclusion that a valuation allowance will be needed, and as such, we may recognize a valuation allowance in the next 12 months. Additionally, please see the information in "Item 1A: Risk Factors" under the caption "Changes in existing taxation benefits, rules or practices may adversely affect our financial results.”
+
+
+
+35
+
+The Tax Cuts and Jobs Act (“2017 Tax Act”) was signed into law on December 22, 2017. The 2017 Tax Act significantly revises the U.S. corporate income tax by, among other things, lowering the statutory corporate tax rate from 35% to 21%, eliminating certain deductions, imposing a mandatory one-time tax on accumulated earnings of foreign subsidiaries, introducing new tax regimes, and changing how foreign earnings are subject to U.S. tax. The 2017 Tax Act also enhanced and extended through 2026 the option to claim accelerated depreciation deductions on qualified property. We have not completed our determination of the accounting implications of the 2017 Tax Act on our tax accruals. However, we reasonably estimated the effects of the 2017 Tax Act and recorded provisional amounts in our financial statements as of February 3, 2018. There were no additional adjustments made to these amounts in the three or nine month period ended November 3, 2018. As we continue our analysis of the 2017 Tax Act, collect and prepare necessary data, and interpret any additional guidance issued by the U.S. Treasury Department, the IRS, and other standard-setting bodies, we may make adjustments to the provisional amounts. Those adjustments may materially impact our provision for income taxes in the period in which the adjustments are made.
+
+
+
+Liquidity and Capital Resources
+
+
+
+Our principal source of liquidity as of November 3, 2018 consisted of approximately $610 million of cash, cash equivalents and short-term investments, of which approximately $550 million was held by subsidiaries outside of Bermuda. We have not recognized a deferred tax liability on $440 million of the excess financial reporting basis over the tax basis of investments in foreign subsidiaries outside of Bermuda that is indefinitely reinvested. We plan to use such amounts to fund various activities outside of Bermuda, including working capital requirements, capital expenditures for expansion, funding of future acquisitions or other financing activities. If such amounts were no longer considered indefinitely reinvested, we would incur a tax expense of approximately $120 million.
+
+
+
+In June 2018, we executed debt agreements to obtain a $900 million term loan and $1.0 billion of senior unsecured notes in order to fund the Cavium acquisition. In addition, we executed a debt agreement in June 2018 to obtain a $500 million Revolving Credit Facility, which was undrawn as of November 3, 2018. See “Note 10 - Debt” for further information. 
+
+
+
+We believe that our existing cash, cash equivalents and short-term investments, together with cash generated from operations, and funds from our Revolving Credit Facility will be sufficient to cover our working capital needs, capital expenditures, investment requirements and any declared dividends, repurchase of our common stock and commitments for at least the next twelve months. Our capital requirements will depend on many factors, including our rate of sales growth, market acceptance of our products, costs of securing access to adequate manufacturing capacity, the timing and extent of research and development projects and increases in operating expenses, which are all subject to uncertainty. In addition, we have been named as defendants in several litigation actions and an unfavorable outcome in any current litigation matter could have a material adverse effect on our liquidity, cash flows and results of operations. For a discussion of litigation related risks, see Part II, Item 1A, "Risk Factors," including the risk detailed under the caption "We have been named as a party to several legal proceedings and may be named in additional ones in the future, including litigation involving our patents and other intellectual property, which could subject us to liability, require us to indemnify our customers, require us to obtain or renew licenses, require us to stop selling our products or force us to redesign our products."
+
+
+
+To the extent that our existing cash, cash equivalents and short-term investments together with cash generated by operations, and funds available under our Revolving Credit Facility are insufficient to fund our future activities, we may need to raise additional funds through public or private debt or equity financing. We may also acquire additional businesses, purchase assets or enter into other strategic arrangements in the future, which could also require us to seek debt or equity financing. Additional equity financing or convertible debt financing may be dilutive to our current shareholders. If we elect to raise additional funds, we may not be able to obtain such funds on a timely basis or on acceptable terms, if at all. In addition, the equity or debt securities that we issue may have rights, preferences or privileges senior to our common shares.
+
+
+
+Future payment of a regular quarterly cash dividend on our common shares and our planned repurchases of common stock will be subject to, among other things, the best interests of the Company and our shareholders, our results of operations, cash balances and future cash requirements, financial condition, developments in ongoing litigation, statutory requirements under Bermuda law, market conditions and other factors that our board of directors may deem relevant. Our dividend payments and repurchases of common stock may change from time to time, and we cannot provide assurance that we will continue to declare dividends or repurchase shares at all or in any particular amounts.
+
+
+
+36
+
+Cash Flows from Operating Activities
+
+
+
+Net cash flow provided by operating activities for the nine months ended November 3, 2018 was $490.1 million. We had net income of $81.6 million, adjusted for the following non-cash items: share-based compensation expense of $133.5 million, amortization of inventory fair value adjustment associated with the acquisition of Cavium of $125.8 million, amortization of acquired intangible assets of $104.6 million, depreciation and amortization of $86.4 million, a non-cash gain on deferred income taxes of $27.7 million, restructuring related impairment charges of $11.9 million, amortization of deferred debt issuance costs and debt discounts of $9.3 million, and $5.4 million net loss from other non-cash items. Cash outflow from working capital of $40.6 million for the nine months ended November 3, 2018 was primarily driven by an increase in accounts receivable and a decrease in accrued compensation, partially offset by an increase in accrued liabilities. The increase in accounts receivable was driven primarily by an increase in sales. The decrease in accrued compensation was mainly driven by a decrease in our bonus accrual due to our annual bonus payout during the nine months ended November 3, 2018. The increase in accrued liabilities is primarily due to an increase in interest accrual related to debt, an increase in restructuring liabilities, as well as an increase in revenue-related liabilities
+
+
+
+Net cash flow provided by operating activities for the nine months ended October 28, 2017 was $451.4 million. We had $472.1 million of net income, adjusted for $38.8 million of non-cash items, which was primarily driven by gain on the sales of discontinued operations and businesses of $93.7 million, share-based compensation expense of $65.3 million, and depreciation and amortization of $62.6 million. The cash outflow from working capital of $59.5 million for the nine months ended October 28, 2017 was primarily driven by increases in accounts receivable and inventory and a decrease in accrued liabilities. This outflow was partially offset by an increase in accounts payable and a decrease in prepaid expenses and other current assets. The increase in accounts receivable was driven primarily by the increase in revenue. The increase in inventory is associated with the build up of inventory related to our networking and storage products in preparation for next quarter's demand. The decrease in accrued liabilities was driven by a reduction of accruals for restructuring expenses and rebates. The increase in accounts payable was due to additional amounts owed for assembly and test services. 
+
+
+
+Cash Flows from Investing Activities
+
+
+
+Net cash flow used in investing activities was $1.8 billion for the nine months ended November 3, 2018 compared to net cash provided by investing activities of $63.0 million for the nine months ended October 28, 2017. For the nine months ended November 3, 2018, net cash used in investing activities was primarily driven by net cash paid to acquire Cavium of $2.6 billion, partially offset by proceeds for sales and maturities of available-for sale securities and time deposits of $986.9 million.
+
+
+
+For the nine months ended October 28, 2017, net cash provided by investing activities of $63.0 million was primarily driven by purchase of available-for-sale securities of $672.9 million, partially offset by sales and maturities of available-for-sale securities of $589.9 million and net proceeds of $165.9 million from the sale of our Broadband, Multimedia, and LTE thin-modem businesses. 
+
+
+
+Cash Flows from Financing Activities
+
+
+
+For the nine months ended November 3, 2018, net cash provided by financing activities of $1.0 billion was primarily attributable to $1.9 billion proceeds from issuance of debt and $60.8 million proceeds from employee stock plans, partially offset by $681.1 million repayment of debt, $108.6 million for payment of our quarterly dividends, $52.5 million payments for technology license obligations, and $54.0 million for repurchases of our common stock.
+
+
+
+For the nine months ended October 28, 2017, net cash used in financing activities of $528.3 million was primarily attributable to $527.6 million for repurchases of our common stock, $89.6 million for payment of our quarterly dividends, and $25.9 million minimum tax withholding payments on behalf of employees for net share settlements. These outflows were partially offset by proceeds of $137.4 million from employee stock plans. 
+
+
+
+Contractual Obligations and Commitments
+
+
+
+We presented our contractual obligations at August 4, 2018 in our Quarterly Report on Form 10-Q for the fiscal quarter then ended. There have been no material changes outside the ordinary course of business in those obligations during the three months ended November 3, 2018. 
+
+
+
+37
+
+Indemnification Obligations
+
+
+
+See “Note 11 – Commitments and Contingencies” in the Notes to the Unaudited Condensed Consolidated Financial Statements set forth in Part I, Item 1 of this Quarterly Report on Form 10-Q.
+
+
+
+38
+

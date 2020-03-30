@@ -1,0 +1,560 @@
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+
+
+
+This Form 10-Q contains certain forward-looking statements including expectations of market conditions, challenges and plans, within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended, and is subject to the Safe Harbor provisions created by that statute. Such forward-looking statements are based on management’s current expectations and beliefs, including estimates and projections about our business and include, but are not limited to, statements concerning financial position, business strategy, and plans or objectives for future operations. Forward-looking statements are not guarantees of future performance, and are subject to certain risks, uncertainties, and assumptions that are difficult to predict and may cause actual results to differ materially from management’s current expectations. Such risks and uncertainties include those set forth in this Quarterly Report on Form 10-Q and our 2017 Annual Report on Form 10-K under the heading “Item 1A. Risk Factors”. The forward-looking statements in this report speak only as of the time they are made, and do not necessarily reflect management’s outlook at any other point in time. We undertake no obligation to publicly update any forward-looking statements, whether as a result of new information, future events, or for any other reason, however, readers should carefully review the risk factors set forth in other reports or documents we file from time to time with the SEC after the date of this Quarterly Report. 
+
+
+
+OVERVIEW 
+
+
+
+Cohu is a leading supplier of semiconductor test and inspection handlers, micro-electro mechanical system (MEMS) test modules, test contactors and thermal subsystems used by global semiconductor manufacturers and test subcontractors. Our business is significantly dependent on capital expenditures by semiconductor manufacturers and test subcontractors, which in turn is dependent on the current and anticipated market demand for semiconductors that is subject to seasonal trends. We expect that the semiconductor equipment industry will continue to be seasonal in part because consumer electronics, automotive and mobility, the principal end markets for integrated circuits, are highly dynamic industries and demand has traditionally fluctuated with global consumer spending. In light of these conditions, our results can vary significantly year-over-year. 
+
+
+
+During the first nine months of 2018, our net sales increased 4.7% from the corresponding period of 2017. This increase has been driven by improved conditions in automotive, industrial and IoT (Internet of Things) semiconductor markets and capturing new customers for semiconductor test handlers and test contactors, along with growth in sales of semiconductor inspection equipment. Cohu’s sales in the third quarter of 2018 decreased 13.6% from the second quarter of 2018 as a result of softening in the broader market for semiconductors primarily those used in mobility applications. We continue to see momentum in the automotive and industrial semiconductor markets and are optimistic about the prospects for our business due to the increasing ubiquity of semiconductors, the diminishing impact of parallel test, increasing semiconductor complexity and increasing quality demands from semiconductor customers. We are continuing our investment in new products and are focused on growing sales in our semiconductor test handling and test contactor businesses and expanding into the semiconductor inspection market. 
+
+
+
+Xcerra Acquisition 
+
+
+
+On October 1, 2018, Cohu completed the acquisition of Xcerra Corporation, and Xcerra became a wholly owned subsidiary of Cohu (the "Merger"). In connection with the Merger, Cohu and certain of its subsidiaries entered into a Credit and Guaranty Agreement with Deutsche Bank AG New York Branch, and other lenders that may from time to time be a party to the Credit and Guaranty Agreement. Pursuant to the Credit and Guaranty Agreement, the lenders have provided Cohu with a senior secured term loan facility of $350 million to finance a portion of the cash used to complete the acquisition and to pay related costs and expenses. See Note 8, “Acquisition of Xcerra”, located in Part I, Item 1 of this Form 10-Q for further information. 
+
+
+
+Unless otherwise indicated all amounts presented herein pertain only to Cohu, Inc. and exclude the impact of Xcerra. 
+
+
+
+Application of Critical Accounting Estimates and Policies 
+
+
+
+Our discussion and analysis of our financial condition and results of operations is based upon our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States of America. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses and related disclosure of contingent assets and liabilities. We base our estimates on historical experience, forecasts and on various other assumptions that are believed to be reasonable under the circumstances, however actual results may differ from those estimates under different assumptions or conditions. The methods, estimates and judgments we use in applying our accounting policies have a significant impact on the results we report in our financial statements. Some of our accounting policies require us to make difficult and subjective judgments, often as a result of the need to make estimates of matters that are inherently uncertain. 
+
+
+
+24 
+
+
+
+Table of Contents  
+
+
+
+Cohu, Inc. 
+
+
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+
+
+
+September 29, 2018 
+
+
+
+Our critical accounting estimates that we believe are the most important to an investor’s understanding of our financial results and condition and that require complex management judgment include: 
+
+
+
+●   
+
+
+
+revenue recognition, including the deferral of revenue on sales to customers, which impacts our results of operations;    
+
+
+
+●   
+
+
+
+estimation of valuation allowances and accrued liabilities, specifically product warranty, inventory reserves and allowance for bad debts, which impact gross margin or operating expenses;    
+
+
+
+●   
+
+
+
+the recognition and measurement of current and deferred income tax assets and liabilities, unrecognized tax benefits and the valuation allowance on deferred tax assets, which impact our tax provision;    
+
+
+
+●   
+
+
+
+the assessment of recoverability of long-lived assets including goodwill and other intangible assets, which primarily impacts gross margin or operating expenses if we are required to record impairments of assets or accelerate their depreciation or amortization; and    
+
+
+
+●   
+
+
+
+the valuation and recognition of share-based compensation, which impacts gross margin, research and development expense, and selling, general and administrative expense.    
+
+
+
+Below, we discuss these policies further, as well as the estimates and judgments involved. We also have other policies that we consider key accounting policies; however, these policies typically do not require us to make estimates or judgments that are difficult or subjective. 
+
+
+
+Revenue Recognition: Our net sales are derived from the sale of products and services and are adjusted for estimated returns and allowances, which historically have been insignificant. We recognize revenue when the obligations under the terms of a contract with our customers are satisfied; generally, this occurs with the transfer of control of our systems, non-system products or services. In circumstances where control is not transferred until destination or acceptance, we defer revenue recognition until such events occur. Revenue for established products that have previously satisfied a customer’s acceptance requirements is generally recognized upon shipment. In cases where a prior history of customer acceptance cannot be demonstrated or from sales where customer payment dates are not determinable and in the case of new products, revenue and cost of sales are deferred until customer acceptance has been received. Our post-shipment obligations typically include installation and standard warranties. The estimated fair value of installation related revenue is recognized in the period the installation is performed. Service revenue is recognized over time as the transfer of control is completed for the related contract or upon completion of the services if they are short-term in nature. Spares, contactor and kit revenue is generally recognized upon shipment. Certain of our equipment sales have multiple performance obligations. These arrangements involve the delivery or performance of multiple performance obligations, and transfer of control of performance obligations may occur at different points in time or over different periods of time. For arrangements containing multiple performance obligations, the revenue relating to the undelivered performance obligation is deferred using the relative standalone selling price method utilizing estimated sales prices until satisfaction of the deferred performance obligation. Unsatisfied performance obligations primarily represent contracts for products with future delivery dates and with an original expected duration of one year or less. As allowed under ASC 606, we have opted to not disclose unsatisfied performance obligations as these contracts have original expected durations of less than one year. We generally sell our equipment with a product warranty. The product warranty provides assurance to customers that delivered products are as specified in the contract (an “assurance-type warranty”). Therefore, we account for such product warranties under ASC 460, Guarantees (ASC 460), and not as a separate performance obligation. The transaction price reflects our expectations about the consideration we will be entitled to receive from the customer and may include fixed or variable amounts. Fixed consideration primarily includes sales to customers that are known as of the end of the reporting period. Variable consideration includes sales in which the amount of consideration that we will receive is unknown as of the end of a reporting period. Such consideration primarily includes sales made to certain customers with cumulative tier volume discounts offered. Variable consideration arrangements are rare; however, when they occur, we estimate variable consideration as the expected value to which we expect to be entitled. Included in the transaction price estimate are amounts in which it is probable that a significant reversal of cumulative revenue recognized will not occur when the uncertainty associated with the variable consideration is subsequently resolved. The estimate is based on information available for projected future sales. Variable consideration that does not meet revenue recognition criteria is deferred. Accounts receivable represents our unconditional right to receive consideration from our customer. Payments terms do not exceed one year from the invoice date and therefore do not include a significant financing component. To date, there have been no material impairment losses on accounts receivable. There were no material contract assets or contract liabilities recorded on the condensed consolidated balance sheet in any of the periods presented. On shipments where sales are not recognized, gross profit is generally recorded as deferred profit in our consolidated balance sheet representing the difference between the receivable recorded and the inventory shipped. 
+
+
+
+25 
+
+
+
+Table of Contents  
+
+
+
+Cohu, Inc. 
+
+
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+
+
+
+September 29, 2018 
+
+
+
+Accounts Receivable: We maintain an allowance for doubtful accounts for estimated losses resulting from the inability of our customers to make required payments. If the financial condition of our customers deteriorates, resulting in an impairment of their ability to make payments, additional allowances may be required. 
+
+
+
+Inventory: The valuation of inventory requires us to estimate obsolete or excess inventory as well as inventory that is not of saleable quality. The determination of obsolete or excess inventory requires us to estimate the future demand for our products. The demand forecast is a direct input in the development of our short-term manufacturing plans. We record valuation reserves on our inventory for estimated excess and obsolete inventory and lower of cost or net realizable value concerns equal to the difference between the cost of inventory and the estimated realizable value based upon assumptions about future product demand, market conditions and product selling prices. If future product demand, market conditions or product selling prices are less than those projected by management or if continued modifications to products are required to meet specifications or other customer requirements, increases to inventory reserves may be required which would have a negative impact on our gross margin. 
+
+
+
+Income Taxes: The Tax Cuts and Jobs Act (“Tax Act”) was enacted on December 22, 2017. Due to the timing of the enactment and the complexity involved in applying the provisions of the Tax Act, we have made reasonable estimates of the effects and recorded provisional amounts in our financial statements for the year ended December 30, 2017, and the three and nine months ended September 29, 2018, as provided for in SAB 118. As we collect and prepare necessary data, and interpret any additional guidance issued by the U.S. Treasury Department, the IRS or other standard-setting bodies, we may make adjustments to the provisional amounts. Those adjustments may materially impact the provision for income taxes and the effective tax rate in the period in which the adjustments are made. The accounting for the tax effects of the enactment of the Tax Act will be completed in 2018. 
+
+
+
+We estimate our liability for income taxes based on the various jurisdictions where we conduct business. This requires us to estimate our (i) current taxes; (ii) temporary differences that result from differing treatment of certain items for tax and accounting purposes and (iii) unrecognized tax benefits. Temporary differences result in deferred tax assets and liabilities that are reflected in the consolidated balance sheet. The deferred tax assets are reduced by a valuation allowance if, based upon all available evidence, it is more likely than not that some or all of the deferred tax assets will not be realized. Establishing, reducing or increasing a valuation allowance in an accounting period generally results in an increase or decrease in tax expense in the statement of operations. We must make significant judgments to determine the provision for income taxes, deferred tax assets and liabilities, unrecognized tax benefits and any valuation allowance to be recorded against deferred tax assets. Our gross deferred tax asset balance as of September 29, 2018, was approximately $31.6 million, with a valuation allowance of approximately $25.1 million. Our deferred tax assets consist primarily of reserves and accruals that are not yet deductible for tax and tax credit and net operating loss carry-forwards. 
+
+
+
+Segment Information: We applied the provisions of ASC Topic 280, Segment Reporting, (“ASC 280”), which sets forth a management approach to segment reporting and establishes requirements to report selected segment information quarterly and to report annually entity-wide disclosures about products, major customers and the geographies in which the entity holds material assets and reports revenue. An operating segment is defined as a component that engages in business activities whose operating results are reviewed by the chief operating decision maker and for which discrete financial information is available. Based on the provisions of ASC 280, we have determined that our identified operating segments qualify for aggregation under ASC 280 due to similarities in their customers, their economic characteristics, and the nature of products and services provided. As a result, we report in one segment, semiconductor equipment. 
+
+
+
+Goodwill, Other Intangible Assets and Long-lived Assets: We evaluate goodwill for impairment annually and when an event occurs or circumstances change that indicate that the carrying value may not be recoverable. We test goodwill for impairment by first comparing the book value of net assets to the fair value of the reporting units. If the fair value is determined to be less than the book value, a second step is performed to compute the amount of impairment as the difference between the estimated fair value of goodwill and the carrying value. We estimated the fair values of our reporting units primarily using the income approach valuation methodology that includes the discounted cash flow method, taking into consideration the market approach and certain market multiples as a validation of the values derived using the discounted cash flow methodology. Forecasts of future cash flows are based on our best estimate of future net sales and operating expenses, based primarily on customer forecasts, industry trade organization data and general economic conditions. 
+
+
+
+We conduct our annual impairment test as of October 1st of each year, and have determined there was no impairment as of October 1, 2017, as we determined that the estimated fair values of our reporting units exceeded their carrying values on that date. Other events and changes in circumstances may also require goodwill to be tested for impairment between annual measurement dates. As of September 29, 2018, we do not believe that circumstances have occurred that indicate impairment of our goodwill is more-likely-than-not. In the event we determine that an interim goodwill impairment review is required, in a future period, the review may result in an impairment charge, which would have a negative impact on our results of operations. 
+
+
+
+26 
+
+
+
+Table of Contents  
+
+
+
+Cohu, Inc. 
+
+
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+
+
+
+September 29, 2018 
+
+
+
+Long-lived assets, other than goodwill, are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of the assets might not be recoverable. Conditions that would necessitate an impairment assessment include a significant decline in the observable market value of an asset, a significant change in the extent or manner in which an asset is used, or any other significant adverse change that would indicate that the carrying amount of an asset or group of assets may not be recoverable. For long-lived assets, impairment losses are only recorded if the asset’s carrying amount is not recoverable through its undiscounted, probability-weighted future cash flows. We measure the impairment loss based on the difference between the carrying amount and estimated fair value. 
+
+
+
+Warranty: We provide for the estimated costs of product warranties in the period sales are recognized. Our warranty obligation estimates are affected by historical product shipment levels, product performance and material and labor costs incurred in correcting product performance problems. Should product performance, material usage or labor repair costs differ from our estimates, revisions to the estimated warranty liability would be required.  
+
+
+
+Contingencies: We are subject to certain contingencies that arise in the ordinary course of our businesses which require us to assess the likelihood that future events will confirm the existence of a loss or an impairment of an asset. If a loss or asset impairment is probable and the amount of the loss or impairment is reasonably estimable, we accrue a charge to operations in the period such conditions become known. 
+
+
+
+Share-based Compensation: Share-based compensation expense related to restricted stock unit awards is calculated based on the market price of our common stock on the grant date, reduced by the present value of dividends expected to be paid on our common stock prior to vesting of the restricted stock unit. Share-based compensation on performance stock units with market-based goals is calculated using a Monte Carlo simulation model on the date of the grant. Share-based compensation expense related to stock options is recorded based on the fair value of the award on its grant date, which we estimate using the Black-Scholes valuation model. 
+
+
+
+Recent Accounting Pronouncements 
+
+
+
+For a description of accounting changes and recent accounting pronouncements, including the expected dates of adoption and estimated effects, if any, on our consolidated financial statements, see “Recent Accounting Pronouncements”, in Note 1 located in Part I, Item 1 of this Form 10-Q. 
+
+
+
+RESULTS OF OPERATIONS 
+
+
+
+The following table summarizes certain operating data as a percentage of net sales: 
+
+
+
+  [DATA_TABLE_REMOVED] 
+
+
+
+Third Quarter of Fiscal 2018 Compared to Third Quarter of Fiscal 2017 
+
+
+
+Net Sales 
+
+
+
+Our consolidated net sales decreased 8.0% to $86.2 million in 2018, compared to $93.7 million in 2017. The decrease in sales in the third quarter of 2018 was primarily a result of a softening in the broader market for semiconductors primarily those used in mobility and IoT (Internet of Things) applications. 
+
+
+
+Gross Margin 
+
+
+
+Gross margin consists of net sales less cost of sales. Cost of sales consists primarily of the materials, assembly and test labor and overhead from operations. Our gross margin can fluctuate due to a number of factors, including, but not limited to, the mix and volume of products sold, product support costs, increases to inventory reserves or the sale of previously reserved inventory and utilization of manufacturing capacity. Our gross margin, as a percentage of net sales, was 39.9% in 2018 and 39.4% in 2017. Gross margin in the third quarter of 2017 included a $0.6 million charge related to the amortization of purchase accounting inventory step-up adjustment recorded in connection with our acquisition of Kita. No amounts were expensed in 2018 as all inventory step-up amounts were amortized in 2017. 
+
+
+
+27 
+
+
+
+Table of Contents  
+
+
+
+Cohu, Inc. 
+
+
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+
+
+
+September 29, 2018 
+
+
+
+Our gross margin can be impacted by charges to cost of sales related to excess, obsolete and lower of cost or net realizable value inventory issues. We compute the majority of our excess and obsolete inventory reserve requirements using a one-year inventory usage forecast. In both the third quarter of 2018 and 2017, we recorded charges to cost of sales of $0.7 million for excess and obsolete inventory. While we believe our reserves for excess and obsolete inventory and lower of cost or net realizable value concerns are adequate to cover known exposures at September 29, 2018, reductions in customer forecasts or continued modifications to products, as a result of our failure to meet specifications or other customer requirements, may result in additional charges to operations that could negatively impact our gross margin in future periods. 
+
+
+
+Research and Development Expense (“R&D Expense”) 
+
+
+
+R&D expense consists primarily of salaries and related costs of employees engaged in ongoing research, product design and development activities, costs of engineering materials and supplies and professional consulting expenses. R&D expense was $11.1 million in 2018 and $9.6 million in 2017 representing 12.9% and 10.3% of net sales, respectively. During the third quarter of 2018 new product development programs resulted in increased R&D spending on labor and materials. In the third quarter of 2017, we received $0.7 million of cost reimbursements under a cost-sharing arrangement that reduced R&D expense. No cost reimbursements were received in 2018. 
+
+
+
+Selling, General and Administrative Expense (“SG&A Expense”) 
+
+
+
+SG&A expense consists primarily of salaries and benefit costs of employees, commission expense for independent sales representatives, product promotion and costs of professional services. SG&A expense was $16.5 million or 19.2% of net sales in 2018, compared to $16.9 million or 18.0% in 2017. Our SG&A expense continues to be impacted by fluctuations in the Swiss Franc and Euro against the U.S. Dollar. During both the third quarter of 2018 and 2017 the U.S. Dollar slightly weakened which resulted in the recognition of foreign currency transaction loss of $0.2 million. Our SG&A expense has fluctuated due to costs incurred related to acquisitions. In the third quarter of 2018 we incurred $1.0 million of costs related to our pending acquisition of Xcerra. Costs incurred in the third quarter of 2017 associated with the acquisition of Kita totaled $0.1 million. We recorded a mark-to-market adjustment charge, related to the change in the fair value of the Kita contingent consideration liability, totaling $0.2 million and $0.7 million in the third quarter of 2018 and 2017 respectively. 
+
+
+
+Income Taxes  
+
+
+
+For the three months ended September 29, 2018, we used the estimated effective tax rate (“ETR”) expected to be applicable for the full fiscal year in computing our tax provision. The ETR on income from continuing operations for the three months ended September 29, 2018 and September 30, 2017, was 32.4% and 17.3%, respectively. Our ETR for the three months ended September 29, 2018 was impacted by approximately $0.6 million of foreign withholding tax that we accrued in the event we repatriate funds from certain of our foreign subsidiaries. The tax provision on income from continuing operations in 2018 and 2017 differs from the U.S. federal statutory rate primarily due to the lack of a benefit on our domestic losses as a result of our valuation allowance on deferred tax assets, foreign income taxed at different rates, changes in our deferred tax asset valuation allowance, state taxes and interest related to unrecognized tax benefits. 
+
+
+
+Other than for foreign currency exchange rate changes and the Kita Acquisition, there was no material change to our unrecognized tax benefits and related accrued interest and penalties during the three-month periods ended September 29, 2018 and September 30, 2017. 
+
+
+
+Income from Continuing Operations and Net Income 
+
+
+
+As a result of the factors set forth above, our income from continuing operations and net income was $4.8 million in 2018, compared to $8.8 million in 2017. 
+
+
+
+First Nine Months of Fiscal 2018 Compared to First Nine Months of Fiscal 2017 
+
+
+
+Net Sales 
+
+
+
+Our consolidated net sales increased 4.7% to $281.1 million in 2018, compared to $268.6 million in 2017. Increased sales in the first nine months of 2018 resulted from improved conditions in automotive, industrial and IoT(Internet of Things) semiconductor markets as compared to conditions in the first nine months of 2017, and from capturing new customers for semiconductor test handlers and test contactors, along with growth in sales of semiconductor inspection equipment. 
+
+
+
+28 
+
+
+
+Table of Contents  
+
+
+
+Cohu, Inc. 
+
+
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+
+
+
+September 29, 2018 
+
+
+
+Gross Margin 
+
+
+
+Our gross margin, as a percentage of net sales, increased to 41.1% in 2018 from 39.6% in 2017. As compared to the prior year, gross margin in the first nine months of 2018 benefitted from the increase in business volume which enabled us to better leverage our fixed costs as well as favorable product mix. Gross margin in the first nine months of 2018 benefited from the acceptance of our new Eclipse XTA as certain costs had been previously expensed to R&D during product development. During 2017, gross margin was negatively impacted by a purchase accounting inventory step-up adjustment as our cost of sales included $1.4 million of amortization recorded in connection with our acquisition of Kita. No amounts were expensed in 2018 as all inventory step-up amounts were amortized in 2017. 
+
+
+
+In the first nine months of fiscal 2018 and 2017 we recorded charges to cost of sales of approximately $1.3 million and $0.5 million for excess and obsolete inventory, respectively. 
+
+
+
+R&D Expense 
+
+
+
+R&D expense was $33.9 million or 12.1% of net sales in 2018, compared to $28.9 million or 10.7% in 2017. New product development programs resulted in higher R&D labor and material expense in the first nine months of 2018. Additionally, during 2017 R&D expense benefitted from $1.0 million of cost reimbursements received under a cost-sharing arrangement that we entered with a customer in the first quarter of 2016. 
+
+
+
+SG&A Expense 
+
+
+
+SG&A expense was $50.9 million or 18.1% of net sales in 2018, compared to $47.4 million or 17.6% in 2017. Increased business volume in the first nine months of 2018 drove higher costs. Our SG&A expense also continues to be impacted by fluctuations in the Swiss Franc and Euro against the U.S. Dollar. During the first nine months of 2018 the U.S. Dollar strengthened which resulted in the recognition of foreign currency transaction gains of $1.2 million. Conversely, in 2017 the U.S. Dollar weakened and, as a result, we recognized a loss of $2.7 million. Our SG&A expense has fluctuated due to costs incurred related to acquisitions. Costs incurred specifically related to our pending Xcerra acquisition in the first nine months of 2018 totaled $5.2 million and during 2017 we recorded $0.3 million of costs related to the acquisition of Kita. During the first nine months of 2018 and 2017 mark-to-market adjustments related to the fair value of the Kita contingent consideration liability resulted in the expense of $0.7 million. 
+
+
+
+Income Taxes 
+
+
+
+The ETR on income from continuing operations for the nine months ended September 29, 2018 and September 30, 2017, was 21.9% and 14.0%, respectively. Our ETR for the nine months ended September 29, 2018 was impacted by approximately $0.6 million of foreign withholding tax that we accrued in the event we repatriate funds from certain of our foreign subsidiaries. The tax provision on income from continuing operations in 2018 and 2017 differs from the U.S. federal statutory rate primarily due to the lack of a benefit on our domestic losses as a result of our valuation allowance on deferred tax assets, foreign income taxed at different rates, changes in our deferred tax asset valuation allowance, state taxes and interest related to unrecognized tax benefits. 
+
+
+
+Other than foreign currency exchange rate changes and the Kita Acquisition, there was no material change to our unrecognized tax benefits and related accrued interest and penalties during the nine-month periods ended September 29, 2018 and September 30, 2017. 
+
+
+
+Income from Continuing Operations and Net Income 
+
+
+
+As a result of the factors set forth above, our income from continuing operations and net income was $24.6 million in 2018 as compared to income from continuing operations of $26.2 million in 2017. Including the impact of the disposal of our discontinued mobile microwave communication equipment business, which included a loss of $0.3 million due to the write-off of the contingent consideration, our net income in the first nine months of 2017 was $25.9 million. 
+
+
+
+LIQUIDITY AND CAPITAL RESOURCES 
+
+
+
+Our primary business is dependent on capital expenditures by semiconductor manufacturers and test subcontractors that are, in turn, dependent on the current and anticipated market demand for semiconductors. The seasonal and volatile nature of demand for semiconductor equipment, our primary industry, makes estimates of future revenues, results of operations and net cash flows difficult. 
+
+
+
+29 
+
+
+
+Table of Contents  
+
+
+
+Cohu, Inc. 
+
+
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+
+
+
+September 29, 2018 
+
+
+
+Our primary historical source of liquidity and capital resources has been cash flow generated by our operations and we manage our business to maximize operating cash flows as our primary source of liquidity. We use cash to fund growth in our operating assets and to fund new products and product enhancements primarily through research and development. As of September 29, 2018, $40.0 million of our cash and cash equivalents was held by our foreign subsidiaries. If these funds are needed for our operations in the U.S., we may be required to make additional accruals and pay foreign or U.S. taxes if we repatriate these funds. 
+
+
+
+Liquidity 
+
+
+
+Working Capital: The following summarizes our cash, cash equivalents, short-term investments and working capital: 
+
+
+
+  [DATA_TABLE_REMOVED] 
+
+
+
+On October 1, 2018, approximately $70.5 million of Cohu’s cash and short term investments were used to fund the Merger with Xcerra. 
+
+
+
+Cash Flows 
+
+
+
+Operating Activities: Operating cash flows for the first nine months of fiscal 2018 consisted of our net income, adjusted for non-cash expenses and changes in operating assets and liabilities. These adjustments include depreciation expense on property, plant and equipment, share-based compensation expense, amortization of intangible assets deferred income taxes and a mark-to-market adjustment on the Kita contingent consideration. Our net cash provided by operating activities in the first nine months of fiscal 2018 totaled $29.2 million. Net cash provided by operating activities was impacted by changes in current assets and liabilities and included increases in accounts receivable of $8.1 million, inventories of $2.6 million, accrued compensation, warranty and other liabilities of $1.4 million and income tax payable of $3.9 million and a decrease in deferred profit of $3.5 million. The increase in accounts receivable resulted from a sequential increase in product shipments and the timing of the resulting cash conversion cycle. The increase in inventory is a result of purchases made in anticipation of shipments scheduled to occur in the fourth quarter of 2018. The increase in accrued compensation, warranty and other liabilities was driven by increased legal and other professional services accruals related to the acquisition of Xcerra. The increase in income taxes payable is a result of income generated in the current year. Deferred profit decreased due to the recognition of sales that had been previously deferred in accordance with our revenue recognition policy. 
+
+
+
+Investing Activities: Investing cash flows consist primarily of cash used for capital expenditures in support of our businesses, proceeds from investment maturities, asset disposals and cash used for purchases of investments and business acquisitions. Net cash provided by investing activities in the first nine months of fiscal 2018 totaled $18.3 million. Investing activities in the first nine months of fiscal 2018 were impacted by $59.5 million in net proceeds from sales and maturities of short-term investments offset, in part, by $38.7 million in cash used for purchases of short-term investments. We invest our excess cash, in an attempt to seek the highest available return while preserving capital, in short-term investments since excess cash is only temporarily available and may be required for a business related purpose. Additions to property, plant and equipment of $2.5 million were made to support the operating and development activities of our business. 
+
+
+
+Financing Activities: Cash flows from financing activities consist primarily of net proceeds from the issuance of common stock under our stock option and employee stock purchase plans and cash used to pay dividends to our stockholders. We issue restricted stock units and stock options and maintain an employee stock purchase plan as components of our overall employee compensation. In the first nine months of fiscal 2018, cash used to settle the minimum statutory tax withholding requirements on behalf of our employees upon vesting of restricted and performance stock awards, net of proceeds from the exercise of employee stock options was $2.6 million. We paid dividends totaling $5.2 million, or $0.18 per common share and on October 30, 2018, Cohu’s Board of Directors approved a quarterly cash dividend of $0.06 per share payable on January 2, 2019, to shareholders of record on November 16, 2018. Future quarterly dividends are subject to our cash liquidity, capital availability and periodic determinations by our Board of Directors that cash dividends are in the best interests of our stockholders. Furthermore, future quarterly dividends may be reduced from historical levels, or suspended, as a result of the Merger. Total repayments of short-term borrowings and long-term debt during the first nine months of fiscal 2018 totaled $1.0 million, additionally we made payments of $0.8 million to settle contingent consideration liabilities related to the acquisition of Kita in 2017. 
+
+
+
+30 
+
+
+
+Table of Contents  
+
+
+
+Cohu, Inc. 
+
+
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+
+
+
+September 29, 2018 
+
+
+
+Capital Resources 
+
+
+
+We have credit agreements with multiple financial institutions in Japan under which they administer lines of credit on behalf of our wholly owned Kita subsidiary. The credit facilities renew monthly and provide Kita with access to working capital totaling up to $6.2 million. At September 29, 2018 total borrowings outstanding under the revolving lines of credit were $3.1 million. As these credit facility agreements renew monthly, they have been included in short-term borrowings in our condensed consolidated balance sheet. We also have long-term term loans from a series of Japanese financial institutions totaling $4.8 million primarily related to the expansion of Kita’s facility in Osaka, Japan. The loans are collateralized by the facility and land. The loans carry interest rates ranging from 0.05% to 0.45% and expire at various dates through 2034. At September 29, 2018, $1.0 million of the term loans have been included in current installments of long-term debt in our condensed consolidated balance sheet. The revolving lines of credit and term loans are denominated in Japanese Yen and, as a result, amounts will fluctuate as a result of changes in currency exchange rates. 
+
+
+
+We also have a credit agreement with a financial institution under which it administers a line of credit on behalf of our wholly owned Ismeca subsidiary. The agreement provides Ismeca with 2.0 million Swiss Francs of available credit and at September 29, 2018, no amounts were outstanding. We expect that we will continue to make capital expenditures to support our business and we anticipate that present working capital will be sufficient to meet our operating requirements for at least the next twelve months. 
+
+
+
+We have a secured letter of credit facility (the “Secured Facility”) under which Bank of America, N.A., has agreed to administer the issuance of letters of credit on our behalf. The Secured Facility requires us to maintain deposits of cash or other approved investments, which serve as collateral, in amounts that approximate our outstanding letters of credit and contains customary restrictive covenants. As of September 29, 2018, no amounts were outstanding under standby letters of credit under the Secured Facility. 
+
+
+
+Xcerra Acquisition 
+
+
+
+On October 1, 2018 Cohu completed its acquisition of Xcerra Corporation and entered into a Credit Agreement with Cohu, as borrower, certain of its subsidiaries as guarantor subsidiaries, the financial institutions party thereto from time to time as lenders, and Deutsche Bank AG New York Branch, as administrative agent and collateral agent, providing for a $350.0 million Credit Facility. 
+
+
+
+On October 1, 2018, Cohu borrowed the entire amount of the Credit Facility. The proceeds of the Credit Facility were used, along with cash and cash equivalents on hand of Cohu and Xcerra, to pay the Cash Consideration (as defined below) and to pay certain fees and expenses related to the Merger and the Credit Agreement. 
+
+
+
+See “Acquisition of Xcerra”, in Note 8 located in Part I, Item 1 of this Form 10-Q for further information. 
+
+
+
+Contractual Obligations and Off-Balance Sheet Arrangements 
+
+
+
+Contractual Obligations: Our significant contractual obligations consist of liabilities for debt, operating leases, unrecognized tax benefits, pensions, post-retirement benefits and warranties. These obligations as of September 29, 2018 have not changed materially from those disclosed in our Annual Report on Form 10-K for the year ended December 30, 2017. 
+
+
+
+31 
+
+
+
+Table of Contents  
+
+
+
+Cohu, Inc. 
+
+
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+
+
+
+September 29, 2018 
+
+
+
+Secured Term Loan Facility- Xcerra Acquisition 
+
+
+
+To provide the majority of the Cash Consideration as part of the Merger, on October 1, 2018, Cohu entered into a Credit and Guaranty Agreement (the “Credit Agreement”) with Cohu, as borrower, certain of its subsidiaries as guarantor subsidiaries, the financial institutions party thereto from time to time as lenders, and Deutsche Bank AG New York Branch, as administrative agent and collateral agent, providing for a $350.0 million secured term loan facility (the “Credit Facility”). Cohu’s obligations under the Credit Facility are (and will be) guaranteed by certain of its existing and subsequently acquired or formed material wholly-owned domestic subsidiaries, (subject to certain exceptions and exclusions) under the Credit Facility (the “Guarantors”). The Credit Facility is secured by a security interest in substantially all existing and after-acquired assets and property (subject to certain exceptions and exclusions) of Cohu and the Guarantors. 
+
+
+
+On October 1, 2018, Cohu borrowed the entire amount of the Credit Facility. The proceeds of the Credit Facility were used, along with cash and cash equivalents on hand of Cohu and Xcerra, to pay the Cash Consideration and to pay certain fees and expenses related to the Merger and the Credit Agreement. 
+
+
+
+Loans under the Credit Facility amortize in equal quarterly installments equal to 0.25% of the original principal amount thereof, with the balance payable at maturity. Subject to certain exceptions and thresholds, the Credit Facility will also require mandatory prepayments in connection with (i) excess cash flow, (ii) non-ordinary course asset sales and other dispositions and (iii) the issuance of certain debt obligations, among other things. Cohu has the right to prepay loans under the Credit Agreement in whole or in part at any time, without premium or penalty other than a 1.00% prepayment fee in connection with certain “repricing” transactions on or before the sixth month anniversary of the closing date of the Credit Agreement. Amounts repaid in respect of loans under the Credit Facility may not be reborrowed. All outstanding principal and interest in respect of the Credit Facility must be repaid on or before October 1, 2025. 
+
+
+
+Loans under the Credit Facility bear interest at a floating annual rate equal to the LIBOR plus a margin of 3.00%. While a payment or bankruptcy event of default exists, Cohu is obligated to pay a per annum default rate of interest of 2.00% in excess of the interest rate otherwise payable with respect to the overdue principal amount of any loans outstanding and overdue interest payments and other overdue fees and amounts. 
+
+
+
+The Credit Agreement has incremental facility capacity in an aggregate amount of the greater of $145 million and 100% of consolidated EBITDA, with an additional $35 million available for revolving facilities, subject to certain conditions. Once Cohu’s first lien net leverage ratio is below a certain threshold, incremental facilities may be utilized in an unlimited amount. 
+
+
+
+The Credit Agreement contains certain customary affirmative and negative covenants, including covenants that limit the ability of Cohu and its subsidiaries to, among other things, grant liens, incur debt, dispose of assets, make loans and investments, make acquisitions, make certain restricted payments, pay dividends, merge or consolidate or change their business, in each case subject to customary exceptions for a credit facility of this size and type. 
+
+
+
+The Credit Agreement includes customary events of default that include, among other things, non-payment of principal, interest or fees, inaccuracy of representations and warranties, breach of covenants, cross-default to certain material indebtedness, bankruptcy and insolvency and change of control. Upon the occurrence and during the continuance of an event of default, the lenders may declare all outstanding principal and accrued but unpaid interest under the Credit Agreement immediately due and payable and may exercise the other rights and remedies provided under the Credit Agreement and related loan documents. 
+
+
+
+Purchase Commitments: From time to time, we enter into commitments with our vendors and outsourcing partners to purchase inventory at fixed prices or in guaranteed quantities. We are not able to determine the aggregate amount of such purchase orders that represent contractual obligations, as purchase orders may represent authorizations to purchase rather than binding agreements. Our purchase orders are based on our current manufacturing needs and are fulfilled by our vendors within relatively short time horizons. We typically do not have significant agreements for the purchase of raw materials or other goods specifying minimum quantities or set prices that exceed our expected requirements for the next three months. 
+
+
+
+Off-Balance Sheet Arrangements: During the ordinary course of business, we provide standby letters of credit instruments to certain parties as required. As of September 29, 2018, no amounts were outstanding under standby letters of credit. 
+
+
+
