@@ -1,0 +1,92 @@
+fls.txt
+"Management's Discussion and Analysis of Financial Condition and Results of Operations" should be read in conjunction with the unaudited interim Consolidated Financial Statements and the related notes included elsewhere in this report and with the audited Consolidated Financial Statements and the related notes included in the Company's Annual Report on Form 10-K for the year ended December 31, 2017.
+Actual results may differ materially from those contained in any forward-looking statements.
+Important factors that could cause actual results to differ materially from our expectations, or cautionary statements, are disclosed under the section entitled "Risk Factors" included in our Annual Report on Form 10-K for the year ended December 31, 2017 and from time to time in our subsequent Quarterly Reports on Form 10-Q and our other SEC filings.
+All written and oral forward-looking statements attributable to us, or persons acting on our behalf, are expressly qualified in their entirety by the cautionary statements contained in the section entitled "Risk Factors" included in our Annual Report on Form 10-K for the year ended December 31, 2017 and elsewhere in this report as well as other cautionary statements that are made from time to time in our other SEC filings and public communications.
+
+
+item1.txt
+The Company considers these service-type warranties to be separate performance obligations from the underlying product.
+For service-type warranties, the Company is arranging for those services to be provided by the third-party and therefore is acting as an agent in the transaction and records revenue on a net basis at the point of sale.
+Revenues from most software license sales are recognized as a single performance obligation on a gross basis as the Company is acting as a principal in these transactions at the point the software license is delivered to the customer.
+The value of the product is primarily the accompanying support delivered by a third-party and therefore the Company is acting as an agent in these transactions and recognizes them on a net basis at the point the associated software license is delivered to the customer.
+The Company recognizes revenue for cloud computing solutions for arrangements with one-time invoicing to the customer at the time of invoice on a net basis as the Company is acting as an agent in the transaction.
+For monthly subscription-based arrangements, the Company is acting as an agent in the transaction and recognizes revenue as it invoices the customer for its monthly usage on a net basis.
+As the customer receives the benefit of the service each month, the Company recognizes the respective revenue on a gross basis as the Company is acting as a principal in the transaction.
+Additionally, the Company's managed services team provides project support to customers that are billed on a fixed fee basis.
+The Company is acting as the principal in the transaction and recognizes revenue on a gross basis based on the total number of hours incurred for the period over the total expected hours for the project.
+The Company's customers are offered the opportunity by certain of its vendors to purchase software licenses and software assurance under enterprise agreements ("EAs"), referred to as services in this paragraph.
+For most EA transactions, the Company's obligation to the customer is that of a distributor or sales agent of the services, where all obligations for providing the services to customers are passed to the Company's vendors.
+In other EA transactions, the Company is responsible for fulfilling the promised services to the customer and providing remedy or refund for work if the customer is not satisfied with the delivered services, has inventory risk in the arrangement and has full control to set the price for the customer.
+When a contract results in revenue being recognized in excess of the amount the Company has the right to invoice to the customer, a contract asset is recorded on the balance sheet.
+Trade accounts receivable are recorded at the point of sale (or in accordance with the Statement of Work for services) for the total amount payable by the customer to the Company for sale of goods.
+The Company generally does not enter into any long-term financing arrangements or payment plans with customers or contracts with customers that have non-cash consideration.
+The Company's contract liabilities consist of payments received from customers, or such consideration that is contractually due, in advance of providing the product or performing services.
+During the six months ended June 30, 2018 and 2017, the Company recognized revenue of $116 million and $99 million, respectively, related to its contract liabilities.
+For more information regarding the Company's performance obligations, see Note 1 (Description of Business and Summary of Significant Accounting Policies).
+The following table represents the total transaction price for the remaining performance obligations as of June 30, 2018 related to non-cancelable contracts longer than 12 months in duration that is expected to be recognized over future periods.
+The Company's interest rate cap agreements were deemed effective during both the six months ended June 30, 2018 and 2017, and the Company expects the derivatives will continue to be effective for the next twelve months.
+During the three and six months ended June 30, 2018, the Company recorded a gain of $2 million and $5 million, respectively, net of a tax expense for the effective portion of the interest rate cap agreements into Accumulated other comprehensive loss.
+During the three and six months ended June 30, 2017, the Company recorded a loss of $1 million and $2 million respectively, net of a tax benefit, for the effective portion of the interest rate cap agreements into Accumulated other comprehensive loss.
+During the three and six months ended June 30, 2018, the Company reclassified $1 million and $2 million, respectively, from Accumulated other comprehensive loss to earnings within Interest expense, net on the Consolidated Statement of Operations.
+The Company expects to reclassify $5 million from Accumulated other comprehensive loss into Interest expense, net during the next twelve months.
+Prior to the election of hedge accounting treatment during the first quarter of 2017, the Company recognized less than $1 million of Interest income during the six months ended June 30, 2017 in the Company's Consolidated Statement of Operations related to the changes in the fair value of the interest rate cap agreements.
+As of June 30, 2018, the Company had no outstanding borrowings under the Revolving Loan, less than $1 million of undrawn letters of credit, $357 million reserved for the floorplan sub-facility and a borrowing base of $1.8 billion, which is based on the amount of eligible inventory and accounts receivable balances as of May 31, 2018.
+As of June 30, 2018, the Company could have borrowed up to an additional $1.1 billion under the Revolving Loan.
+During the six months ended June 30, 2017, the Company amended, extended and increased its prior revolving loan ("Prior Revolving Loan") and recorded a loss on extinguishment of long-term debt of $1 million in the Consolidated Statement of Operations, representing a write-off of a portion of unamortized deferred financing fees.
+During the six months ended June 30, 2017, the Company amended its prior $1.5 billion senior secured term loan facility ("Prior Term Loan Facility") and recorded a loss on extinguishment of long-term debt of $14 million in the Consolidated Statement of Operations.
+In connection with the issuance of the Term Loan, the Company incurred and recorded $2 million in deferred financing fees.
+As of June 30, 2018, the outstanding principal amount of the CDW UK Term Loan facility ("CDW UK Term Loan") was £56 million ($74 million at June 30, 2018), excluding £1 million ($1 million at June 30, 2018) of deferred financing fees.
+Commencing during the quarter ending September 30, 2018, the Company is required to make annual principal installments of £5 million ($7 million at June 30, 2018), with the remaining principal amount payable on the maturity date of August 1, 2021.
+As of June 30, 2018, the Company had £10 million ($13 million at June 30, 2018) of outstanding borrowings under the CDW UK Revolving Credit Facility.
+During the six months ended June 30, 2017, the Company completed the issuance of the 2025 Senior Notes at par.
+In connection with this redemption, the Company recorded a loss on extinguishment of long-term debt of $43 million in the Consolidated Statement of Operations for the six months ended June 30, 2017.
+The CDW UK Term Loan imposes restrictions on CDW UK's ability to transfer funds to the Company through the payment of dividends, repayment of intercompany loans, advances or subordinated debt that require, among other things, the maintenance of a minimum net leverage ratio.
+The Company was required to pay withholding taxes of $18 million to federal, state and foreign taxing authorities for the vesting of these PSUs. This amount is reported as a financing activity in the Consolidated Statement of Cash Flows and as an increase to Accumulated Deficit in the Consolidated Statement of Shareholders' Equity for the six months ended June 30, 2017.
+
+
+item2.txt
+We believe that the most important of these measures and ratios include average daily sales, gross margin, operating margin, Net income, Non-GAAP income before income taxes, Non-GAAP net income, Net income per common share, Non-GAAP net income per diluted share, EBITDA, Adjusted EBITDA, Adjusted EBITDA margin, free cash flow, return on working capital, Cash and cash equivalents, net working capital, cash conversion cycle (defined to be days of sales outstanding in Accounts receivable plus days of supply in Inventory minus days of purchases outstanding in Accounts payable, based on a rolling three-month average), debt levels including available credit and leverage ratios, sales per coworker and coworker turnover.
+Total Net sales for the three months ended June 30, 2018 increased $294 million, or 7.6%, to $4,186 million, compared to $3,892 million for the three months ended June 30, 2017.
+Corporate segment Net sales for the three months ended June 30, 2018 increased $154 million, or 9.7%, compared to the three months ended June 30, 2017.
+Small Business segment Net sales for the three months ended June 30, 2018 increased by $15 million, or 4.6%, between periods.
+As a percentage of Net sales, Gross profit margin increased 10 basis points to 16.6% for the three months ended June 30, 2018.
+As a percentage of total Net sales, Selling and administrative expenses decreased 20 basis points to 9.1% during the three months ended June 30, 2018, down from 9.3% in the three months ended June 30, 2017.
+Total operating margin percentage increased 40 basis points to 6.3% for the three months ended June 30, 2018, from 5.9% for the three months ended June 30, 2017.
+Also contributing to the increased operating margin percentage were lower equity-based compensation expenses and the associated payroll taxes, the non-recurrence of integration expenses in the current year and intangible asset amortization expenses as a percentage of Net sales, which do not trend in line with sales movement.
+This increase in operating margin percentage was primarily driven by the benefit of lower Selling and administrative expenses as a percentage of Net sales.
+Small Business segment income from operations was $25 million for the three months ended June 30, 2018, an increase of $6 million, or 26.8%, compared to $19 million for the three months ended June 30, 2017.
+Small business segment income from operations increased primarily due to higher gross profit dollars driven by higher sales and product margin.
+Small Business segment operating margin percentage increased 130 basis points to 7.5% for the three months ended June 30, 2018, from 6.2% for the three months ended June 30, 2017.
+This increase in operating margin percentage was primarily driven by higher product margin and the benefit of lower sales payroll expenses as a percentage of Net sales.
+Public segment operating margin percentage increased 50 basis points to 6.9% for the three months ended June 30, 2018, from 6.4% for the three months ended June 30, 2017.
+This increase in operating margin percentage was primarily driven by higher product margin and the benefit of lower sales payroll expenses as a percentage of Net sales.
+We have included reconciliations of Non-GAAP income before income taxes, Non-GAAP net income, EBITDA, Adjusted EBITDA, Adjusted EBITDA margin and consolidated Net sales growth on a constant currency basis for the three months ended June 30, 2018 and 2017 below.
+Non-GAAP net income was $213 million for the three months ended June 30, 2018, an increase of $50 million, or 30.8%, compared to $163 million for the three months ended June 30, 2017.
+Consolidated Net sales increased $294 million, or 7.6%, to $4,186 million for the three months ended June 30, 2018, compared to $3,892 million for the three months ended June 30, 2017.
+Total Net sales for the six months ended June 30, 2018 increased $645 million, or 9.0%, to $7,793 million, compared to $7,148 million for the six months ended June 30, 2017.
+Corporate segment Net sales for the six months ended June 30, 2018 increased $279 million, or 9.2% compared to the six months ended June 30, 2017.
+Small Business segment Net sales for the six months ended June 30, 2018 increased by $50 million, or 8.3%, between periods.
+Public segment Net sales for the six months ended June 30, 2018 increased $79 million, or 2.8%, compared to the six months ended June 30, 2017.
+Total operating margin percentage increased 40 basis points to 6.0% for the six months ended June 30, 2018, from 5.6% for the six months ended June 30, 2017.
+The increase was primarily due to lower equity-based compensation expense and the associated payroll taxes and intangible asset amortization as a percentage of Net sales, which do not trend in line with sales movement.
+Also contributing to the increased operating margin percentage were lower sales payroll expenses as a percentage of Net sales.
+This increase in operating margin percentage was primarily driven by the benefit of lower Selling and administrative expenses as a percentage of Net sales.
+Small Business segment income from operations was $47 million for the six months ended June 30, 2018, an increase of $11 million, or 30.3%, compared to $36 million for the six months ended June 30, 2017.
+Small Business segment operating margin percentage increased 120 basis points to 7.1% for the six months ended June 30, 2018, from 5.9% for the six months ended June 30, 2017.
+This increase in operating margin percentage was primarily driven by higher product margin and the benefit of lower sales payroll expenses and intangible asset amortization expenses as a percentage of Net sales.
+Public segment operating margin percentage increased 50 basis points to 6.4% for the six months ended June 30, 2018, from 5.9% for the six months ended June 30, 2017.
+This increase in operating margin percentage was primarily driven by a higher product margin and the benefit of lower sales payroll expenses as a percentage of Net sales.
+We have included reconciliations of Non-GAAP income before income taxes, Non-GAAP net income, EBITDA, Adjusted EBITDA, Adjusted EBITDA margin and consolidated Net sales growth on a constant currency basis for the six months ended June 30, 2018 and 2017 below.
+Consolidated Net sales increased $645 million, or 9.0%, to $7,793 million for the six months ended June 30, 2018, compared to $7,148 million for the six months ended June 30, 2017.
+
+
+item4.txt
+Item 4.
+
+
+part2.txt
+Defaults Upon Senior Securities
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+

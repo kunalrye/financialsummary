@@ -1,0 +1,75 @@
+item1.txt
+Except for the accounting policy for revenue recognition, which was updated as a result of adopting a new accounting standard related to revenue recognition, there have been no material changes to our significant accounting policies in Note 1 - Organization and Summary of Significant Accounting Policies, of the Notes to the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
+For products sold with a right of return, we record a reduction to revenue by establishing a sales return allowance for estimated product returns at the time revenue is recognized, based primarily on historical return rates.
+Our condensed consolidated financial statements include the accounts of NVIDIA Corporation and our wholly-owned subsidiaries.
+The Financial Accounting Standards Board, or FASB, issued an accounting standards update that creates a single source of revenue guidance under U.S. GAAP for all companies, in all industries.
+In February 2016 and July 2018, the FASB issued accounting standards updates regarding the accounting for leases by which we will begin recognizing lease assets and liabilities on the balance sheet for lease terms of more than 12 months.
+We are evaluating the impact of adopting the new lease accounting standards on our consolidated financial statements, systems and processes in conjunction with our review of lease agreements.
+On January 29, 2018, we adopted the new revenue accounting standard using the modified retrospective method and applied it to contracts that were not completed as of that date.
+The impact of the new standard on our consolidated financial statements for the third quarter and first nine months of fiscal year 2019 was not significant.
+Revenue related to remaining performance obligations represents the amount of contracted license and development arrangements and PCS that has not been recognized.
+As of October 28, 2018, the amount of our remaining performance obligations that has not been recognized as revenue was $237 million, of which we expect to recognize approximately 50% as revenue over the next twelve months and the remainder thereafter.
+Refer to Note 15 of these Notes to Condensed Consolidated Financial Statements for additional information, including disaggregated revenue disclosures.
+The Convertible Notes had a dilutive impact on net income per share as our average stock price for the reporting period exceeded the adjusted conversion price of $20.02 per share.
+Refer to Note 12 of these Notes to Condensed Consolidated Financial Statements for additional discussion regarding the Convertible Notes.
+We recognized an income tax benefit of $149 million and $3 million for the third quarter and first nine months of fiscal year 2019, respectively, and income tax expense of $58 million and $189 million for the third quarter and first nine months of fiscal year 2018, respectively.
+Income tax benefit as a percentage of income before income tax was 13.8% and nominal for the third quarter and first nine months of fiscal year 2019, respectively, and income tax expense as a percentage of income before tax was 6.5% and 8.9% for the third quarter and first nine months of fiscal year 2018, respectively.
+The decrease in our effective tax rate for the third quarter and first nine months of fiscal year 2019 as compared to the same periods in the prior fiscal year was primarily due to a decrease in the U.S. statutory tax rate from 35% to 21% as a result of U.S. tax reform, and a $138 million reduction in our provisional U.S. tax reform transition tax amount in the third quarter of fiscal year 2019, partially offset by a decrease in the impact of tax benefits from stock-based compensation.
+For the third quarter and first nine months of fiscal years 2019 and 2018, there were no other-than-temporary impairment losses and net realized gains were not significant.
+The amortized cost and estimated fair value of cash equivalents and marketable securities as of October 28, 2018 and January 28, 2018 are shown below by contractual maturity.
+There were no significant transfers between Levels 1 and 2 financial assets and liabilities for the third quarter of fiscal year 2019.
+Gains or losses on the contracts are recorded in accumulated other comprehensive income or loss and reclassified to operating expense when the related operating expenses are recognized in earnings or ineffectiveness should occur.
+The fair value of the contracts was not significant as of October 28, 2018 and January 28, 2018.
+Therefore, the change in fair value of these contracts is recorded in other income or expense and offsets the change in fair value of the hedged foreign currency denominated monetary assets and liabilities, which is also recorded in other income or expense.
+The expected realized gains and losses deferred into accumulated other comprehensive income (loss) related to foreign currency forward contracts within the next twelve months was not significant.
+During the third quarter and first nine months of fiscal years 2019 and 2018, the impact of derivative financial instruments designated for hedge accounting treatment on other comprehensive income or loss was not significant and all such instruments were determined to be highly effective.
+We record a reduction to revenue for estimated product returns at the time revenue is recognized primarily based on historical return rates.
+The estimated product returns and estimated product warranty liabilities was $18 million and $15 million as of October 28, 2018 and January 28, 2018, respectively.
+In fiscal year 2014, we issued $1.50 billion of 1.00% Convertible Senior Notes due 2018.
+On July 14, 2017, NVIDIA filed defenses to the infringement allegations including non-infringement with respect to each of the three asserted patents.
+ZiiLabs alleges that the unlawful importation results from the infringement of the ZiiLabs 2 Patents by products from respondents NVIDIA, ASUSTeK Computer Inc., ASUS Computer International, EVGA Corporation, Gigabyte Technology Co., Ltd., G.B.T. Inc., Micro-Star International Co., Ltd., MSI Computer Corp., Nintendo Co., Ltd., Nintendo of America Inc., PNY Technologies Inc., Zotac International (MCO) Ltd., and Zotac USA Inc. On February 28, 2018, NVIDIA and the other respondents answered the ITC complaint and asserted various defenses including non-infringement and invalidity of the four asserted ZiiLabs 2 patents.
+No customer represented 10% or more of total revenue for the third quarter and first nine months of fiscal years 2019 and 2018.
+Refer to Part I, Item 1, Note 13 of the Notes to Condensed Consolidated Financial Statements for a discussion of significant developments in our legal proceedings since January 28, 2018.
+Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018 for a prior discussion of our legal proceedings.
+Refer to the description of the risk factors associated with our business previously disclosed in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
+There have been no material changes from the risk factors previously described under Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
+
+
+item2.txt
+Revenue for the third quarter of fiscal year 2019 increased 21% year over year and increased 2% sequentially.
+GPU business revenue was $2.77 billion, up 25% from a year earlier and up 4% sequentially, reflecting growth in professional visualization, datacenter, and gaming GPUs. Tegra Processor business revenue - which includes automotive, SOC modules for the Nintendo Switch gaming console, and other embedded edge AI platforms - was $407 million, down 3% from a year ago and down 13% sequentially.
+Datacenter revenue was $792 million, up 58% from a year ago and up 4% sequentially, led by strong sales of our Volta architecture-based products, including NVIDIA Tesla V100 and DGX systems, with contribution from the new Turing T4 Cloud GPU.
+Net income and net income per diluted share for the third quarter of fiscal year 2019 were $1.23 billion and $1.97, respectively, up 47% and 48%, respectively, from a year earlier, fueled by strong revenue growth and improved gross margin.
+During the first nine months of fiscal year 2019, we returned $1.13 billion to shareholders through a combination of $855 million in share repurchases and $273 million in cash dividends.
+We intend to return an additional $3.00 billion to shareholders by the end of fiscal year 2020, which may begin in the fourth quarter of fiscal year 2019.
+During the third quarter of fiscal year 2019, we introduced RAPIDS, an open-source GPU-acceleration platform for data science and machine learning; launched the NVIDIA T4 cloud GPU and NVIDIA TensorRT Hyperscale Inference Platform to deliver advanced acceleration in hyperscale datacenters; launched the NVIDIA RTX Server; released the GeForce RTX series, the first gaming GPUs based on the Turing architecture; and unveiled the Quadro RTX series, which is designed to revolutionize the workflow of designers and artists on the desktop.
+GPU business revenue increased by 25% for the third quarter of fiscal year 2019 compared to the third quarter of fiscal year 2018.
+GPU business revenue increased by 44% for the first nine months of fiscal year 2019 compared to the first nine months of fiscal year 2018.
+Our PC OEM revenue increased by almost 20% due primarily to sales of GPU products targeted for use in cryptocurrency mining in the first quarter of fiscal year 2019.
+Tegra Processor business revenue decreased by 3% for the third quarter of fiscal year 2019 compared to the third quarter of fiscal year 2018.
+Tegra Processor business revenue increased by 21% for the first nine months of fiscal year 2019 compared to the first nine months of fiscal year 2018.
+No customer represented 10% or more of total revenue for the third quarter and first nine months of fiscal years 2019 and 2018.
+Our overall gross margin increased to 60.4% for the third quarter of fiscal year 2019 from 59.5% for the third quarter of fiscal year 2018.
+These increases reflect our continued shift toward higher-value platforms, which more than offset a charge of $57 million we recorded during the third quarter of fiscal year 2019 related to prior architecture components and chips following the sharp fall-off in cryptocurrency mining demand.
+Inventory provisions totaled $70 million and $14 million for the third quarter of fiscal years 2019 and 2018, respectively.
+Sales of inventory that was previously written-off or written-down totaled $13 million and $6 million for the third quarter of fiscal years 2019 and 2018, respectively.
+The gross margin of our GPU business was flat during the third quarter of fiscal year 2019 compared to the third quarter of fiscal year 2018.
+fiscal year 2019 compared to the first nine months of fiscal year 2018, primarily due to strong sales of high-end GeForce gaming GPUs and revenue growth in Datacenter.
+The gross margin of our Tegra Processor business increased during the third quarter and first nine months of fiscal year 2019 compared to the third quarter and first nine months of fiscal year 2018, primarily due to a favorable mix shift.
+Research and development expenses increased by 31% and 34% during the third quarter and first nine months of fiscal year 2019, compared to the third quarter and first nine months of fiscal year 2018, respectively, driven primarily by employee additions and increases in employee compensation and other related costs, including stock-based compensation expense.
+Interest expense was $15 million during each of the third quarters of fiscal years 2019 and 2018, and $44 million and $46 million during the first nine months of fiscal years 2019 and 2018, respectively.
+As of October 28, 2018, we had $7.59 billion in cash, cash equivalents and marketable securities, an increase of $483 million from the end of fiscal year 2018.
+Cash provided by operating activities increased in the first nine months of fiscal year 2019 compared to the first nine months of fiscal year 2018, due to higher net income, partially offset by changes in working capital.
+Cash used in investing activities increased in the first nine months of fiscal year 2019 compared to the first nine months of fiscal year 2018, due to higher purchases of marketable securities, partially offset by higher maturities of marketable securities.
+During the first nine months of fiscal year 2019, we returned $1.13 billion to shareholders through a combination of $855 million in share repurchases and $273 million in cash dividends.
+During the third quarter of fiscal year 2019, we withheld approximately 1.7 million shares at a total cost of $467 million through net share settlements.
+During the first nine months of fiscal year 2019, we withheld approximately 3.8 million shares at a total cost of $982 million through net share settlements.
+
+
+part2.txt
+Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018 for a prior discussion of our legal proceedings.
+Refer to the description of the risk factors associated with our business previously disclosed in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
+During the third quarter of fiscal year 2019, we issued 485 thousand shares of our common stock upon settlement of $11 million in principal of Convertible Notes submitted for conversion.
+During the third quarter of fiscal year 2019, we withheld approximately 1.7 million shares at a total cost of $467 million through net share settlements.
+
+

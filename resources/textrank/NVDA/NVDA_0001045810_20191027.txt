@@ -1,0 +1,69 @@
+item1.txt
+Except for adopting a new accounting standard related to leases, there have been no material changes to our significant accounting policies in Note 1 - Organization and Summary of Significant Accounting Policies, of the Notes to the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019.
+Operating leases with lease terms of more than 12 months are included in operating lease assets, accrued and other current liabilities, and long-term operating lease liabilities on our consolidated balance sheet.
+Operating lease assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments over the lease term.
+Operating lease assets and liabilities are recognized based on the present value of the remaining lease payments discounted using our incremental borrowing rate.
+The Financial Accounting Standards Board, or FASB, issued an accounting standards update regarding the accounting for leases under which lease assets and liabilities are recognized on the balance sheet.
+On January 28, 2019, we adopted the new lease accounting standard using the optional transition method by recognizing a cumulative-effect adjustment to the consolidated balance sheet and not adjusting comparative information for prior periods.
+The cumulative-effect adjustment upon adoption of the new lease accounting standard resulted in the recognition of $470 million of operating lease assets and $500 million of operating lease liabilities on our Consolidated Balance Sheet.
+The difference of $30 million represents deferred rent for leases that existed as of the date of adoption, which was an offset to the opening balance of operating lease assets.
+Our lease obligations consist of operating leases for our headquarters complex, domestic and international office facilities, and data center space, with lease periods expiring between fiscal years 2020 and 2035.
+In addition to our existing operating lease obligations, we have entered into an operating lease that will commence in fiscal year 2021 with a lease term of 7 years for $62 million.
+Operating lease expense for the third quarter and first nine months of fiscal year 2020 was $28 million and $83 million, respectively.
+Operating lease expense for the third quarter and first nine months of fiscal year 2019 was $22 million and $58 million, respectively.
+Short-term and variable lease expenses for the third quarter and first nine months of fiscal year 2020 were not significant.
+We recognized an income tax expense of $60 million and $109 million for the third quarter and first nine months of fiscal year 2020, respectively, and an income tax benefit of $149 million and $3 million for the third quarter and first nine months of fiscal year 2019, respectively.
+The income tax expense as a percentage of income before income tax was 6.3% and 5.6% for the third quarter and first nine months of fiscal year 2020, respectively, and income tax benefit as a percentage of income before income tax was 13.8% and nominal for the third quarter and first nine months of fiscal year 2019, respectively.
+The increase in our effective tax rate for the third quarter and first nine months of fiscal year 2020 as compared to the third quarter and first nine months of fiscal year 2019 was primarily due to a decrease of tax benefits from stock-based compensation and an absence of the tax benefit related to the reduction in our provisional U.S. tax reform transition tax amount.
+For the third quarter and first nine months of fiscal years 2020 and 2019, there were no other-than-temporary impairment losses and net realized gains were not significant.
+Gains or losses on the contracts are recorded in accumulated other comprehensive income or loss and reclassified to operating expense when the related operating expenses are recognized in earnings or ineffectiveness should occur.
+Therefore, the change in fair value of these contracts is recorded in other income or expense and offsets the change in fair value of the hedged foreign currency denominated monetary assets and liabilities, which is also recorded in other income or expense.
+The expected realized gains and losses deferred into accumulated other comprehensive income (loss) related to foreign currency forward contracts within the next twelve months was not significant.
+During the third quarter and first nine months of fiscal years 2020 and 2019, the impact of derivative financial instruments designated for hedge accounting treatment on other comprehensive income or loss was not significant and all such instruments were determined to be highly effective.
+The estimated amount of product returns and warranty liabilities was $17 million and $18 million as of October 27, 2019 and January 27, 2019, respectively, and the activity related to the warranty liabilities were not significant.
+During the third quarter and first nine months of fiscal year 2020, we paid $98 million and $292 million, respectively, in cash dividends to our shareholders.
+One customer represented approximately 10% of our total revenue for the third quarter and approximately 11% of our total revenue for the first nine months of fiscal year 2020, and was attributable primarily to the GPU business.
+No customer represented 10% or more of total revenue for the third quarter and first nine months of fiscal year 2019.
+Other than the risk factors listed below, there have been no material changes from the risk factors previously described under Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 27, 2019 and Item 1A of our Quarterly Report on Form 10-Q for the quarter ended April 28, 2019.
+
+
+item2.txt
+Tegra Processor business revenue - which includes Automotive, SOC modules for gaming platforms, and embedded edge AI platforms - was $449 million, up 10% from a year ago and down 5% sequentially.
+The year-on-year decrease reflects lower sales of GeForce desktop GPUs from the prior year which included the launch of Turing-based GeForce GPUs, partially offset by growth in GeForce notebook GPUs and SOC modules for gaming platforms.
+The sequential increase reflects growth primarily from GeForce desktop and notebook GPUs. Professional Visualization revenue was $324 million, up 6% from a year earlier and up 11% sequentially.
+The year-on-year and sequential increases are primarily driven by improved margins on GeForce GPUs for gaming reflecting the sale of previously written-off components and lower component costs.
+The sequential increase also reflects higher average selling prices for GeForce GPUs. Income from operations for the third quarter of fiscal year 2020 was $927 million, down 12% from a year earlier and up 62% sequentially.
+Net income and net income per diluted share for the third quarter of fiscal year 2020 were $899 million and $1.45, respectively, down 27% and 26%, respectively, from a year earlier, and up 63% and 61%, respectively, sequentially.
+We previously communicated our intent to return $3.00 billion to shareholders by the end of fiscal year 2020, including $700 million in share repurchases made during the fourth quarter of fiscal year 2019.
+In the first nine months of fiscal year 2020, we returned $292 million in quarterly cash dividends.
+GPU business revenue decreased by 8% in the third quarter of fiscal year 2020 compared to the third quarter of fiscal year 2019, which reflects declines in GPUs sold for gaming and Data Center revenue.
+GeForce GPU product sales for gaming decreased 10%, reflecting a decline in shipments of desktop GPUs partially offset by revenue growth in notebook GPUs. Data Center revenue, which includes Tesla, GRID and DGX, decreased 8%, primarily reflecting a decline in enterprise revenue due to a different mix of products including lower DGX sales, offset by an increase in hyperscale revenue.
+GPU business revenue decreased by 18% in the first nine months of fiscal year 2020 compared to the first nine months of fiscal year 2019, which reflects declines in GPUs sold for gaming and Data Center revenue.
+GeForce GPU product sales for gaming decreased 22%, reflecting a decline in shipments of desktop GPUs partially offset by growth in notebook GPUs. Data Center revenue, which includes Tesla, GRID and DGX, decreased 11%, primarily reflecting a decline in hyperscale revenue partially offset by enterprise revenue growth driven by expanding AI workloads.
+Tegra Processor business revenue increased by 10% for the third quarter of fiscal year 2020 compared to the third quarter of fiscal year 2019.
+Tegra Processor business revenue decreased by 15% for the first nine months of fiscal year 2020 compared to the first nine months of fiscal year 2019.
+Revenue from sales to customers outside of the United States accounted for 92% of total revenue for the third quarter and first nine months of fiscal year 2020.
+Revenue from sales to customers outside of the United States accounted for 87% of total revenue for the third quarter and first nine months of fiscal year 2019.
+One customer represented approximately 10% of our total revenue for the third quarter and approximately 11% of our total revenue for the first nine months of fiscal year 2020, and was attributable primarily to the GPU business.
+No customer represented 10% or more of total revenue for the third quarter and first nine months of fiscal year 2019.
+Our overall gross margin increased to 63.6% for the third quarter of fiscal year 2020 from 60.4% for the third quarter of fiscal year 2019 are primarily driven by improved margins on GeForce GPUs for gaming reflecting the sale of previously written-off components and lower component costs.
+Our overall gross margin decreased to 60.8% for the first nine months of fiscal year 2020 from 62.7% for the first nine months of fiscal year 2019 reflecting product transitions and product mix offset by the sale of previously written off components associated with GeForce GPUs for gaming.
+Sales of inventory that was previously written-off or written-down totaled $78 million and $13 million for the third quarter of fiscal years 2020 and 2019, respectively.
+The gross margin of our GPU business increased during the third quarter of fiscal year 2020 compared to the third quarter of fiscal year 2019, reflecting the sale of previously written off components.
+For the first nine months of fiscal year 2020 compared to the first nine months of fiscal year 2019, gross margin decreased primarily reflecting product transitions and product mix offset by the sale of previously written off components.
+The gross margin of our Tegra Processor business decreased during the third quarter of fiscal year 2020 compared to the third quarter of fiscal year 2019, primarily driven by higher OEM product costs and product mix.
+Cash provided by investing activities increased in the first nine months of fiscal year 2020 compared to cash used in the first nine months of fiscal year 2019, due to lower purchases of marketable securities and higher maturities and sales of marketable securities in preparation for the acquisition of Mellanox.
+Cash used in financing activities decreased in the first nine months of fiscal year 2020 compared to the first nine months of fiscal year 2019, due to lower share repurchases and lower tax payments related to employee stock plans.
+We previously communicated our intent to return $3.00 billion to shareholders by the end of fiscal year 2020, including $700 million in share repurchases made during the fourth quarter of fiscal year 2019.
+
+
+part2.txt
+Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019 for a prior discussion of our legal proceedings.
+Refer to the description of the risk factors associated with our business previously disclosed in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 27, 2019.
+As of October 27, 2019, we were authorized to repurchase additional shares of our common stock up to $7.24 billion through December 2022.
+We previously communicated our intent to return $3.00 billion to shareholders by the end of fiscal year 2020, including $700 million in share repurchases made during the fourth quarter of fiscal year 2019.
+We had no share repurchases during the first nine months of fiscal year 2020.
+During the third quarter of fiscal year 2020, we withheld approximately 1 million shares at a total cost of $202 million through net share settlements.
+During the first nine months of fiscal year 2020, we withheld approximately 3 million shares at a total cost of $463 million through net share settlements.
+
+

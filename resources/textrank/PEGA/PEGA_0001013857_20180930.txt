@@ -1,0 +1,64 @@
+fls.txt
+These statements include, but are not limited to, statements about our future financial performance and business plans, the adequacy of our liquidity and capital resources, the continued payment of quarterly dividends, and the timing of revenue recognition are described more completely in Part I of our Annual Report on Form 10-K for the year ended December 31, 2017.
+These risk factors could materially affect our business, financial condition, and future results and could cause our actual business and financial results to differ materially from those contained in forward-looking statements made in this Quarterly Report on Form 10-Q or elsewhere by management from time to time.
+
+
+item1.txt
+On January 1, 2018, the Company adopted Accounting Standards Update (ASU) No. 2014-09, Revenue from Contracts with Customers (Topic 606) using the full retrospective method which required that each prior reporting period presented be adjusted to reflect the application of this ASU.
+In February 2016, the FASB issued ASU No. 2016-02, Leases (Topic 842), which requires lessees to record most leases on their balance sheets, recognizing a lease liability for the obligation to make lease payments and a right-of-use asset for the right to use the underlying asset for the lease term.
+The Company expects that most of its operating lease commitments will be subject to this ASU and recognized as operating lease liabilities and right-of-use assets upon adoption with a material impact to the Companys balance sheet but an immaterial impact to its results of operations and cash flows.
+Perpetual licenses with extended payment terms and term licenses - Revenue from perpetual licenses with extended payment terms and term licenses is now recognized when control is transferred to the client, which is defined as the point in time when the client can use and benefit from the license.
+Any unrecognized license revenue from these arrangements is recognized in the period that control transfers or as a cumulative adjustment to retained earnings as of December 31, 2015.
+Unbilled receivables in the Companys unaudited condensed consolidated balance sheets increased significantly upon adoption due to the revenue from term licenses being recognized prior to amounts being due, or prepaid, by clients and perpetual licenses with extended payment terms.
+Allocation of future credits and significant discounts - Perpetual or term licenses delivered are a separate performance obligation which now requires the Company to allocate any future credits and discounts to the performance obligations in the arrangement based upon their relative stand-alone selling prices.
+Includes cash, cash equivalents, marketable securities, income taxes receivable, other current assets, property and equipment, intangible assets, goodwill, and other long-term assets (as reflected in the consolidated balance sheets in the Annual Report on Form 10-K for the year ended December 31, 2017).
+Contract assets are amounts under client contracts where revenue recognized exceeds the amount billed to the client and the right to payment is subject to conditions other than the passage of time, such as the completion of a related performance obligation.
+The change in deferred revenue in the nine months ended September 30, 2018 was primarily due to $225.1 million of revenue recognized, excluding the impact of netting contract assets and deferred revenue at the contract level, during the period that was included in deferred revenue at December 31, 2017, partially offset by new billings in advance of revenue recognition.
+Fair value is an exit price, representing the amount that would be received from the sale of an asset or paid to transfer a liability in an orderly transaction between market participants based on assumptions that market participants would use in pricing an asset or liability.
+The Companys investments in privately-held companies are classified within Level 3 of the fair value hierarchy and are valued using model-based techniques, including option pricing models and discounted cash flow models.
+If applicable, the Company will recognize transfers into and out of levels within the fair value hierarchy at the end of the reporting period in which the actual event or change in circumstance occurs.
+During the nine months ended September 30, 2018 and 2017, the Company did not recognize any impairments of its assets recorded at fair value on a nonrecurring basis.
+Services revenue is primarily derived from cloud revenue, which is sales of the Companys hosted Pega Platform and software applications, and consulting revenue, which is primarily related to new license implementations.
+The transaction price is allocated to the separate performance obligations on a relative stand-alone selling price basis.
+Variable fees within the transaction price are estimated and recognized in revenue as the Company satisfies each performance obligation to the extent it is probable that a significant reversal of cumulative revenue recognized will not occur when the uncertainty associated with the variable fee is resolved.
+If the contract grants the client the option to acquire additional products or services, the Company assesses whether any discount on the included products and services is in excess of levels normally available to similar clients and, if so, accounts for that discount as an additional performance obligation.
+The Company has concluded that its software licenses are distinct performance obligations, as the client can benefit from the software on its own.
+Software license revenue is typically recognized at a point in time when control is transferred to the client, which is defined as the point in time when the client can use and benefit from the license.
+The Company utilizes the residual approach as license performance obligations are sold for a broad range of amounts (the selling price is highly variable) and a stand-alone selling price is not discernible from past transactions or other observable evidence.
+Periodically, the Company reevaluates whether the residual approach is appropriate for its license performance obligations when sold with other performance obligations.
+If the standalone selling price analysis illustrates that software license performance obligations are no longer highly variable, the Company will utilize the relative allocation method for such arrangements.
+The maintenance performance obligation is priced as a percentage of the selling price of the related software license, which is highly variable.
+Services revenue is comprised of consulting, including software license implementations, training, reimbursable expenses, and cloud, which is derived from sales of the Companys hosted Pega Platform and software application environments.
+The stand-alone selling price of cloud sales of production environments is determined based on the residual approach when sold with other performance obligations and is recognized over the term of the service.
+The Company utilizes the residual approach as cloud performance obligations are sold for a broad range of amounts (the selling price is highly variable) and a stand-alone selling price is not discernible from past transactions or other observable evidence.
+As of September 30, 2018, the Company had, net of estimated forfeitures, $74.2 million of unrecognized stock-based compensation expense, related to all unvested restricted stock units (RSUs) and stock options, which was expected to be recognized over a weighted-average period of 2.2 years.
+
+
+item2.txt
+The decrease in term license revenue in the three months ended September 30, 2018 was primarily due to $17 million of revenue recognized in the three months ended September 30, 2017 from a large term license renewal.
+The decrease in term license revenue in the nine months ended September 30, 2018 was primarily due to $35.3 million of revenue recognized in the three months ended March 31, 2017 from a large term license renewal.
+The increases in cloud revenue in the three and nine months ended September 30, 2018 reflect the shift in client preferences to cloud arrangements from other types of arrangements.
+The increase in perpetual license revenue in the three months ended September 30, 2018 was primarily due to revenue recognized from license rights which became effective in the current period from perpetual arrangements executed in prior periods, primarily the three months ended June 30, 2018.
+The decrease in perpetual license revenue in the nine months ended September 30, 2018 reflects the shift in client preferences away from perpetual license arrangements.
+The increase in consulting revenue in the nine months ended September 30, 2018 was primarily due to higher billable hours driven by an increase in the number of projects performed.
+The increases in maintenance gross profit percent in the three and nine months ended September 30, 2018 were driven by decreases of $0.3 million and $1.5 million in compensation and benefits due to decreased headcount and a decrease in client support expenses as we transferred resources to provide dedicated support to our growing cloud business.
+The increases in cloud gross profit percent in the three and nine months ended September 30, 2018 were primarily due to continued growth and scale in our cloud business, partially offset by an increase in client support expenses as we expanded our cloud client support function to sustain our growing cloud business.
+The decreases in consulting gross profit percent in the three and nine months ended September 30, 2018 were driven primarily by increases in compensation and benefits, lower utilization rates, and the impact of our policy introduced late in the three months ended June 30, 2017 to offer our web-based training free of charge to users which reduced training revenue for the three and nine months ended September 30, 2018.
+The increases in the three and nine months ended September 30, 2018 were primarily due to increases in compensation and benefits of $15.2 million and $40.6 million, as a result of increased headcount, increased deferred contract commission costs amortization of $1.2 million and $3.3 million, and an increase in marketing programs in the nine months ended September 30, 2018 of $3.1 million.
+Includes compensation, benefits, contracted services, and other headcount-related expenses associated with the creation and development of our products, as well as enhancements and design changes to existing products and the integration of acquired technologies.
+The increases in the three and nine months ended September 30, 2018 were primarily due to increases in compensation and benefits of $4 million and $9.5 million, attributable to increased headcount and the expansion of our application development team to support the continued development of our expanding suite of software.
+The decrease in the three months ended September 30, 2018 was primarily due to a decrease in compensation and benefits of $1.2 million due to decreased headcount, reflecting the realignment of contract negotiation and product development resources to augment our selling and marketing and research and development functions.
+The increase in the nine months ended September 30, 2018 was primarily due to an increase of $2.1 million in legal and tax fees partially offset by a decrease of $1.7 million in compensation and benefits, due to decreased headcount reflecting the realignment of contract negotiation and product development resources to augment our selling and marketing and research and development functions.
+The increase in the three and nine months ended September 30, 2018 was primarily due to the increased value of our annual periodic equity awards granted in March 2018 and 2017.
+excess tax benefits from stock-based compensation for the nine months ended September 30, 2018 and 2017 of $15.1 million and $22.4 million were disproportionately greater than (loss) income before benefit from income taxes;  
+During the nine months ended September 30, 2018 and 2017, instead of receiving cash from the equity holders, we withheld shares with a value of $28.2 million and $23.7 million for the exercise price of options.
+
+
+item3.txt
+We are primarily exposed to changes in foreign currency exchange rates associated with Australian dollar, Euro, and U.S. dollar denominated cash and cash equivalents, accounts receivable, unbilled receivables, and intercompany receivables and payables held by our U.K. subsidiary, a British pound functional entity.
+
+
+part2.txt
++ Indicates that the exhibit is being furnished with this report and is not filed as a part of it.
+
+

@@ -1,0 +1,86 @@
+item1.txt
+ASU 2016-02 requires an entity to recognize lease assets and lease liabilities on the balance sheet and to disclose key information about the entity's leasing arrangements.
+The two primary areas of impact of these ASUs were network implementation service revenue performance obligations and contract costs.
+The primary impact will be accelerated revenue recognition for certain performance obligations related to service revenue arrangements that were previously deferred until customer acceptance and capitalization and amortization of incremental costs of obtaining a contract as described below.
+We recorded a bargain purchase gain of $11.3 million during the first quarter of 2018, net of income taxes, which is subject to customary working capital adjustments between the parties.
+The bargain purchase gain of $11.3 million represents the difference between the fair value of the net assets acquired over the cash paid.
+SEI’s Broadband Networks Division through its SEL subsidiary operated a North American EPON business including sales, marketing, support, and region-specific engineering development.
+The transfer of these assets to ADTRAN, which included key customer relationships and required assumption by ADTRAN of relatively low incremental expenses, along with the value of the technology license and OEM supply agreement, resulted in the bargain purchase gain.
+Aside from revising the 2017 and 2018 net income for the effect of the bargain purchase gain, there were no material, non-recurring adjustments to this unaudited pro forma information.
+For the three months ended March 31, 2018, we incurred acquisition and integration related expenses and amortization of acquired intangibles of $0.2 million related to this acquisition.
+The majority of the revenue from this segment is from hardware sales and is recognized when control is transferred to our customers, which is generally when we ship the products.
+Our products generally include assurance-based warranties of 90 days to five years for product defects, which are accrued at the time revenue is recognized.
+Revenue for network implementation and maintenance services is recognized as described below.
+Our maintenance service periods range from one month to five years.
+Customers are typically invoiced and pay for maintenance services at the beginning of the maintenance period, which is recorded in current or non-current unearned revenue depending on the length of the service period.
+Accordingly, we recognize revenue for maintenance services on a straight-line basis over the maintenance period in services revenue.
+We recognize revenue for network implementation, which primarily consists of engineering, execution and enablement services, when performance obligations are complete at a point in time.
+If we have recognized revenue, but not billed the customer, the right to consideration is recognized as a contract asset, which is included in other receivables in the Consolidated Balance Sheet.
+As of March 31, 2018, we did not have any remaining performance obligations related to customer contracts that had an original expected duration of one year or more, other than maintenance services, which are satisfied over time.
+Our effective tax rate decreased from 20.3% in the three months ended March 31, 2017, to 15.1%, excluding the tax impact of the bargain purchase gain, in the three months ended March 31, 2018.
+The components of net periodic pension cost other than the service cost component are included in the line item “Other income (expense), net” in the Consolidated Statements of Income.
+As of March 31, 2018, there was $2.5 million of unrecognized compensation expense related to unvested stock options, which is expected to be recognized over an average remaining recognition period of 1.3 years.
+The determination of the fair value of stock options on the date of grant using the Black-Scholes model is affected by our stock price, as well as assumptions regarding a number of complex and subjective variables that may have a significant impact on the fair value estimate.
+There were no stock options granted during the three months ended March 31, 2018 or 2017.
+The fair value of RSUs and restricted stock is equal to the closing price of our stock on the date of grant.
+The fair value of these performance-based PSU awards was equal to the closing price of our stock on the date of grant.
+As of March 31, 2018, there was $12.9 million of unrecognized compensation expense related to unvested market-based PSUs, RSUs and restricted stock, which is expected to be recognized over an average remaining recognition period of 2.9 years.
+In addition, there was $10.7 million of unrecognized compensation expense related to unvested performance-based PSUs, which will be recognized over the requisite service period of three years as achievement of the performance objective becomes probable.
+For the three months ended March 31, 2018, no compensation expense was recognized related to these performance-based PSU awards.
+Unrealized gains and losses were recognized in accumulated other comprehensive income, net of deferred taxes, on the balance sheet.
+Our cash flow hedging activities utilize foreign exchange forward contracts to reduce the risk that movements in exchange rates will adversely affect the net cash flows resulting from the planned purchase of products from foreign suppliers.
+Changes in the fair value of derivatives designated as cash flow hedges are not recognized in current operating results, but are recorded in accumulated other comprehensive income.
+Our derivative instruments are recorded in the Consolidated Balance Sheets at their fair values.
+We establish reserves for estimated excess, obsolete, or unmarketable inventory equal to the difference between the cost of the inventory and the estimated fair value of the inventory based upon assumptions about future demand and market conditions.
+Intangible assets are included in other assets in the accompanying Consolidated Balance Sheets and include intangibles acquired in conjunction with our acquisitions of Bluesocket, Inc. on August 4, 2011, the NSN BBA business on May 4, 2012, CommScope’s active fiber access business on September 13, 2016 and Sumitomo Electric Lightwave Corp.’s North American EPON business and technology license and OEM supply agreement with Sumitomo Electric Industries, Ltd. on March 19, 2018.
+Amortization expense, all of which relates to business acquisitions, was $0.4 million and $1.1 million for the three months ended March 31, 2018 and 2017, respectively.
+We received proceeds totaling $0.4 million from the exercise of these stock options during the three months ended March 31, 2018.
+Other comprehensive income consists of unrealized gains (losses) on available-for-sale securities; unrealized gains (losses) on cash flow hedges; reclassification adjustments for amounts included in net income related to impairments of available-for-sale securities, realized gains (losses) on available-for-sale securities, realized gains (losses) on cash flow hedges, and amortization of actuarial gains (losses) related to our defined benefit plan; defined benefit plan adjustments; and foreign currency translation adjustments.
+
+
+item2.txt
+Sales were $120.8 million for the three months ended March 31, 2018, compared to $170.3 million for the three months ended March 31, 2017.
+Our operating income margin decreased to (22.1)% for the three months ended March 31, 2018, from 4.1% for the three months ended March 31, 2017.
+Net income (loss) was $(10.8) million for the three months ended March 31, 2018, compared to $6.7 million for the three months ended March 31, 2017.
+Our effective tax rate, excluding the effect of the bargain purchase gain in 2018, decreased to 15.1% for the three months ended March 31, 2018, from 20.3% for the three months ended March 31, 2017.
+The increase in cost of sales as a percentage of sales for the three months ended March 31, 2018 is primarily attributable to a regional revenue shift, customer and product mix, services and support mix, an increase in labor expense due to a restructuring program, an increase in warranty expense due to a settlement in Q1 2017 with a third party supplier for a defective component and purchase discounts received from a contract manufacturer in Q1 2017.
+The increase in cost of sales as a percentage of sales for the three months ended March 31, 2018 is primarily attributable to a regional revenue shift, customer and product mix, an increase in labor expense due to a restructuring program, an increase in warranty expense due to a settlement in Q1 2017 with a third party supplier for a defective component and purchase discounts received from a contract manufacturer in Q1 2017.
+Selling, general and administrative expenses decreased 3.6% from $34.8 million in the three months ended March 31, 2017 to $33.5 million in the three months ended March 31, 2018.
+The decrease in selling, general and administrative expenses for the three months ended March 31, 2018 is primarily attributable to decreases in deferred compensation expense, travel expense, performance-based compensation expense, independent contractor expense, and legal expense, partially offset by an increase in labor expense due to a restructuring program.
+Interest and dividend income decreased 7.2% from $933 thousand in the three months ended March 31, 2017 to $866 thousand in the three months ended March 31, 2018.
+The decrease in interest and dividend income for the three months ended March 31, 2018 is primarily attributable to a decrease in investment balances and a decrease in the rate of return on those investments.
+Net realized investment gains decreased 120.6% from $0.5 million in the three months ended March 31, 2017 to $(0.1) million in the three months ended March 31, 2018.
+The decrease in net realized investment gains for the three months ended March 31, 2018 is primarily attributable to changes in fair value on equity securities recognized during the period under ASC 2016-01.
+Other income (expense), net, comprised primarily of miscellaneous income, gains and losses on foreign currency transactions, gains and losses on foreign exchange forward contracts, investment account management fees, and scrap raw material sales, changed 142.5% from $0.1 million of income in the three months ended March 31, 2017 to $0.1 million of expense in the three months ended March 31, 2018.
+The change in other income (expense), net for the three months ended March 31, 2018 is primarily attributable to increased losses on our foreign exchange contracts.
+Our effective tax rate decreased from 20.3% in the three months ended March 31, 2017 to 15.1%, excluding the tax impact of the bargain purchase gain, in the three months ended March 31, 2018.
+As a result of the above factors, net income (loss) decreased $17.5 million from $6.7 million in the three months ended March 31, 2017 to $(10.8) million in the three months ended March 31, 2018.
+The decrease in short-term liquidity from December 31, 2017 to March 31, 2018 is primarily attributable to shifts among available investment option tenures to provide funds for our short-term cash needs.
+Accounts receivable decreased 43.9% from $144.2 million at December 31, 2017 to $80.9 million at March 31, 2018.
+Quarterly accounts receivable days sales outstanding (DSO) decreased from 105 days as of December 31, 2017 to 60 days as of March 31, 2018 The decrease in net accounts receivable is due to the collection of customer specific payment terms that became due in the first quarter of 2018 and the timing of sales and collections during the quarter.
+Accounts payable decreased 16.5% from $60.6 million at December 31, 2017 to $50.7 million at March 31, 2018.
+Capital expenditures totaled approximately $2.0 million and $3.9 million for the three months ended March 31, 2018 and 2017, respectively.
+Our combined short-term and long-term investments increased $26.5 million from $146.4 million at December 31, 2017 to $172.9 million at March 31, 2018.
+Our long-term investments increased 20.1% from $130.3 million at December 31, 2017 to $156.5 million at March 31, 2018.
+Long-term investments at March 31, 2018 and December 31, 2017 included an investment in a certificate of deposit of $26.7 million and $27.8 million, respectively, which serves as collateral for our revenue bond.
+We have various equity investments included in long-term investments with a fair value of $36.5 million and $35.7 million, at March 31, 2018 and December 31, 2017, respectively.
+Long-term investments at March 31, 2018 and December 31, 2017 also included $20.1 million and $19.9 million, respectively, related to our deferred compensation plans, and $0.5 million of other investments carried at cost, consisting of interests in two private equity funds and an investment in a privately held telecommunications equipment manufacturer.
+During the three months ended March 31, 2018, we repurchased 0.6 million shares of our common stock at an average price of $16.18 per share.
+As of March 31, 2018, we have the authority to purchase an additional 2.9 million shares of our common stock under the current plans approved by the Board of Directors.
+We received proceeds totaling $0.4 million from the exercise of these stock options during the three months ended March 31, 2018.
+
+
+item3.txt
+As of March 31, 2018, approximately $110.3 million of our cash and investments may be directly affected by changes in interest rates.
+At March 31, 2018, we held $51.0 million of cash and variable-rate investments where a change in interest rates would impact our interest income.
+A hypothetical 50 bps decline in interest rates as of March 31, 2018 would reduce annualized interest income on our cash and investments by approximately $0.3 million.
+A hypothetical 50 bps increase in interest rates as of March 31, 2018 would reduce the fair value of our fixed-rate bonds by approximately $0.4 million.
+As of March 31, 2017, approximately $169.3 million of our cash and investments was subject to being directly affected by changes in interest rates.
+A hypothetical 50 bps decline in interest rates as of March 31, 2017 would have reduced annualized interest income on our cash, money market instruments and variable rate demand notes by approximately $0.4 million.
+In addition, a hypothetical 50 bps increase in interest rates as of March 31, 2017 would have reduced the fair value of our fixed-rate bonds by approximately $0.5 million.
+
+
+part2.txt
+This authorization will be implemented through open market or private purchases from time to time as conditions warrant.
+
+

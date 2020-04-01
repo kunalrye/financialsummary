@@ -1,0 +1,75 @@
+item1.txt
+Except for the accounting policy for revenue recognition, which was updated as a result of adopting a new accounting standard related to revenue recognition, there have been no material changes to our significant accounting policies in Note 1 - Organization and Summary of Significant Accounting Policies, of the Notes to the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
+For products sold with a right of return, we record a reduction to revenue by establishing a sales return allowance for estimated product returns at the time revenue is recognized, based primarily on historical return rates.
+Our condensed consolidated financial statements include the accounts of NVIDIA Corporation and our wholly-owned subsidiaries.
+In February 2016 and July 2018, the FASB issued accounting standards updates regarding the accounting for leases by which we will begin recognizing lease assets and liabilities on the balance sheet for lease terms of more than 12 months.
+The updates will be effective for us beginning in the first quarter of fiscal year 2020.
+On January 29, 2018, we adopted the new revenue accounting standard using the modified retrospective method and applied it to contracts that were not completed as of that date.
+The impact of the new standard on our consolidated financial statements for the second quarter and first half of fiscal year 2019 was not significant.
+Revenue related to remaining performance obligations represents the amount of contracted license and development arrangements and PCS that has not been recognized.
+As of July 29, 2018, the amount of our remaining performance obligations that have not been recognized as revenue was $235 million, of which we expect to recognize approximately 50% as revenue over the next twelve months and the remainder thereafter.
+Refer to Note 15 of these Notes to Condensed Consolidated Financial Statements for additional information, including disaggregated revenue disclosures.
+Of the total fair value of equity awards granted during the second quarter and first half of fiscal year 2019, we estimated that the stock-based compensation expense related to equity awards that are not expected to vest was $12 million and $31 million, respectively.
+Of the total fair value of equity awards granted during the second quarter and first half of fiscal year 2018, we estimated that the stock-based compensation expense related to equity awards that are not expected to vest was $10 million and $39 million, respectively.
+The Convertible Notes have a dilutive impact on net income per share if our average stock price for the reporting period exceeds the adjusted conversion price of $20.02 per share.
+We recognized income tax expense of $79 million and $146 million for the second quarter and first half of fiscal year 2019, respectively, and $101 million and $130 million for the second quarter and first half of fiscal year 2018, respectively.
+Income tax expense as a percentage of income before income tax for the second quarter and first half of fiscal year 2019 was 6.7% and 5.9%, respectively, and 14.8% and 10.7% for the second quarter and first half of fiscal year 2018, respectively.
+The decrease in our effective tax rate for the second quarter and first half of fiscal year 2019 as compared to the same periods in the prior fiscal year was primarily due to a decrease in the U.S. statutory tax rate from 35% to 21% as a result of U.S. tax reform, partially offset by a decrease in the impact of tax benefits from stock-based compensation.
+For the second quarter and first half of fiscal years 2019 and 2018, there were no other-than-temporary impairment losses and net realized gains were not significant.
+The amortized cost and estimated fair value of cash equivalents and marketable securities as of July 29, 2018 and January 28, 2018 are shown below by contractual maturity.
+There were no significant transfers between Levels 1 and 2 financial assets and liabilities for the second quarter of fiscal year 2019.
+Amortization expense associated with intangible assets was $6 million and $17 million for the second quarter and first half of fiscal year 2019, respectively, and $14 million and $29 million for the second quarter and first half of fiscal year 2018, respectively.
+Future amortization expense related to the net carrying amount of intangible assets as of July 29, 2018 is estimated to be $12 million for the remainder of fiscal year 2019, $20 million in fiscal year 2020, $11 million in fiscal year 2021, $4 million in fiscal year 2022, $3 million in fiscal year 2023, and $1 million in fiscal 2024.
+Therefore, the change in fair value of these contracts is recorded in other income or expense and offsets the change in fair value of the hedged foreign currency denominated monetary assets and liabilities, which is also recorded in other income or expense.
+During the second quarter and first half of fiscal years 2019 and 2018, the impact of derivative financial instruments designated for hedge accounting treatment on other comprehensive income or loss was not significant and all such instruments were determined to be highly effective.
+The estimated product returns and estimated product warranty liabilities was $16 million and $15 million as of July 29, 2018 and January 28, 2018, respectively.
+In fiscal year 2014, we issued $1.50 billion of 1.00% Convertible Senior Notes due 2018.
+Through the second quarter of fiscal year 2019, we had settled an aggregate of $1.49 billion of the Convertible Notes.
+During the second quarter of fiscal year 2019, we paid cash to settle an insignificant amount of the Convertible Notes.
+Subsequently, we received additional conversion notices for an aggregate of $11 million in principal amount of the Convertible Notes which are expected to be settled in the third quarter of fiscal year 2019.
+During the second quarter of fiscal year 2019, we also issued one thousand shares of our common stock for the excess conversion value and the related loss on early conversions was not significant.
+Based on the closing price of our common stock of $252.02 on the last trading day of the second quarter of fiscal year 2019, the if-converted value of the remaining outstanding Convertible Notes exceeded their principal amount by approximately $162 million.
+On July 14, 2017, NVIDIA filed defenses to the infringement allegations including non-infringement with respect to each of the three asserted patents.
+No customer represented 10% or more of total revenue for the second quarter and first half of fiscal years 2019 and 2018.
+Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018 for a prior discussion of our legal proceedings.
+Refer to the description of the risk factors associated with our business previously disclosed in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
+There have been no material changes from the risk factors previously described under Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
+
+
+item2.txt
+Revenue for the second quarter of fiscal year 2019 increased 40% year over year and decreased 3% sequentially.
+Datacenter revenue was $760 million, up 83% from a year ago and up 8% sequentially, led by strong sales of our Volta architecture products, including NVIDIA Tesla V100 and DGX systems.
+Income from operations for the second quarter of fiscal year 2019 was $1.16 billion, up 68% from a year earlier and down 11% sequentially.
+Net income and net income per diluted share for the second quarter of fiscal year 2019 were $1.10 billion and $1.76, respectively, up 89% and 91%, respectively, from a year earlier, fueled by strong revenue growth and improved gross and operating margins.
+During the first half of fiscal year 2019, we returned $837 million to shareholders through a combination of $655 million in share repurchases and $182 million in cash dividends.
+GPU business revenue increased by 40% for the second quarter of fiscal year 2019 compared to the second quarter of fiscal year 2018.
+GPU business revenue increased by 57% for the first half of fiscal year 2019 compared to the first half of fiscal year 2018.
+Our PC OEM revenue increased by almost 50% due primarily to sales of GPU products targeted for use in cryptocurrency mining in the first quarter of fiscal year 2019.
+Tegra Processor business revenue increased by 40% for the second quarter of fiscal year 2019 compared to the second quarter of fiscal year 2018.
+Tegra Processor business revenue increased by 37% for the first half of fiscal year 2019 compared to the first half of fiscal year 2018.
+No customer represented 10% or more of total revenue for the second quarter and first half of fiscal years 2019 and 2018.
+Inventory provisions totaled $21 million and $13 million for the second quarter of fiscal years 2019 and 2018, respectively.
+Sales of inventory that was previously written-off or written-down totaled $12 million and $9 million for the second quarter of fiscal years 2019 and 2018, respectively.
+As a result, the overall net effect on our gross margin was an unfavorable impact of 0.3% and 0.2% for the second quarter of fiscal years 2019 and 2018, respectively.
+The gross margin of our GPU business increased during the second quarter and first half of fiscal year 2019 compared to the second quarter and first half of fiscal year 2018, primarily due to strong sales of high-end GeForce gaming GPUs and revenue growth in Datacenter.
+The gross margin of our Tegra Processor business was flat during the second quarter of fiscal year 2019 compared to the second quarter of fiscal year 2018.
+Gross margin of our Tegra Processor business increased during the first half of fiscal year 2019 compared to the first half of fiscal year 2018, primarily due to a favorable mix shift.
+Interest expense was $14 million and $15 million during the second quarter of fiscal years 2019 and 2018, respectively, and $29 million and $31 million during the first half of fiscal years 2019 and 2018, respectively.
+Other, net, was not significant during the second quarter or the first half of fiscal year 2019.
+fiscal year 2018 and $21 million of expense during the first half of fiscal year 2018, consisting primarily of $17 million of losses recognized from early conversions of the Convertible Notes during the first half of fiscal year 2018.
+We recognized income tax expense of $79 million and $146 million for the second quarter and first half of fiscal year 2019, respectively, and $101 million and $130 million for the second quarter and first half of fiscal year 2018, respectively.
+As of July 29, 2018, we had $7.94 billion in cash, cash equivalents and marketable securities, an increase of $835 million from the end of fiscal year 2018.
+During the first half of fiscal year 2019, we repurchased a total of 3 million shares for $655 million.
+During the second quarter and first half of fiscal year 2019, we also paid $91 million and $182 million, respectively, in cash dividends to our shareholders.
+Subsequently, we received additional conversion notices for an aggregate of $11 million in principal amount of the Convertible Notes, which are expected to be settled in the third quarter of fiscal year 2019.
+We had no share repurchase transactions during the second quarter of fiscal year 2019.
+During the second quarter of fiscal year 2019, we withheld approximately 0.3 million shares at a total cost of $66 million through net share settlements.
+
+
+part2.txt
+Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018 for a prior discussion of our legal proceedings.
+Refer to the description of the risk factors associated with our business previously disclosed in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
+There have been no material changes from the risk factors previously described under Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
+During the second quarter of fiscal year 2019, we withheld approximately 0.3 million shares at a total cost of $66 million through net share settlements.
+
+

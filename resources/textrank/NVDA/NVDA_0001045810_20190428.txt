@@ -1,0 +1,66 @@
+item1.txt
+Except for the accounting policy for leases, which was updated as a result of adopting a new accounting standard related to leases, there have been no material changes to our significant accounting policies in Note 1 - Organization and Summary of Significant Accounting Policies, of the Notes to the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019.
+Operating leases with lease terms of more than 12 months are included in operating lease assets, accrued and other current liabilities, and long-term operating lease liabilities on our consolidated balance sheet.
+Operating lease assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments over the lease term.
+Operating lease assets and liabilities are recognized based on the present value of the remaining lease payments discounted using our incremental borrowing rate.
+Our condensed consolidated financial statements include the accounts of NVIDIA Corporation and our wholly-owned subsidiaries.
+The Financial Accounting Standards Board, or FASB, issued an accounting standards update regarding the accounting for leases under which lease assets and liabilities are recognized on the balance sheet.
+We will be required to use a forward-looking expected credit loss model for accounts receivable and other financial instruments, including available-for-sale debt securities.
+The standard will be effective for us beginning in the first quarter of fiscal year 2021, with early adoption permitted.
+Note 2 - Merger Agreement with Mellanox Technologies, Ltd. On March 10, 2019, we entered into an Agreement and Plan of Merger, or the Merger Agreement, with Mellanox Technologies Ltd, or Mellanox, pursuant to which we will acquire all of the issued and outstanding common shares of Mellanox for $125 per share in cash, representing a total enterprise value of approximately $6.9 billion as of the date of the Merger Agreement.
+On January 28, 2019, we adopted the new lease accounting standard using the optional transition method by recognizing a cumulative-effect adjustment to the consolidated balance sheet and not adjusting comparative information for prior periods.
+The cumulative-effect adjustment upon adoption of the new lease accounting standard resulted in the recognition of $470 million of operating lease assets and $500 million of operating lease liabilities on our Consolidated Balance Sheet.
+The difference of $30 million represents deferred rent for leases that existed as of the date of adoption, which was an offset to the opening balance of operating lease assets.
+Operating lease expense for the first quarter of fiscal years 2020 and 2019 was $27 million and $16 million, respectively.
+Short-term and variable lease expenses for the first quarter of fiscal year 2020 were not significant.
+We recognized an income tax benefit of $5 million for the first quarter of fiscal year 2020 and income tax expense of $67 million for the first quarter of fiscal year 2019.
+The decrease in our effective tax rate for the first quarter of fiscal year 2020 as compared to the same period in the prior fiscal year was primarily due to a decrease in the amount of earnings subject to United States tax, and an increase in the impact of tax benefits from stock-based compensation and the U.S. federal research tax credit.
+For the first quarter of fiscal years 2020 and 2019, there were no other-than-temporary impairment losses and net realized gains were not significant.
+There were no significant transfers between Levels 1 and 2 financial assets and liabilities for the first quarter of fiscal year 2020.
+Gains or losses on the contracts are recorded in accumulated other comprehensive income or loss and reclassified to operating expense when the related operating expenses are recognized in earnings or ineffectiveness should occur.
+The fair value of the contracts was not significant as of April 28, 2019 and January 27, 2019.
+We also enter into foreign currency forward contracts to mitigate the impact of foreign currency movements on monetary assets and liabilities that are denominated in currencies other than U.S. dollar.
+Therefore, the change in fair value of these contracts is recorded in other income or expense and offsets the change in fair value of the hedged foreign currency denominated monetary assets and liabilities, which is also recorded in other income or expense.
+The expected realized gains and losses deferred into accumulated other comprehensive income (loss) related to foreign currency forward contracts within the next twelve months was not significant.
+During the first quarter of fiscal years 2020 and 2019, the impact of derivative financial instruments designated for hedge accounting treatment on other comprehensive income or loss was not significant and all such instruments were determined to be highly effective.
+As of April 28, 2019, the amount of our remaining performance obligations that has not been recognized as revenue was $294 million, of which we expect to recognize approximately 57% as revenue over the next twelve months and the remainder thereafter.
+NVIDIA and Polaris entered into an agreement effective April 3, 2019 that settled the litigation between the parties, which had an immaterial impact on our financial results.
+During the first quarter of fiscal year 2020, we paid $97 million in cash dividends to our shareholders.
+Refer to the description of the risk factors associated with our business previously disclosed in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 27, 2019.
+
+
+item2.txt
+Revenue for the first quarter of fiscal year 2020 decreased 31% year over year and increased 1% sequentially.
+The year-on-year decrease reflects declines in gaming and data center revenue, as well as the absence of $289 million of OEM revenue from cryptocurrency mining processors, or CMP.
+Tegra Processor business revenue - which includes automotive, SOC modules for gaming platforms, and embedded edge AI platforms - was $198 million, down 55% from a year ago and down 12% sequentially.
+The sequential increase primarily reflects growth in gaming GPUs. We believe a shortage of Intel processors that is impacting the global PC market will affect our sales of gaming GPUs for laptops in the second quarter of fiscal year 2020.
+Income from operations for the first quarter of fiscal year 2020 was $358 million, down 72% from a year earlier and up 22% sequentially.
+Net income and net income per diluted share for the first quarter of fiscal year 2020 were $394 million and $0.64, respectively, both down 68% from a year earlier.
+The sequential decrease reflects U.S. tax reform benefits recognized in the fourth quarter of fiscal year 2019.
+As previously communicated, we intend to return $3.00 billion to shareholders by the end of fiscal year 2020, including $700 million in share repurchases made during the fourth quarter of fiscal year 2019.
+In the first quarter of fiscal year 2020, we returned $97 million in quarterly cash dividends.
+GPU business revenue decreased by 27% in the first quarter of fiscal year 2020 compared to the first quarter of fiscal year 2019, which reflects declines in gaming GPU and data center revenue, as well as the absence of $289 million of revenue from cryptocurrency mining processors.
+Tegra Processor business revenue decreased by 55% for the first quarter of fiscal year 2020 compared to the first quarter of fiscal year 2019.
+Sales of inventory that was previously written-off or written-down totaled $12 million and $4 million for the first quarter of fiscal years 2020 and 2019, respectively.
+The gross margin of our GPU business decreased during the first quarter of fiscal year 2020 compared to the first quarter of fiscal year 2019, primarily due to lower gaming GPU margins and mix shifts across the portfolio.
+The gross margin of our Tegra Processor business decreased during the first quarter of fiscal year 2020 compared to the first quarter of fiscal year 2019, primarily due to mix shifts.
+Interest expense was $13 million and $15 million during the first quarters of fiscal years 2020 and 2019, respectively.
+The decrease in our effective tax rate for the first quarter of fiscal year 2020 as compared to the same period in the prior fiscal year was primarily due to a decrease in the amount of earnings subject to United States tax, and an increase in the impact of tax benefits from stock-based compensation and the U.S. federal research tax credit.
+As of April 28, 2019, we had $7.80 billion in cash, cash equivalents and marketable securities, an increase of $380 million from the end of fiscal year 2019.
+Cash provided by operating activities decreased in the first quarter of fiscal year 2020 compared to the first quarter of fiscal year 2019, due to lower net income, partially offset by changes in working capital.
+Cash provided by investing activities increased in the first quarter of fiscal year 2020 compared to the first quarter of fiscal year 2019, due to lower purchases of marketable securities and higher maturities of marketable securities.
+Cash used in financing activities decreased in the first quarter of fiscal year 2020 compared to the first quarter of fiscal year 2019, due to lower share repurchases and lower tax payments related to employee stock plans.
+As previously communicated, we intend to return $3.00 billion to shareholders by the end of fiscal year 2020, including $700 million in share repurchases made during the fourth quarter of fiscal year 2019.
+In the first quarter of fiscal year 2020, we returned $97 million in quarterly cash dividends.
+As previously communicated, we intend to return $3.00 billion to shareholders by the end of fiscal year 2020, including $700 million in share repurchases made during the fourth quarter of fiscal year 2019.
+We had no share repurchase transactions during the first quarter of fiscal year 2020.
+During the first quarter of fiscal year 2020, we withheld approximately 1 million shares at a total cost of $211 million through net share settlements.
+
+
+part2.txt
+Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019 for a prior discussion of our legal proceedings.
+As previously communicated, we intend to return $3.00 billion to shareholders by the end of fiscal year 2020, including $700 million in share repurchases made during the fourth quarter of fiscal year 2019.
+We intend to return the remaining $2.20 billion by the end of fiscal year 2020, through a combination of share repurchases and cash dividends.
+We had no share repurchase transactions during the first quarter of fiscal year 2020.
+
+

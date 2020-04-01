@@ -1,0 +1,66 @@
+fls.txt
+This Quarterly Report on Form 10-Q contains or incorporates forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.
+Important factors that could cause actual future activities and results to differ materially from those expressed in such forward-looking statements include, among others, variation in demand for our products and services, reliance on third party relationships, reliance on key personnel, the inherent risks associated with international operations and the continued uncertainties in the global economy, our continued effort to market and sell both domestically and internationally, foreign currency exchange rates, the potential legal and financial liabilities and reputation damage due to cyber-attacks and security breaches, and management of our growth.
+These risks and other factors that could cause actual results to differ materially from those expressed in such forward-looking statements are described more completely in Part I of our Annual Report on Form 10-K for the year ended December 31, 2018 as well as other filings we make with the U.S. Securities and Exchange Commission (“SEC”).
+Although new information, future events, or risks may cause actual results to differ materially from future results expressed or implied by such forward-looking statements, except as required by applicable law, we do not undertake and specifically disclaim any obligation to publicly update or revise these forward-looking statements whether as the result of new information, future events, or otherwise.
+
+
+item1.txt
+In June 2016, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update No. 2016-13, “Financial Instruments - Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments,” which requires measurement and recognition of expected credit losses for financial assets measured at amortized cost, including accounts receivable, upon initial recognition of that financial asset using a forward-looking expected loss model, rather than an incurred loss model.
+Credit losses relating to available-for-sale debt securities should be recorded through an allowance for credit losses when the fair value is below the amortized cost of the asset, removing the concept of “other-than-temporary” impairments.
+The Company is currently evaluating the effect this ASU will have on its consolidated financial statements and related disclosures.
+Results for reporting periods beginning on or after January 1, 2019 are presented under ASC 842, while prior period amounts were not adjusted and continue to be reported in accordance with the Company’s historic accounting under ASC 840 “Leases”.
+Contract assets are amounts under client contracts where revenue recognized exceeds the amount billed to the client and the right to payment is subject to conditions other than the passage of time, such as the completion of a related performance obligation.
+Contract assets and deferred revenue are netted at the contract level for each reporting period.
+The change in deferred revenue in the three months ended March 31, 2019 was primarily due to $89.4 million of revenue recognized, excluding the impact of netting contract assets and deferred revenue at the contract level, during the period that was included in deferred revenue at December 31, 2018, partially offset by new billings in advance of revenue recognition.
+The Company records its cash equivalents, marketable securities, and investments in privately-held companies at fair value on a recurring basis.
+Fair value is an exit price, representing the amount that would be received from the sale of an asset or paid to transfer a liability in an orderly transaction between market participants based on assumptions that market participants would use in pricing an asset or liability.
+The Company’s cash equivalents are composed of money market funds and time deposits, which are classified within Level 1 and Level 2, respectively, in the fair value hierarchy.
+The Company’s marketable securities, which are classified within Level 2 of the fair value hierarchy are valued based on a market approach using quoted prices, when available, or matrix pricing compiled by third party pricing vendors, using observable market inputs such as interest rates, yield curves, and credit risk.
+The Company’s investments in privately-held companies are classified within Level 3 of the fair value hierarchy.
+If applicable, the Company will recognize transfers into and out of levels within the fair value hierarchy at the end of the reporting period in which the actual event or change in circumstance occurs.
+For certain other financial instruments, including accounts receivable and accounts payable, the carrying value approximates fair value due to the relatively short maturity of these items.
+All the Company’s leases are operating leases.
+The Company accounts for a contract as a lease when it has the right to control the asset for a period of time while obtaining substantially all of the asset’s economic benefits.
+The Company determines the initial classification and measurement of its operating right of use assets and lease liabilities at the lease commencement date and thereafter if modified.
+Variable lease costs are recognized in the period in which the obligation for those payments is incurred.
+The lease liability includes lease payments related to options to extend or renew the lease term, if the Company is reasonably certain it will exercise those options.
+The Company’s leases do not contain any material residual value guarantees or restrictive covenants.
+The Company recognizes stock-based compensation using the accelerated recognition method, treating each vesting tranche as if it were an individual grant.
+As of March 31, 2019, the Company had $114.1 million of unrecognized stock-based compensation expense, net of estimated forfeitures, related to all unvested restricted stock units (“RSUs”) and stock options.
+During the three months ended March 31, 2019, 0.5 million shares of common stock were issued due to stock option exercises and RSU vestings under the Company’s stock-based compensation plans.
+Diluted earnings per share is computed using the weighted-average number of common shares outstanding during the applicable period, plus the dilutive effect of outstanding stock options and RSUs, using the treasury stock method.
+
+
+item2.txt
+We license our no-code Pega Platform™ for rapid application development to clients that wish to build and extend their own business applications.
+Our cloud-architected portfolio of customer engagement and digital process automation applications leverages artificial intelligence (“AI”), case management, and robotic automation technology, built on our unified no-code Pega Platform, empowering businesses to quickly design, extend, and scale their enterprise applications to meet strategic business needs.
+The change in ACV measures the growth and predictability of future cash flows from Pega cloud and client cloud committed arrangements as of the end of the particular reporting period.
+Our license revenue is derived from sales of our applications and Pega Platform.
+Our cloud revenue is derived from our hosted Pega Platform and software applications.
+The decrease in term license revenue in the three months ended March 31, 2019 was primarily due to lower average revenue per arrangement.
+The increase in cloud revenue in the three months ended March 31, 2019 reflects the shift in client preferences to cloud arrangements from other types of arrangements.
+The increase in maintenance revenue was primarily due to the continued growth in the aggregate value of the installed base of our software and strong renewal rates in excess of 90%.
+The decrease in perpetual license revenue in the three months ended March 31, 2019 reflects the shift in client preferences in favor of our cloud offerings and away from perpetual license arrangements.
+The decrease in consulting revenue in the three months ended March 31, 2019 was primarily due to a decrease in billable hours.
+The recent shift in our revenue mix toward cloud arrangements has resulted in slower total gross profit growth as our cloud business continues to grow and scale.
+Revenue from cloud arrangements is generally recognized over the service period, while revenue from term and perpetual license arrangements is generally recognized upfront when the license rights become effective.
+The decrease in total gross profit in the three months ended March 31, 2019 was primarily due to the decrease in term and perpetual license revenue reflecting the shift in client preferences toward our cloud offerings.
+The decrease in total gross profit percent in the three months ended March 31, 2019 was driven by a shift in favor of cloud arrangements, which are lower margin than our term and perpetual license revenue streams.
+The increase in cloud gross profit percent was driven by cost efficiency gains as our cloud business continues to grow and scale.
+The decrease in consulting gross profit percent was driven by a decrease in billable hours as consulting resources were transitioning to new projects after completing a large project which began in the second half of 2016 and an increase in consulting resource availability in Europe as we continue growing and leveraging our partner network.
+The increase in the three months ended March 31, 2019 was primarily due to an increase in compensation and benefits of $17.7 million, attributable to increased headcount, and an increase of $4.5 million in deferred contract commission amortization.
+The increase in headcount reflects our efforts to increase our sales capacity to deepen relationships with existing clients and target new accounts.
+The increase in the three months ended March 31, 2019 was primarily due to an increase in compensation and benefits of $2.1 million, attributable to an increase in headcount, and an increase of $1.6 million in cloud hosting expenses as we expand our cloud-focused research and development activities.
+The decrease in the three months ended March 31, 2019 was primarily due to a decrease in compensation and benefits of $1.2 million, due to a decrease in equity compensation, and a decrease of $1.9 million in legal and other professional services fees.
+Despite the headcount increase, associated compensation and benefits did not increase because these costs are primarily allocated to other operating expense areas.
+The increase in the three months ended March 31, 2019 was primarily due to the increased value of our annual periodic equity awards granted in March 2019 and 2018.
+This fluctuation may continue in future periods, as the amount of excess tax benefits from stock-based compensation awards varies depending on our future stock price in relation to the fair value of awards, the timing of RSU vestings, the exercise behavior of our stock option holders, and the total value of future grants of stock-based compensation awards.
+As client preferences continue to shift in favor of cloud arrangements, we could continue to experience slower operating cash flow growth in the near term.
+Cash from cloud arrangements is generally collected throughout the service period of three to five years, while cash from perpetual license arrangements is generally collected upfront, shortly after the license rights become effective.
+
+
+part2.txt
+The following table sets forth information regarding our repurchases of our common stock during the three months ended March 31, 2019.
+
+
