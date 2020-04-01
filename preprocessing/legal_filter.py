@@ -19,10 +19,19 @@ def file_to_sents(fname):
     """
     sentences = []
     doc_text = open(fname).read()
-    doc_sent = tokenize.sent_tokenize(doc_text)[:740]
-    sentences += doc_sent
-    non_empty = [sentence for sentence in sentences if len(sentence) > 0]
-    return non_empty
+    cleaned_lines = list()
+    for line in doc_text.splitlines():
+        if len(line) > 3:
+            if (not (line[0] == "(" or \
+                     sum(1 for c in line if c.isupper()) / len(line) > .5 or \
+                     "|" in line or "see accompanying notes" in line.lower())) and ("." in line):
+                cleaned_lines.append(line)
+
+
+    # doc_sent = tokenize.sent_tokenize(doc_text)
+    # sentences += doc_sent
+    # non_empty = [sentence for sentence in sentences if len(sentence) > 0]
+    return cleaned_lines
 
 def get_legal_bank():
     legal_text = open(f"../resources/forward_looking.txt").read()
@@ -32,7 +41,7 @@ def get_legal_bank():
 
 
 
-def filter(directory):
+def filter():
     print("loading tf hub")
     module_url = "https://tfhub.dev/google/universal-sentence-encoder/4"  # @param ["https://tfhub.dev/google/universal-sentence-encoder/4", "https://tfhub.dev/google/universal-sentence-encoder-large/5"]
     model = hub.load(module_url)
@@ -43,50 +52,49 @@ def filter(directory):
     legal_vectors = model(get_legal_bank())
 
     ## iterate over all the files in the directory
-    dirpath = os.path.expanduser("../resources/itemized")
-    print(dirpath)
-    outdir_path = os.path.expanduser("../resources/legal_filter/")
-    for subdir, dirs, files in os.walk(dirpath):
-        for filename in files:
-            if filename.endswith('.txt'):
-                fpath = os.path.join(subdir, filename)
-                doc_sentences = file_to_sents(fpath)
+    input_dirpath = os.path.expanduser("../resources/itemized")
+    output_dirpath = os.path.expanduser("../resources/legal_filter/")
+    for root, dirs, files in os.walk(input_dirpath):
+        for comp_name in dirs:
+            ## output directory name of the company
+            out_comp_dirpath = os.path.join(output_dirpath, comp_name)
+            in_comp_dirpath = os.path.join(input_dirpath, comp_name)
+            if not os.path.exists(out_comp_dirpath):
+                os.makedirs(out_comp_dirpath)
 
-                if not doc_sentences:
-                    ## don't pass empty files through the legal filter
-                    print(filename + " is empty!")
-                    continue
+            for root2, dirs2, files2 in os.walk(in_comp_dirpath):
+                for filename in files2:
 
-                doc_vectors = model(doc_sentences) ## generate embeddings from the text file of a 10Q
+                    if filename.endswith('.txt'):
+                        doc_sentences = file_to_sents(os.path.join(in_comp_dirpath, filename))
 
-                cosine = metrics.pairwise.cosine_similarity(doc_vectors, legal_vectors)
+                        if not doc_sentences:
+                            ## don't pass empty files through the legal filter
+                            print(filename + " is empty!")
+                            continue
 
-                # for each document sentence, obtain the highest similarity score it has
-                score_maxes = np.amax(cosine, axis=1)
+                        doc_vectors = model(doc_sentences) ## generate embeddings from the text file of a 10Q
 
-                percentile = np.percentile(score_maxes, 75)
+                        cosine = metrics.pairwise.cosine_similarity(doc_vectors, legal_vectors)
 
-                good_idcs = np.nonzero(score_maxes < percentile)[0] # find indices of elements less than the threshold
+                        # for each document sentence, obtain the highest similarity score it has
+                        score_maxes = np.amax(cosine, axis=1)
 
-                good_sentences = [doc_sentences[i] for i in good_idcs]
+                        upper_percentile = np.percentile(score_maxes, 75)
 
-                with open(outdir_path +  filename, 'w') as f:
-                    for sent in good_sentences:
-                        f.write("%s\n" % sent)
+                        lower_percentile = np.percentile(score_maxes, 10)
 
-                print("finished processing " + filename)
+                        # find indices of elements less than the upper threshold and
+                        good_idcs = np.nonzero(np.logical_and(score_maxes < upper_percentile, score_maxes > lower_percentile))[0]
 
-    # doc_vectors = model(non_empty)
+                        good_sentences = [doc_sentences[i] for i in good_idcs]
 
+                        with open(os.path.join(out_comp_dirpath, filename), 'w') as f:
+                            for sent in good_sentences:
+                                f.write("%s\n" % sent)
 
-
-filter("../resources/filtered")
-
-
-
-
-
-
+                        print("finished processing " + filename)
 
 
-
+if __name__ == "__main__":
+    filter()
