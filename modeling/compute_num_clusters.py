@@ -82,6 +82,8 @@ def calculate_cluster_sizes():
                     if full_doc_name in processed: # we've already calculated the cluster amounts for this document
                         continue
 
+                    # the first time we see a section from a 10Q, we just process all sections of the 10Q at once
+                    processed.add(full_doc_name)
                     doc_groups[full_doc_name] = calculate_cluster_dict_for_doc(in_comp_dirpath, full_doc_name)
 
     return doc_groups
