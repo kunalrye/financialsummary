@@ -18,7 +18,7 @@ BIAS = 0.1
 
 def calculate_cluster_dict_for_doc(in_comp_dirpath, full_doc_name):
     """
-    Calculates cluster size for a specific 10Q
+    Helper function for calculating cluster size for a specific 10Q
     :param in_comp_dirpath: the directory containing the sections for that 10Q
     :param full_doc_name: the name of the document (excluding the section identifier (i.e. part2 or item1)
     :return: a dictionary mapping the section identifier to the cluster size
