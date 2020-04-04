@@ -52,7 +52,7 @@ def summarize_sections(full_doc_name, in_comp_dirpath, out_comp_dirpath, cluster
                     continue
 
                 summarized_lines = model_func(doc, math.ceil(len(doc.splitlines()) / 2))  # rank half the doc sentences, we'll cut down later
-                if len(summarized_lines) == 0:  # don't include empty summaries
+                if not summarized_lines or len(summarized_lines) == 0:  # don't include empty summaries
                     continue
                 else:
                     summarized_lines = summarized_lines[:sect_summary_len]
