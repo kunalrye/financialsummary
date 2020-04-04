@@ -11,6 +11,7 @@ from nltk.stem.wordnet import WordNetLemmatizer
 import pickle
 from gensim import corpora
 import numpy as np
+from modeling.run_model import summarize_train_docs, summarize_test_docs
 
 nltk.download('stopwords')
 en_stop = set(nltk.corpus.stopwords.words('english'))
@@ -85,7 +86,7 @@ def do_lda(doc_text, NUM_SENTS):
             new_doc_bow = dictionary.doc2bow(new_doc)
             max_sim = np.max([two for one, two in ldamodel.get_document_topics(new_doc_bow)])
             maxes.append(max_sim)
-        cutoff = np.sort(maxes)[NUM_SENTS]
+        cutoff = np.sort(maxes)[NUM_SENTS-1]
         ## This is a really inefficient way to do this, but it works well
         for line in text:
             new_doc = prepare_text_for_lda(line)
@@ -96,6 +97,8 @@ def do_lda(doc_text, NUM_SENTS):
         return (lda_sents)
 
 ## Example Code
-# if __name__ == '__main__':
-#     with open('../resources/legal_filter_train\XRX\XRX_0000108772_20180331_item1.txt','r',encoding='utf-8') as f:
-#         sents = do_lda(f.read(),10)
+if __name__ == '__main__':
+    summarize_train_docs(do_lda, "lda")
+    summarize_test_docs(do_lda, "lda")
+
+
