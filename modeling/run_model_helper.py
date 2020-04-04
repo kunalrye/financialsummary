@@ -1,7 +1,7 @@
 '''
-Applies the text rank model to summarize the filtered files
+Applies a supplied model to summarize the filtered files
 
-Output of the model can be found in resources/textrank,
+Output of the model can be found in resources/<model_name>,
 which contains a directory for each company. Within each directory
 are files that correspond to the summary for that quarter
 
@@ -77,7 +77,7 @@ def summarize_docs(modifier, model_func: Callable[[str, int], List[str]], model_
     """
     Main function to summarize all 10Qs from the filtered input files
 
-    Writes the summary to a textfile in the company folder located at resources/textranks/<company_code>
+    Writes the summary to a textfile in the company folder located at resources/<model_name_output>/<company_code>
     :return: nothing
     """
     if modifier == "train":
