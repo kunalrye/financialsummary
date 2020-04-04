@@ -26,6 +26,3 @@ def LsaSummary(file, sentences):
     for sentence in summary:
         print(sentence)
 
-#LexRankSummary('C:/Users/sotoa/financialsummary/resources/legal_filter/AAPL/AAPL_0000320193_20171230_item2.txt', 10)
-#LuhnSummary('C:/Users/sotoa/financialsummary/resources/legal_filter/AAPL/AAPL_0000320193_20171230_item2.txt', 10)
-#LsaSummary('C:/Users/sotoa/financialsummary/resources/legal_filter/AAPL/AAPL_0000320193_20171230_item2.txt', 10)
