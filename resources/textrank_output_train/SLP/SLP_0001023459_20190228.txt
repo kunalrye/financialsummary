@@ -1,0 +1,50 @@
+fls.txt
+
+
+
+item1.txt
+This report on Form 10-Q for the quarter ended February 28, 2019 should be read in conjunction with the Company's annual report on Form 10-K for the year ended August 31, 2018, filed with the Securities and Exchange Commission (“SEC”) on November 14, 2018.
+On June 1, 2017, the Company consummated the acquisition of all outstanding equity interests of DILIsym pursuant to the terms of the Stock Agreement, with DILIsym becoming a wholly owned subsidiary of the Company.
+The Company designs and develops pharmaceutical simulation software to promote cost-effective solutions to a number of problems in pharmaceutical research and in the education of pharmacy and medical students, and it provides consulting services to the pharmaceutical and chemical industries.
+The consolidated financial statements include the accounts of Simulations Plus, Inc. and, as of September 2, 2014, its wholly owned subsidiary, Cognigen Corporation, and as of June 1, 2017, the accounts of DILIsym Services, Inc. All significant intercompany accounts and transactions are eliminated in consolidation.
+In May 2014, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) 2014-09 and its related amendments regarding Accounting Standards Codification Topic 606 (ASC Topic 606), Revenue from Contracts with Customers.
+The standard provides principles for recognizing revenue for the transfer of promised goods or services to customers with the consideration to which the entity expects to be entitled in exchange for those goods or services.
+This approach was applied to contracts that were in process as of September 1, 2018, and the corresponding incremental costs of obtaining those contracts, which resulted in a cumulative effect adjustment to the opening balance of retained earnings at the date of adoption.
+The adoption of this ASU primarily impacts the timing of our revenue recognition for certain sales contracts, the capitalization and amortization of incremental costs of obtaining a contract, and related disclosures.
+We generate revenue primarily from the sale of software licenses and providing consulting services to the pharmaceutical industry for drug development.
+We apply the practical expedient in ASC Topic 606 to expense costs as incurred for sales commissions when the period of benefit would have been one year or less.
+ASC 606 requires that the Company disclose the aggregate amount of transaction price that is allocated to performance obligations that have not yet been satisfied as of August 31, 2018.
+The Company applied the practical expedient to not disclose the amount of transaction price allocated to unsatisfied performance obligations when the performance obligation is part of a contract that has an original expected duration of one year or less.
+For purposes of the statements of cash flows, the Company considers all highly liquid investments purchased with original maturities of three months or less to be cash equivalents.
+Amortization of capitalized software development costs is calculated on a product-by-product basis using the straight-line method over the estimated economic life of the products (not to exceed five years).
+Amortization of software development costs amounted to $344,714 and $335,723 for the three months ended February 28, 2019 and 2018, respectively, and $683,787 and $621,032 for the six months ended February 28, 2019 and 2018, respectively.
+
+
+item2.txt
+We are a global leader focused on improving the ways scientists use knowledge and data to predict the properties and outcomes of pharmaceutical and biotechnology agents, and are one of only two global companies who provide a wide range of early discovery, preclinical, and clinical consulting services and software.
+Our innovations in integrating new and existing science in medicinal chemistry, computational chemistry, pharmaceutical science, biology, physiology, and machine learning into our software have made us the leading software provider for PBPK modeling and simulation, prediction of molecular properties from structure, and prediction of drugs to induce liver injury or to treat nonalcoholic fatty liver disease.
+We generate revenue by delivering relevant, cost-effective software and creative and insightful consulting services.
+Pharmaceutical and biotechnology companies use our software programs and scientific consulting services to guide early drug discovery (molecule design and screening), preclinical, and clinical development programs.
+They also use it to enhance their understanding of the properties of potential new medicines and to use emerging data to improve formulations, select and justify dosing regimens, support the generics industry, optimize clinical trial designs, and simulate outcomes in special populations, such as the elderly and pediatric patients.
+Through the integration of Cognigen into Simulations Plus, Simulations Plus became also a leading provider of population modeling and simulation contract research services for the pharmaceutical and biotechnology industries.
+Our clinical-pharmacology-based consulting services include pharmacokinetic and pharmacodynamic modeling, clinical trial simulations, data programming, and technical writing services in support of regulatory submissions.
+We have also developed software for harnessing cloud-based computing in support of modeling and simulation activities and secure data archiving, and we provide consulting services to improve interdisciplinary collaborations and research and development productivity.
+We believe the combination of Simulations Plus and DILIsym provides substantial future potential based on the complementary strengths of each of the companies.
+The acquisition of DILIsym positions the Company as the leading provider of Drug Induced Liver Injury (DILI) modeling and simulation software and related scientific consulting services.
+In addition to the DILIsym® software for analysis of potential drug-induced liver injury, DILIsym Services, Inc. also has developed a simulation program for analyzing nonalcoholic fatty liver disease (NAFLD) called NAFLDsym™.
+Both the DILIsym and NAFLDsym software programs require outputs from physiologically based pharmacokinetics (PBPK) software as inputs.
+The GastroPlus™ PBPK software from Simulations Plus provides such information; thus, the integration of these technologies will provide a seamless capability for analyzing the potential for drug-induced liver injury for new drug compounds and for investigating the potential for new therapeutic agents to treat nonalcoholic fatty liver disease.
+
+
+item3.txt
+
+
+
+item4.txt
+
+
+
+part2.txt
+Item 1.
+
+

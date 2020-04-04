@@ -1,0 +1,33 @@
+item1.txt
+The Company accounts for leases in accordance with Accounting Standard Codification (ASC) 842, "Leases." The core principle of ASC 842 is that a lessee should recognize on the balance sheet the assets and liabilities that arise from leases.
+As a practical expedient, the Company does not recognize a lease asset or lease liability for leases with a lease term of 12 months or less.
+In the determination of the lease term, the Company considers the existence of extension or termination options and the probability of those options being exercised.
+The lease liability equals the present value of the future cash payments discounted using the Company's incremental borrowing rate.
+The Company’s incremental borrowing rate is the rate of interest that the Company would have to pay to borrow an amount equal to the lease payments over a similar term, which is the three-month London Interbank Offered Rate (LIBOR) plus a 2.5% credit risk spread.
+Operating lease expense equals the total cash payments recognized on a straight-line basis over the lease term.
+The amortization of the lease asset is calculated as the straight-line lease expense less the accretion of the interest on the lease liability each period.
+The lease liability is reduced by the cash payment less the interest each period.
+ASU 2016-13 applies to all reporting entities holding financial assets that are not accounted for at fair value through net income (debt securities).
+The amendments in this ASU require that credit losses on available-for-sale debt securities be presented as an allowance rather than as a write-down and an entity will be able to record reversals of credit losses in current period net income.
+For public companies, the guidance in ASU 2016-13 is effective for annual periods beginning after December 15, 2019, and interim periods within those annual periods.
+ASU 2017-08 applies to all reporting entities that hold investments in callable debt securities that have an amortized cost basis in excess of the amount that is repayable by the issuer at the earliest call date (that is, at a premium).
+The amendments in this ASU shorten the amortization period for certain callable debt securities held at a premium.
+The amendments in this ASU more closely align the amortization period of premiums and discounts to expectations incorporated in market pricing on the underlying securities.
+For public companies, the amendments in ASU 2017-08 are effective for annual periods beginning after December 15, 2019 and interim reporting periods within annual years beginning after December 15, 2020.
+This ASU should be applied on a modified retrospective basis through a cumulative-effect adjustment directly to retained earnings as of the beginning of the period of adoption, and, in the period of adoption, the entity is required to provide disclosures about the change in accounting principle.
+Accordingly, the amendments in this ASU require an entity in a hosting arrangement that is a service contract to follow the guidance in Subtopic 350-40 to determine which implementation costs to capitalize as an asset related to the service contract and which costs to expense.
+The amendments in this ASU are effective for public entities for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years, with early adoption permitted.
+
+
+item2.txt
+In addition to product revenue derived from the sale of machine vision products, the Company also generates revenue by providing maintenance and support, consulting, and training services to its customers; however, service revenue accounted for less than 10% of total revenue for all periods presented.
+Sales to customers based in the Americas increased by 14% for the three-month period and 11% for the nine-month period driven by higher sales in the logistics industry, partially offset by lower sales in the automotive industry.
+Sales to customers based in Europe decreased by 46% for the three-month period and 26% for the nine-month period driven by lower sales in the consumer electronics industry, and to a lessor extent, the automotive industry.
+Sales to customers based in Greater China decreased by 10% for the three-month period and 13% for the nine-month period due to lower sales across a variety of industries.
+The Company recorded foreign currency losses of $1,295,000 and $1,403,000 for the three-month and nine-month periods in 2019, respectively, compared to $379,000 and $708,000 for the same periods in 2018.
+The Company recorded other income of $456,000 and $1,239,000 for the three-month and nine-month periods in 2019, respectively, compared to other expense of $129,000 and $98,000 for the same periods in 2018.
+A higher level of fair value adjustments to income was recorded in 2019 related to the Company's GVi acquisition resulting from a lower level of revenue in the Americas' automotive industry.
+The Company’s effective tax rate was 12% of pre-tax income for the three-month and nine-month periods in 2019, respectively, compared to 1% and 6% for the same periods in 2018.
+The effective tax rate included a decrease in tax expense of $569,000 and $4,547,000 for the three-month and nine-month periods in 2019, respectively, and $2,811,000 and $8,400,000 for the same periods in 2018 primarily from the excess tax benefit arising from the difference between the deduction for tax purposes and the compensation cost recognized for financial reporting purposes from stock option exercises.
+
+

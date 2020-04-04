@@ -1,0 +1,34 @@
+item1.txt
+The Company identifies performance obligations as promises in contracts to transfer distinct goods or services.
+Standard products and services that the Company regularly sells separately are accounted for as distinct performance obligations.
+Application-specific customer solutions that are comprised of a combination of products and services are accounted for as one performance obligation to deliver a total solution to the customer.
+Shipping and handling activities for which the Company is responsible under the terms and conditions of the sale are not accounted for as performance obligations but as fulfillment costs.
+These activities are required to fulfill the Company’s promise to transfer the goods and are expensed when revenue is recognized.
+The Company determines the transaction price as the amount of consideration it expects to receive in exchange for transferring promised goods or services to the customer.
+If a contract includes a variable amount, such as a rebate, then the Company estimates the transaction price using either the expected value or the most likely amount of consideration to be received, depending upon the specific facts and circumstances.
+The Company includes estimated variable consideration in the transaction price only to the extent it is probable that a significant reversal of revenue will not occur when the uncertainty is resolved.
+The Company allocates the transaction price to each performance obligation at contract inception based on a relative stand-alone selling price basis, or the price at which the Company would sell the good or service separately to similar customers in similar circumstances.
+The Company recognizes revenue when it transfers the promised goods or services to the customer.
+Revenue for standard products is recognized at the point in time when the customer obtains control of the goods, which is typically upon delivery when the customer has legal title, physical possession, the risks and rewards of ownership, and an enforceable obligation to pay for the products.
+Revenue for application-specific customer solutions is recognized at the point in time when the solution is validated, which is the point in time when the Company can objectively determine that the agreed-upon specifications in the contract have been met and the customer will accept the performance obligations in the arrangement.
+If the Company can objectively determine that control of a good or service has been transferred to the customer in accordance with the agreed-upon specifications in the contract, then customer acceptance is a formality.
+For the Company’s standard products and services, revenue recognition and billing typically occur at the same time.
+The Company's contracts have an original expected duration of less than one year, and therefore as a practical expedient, the Company has elected to ignore the impact of the time value of money on a contract and to expense sales commissions.
+The Company recognizes an asset for costs to fulfill a contract if the costs relate directly to the contract and to future performance, and the costs are expected to be recovered.
+Such judgments include, but are not limited to, assessing the customer’s ability and intention to pay substantially all of the contract consideration when due, determining when two or more contracts should be combined and accounted for as a single contract, determining whether a contract modification has occurred, assessing whether promises are immaterial in the context of the contract, determining whether material promises in a contract represent distinct performance obligations, estimating the transaction price for a contract that contains variable consideration, determining the stand-alone selling price of each performance obligation, determining whether control is transferred over time or at a point in time for performance obligations, and assessing whether formal customer acceptance provisions are substantive.
+For public companies, the guidance in ASU 2016-02 is effective for annual periods beginning after December 15, 2018, and interim periods within those annual periods.
+Although this ASU is required to be applied using a modified retrospective approach, the Financial Accounting Standards Board is reportedly in the final stages of issuing an optional transition method allowing entities to apply the amendments of this Update as a cumulative-effect adjustment to retained earnings.
+ASU 2016-13 applies to all reporting entities holding financial assets that are not accounted for at fair value through net income (debt securities).
+
+
+item2.txt
+In addition to product revenue derived from the sale of machine vision products, the Company also generates revenue by providing maintenance and support, consulting, and training services to its customers; however, service revenue accounted for less than 10% of total revenue for all periods presented.
+The Company’s customers are predominantly in the factory automation market.
+Customers in the consumer electronics and automotive industries contribute the largest percentage to the Company's factory automation revenue.
+On January 1, 2018, the Company adopted Accounting Standards Codification (ASC) 606, "Revenue from Contracts with Customers," using the full retrospective method to present all periods reported on a consistent basis.
+Gross margin as a percentage of revenue was 74% and 75% for the three-month and six-month periods in 2018, respectively, compared to 76% for both periods in 2017.
+Although a higher volume of products sold resulted in manufacturing efficiencies, this favorable impact was offset by a greater percentage of revenue related to application-specific customer solutions.
+The Company recorded foreign currency losses of $195,000 and $329,000 for the three-month and six-month periods in 2018, respectively, compared to foreign currency losses of $184,000 and $447,000 for the three-month and six-month period in 2017.
+The Company’s effective tax rate was an expense of 16% and 11% of pre-tax income for the three-month and six-month periods in 2018, respectively, compared to an expense of 9% of pre-tax income and a benefit of 1% of pre-tax income for the same periods in 2017.
+
+

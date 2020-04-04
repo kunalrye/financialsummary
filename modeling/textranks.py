@@ -37,11 +37,13 @@ def summarize_sections(full_doc_name, in_comp_dirpath, out_comp_dirpath, cluster
 
                 doc = open(os.path.join(in_comp_dirpath, filename)).read()
                 summarized_section = summa.summarizer.summarize(doc, ratio=0.5) # textrank!
-                if len(summarized_section.splitlines()) == 0:  # don't include empty summaries
+                summarized_lines = summarized_section.splitlines()
+                if len(summarized_lines) == 0:  # don't include empty summaries
                     continue
-
-                # only take as many sentences as we previously computed via cluster_sizes
-                section_summaries[section_identifier] = summarized_section[:sect_summary_len]
+                else:
+                    summarized_lines = summarized_lines[:sect_summary_len]
+                    # only take as many sentences as we previously computed via cluster_sizes
+                    section_summaries[section_identifier] = "\n".join(summarized_lines)
 
 
     ## concatenate all section summaries into a single string

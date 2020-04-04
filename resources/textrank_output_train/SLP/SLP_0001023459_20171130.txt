@@ -1,0 +1,49 @@
+fls.txt
+
+
+
+item1.txt
+This report on Form 10-Q for the quarter ended November 30, 2017, should be read in conjunction with the Company's annual report on Form 10-K for the year ended August 31, 2017, filed with the Securities and Exchange Commission (“SEC”) on November 14, 2017.
+On June 1, 2017, the Company consummated the acquisition of all outstanding equity interests of DILIsym pursuant to the terms of the Stock Agreement, with DILIsym becoming a wholly owned subsidiary of the Company.
+The Company designs and develops pharmaceutical simulation software to promote cost-effective solutions to a number of problems in pharmaceutical research and in the education of pharmacy and medical students, and it provides consulting services to the pharmaceutical and chemical industries.
+The consolidated financial statements include the accounts of Simulations Plus, Inc. and, as of September 2, 2014, its wholly owned subsidiary, Cognigen Corporation, and as of June 1, 2017, the accounts of DILIsym Services, Inc. All significant intercompany accounts and transactions are eliminated in consolidation.
+The Company provides, for a fee, additional training and service calls to its customers and recognizes revenue at the time the training or service call is provided.
+Generally, we enter into one-year license agreements with customers for the use of our pharmaceutical software products.
+For purposes of the statements of cash flows, the Company considers all highly liquid investments purchased with original maturities of three months or less to be cash equivalents.
+Amortization of capitalized software development costs is calculated on a product-by-product basis on the straight-line method over the estimated economic life of the products (not to exceed five years).
+Amortization of software development costs amounted to $285,310 and $284,217 for the three months ended November 30, 2017 and 2016, respectively.
+We expect future amortization expense to vary due to increases in capitalized computer software development costs.
+As of November 30, 2017, the Company determined that it has three reporting units, Simulations Plus, Cognigen Corporation, and DILIsym Services, Inc. When testing goodwill for impairment, the Company first performs a qualitative assessment to determine whether it is necessary to perform step one of a two-step annual goodwill impairment test for each reporting unit.
+The Company is required to perform step one only if it concludes that it is more likely than not that a reporting unit's fair value is less than its carrying value.
+Should this be the case, the first step of the two-step process is to identify whether a potential impairment exists by comparing the estimated fair values of the Company's reporting units with their respective book values, including goodwill.
+If the estimated fair value of the reporting unit exceeds book value, goodwill is considered not to be impaired, and no additional steps are necessary.
+
+
+item2.txt
+Through the integration of Cognigen into Simulations Plus, Simulations Plus became also a leading provider of population modeling and simulation contract research services for the pharmaceutical and biotechnology industries.
+Our clinical-pharmacology-based consulting services include pharmacokinetic and pharmacodynamic modeling, clinical trial simulations, data programming, and technical writing services in support of regulatory submissions.
+We have also developed software for harnessing cloud-based computing in support of modeling and simulation activities and secure data archiving, and we provide consulting services to improve interdisciplinary collaborations and research and development productivity.
+We believe the combination of Simulations Plus and DILIsym provides substantial future potential based on the complementary strengths of each of the companies.
+The acquisition of DILIsym positions the Company as the leading provider of Drug Induced Liver Injury (DILI) modeling and simulation software and contract research services.
+In addition to the DILIsym® software for analysis of potential drug-induced liver injury, DILIsym Services, Inc. also has developed a simulation program for analyzing nonalcoholic fatty liver disease (NAFLD) called NAFLDsym™.
+The difference between DILIsym and NAFLDsym is that DILIsym estimates the potential for a particular drug molecule to induce liver injury (i.e., to cause damage), while NAFLDsym estimates the likelihood of new molecules to treat nonalcoholic fatty liver disease (i.e., to repair damage), and is unique to the mechanisms involved in such treatment.
+As such, DILIsym can be a single program that addresses a wide variety of molecules across various companies, while NAFLDsym requires customizing the software for each mechanism of action.
+Both the DILIsym and NAFLDsym software programs require outputs from physiologically based pharmacokinetics (PBPK) software as inputs.
+The GastroPlus™ PBPK software from Simulations Plus provides such information; thus, the integration of these technologies will provide a seamless capability for analyzing the potential for drug-induced liver injury for new drug compounds and for investigating the potential for new therapeutic agents to treat nonalcoholic fatty liver disease.
+We are a global leader focused on improving the ways scientists use knowledge and data to predict the properties and outcomes of pharmaceutical and biotechnology agents, and are one of only two global companies who provide a wide range of preclinical and clinical consulting services and software.
+Our innovations in integrating new and existing science in medicinal chemistry, computational chemistry, pharmaceutical science, biology, physiology, and machine learning into our software have made us the leading software provider for PBPK modeling and simulation and for prediction of molecular properties from structure.
+
+
+item3.txt
+
+
+
+item4.txt
+Item 4.
+
+
+part2.txt
+Item 2.Changes in Securities 
+Item 3.Defaults Upon Senior Securities 
+
+

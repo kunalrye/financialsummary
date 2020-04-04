@@ -1,0 +1,46 @@
+item1.txt
+Except for the accounting policy for leases, which was updated as a result of adopting a new accounting standard related to leases, there have been no material changes to our significant accounting policies in Note 1 - Organization and Summary of Significant Accounting Policies, of the Notes to the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019.
+Operating leases with lease terms of more than 12 months are included in operating lease assets, accrued and other current liabilities, and long-term operating lease liabilities on our consolidated balance sheet.
+Operating lease assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments over the lease term.
+Operating lease assets and liabilities are recognized based on the present value of the remaining lease payments discounted using our incremental borrowing rate.
+Operating lease assets also include initial direct costs incurred and prepaid lease payments, minus any lease incentives.
+We combine the lease and non-lease components in determining the operating lease assets and liabilities.
+We operate on a 52- or 53-week year, ending on the last Sunday in January.
+The second quarters of fiscal years 2020 and 2019 were both 13-week quarters.
+Our condensed consolidated financial statements include the accounts of NVIDIA Corporation and our wholly-owned subsidiaries.
+The Financial Accounting Standards Board, or FASB, issued an accounting standards update regarding the accounting for leases under which lease assets and liabilities are recognized on the balance sheet.
+We adopted this guidance on January 28, 2019 using the optional transition method by recognizing a cumulative-effect adjustment to the consolidated balance sheet.
+The standard will be effective for us beginning in the first quarter of fiscal year 2021, with early adoption permitted.
+Note 2 - Merger Agreement with Mellanox Technologies, Ltd. On March 10, 2019, we entered into an Agreement and Plan of Merger, or the Merger Agreement, with Mellanox Technologies Ltd., or Mellanox, pursuant to which we will acquire all of the issued and outstanding common shares of Mellanox for $125 per share in cash, representing a total enterprise value of approximately $6.9 billion as of the date of the Merger Agreement.
+
+
+item2.txt
+Revenue for the second quarter of fiscal year 2020 decreased 17% year over year and increased 16% sequentially.
+GPU business revenue was $2.10 billion, down 21% from a year earlier and up 4% sequentially.
+Tegra Processor business revenue - which includes Automotive, SOC modules for gaming platforms, and embedded edge AI platforms - was $475 million, up 2% from a year ago and up 140% sequentially.
+From a market-platforms perspective, Gaming revenue was $1.31 billion, down 27% from a year ago and up 24% sequentially.
+The year-on-year decrease reflects a decline in shipments of gaming desktop GPUs and SOC modules for gaming platforms, partially offset by growth in gaming notebook GPUs. The sequential increase reflects growth from SOC modules for gaming platforms, gaming notebook GPUs, and GeForce RTX SUPER gaming GPUs. Professional Visualization revenue was $291 million, up 4% from a year earlier and up 9% sequentially.
+Automotive revenue of $209 million was up 30% from a year earlier and up 26% sequentially.
+The year-on-year and sequential growth was primarily driven by a development services agreement in the second quarter of fiscal year 2020.
+Income from operations for the second quarter of fiscal year 2020 was $571 million, down 51% from a year earlier and up 59% sequentially.
+Net income and net income per diluted share for the second quarter of fiscal year 2020 were $552 million and $0.90, respectively, down 50% and 49%, respectively, from a year earlier, and up 40% and 41%, respectively, sequentially.
+The year-on-year decrease reflects lower revenue and gross margin, and higher operating expenses.
+We previously communicated our intent to return $3.00 billion to shareholders by the end of fiscal year 2020, including $700 million in share repurchases made during the fourth quarter of fiscal year 2019.
+In the first half of fiscal year 2020, we returned $195 million in quarterly cash dividends.
+We do not expect to repurchase shares prior to the close of the acquisition of Mellanox Technologies, Ltd., or Mellanox, and therefore the intended repurchases may extend into fiscal year 2021.
+During the second quarter of fiscal year 2020, in our Automotive platform, Volvo Group announced that it is using the NVIDIA DRIVE end-to-end autonomous driving platform to train networks in the data center, test them in simulation, and deploy them in self-driving vehicles, targeting freight transport, refuse and recycling collection, public transport, construction, mining, forestry and more.
+
+
+item3.txt
+
+
+
+item4.txt
+
+
+
+part2.txt
+Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019 for a prior discussion of our legal proceedings.
+Refer to the description of the risk factors associated with our business previously disclosed in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 27, 2019.
+
+

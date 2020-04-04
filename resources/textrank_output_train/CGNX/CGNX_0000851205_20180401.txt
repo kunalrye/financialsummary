@@ -1,0 +1,33 @@
+item1.txt
+The Company identifies performance obligations as promises in contracts to transfer distinct goods or services.
+Standard products and services that the Company regularly sells separately are accounted for as distinct performance obligations.
+Shipping and handling activities for which the Company is responsible under the terms and conditions of the sale are not accounted for as performance obligations but as fulfillment costs.
+These activities are required to fulfill the Company’s promise to transfer the good and are expensed when revenue is recognized.
+The Company determines the transaction price as the amount of consideration it expects to receive in exchange for transferring promised goods or services to the customer.
+The Company allocates the transaction price to each performance obligation at contract inception based on a relative stand-alone selling price basis, or the price at which the Company would sell the good or service separately to similar customers in similar circumstances.
+The Company recognizes revenue when it transfers the promised goods or services to the customer.
+Revenue for application-specific customer solutions is recognized at the point in time when the solution is validated, which is the point in time when the Company can objectively determine that the agreed-upon specifications in the contract have been met and the customer will accept the performance obligations in the arrangement.
+If the Company can objectively determine that control of a good or service has been transferred to the customer in accordance with the agreed-upon specifications in the contract, then customer acceptance is a formality.
+For the Company’s standard products and services, revenue recognition and billing typically occur at the same time.
+The Company's contracts have an original expected duration of less than one year, and therefore as a practical expedient, the Company has elected to ignore the impact of the time value of money on a contract and to expense sales commissions.
+The Company recognizes an asset for costs to fulfill a contract if the costs relate directly to the contract and to future performance, and the costs are expected to be recovered.
+Such judgments include, but are not limited to, assessing the customer’s ability and intention to pay substantially all of the contract consideration when due, determining when two or more contracts should be combined and accounted for as a single contract, determining whether a contract modification has occurred, assessing whether promises are immaterial in the context of the contract, determining whether material promises in a contract represent distinct performance obligations, estimating the transaction price for a contract that contains variable consideration, determining the stand-alone selling price of each performance obligation, determining whether control is transferred over time or at a point in time for performance obligations, and assessing whether formal customer acceptance provisions are substantive.
+For public companies, the guidance in ASU 2016-02 is effective for annual periods beginning after December 15, 2018, and interim periods within those annual periods.
+ASU 2016-13 applies to all reporting entities holding financial assets that are not accounted for at fair value through net income (debt securities).
+The amendments in this Update eliminate the probable initial recognition threshold to recognize a credit loss under current U.S. GAAP and, instead, reflect an entity’s current estimate of all expected credit losses.
+The amendments in this Update require that credit losses on available-for-sale debt securities be presented as an allowance rather than as a write-down and an entity will be able to record reversals of credit losses in current period net income.
+For public companies, the guidance in ASU 2016-13 is effective for annual periods beginning after December 15, 2019, and interim periods within those annual periods.
+ASU 2017-08 applies to all reporting entities that hold investments in callable debt securities that have an amortized cost basis in excess of the amount that is repayable by the issuer at the earliest call date (that is, at a premium).
+
+
+item2.txt
+In addition to product revenue derived from the sale of machine vision products, the Company also generates revenue by providing maintenance and support, consulting, and training services to its customers; however, service revenue accounted for less than 10% of total revenue for all periods presented.
+The Company’s customers are predominantly in the factory automation market.
+Customers in the consumer electronics and automotive industries contribute the largest percentage to the Company's factory automation revenue.
+A small percentage of the Company’s customers are in the semiconductor and electronics capital equipment market.
+On January 1, 2018, the Company adopted Accounting Standards Codification (ASC) 606, "Revenue from Contracts with Customers," using the full retrospective method to present all periods reported on a consistent basis.
+Revenue for the first quarter of 2018 totaled $169,567,000, representing an increase of 22% from the first quarter of 2017 driven primarily by strong sales in the logistics and automotive industries.
+The operating income margin was 20% of revenue in the first quarter of 2018 compared to 27% of revenue in the first quarter of 2017.
+A lower tax benefit related to stock option exercises than the prior year resulted in a net income margin of 22% of revenue in the first quarter of 2018 compared to 33% of revenue in the first quarter of 2017.
+
+
