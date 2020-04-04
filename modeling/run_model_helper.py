@@ -47,7 +47,7 @@ def summarize_sections(full_doc_name, in_comp_dirpath, out_comp_dirpath, cluster
                 ## desired length of the summary from this section
                 sect_summary_len = cluster_sizes[full_doc_name][section_identifier]
 
-                doc = open(os.path.join(in_comp_dirpath, filename)).read()
+                doc = open(os.path.join(in_comp_dirpath, filename),'r',encoding='utf-8').read()
                 if len(doc.splitlines()) == 0 or len(doc) == 0:
                     continue
 
