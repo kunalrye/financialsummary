@@ -2,7 +2,7 @@
 
 For convenience, `summarize_train_docs` and `summarize_test_docs` functions have been supplied so that a caller can apply a model to all files in the corpus
 
-These functions standardize and encapsulate the process of running every section individually through a model and concatenating the outputs of sections into a single summary. 
+*These functions standardize and encapsulate the process of running every section individually through a model and concatenating the outputs of sections into a single summary.* 
 
 To use these functions, write a wrapper function that calls your model, where the wrapper function follows the following signature (Java-style notation): 
 
