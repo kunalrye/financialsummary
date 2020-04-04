@@ -30,7 +30,7 @@ def calculate_cluster_dict_for_doc(in_comp_dirpath, full_doc_name):
     for root, dirs, files in os.walk(in_comp_dirpath):
         for fname in files:
             if full_doc_name in fname:
-                contents = open(os.path.join(in_comp_dirpath, fname)).read()
+                contents = open(os.path.join(in_comp_dirpath, fname),'r',encoding='utf-8').read()
                 total_lines += len(contents.splitlines())
                 num_sects += 1
 
@@ -40,7 +40,7 @@ def calculate_cluster_dict_for_doc(in_comp_dirpath, full_doc_name):
         for fname in files:
             if full_doc_name in fname:
                 proportion = 0
-                contents = open(os.path.join(in_comp_dirpath, fname)).read()
+                contents = open(os.path.join(in_comp_dirpath, fname),'r',encoding='utf-8').read()
                 lines = len(contents.splitlines())
 
                 sect_identifier = fname.split("_")[3]
