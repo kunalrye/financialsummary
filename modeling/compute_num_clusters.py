@@ -43,12 +43,10 @@ def calculate_cluster_dict_for_doc(in_comp_dirpath, full_doc_name):
                 contents = open(os.path.join(in_comp_dirpath, fname)).read()
                 lines = len(contents.splitlines())
 
-                if lines == 0: ## dont add entry for empty files
-                    continue
-
-
                 sect_identifier = fname.split("_")[3]
-                if num_sects == 1:
+                if lines == 0:
+                    proportion = 1
+                elif num_sects == 1:
                     proportion = 1
                 elif (sect_identifier == "item2"): # impart bias towards item 2
                     proportion = lines/total_lines + BIAS

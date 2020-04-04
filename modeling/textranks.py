@@ -9,7 +9,7 @@ are files that correspond to the summary for that quarter
 
 import summa
 import os
-from modeling.compute_num_clusters import calculate_cluster_sizes
+from modeling.compute_num_clusters import calculate_test_cluster_sizes, calculate_train_cluster_sizes
 
 
 
@@ -36,23 +36,12 @@ def summarize_sections(full_doc_name, in_comp_dirpath, out_comp_dirpath, cluster
                 sect_summary_len = cluster_sizes[full_doc_name][section_identifier]
 
                 doc = open(os.path.join(in_comp_dirpath, filename)).read()
-                num_sents = len(doc.splitlines())
-
-                print("sect summary len is " + str(sect_summary_len))
-                print("num sents is " + str(num_sents))
-                if num_sents == 0 or sect_summary_len == 0: # don't process empty sections
-                    continue
-                proportion = sect_summary_len / num_sents  # proportion of the section to summarize
-                summarized_section = summa.summarizer.summarize(doc, ratio=proportion) # textrank!
-                print(proportion)
-                if len(summarized_section.splitlines()) == 0:  # don't include non-standard summary
+                summarized_section = summa.summarizer.summarize(doc, ratio=0.5) # textrank!
+                if len(summarized_section.splitlines()) == 0:  # don't include empty summaries
                     continue
 
-                if len(summarized_section.splitlines()) > sect_summary_len + 2:
-                    print("summarized section length case is " + str(len(summarized_section.splitlines())))
-                    print("sect summary should have been " + str(sect_summary_len))
-
-                section_summaries[section_identifier] = summarized_section
+                # only take as many sentences as we previously computed via cluster_sizes
+                section_summaries[section_identifier] = summarized_section[:sect_summary_len]
 
 
     ## concatenate all section summaries into a single string
@@ -69,19 +58,22 @@ def summarize_sections(full_doc_name, in_comp_dirpath, out_comp_dirpath, cluster
     text_file.close()
 
 
-def summarize_docs():
+def summarize_docs(modifier):
     """
     Main function to summarize all 10Qs from the filtered input files
 
     Writes the summary to a textfile in the company folder located at resources/textranks/<company_code>
     :return: nothing
     """
-    cluster_sizes = calculate_cluster_sizes()
+    if modifier == "train":
+        cluster_sizes = calculate_train_cluster_sizes()
+    else:
+        cluster_sizes = calculate_test_cluster_sizes()
     print(cluster_sizes)
     processed = set()
 
-    input_dirpath = os.path.expanduser("../resources/legal_filter")
-    output_dirpath = os.path.expanduser(('../resources/textrank'))
+    input_dirpath = os.path.expanduser("../resources/legal_filter_" + modifier)
+    output_dirpath = os.path.expanduser(('../resources/textrank_output_' + modifier))
     for root, dirs, files in os.walk(input_dirpath):
         for comp_name in dirs:
             ## directory of a particular company
@@ -104,7 +96,14 @@ def summarize_docs():
                     print("processed " + full_doc_name)
 
 
-if __name__ == "__main__":
-    summarize_docs()
+def summarize_train_docs():
+    summarize_docs("train")
 
+def summarize_test_docs():
+    summarize_docs("test")
+
+
+if __name__ == "__main__":
+    summarize_train_docs()
+    summarize_test_docs()
 
