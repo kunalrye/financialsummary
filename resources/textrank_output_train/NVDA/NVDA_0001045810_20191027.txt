@@ -1,0 +1,46 @@
+item1.txt
+Except for adopting a new accounting standard related to leases, there have been no material changes to our significant accounting policies in Note 1 - Organization and Summary of Significant Accounting Policies, of the Notes to the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019.
+Operating leases with lease terms of more than 12 months are included in operating lease assets, accrued and other current liabilities, and long-term operating lease liabilities on our consolidated balance sheet.
+Operating lease assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments over the lease term.
+Operating lease assets and liabilities are recognized based on the present value of the remaining lease payments discounted using our incremental borrowing rate.
+Operating lease assets also include initial direct costs incurred and prepaid lease payments, minus any lease incentives.
+We combine the lease and non-lease components in determining the operating lease assets and liabilities.
+Our condensed consolidated financial statements include the accounts of NVIDIA Corporation and our wholly-owned subsidiaries.
+The Financial Accounting Standards Board, or FASB, issued an accounting standards update regarding the accounting for leases under which lease assets and liabilities are recognized on the balance sheet.
+We adopted this guidance on January 28, 2019 using the optional transition method by recognizing a cumulative-effect adjustment to the consolidated balance sheet.
+We will be required to use a forward-looking expected credit loss model for accounts receivable and other financial instruments, including available-for-sale debt securities.
+We expect to adopt the standard using the modified retrospective transition method beginning in the first quarter of fiscal year 2021.
+Note 2 - Acquisition of Mellanox Technologies, Ltd. On March 10, 2019, we entered into an Agreement and Plan of Merger, or the Merger Agreement, with Mellanox Technologies Ltd., or Mellanox, pursuant to which we will acquire all of the issued and outstanding common shares of Mellanox for $125 per share in cash, representing a total enterprise value of approximately $6.9 billion as of the date of the Merger Agreement.
+If the Merger Agreement is terminated under certain circumstances involving the failure to obtain the required regulatory approvals, we could be obligated to pay Mellanox a termination fee of $350 million.
+
+
+item2.txt
+GPU business revenue was $2.56 billion, down 8% from a year earlier and up 22% sequentially.
+Tegra Processor business revenue - which includes Automotive, SOC modules for gaming platforms, and embedded edge AI platforms - was $449 million, up 10% from a year ago and down 5% sequentially.
+From a market platforms perspective, Gaming revenue was $1.66 billion, down 6% from a year ago and up 26% sequentially.
+The year-on-year decrease reflects lower sales of GeForce desktop GPUs from the prior year which included the launch of Turing-based GeForce GPUs, partially offset by growth in GeForce notebook GPUs and SOC modules for gaming platforms.
+The sequential increase reflects growth primarily from GeForce desktop and notebook GPUs. Professional Visualization revenue was $324 million, up 6% from a year earlier and up 11% sequentially.
+The year-on-year and sequential growth reflect strength in mobile workstation products.
+Automotive revenue of $162 million was down 6% from a year earlier and down 22% sequentially.
+The year-on-year decrease reflects lower revenue from legacy infotainment modules and autonomous vehicle solutions, partially offset by growth in AI cockpit solutions.
+OEM and Other revenue was $143 million, down 3% from a year ago and up 29% sequentially.
+Gross margin for the third quarter of fiscal year 2020 was 63.6%, up 320 basis points from a year earlier and up 380 basis points sequentially.
+The year-on-year and sequential increases are primarily driven by improved margins on GeForce GPUs for gaming reflecting the sale of previously written-off components and lower component costs.
+The sequential increase also reflects higher average selling prices for GeForce GPUs. Income from operations for the third quarter of fiscal year 2020 was $927 million, down 12% from a year earlier and up 62% sequentially.
+Net income and net income per diluted share for the third quarter of fiscal year 2020 were $899 million and $1.45, respectively, down 27% and 26%, respectively, from a year earlier, and up 63% and 61%, respectively, sequentially.
+
+
+item3.txt
+
+
+
+item4.txt
+
+
+
+part2.txt
+Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019 for a prior discussion of our legal proceedings.
+Refer to the description of the risk factors associated with our business previously disclosed in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 27, 2019.
+Other than the risk factors listed below, there have been no material changes from the risk factors previously described under Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 27, 2019 and Item 1A of our Quarterly Report on Form 10-Q for the quarter ended April 28, 2019.
+
+

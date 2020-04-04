@@ -44,7 +44,11 @@ def calculate_cluster_dict_for_doc(in_comp_dirpath, full_doc_name):
                 lines = len(contents.splitlines())
 
                 sect_identifier = fname.split("_")[3]
-                if (sect_identifier == "item2"): # impart bias towards item 2
+                if lines == 0:
+                    proportion = 1
+                elif num_sects == 1:
+                    proportion = 1
+                elif (sect_identifier == "item2"): # impart bias towards item 2
                     proportion = lines/total_lines + BIAS
                 else:
                     # subtract the BIAS equally from every other section
@@ -55,9 +59,7 @@ def calculate_cluster_dict_for_doc(in_comp_dirpath, full_doc_name):
     return cluster_sizes
 
 
-
-
-def calculate_cluster_sizes():
+def calculate_cluster_sizes(input_dirpath):
     """
     Creates a mapping from the 10Q name (which is the filename without the section idenfitifer) to an inner
     dictionary that specifies the number of clusters for each section in that 10Q
@@ -68,7 +70,6 @@ def calculate_cluster_sizes():
     """
     doc_groups = defaultdict(dict) ## maps a document to an inner mapping of section identifier -> num clusters
     processed = set()
-    input_dirpath = os.path.expanduser("../resources/legal_filter")
     for root, dirs, files in os.walk(input_dirpath):
         for comp_name in dirs:
             ## directory of a particular company
@@ -89,9 +90,23 @@ def calculate_cluster_sizes():
     return doc_groups
 
 
-if __name__ == "__main__":
-    print(calculate_cluster_sizes())
+def calculate_train_cluster_sizes():
+    """
+    Calculates cluster sizes for documents of the training companies
+    :return: a dictionary with the structure in calculate_cluster_sizes above
+    """
+    return calculate_cluster_sizes(os.path.expanduser("../resources/legal_filter_train"))
 
+def calculate_test_cluster_sizes():
+    """
+    Calculates cluster sizes for documents of the testing companies
+    :return: a dictionary with the structure in calculate_cluster_sizes above
+    """
+    return calculate_cluster_sizes(os.path.expanduser("../resources/legal_filter_test"))
+
+if __name__ == "__main__":
+    print(calculate_train_cluster_sizes())
+    print(calculate_test_cluster_sizes())
 
 
 

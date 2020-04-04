@@ -1,0 +1,49 @@
+fls.txt
+"Management's Discussion and Analysis of Financial Condition and Results of Operations" should be read in conjunction with the unaudited interim Consolidated Financial Statements and the related notes included elsewhere in this report and with the audited Consolidated Financial Statements and the related notes included in the Company's Annual Report on Form 10-K for the year ended December 31, 2017.
+
+
+item1.txt
+CDW Corporation ("Parent") is a Fortune 500 company with multi-national capabilities and a leading provider of integrated information technology ("IT") solutions to small, medium and large business, government, education and healthcare customers in the United States ("US"), the United Kingdom ("UK") and Canada.
+Throughout this report, the terms the "Company" and "CDW" refer to Parent and its 100% owned subsidiaries.
+Effective January 1, 2018, the Company adopted the requirements of Topic 606 utilizing the full retrospective method as discussed in Note 2 (Recent Accounting Pronouncements).
+The Company considers these service-type warranties to be separate performance obligations from the underlying product.
+For service-type warranties, the Company is arranging for those services to be provided by the third-party and therefore is acting as an agent in the transaction and records revenue on a net basis at the point of sale.
+Revenues from most software license sales are recognized as a single performance obligation on a gross basis as the Company is acting as a principal in these transactions at the point the software license is delivered to the customer.
+The Company evaluates whether the software assurance is a separate performance obligation by assessing if the third-party delivered software assurance is critical or essential to the core functionality of the software itself.
+If the Company determines that the accompanying third-party delivered software assurance is critical or essential to the core functionality of the software license, the software license and the accompanying third-party delivered software assurance are recognized as a single performance obligation.
+The value of the product is primarily the accompanying support delivered by a third-party and therefore the Company is acting as an agent in these transactions and recognizes them on a net basis at the point the associated software license is delivered to the customer.
+For software licenses where the accompanying third-party delivered software assurance is not critical or essential to the core functionality, the software assurance is recognized as a separate performance obligation, with the associated revenue recognized on a net basis at the point the related software license is delivered to the customer.
+The Company sells cloud computing solutions, which include Software as a Service ("SaaS") and Infrastructure as a Service ("IaaS").
+SaaS solutions utilize third-party partners to offer the Company's customers access to software in the cloud that enhances office productivity, provides security or assists in collaboration.
+The Company recognizes revenue for cloud computing solutions for arrangements with one-time invoicing to the customer at the time of invoice on a net basis as the Company is acting as an agent in the transaction.
+For monthly subscription-based arrangements, the Company is acting as an agent in the transaction and recognizes revenue as it invoices the customer for its monthly usage on a net basis.
+
+
+item2.txt
+We believe that the most important of these measures and ratios include average daily sales, gross margin, operating margin, Net income, Non-GAAP income before income taxes, Non-GAAP net income, Net income per common share, Non-GAAP net income per diluted share, EBITDA, Adjusted EBITDA, Adjusted EBITDA margin, free cash flow, return on working capital, Cash and cash equivalents, net working capital, cash conversion cycle (defined to be days of sales outstanding in Accounts receivable plus days of supply in Inventory minus days of purchases outstanding in Accounts payable, based on a rolling three-month average), debt levels including available credit and leverage ratios, sales per coworker and coworker turnover.
+Total Net sales for the three months ended June 30, 2018 increased $294 million, or 7.6%, to $4,186 million, compared to $3,892 million for the three months ended June 30, 2017.
+For the three months ended June 30, 2018, ongoing focus on client device refresh across all customer-end markets, except Federal, coupled with strong results from our international operations, drove Net sales growth.
+Corporate segment Net sales for the three months ended June 30, 2018 increased $154 million, or 9.7%, compared to the three months ended June 30, 2017.
+Small Business segment Net sales for the three months ended June 30, 2018 increased by $15 million, or 4.6%, between periods.
+Gross profit increased $55 million, or 8.6%, to $696 million for the three months ended June 30, 2018, compared to $641 million for the three months ended June 30, 2017.
+As a percentage of Net sales, Gross profit margin increased 10 basis points to 16.6% for the three months ended June 30, 2018.
+Selling and administrative expenses increased $17 million, or 4.9%, to $381 million for the three months ended June 30, 2018, compared to $364 million for the three months ended June 30, 2017.
+This was driven by higher sales payroll costs, including sales commissions primarily due to higher Gross profit dollars, partially offset by lower equity-based compensation expense and the associated payroll taxes due to the vesting in the prior year of an equity grant made at the time of our initial public offering.
+As a percentage of total Net sales, Selling and administrative expenses decreased 20 basis points to 9.1% during the three months ended June 30, 2018, down from 9.3% in the three months ended June 30, 2017.
+Income from operations was $266 million for the three months ended June 30, 2018, an increase of $35 million, or 15.1%, compared to $231 million for the three months ended June 30, 2017.
+Income from operations increased primarily due to higher gross profit dollars, partially offset by higher sales payroll expenses.
+
+
+item3.txt
+
+
+
+item4.txt
+Item 4.
+
+
+part2.txt
+Item 1.
+Legal Proceedings
+
+

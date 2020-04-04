@@ -1,0 +1,33 @@
+item1.txt
+The Company accounts for leases in accordance with Accounting Standard Codification (ASC) 842, "Leases." The core principle of ASC 842 is that a lessee should recognize on the balance sheet the assets and liabilities that arise from leases.
+The Company determines whether a contract contains a lease by assessing whether there is an identified asset and whether the contract conveys the right to control the use of the identified asset for a period of time in exchange for consideration.
+As a practical expedient, the Company does not recognize a lease asset or lease liability for leases with a lease term of 12 months or less.
+In the determination of the lease term, the Company considers the existence of extension or termination options and the probability of those options being exercised.
+The lease liability equals the present value of the future cash payments discounted using the Company's incremental borrowing rate.
+The Company’s incremental borrowing rate is the rate of interest that the Company would have to pay to borrow an amount equal to the lease payments over a similar term, which is the three-month London Interbank Offered Rate (LIBOR) plus a 2.5% credit risk spread.
+Operating lease expense equals the total cash payments recognized on a straight-line basis over the lease term.
+The amortization of the lease asset is calculated as the straight-line lease expense less the accretion of the interest on the lease liability each period.
+The lease liability is reduced by the cash payment less the interest each period.
+ASU 2016-13 applies to all reporting entities holding financial assets that are not accounted for at fair value through net income (debt securities).
+The amendments in this ASU require that credit losses on available-for-sale debt securities be presented as an allowance rather than as a write-down and an entity will be able to record reversals of credit losses in current period net income.
+For public companies, the guidance in ASU 2016-13 is effective for annual periods beginning after December 15, 2019, and interim periods within those annual periods.
+The amendments in this ASU shorten the amortization period for certain callable debt securities held at a premium.
+The amendments in this ASU more closely align the amortization period of premiums and discounts to expectations incorporated in market pricing on the underlying securities.
+For public companies, the amendments in ASU 2017-08 are effective for annual periods beginning after December 15, 2019 and interim reporting periods within annual years beginning after December 15, 2020.
+This ASU should be applied on a modified retrospective basis through a cumulative-effect adjustment directly to retained earnings as of the beginning of the period of adoption, and, in the period of adoption, the entity is required to provide disclosures about the change in accounting principle.
+Accordingly, the amendments in this ASU require an entity in a hosting arrangement that is a service contract to follow the guidance in Subtopic 350-40 to determine which implementation costs to capitalize as an asset related to the service contract and which costs to expense.
+The Company did not record an other-than-temporary impairment of these financial assets during the three-month or six-month periods ended June 30, 2019 and July 1, 2018.
+
+
+item2.txt
+In addition to product revenue derived from the sale of machine vision products, the Company also generates revenue by providing maintenance and support, consulting, and training services to its customers; however, service revenue accounted for less than 10% of total revenue for all periods presented.
+Virtually every manufacturer can achieve better quality and manufacturing efficiency by using machine vision, and therefore, Cognex products are used by a broad base of customers across a variety of industries, including consumer electronics, automotive, consumer products, food and beverage, pharmaceuticals, and medical devices.
+Sales to customers based in Europe decreased by 16% for the three-month period and 6% for the six-month period, with changes in foreign currency exchange rates accounting for approximately 6 percentage points of the decrease in both periods.
+On a constant-currency basis, sales to customers based in Europe decreased by 10% for the three-month period and were relatively flat for the six-month period.
+Lower sales in the consumer electronics industry drove the decrease in both periods, which was offset by higher sales in the logistics industry for the six-month period.
+Sales to customers based in Greater China decreased by 13% for the three-month period and 14% for the six-month period, with changes in foreign currency exchange rates accounting for approximately 6 percentage points of the decrease in both periods.
+On a constant-currency basis, sales to customers based in Greater China decreased by 7% for the three-month period and 8% for the six-month period.
+Sales to customers based in other regions in Asia decreased by 7% for the three-month period and 6% for the six-month period.
+The decline for both periods in Greater China and other Asia was due to lower sales in the consumer electronics industry.
+
+
