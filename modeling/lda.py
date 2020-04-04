@@ -57,38 +57,45 @@ def prepare_text_for_lda(text):
     tokens = [get_lemma(token) for token in tokens]
     return tokens
 
-all_tokens = list()
-def do_lda(text, NUM_SENTS):
+
+def do_lda(doc_text, NUM_SENTS):
     '''
     trains an lda model on the text and performs local lda to determine which sentences contain a majority of the topics
     '''
-    for line in text:
-        all_tokens.append(prepare_text_for_lda(line))
-    dictionary = corpora.Dictionary(all_tokens)
-    corpus = [dictionary.doc2bow(text) for text in all_tokens]
+    text= doc_text.splitlines()
+    if(len(text) < NUM_SENTS):
+        return(text)
+    else:
+        all_tokens = list()
+        for line in text:
+            all_tokens.append(prepare_text_for_lda(line))
+        dictionary = corpora.Dictionary(all_tokens)
+        corpus = [dictionary.doc2bow(text) for text in all_tokens]
 
-    pickle.dump(corpus, open('corpus.pkl', 'wb'))
-    dictionary.save('dictionary.gensim')
-    NUM_TOPICS = 5
-    ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics=NUM_TOPICS, id2word=dictionary, passes=15)
-    ldamodel.save('model5.gensim')
-    topics = ldamodel.print_topics(num_words=4)
-    for topic in topics:
-        print(topic)
+        pickle.dump(corpus, open('corpus.pkl', 'wb'))
+        dictionary.save('dictionary.gensim')
+        NUM_TOPICS = 5
+        ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics=NUM_TOPICS, id2word=dictionary, passes=15)
+        ldamodel.save('model5.gensim')
+        topics = ldamodel.print_topics(num_words=4)
+        maxes = list()
+        lda_sents = list()
+        for line in text:
+            new_doc = prepare_text_for_lda(line)
+            new_doc_bow = dictionary.doc2bow(new_doc)
+            max_sim = np.max([two for one, two in ldamodel.get_document_topics(new_doc_bow)])
+            maxes.append(max_sim)
+        cutoff = np.sort(maxes)[NUM_SENTS]
+        ## This is a really inefficient way to do this, but it works well
+        for line in text:
+            new_doc = prepare_text_for_lda(line)
+            new_doc_bow = dictionary.doc2bow(new_doc)
+            max_sim = np.max([two for one, two in ldamodel.get_document_topics(new_doc_bow)])
+            if max_sim > cutoff:
+                lda_sents.append(line)
+        return (lda_sents)
 
-    maxes = list()
-    lda_sents = list()
-    for line in text:
-        new_doc = prepare_text_for_lda(line)
-        new_doc_bow = dictionary.doc2bow(new_doc)
-        max_sim = np.max([two for one, two in ldamodel.get_document_topics(new_doc_bow)])
-        maxes.append(max_sim)
-    cutoff = np.sort(maxes)[NUM_SENTS]
-    ## This is a really inefficient way to do this, but it works well
-    for line in text:
-        new_doc = prepare_text_for_lda(line)
-        new_doc_bow = dictionary.doc2bow(new_doc)
-        max_sim = np.max([two for one, two in ldamodel.get_document_topics(new_doc_bow)])
-        if max_sim > cutoff:
-            lda_sents.append(line)
-    return (lda_sents)
+## Example Code
+# if __name__ == '__main__':
+#     with open('../resources/legal_filter_train\XRX\XRX_0000108772_20180331_item1.txt','r',encoding='utf-8') as f:
+#         sents = do_lda(f.read(),10)

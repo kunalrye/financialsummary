@@ -142,7 +142,7 @@ def unfilteredTxtToString(idx):
     Arguments:
         idx {int} -- int corresponding to the line number on the links.txt text file. 
         Note that idx should be 1-indexed, as 0-indexing is handled internally. 
-    
+
     Returns:
         [string] -- the contents of the unfiltered 10Q text file 
     """
@@ -152,10 +152,6 @@ def unfilteredTxtToString(idx):
         print(fname)
         txt_file_as_string = f.read()
     return txt_file_as_string
-
-
-
-
 
 if __name__ == "main":
     random.seed(15)  # set rng seed for reproducibility
