@@ -1,7 +1,7 @@
 '''
-Applies the text rank model to summarize the filtered files
+Applies a supplied model to summarize the filtered files
 
-Output of the model can be found in resources/textrank,
+Output of the model can be found in resources/<model_name>,
 which contains a directory for each company. Within each directory
 are files that correspond to the summary for that quarter
 
@@ -10,9 +10,10 @@ are files that correspond to the summary for that quarter
 import summa
 import os
 from modeling.compute_num_clusters import calculate_test_cluster_sizes, calculate_train_cluster_sizes
+from preprocessing.train_test_split import get_train_test
 from typing import Callable, List
 import math
-
+import sys
 
 def by_key(item):
     # for iterating by sorted value so that sections are in alphabetical order
@@ -77,7 +78,7 @@ def summarize_docs(modifier, model_func: Callable[[str, int], List[str]], model_
     """
     Main function to summarize all 10Qs from the filtered input files
 
-    Writes the summary to a textfile in the company folder located at resources/textranks/<company_code>
+    Writes the summary to a textfile in the company folder located at resources/<model_name_output>/<company_code>
     :return: nothing
     """
     if modifier == "train":
@@ -109,3 +110,53 @@ def summarize_docs(modifier, model_func: Callable[[str, int], List[str]], model_
                     # the first time we see a section from a 10Q, we just process all sections of the 10Q at once
                     processed.add(full_doc_name)
                     print("processed " + full_doc_name)
+
+
+def summarize_docs_for_company(company: str, model_func: Callable[[str, int], List[str]], model_name: str, update: bool):
+    """
+    Main function to summarize all 10Qs from the filtered input files
+
+    Writes the summary to a textfile in the company folder located at resources/<model_name_output>/<company_code>
+    :return: nothing
+    """
+
+    train_comps, test_comps = get_train_test()
+    if company in train_comps:
+        modifier = "train"
+        cluster_sizes = calculate_train_cluster_sizes()
+    elif company in test_comps:
+        modifier = "test"
+        cluster_sizes = calculate_test_cluster_sizes()
+    else:
+        sys.exit("error: company code " + company + " not found")
+
+
+    processed = set()
+
+    input_dirpath = os.path.expanduser("../resources/legal_filter_" + modifier)
+    output_dirpath = os.path.expanduser(('../resources/' + model_name + '_output_subset_' + modifier))
+    for root, dirs, files in os.walk(input_dirpath):
+        for comp_name in dirs:
+            ## directory of a particular company
+            if company != comp_name:
+                continue
+
+            out_comp_dirpath = os.path.join(output_dirpath, comp_name)
+            in_comp_dirpath = os.path.join(input_dirpath, comp_name)
+            if not os.path.exists(out_comp_dirpath):
+                os.makedirs(out_comp_dirpath)
+
+            for root2, dirs2, files2 in os.walk(in_comp_dirpath):
+                for filename in files2:
+                    comps = filename.split("_")
+                    full_doc_name = "_".join(comps[:3])
+
+                    if full_doc_name in processed:
+                        continue
+
+                    summarize_sections(full_doc_name, in_comp_dirpath, out_comp_dirpath, cluster_sizes, model_func, update)
+                    # the first time we see a section from a 10Q, we just process all sections of the 10Q at once
+                    processed.add(full_doc_name)
+                    print("processed " + full_doc_name)
+
+
