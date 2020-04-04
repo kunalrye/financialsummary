@@ -1,6 +1,6 @@
 # Modeling
 
-For convenience, `summarize_train_docs`, `summarize_test_docs`, and `summarize_company_docs` functions have been supplied in `run_model.py` so that a caller can apply a model to all files in the corpus
+For convenience, `summarize_train_docs`, `summarize_test_docs`, and `summarize_company_docs` functions have been supplied in `run_model.py` so that a caller can apply a model to some or all files in the corpus
 
 *These functions standardize and encapsulate the process of running every section individually through a model and concatenating the outputs of sections into a single summary.* 
 
