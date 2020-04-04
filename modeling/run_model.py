@@ -1,3 +1,11 @@
+"""
+Helper functions to apply a model to all text in our corpus -->
+The caller should supply a model_func that applies the model to a single section of a 10Q document
+(function signature specified below in the docstrings)
+
+The logic contained in these functions below will handle concatenating all the summarized sections into the complete
+summary for one document
+"""
 from modeling.run_model_helper import summarize_docs
 from typing import Callable, List
 
