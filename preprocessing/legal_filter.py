@@ -10,6 +10,7 @@ import numpy as np
 import os
 from nltk import tokenize
 from sklearn import metrics
+from preprocessing.train_test_split import get_train_test
 
 def file_to_sents(fname):
     """
@@ -53,11 +54,20 @@ def filter():
 
     ## iterate over all the files in the directory
     input_dirpath = os.path.expanduser("../resources/itemized")
-    output_dirpath = os.path.expanduser("../resources/legal_filter/")
+    output_train_dirpath = os.path.expanduser("../resources/legal_filter_train/")
+    output_test_dirpath = os.path.expanduser("../resources/legal_filter_test/")
+
+    train_comps, test_comps = get_train_test()
+
     for root, dirs, files in os.walk(input_dirpath):
         for comp_name in dirs:
             ## output directory name of the company
-            out_comp_dirpath = os.path.join(output_dirpath, comp_name)
+            out_comp_dirpath = ""
+            if comp_name in train_comps:
+                out_comp_dirpath = os.path.join(output_train_dirpath, comp_name)
+            else:
+                out_comp_dirpath = os.path.join(output_test_dirpath, comp_name)
+
             in_comp_dirpath = os.path.join(input_dirpath, comp_name)
             if not os.path.exists(out_comp_dirpath):
                 os.makedirs(out_comp_dirpath)
