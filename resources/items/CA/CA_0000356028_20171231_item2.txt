@@ -1,0 +1,734 @@
+Item 2: MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+
+
+Cautionary Statement Regarding Forward-Looking Statements
+
+
+
+This Quarterly Report on Form 10-Q (Form 10-Q) contains certain forward-looking information relating to CA, Inc. (which we refer to as the “Company,” “Registrant,” “CA Technologies,” “CA,” “we,” “our” or “us”), that is based on the beliefs of, and assumptions made by, our management as well as information currently available to management. When used in this Form 10-Q, the words “believes,” “plans,” “anticipates,” “expects,” “estimates,” “targets” and similar expressions relating to the future are intended to identify forward-looking information. Forward-looking information includes, for example, not only the statements relating to the future made in this Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A), but also statements relating to the future that appear in other parts of this Form 10-Q. This forward-looking information reflects our current views with respect to future events and is subject to certain risks, uncertainties and assumptions.
+
+
+
+The declaration and payment of future dividends by the Company is subject to the determination of the Company’s Board of Directors (the Board), in its sole discretion, after considering various factors, including the Company’s financial condition, historical and forecasted operating results, and available cash flow, as well as any applicable laws and contractual covenants and any other relevant factors. The Company’s practice regarding payment of dividends may be modified at any time and from time to time.
+
+
+
+Repurchases under the Company’s stock repurchase program may be made from time to time, subject to market conditions and other factors, in the open market, through solicited or unsolicited privately negotiated transactions or otherwise. The program does not obligate the Company to acquire any particular amount of common stock, and it may be modified or suspended at any time at the Company’s discretion.
+
+
+
+A number of important factors could cause actual results or events to differ materially from those indicated by such forward-looking statements, including: the ability to achieve success in the Company’s business strategy by, among other things, ensuring that any new offerings address the needs of a rapidly changing market while not adversely affecting the demand for the Company’s traditional products or the Company’s profitability to an extent greater than anticipated, enabling the Company’s sales force to accelerate growth of sales to new customers and expand sales with existing customers, including sales outside of the Company’s renewal cycle and to a broadening set of purchasers outside of traditional information technology operations (with such growth and expansion at levels sufficient to offset any decline in revenue and/or sales in the Company’s Mainframe Solutions segment and in certain mature product lines in the Company’s Enterprise Solutions segment), effectively managing the strategic shift in the Company’s business model to develop more easily installed software, provide additional Software-as-a-Service (SaaS) offerings and refocus the Company’s professional services and education engagements on those engagements that are connected to new product sales, without affecting the Company’s financial performance to an extent greater than anticipated, and effectively managing the Company’s pricing and other go-to-market strategies, as well as improving the Company’s brand, technology and innovation awareness in the marketplace; the failure to innovate or adapt to technological changes and introduce new software products and services in a timely manner; competition in product and service offerings and pricing; the ability of the Company’s products to remain compatible with ever-changing operating environments, platforms or third party products; global economic factors or political events beyond the Company’s control and other business and legal risks associated with global operations; the failure to expand partner programs and sales of the Company’s solutions by the Company’s partners; the ability to retain and attract qualified professionals; general economic conditions and credit constraints, or unfavorable economic conditions in a particular region, business or industry sector; the ability to successfully integrate acquired companies and products into the Company’s existing business; risks associated with sales to government customers; breaches of the Company’s data center, network and software products, and the IT environments of the Company’s business partners and customers; the ability to adequately manage, evolve and protect the Company’s information systems, infrastructure and processes; the failure to renew license agreement transactions on a satisfactory basis; fluctuations in foreign exchange rates; changes in generally accepted accounting principles, which includes adoption of revenue recognition requirements under Accounting Standards Codification Topic 606; discovery of errors or omissions in the Company’s software products or documentation and potential product liability claims; the failure to protect the Company’s intellectual property rights and source code; access to software licensed from third parties; risks associated with the use of software from open source code sources; third-party claims of intellectual property infringement and/or royalty payments; fluctuations in the number, terms and duration of the Company’s license agreements, as well as the timing of orders from customers and partners; potential tax liabilities; changes in market conditions or the Company’s credit ratings; events or circumstances that would require the Company to record an impairment charge relating to the Company’s goodwill or capitalized software and other intangible assets balances; successful and secure outsourcing of various functions to third parties; and other factors described more fully in this Form 10-Q and the Company’s other filings with the Securities and Exchange Commission. Should one or more of these risks or uncertainties occur, or should the Company’s assumptions prove incorrect, actual results may vary materially from the forward-looking information described in this Form 10-Q as believed, planned, anticipated, expected, estimated, targeted or similarly identified. The Company does not intend to update these forward-looking statements, except as otherwise required by law. Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date hereof. This MD&A is provided as a supplement to, and should be read in conjunction with, the Company’s financial statements and the accompanying notes to the financial statements. References in this Form 10-Q to fiscal 2018 and fiscal 2017 are to the Company’s fiscal years ending on March 31, 2018 and 2017, respectively.
+
+
+
+OVERVIEW 
+
+
+
+CA Technologies is a global leader in software solutions enabling customers to plan, develop, manage and secure applications and enterprise environments across distributed, cloud, mobile and mainframe platforms. Most of the Global Fortune 500, as well as many government agencies around the world, rely on CA to help manage their increasingly dynamic and complex environments.
+
+
+
+We have a broad portfolio of software solutions that we use to execute our business strategy and organize our offerings in Enterprise Solutions, Mainframe Solutions and Services operating segments.
+
+
+
+
+
+•Agile Management enables customers to plan, deliver and manage information technology (IT) and business services for their customers. Our solutions and Agile services enable customers to improve delivery time on projects, reduce costs and optimize resources.
+
+
+
+•DevOps is adjacent to Agile Management and is comprised of a range of solutions that allow customers to efficiently deliver and manage applications and IT infrastructure. With our portfolio of solutions, customers can reduce the delivery time of new applications, increase the frequency of new releases and dramatically improve quality. Our solutions enable complete end-to-end automation, which minimizes downtime and accelerates the application delivery process.
+
+
+
+•Security includes a comprehensive set of solutions that address the global imperative to minimize the risk of data breaches and alleviate the pressures faced by Chief Information Security Officers (CISOs) as a result of increasing information security regulations. Our solutions facilitate digital transformation by providing secure customer experiences, enabling a collaborative enterprise, empowering a digital workforce and securing the ‘Internet of Things.’ CA’s Security suite simplifies the complexity of managing the trusted digital relationships among people, devices, and applications both on-premise and in the cloud. Our solutions help to eliminate vulnerabilities during the development and deployment chain, which helps to lower cost and improve time-to-market.
+
+
+
+
+
+•DevOps solutions help customers increase the innovation velocity for mainframe applications and teams. We support agile development processes and modern languages, as well as tools for development, testing and deployment that support collaboration across the software development lifecycle and across mobile to mainframe teams.
+
+
+
+•Operations Intelligence and Automation solutions help customers adopt machine learning and bring more intelligence and automation to their mainframe operations. With machine learning, operations teams can proactively prevent problems, fix issues faster and get more done with fewer resources. We provide a unified view of the IBM z Systems performance across the infrastructure stack, including applications, middleware, networks, systems, storage and data.
+
+
+
+
+
+Our Services help customers reach their IT and business goals primarily by enabling the rapid implementation and adoption of our mainframe and enterprise solutions. Our professional services team consists of experienced professionals who provide a variety of services, such as consulting, implementation, application management services, education and support services, to both commercial and government customers.
+
+
+
+
+
+•Drive organic innovation. Our product development strategy is built around key growth areas, where we are focused on innovating and delivering differentiated products and solutions across both distributed and mainframe platforms.
+
+
+
+•Incubate technology for next generation products. We are researching and dedicating resources to the development of emerging technologies that are logical extensions of our core areas of focus. We are working on opportunities in areas such as containers, data analytics, big data and open source, some of which may enhance or extend our current product portfolio and others of which may evolve into new product categories.
+
+
+
+•Pursue new business models and expanded routes to market. While our traditional on-premise software delivery remains relevant to many enterprise customers, we see cloud-based and try-and-buy models as attractive to both our existing and potential customers. These models simplify decision-making and accelerate the value customers can derive from new solution investments.
+
+
+
+•Expand relationships with our global customer base and address opportunities with new and underserved customers. We are focused on maintaining and expanding the strong relationships with our established customer base, and will proactively target growth with other potential customers that we do not currently serve.
+
+
+
+•Execute strategic and disciplined technology acquisitions. We intend to supplement our organic innovation efforts with key technology acquisitions that are within or adjacent to our core areas of focus. We also focus on organically developing nascent technologies from companies we have acquired to endow them with the necessary interoperability, resilience and security to operate at scale in the large, heterogeneous IT environments utilized by our customers.
+
+
+
+EXECUTIVE SUMMARY
+
+
+
+
+
+
+
+Bookings
+
+
+
+•Total bookings decreased primarily due to a decline in renewal bookings. Excluding our Automic and Veracode acquisitions, total bookings decreased by a percentage in the high teens.
+
+
+
+•Renewal bookings decreased by a percentage in the high teens primarily due to the decline in Mainframe Solutions renewal bookings, which was attributable to the timing of our renewal portfolio. This decline in Mainframe Solutions renewal bookings was partially offset by renewal bookings associated with our Automic and Veracode acquisitions. Excluding our Automic and Veracode acquisitions, renewal bookings decreased by a percentage in the mid-20s.
+
+
+
+•Total new product sales increased by a percentage in the high single digits due to our Automic and Veracode acquisitions. Excluding our Automic and Veracode acquisitions, total new product sales decreased by a percentage in the high single digits primarily due to a lower level of renewals, which was attributable to the timing of our renewal portfolio, since renewals typically provide an increased opportunity to generate new product sales.
+
+
+
+•Mainframe Solutions new product sales decreased by a percentage in the low single digits primarily due to a lower level of renewals as discussed above.
+
+
+
+•Enterprise Solutions new product sales increased by a percentage in the mid-teens. Excluding our Automic and Veracode acquisitions, Enterprise Solutions new product sales decreased by a percentage in the high single digits primarily due to a decrease in our renewal portfolio, since renewals typically provide an increased opportunity to generate new product sales.
+
+
+
+•We expect fiscal 2018 renewal bookings to decrease by a percentage in the high teens compared with fiscal 2017 primarily due to the large system integrator transaction that occurred in the first quarter of fiscal 2017 with an incremental contract value in excess of $475 million.
+
+
+
+
+
+Income taxes
+
+
+
+•Income tax expense includes $318 million from preliminary estimates of the impact of changes in tax law in the United States resulting from the Tax Cuts and Jobs Act enacted on December 22, 2017 (the “Tax Act”).
+
+
+
+
+
+
+
+
+
+PERFORMANCE INDICATORS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Price changes do not have a material effect on revenue in the period they become effective as a result of our ratable subscription model.
+
+
+
+
+
+
+
+Our management looks within total bookings at renewal bookings, which we define as bookings attributable to the renewable value of a prior contract (i.e., the maintenance value and, in the case of non-perpetual licenses, the license value), and at total new product sales, which we define as sales of mainframe and enterprise solutions products and mainframe solutions capacity that are new or in addition to sales of products or mainframe solutions capacity previously contracted for by a customer. Renewal bookings, as we report them, do not include new product or capacity sales or professional services arrangements and are reflected as subscription and maintenance bookings in the period (for which revenue is recognized ratably over the term of the contract). Renewals can close before their scheduled renewal date for a number of reasons, including customer preference, customer needs for additional products or capacity, or at our request. The level of contracts closed prior to scheduled expiration dates and the reasons for such closings can vary from quarter to quarter. Generally, quarters with smaller renewal inventories result in a lower level of bookings, since renewals remain an important opportunity for new product sales.
+
+
+
+Mainframe Solutions new product sales and capacity growth can be inconsistent on both a quarterly and annual basis. We believe the period-over-period change in Mainframe Solutions new product sales and capacity combined is an appropriate measure of performance and, therefore, we provide only total Mainframe Solutions new sales information, which includes mainframe solutions capacity. The amount of new product sales for a period, as currently tracked by us, requires estimation by management and has been historically reported by providing only growth rate comparisons. Within a given period, the amount of new product sales may not be material to the change in our total bookings or revenue compared with prior periods. New product sales can be reflected as subscription and maintenance bookings in the period (for which revenue would be recognized ratably over the term of the contract) or in software fees and other bookings (which are recognized as software fees and other revenue in the current period).
+
+
+
+
+
+Within bookings, we also consider the yield on our renewals. We define “renewal yield” as the percentage of the renewable value of a prior contract (i.e., the maintenance value and, in the case of non-perpetual licenses, the license value) realized in current period bookings. The renewable value of a prior contract is an estimate affected by various factors including contractual renewal terms, price increases and other conditions. Price increases are not considered as part of the renewable value of the prior period contract. We estimate the aggregate renewal yield for a quarter based on a review of material transactions generally representing a majority of the dollar value of renewals during the current period. There may be no correlation between year-over-year changes in bookings and year-over-year changes in renewal yield, since renewal yield is based on the renewable value of contracts of various durations, most of which are longer than one year.
+
+
+
+The license and maintenance agreements that contribute to subscription and maintenance bookings represent binding payment commitments by customers over periods that range generally from three to five years, although in certain cases customer commitments can be for longer or shorter periods. These current period bookings are often renewals of prior contracts that also had various durations, usually from three to five years. The amount of new subscription and maintenance bookings recorded in a period is affected by the volume, duration and value of contracts renewed during that period. Subscription and maintenance bookings typically increase in each consecutive quarter during a fiscal year, with the first quarter having the least bookings and the fourth quarter having the most bookings. However, subscription and maintenance bookings may not always follow the pattern of increasing in consecutive quarters during a fiscal year, and the quarter-to-quarter differences in subscription and maintenance bookings may vary. Given the varying durations and dollar amounts of the contracts being renewed, year-over-year comparisons of bookings are not always indicative of the overall bookings trend.
+
+
+
+Additionally, period-to-period changes in subscription and maintenance bookings do not necessarily correlate to changes in cash receipts. The contribution to current period revenue from subscription and maintenance bookings from any single license or maintenance agreement is relatively small, since revenue is recognized ratably over the applicable term for these agreements.
+
+
+
+
+
+
+
+
+
+
+
+RESULTS OF OPERATIONS
+
+
+
+The following tables present revenue and expense line items reported in our Condensed Consolidated Statements of Operations for the third quarter and first nine months of fiscal 2018 and fiscal 2017, and the period-over-period dollar and percentage changes for those line items. These comparisons of past results are not necessarily indicative of future results.
+
+
+
+
+
+
+
+
+
+
+
+Revenue
+
+
+
+Total Revenue
+
+
+
+Total revenue for the third quarter of fiscal 2018 increased compared with the third quarter of fiscal 2017 primarily due to an increase in software fees and other revenue and, to a lesser extent, an increase in subscription and maintenance revenue. During the third quarter of fiscal 2018, total revenue included $68 million from our Automic and Veracode acquisitions, primarily included in software fees and other revenue. Excluding the revenue generated from our Automic and Veracode acquisitions, total revenue increased primarily due to a favorable foreign exchange effect of $19 million for the third quarter of fiscal 2018, and, to a lesser extent, an increase in revenue from our Enterprise Solutions products.
+
+
+
+Total revenue for the first nine months of fiscal 2018 increased compared with the first nine months of fiscal 2017 primarily due to an increase in software fees and other revenue. During the first nine months of fiscal 2018, total revenue included $182 million from our Automic and Veracode acquisitions, primarily included in software fees and other revenue. Excluding the revenue generated from our Automic and Veracode acquisitions, total revenue decreased primarily due to a decline in our Mainframe Solutions revenue and, to a lesser extent, a decline in revenue from our Enterprise Solutions products recognized on an upfront basis. There was a favorable foreign exchange effect of $17 million for the first nine months of fiscal 2018.
+
+
+
+In general, we treat acquired technologies as organic in the quarter of their one year anniversary date. Automic was acquired during the fourth quarter of fiscal 2017 and, as such, will be treated as organic in the fourth quarter of fiscal 2018. Since Veracode was acquired on the last day of fiscal 2017, it will be treated as organic in the first quarter of fiscal 2019.
+
+
+
+Subscription and Maintenance
+
+
+
+Subscription and maintenance revenue for the third quarter of fiscal 2018 increased compared with the third quarter of fiscal 2017 primarily due to $21 million of subscription and maintenance revenue generated from our Automic acquisition in the third quarter of fiscal 2018. There was a favorable foreign exchange effect of $14 million for the third quarter of fiscal 2018.
+
+
+
+Subscription and maintenance revenue for the first nine months of fiscal 2018 increased compared with the first nine months of fiscal 2017 due to $54 million of subscription and maintenance revenue generated from our Automic acquisition in the first nine months of fiscal 2018, partially offset by a decline in Mainframe Solutions revenue (refer to “Performance of Segments” below). There was a favorable foreign exchange effect of $12 million for the first nine months of fiscal 2018.
+
+
+
+Professional Services
+
+
+
+Professional services revenue primarily includes revenue derived from product implementation, consulting, customer education and customer training services. Professional services revenue for the third quarter of fiscal 2018 increased compared with the third quarter of fiscal 2017 primarily due to $6 million of professional services revenue generated from our Automic and Veracode acquisitions in the third quarter of fiscal 2018.
+
+
+
+Professional services revenue for the first nine months of fiscal 2018 increased compared with the first nine months of fiscal 2017 due to $21 million of professional services revenue generated from our Automic and Veracode acquisitions in the first nine months of fiscal 2018, partially offset by a decline in non-acquisition-related professional services engagements. The decline in non-acquisition-related professional services engagements was a result of several factors, including our products being easier to install and manage and an increase in customers’ use of partners for services engagements. For the long term, we expect new versions of our on-premise software to be easier to implement and a higher percentage of our business to shift to a SaaS-based model, which could potentially reduce the demand for our professional services engagements.
+
+
+
+Software Fees and Other
+
+
+
+Software fees and other revenue consists of revenue that is recognized on an upfront basis and also includes our SaaS revenue. Upfront revenue includes revenue associated with enterprise solutions products sold on an upfront basis directly by our sales force and through transactions with distributors and volume partners, value-added resellers and exclusive representatives. Our SaaS revenue is recognized as the services are provided, generally ratably over the term of the SaaS arrangement, rather than upfront.
+
+
+
+Software fees and other revenue for the third quarter and first nine months of fiscal 2018 increased compared with the third quarter and first nine months of fiscal 2017, respectively, primarily due to software fees and other revenue generated from our Automic and Veracode acquisitions of $41 million and $107 million for the third quarter and first nine months of fiscal 2018, respectively. Excluding the software fees and other revenue generated from our Automic and Veracode acquisitions for the first nine months of fiscal 2018, software fees and other revenue decreased primarily due to a decline in revenue from our Enterprise Solutions products recognized on an upfront basis.
+
+
+
+Total Revenue by Geography
+
+
+
+The following tables present the amount of revenue earned from sales to unaffiliated customers in the United States and international regions and corresponding percentage changes for the third quarter and first nine months of fiscal 2018 compared with the third quarter and first nine months of fiscal 2017.
+
+
+
+
+
+
+
+Revenue in the United States for the third quarter of fiscal 2018 increased compared with the third quarter of fiscal 2017 primarily due to our Automic and Veracode acquisitions. Excluding the favorable foreign exchange effect of $19 million for the third quarter of fiscal 2018, international revenue increased compared with the third quarter of fiscal 2017 due to our Automic acquisition.
+
+
+
+Revenue in the United States for the first nine months of fiscal 2018 increased compared with the first nine months of fiscal 2017 due to our Automic and Veracode acquisitions. Excluding the favorable foreign exchange effect of $17 million for the first nine months of fiscal 2018, international revenue increased compared with the first nine months of fiscal 2017 due to our Automic acquisition. As described above, excluding the revenue generated from our Automic and Veracode acquisitions, revenue in the United States and international revenue would have decreased.
+
+
+
+Expenses
+
+
+
+Operating Expenses
+
+
+
+Operating expenses for the third quarter of fiscal 2018 increased compared with the third quarter of fiscal 2017 primarily due to $84 million of costs from our Automic and Veracode acquisitions, which were mainly personnel-related, in the third quarter of fiscal 2018.
+
+
+
+Operating expenses for the first nine months of fiscal 2018 increased compared with the first nine months of fiscal 2017 due to $235 million of costs from our Automic and Veracode acquisitions, which were mainly personnel-related, in the first nine months of fiscal 2018, partially offset by decreases in non-acquisition-related costs, which included personnel-related costs, legal settlements and commission costs.
+
+
+
+Costs of Licensing and Maintenance
+
+
+
+Costs of licensing and maintenance include technical support, royalties, SaaS, and other manufacturing and distribution costs. Costs of licensing and maintenance for the third quarter and first nine months of fiscal 2018 increased compared with the third quarter and first nine months of fiscal 2017, respectively, due to personnel-related costs from our Automic and Veracode acquisitions.
+
+
+
+Cost of Professional Services
+
+
+
+Cost of professional services consists primarily of our personnel-related costs associated with providing professional services and training to customers. Cost of professional services for the third quarter and first nine months of fiscal 2018 increased compared with the third quarter and first nine months of fiscal 2017, respectively, as a result of personnel-related costs from our Automic and Veracode acquisitions, partially offset by lower costs primarily due to a decrease in the number of non-acquisition-related professional services engagements, and severance actions during the third quarter of fiscal 2017.
+
+
+
+Operating margin for professional services for the third quarter of fiscal 2018 increased compared with the third quarter of fiscal 2017 primarily due to a decrease in personnel-related costs as a result of severance actions during the third quarter of fiscal 2017 and, to a lesser extent, higher margins from services associated with our Automic and Veracode acquisitions. Operating margin for professional services for the first nine months of fiscal 2018 increased compared with the first nine months of fiscal 2017 primarily due to an increase in professional services revenue from our Automic and Veracode acquisitions and a decrease in personnel-related costs as a result of severance actions during the third quarter of fiscal 2017. Operating margin for professional services does not include certain additional direct costs that are included within the Services segment (refer to “Performance of Segments” below). Expenses for the Services segment consist of cost of professional services and other direct costs included within selling and marketing and general and administrative expenses.
+
+
+
+Amortization of Capitalized Software Costs
+
+
+
+Amortization of capitalized software costs consists of the amortization of both purchased software and internally generated capitalized software development costs. Internally generated capitalized software development costs relate to new products and significant enhancements to existing software products that have reached the technological feasibility stage.
+
+
+
+Amortization of capitalized software costs for the third quarter and first nine months of fiscal 2018 increased compared with the third quarter and first nine months of fiscal 2017, respectively, primarily due to an increase in amortization expense associated with purchased software products acquired from Automic and Veracode, partially offset by a decrease in amortization of our internally developed software products. With our adoption of the Agile development methodology in fiscal 2014, amortization expense of internally developed software products has decreased, since we have not capitalized any internally developed software costs.
+
+
+
+Selling and Marketing
+
+
+
+Selling and marketing expenses include the costs relating to our sales force, partners, corporate and business marketing and customer training programs. Selling and marketing expenses for the third quarter and first nine months of fiscal 2018 increased compared with the third quarter and first nine months of fiscal 2017 due to costs from our Automic and Veracode acquisitions of $34 million and $91 million, which were mainly personnel-related, in the third quarter and first nine months of fiscal 2018, respectively. These increases were partially offset by decreases in non-acquisition-related costs of $20 million and $64 million, respectively, which primarily included personnel-related and commission costs.
+
+
+
+General and Administrative
+
+
+
+General and administrative expenses include the costs of corporate functions, including our executive leadership and administration groups, finance, legal, human resources, corporate communications and other costs such as provisions for doubtful accounts. General and administrative expenses for the third quarter and first nine months of fiscal 2018 increased compared with the third quarter and first nine months of fiscal 2017, respectively, due to costs from our Automic and Veracode acquisitions, which were mainly personnel-related.
+
+
+
+Product Development and Enhancements
+
+
+
+For the third quarter of fiscal 2018 and fiscal 2017, product development and enhancements expense represented 14% and 14%, respectively, of total revenue. For the third quarter of fiscal 2018, product development and enhancements expense increased compared with the third quarter of fiscal 2017 due to costs from our Automic and Veracode acquisitions, which were mainly personnel-related.
+
+
+
+For the first nine months of fiscal 2018 and fiscal 2017, product development and enhancements expense represented 15% and 14% respectively, of total revenue. For the first nine months of fiscal 2018, product development and enhancements expense increased compared with the first nine months of fiscal 2017 due to costs from our Automic and Veracode acquisitions, which were mainly personnel-related.
+
+
+
+Depreciation and Amortization of Other Intangible Assets,
+
+
+
+For the third quarter and first nine months of fiscal 2018, depreciation and amortization of other intangible assets increased compared with the third quarter and first nine months of fiscal 2017, respectively, primarily due to an increase in amortization expense associated with other intangible assets acquired from Automic and Veracode.
+
+
+
+Other (Gains) Expenses, Net
+
+
+
+
+
+
+
+
+
+During the first nine months of fiscal 2017, other (gains) expenses, net included a $28 million legal settlement expense related to a settlement agreement that was then being negotiated with the U.S. government pertaining to our General Services Administration (GSA) schedule contract. The settlement agreement was finalized and the settlement amount was paid in full in the fourth quarter of fiscal 2017.
+
+
+
+Interest Expense, Net
+
+
+
+Interest expense, net for the third quarter and first nine months of fiscal 2018 increased compared with the third quarter and first nine months of fiscal 2017, respectively, as a result of interest associated with our 3.600% Senior Notes due August 2022 and our 4.700% Senior Notes due March 2027 both issued during the fourth quarter of fiscal 2017.
+
+
+
+Income Taxes
+
+
+
+Income tax expense for the third quarter and first nine months of fiscal 2018 was $375 million and $509 million, respectively, compared with income tax expense for the third quarter and first nine months of fiscal 2017 of $84 million and $257 million, respectively. For the third quarter and first nine months of fiscal 2018, we recorded a net discrete tax expense of $310 million and $302 million, respectively. Of these amounts, $318 million resulted from preliminary estimates of the impact of changes in tax law in the United States resulting from the Tax Act.
+
+
+
+The amounts recorded for the impacts of the Tax Act are provisional amounts of $220 million related to the taxation of unremitted earnings of our foreign subsidiaries, which is payable over eight years, and $98 million related to the remeasurement of deferred tax assets and liabilities for the change in income tax rates. We will continue to refine the provisional amounts as we review and analyze results from the full fiscal 2018 operations needed for calculations under the Tax Act, as well as further review the historic unremitted earnings of our foreign subsidiaries and take into consideration any additional regulatory guidance published by the U.S. tax authorities in respect of the Tax Act. We expect to finalize the tax expense as soon as practical, but not later than the third quarter of fiscal 2019. We do not expect other provisions of the Tax Act to have a material impact for fiscal 2018, but are evaluating the impact on future fiscal years.
+
+
+
+Excluding the impact of discrete items for the first nine months of fiscal 2018 and fiscal 2017, our estimated annual effective tax rate was 26.6% and 28.9%, respectively. Our estimated annual effective tax rate for the first nine months of fiscal 2018 includes a reduction as compared with the first half of fiscal 2018 of 2.0% related to the statutory tax rate reduction for fiscal 2018 resulting from the Tax Act. Changes in tax laws, the outcome of tax audits and any other changes in potential tax liabilities may result in additional tax expense or benefit in fiscal 2018, which are not considered in our estimated annual effective tax rate. While we do not currently view any such items as individually material to the results of our consolidated financial position or results of operations, the impact of certain items may yield additional tax expense or benefit in the remaining quarter of fiscal 2018.
+
+
+
+As more fully disclosed in Note A, “Accounting Policies,” within the Notes to the Condensed Consolidated Financial Statements, upon adoption of Accounting Standard Codification Topic 606 (Topic 606), a significant portion of our revenue backlog (i.e., deferred revenue and future billings on committed contracts) relating to the license component of customer contracts at March 31, 2018 under existing GAAP will not be recognized as revenue in future periods but instead will be included as part of the cumulative effect adjustment within retained earnings upon adoption. Such cumulative effect adjustment will primarily result from (i) the significant reduction in deferred revenue relating to the license component of customer contracts as mentioned above, (ii) the establishment of a significant contract asset related to our contractual right to consideration for completed performance obligations not yet billed or collected (i.e., license revenue recognized in advance of billings), (iii) the increase in deferred tax liabilities arising from the increase in contract assets, and (iv) the increase in income taxes payable from both the increase in contract assets as a result of the Tax Act and the portion of deferred revenue included in the cumulative effect adjustment that has not been previously included as taxable income on a tax return.
+
+
+
+The increase in contract assets and decrease in deferred revenue, when taken together with those provisions of the Tax Act which affect tax method revenue recognition for accrual-method U.S. taxpayers, will result in an acceleration of the timing of our income tax payments. This acceleration of the timing of income tax payments will be significant in relation to our current annual income tax payments within cash flows from operations. While we have not finalized our assessment of the impact arising from the Topic 606 adoption and finalization of the assessment could result in revisions to these estimates, which could be material, we currently estimate additional income tax payments in the range of approximately $100 million to $150 million per year over a four-year period, beginning in fiscal 2019. Although we continue to evaluate the items listed above, we currently expect these additional income tax payments will be largely offset by the benefit from the reduced U.S. corporate tax rate enacted by the Tax Act. We believe that taken together, the incremental income tax payments resulting from the Topic 606 adoption and enactment of the Tax Act will be approximately $25 million to $50 million, on average, per year for the next four years, beginning in fiscal 2019.
+
+
+
+Performance of Segments 
+
+
+
+Our Mainframe Solutions and Enterprise Solutions segments are comprised of our software business organized by the nature of our software offerings and the platforms on which the products operate. Our Services segment is comprised of product implementation, consulting, customer education and customer training services, including those directly related to the Mainframe Solutions and Enterprise Solutions software that we sell to our customers.
+
+
+
+Segment expenses do not include amortization of purchased software, amortization of other intangible assets, amortization of internally developed software products, share-based compensation expense, certain foreign exchange derivative hedging gains and losses, severance and facility actions approved by the Board, and other miscellaneous costs.
+
+
+
+
+
+
+
+
+
+Mainframe Solutions revenue for the third quarter of fiscal 2018 increased compared with the third quarter of fiscal 2017 due to a favorable foreign exchange effect. Mainframe Solutions operating margin for the third quarter of fiscal 2018 increased compared with the third quarter of fiscal 2017 primarily due to a decrease in corporate overhead costs.
+
+
+
+Mainframe Solutions revenue for the first nine months of fiscal 2018 decreased compared with the first nine months of fiscal 2017 primarily due to insufficient revenue from prior period new sales to offset the decline in revenue contribution from renewals. Mainframe Solutions operating margin for the first nine months of fiscal 2018 increased compared with the first nine months of fiscal 2017 primarily due to a decrease in corporate overhead costs and the Mainframe Solutions portion of the litigation settlement costs incurred during the second quarter of fiscal 2017.
+
+
+
+
+
+
+
+Enterprise Solutions revenue for the third quarter and first nine months of fiscal 2018 increased compared with the third quarter and first nine months of fiscal 2017, respectively, primarily due to revenue generated from our Automic and Veracode acquisitions of $62 million and $161 million in the third quarter and first nine months of fiscal 2018, respectively. The revenue generated from our Automic and Veracode acquisitions for the first nine months of fiscal 2018 was partially offset by a decline in revenue from our Enterprise Solutions products recognized on an upfront basis. Enterprise Solutions operating margin for the third quarter and first nine months of fiscal 2018 decreased compared with the third quarter and first nine months of fiscal 2017, respectively, primarily due to costs associated with our Automic and Veracode acquisitions, which were mainly personnel-related.
+
+
+
+
+
+
+
+Services revenue for the third quarter of fiscal 2018 increased compared with the third quarter of fiscal 2017 primarily due to $6 million of professional services revenue generated from our Automic and Veracode acquisitions in the third quarter of fiscal 2018. Operating margin for Services for the third quarter of fiscal 2018 increased compared with the third quarter of fiscal 2017 primarily due to a decrease in personnel-related costs as a result of severance actions during the third quarter of fiscal 2017 and, to a lesser extent, higher margins from services associated with our Automic and Veracode acquisitions.
+
+
+
+Services revenue for the first nine months of fiscal 2018 increased compared with the first nine months of fiscal 2017 due to $21 million of professional services revenue generated from our Automic and Veracode acquisitions in the first nine months of fiscal 2018, partially offset by a decline in non-acquisition-related professional services engagements. The decline in professional services engagements was a result of several factors including our products being easier to install and manage, and an increase in customers’ use of partners for services engagements. For the long term, we expect new versions of our on-premise software to be easier to implement and a higher percentage of our business to shift to a SaaS-based model, which could potentially reduce the demand for our professional services engagements. Operating margin for Services for the first nine months of fiscal 2018 increased compared with the first nine months of fiscal 2017 primarily due to an increase in professional services revenue from our Automic and Veracode acquisitions and a decrease in personnel-related costs as a result of severance actions during the third quarter of fiscal 2017.
+
+
+
+Refer to Note M, “Segment Information,” in the Notes to the Condensed Consolidated Financial Statements for additional information.
+
+
+
+Bookings
+
+
+
+Third Quarter Comparison Fiscal 2018 Versus Fiscal 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Nine Months Comparison Fiscal 2018 Versus Fiscal 2017 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+
+
+Our cash and cash equivalent balances are held in numerous locations throughout the world, with 66% held in our subsidiaries outside the United States at December 31, 2017. Cash and cash equivalents totaled $2,971 million at December 31, 2017, representing an increase of $200 million from the March 31, 2017 balance of $2,771 million. During the first nine months of fiscal 2018, there was a $148 million favorable translation effect from foreign exchange rates on cash held outside the United States in currencies other than the U.S. dollar.
+
+
+
+On December 22, 2017, the Tax Act was enacted into law. This new law includes significant changes to the U.S. corporate income tax system, including a permanent reduction in the corporate income tax rate, limitations on the deductibility of executive compensation and the transition of U.S. international taxation from a worldwide tax system to a territorial tax system. This new law includes a provision that imposes a transition tax on foreign earnings whether or not such earnings are repatriated to the U.S. and resulted in our recognition of income tax expense of $220 million for the three and nine months ended December 31, 2017. Refer to Note K, “Income Taxes” in the Notes to the Condensed Consolidated Financial Statements for additional information.
+
+
+
+We continue to expect domestic cash, cash equivalents, cash flows from operations and borrowings to be sufficient to fund our domestic operating activities and our investing and financing activities, including, among other things, the payment of regular quarterly dividends, compliance with our debt repayment schedules, repurchases of our common stock and the funding for capital expenditures, for at least the next 12 months and for the foreseeable future thereafter. In addition, we continue to expect foreign cash, cash equivalents and cash flows from foreign operations to be sufficient to fund our foreign operating activities and investing activities, including, among other things, the funding of capital expenditures, acquisitions and research and development, for at least the next 12 months and for the foreseeable future thereafter. However, following the enactment of the new Tax Act, we are currently re-evaluating our plans to permanently reinvest our foreign earnings outside the U.S. with a view to maximize our return on investments.
+
+
+
+Sources and Uses of Cash
+
+
+
+Under our subscription and maintenance agreements, customers generally make installment payments over the term of the agreement, often with at least one payment due at contract execution, for the right to use our software products and receive product support, software fixes and new products when available. The timing and actual amounts of cash received from committed customer installment payments under any specific agreement can be affected by several factors, including the time value of money and the customer’s credit rating. Often, the amount received is the result of direct negotiations with the customer when establishing pricing and payment terms. In certain instances, the customer negotiates a price for a single upfront installment payment and seeks its own internal or external financing sources. In other instances, we may assist the customer by arranging financing on the customer’s behalf through a third-party financial institution.
+
+
+
+Amounts billed or collected as a result of a single installment for the entire contract value, or a substantial portion of the contract value, rather than being invoiced and collected over the life of the license agreement, are reflected in the liability section of our Condensed Consolidated Balance Sheets as “Deferred revenue (billed or collected).” Amounts received from either a customer or a third-party financial institution that are attributable to later years of a license agreement have a positive impact on billings and cash provided by operating activities in the current period. Accordingly, to the extent these collections are attributable to the later years of a license agreement, billings and cash provided by operating activities during the license’s later years will be lower than if the payments were received over the license term. We are unable to predict with certainty the amount of cash to be collected from single installments for the entire contract value, or a substantial portion of the contract value, under new or renewed license agreements to be executed in future periods.
+
+
+
+For the third quarter of fiscal 2018, gross receipts related to single installments for the entire contract value, or a substantial portion of the contract value, were $36 million compared with $231 million for the third quarter of fiscal 2017. This decrease was primarily due to a lower level of renewals, including the reduction in bookings from financial services companies, which was attributable to the timing of our renewal portfolio compared with the year-ago period. For the first nine months of fiscal 2018, gross receipts related to single installments for the entire contract value, or a substantial portion of the contract value, were $310 million compared with $313 million for the first nine months of fiscal 2017.
+
+
+
+In any quarter, we may receive payments in advance of the contractually committed date on which the payments were otherwise due. In limited circumstances, we may offer discounts to customers to ensure payment in the current period of invoices that have been billed, but might not otherwise be paid until a subsequent period because of payment terms. Historically, any such discounts have not been material.
+
+
+
+Amounts due from customers from our subscription licenses are offset by deferred revenue related to these license agreements, leaving no or minimal net carrying value on our Condensed Consolidated Balance Sheets for those amounts. The fair value of these amounts may exceed or be less than this carrying value, but cannot be practically assessed, since there is no existing market for a pool of customer receivables with contractual commitments similar to those owned by us. The actual fair value may not be known until these amounts are sold, securitized or collected. Although these customer license agreements commit the customer to payment under a fixed schedule, to the extent amounts are not yet due and payable by the customer, the agreements are considered executory in nature due to our ongoing commitment to provide maintenance and unspecified future software products as part of the agreement terms.
+
+
+
+We can estimate the total amounts to be billed from committed contracts, referred to as our “billings backlog,” and the total amount to be recognized as revenue from committed contracts, referred to as our “revenue backlog.” The aggregate amounts of our billings backlog and trade receivables already reflected in our Condensed Consolidated Balance Sheets represent the amounts we expect to collect in the future from committed contracts.
+
+
+
+
+
+
+
+We can also estimate the total cash to be collected in the future from committed contracts, referred to as our “Expected future cash collections,” by adding the total billings backlog to the trade accounts receivable, which represent amounts already billed but not collected, from our Condensed Consolidated Balance Sheets.
+
+
+
+
+
+The 5% decrease in billings backlog at December 31, 2017 compared with March 31, 2017 was primarily due to a lower level of bookings during the first nine months of fiscal 2018. Excluding the favorable effect of foreign exchange, billings backlog decreased 7% at December 31, 2017 compared with March 31, 2017. The 3% decrease in billings backlog at December 31, 2017 compared with December 31, 2016 was primarily due to a lower level of bookings during the first nine months of fiscal 2018. Excluding the favorable effect of foreign exchange, billings backlog decreased 5% at December 31, 2017 compared with December 31, 2016.
+
+
+
+The decrease in expected future cash collections at December 31, 2017 compared with March 31, 2017 was primarily driven by a decrease in billings backlog as described above, as well as a decrease in trade accounts receivable, net due to a decrease in billings. The increase in expected future cash collections at December 31, 2017 compared with December 31, 2016 was primarily driven by an increase in trade accounts receivable, net.
+
+
+
+The 7% decrease in total revenue backlog at December 31, 2017 compared with March 31, 2017 was primarily due to a lower level of bookings during the first nine months of fiscal 2018. Excluding the favorable effect of foreign exchange, total revenue backlog decreased 9% at December 31, 2017 compared with March 31, 2017. The 1% increase in total revenue backlog at December 31, 2017 compared with December 31, 2016 was primarily due to the favorable effect of foreign exchange. Excluding the favorable effect of foreign exchange, total revenue backlog decreased 2% at December 31, 2017 compared with December 31, 2016 primarily due to the timing of our renewal portfolio.
+
+
+
+Current revenue backlog, which is our revenue to be recognized within the next 12 months, was generally consistent at December 31, 2017 compared with March 31, 2017. Excluding the favorable effect of foreign exchange, current revenue backlog decreased 2% at December 31, 2017 compared with March 31, 2017 primarily due to a decrease in total bookings during the first nine months of fiscal 2018. Current revenue backlog increased 8% at December 31, 2017 compared with December 31, 2016. Excluding the favorable effect of foreign exchange, current revenue backlog increased 5% at December 31, 2017 compared with December 31, 2016 primarily due to our Automic and Veracode acquisitions.
+
+
+
+Generally, we believe that a change in current revenue backlog on a year-over-year basis is an indicator of future subscription and maintenance revenue performance due to the high percentage of our revenue that is recognized from license agreements that are already committed and being recognized ratably. We also believe that if we do not demonstrate multiple quarters of total new product and capacity sales growth while maintaining a renewal yield in the low 90% range, our current revenue backlog would be unlikely to increase.
+
+
+
+Net Cash Provided by Operating Activities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Third Quarter Comparison Fiscal 2018 Versus Fiscal 2017
+
+
+
+Operating Activities
+
+
+
+Net cash provided by operating activities for the third quarter of fiscal 2018 was $315 million, representing a decrease of $202 million compared with the third quarter of fiscal 2017. The decrease in net cash provided by operating activities was primarily due to a decrease in cash collections from billings of $153 million attributable to lower single installment collections and an increase in vendor disbursements and payroll of $41 million compared with the year-ago period.
+
+
+
+Investing Activities
+
+
+
+Net cash used in investing activities for the third quarter of fiscal 2018 was $13 million compared with $62 million for the third quarter of fiscal 2017. The decrease in net cash used in investing activities was primarily due to a decrease in cash paid for acquisitions and purchased software of $47 million compared with the year-ago period.
+
+
+
+Financing Activities
+
+
+
+Net cash used in financing activities for the third quarter of fiscal 2018 was $164 million compared with $93 million for the third quarter of fiscal 2017. The increase in net cash used in financing activities was primarily due to an increase in common stock repurchases of $53 million and an increase in net debt borrowings from our notional pooling arrangement of $15 million compared with the year-ago period.
+
+
+
+First Nine Months Comparison Fiscal 2018 Versus Fiscal 2017
+
+
+
+Operating Activities
+
+
+
+Net cash provided by operating activities for the first nine months of fiscal 2018 was $650 million, representing a decrease of $8 million compared with the first nine months of fiscal 2017. The decrease in net cash provided by operating activities was primarily due to an increase in vendor disbursements and payroll of $160 million attributable to disbursements from our Automic and Veracode acquisitions and an increase in other disbursements, net of $15 million, offset by an increase in cash collections from billings of $124 million attributable to collections from our Automic and Veracode acquisitions and a decrease in income tax payments, net of $43 million compared with the year-ago period.
+
+
+
+Investing Activities
+
+
+
+Net cash used in investing activities for the first nine months of fiscal 2018 was $51 million compared with $79 million for the first nine months of fiscal 2017. The decrease in net cash used in investing activities was primarily due to a decrease in cash paid for acquisitions and purchased software of $33 million compared with the year-ago period.
+
+
+
+Financing Activities
+
+
+
+Net cash used in financing activities for the first nine months of fiscal 2018 was $545 million compared with $412 million for the first nine months of fiscal 2017. The increase in net cash used in financing activities was primarily due to an increase in net debt repayments from our notional pooling arrangement of $57 million, an increase in common stock repurchases of $43 million, and a decrease in the exercise of common stock options of $17 million compared with the year-ago period.
+
+
+
+Debt Obligations
+
+
+
+
+
+
+
+Revolving Credit Facility
+
+
+
+In June 2017, we amended our revolving credit facility to extend the termination date from June 2019 to June 2022. Our revolving credit facility provides a maximum committed amount available of $1 billion. The facility also provides us with an option to increase the available credit by an amount up to $500 million. This option is subject to certain conditions and the agreement of the facility lenders. At December 31, 2017 and March 31, 2017, there were no outstanding borrowings under our revolving credit facility.
+
+
+
+Other Indebtedness
+
+
+
+We had $114 million of unsecured and uncommitted multi-currency lines of credit at December 31, 2017 and March 31, 2017 available to meet short-term working capital needs for our subsidiaries. We use guarantees and letters of credit issued by financial institutions to guarantee performance on certain contracts and other items. At December 31, 2017 and March 31, 2017, $61 million and $51 million, respectively, of these lines of credit were pledged in support of bank guarantees and other local credit lines. At December 31, 2017 and March 31, 2017, none of these arrangements were drawn down by third parties.
+
+
+
+
+
+
+
+
+
+For additional information concerning our debt obligations, refer to our consolidated financial statements and notes thereto included in our 2017 Form 10-K.
+
+
+
+Effect of Exchange Rate Changes
+
+
+
+There was a $148 million favorable translation effect on our cash balances for the first nine months of fiscal 2018 predominantly due to the weakening of the U.S. dollar against the euro (13%), the British pound sterling (8%), the Israeli shekel (5%) and the Canadian dollar (6%).
+
+
+
+There was a $151 million unfavorable translation effect on our cash balances in the first nine months of fiscal 2017 predominantly due to the strengthening of the U.S. dollar against the euro (8%) and the British pound sterling (14%), partially offset by the weakening of the U.S. dollar against the Brazilian real (10%).
+
+
+
+CRITICAL ACCOUNTING POLICIES AND BUSINESS PRACTICES
+
+
+
+The preparation of financial statements in accordance with generally accepted accounting principles requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenue and expenses. We base our estimates on historical experience and various other assumptions that we believe are reasonable under the circumstances. Our estimates form the basis for making judgments about amounts and timing of revenue and expenses, the carrying values of assets and the recorded amounts of liabilities that are not readily apparent from other sources. Actual results may differ from these estimates and the estimates may change if the underlying conditions or assumptions change. Information with respect to our critical accounting policies that we believe could have the most significant effect on our reported results or require subjective or complex judgments by management is contained in our 2017 Form 10-K under Management’s Discussion and Analysis of Financial Condition and Results of Operations. At December 31, 2017, there was no material change to our critical accounting policies or the methodologies or assumptions we apply under them since March 31, 2017.
+
+
+
+New Accounting Pronouncements
+
+
+
+For information regarding new accounting pronouncements, and the impact of these pronouncements on our consolidated financial statements, if any, including the anticipated effects of Topic 606, refer to Note A, “Accounting Policies,” in the Notes to the Condensed Consolidated Financial Statements.
+
+
+
+Item 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+
+
+
+
+
+ISSUER PURCHASES OF EQUITY SECURITIES
+
+
+
+
+
+
+

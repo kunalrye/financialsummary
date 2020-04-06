@@ -1,0 +1,448 @@
+ITEM 2.MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+
+
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+
+
+This report contains certain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. All statements other than statements of historical fact may be forward-looking statements. You can identify these and other forward-looking statements by the use of words such as “may,” “will,” “could,” “would,” “should,” “expects,” “plans,” “anticipates,” “relies,” “believes,” “estimates,” “predicts,” “intends,” “potential,” “continue,” “thinks,” “seeks,” or the negative of such terms, or other comparable terminology. Forward-looking statements also include the assumptions underlying or relating to any of the foregoing statements. Such forward-looking statements include, among others, forecasts of the future results of our operations, including profitability; orders for our products and capital equipment generally; sales of semiconductors; the investments by our customers in advanced technologies and new materials; the allocation of capital spending by our customers (and, in particular, the percentage of spending that our customers allocate to process control); growth of revenue in the semiconductor industry, the semiconductor capital equipment industry and our business; technological trends in the semiconductor industry; future developments or trends in the global capital and financial markets; our future product offerings and product features; the success and market acceptance of new products; timing of shipment of backlog; our future product shipments and product and service revenues; our future gross margins; our future research and development expenses and selling, general and administrative expenses; our ability to successfully maintain cost discipline; international sales and operations; our ability to maintain or improve our existing competitive position; success of our product offerings; creation and funding of programs for research and development; attraction and retention of employees; results of our investment in leading edge technologies; the effects of hedging transactions; the effect of the sale of trade receivables and promissory notes from customers; our future effective income tax rate; our recognition of tax benefits; the effects of any audits or litigation; future payments of dividends to our stockholders; the completion of any acquisitions of third parties, or the technology or assets thereof; benefits received from any acquisitions and development of acquired technologies; sufficiency of our existing cash balance, investments, cash generated from operations and the unfunded portion of our revolving line of credit under a Credit Agreement (the “Credit Agreement”) to meet our operating and working capital requirements, including debt service and payment thereof; future dividends, and stock repurchases; our compliance with the financial covenants under the Credit Agreement; the adoption of new accounting pronouncements including ASC 842 and ASC 606; the tax liabilities resulting from the enactment of the Tax Cuts and Jobs Act; and our repayment of our outstanding indebtedness.
+
+
+
+Our actual results may differ significantly from those projected in the forward-looking statements in this report. Factors that might cause or contribute to such differences include, but are not limited to, those discussed in Part II, Item 1A, “Risk Factors” in this report as well as in Item 1, “Business” and Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report on Form 10-K for the year ended June 30, 2019, filed with the Securities and Exchange Commission on August 16, 2019. You should carefully review these risks and also review the risks described in other documents we file from time to time with the Securities and Exchange Commission. You are cautioned not to place undue reliance on these forward-looking statements, and we expressly assume no obligation and do not intend to update the forward-looking statements in this report after the date hereof.
+
+
+
+EXECUTIVE SUMMARY
+
+
+
+We are a leading supplier of process control and yield management solutions for the semiconductor and related nanoelectronics industries. Our broad portfolio of inspection and metrology products, and related service, software and other offerings primarily supports integrated circuit (“IC” or “chip”) manufacturers throughout the entire semiconductor fabrication process, from research and development to final volume production. We provide leading edge equipment, software and support that enable IC manufacturers to identify, resolve and manage significant advanced technology manufacturing process challenges and obtain higher finished product yields at lower overall cost. In addition to serving the semiconductor industry, we also provide a range of technology solutions to a number of other high technology industries, including advanced packaging, light emitting diode (“LED”), power devices, compound semiconductor, and data storage industries, as well as general materials research.
+
+
+
+Our products and services are used by the vast majority of bare wafer, IC, lithography reticle (“reticle” or “mask”) and hard disk drive manufacturers around the world. Our products, services and expertise are used by our customers to measure, detect, analyze and resolve critical product defects that arise in that environment in order to control nanometric level manufacturing processes. 
+
+
+
+Our revenues are driven largely by our customers’ spending on capital equipment and related maintenance services necessary to support key transitions in their underlying product technologies, or to increase their production volumes in response to market demand or expansion plans. Our semiconductor customers generally operate in one or more of the three major semiconductor markets - memory, foundry and logic. All three of these markets are characterized by rapid technological changes and sudden shifts in end-user demand, which influence the level and pattern of our customers’ spending on our products and services. Although capital spending in all three semiconductor markets has historically been very cyclical, the demand for more advanced and lower cost chips used in a growing number of consumer electronics, communications, data processing, and industrial and automotive products has resulted over the long term in a favorable demand environment for our process control and yield management solutions, particularly in the foundry and logic markets, which have higher levels of process control adoption than the memory market. 
+
+
+
+Through the acquisition of Orbotech, Ltd. (“Orbotech”), we have expanded our reach in the electronics value chain to include technologically advanced, yield-enhancing and process-enabling solutions to address various manufacturing stages of Printed Circuit Boards (“PCB”), Flat Panel Displays (“FPD”), Specialty Semiconductor Devices (“SD”) and other electronic components. The products include Automated Optical Inspection (“AOI”), Automated Optical Shaping (“AOS”), Direct Imaging (“DI”), additive printing, laser drilling, laser plotters, Computer aided manufacturing (“CAM”) and engineering solutions for PCB and additional adjacent electronics component manufacturing, as well as AOI, test, repair and process monitoring systems for FPD manufacturing and vacuum process tools for etch, Physical Vapor Deposition (“PVD”), Molecular Vapor Deposition (“MVD”) and Chemical Vapor Deposition (“CVD”) solutions for SD manufacturing.
+
+
+
+In our newly acquired Orbotech business, consumer end markets have been experiencing a fundamental shift in technology complexity, driven primarily by the proliferation of high-end mobile devices and automotive devices, as well as by the demand for large area FPDs such as large-size LCD televisions and OLED displays. The shift towards 5G connectivity and the fast-paced growth of the Internet of Things (“IoT”) services is expected to continue to further accelerate this shift as more devices become connected and dependent upon other electronic devices.
+
+
+
+As a supplier to the global semiconductor, semiconductor-related and electronics industries, our customer base continues to become more highly concentrated over time, thereby increasing the potential impact of a sudden change in capital spending by a major customer on our revenues and profitability. As our customer base becomes increasingly more concentrated, large orders from a relatively limited number of customers account for a substantial portion of our sales, which potentially exposes us to more volatility for revenues and earnings. In the global semiconductor and electronics related industries, China is emerging as a major region for manufacturing of logic and memory chips, adding to its role as the world’s largest consumer of ICs. Additionally, a significant portion of global FPD and PCB manufacturing has migrated to China. Government initiatives are propelling China to expand its domestic manufacturing capacity and attracting semiconductor manufacturers from Taiwan, Korea, Japan and the US. China is currently seen as an important long-term growth region for the semiconductor and electronics capital equipment sector. We are also subject to the cyclical capital spending that has historically characterized the semiconductor, semiconductor-related and electronics industries. The timing, length, intensity and volatility of the capacity-oriented capital spending cycles of our customers are unpredictable. 
+
+
+
+
+
+
+
+The demand for our products and our revenue levels are driven by our customers’ needs to solve the process challenges that they face as they adopt new technologies required to fabricate advanced ICs that are incorporated into sophisticated mobile devices. Our customers continuously seek to increase yields and enhance the efficiency of their manufacturing processes, including by improving their manufacturing, inspection, testing and repair capabilities.
+
+
+
+
+
+Our view of the current wafer fab equipment demand climate is aligned with consensus industry analyst expectations for the calendar year 2019, which reflects a decline in capital equipment spending by memory customers. In contrast to the memory business, capital equipment spending by foundry and logic customers at the leading edge are accelerating their ramp. We have already seen our mix of business begin to shift toward increased purchases by logic and foundry customers as a percentage of total sales, and we expect spending from these customers to continue to remain strong. Because of a more diversified semiconductor device-end demand, and disciplined capacity planning by wafer fab equipment customers, we believe the long-term growth dynamics for the industry remain strong. While manufacturers of PCBs, FPDs, SDs and other electronic components create different products for diverse end-markets, they share similar production challenges in an increasingly competitive environment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Acquisition of Orbotech, Ltd.
+
+
+
+On February 20, 2019, we completed the acquisition of Orbotech, Ltd. (“Orbotech”) for total consideration of approximately $3.26 billion. Orbotech’s core business enables electronic device manufacturers to inspect, test and measure printed circuit boards and flat panel displays to verify their quality; pattern electronic circuitry on substrate and perform three-dimensional shaping of metalized circuits on multiple surfaces; and utilize advanced vacuum deposition and etching process in semiconductor device and semiconductor manufacturing and to perform laser drilling of electronic substrates. For additional details on the financial statement impacts of the Orbotech acquisition, refer to Note 6 “Business Combinations” to the Condensed Consolidated Financial Statements.
+
+
+
+CRITICAL ACCOUNTING ESTIMATES AND POLICIES
+
+
+
+The preparation of our Condensed Consolidated Financial Statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions in applying our accounting policies that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. We base these estimates and assumptions on historical experience and evaluate them on an ongoing basis to ensure 
+
+
+
+that they remain reasonable under current conditions. Actual results could differ from those estimates. We discuss the development and selection of the critical accounting estimates with the Audit Committee of our Board of Directors on a quarterly basis, and the Audit Committee has reviewed our related disclosure in this Quarterly Report on Form 10-Q. 
+
+
+
+We updated our accounting policies for Leases. There have been no other material changes in our critical accounting estimates and policies since our Annual Report on Form 10-K for the fiscal year ended June 30, 2019. Refer to Note 1 “Basis of Presentation” to the Condensed Consolidated Financial Statements for additional details. In addition, please refer to Management’s Discussion and Analysis of Financial Condition and Results of Operations contained in Part II, Item 7 of our Annual Report on Form 10-K for our fiscal year ended June 30, 2019 for a more complete discussion of our critical accounting policies and estimates.
+
+
+
+Recent Accounting Pronouncements
+
+
+
+For a description of recent accounting pronouncements, including those recently adopted and the expected dates of adoption as well as estimated effects, if any, on our Condensed Consolidated Financial Statements of those not yet adopted, see Note 1, “Basis of Presentation” to the Condensed Consolidated Financial Statements for additional details.
+
+
+
+RESULTS OF OPERATIONS
+
+
+
+Revenues and Gross Margin
+
+
+
+
+
+Product revenues
+
+
+
+Our business is affected by the concentration of our customer base and our customers’ capital equipment procurement schedules as a result of their investment plans. Our product revenues in any particular period are significantly impacted by the amount of new orders that we receive during that period and, depending upon the duration of manufacturing and installation cycles, in the preceding period. 
+
+
+
+Product revenues increased during the three months ended September 30, 2019 compared to the three months ended September 30, 2018, primarily due to a strong demand from our customers in the patterning business, $157.6 million in product revenue from our Orbotech business which was acquired in February of 2019, partially offset by a lower products shipments to customers in the memory business.
+
+
+
+Service revenues
+
+
+
+Service revenues are generated from product maintenance and support services, as well as billable time and material service calls made to our customers. The amount of our service revenues is typically a function of the number of systems installed at our customers’ sites and the utilization of those systems, but it is also impacted by other factors, such as our rate of service contract renewals, the types of systems being serviced and fluctuations in foreign exchange rates. 
+
+
+
+Service revenues increased during the comparative periods presented primarily due to $68.1 million from our Orbotech business which was acquired in February of 2019, and an increase in the number of systems installed at our customers' site.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Three months ended September 30, 2019 compared to three months ended September 30, 2018 
+
+
+
+Revenue from our Semiconductor Process Control segment increased by 9% primarily due to a strong demand from our customers in the patterning business, and growth in service revenues. The increase in revenues from Specialty Semiconductor Process, PCB, Display and Component Inspection and Other segments primarily relates to the Orbotech business, which was acquired in February of 2019.
+
+
+
+Revenues by region
+
+
+
+
+
+
+
+A significant portion of our revenues continues to be generated in Asia, where a substantial portion of the world’s semiconductor manufacturing capacity is located, and we expect that trend to continue. 
+
+
+
+Gross margin
+
+
+
+Our gross margin fluctuates with revenue levels and product mix and is affected by variations in costs related to manufacturing and servicing our products, including our ability to scale our operations efficiently and effectively in response to prevailing business conditions.
+
+
+
+
+
+
+
+Changes in gross margin percentage, which are driven by the revenue volume of products and services, reflect our ability to leverage existing infrastructure to generate higher revenues. It also includes average customer pricing, customer revenue deferrals associated with volume purchase agreements, and the effect of fluctuations in foreign exchange rates. Changes in gross margin percentage from the mix of products and services sold, reflect the impact of changes within the composition of product and service offerings, and amortization of inventory fair value adjustments from business combinations. Changes in gross margin percentage from manufacturing labor, overhead and efficiencies reflect our ability to manage costs and drive productivity as we scale our manufacturing activity to respond to customer requirements, and amortization of intangible assets. Changes in gross margin percentage from other service and manufacturing costs include the impact of customer support costs, including the efficiencies with which we deliver services to our customers, and the effectiveness with which we manage our production plans and inventory risk. 
+
+
+
+The decrease in our gross margin during the comparative periods presented is primarily attributable to the impact from our acquired Orbotech business which had lower product gross margins, an increase in service and manufacturing costs, and an unfavorable mix of products and services sold from our Semiconductor Process Control business.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Three months ended September 30, 2019 compared to three months ended September 30, 2018 
+
+
+
+Semiconductor Process Control segment gross margin increased primarily due to a higher revenue volume of products and services sold. 
+
+
+
+Segment gross margins of Specialty Semiconductor Process, PCB, Display and Component Inspection and Other segments primarily relate to the Orbotech business, which was acquired in February 2019.
+
+
+
+
+
+
+
+
+
+
+
+Our future operating results will depend significantly on our ability to produce products and provide services that have a competitive advantage in our marketplace. To do this, we believe that we must continue to make substantial and focused investments in our research and development. We remain committed to product development in new and emerging technologies.
+
+
+
+
+
+
+
+
+
+Restructuring Charges
+
+
+
+In September 2019, management approved a plan to streamline our organization and business processes that included the reduction of workforce, which is expected to be completed in the second half of our fiscal year 2021, and a potential disposition of our solar energy business. Restructuring charges were immaterial for the three months ended September 30, 2019. 
+
+
+
+We expect to incur additional restructuring charges in future periods in connection with the completion of our workforce reduction. Proceeds from disposition of our solar energy business is not expected to be material. For additional information refer to Note 19, “Restructuring Charges” of the Condensed Consolidated Financial Statements.
+
+
+
+Interest Expense and Other Expense (Income), Net
+
+
+
+
+
+The increase in interest expense during the three months ended September 30, 2019 compared to the three months ended September 30, 2018, is primarily due to interest on the $1.20 billion Senior Notes issued in March 2019. 
+
+
+
+Other expense (income), net is comprised primarily of realized gains or losses on sales of marketable securities, gains or losses from revaluations of certain foreign currency denominated assets and liabilities as well as foreign currency contracts, and interest-related accruals (such as interest and penalty accruals related to our tax obligations) and interest income earned on our invested cash, cash equivalents and marketable securities.
+
+
+
+The decrease in other expense (income), net during the three months ended September 30, 2019 compared to the three months ended September 30, 2018 was primarily due to an decrease in interest income of $4.5 million, a higher net foreign currency revaluation loss of $3.7 million and an impairment charge on an investment in a privately-held company of $1.4 million.
+
+
+
+Provision for Income Taxes
+
+
+
+
+
+
+
+
+
+•Tax expense decreased by $19.8 million during the three months ended September 30, 2018 relating to the one-time transition tax liability. 
+
+
+
+Our future effective income tax rate depends on various factors, such as tax legislation, the geographic composition of our pre-tax income, the amount of our pre-tax income as business activities fluctuate, non-deductible expenses incurred in connection with acquisitions, research and development credits as a percentage of aggregate pre-tax income, non-taxable or non-deductible increases or decreases in the assets held within our Executive Deferred Savings Plan, the tax effects of employee stock activity and the effectiveness of our tax planning strategies.
+
+
+
+In the normal course of business, we are subject to examination by tax authorities throughout the world. We completed the U.S. federal income tax examination for the fiscal year ended June 30, 2016 and are subject to U.S, federal income tax examinations for all years beginning from the fiscal year ended June 30, 2017. We are subject to state income tax examinations for all years beginning from the fiscal year ended June 30, 2015. We are also subject to examinations in other major foreign jurisdictions, including Singapore and Israel, for all years beginning from the calendar year ended December 31, 2012. We are under audit in Germany related to Orbotech for the years ended December 31, 2013 to December 31, 2015. Although we believe our tax estimates are reasonable, the final determination of tax audits and any related litigation could be materially different from our historical income tax provisions and accruals. The results of an audit or litigation could have a material adverse effect on our results of operations or cash flows in the period or periods for which that determination is made.
+
+
+
+In May 2017, Orbotech received an assessment from the Israel Tax Authority (“ITA”) with respect to its fiscal years 2012 through 2014 (the “Assessment”, and the “Audit Period”, respectively), for an aggregate amount of tax, after offsetting all NOLs available through the end of 2014, of approximately NIS 229 million (equivalent to approximately $66 million which includes related interest and linkage differentials to the Israeli consumer price index as of date of the issuance of the Tax Decrees, as defined below). 
+
+
+
+On August 31, 2018, Orbotech filed an objection in respect of the tax assessment (the “Objection”). The ITA completed the second stage of the audit, in which the claims Orbotech raised in the Objection were examined by different personnel at the ITA. In addition, the ITA examined additional items during this second stage of the audit. As Orbotech and the ITA did not reach an agreement during the second stage, the ITA issued Tax Decrees to Orbotech on August 28, 2019 (“Tax Decrees”) for an aggregate amount of tax, after offsetting all NOLs available through the end of 2014, of approximately NIS 257 million 
+
+
+
+
+
+Orbotech filed a notice of appeal with respect to the above Tax Decrees with the District Court of Tel Aviv on September 26, 2019. The ITA and Orbotech have agreed to extend the filing of the ITA's arguments in support of the Tax Decrees to February 28, 2020. The ITA and Orbotech are continuing discussions in an effort to resolve this matter in a mutually agreeable manner.
+
+
+
+In connection with the above, there is an ongoing criminal investigation in Israel against Orbotech, certain of its employees and its tax consultant. On April 11, 2018, Orbotech received a “suspect notification letter” (dated March 28, 2018) from the Tel Aviv District Attorney’s Office (Fiscal and Financial). In the letter, it was noted that the investigation file was transferred from the Assessment Investigation Officer to the District Attorney’s Office. The letter further states that the District Attorney’s Office has not yet made a decision regarding submission of an indictment against Orbotech; and that if after studying the case, a decision is made to consider prosecuting Orbotech, Orbotech will receive an additional letter, and within 30 days, Orbotech may present its arguments to the District Attorney’s Office as to why it should not be indicted. On October 27, 2019, we received a request for additional information from the District Attorney's Office. We will continue to monitor the progress of the District Attorney's Office investigation, however, we cannot anticipate when the review of the case will be completed and what will be the results thereof. We intend to cooperate with the District Attorney’s Office to enable them to conclude their investigation.
+
+
+
+Liquidity and Capital Resources
+
+
+
+
+
+
+
+As of September 30, 2019, our cash, cash equivalents and marketable securities totaled $1.75 billion, which represents an increase of $12.1 million from June 30, 2019. The increase is mainly due to cash provided by operating activities, partially offset by $78.5 million paid to fund business acquisitions, stock repurchases of $228.5 million, and cash used for payment of dividends and dividend equivalents of $121.6 million.
+
+
+
+ As of September 30, 2019, $691.7 million of our $1.75 billion of cash, cash equivalents and marketable securities were held by our foreign subsidiaries and branch offices. We currently intend to indefinitely reinvest $427.8 million of the cash, cash equivalents and marketable securities held by our foreign subsidiaries for which we assert that earnings are permanently reinvested. If, however, a portion of these funds were to be repatriated to the United States, we would be required to accrue and pay state and foreign taxes of approximately 1%-22% of the funds repatriated. The amount of taxes due will depend on the amount and manner of the repatriation, as well as the location from which the funds are repatriated. We have accrued state and foreign tax on the remaining cash of $263.9 million of the $691.7 million held by our foreign subsidiaries and branch offices. As such, these funds can be returned to the U.S. without accruing any additional U.S. tax expense.
+
+
+
+
+
+During the three months ended September 30, 2019, our Board of Directors declared a regular quarterly cash dividend of $0.75 per share on our outstanding common stock, which was paid on September 3, 2019 to our stockholders of record as of the close of business on August 15, 2019. During the same period in fiscal year 2018, our Board of Directors declared and paid a regular quarterly cash dividend of $0.75 per share on our outstanding common stock. The total amount of regular quarterly cash dividends and dividend equivalents paid during the three months ended September 30, 2019 and 2018 was $121.6 million and $119.9 million, respectively. The amount of accrued dividend equivalents payable for regular quarterly cash dividends on unvested restricted stock units (RSUs) with dividend equivalent rights as of September 30, 2019 and June 30, 2019 was $6.4 million and $7.3 million, respectively. These amounts will be paid upon vesting of the underlying unvested RSU as described in Note 10, “Equity, Long-term Incentive Compensation Plans and Non-Controlling Interest” to the Condensed Consolidated Financial Statements.
+
+
+
+
+
+The shares repurchased under our stock repurchase program have reduced our basic and diluted weighted-average shares outstanding for the three months ended September 30, 2019 and 2018. The stock repurchase program is intended, in part, to offset shares issued in connection with the purchases under our Employee Stock Purchase Plan (“ESPP”) program and the vesting of employee restricted stock units. 
+
+
+
+
+
+
+
+•An increase in collections of approximately $324.0 million mainly driven by higher shipments and inclusion of Orbotech during the three months ended September 30, 2019; 
+
+
+
+•Lower VAT and other tax payments of approximately $15.0 million; partially offset by
+
+
+
+•An increase in accounts payable payments of approximately $105.0 million mainly due to the inclusion of Orbotech during the three months ended September 30, 2019;
+
+
+
+•An increase in employee related payments of approximately $84.0 million mainly due to the inclusion of Orbotech during the three months ended September 30, 2019;
+
+
+
+•An increase of debt interest payments of approximately $26.0 million related to Senior Notes issued in March 2019 for the Orbotech acquisition; and 
+
+
+
+•A decrease in interest income of approximately $4.0 million mainly due to lower cash and investment balances.
+
+
+
+
+
+Net cash used in investing activities during the three months ended September 30, 2019 was $146.7 million compared to cash provided by investing activities of $314.9 million during the three months ended September 30, 2018. This change was mainly due to lower net sales and maturities of marketable securities of $385.6 million, and an increase in cash paid for business acquisitions of $66.7 million. 
+
+
+
+
+
+Net cash used in financing activities during the three months ended September 30, 2019 was $373.6 million compared to cash used in financing activities of $449.7 million during the three months ended September 30, 2018. This change was mainly due to a decrease in cash used for common stock repurchases of $71.5 million during the three months ended September 30, 2019.
+
+
+
+
+
+In March 2019 and November 2014, we issued $1.20 billion and $2.50 billion, respectively (each a “2019 Senior Notes”, a “2014 Senior Notes”, and collectively the “Senior Notes”), aggregate principal amount of senior, unsecured long-term notes. 
+
+
+
+
+
+The original discounts on the 2019 Senior Notes and the 2014 Senior Notes amounted to $6.7 million and $4.0 million, respectively, and are being amortized over the life of the debt. Interest is payable semi-annually on May 1 and November 1 of each year for the 2014 Senior Notes and semi-annually on March 15 and September 15 of each year for the 2019 Senior Notes. The indenture for the Senior Notes (the “Indenture”) includes covenants that limit our ability to grant liens on our facilities and enter into sale and leaseback transactions, subject to certain allowances under which certain sale and leaseback transactions are not restricted. 
+
+
+
+
+
+As of September 30, 2019, we were in compliance with all of our covenants under the Indenture associated with the Senior Notes. 
+
+
+
+
+
+In November 2017, we entered into a Credit Agreement (the “Credit Agreement”) providing for a $750.0 million five-year unsecured Revolving Credit Facility (the “Revolving Credit Facility”), which replaced our prior Credit Facility. Subject to the terms of the Credit Agreement, the Revolving Credit Facility may be increased in an amount up to $250.0 million in the aggregate. In November 2018, we entered into an Incremental Facility, Extension and Amendment Agreement (the “Amendment”), which amends the Credit Agreement to (a) extend the Maturity Date (the “Maturity Date”) from November 30, 2022 to November 30, 2023, (b) increase the total commitment by $250.0 million and (c) effect certain other amendments to the Credit Agreement as set forth in the Amendment. After giving effect to the Amendment, the total commitments under the Credit Agreement are $1.00 billion. 
+
+
+
+We may borrow, repay and reborrow funds under the Revolving Credit Facility until the Maturity Date, at which time such Revolving Credit Facility will terminate, and all outstanding loans under such facility, together with all accrued and unpaid interest, must be repaid. We may prepay outstanding borrowings under the Revolving Credit Facility at any time without a prepayment penalty. 
+
+
+
+
+
+The Revolving Credit Facility requires us to maintain an interest expense coverage ratio as described in the Credit Agreement, on a quarterly basis, covering the trailing four consecutive fiscal quarters of no less than 3.50 to 1.00. In addition, we are required to maintain the maximum leverage ratio as described in the Credit Agreement, on a quarterly basis of 3.00 to 1.00, covering the trailing four consecutive fiscal quarters for each fiscal quarter, which can be increased to 4.00 to 1.00 for a period of time in connection with a material acquisition or a series of material acquisitions. As of September 30, 2019, our maximum allowed leverage ratio was 4.00 to 1.00 following the Orbotech Acquisition.
+
+
+
+We were in compliance with all covenants under the Credit Agreement as of September 30, 2019 (the interest expense coverage ratio was 13.14 to 1.00 and the leverage ratio was 1.8 to 1.00) and had no outstanding borrowings under the unfunded Revolving Credit Facility. Considering our current liquidity position, short-term financial forecasts and ability to prepay the Revolving Credit Facility, if necessary, we expect to continue to be in compliance with our financial covenants at the end of our fiscal year ending June 30, 2020.
+
+
+
+
+
+There have been no material changes outside the ordinary course of business to our contractual obligations as disclosed on our Annual Report Form 10-K for the fiscal year ended June 30, 2019. For additional details regarding our contractual obligations, refer to our Annual Report Form 10-K for the fiscal year ended June 30, 2019. For additional details regarding our commitments, refer to Note 15, “Commitments and Contingencies” to our Condensed Consolidated Financial Statements. 
+
+
+
+
+
+Working capital was $2.41 billion as of September 30, 2019, which represents a decrease of $134.3 million compared to our working capital of $2.55 billion as of June 30, 2019. As of September 30, 2019, our principal sources of liquidity consisted of $1.75 billion of cash, cash equivalents and marketable securities. Our liquidity may be affected by many factors, some of which are based on the normal ongoing operations of the business, spending for business acquisitions, and other factors such as uncertainty in the global and regional economies and the semiconductor, semiconductor related and electronic device industries. Although cash requirements will fluctuate based on the timing and extent of these factors, we believe that cash generated from operations, together with the liquidity provided by existing cash and cash equivalents balances and our $1.00 billion Revolving Credit Facility, will be sufficient to satisfy our liquidity requirements associated with working capital needs, capital expenditures, cash dividends, stock repurchases and other contractual obligations, including repayment of outstanding debt, for at least the next 12 months. 
+
+
+
+
+
+
+
+Factors that can affect our credit ratings include changes in our operating performance, the economic environment, conditions in the semiconductor and semiconductor equipment industries, our financial position, material acquisitions and changes in our business strategy.
+
+
+
+Off-Balance Sheet Arrangements
+
+
+
+As of September 30, 2019, we did not have any off-balance sheet arrangements, as defined in Item 303(a)(4)(ii) of SEC Regulation S-K, that have or are reasonably likely to have a current or future effect on our financial position, changes in financial condition, revenues and expenses, results of operations, liquidity, capital expenditures, or capital resources that are material to investors. Refer to Note 15 “Commitments and Contingencies” to the Condensed Consolidated Financial Statements for information related to indemnification obligations. 
+
+
+
+ITEM 2.UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+
+
+
+Equity Repurchase Plans
+
+
+
+
+
+
+
+
+

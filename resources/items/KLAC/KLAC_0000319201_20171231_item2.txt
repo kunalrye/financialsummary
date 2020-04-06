@@ -1,0 +1,568 @@
+ITEM 2.MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+
+
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+
+
+This report contains certain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. All statements other than statements of historical fact may be forward-looking statements. You can identify these and other forward-looking statements by the use of words such as “may,” “will,” “could,” “would,” “should,” “expects,” “plans,” “anticipates,” “relies,” “believes,” “estimates,” “predicts,” “intends,” “potential,” “continue,” “thinks,” “seeks,” or the negative of such terms, or other comparable terminology. Forward-looking statements also include the assumptions underlying or relating to any of the foregoing statements. Such forward-looking statements include, among others, forecasts of the future results of our operations, including profitability; orders for our products and capital equipment generally; sales of semiconductors; the investments by our customers in advanced technologies and new materials; the allocation of capital spending by our customers (and, in particular, the percentage of spending that our customers allocate to process control); growth of revenue in the semiconductor industry, the semiconductor capital equipment industry and our business; technological trends in the semiconductor industry; future developments or trends in the global capital and financial markets; our future product offerings and product features; the success and market acceptance of new products; timing of shipment of backlog; our future product shipments and product and service revenues; our future gross margins; our future research and development expenses and selling, general and administrative expenses; our ability to successfully maintain cost discipline; international sales and operations; our ability to maintain or improve our existing competitive position; success of our product offerings; creation and funding of programs for research and development; attraction and retention of employees; results of our investment in leading edge technologies; the effects of hedging transactions; the effect of the sale of trade receivables and promissory notes from customers; our future effective income tax rate; our recognition of tax benefits; future payments of dividends to our stockholders; the completion of any acquisitions of third parties, or the technology or assets thereof; benefits received from any acquisitions and development of acquired technologies; sufficiency of our existing cash balance, investments, cash generated from operations and the unfunded portion of our revolving line of credit under a Credit Agreement (the “Credit Agreement”) to meet our operating and working capital requirements, including debt service and payment thereof; future dividends, and stock repurchases; our compliance with the financial covenants under the Credit Agreement; the adoption of new accounting pronouncements; the tax liabilities resulting from the enactment of the Tax Cuts and Jobs Act; and our repayment of our outstanding indebtedness.
+
+
+
+Our actual results may differ significantly from those projected in the forward-looking statements in this report. Factors that might cause or contribute to such differences include, but are not limited to, those discussed in Part II, Item 1A, “Risk Factors” in this report as well as in Item 1, “Business” and Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report on Form 10-K for the year ended June 30, 2017, filed with the Securities and Exchange Commission on August 4, 2017. You should carefully review these risks and also review the risks described in other documents we file from time to time with the Securities and Exchange Commission. You are cautioned not to place undue reliance on these forward-looking statements, and we expressly assume no obligation and do not intend to update the forward-looking statements in this report after the date hereof.
+
+
+
+EXECUTIVE SUMMARY
+
+
+
+KLA-Tencor Corporation is a leading supplier of process control and yield management solutions for the semiconductor and related nanoelectronics industries. Our broad portfolio of inspection and metrology products, and related service, software and other offerings primarily supports integrated circuit (“IC” or “chip”) manufacturers throughout the entire semiconductor fabrication process, from research and development to final volume production. We provide leading-edge equipment, software and support that enable IC manufacturers to identify, resolve and manage significant advanced technology manufacturing process challenges and obtain higher finished product yields at lower overall cost. In addition to serving the semiconductor industry, we also provide a range of technology solutions to a number of other high technology industries, including advanced packaging, light emitting diode (“LED”), power devices, compound semiconductor and data storage industries, as well as general materials research. 
+
+
+
+Our products and services are used by the vast majority of bare wafer, IC, lithography reticle (“reticle” or “mask”) and disk manufacturers around the world. Our products, services and expertise are used by our customers to measure, detect, analyze and resolve critical product defects that arise in that environment in order to control nanometric level manufacturing processes. Our revenues are driven largely by our customers’ spending on capital equipment and related maintenance services necessary to support key transitions in their underlying product technologies, or to increase their production volumes in response to market demand or expansion plans. Our semiconductor customers generally operate in one or more of the three major semiconductor markets - memory, foundry and logic. All three of these markets are characterized by rapid technological changes and sudden shifts in end-user demand, which influence the level and pattern of our customers’ spending on our products and services. Although capital spending in all three semiconductor markets has historically been very cyclical, the demand for more advanced and lower cost chips used in a growing number of consumer electronics, communications, data processing, and industrial and automotive products has resulted over the long term in a favorable demand environment for our process control and yield management solutions, particularly in the foundry and logic markets, which have higher levels of process control adoption than the memory market. 
+
+
+
+As we are a supplier to the global semiconductor and semiconductor-related industries, our customer base continues to become more highly concentrated over time, thereby increasing the potential impact of a sudden change in capital spending by a major customer on our revenues and profitability. As our customer base becomes increasingly more concentrated, large orders from a relatively limited number of customers account for a substantial portion of our sales, which potentially exposes us to more volatility for revenues and earnings. In the global semiconductor related industries, China is emerging as a major region for manufacturing of logic and memory chips, adding to its role as the world’s largest consumer of ICs. Government initiatives are propelling China to expand its domestic manufacturing capacity and attracting semiconductor manufacturers from Taiwan, Korea, Japan and the US. China is currently seen as an important long term growth region for the semiconductor capital equipment sector. We are also subject to the cyclical capital spending that has historically characterized the semiconductor and semiconductor-related industries. The timing, length, intensity and volatility of the capacity-oriented capital spending cycles of our customers are unpredictable. 
+
+
+
+
+
+The demand for our products and our revenue levels are driven by our customers’ needs to solve the process challenges that they face as they adopt new technologies required to fabricate advanced ICs that are incorporated into sophisticated mobile devices. The timing for our customers in ordering and taking delivery of process control and yield management equipment is also determined by our customers’ requirements to meet the next generation production ramp schedules, and the timing for capacity expansion to meet end customer demand. During the three months ended December 31, 2017, revenues for our process control equipment had a modest increase compared to the quarter ended September 30, 2017. Our earnings will depend not only on our revenue levels, but also on the amount of research and development spending required to meet our customers’ technology roadmaps. We have maintained production volumes and capacity to meet anticipated customer requirements and remain at risk of incurring significant inventory-related and other restructuring charges if business conditions deteriorate. Over the past year, our customers have taken delivery of higher volumes of process control equipment than they did in the previous year. However, any delay or push out by our customers in taking delivery of process control and yield management equipment may cause earnings volatility, due to increases in the risk of inventory related charges as well as timing of revenue recognition.
+
+
+
+
+
+
+
+
+
+
+
+CRITICAL ACCOUNTING ESTIMATES AND POLICIES
+
+
+
+
+
+•Revenue Recognition
+
+
+
+•Inventories
+
+
+
+•Warranty
+
+
+
+•Allowance for Doubtful Accounts
+
+
+
+•Equity and Cash-Based Long-Term Incentive Compensation Plans
+
+
+
+•Contingencies and Litigation
+
+
+
+•Goodwill and Intangible Assets
+
+
+
+•Income Taxes
+
+
+
+•Valuation of Marketable Securities
+
+
+
+ Other than the recording of provisional tax amounts for the transition tax payable and adoption of the accounting standard update on accounting for subsequent measurement of inventory (see “Recent Accounting Pronouncements” below), there were no significant changes in our critical accounting estimates and policies during the six months ended December 31, 2017. Please refer to Management’s Discussion and Analysis of Financial Condition and Results of Operations contained in Part II, Item 7 of our Annual Report on Form 10-K for our fiscal year ended June 30, 2017 for a more complete discussion of our critical accounting policies and estimates.
+
+
+
+Revenue Recognition 
+
+
+
+We recognize revenue when persuasive evidence of an arrangement exists, delivery has occurred or services have been rendered, the selling price is fixed or determinable, and collectibility is reasonably assured. We derive revenue from three sources—sales of systems, spare parts and services. In general, we recognize revenue for systems when the system has been installed, is operating according to predetermined specifications and is accepted by the customer. When we have demonstrated a history of successful installation and acceptance, we recognize revenue upon delivery and customer acceptance. 
+
+
+
+
+
+•When the customer fab has previously accepted the same tool, with the same specifications, and when we can objectively demonstrate that the tool meets all of the required acceptance criteria. 
+
+
+
+•When system sales to independent distributors have no installation requirement, contain no acceptance agreement, and 100% of the payment is due based upon shipment. 
+
+
+
+•When the installation of the system is deemed perfunctory. 
+
+
+
+•When the customer withholds acceptance due to issues unrelated to product performance, in which case revenue is recognized when the system is performing as intended and meets predetermined specifications. 
+
+
+
+In circumstances in which we recognize revenue prior to installation, the portion of revenue associated with installation is deferred based on estimated fair value, and that revenue is recognized upon completion of the installation.
+
+
+
+
+
+Trade-in rights are occasionally granted to customers to trade in tools in connection with subsequent purchases. We estimate the value of the trade-in right and reduce the revenue recognized on the initial sale. This amount is recognized at the earlier of the exercise of the trade-in right or the expiration of the trade-in right.
+
+
+
+We enter into volume purchase agreements with some of our customers. We accrue the estimated credits earned by our customers for such incentives, and in situations when the credit levels vary depending upon sales volume, we update our accrual based on the amount that we estimate will be purchased pursuant to the volume purchase agreements. Accruals for customer credits are recorded as an offset to revenue or deferred revenue. 
+
+
+
+Spare parts revenue is recognized when the parts have been shipped, risk of loss has passed to the customer and collection of the resulting receivable is reasonably assured.
+
+
+
+Service and maintenance contract revenue is recognized ratably over the term of the maintenance contract. Revenue from services performed in the absence of a maintenance contract, including consulting and training revenue, is recognized when the related services are performed and collectibility is reasonably assured.
+
+
+
+We sell stand-alone software that is subject to software revenue recognition guidance. We periodically review selling prices to determine whether VSOE exists, and in situations where we are unable to establish VSOE for undelivered elements such as post-contract service, revenue is recognized ratably over the term of the service contract.
+
+
+
+We also defer the fair value of non-standard warranty bundled with equipment sales as unearned revenue. Non-standard warranty includes services incremental to the standard 40-hour per week coverage for 12 months. Non-standard warranty is recognized ratably as revenue when the applicable warranty term period commences. 
+
+
+
+The deferred system profit balance equals the value of products that have been shipped and billed to customers which have not met our revenue recognition criteria, less applicable product and warranty costs. Deferred system profit does not include the profit associated with product shipments to certain customers in Japan, to whom title does not transfer until customer acceptance. Shipments to such customers in Japan are classified as inventory at cost until the time of acceptance.
+
+
+
+We enter into sales arrangements that may consist of multiple deliverables of our products and services where certain elements of the sales arrangement are not delivered and accepted in one reporting period. Judgment is required to properly identify the accounting units of the multiple deliverable transactions and to determine the manner in which revenue should be allocated among the accounting units. Additionally, judgment is required to interpret various commercial terms and determine when all criteria of revenue recognition have been met in order for revenue recognition to occur in the appropriate accounting period. While changes in the allocation of the estimated selling price between the accounting units will not affect the amount of total revenue recognized for a particular arrangement, any material changes in these allocations could impact the timing of revenue recognition, which could have a material effect on our financial position and results of operations.
+
+
+
+Income Taxes
+
+
+
+We account for income taxes in accordance with the authoritative guidance which requires income tax effects for changes in tax laws are recognized in the period in which the law is enacted. 
+
+
+
+
+
+Deferred tax assets and liabilities are recognized using enacted tax rates for the effect of temporary differences between the book and tax bases of recorded assets and liabilities. The guidance also requires that deferred tax assets be reduced by a valuation allowance if it is more likely than not that a portion of the deferred tax asset will not be realized. We have determined that a valuation allowance is necessary against a portion of the deferred tax assets, but we anticipate that our future taxable income will be sufficient to recover the remainder of our deferred tax assets. However, should there be a change in our ability to recover our deferred tax assets that are not subject to a valuation allowance, we could be required to record an additional valuation allowance against such deferred tax assets. This would result in an increase to our tax provision in the period in which we determine that the recovery is not probable.
+
+
+
+On a quarterly basis, we provide for income taxes based upon an estimated annual effective income tax rate. The effective tax rate is highly dependent upon the geographic composition of worldwide earnings, tax regulations governing each region, availability of tax credits and the effectiveness of our tax planning strategies. We carefully monitor the changes in many factors and adjust our effective income tax rate on a timely basis. If actual results differ from these estimates, this could have a material effect on our financial condition and results of operations.
+
+
+
+In addition, the calculation of our tax liabilities involves dealing with uncertainties in the application of complex tax regulations. In accordance with the authoritative guidance on accounting for uncertainty in income taxes, we recognize liabilities for uncertain tax positions based on the two-step process. The first step is to evaluate the tax position for recognition by determining if the weight of available evidence indicates that it is more likely than not that the position will be sustained in audit, including resolution of related appeals or litigation processes, if any. The second step is to measure the tax benefit as the largest amount that is more than 50% likely of being realized upon ultimate settlement. We reevaluate these uncertain tax positions on a quarterly basis. This evaluation is based on factors including, but not limited to, changes in facts or circumstances, changes in tax law, effectively settled issues under audit and new audit activity. Any change in these factors could result in the recognition of a tax benefit or an additional charge to the tax provision.
+
+
+
+Valuation of Goodwill and Intangible Assets
+
+
+
+
+
+We performed a qualitative assessment of the goodwill by reporting unit as of November 30, 2017 during the three months ended December 31, 2017 and concluded that there was no impairment. We assess goodwill for impairment annually as well as whenever events or changes in circumstances indicate that the carrying value may not be recoverable. Long-lived intangible assets are tested for impairment whenever events or changes in circumstances indicate that their carrying amounts may not be recoverable. 
+
+
+
+
+
+Inventories
+
+
+
+Inventories are stated at the lower of cost (on a first-in, first-out basis) or net realizable value. Net realizable value is the estimated selling prices in the ordinary course of business, less reasonably predictable costs of completion, disposal and transportation. Demonstration units are stated at their manufacturing cost and written down to their net realizable value. We review and set standard costs semi-annually at current manufacturing costs in order to approximate actual costs. Our manufacturing overhead standards for product costs are calculated assuming full absorption of forecasted spending over projected volumes, adjusted for excess capacity. Abnormal inventory costs such as costs of idle facilities, excess freight and handling costs, and spoilage are recognized as current period charges. We write down product inventory based on forecasted demand and technological obsolescence and service spare parts inventory based on forecasted usage. These factors are impacted by market and economic conditions, technology changes, new product introductions and changes in strategic direction and require estimates that may include uncertain elements. Actual demand may differ from forecasted demand, and such differences may have a material effect on recorded inventory values.
+
+
+
+Recent Accounting Pronouncements
+
+
+
+For a description of recent accounting pronouncements, including those recently adopted and the expected dates of adoption as well as estimated effects, if any, on our condensed consolidated financial statements of those not yet adopted, see Note 1, “Basis of Presentation” to the Condensed Consolidated Financial Statements.
+
+
+
+RESULTS OF OPERATIONS
+
+
+
+Revenues and Gross Margin
+
+
+
+
+
+
+
+Product revenues
+
+
+
+Our business is affected by the concentration of our customer base and our customers’ capital equipment procurement schedules as a result of their investment plans. Our product revenues in any particular quarter are significantly impacted by the amount of new orders that we receive during that quarter and, depending upon the duration of manufacturing and installation cycles, in the preceding quarters.
+
+
+
+Product revenues during the three months ended December 31, 2017 compared to the three months ended September 30, 2017 remained relatively unchanged.
+
+
+
+Product revenues increased during the three months ended December 31, 2017 compared to the three months ended December 31, 2016, primarily due to increased investments from our memory customers for next generation technology as well as capacity-related investments.
+
+
+
+Product revenues increased during the six months ended December 31, 2017 compared to the six months ended December 31, 2016, primarily due to increased investments from our memory and logic customers for next generation technology as well as capacity-related investments.
+
+
+
+Service revenues
+
+
+
+Service revenues are generated from maintenance contracts, as well as billable time and material service calls made to our customers after the expiration of the warranty period. The amount of our service revenues is typically a function of the number of post-warranty systems installed at our customers’ sites and the utilization of those systems, but it is also impacted by other factors, such as our rate of service contract renewals, the types of systems being serviced and fluctuations in foreign exchange rates. Service revenues during the three months ended December 31, 2017 increased compared to each of the three months ended September 30, 2017 and December 31, 2016, and service revenues during the six months ended December 31, 2017 increased compared to the six months ended December 31, 2016, primarily as a result of an increase over time in the number of post-warranty systems installed at our customers’ sites over that time period.
+
+
+
+Revenues by region
+
+
+
+
+
+
+
+A significant portion of our revenues continues to be generated in Asia, where a substantial portion of the world’s semiconductor manufacturing capacity is located, and we expect that trend to continue.
+
+
+
+Gross margin
+
+
+
+Our gross margin fluctuates with revenue levels and product mix and is affected by variations in costs related to manufacturing and servicing our products, including our ability to scale our operations efficiently and effectively in response to prevailing business conditions.
+
+
+
+
+
+
+
+Changes in gross margin percentage driven by revenue volume of products and services reflect our ability to leverage existing infrastructure to generate higher revenues. It also includes the effect of fluctuations in foreign exchange rates, average customer pricing and customer revenue deferrals associated with volume purchase agreements. Changes in gross margin percentage from mix of products and services sold reflect the impact of changes in the composition within product and service offerings. Changes in gross margin percentage from manufacturing labor, overhead and efficiencies reflect our ability to manage costs and drive productivity as we scale our manufacturing activity to respond to customer requirements; this includes the impact of capacity utilization, use of overtime and variability of cost structure. Changes in gross margin percentage from other service and manufacturing costs include the impact of customer support costs, including the efficiencies with which we deliver services to our customers, and the effectiveness with which we manage our production plans and inventory risk.
+
+
+
+Our gross margin increased to 64.4% during the three months ended December 31, 2017 from 63.5% during the three months ended September 30, 2017, primarily due to a favorable mix of products and services sold, a lower charges for inventory obsolescence, lower warranty costs, and an increase in manufacturing efficiencies.
+
+
+
+Our gross margin increased to 64.4% during the three months ended December 31, 2017, from 63.7% during the three months ended December 31, 2016, primarily due to higher revenue volume of products and services, and a favorable mix of products and services sold, partially offset by a decrease in manufacturing efficiencies. 
+
+
+
+Our gross margin increased to 64.0% during the six months ended December 31, 2017, from 63.4% during the six months ended December 31, 2016, primarily due to higher revenue volume of products and services, partially offset by a less favorable mix of products and services sold, a decrease in manufacturing efficiencies, and other costs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Our future operating results will depend significantly on our ability to produce products and provide services that have a competitive advantage in our marketplace. To do this, we believe that we must continue to make substantial and focused investments in our research and development. We remain committed to product development in new and emerging technologies as we address the yield challenges our customers face at future technology nodes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interest Expense and Other Expense (Income), Net
+
+
+
+
+
+
+
+Interest expense during the three and six months ended December 31, 2017 decreased compared to the three and six months ended December 31, 2016 and the three months ended September 30, 2017, primarily due to $250.0 million repayment of the Senior Notes at maturity and prepayment of term loans.
+
+
+
+Other expense (income), net is comprised primarily of realized gains or losses on sales of marketable securities, gains or losses from revaluations of certain foreign currency denominated assets and liabilities as well as foreign currency contracts, impairments associated with equity investments in privately-held companies and any subsequent recoveries of impaired investments, interest-related accruals (such as interest and penalty accruals related to our tax obligations) and interest income earned on our investment and cash portfolio.
+
+
+
+The increase in other expense (income), net during the three months ended December 31, 2017 compared to the three months ended September 30, 2017 was primarily due to net foreign currency gain of $1.6 million, and an impairment charge on an equity investment in a privately-held company of $1.0 million that occurred during the three months ended September 31, 2017, which did not take place during the three months ended December 31, 2017. 
+
+
+
+The increase in other expense (income), net during the three months ended December 31, 2017 compared to the three months ended December 31, 2016 was primarily due to an increase in interest income of $3.2 million and net foreign currency gains of approximately $1.6 million. 
+
+
+
+The increase in other expense (income), net during the six months ended December 31, 2017 compared to the six months ended December 31, 2016 was primarily due to an increase in interest income of $6.9 million.
+
+
+
+Provision for Income Taxes
+
+
+
+
+
+
+
+Our effective tax rate during the three and six months ended December 31, 2017 was impacted by the Tax Cuts and Jobs Act (“the Act”), which was enacted into law on December 22, 2017. Income tax effects resulting from changes in tax laws are accounted for by us in accordance with the authoritative guidance, which requires that these tax effects be recognized in the period in which the law is enacted and the effects are recorded as a component of provision for income taxes from continuing operations. As a result, we made an additional provision for income tax resulting from the enactment of the Act during the three and six months ended December 31, 2017.
+
+
+
+This Act includes significant changes to the U.S. corporate income tax system which reduces the U.S. federal corporate tax rate from 35.0% to 21.0% as of January 1, 2018; shifts to a modified territorial tax regime which requires companies to pay a transition tax on earnings of certain foreign subsidiaries that were previously tax deferred; and creates new taxes on certain foreign-sourced earnings. The decrease in the U.S. federal corporate tax rate from 35.0% to 21.0% results in a blended statutory tax rate of 28.1% for the fiscal year ending June 30, 2018. The new taxes for certain foreign-sourced earnings under the Act are effective for the Company after the fiscal year ending June 30, 2018. 
+
+
+
+
+
+
+
+
+
+•We recorded a provisional tax amount of $101.1 million to re-measure certain deferred tax assets and liabilities as a result of the enactment of the Act. We are still analyzing certain aspects of the Act and refining the estimate of the expected reversal of our deferred tax balances. This can potentially affect the measurement of these balances or potentially give rise to new deferred tax amounts.
+
+
+
+We expect a recurring tax rate of 17% for the remaining six months of the fiscal year ending June 30, 2018. In addition, there will be an increase or decrease in tax expense for the remaining six months of the fiscal year ending June 30, 2018 for changes in uncertain tax positions and items treated as period costs that are not included in the recurring tax rate. Our recurring tax rate differs from our effective tax rate as a result of inclusion of certain period costs in our effective tax rate but not in the recurring tax rate. There will also be changes in the provisional tax amounts as a result of the Act related to the effects on our deferred tax balances and the transition tax as additional information becomes available. The new taxes for certain foreign-sourced earnings under the Act are effective for us after the fiscal year ending June 30, 2018.
+
+
+
+The Act also includes provisions for Global Intangible Low-Taxed Income (“GILTI”) wherein taxes on foreign income are imposed in excess of a deemed return on tangible assets of foreign corporations. This income will effectively be taxed at a 10.5% tax rate in general. As a result, our deferred tax assets and liabilities are being evaluated if the deferred tax assets and liabilities should be recognized for the basis differences expected to reverse as a result of GILTI provisions that are effective for us after the fiscal year ending June 30, 2018, or should the tax on GILTI provisions be recognized in the period the Act was signed into law. Because of the complexity of the new provisions, we are continuing to evaluate on how the provisions will be accounted for under the U.S. generally accepted accounting principles wherein companies are allowed to make an accounting policy election of either (i) account for GILTI as a component of tax expense in the period in which we are subject to the rules (the “period cost method”), or (ii) account for GILTI in our measurement of deferred taxes (the “deferred method”). Currently, we have not elected a method and will only do so after our completion of the analysis of the GILTI provisions and our election method will depend, in part, on analyzing our global income to determine whether we expect to have future U.S. inclusions in our taxable income related to GILTI and, if so, the impact that is expected.
+
+
+
+In the normal course of business, we are subject to examination by tax authorities throughout the world. We are subject to United States federal income tax examination for all years beginning from the fiscal year ended June 30, 2014. We are subject to state income tax examinations for all years beginning from the fiscal year ended June 30, 2013. We are also subject to examinations in other major foreign jurisdictions, including Singapore, for all years beginning from the fiscal year ended June 30, 2013. 
+
+
+
+It is possible that certain examinations may be concluded in the next twelve months. We believe that we may recognize up to $12.6 million of our existing unrecognized tax benefits within the next twelve months as a result of the lapse of statutes of limitations and the resolution of examinations with various tax authorities. 
+
+
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+
+
+
+
+
+
+As of December 31, 2017, our cash, cash equivalents and marketable securities totaled $2.76 billion, which is a decrease of $258.6 million from June 30, 2017. The decrease is mainly due to the payment of Senior Notes and term loans of $696.3 million, payment of dividends and dividend equivalents of $192.9 million, and stock repurchases of $80.4 million, partially offset by our cash generated from operations, net proceeds from marketable securities of $172.4 million, and proceeds from the revolving credit facility, net of issuance costs, of $248.7 million. As of December 31, 2017, $1.96 billion of our $2.76 billion of cash, cash equivalents and marketable securities were held by our foreign subsidiaries and branch offices. We have accrued U.S. federal taxes under the Tax Cut and Jobs Act and can repatriate these funds without incurring any additional U.S. federal tax other than if the U.S. dollar value of the funds increase. We currently intend to indefinitely reinvest $1.76 billion of the cash, cash equivalents and marketable securities held by our foreign subsidiaries. If, however, a portion of these funds were to be repatriated to the United States, we would be required to accrue and pay state and foreign taxes of approximately 1%-22% of the funds repatriated. The amount of taxes due will depend on the amount and manner of the repatriation, as well as the location from which the funds are repatriated. We have accrued state and foreign tax on the remaining cash of $197.4 million of the $1.96 billion held by our foreign subsidiaries and branch offices. As such, these funds can be returned to the U.S. without accruing any additional U.S. tax expense.
+
+
+
+
+
+During the three months ended December 31, 2017, our Board of Directors declared a regular quarterly cash dividend of $0.59 per share on our outstanding common stock, which was paid on December 1, 2017 to our stockholders of record as of the close of business on November 15, 2017. During the same period in fiscal year 2017, our Board of Directors declared and paid a regular quarterly cash dividend of $0.54 per share on our outstanding common stock. The total amount of regular quarterly cash dividends and dividend equivalents paid during the three months ended December 31, 2017 and 2016 was $92.6 million and $84.5 million, respectively. The total amount of regular quarterly cash dividends paid during the six months ended December 31, 2017 and 2016 was $186.7 million and $166.1 million, respectively. The amount of accrued dividends payable for regular quarterly cash dividends on unvested restricted stock units with dividend equivalent rights as of December 31, 2017 and June 30, 2017 was $4.8 million and $4.8 million, respectively. These amounts will be paid upon vesting of the underlying unvested restricted stock units as described in Note 8, “Equity and Long-term Incentive Compensation Plans,” to the condensed consolidated financial statements.
+
+
+
+On November 19, 2014, we declared a special cash dividend of $16.50 per share on our outstanding common stock which was paid on December 9, 2014 to our stockholders of record as of the close of business on December 1, 2014. The declaration and payment of the special cash dividend was part of our leveraged recapitalization transaction under which the special cash dividend was financed through a combination of existing cash and proceeds from the debt financing disclosed in Note 7, “Debt,” to the condensed consolidated financial statements that was completed during the three months ended December 31, 2014. As of the declaration date, the total amount of the special cash dividend accrued by us was approximately $2.76 billion, substantially all of which was paid out during the three months ended December 31, 2014, except for the aggregate special cash dividend of $43.0 million that was accrued for the unvested restricted stock units. As of December 31, 2017 and June 30, 2017, we had $2.8 million and $9.0 million, respectively, of accrued dividends payable for the special cash dividend with respect to outstanding unvested restricted stock units, which will be paid when such underlying unvested restricted stock units vest. During the three months ended December 31, 2017 and 2016, the total special cash dividends paid with respect to vested restricted stock units were immaterial. During the six months ended December 31, 2017 and 2016, the total special cash dividends paid with respect to vested restricted stock units were $6.2 million and $7.7 million, respectively. Other than the special cash dividend declared during the three months ended December 31, 2014, we historically have not declared any special cash dividend. 
+
+
+
+
+
+The shares repurchased under our stock repurchase program have reduced our basic and diluted weighted-average shares outstanding. The stock repurchase program is intended, in part, to offset shares issued in connection with the purchases under our ESPP program and the vesting of employee restricted stock units. 
+
+
+
+
+
+
+
+
+
+Net cash provided by investing activities during the six months ended December 31, 2017 was $138.9 million compared to cash used in investing activities of $308.2 million during the six months ended December 31, 2016. This change was mainly due to the net purchases of marketable securities of $285.0 million during the six months ended December 31, 2016, compared to the net liquidation of investments in marketable securities of approximately $172.4 million during the six months ended December 31, 2017.
+
+
+
+
+
+
+
+
+
+
+
+The original discount on the Senior Notes amounted to $4.0 million and is being amortized over the life of the debt. Interest is payable semi-annually on May 1 and November 1 of each year. The debt indenture (the “Indenture”) includes covenants that limit our ability to grant liens on its facilities and enter into sale and leaseback transactions, subject to certain allowances under which certain sale and leaseback transactions are not restricted. In November 2017, we repaid $250.0 million of Senior Notes at maturity. As of December 31, 2017, we were in compliance with all of the covenants under the Indenture associated with the Senior Notes.
+
+
+
+
+
+In November 2014, we entered into $750.0 million of five-year senior unsecured prepayable term loans and a $500.0 million unfunded revolving credit facility (collectively, the “Credit Facility”).
+
+
+
+In November 2017, we entered into a Credit Agreement (the “Credit Agreement”) providing for a $750.0 million five-year unsecured revolving credit facility (the “Revolving Credit Facility”), which replaced our prior Credit Facility. Subject to the terms of the Credit Agreement, the Revolving Credit Facility may be increased in an amount up to $250.0 million in the aggregate. As of December 30, 2017, 2017, after giving effect to the borrowings made on the closing date, we had outstanding $250.0 million aggregate principal amount of borrowings under the Revolving Credit Facility. The proceeds from the borrowings on the closing date, together with the cash on hand was used to pay in full the remaining term loan balance under the Credit Facility. 
+
+
+
+We may borrow, repay and reborrow funds under the Revolving Credit Facility until its maturity don November 30, 2022 (the “Maturity Date”), at which time such Revolving Credit Facility will terminate, and all outstanding loans under such facility, together with all accrued and unpaid interest, must be repaid. We may prepay the Revolving Credit Facility at any time without a prepayment penalty. 
+
+
+
+
+
+The Revolving Credit Facility requires us to maintain an interest expense coverage ratio as described in the Credit Agreement, on a quarterly basis, covering the trailing four consecutive fiscal quarters of no less than 3.50 to 1.00. In addition, we are required to maintain the maximum leverage ratio as described in the Credit Agreement, on a quarterly basis of 3.00 to 1.00, covering the trailing four consecutive fiscal quarters for each fiscal quarter, which can be increased to 4.00 to 1.00 for a period of time in connection with a material acquisition or a series of material acquisitions.
+
+
+
+We were in compliance with the financial covenants under the Credit Agreement as of December 31, 2017 (the interest expense coverage ratio was 13.19 to 1.00 and the leverage ratio was 1.59 to 1.00). Considering our current liquidity position, short-term financial forecasts and ability to prepay the Revolving Credit Facility, if necessary, we expect to continue to be in compliance with our financial covenants at the end of our fiscal year ending June 30, 2018.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We have adopted a cash-based long-term incentive (“Cash LTI”) program for many of our employees as part of our employee compensation program. Cash LTI awards issued to employees under the Cash Long-Term Incentive Plan (“Cash LTI Plan”) generally vest in three or four equal installments, with one-third or one-fourth of the aggregate amount of the Cash LTI award vesting on each yearly anniversary of the grant date over a three or four-year period. In order to receive payments under the Cash LTI Plan, participants must remain employed by us as of the applicable award vesting date. 
+
+
+
+We have agreements with financial institutions to sell certain of our trade receivables and promissory notes from customers without recourse. In addition, we periodically sell certain letters of credit (“LCs”), without recourse, received from customers in payment for goods and services.
+
+
+
+
+
+
+
+Factoring and LC fees for the sale of certain trade receivables were recorded in other expense (income), net and were not material for the periods presented. 
+
+
+
+We maintain guarantee arrangements available through various financial institutions for up to $21.8 million, of which $16.0 million had been issued as of December 31, 2017, primarily to fund guarantees to customs authorities for value-added tax (“VAT”) and other operating requirements of our subsidiaries in Europe and Asia. 
+
+
+
+
+
+
+
+Working capital was $3.19 billion as of December 31, 2017, which is an increase of $88.5 million compared to our working capital of $3.10 billion as of June 30, 2017. As of December 31, 2017, our principal sources of liquidity consisted of $2.76 billion of cash, cash equivalents and marketable securities. Our liquidity is affected by many factors, some of which are based on the normal ongoing operations of the business, and others of which relate to the uncertainties of global and regional economies and the semiconductor and the semiconductor equipment industries. Although cash requirements will fluctuate based on the timing and extent of these factors, we believe that cash generated from operations, together with the liquidity provided by existing cash and cash equivalents balances and our $750.0 million Revolving Credit Facility, will be sufficient to satisfy our liquidity requirements associated with working capital needs, capital expenditures, cash dividends, stock repurchases and other contractual obligations, including repayment of outstanding debt, for at least the next 12 months. 
+
+
+
+
+
+
+
+Factors that can affect our credit ratings include changes in our operating performance, the economic environment, conditions in the semiconductor and semiconductor equipment industries, our financial position, and changes in our business strategy.
+
+
+
+Off-Balance Sheet Arrangements
+
+
+
+
+
+
+
+In October 2014, in anticipation of the issuance of the Senior Notes, we entered into a series of forward contracts (“Rate Lock Agreements”) to lock the benchmark rate on a portion of the Senior Notes. The objective of the Rate Lock Agreements was to hedge the risk associated with the variability in interest rates due to the changes in the benchmark rate leading up to the closing of the intended financing, on the notional amount being hedged. The Rate Lock Agreements had a notional amount of $1.00 billion in aggregate which matured in the second quarter of the fiscal year ended June 30, 2015. The Rate Lock Agreements were terminated on the date of pricing of the $1.25 billion of 4.650% Senior Notes due in 2024 and we recorded the fair value of $7.5 million as a gain within accumulated other comprehensive income (loss) as of December 31, 2014. We recognized $0.2 million for each of the three months ended December 31, 2017 and 2016 and $0.4 million each of the six months ended December 31, 2017 and 2016 for the amortization of the gain recognized in accumulated other comprehensive income (loss), which amount reduced the interest expense. As of December 31, 2017, the unamortized portion of the fair value of the forward contracts for the rate lock agreements was $5.2 million. 
+
+
+
+Indemnification Obligations. Subject to certain limitations, we are obligated to indemnify our current and former directors, officers and employees with respect to certain litigation matters and investigations that arise in connection with their service to us. These obligations arise under the terms of our certificate of incorporation, our bylaws, applicable contracts, and Delaware and California law. The obligation to indemnify generally means that we are required to pay or reimburse the individuals’ reasonable legal expenses and possibly damages and other liabilities incurred in connection with these matters. For example, we have paid or reimbursed legal expenses incurred in connection with the investigation of our historical stock option practices and the related litigation and government inquiries by a number of our current and former directors, officers and employees. Although the maximum potential amount of future payments we could be required to make under the indemnification obligations generally described in this paragraph is theoretically unlimited, we believe the fair value of this liability, to the extent estimable, is appropriately considered within the reserve we have established for currently pending legal proceedings.
+
+
+
+
+
+In addition, we may in limited circumstances enter into agreements that contain customer-specific commitments on pricing, tool reliability, spare parts stocking levels, service response time and other commitments. Furthermore, we may give these customers limited audit or inspection rights to enable them to confirm that we are complying with these commitments. If a customer elects to exercise its audit or inspection rights, we may be required to expend significant resources to support the audit or inspection, as well as to defend or settle any dispute with a customer that could potentially arise out of such audit or inspection. To date, we have made no significant accruals in our condensed consolidated financial statements for this contingency. While we have not in the past incurred significant expenses for resolving disputes regarding these types of commitments, we cannot make any assurance that we will not incur any such liabilities in the future.
+
+
+
+It is not possible to predict the maximum potential amount of future payments under these or similar agreements due to the conditional nature of our obligations and the unique facts and circumstances involved in each particular agreement. Historically, payments made by us under these agreements have not had a material effect on our business, financial condition, results of operations or cash flows.
+
+
+
+ITEM 2.UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+
+
+
+Equity Repurchase Plans
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

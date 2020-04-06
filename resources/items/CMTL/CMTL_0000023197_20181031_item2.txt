@@ -1,0 +1,932 @@
+ITEM 2.  
+
+
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+
+
+
+AND RESULTS OF OPERATIONS
+
+
+
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS 
+
+
+
+Certain information in this Quarterly Report on Form 10-Q contains forward-looking statements, including but not limited to, information relating to our future performance and financial condition, plans and objectives of our management and our assumptions regarding such future performance, financial condition, and plans and objectives that involve certain significant known and unknown risks and uncertainties and other factors not under our control which may cause our actual results, future performance and financial condition, and achievement of our plans and objectives to be materially different from the results, performance or other expectations implied by these forward-looking statements. These factors include, among other things: the risk that Comtech will be unsuccessful in implementing a tactical shift in its Government Solutions segment away from bidding on large commodity service contracts and toward pursuing contracts for its niche products with higher margins; the nature and timing of receipt of, and our performance on, new or existing orders that can cause significant fluctuations in net sales and operating results; the timing and funding of government contracts; adjustments to gross profits on long-term contracts; risks associated with international sales; rapid technological change; evolving industry standards; new product announcements and enhancements, including the risks associated with Comtech's recent launch of HeightsTM Dynamic Network Access Technology ("HEIGHTS" or "HDNA"); changing customer demands; changes in prevailing economic and political conditions; changes in the price of oil in global markets; changes in foreign currency exchange rates; risks associated with Comtech's and TeleCommunication Systems, Inc.'s ("TCS") legacy legal proceedings, customer claims for indemnification, and other similar matters; risks associated with our obligations under our Credit Facility; risks associated with our large contracts; the impact of H.R.1, also known as the Tax Cuts and Jobs Act ("Tax Reform"), which was enacted in December 2017 in the U.S.; and other factors described in this and our other filings with the Securities and Exchange Commission ("SEC"). 
+
+
+
+OVERVIEW
+
+
+
+We are a leading provider of advanced communications solutions for both commercial and government customers worldwide. Our solutions fulfill our customers’ needs for secure wireless communications in some of the most demanding environments, including those where traditional communications are unavailable or cost-prohibitive, and in mission-critical and other scenarios where performance is crucial. 
+
+
+
+
+
+•Commercial Solutions - serves commercial customers and smaller governments, such as state and local governments, that require advanced communication technologies to meet their needs. This segment also serves certain large government customers (including the U.S. government) that have requirements for off-the-shelf commercial equipment. We believe this segment is a leading provider of satellite communications (such as satellite earth station modems and traveling wave tube amplifiers ("TWTA")), public safety systems (such as next generation 911 ("NG911") technologies) and enterprise application technologies (such as a messaging and trusted location-based technologies). 
+
+
+
+•Government Solutions - serves large government end-users (including those of foreign countries) that require mission critical technologies and systems. We believe this segment is a leading provider of command and control applications (such as the design, installation and operation of data networks that integrate computing and communications (including both satellite and terrestrial links)), ongoing network operation and management support services including project management and fielding and maintenance solutions related to satellite ground terminals), troposcatter communications (such as digital troposcatter multiplexers, digital over-the-horizon modems, troposcatter systems, and frequency converter systems) and RF power and switching technologies (such as solid state high-power broadband amplifiers, enhanced position location reporting system (or commonly known as "EPLRS") amplifier assemblies, identification friend or foe amplifiers, and amplifiers used in the counteraction of improvised explosive devices).
+
+
+
+
+
+Index
+
+
+
+Our Quarterly Financial Information
+
+
+
+Quarterly and period-to-period sales and operating results may be significantly affected by either short-term or long-term contracts with our customers. In addition, our gross profit is affected by a variety of factors, including the mix of products, systems and services sold, production efficiencies, estimates of warranty expense, price competition and general economic conditions. Our gross profit may also be affected by the impact of any cumulative adjustments to contracts that are accounted for over time.
+
+
+
+
+
+CRITICAL ACCOUNTING POLICIES
+
+
+
+We consider certain accounting policies to be critical due to the estimation process involved in each.
+
+
+
+Revenue Recognition. On August 1, 2018, we adopted ASU No. 2014-09 "Revenue from Contracts with Customers (Topic 606)” or “ASC 606” applying the modified retrospective transition method. Except for new presentation or disclosure requirements, the impact of adoption, both as of August 1, 2018 and for the three months ended October 31, 2018, was not material to our business, results of operations or financial condition. As a practical expedient, we adopted the new standard only for existing contracts as of August 1, 2018. All periods prior to August 1, 2018 will continue to be reported under the accounting standards in effect in those periods.
+
+
+
+
+
+•Over time - We recognize revenue using the over time method when there is a continuous transfer of control to the customer over the contractual period of performance. This generally occurs when we enter into a long-term contract relating to the design, development or manufacture of complex equipment or technology platforms to a buyer’s specification (or to provide services related to the performance of such contracts). Continuous transfer of control is typically supported by contract clauses which allow our customers to unilaterally terminate a contract for convenience, pay for costs incurred plus a reasonable profit and take control of work-in-process. Revenue recognized over time is generally based on the extent of progress toward completion of the related performance obligations. The selection of the method to measure progress requires judgment and is based on the nature of the products or services provided. In certain instances, typically for firm fixed-price contracts, we use the cost-to-cost measure because it best depicts the transfer of control to the customer which occurs as we incur costs on our contracts. Under the cost-to-cost measure, the extent of progress toward completion is measured based on the ratio of costs incurred to date to the total estimated costs at completion, including warranty costs. Revenues, including estimated fees or profits, are recorded proportionally as costs are incurred. Costs to fulfill generally include direct labor, materials, subcontractor costs, other direct costs and an allocation of indirect costs. When these contracts are modified, the additional goods or services are generally not distinct from those already provided. As a result, these modifications form part of an existing contract and we must update the transaction price and our measure of progress for the single performance obligation and recognize a cumulative catch-up to revenue and gross profits. 
+
+
+
+For over time contracts using a cost-to-cost measure of progress, we have an estimate at completion (“EAC”) process in which management reviews the progress and execution of our performance obligations. This EAC process requires management judgment relative to assessing risks, estimating contract revenue and costs, and making assumptions for schedule and technical issues. Since certain contracts extend over a long period of time, the impact of revisions in revenue and or cost estimates during the progress of work may impact current period earnings through a cumulative adjustment. Additionally, if the EAC process indicates a loss, a provision is made for the total anticipated loss in the period that it becomes evident. Contract revenue and cost estimates for significant contracts are generally reviewed and reassessed at least quarterly.
+
+
+
+
+
+Index
+
+
+
+The cost-to-cost method is principally used to account for contracts in our command and control solutions and over-the-horizon microwave systems product lines and, to a lesser extent, certain location based and messaging infrastructure contracts in our enterprise technology solutions product line. For service-based contracts in both our enterprise technology solutions and safety and security technology solutions product lines, we recognize revenue over time. These services are typically recognized as a series of services performed over the contract term using the straight-line method, or based on our customers’ actual usage of the networks and platforms which we provide.
+
+
+
+•Point in time - When a performance obligation is not satisfied over time, we must record revenue using the point in time accounting method which generally results in revenue being recognized upon shipment or delivery of a promised good or service to a customer. This generally occurs when we enter into short term contracts or purchase orders where items are provided to customers with relatively quick turn-around times. Modifications to such contracts and or purchase orders, which typically provide for additional quantities or services, are accounted for as a new contract because the pricing for these additional quantities or services are based on standalone selling prices. 
+
+
+
+Point in time accounting is principally applied to contracts in our satellite earth station product line (which includes satellite modems, traveling wave tube amplifiers (“TWTAs”) and solid-state power amplifiers ("SSPAs")) and solid-state high-power narrow and broadband amplifiers. Point in time accounting is also applied to certain contracts in our command and control solutions product line. The contracts related to these product lines do not meet the requirements for over time revenue recognition because our customers cannot utilize the equipment for its intended purpose during any phase of our manufacturing process; customers do not simultaneously receive and or consume the benefits provided by our performance; customers do not control the asset (i.e., prior to delivery, customers cannot direct the use of the asset, sell or exchange the equipment, etc.); and, although many of our contracts have termination for convenience clauses and or an enforceable right to payment for performance completed to date, our performance creates an asset with an alternative use through the point of delivery.
+
+
+
+In determining that our equipment has alternative use, we considered the underlying manufacturing process for our products. In the early phases of manufacturing, raw materials and work in process (including subassemblies) consist of common parts that are highly fungible among many different types of products and customer applications. Finished products are either configured to our standard configuration or based on our customers’ specifications. Finished products, whether built to our standard specification or to a customers’ specification, can be sold to a variety of customers and across many different end use applications with minimal rework, if needed, and without incurring a significant economic loss.
+
+
+
+When identifying a contract with our customer, we consider when it has approval and commitment from both parties, if the rights of the parties are identified, if the payment terms are identified, if it has commercial substance and if collectability is probable.
+
+
+
+When identifying performance obligations, we consider whether there are multiple promises and how to account for them. In our contracts, multiple promises are separated if they are distinct, both individually and in the context of the contract. If multiple promises in a contract are highly interrelated or comprise a series of distinct services performed over time, they are combined into a single performance obligation. In some cases, we may also provide the customer with an additional service-type warranty, which we recognize as a separate performance obligation. Service-type warranties do not represent a significant portion of our consolidated net sales. When service-type warranties represent a separate performance obligation, the revenue is deferred and recognized ratably over the extended warranty period. Our contracts, from time-to-time, may also include options for additional goods and services. To-date, these options have not represented material rights to the customer as the pricing for them reflects standalone selling prices. As a result, we do not consider options we offer to be performance obligations for which we must allocate a portion of the transaction price. In many cases, we provide assurance-type warranty coverage for some of our products for a period of at least one year from the date of delivery. 
+
+
+
+When identifying the transaction price, we typically utilize the contract's stated price as a starting point. The transaction price in certain arrangements may include estimated amounts of variable consideration, including award fees, incentive fees or other provisions that can either increase or decrease the transaction price. We estimate variable consideration as the amount to which we expect to be entitled, and we include estimated amounts in the transaction price to the extent it is probable that a significant reversal of cumulative revenue recognized will not occur when the estimation uncertainty is resolved. The estimation of this variable consideration and determination of whether to include estimated amounts in the transaction price are based largely on an assessment of our anticipated performance and all information (e.g., historical, current and forecasted) that is reasonably available to us. 
+
+
+
+
+
+Index
+
+
+
+When allocating the contract’s transaction price, we consider each distinct performance obligation. For contracts with multiple performance obligations, we allocate the contract’s transaction price to each performance obligation using our best estimate of the standalone selling price of each distinct good or service in the contract. We determine standalone selling price based on the price at which the performance obligation is sold separately. If the standalone selling price is not observable through past transactions, we estimate the standalone selling price taking into account available information such as market conditions, including geographic or regional specific factors, competitive positioning, internal costs, profit objectives and internally approved pricing guidelines related to the performance obligations.
+
+
+
+Almost all of our contracts with customers are denominated in U.S. dollars and typically either firm-fixed price or cost reimbursable type contracts (including fixed-fee, incentive-fee and time-and-material type contracts). In almost all of our contracts with customers, we are the principal in the arrangement and report revenue on a gross basis. Transaction prices for contracts with U.S. domestic and international customers are usually based on specific negotiations with each customer and in the case of the U.S. government, sometimes based on estimated or actual costs of providing the goods or services in accordance with applicable regulations.
+
+
+
+The timing of revenue recognition, billings and collections results in receivables, unbilled receivables and contract liabilities on our Condensed Consolidated Balance Sheet. Under typical payment terms for our contracts accounted for over time, amounts are billed as work progresses in accordance with agreed-upon contractual terms, either at periodic intervals (e.g., monthly) or upon achievement of contractual milestones. For certain contracts with provisions that are intended to protect customers in the event we do not satisfy our performance obligations, billings occur subsequent to revenue recognition, resulting in what we have historically presented as unbilled receivables. Under ASC 606, unbilled receivables constitute contract assets. On large long term contracts, and for contracts with international customers that do not do business with us regularly, payment terms typically require advanced payments and deposits. Under ASC 606, payments received from customers in excess of revenue recognized to-date results in a contract liability. These contract liabilities are not considered to represent a significant financing component of the contract because we believe these cash advances and deposits are generally used to meet working capital demands which can be higher in the earlier stages of a contract. Also, advanced payments and deposits provide us with some measure of assurance that the customer will perform on its obligations under the contract. Under the typical payment terms for our contracts accounted for at a point in time, costs are accumulated in inventory until the time of billing, which generally coincides with revenue recognition. 
+
+
+
+We recognize the incremental costs to obtain or fulfill a contract as expense when incurred if the amortization period of the asset is one year or less. Incremental costs to obtain or fulfill contracts with an amortization period greater than one year were not material. As commissions payable to our sales and marketing employees or contractors are contingent upon multiple factors, such commissions are not considered direct costs to obtain or fulfill a contract with a customer and are expensed as incurred in selling, general and administrative expenses on our Condensed Consolidated Statements of Operations. Commissions payable to our third party sales representatives related to large long-term contracts are included in total estimated costs at completion for such contracts and are expensed over time through cost of sales on our Condensed Consolidated Statements of Operations, as we consider these types of commissions direct and incremental costs to obtain and fulfill such contracts.
+
+
+
+
+
+Impairment of Goodwill and Other Intangible Assets. As of October 31, 2018, total goodwill recorded on our Condensed Consolidated Balance Sheet aggregated $290.6 million (of which $231.4 million relates to our Commercial Solutions segment and $59.2 million relates to our Government Solutions segment). Additionally, as of October 31, 2018, net intangibles recorded on our Condensed Consolidated Balance Sheet aggregated $236.5 million (of which $195.6 million relates to our Commercial Solutions segment and $40.9 million relates to our Government Solutions segment). Each of our two operating segments constitutes a reporting unit and we must make various assumptions in determining their estimated fair values. 
+
+
+
+In accordance with FASB ASC 350 "Intangibles - Goodwill and Other," we perform a goodwill impairment analysis at least annually (in the first quarter of each fiscal year), unless indicators of impairment exist in interim periods. If we fail the quantitative assessment of goodwill impairment ("quantitative assessment"), pursuant to our adoption of FASB ASU No. 2017-04 in fiscal 2017, we would be required to recognize an impairment loss equal to the amount that a reporting unit's carrying value exceeded its fair value; however, any loss recognized should not exceed the total amount of goodwill allocated to that reporting unit. 
+
+
+
+
+
+Index
+
+
+
+On August 1, 2018 (the first day of our fiscal 2019), we performed our annual quantitative assessment using market participant assumptions to determine if the fair value of each of our reporting units with goodwill exceeded its carrying value. In making this assessment, we considered, among other things, expectations of projected net sales and cash flows, assumptions impacting the weighted average cost of capital, trends in trading multiples of comparable companies, changes in our stock price and changes in the carrying values of our reporting units with goodwill. We also considered overall business conditions.
+
+
+
+In performing the quantitative assessment, we estimated the fair value of each of our reporting units using a combination of the income and market approaches. The income approach, also known as the discounted cash flow ("DCF") method, utilizes the present value of cash flows to estimate fair value. The future cash flows for our reporting units were projected based on our estimates, at that time, of future revenues, operating income and other factors (such as working capital and capital expenditures). For purposes of conducting our impairment analysis, we assumed revenue growth rates and cash flow projections that are below our actual long-term expectations. The discount rates used in our DCF method were based on a weighted-average cost of capital ("WACC") determined from relevant market comparisons, adjusted upward for specific reporting unit risks (primarily the uncertainty of achieving projected operating cash flows). A terminal value growth rate was applied to the final year of the projected period and reflected our estimate of stable, perpetual growth. We then calculated a present value of the respective cash flows for each reporting unit to arrive at an estimate of fair value under the income approach. Under the market approach, we estimated a fair value based on comparable companies' market multiples of revenues and earnings before interest, taxes, depreciation and amortization and factored in a control premium. Finally, we compared our estimates of fair values to our August 1, 2018 total public market capitalization and assessed implied control premiums based on our common stock price of $33.70 as of August 1, 2018. 
+
+
+
+Based on our quantitative evaluation, we determined that our Commercial Solutions and Government Solutions reporting units had estimated fair values in excess of their carrying values of at least 42.5% and 105.5%, respectively, and concluded that our goodwill was not impaired and that neither of our two reporting units was at risk of failing the quantitative assessment. It is possible that, during fiscal 2019 or beyond, business conditions (both in the U.S. and internationally) could deteriorate from the current state, our current or prospective customers could materially postpone, reduce or even forgo purchases of our products and services to a greater extent than we currently anticipate, or our common stock price could decline. A significant decline in our customers' spending that is greater than we anticipate or a shift in funding priorities may also have a negative effect on future orders, sales, income and cash flows and we might be required to perform a quantitative assessment during fiscal 2019 or beyond. If assumed net sales and cash flow projections are not achieved in future periods or our common stock price significantly declines from current levels, our Commercial Solutions and Government Solutions reporting units could be at risk of failing the quantitative assessment and goodwill and intangibles assigned to the respective reporting units could be impaired. 
+
+
+
+In any event, we are required to perform the next annual goodwill impairment analysis on August 1, 2019 (the start of our fiscal 2020). If our assumptions and related estimates change in the future, or if we change our reporting unit structure or other events and circumstances change (e.g., a sustained decrease in the price of our common stock (considered on both absolute terms and relative to peers)), we may be required to record impairment charges when we perform these tests, or in other future periods. In addition to our impairment analysis of goodwill, we also review net intangible assets with finite lives when an event occurs indicating the potential for impairment. We believe that the carrying values of our net intangible assets were recoverable as of October 31, 2018. Any impairment charges that we may record in the future could be material to our results of operations and financial condition.
+
+
+
+Provision for Assurance-Type Warranty Obligations. We provide assurance-type warranty coverage for most of our products, including products under long-term contracts, for a period of at least one year from the date of shipment. We record a liability for estimated warranty expense based on historical claims, product failure rates and other factors. Costs associated with some of our warranties that are provided under long-term contracts are incorporated into our estimates of total contract costs. There exist inherent risks and uncertainties in estimating warranty expenses, particularly on larger or longer-term contracts. If we do not accurately estimate our warranty costs, any changes to our original estimates could be material to our results of operations and financial condition.
+
+
+
+Accounting for Income Taxes. Our deferred tax assets and liabilities are determined based on temporary differences between financial reporting and tax bases of assets and liabilities, and applying enacted tax rates expected to be in effect for the year in which we expect the differences to reverse. Our provision for income taxes is based on domestic (including federal and state) and international statutory income tax rates in the tax jurisdictions where we operate, permanent differences between financial reporting and tax reporting and available credits and incentives. We recognize interest and penalties related to uncertain tax positions in income tax expense. The U.S. federal government is our most significant income tax jurisdiction.
+
+
+
+
+
+Index
+
+
+
+Significant judgment is required in determining income tax provisions and tax positions. We may be challenged upon review by the applicable taxing authority and positions taken by us may not be sustained. We recognize all or a portion of the benefit of income tax positions only when we have made a determination that it is more likely than not that the tax position will be sustained upon examination, based upon the technical merits of the position and other factors. For tax positions that are determined as more likely than not to be sustained upon examination, the tax benefit recognized is the largest amount of benefit that is greater than 50% likely of being realized upon ultimate settlement. The development of valuation allowances for deferred tax assets and reserves for income tax positions requires consideration of timing and judgments about future taxable income, tax issues and potential outcomes, and are subjective critical estimates. A portion of our deferred tax assets consist of federal net operating losses and federal research and experimentation tax credit carryforwards, most of which was acquired in connection with our acquisition of TCS. No valuation allowance has been established on these deferred tax assets based on our evaluation that our ability to realize such assets has met the criteria of "more likely than not." We continuously evaluate additional facts representing positive and negative evidence in determining our ability to realize these deferred tax assets. In certain circumstances, the ultimate outcome of exposures and risks involves significant uncertainties. If actual outcomes differ materially from these estimates, they could have a material impact on our results of operations and financial condition. 
+
+
+
+On December 22, 2017, H.R.1, also known as the Tax Cuts and Jobs Act ("Tax Reform"), was enacted in the U.S. Tax Reform significantly lowered the amount of our current and future income tax expense primarily due to the reduction in the U.S. statutory income tax rate from 35.0% to 21.0%. This provision went into effect on January 1, 2018 and required us to remeasure our deferred tax assets and liabilities. In fiscal 2019 and beyond, Tax Reform will result in the loss of our ability to take the domestic production activities deduction, which has been repealed, and is also likely to result in lower tax deductions for certain executive compensation expenses.
+
+
+
+During the fiscal year ended July 31, 2018, we remeasured our deferred tax assets and liabilities. The remeasurement was recorded pursuant to ASC 740 "Income Taxes" and SEC Staff Accounting Bulletin ("SAB") 118. All amounts recorded were based on available guidance on interpretation of Tax Reform and what we believe to be reasonable approaches to estimating its impact; however, such amounts are provisional estimates at this time and are subject to adjustment as future guidance becomes available, additional facts become known or estimation approaches are refined. See "Notes to Condensed Consolidated Financial Statements - Note (12) - Income Taxes" included in "Part I - Item 1.- Condensed Consolidated Financial Statements," included in this Quarterly Report on Form 10-Q, for further information on the provisions of Tax Reform and its currently expected impact on our business. The overall actual impact of Tax Reform is currently uncertain, and could have a material adverse effect on our consolidated results of operations and financial condition.
+
+
+
+During the three months ended October 31, 2018, the Internal Revenue Service ("IRS") finalized its audit of our federal income tax return for fiscal 2016 without assessing additional taxes. Our federal income tax returns for fiscal 2015 and 2017 are subject to potential future IRS audit. None of our state income tax returns prior to fiscal 2014 are subject to audit. TCS' federal income tax returns for tax year 2015 and the tax period from January 1, 2016 to February 23, 2016 are subject to potential future IRS audit. None of TCS' state income tax returns prior to calendar year 2014 are subject to audit. Future tax assessments or settlements could have a material adverse effect on our consolidated results of operations and financial condition.
+
+
+
+Research and Development Costs. We generally expense all research and development costs. Research and development expenses include payroll, employee benefits, stock-based compensation expense, and other personnel-related expenses associated with product development. Research and development expenses also include third-party development and programming costs. Costs incurred internally in researching and developing software to be sold are charged to expense until technological feasibility has been established for the software. Judgment is required in determining when technological feasibility of a product is established. Technological feasibility for our advanced communication software solutions is generally reached after all high-risk development issues have been resolved through coding and testing. Generally, this occurs shortly before the products are released to customers and when we are able to validate the marketability of such product. Once technological feasibility is established, all software costs are capitalized until the product is available for general release to customers. To date, capitalized internally developed software costs were not material. 
+
+
+
+Provisions for Excess and Obsolete Inventory. We record a provision for excess and obsolete inventory based on historical and future usage trends. Other factors may also influence our provision, including decisions to exit a product line, technological change and new product development. These factors could result in a change in the amount of excess and obsolete inventory on hand. Additionally, our estimates of future product demand may prove to be inaccurate, in which case we may have understated or overstated the provision required for excess and obsolete inventory. In the future, if we determine that our inventory was overvalued, we would be required to recognize such costs in our financial statements at the time of such determination. Any such charge could be material to our results of operations and financial condition.
+
+
+
+
+
+Index
+
+
+
+Allowance for Doubtful Accounts. We perform credit evaluations of our customers and adjust credit limits based upon customer payment history and current creditworthiness, as determined by our review of our customers’ current credit information. Generally, we will require cash in advance or payment secured by irrevocable letters of credit before an order is accepted from an international customer that we do not do business with regularly. In addition, we seek to obtain insurance for certain domestic and international customers.
+
+
+
+We monitor collections and payments from our customers and maintain an allowance for doubtful accounts based upon our historical experience and any specific customer collection issues that we have identified. In light of ongoing tight credit market conditions, we continue to see requests from our customers for higher credit limits and longer payment terms. Because of our strong cash position and the nominal amount of interest we are earning on our cash and cash equivalents, we have, on a limited basis, approved certain customer requests.
+
+
+
+We continue to monitor our accounts receivable credit portfolio. Our overall credit losses have historically been within our expectations of the allowances established; however, we cannot guarantee that we will continue to experience the same credit loss rates that we have in the past. Measurement of credit losses requires consideration of historical loss experience, including the need to adjust for changing business conditions, and judgments about the probable effects of relevant observable data, including present economic conditions such as delinquency rates and the financial health of specific customers. Changes to the estimated allowance for doubtful accounts could be material to our results of operations and financial condition.
+
+
+
+Business Outlook for Fiscal 2019
+
+
+
+
+
+•Net sales of $160.8 million;
+
+
+
+•Operating income of $7.3 million; 
+
+
+
+•Net income of $3.5 million; and
+
+
+
+•Adjusted EBITDA (a Non-GAAP financial measure discussed below) of $18.0 million.
+
+
+
+Our first quarter of fiscal 2019 results were significantly above our expectations and reflect higher net sales in many of our key product lines. In addition, our first quarter benefited from a shift in sales of approximately $10.0 million in our Government Solutions segment that primarily occurred due to accelerated customer fielding schedules. These Government Solutions segment sales were originally expected to occur throughout the last three quarters of fiscal 2019.
+
+
+
+Demand for our products remains strong. We experienced strong bookings and achieved a consolidated book-to-bill ratio (a measure defined as bookings divided by net sales) of 0.98 and finished the quarter with a near record high consolidated backlog of $627.3 million. Our pipeline is filled with many prospects and we are pursuing a number of large opportunities. Our backlog is more fully defined in our most recent Annual Report on Form 10-K. As such, the total value of multi-year contracts that we have received is substantially higher than our reported backlog.
+
+
+
+In addition to generating strong operating results, we took several steps to improve operating efficiencies and make progress on achieving our long-term business goals. For example,
+
+
+
+•We successfully consolidated our Government Solutions segment’s manufacturing facility located in Tampa, Florida with another facility that we maintain in Orlando, Florida; and in doing so, we incurred $1.4 million of facility exit costs;
+
+
+
+
+
+•We recorded a net discrete tax benefit of approximately $2.4 million primarily related to the favorable resolution with the IRS with respect to their audit of our fiscal 2016 federal income tax return and for tax benefits associated with stock-based awards that were settled during the quarter.
+
+
+
+
+
+Index
+
+
+
+Excluding these aforementioned items, our consolidated operating income and net income for the first quarter of fiscal 2019 would have been $9.8 million and $5.5 million, respectively, or 6.1% and 3.4% of consolidated net sales, respectively, a significant improvement from the amounts and related percentages we achieved in the first quarter of fiscal 2018. 
+
+
+
+As of October 31, 2018, our cash and cash equivalents were $42.9 million and our total debt outstanding (including capital leases and other obligations) was $195.6 million. In connection with our new Credit Facility, we expect our interest rate (including amortization of deferred financing costs) in fiscal 2019 to range from 5.4% to 5.6%. Our current cash borrowing rate, excluding amortization of deferred financing costs, is approximately 4.5%.
+
+
+
+Based on our outstanding first quarter performance, our Business Outlook has improved since September 26, 2018 (the date we filed our Annual Report on Form 10-K with the Securities Exchange Commission (the “SEC”)) and we are increasing our targeted goals for consolidated net sales, net income per diluted share and Adjusted EBITDA for fiscal 2019. 
+
+
+
+Our fiscal 2019 consolidated net sales goal is now expected to be higher and within a range of approximately $625.0 million to $640.0 million as compared to our prior range of $600.0 million to $625.0 million. Our updated GAAP net income per diluted share ("EPS") target for fiscal 2019 is now $0.95 to $1.08. This GAAP EPS metric reflects all facility exit costs, acquisition plan expenses, write-off of deferred financing costs and net discrete tax benefits. In addition, we are increasing our Adjusted EBITDA goal to a higher range of $84.0 million to $88.0 million as compared to our prior range of $80.0 million to $86.0 million. If order flow remains strong and we are able to achieve all of our fiscal 2019 business goals, it is possible that financial results could be higher than our targeted amounts. In fiscal 2018, we reported revenues of $570.6 million and Adjusted EBITDA of $78.4 million.
+
+
+
+In addition to increasing our targeted goals for consolidated net sales, net income per diluted share and Adjusted EBITDA, we are also adjusting our expectations of the timing of our financial performance given actual first quarter 2019 performance, changes in expected fielding schedules from our customers and an overall updated assessment of our assumptions. Although our GAAP consolidated operating income and Adjusted EBITDA in the second half of fiscal 2019 are still expected to be higher than the first half of fiscal 2019, we now expect a more balanced year. In this regard, our second quarter consolidated net sales, operating income and Adjusted EBITDA are expected to be nearly the same as our first quarter results of fiscal 2019. Our third quarter results for fiscal 2019 are expected to be better than our expected results for the second quarter of fiscal 2019. We still expect our fourth quarter of fiscal 2019 to be the peak quarter for consolidated net sales, operating income and Adjusted EBITDA. 
+
+
+
+Despite incurring facility exit costs and acquisition plan expenses, we anticipate consolidated operating income, both in dollars and as a percentage of consolidated net sales, to be higher in fiscal 2019 as compared to the $35.1 million or 6.2% we achieved in fiscal 2018. Also, our estimated effective income tax rate for fiscal 2019 (excluding net discrete items) is now expected to approximate 22.75%. Additionally, as a percentage of consolidated net sales, Adjusted EBITDA in fiscal 2019 is expected to be similar to the percentage we achieved in fiscal 2018. 
+
+
+
+Our updated 2019 fiscal year financial targets include a number of items, the timing of which can still shift and impact our quarterly financial performance. However, we currently do not believe that changes in such timing would negatively impact our ability to achieve our revised consolidated net sales, operating income and Adjusted EBITDA targets for fiscal 2019. Additionally, there is no certainty that our acquisition plan efforts will be successful and except for the impact of acquisition plan expenses discussed above, our updated 2019 fiscal year financial targets do not include the impact of such acquisition. 
+
+
+
+
+
+On December 6, 2018, our Board of Directors declared a dividend of $0.10 per common share, payable on February 15, 2019 to stockholders of record at the close of business on January 16, 2019. Future dividends remain subject to compliance with financial covenants under our Credit Facility as well as Board approval. 
+
+
+
+Additional information related to our Business Outlook for Fiscal 2019 and a definition and explanation of Adjusted EBITDA is included in the below section "Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations - Comparison of the Results of Operations for the Three Months Ended October 31, 2018 and 2017."
+
+
+
+
+
+Index
+
+
+
+COMPARISON OF THE RESULTS OF OPERATIONS FOR THREE MONTHS ENDED OCTOBER 31, 2018 AND 2017 
+
+
+
+Net Sales. Consolidated net sales were $160.8 million and $121.6 million for the three months ended October 31, 2018 and 2017, respectively, representing an increase of $39.2 million, or 32.2%. The significant period-over-period increase in net sales reflects significantly higher net sales in our Government Solutions segment and to a lesser extent, our Commercial Solutions segment. Net sales by operating segment are discussed below. 
+
+
+
+Commercial Solutions
+
+
+
+Net sales in our Commercial Solutions segment were $78.0 million for the three months ended October 31, 2018, as compared to $76.1 million for the three months ended October 31, 2017, an increase of $1.9 million, or 2.5%. Our Commercial Solutions segment represented 48.5% of consolidated net sales for the three months ended October 31, 2018 as compared to 62.6% for the three months ended October 31, 2017. 
+
+
+
+
+
+Net sales of our satellite earth station products (which include satellite modems, traveling wave tube amplifiers (“TWTAs”) and solid-state power amplifiers (“SSPAs”)) during the three months ended October 31, 2018 were higher than the three months ended October 31, 2017 and reflect growth in sales to both U.S. government and international customers. To-date, we have not experienced any material impact from international market conditions which have become more volatile of late. Our HeightsTM Dynamic Network Access Technology ("HEIGHTS" or "HDNA") solutions continue to gain traction and we continue to seed and invest in the market. Although the sales cycle for HEIGHTS is longer than our historical satellite earth station product line, we expect a steady increase in sales throughout fiscal 2019. All-in-all, after several years of sequentially lower sales, we believe that fiscal 2019 will be our second consecutive year of revenue growth for our satellite earth station product line. 
+
+
+
+
+
+In aggregate, we expect fiscal 2019 sales in our Commercial Solutions segment to increase as compared to fiscal 2018. From a timing perspective, we currently expect our second quarter fiscal 2019 sales to be higher than the amount we achieved during the first quarter of fiscal 2019 with additional growth in both the third and fourth quarters of fiscal 2019. Although there are a number of items which could shift between quarters, we currently expect our fourth quarter of fiscal 2019 to be the peak quarter of sales for our Commercial Solutions segment. 
+
+
+
+Bookings, sales and profitability in our Commercial Solutions segment can fluctuate from period-to-period due to many factors, including changes in the general business environment. As such, period-to-period comparisons of our results may not be indicative of a trend or future performance.
+
+
+
+Government Solutions
+
+
+
+Net sales in our Government Solutions segment were $82.9 million for the three months ended October 31, 2018 as compared to $45.5 million for the three months ended October 31, 2017, a significant increase of $37.4 million, or 82.2%. Our Government Solutions segment represented 51.5% of consolidated net sales for the three months ended October 31, 2018, as compared to 37.4% for the three months ended October 31, 2017. 
+
+
+
+
+
+Index
+
+
+
+
+
+The increase in sales in this segment primarily reflects higher net sales of our command and control solutions (in particular, incremental sales of Electrical, Electronic and Electromechanical (“EEE”) space components and deliveries of our next generation MT-2025 mobile satellite transceivers, which are also known as the Blue Force Tracker-2 High Capacity ("BFT-2-HC") satellite transceivers) and, to a lesser extent, over-the-horizon microwave systems products. Of the $82.9 million of segment sales, approximately $10.0 million of command and control solution sales primarily occurred due to accelerated customer fielding schedules. These Government Solutions segment sales were originally expected to occur throughout the last three quarters of fiscal 2019.
+
+
+
+During the three months ended October 31, 2018, we continued to work with the U.S. Army to deploy several thousand of our MT-2025 satellite transceivers. These transceivers meet BFT-2 protocols, provide best-in-class reliability and are fully backward compatible with the BFT-1 system. Comtech currently provides sustaining support for the BFT-1 system and previously shipped over 100,000 BFT-1 mobile satellite transceivers. We initiated shipments of our MT-2025 transceivers in fiscal 2018 and continued such shipments in our first quarter of fiscal 2019. The remaining shipments of our MT-2025 transceivers against our initial $11.7 million order are expected to be substantially completed by the end of our second quarter of fiscal 2019. We expect the U.S. government to continue testing such units and thereafter place additional orders for our MT-2025 transceivers sometime in fiscal 2019. Because the amount and timing of any new MT-2025 transceiver orders are difficult to predict, we have not included any revenue or earnings contributions in our updated Business Outlook for Fiscal 2019.
+
+
+
+Net sales of our over-the-horizon microwave systems products for the three months ended October 31, 2018 were significantly higher than the three months ended October 31, 2017, as business activity in this product line recently picked up. Our ongoing marketing and sales efforts and investments to expand this product line and the level of our international business into new countries are yielding positive results. Sales in the most recent quarter benefited from work performed on our $31.0 million order received in fiscal 2018 for Modular Transportable Transmission System ("MTTS”) troposcatter terminals to be utilized as part of a deployable communications network for an Asia Pacific military service and a $9.1 million contract to supply another foreign military with our over-the-horizon microwave systems. We believe demand for our over-the-horizon microwave systems products will continue to increase in fiscal 2019 and beyond. Teaming with a large prime contractor, we recently submitted a proposal to supply a significant quantity of our over-the-horizon microwave systems to the U.S. Army, and are hopeful that we can win this multi-million dollar award in fiscal 2019. We have not included any revenue or earnings contributions in our updated Business Outlook for Fiscal 2019 related to this potential award.
+
+
+
+Based on updated customer fielding schedules and our own assessment of business activity, our first quarter of fiscal 2019 net sales in this segment is expected to be the peak quarter for fiscal 2019. Although there are a number of items that could shift between quarters, we believe that sales in this segment will decline for each of the remaining quarters of fiscal 2019 with the fourth quarter of fiscal 2019 being the lowest quarter for net sales. The variation of quarterly net sales in this segment is mostly attributable to the timing of command and control technology solution sales. Overall, based on the mix and anticipated timing of performance on orders in backlog and expected new orders, we anticipate that fiscal 2019 net sales for our Government Solutions segment will be significantly higher than fiscal 2018. 
+
+
+
+Bookings, sales and profitability in our Government Solutions segment can fluctuate dramatically from period-to-period due to many factors, including unpredictable funding, deployment and technology decisions by our U.S. and international government customers. As such, period-to-period comparisons of our results may not be indicative of a trend or future performance.
+
+
+
+
+
+Index
+
+
+
+Geography and Customer Type
+
+
+
+
+
+
+
+Sales to U.S. government customers include sales to the U.S. Department of Defense ("DoD"), intelligence and civilian agencies, as well as sales directly to or through prime contractors.
+
+
+
+Domestic sales include sales to commercial customers, as well as to U.S. state and local governments. Included in domestic sales, are sales to Verizon Communications Inc. ("Verizon"). Sales to Verizon were 11.7% of consolidated net sales for the three months ended October 31, 2017.
+
+
+
+International sales for the three months ended October 31, 2018 and 2017 (which include sales to U.S. domestic companies for inclusion in products that are sold to international customers) were $39.3 million and $28.3 million, respectively. Except for the U.S., no individual country (including sales to U.S. domestic companies for inclusion in products that are sold to a foreign country) represented more than 10.0% of consolidated net sales for the three months ended October 31, 2018 and 2017. 
+
+
+
+Gross Profit. Gross profit was $57.8 million and $47.7 million for the three months ended October 31, 2018 and 2017, respectively. The increase of $10.1 million reflects significantly higher net sales in our Government Solutions segment, as discussed above. 
+
+
+
+Gross profit, as a percentage of consolidated net sales, for the three months ended October 31, 2018 was 35.9% as compared to 39.3% for the three months ended October 31, 2017. The decrease in gross profit, as a percentage of consolidated net sales, was almost entirely driven by the significant period-to-period increase in net sales in our Government Solutions segment, as discussed above. This segment historically achieves lower gross margins than our Commercial Solutions segment. The three months ended October 31, 2017 also included a favorable warranty settlement which resulted in a reduction of $0.7 million to cost of sales in our unallocated segment. Gross profit, as a percentage of related segment net sales, is further discussed below.
+
+
+
+Our Commercial Solutions segment's gross profit, as a percentage of related segment net sales, for the three months ended October 31, 2018 was slightly higher than the three months ended October 31, 2017. Our Business Outlook for Fiscal 2019 assumes we continue to seed and invest in the market for our HEIGHTS solutions and that related sales will grow significantly from the level we achieved in fiscal 2018. Today, HEIGHTS solutions have lower gross margins than our traditional Single Channel per Carrier ("SCPC") satellite earth station modems and, given expected sales growth, our gross profit, as a percentage of satellite earth station product sales in fiscal 2019, is expected to be lower as compared to fiscal 2018. Over time, we believe that margins will improve as HEIGHTS volume increases. Overall, looking forward, based on the mix and anticipated timing of shipments and performance related to orders currently in our backlog and the mix and timing of expected new orders, gross profit for this segment, as a percentage of related segment net sales, for fiscal 2019 is expected to be lower than the level achieved in fiscal 2018.
+
+
+
+Our Government Solutions segment's gross profit, as a percentage of related segment net sales, for the three months ended October 31, 2018 was higher than the level we achieved in the three months ended October 31, 2017. This increase was primarily due to overall favorable product mix changes during the most recent fiscal quarter, including a higher percentage of segment net sales related to our over-the-horizon microwave systems products. Based on the mix and anticipated timing of shipments and performance related to orders currently in our backlog and the mix and timing of expected new orders, gross profit for this segment, as a percentage of related segment net sales, for fiscal 2019 is expected to be comparable to the level achieved in fiscal 2018.
+
+
+
+Included in consolidated cost of sales for both the three months ended October 31, 2018 and 2017 are provisions for excess and obsolete inventory of $0.7 million. As discussed in "Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations - Critical Accounting Policies - Provisions for Excess and Obsolete Inventory," we regularly review our inventory and record a provision for excess and obsolete inventory based on historical and projected usage assumptions. 
+
+
+
+
+
+Index
+
+
+
+Because our consolidated gross profit, as a percentage of consolidated net sales, depends on the volume of sales, sales mix and related gross profit for each individual segment, it is inherently difficult to forecast. Nevertheless, based on expected bookings, expected timing of our performance on orders and the anticipated increase of Government Solutions segment net sales as a percentage of consolidated net sales, we currently expect our consolidated gross profit, as a percentage of consolidated net sales, for fiscal 2019 to be lower than the percentage we achieved in fiscal 2018.
+
+
+
+Selling, General and Administrative Expenses. Selling, general and administrative expenses were $31.8 million and $28.5 million for the three months ended October 31, 2018 and 2017, respectively, representing an increase of $3.3 million. As a percentage of consolidated net sales, selling, general and administrative expenses were 19.8% and 23.4% for the three months ended October 31, 2018 and 2017, respectively. 
+
+
+
+Selling, general and administrative expenses include $1.4 million of facility exit costs as a result of our successful consolidation of our Government Solutions segment’s manufacturing facility located in Tampa, Florida with our facility in Orlando, Florida. As of October 31, 2018, operations have been fully transferred and we have not experienced any interruptions in production or shipments to our customers. Excluding such costs, our selling, general and administrative expenses for the three months ended October 31, 2018 would have been $30.4 million, or 18.9% of consolidated net sales. The decrease, as a percentage of consolidated net sales, is primarily attributable to the increase in our consolidated net sales. We continue to evaluate and implement cost reduction initiatives to reduce unnecessary spending, reduce the size and cost of our facilities and improve our productivity.
+
+
+
+Amortization of stock-based compensation expense recorded as selling, general and administrative expenses was $0.9 million in the three months ended October 31, 2018 as compared to $0.7 million in the three months ended October 31, 2017. Amortization in the three months ended October 31, 2017 includes the benefit of a $0.4 million reversal of stock-based compensation expense related to certain performance shares previously expected to be earned. Amortization of stock-based compensation is not allocated to our two reportable operating segments.
+
+
+
+Based on our current spending plans, we expect fiscal 2019 selling, general and administrative expenses, in dollars, to be higher and, as a percentage of consolidated net sales, to be similar to the percentage achieved in fiscal 2018.
+
+
+
+Research and Development Expenses. Research and development expenses were $13.2 million and $13.8 million for the three months ended October 31, 2018 and 2017, respectively, representing a decrease of $0.6 million or 4.3%. As a percentage of consolidated net sales, research and development expenses were 8.2% and 11.3% for the three months ended October 31, 2018 and 2017, respectively.
+
+
+
+For three months ended October 31, 2018 and 2017, research and development expenses of $11.4 million and $11.8 million, respectively, related to our Commercial Solutions segment, and $1.7 million and $1.9 million, respectively, related to our Government Solutions segment. The remaining research and development expenses of $0.1 million for both the three months ended October 31, 2018 and 2017, related to the amortization of stock-based compensation expense.
+
+
+
+Whenever possible, we seek customer funding for research and development to adapt our products to specialized customer requirements. During the three months ended October 31, 2018 and 2017, customers reimbursed us $5.0 million and $4.3 million, respectively, which is not reflected in the reported research and development expenses, but is included in net sales with the related costs included in cost of sales.
+
+
+
+We continue to invest in enhancements to existing products as well as in new products across almost all of our product lines. Based on our current spending plans, we expect fiscal 2019 research and development expenses, in dollars, to be higher and, as a percentage of consolidated net sales, to be comparable to fiscal 2018.
+
+
+
+Amortization of Intangibles. Amortization relating to intangible assets with finite lives was $4.3 million (of which $3.5 million was for the Commercial Solutions segment and $0.8 million was for the Government Solutions segment) for the three months ended October 31, 2018 and $5.3 million (of which $4.4 million was for the Commercial Solutions segment and $0.8 million was for the Government Solutions segment) for the three months ended October 31, 2017. The decrease from $5.3 million to $4.3 million was the result of certain intangible assets in our Commercial Solutions segment that became fully amortized in fiscal 2018. 
+
+
+
+Looking forward, total annual amortization of intangibles in fiscal 2019 is expected to approximate $17.2 million.
+
+
+
+Acquisition Plan Expenses. During the three months ended October 31, 2018, we initiated a targeted acquisition plan related to a small but growing technology solutions company and incurred $1.1 million of acquisition plan expenses. These expenses are recorded in our unallocated segment.
+
+
+
+
+
+Index
+
+
+
+Our acquisition plan efforts are ongoing and we expect to incur approximately $1.0 million of additional expenses in the second quarter of fiscal 2019. Other than acquisition plan expenses, our Business Outlook for Fiscal 2019 does not include the impact of this targeted acquisition plan. There is no certainty that our acquisition plan efforts will be successful.
+
+
+
+
+
+
+
+The increase in our Commercial Solutions segment’s operating income, both in dollars and as a percentage of related segment net sales, was primarily due to higher net sales at slightly higher gross margins, lower research and development expenses, lower amortization of intangibles and the benefit of cost reduction actions previously initiated, as discussed above. Looking forward, we expect fiscal 2019 operating income, both in dollars and as a percentage of related segment net sales, to be similar to fiscal 2018.
+
+
+
+The significant increase in our Government Solutions segment’s operating income, both in dollars and as a percentage of related segment net sales, was primarily due to significantly higher net sales at slightly higher gross margins, offset, in part, by $1.4 million of facility exit costs, as discussed above. Looking forward, we expect fiscal 2019 operating income, in dollars and as a percentage of related segment net sales, to be significantly higher as compared to fiscal 2018.
+
+
+
+
+
+On an annual basis, amortization of stock-based compensation expense in fiscal 2019 is expected to increase to a range of $10.0 million to $12.0 million as compared to the $8.6 million amortized in fiscal 2018.This increase is largely due to an increase in the number and value of annual non-equity incentive awards expected to be granted in fiscal 2019 as a result of anticipated operating income contributions from each of our two reportable operating segments. Like we did in fiscal 2018 and fiscal 2017, our Business Outlook for Fiscal 2019 assumes that we continue to pay certain annual non-equity incentive awards in the form of fully vested share units. If we do not achieve our fiscal 2019 business goals, amortization of stock-based compensation expense would be lower than our current expected fiscal 2019 range.
+
+
+
+Looking forward, unallocated operating expenses are expected to be higher in fiscal 2019 as compared to fiscal 2018. This expected increase is primarily due to anticipated changes in compensation costs (including amortization of stock-based compensation expense), acquisition plan expenses and other increased spending. 
+
+
+
+Consolidated GAAP operating income was $7.3 million or 4.5% of consolidated net sales in our most recent quarter as compared to GAAP operating income of $0.2 million or 0.2% of consolidated net sales in the first quarter of fiscal 2018. Excluding the aforementioned $1.4 million of facility exit costs and $1.1 million of acquisition plan expenses, consolidated operating income would have been $9.8 million, or 6.1% of consolidated net sales in the first quarter of fiscal 2019. Looking forward, on a consolidated basis, we are targeting operating income, as a percentage of consolidated net sales, to be higher than the 6.2% we achieved in fiscal 2018. Such GAAP operating target includes the $1.0 million of additional acquisition plan expenses expected during the second quarter of fiscal 2019. There is no certainty that our acquisition plan efforts will be successful.
+
+
+
+
+
+Index
+
+
+
+Interest Expense. Interest expense was $2.7 million and $2.6 million for the three months ended October 31, 2018 and 2017, respectively. Our effective interest rate (including amortization of deferred financing costs) in the three months ended October 31, 2018 was approximately 6.0%. On October 31, 2018, we entered into a new $550.0 million credit facility (the “Credit Facility”) which is intended to provide us with, among other things, increased balance sheet flexibility, improved interest rate pricing and less restrictive covenants than our prior facility.
+
+
+
+Based on the type, terms, amount of outstanding debt (including capital leases and other obligations) and current interest rates, our effective interest rate (including amortization of deferred financing costs) in fiscal 2019 is now anticipated to range from 5.4% to 5.6% which compares to our prior estimate of 6.0% to 6.4%. Our current cash borrowing rate (which excludes the amortization of deferred financing costs) reflects recent increases in interest rates offset by lower interest pricing in our new Credit Facility, is estimated to approximate 4.5%.
+
+
+
+Write-off of Deferred Financing Costs. In connection with the establishment of our new Credit Facility, we wrote-off $3.2 million of deferred financing costs which primarily related to the term loan portion of our prior credit facility. See "Notes to Condensed Consolidated Financial Statements - Note (10) - Credit Facility" for further information.
+
+
+
+Interest (Income) and Other. Interest (income) and other for both the three months ended October 31, 2018 and 2017 was nominal. All of our available cash and cash equivalents are currently invested in bank deposits and money market deposit accounts which, at this time, are currently yielding a blended annual interest rate of approximately 0.8%.
+
+
+
+Benefit From Income Taxes. The benefit from income taxes during the three months ended October 31, 2018 was $2.1 million as compared to the benefit of $0.7 million for the three months ended October 31, 2017.
+
+
+
+During the three months ended October 31, 2018, we recorded a net discrete tax benefit of $2.4 million, primarily related to (i) the favorable resolution of the IRS audit of our fiscal 2016 federal income tax return and (ii) discrete tax benefits for stock-based awards that were settled during the quarter. Excluding discrete tax items for the three months ended October 31, 2018, our effective tax rate was 22.75%.
+
+
+
+During the three months ended October 31, 2017, we recorded a net discrete tax expense of less than $0.1 million. Our effective tax rate excluding discrete tax items for the three months ended October 31, 2017 was 34.5%.
+
+
+
+The decrease from 34.5% to 22.75% is principally attributable to the passage of Tax Reform which reduced the statutory income tax rate from 35.0% to 21.0%. Such decrease was partially offset by the repeal of the domestic production activities deduction and lower tax deductions for certain executive compensation expenses.
+
+
+
+Our federal income tax returns for fiscal 2015 and 2017 remain subject to potential future IRS audit. None of our state income tax returns prior to fiscal 2014 are subject to audit. TCS' federal income tax returns for tax year 2015 and the tax period from January 1, 2016 to February 23, 2016 are subject to potential future IRS audit. None of TCS' state income tax returns prior to calendar year 2014 are subject to audit. Future tax assessments or settlements could have a material adverse effect on our consolidated results of operations and financial condition.
+
+
+
+Net Income (Loss). During the three months ended October 31, 2018, consolidated net income was $3.5 million as compared to a consolidated net loss of $1.7 million during the three months ended October 31, 2017. 
+
+
+
+
+
+Index
+
+
+
+
+
+
+
+The significant increase in consolidated Adjusted EBITDA, in dollars, during the three months ended October 31, 2018 as compared to the three months ended October 31, 2017 is primarily attributable to significantly higher net sales and product mix changes in our Government Solutions segment and the benefit of cost reduction actions previously initiated, as discussed above.
+
+
+
+The increase in our Commercial Solutions segment's Adjusted EBITDA, in dollars and as a percentage of related segment net sales, was primarily attributable to higher net sales at slightly higher gross margins, lower research and development expenses and the benefit of cost reduction actions previously initiated, as discussed above.
+
+
+
+The significant increase in our Government Solutions segment's Adjusted EBITDA, in dollars and as a percentage of related segment net sales, was primarily driven by significantly higher net sales at slightly higher gross margins, as discussed above.
+
+
+
+Because our Adjusted EBITDA, as a percentage of consolidated net sales, depends on the volume of sales, sales mix and related gross profit for each individual segment as well as unallocated spending, it is inherently difficult to forecast. In addition, our Business Outlook for Fiscal 2019 includes a number of items, the timing of which can still shift and impact our expected quarterly financial performance. Nevertheless, based on expected bookings, expected timing of our performance on orders and the anticipated increase in our Government Solutions segment net sales as a percentage of consolidated net sales, we currently expect our Adjusted EBITDA, as a percentage of consolidated net sales, for fiscal 2019 to be similar to the percentage we achieved in fiscal 2018. Additionally, except for acquisition plan expenses discussed above, our Business Outlook for Fiscal 2019 does not include the impact of our ongoing targeted acquisition plan related to a small but growing technology solutions company. There is no certainty that our acquisition plan efforts will be successful.
+
+
+
+If order flow remains strong and we are able to achieve all of our fiscal 2019 business goals, it is possible that our fiscal 2019 Adjusted EBITDA could be higher than our targeted amount.
+
+
+
+
+
+Index
+
+
+
+
+
+
+
+
+
+
+
+Our Adjusted EBITDA is a Non-GAAP measure that represents earnings (loss) before income taxes, interest (income) and other, write-off of deferred financing costs, interest expense, amortization of stock-based compensation, amortization of intangibles, depreciation expense, settlement of intellectual property litigation, acquisition plan expenses or strategic alternatives analysis expenses, facility exit costs and other. Our definition of Adjusted EBITDA may differ from the definition of EBITDA used by other companies and therefore may not be comparable to similarly titled measures used by other companies. Adjusted EBITDA is also a measure frequently requested by our investors and analysts. We believe that investors and analysts may use Adjusted EBITDA, along with other information contained in our SEC filings, in assessing our performance and comparability of our results with other companies. Our Non-GAAP measures for consolidated operating income, net income and net income per diluted share reflect the GAAP measures as reported, adjusted for certain items as described. These Non-GAAP financial measures have limitations as an analytical tool as they exclude the financial impact of transactions necessary to conduct our business, such as the granting of equity compensation awards, and are not intended to be an alternative to financial measures prepared in accordance with GAAP. These measures are adjusted as described in the reconciliation of GAAP to Non-GAAP in the above tables, but these adjustments should not be construed as an inference that all of these adjustments or costs are unusual, infrequent or non-recurring. Non-GAAP financial measures should be considered in addition to, and not as a substitute for or superior to, financial measures determined in accordance with GAAP. Investors are advised to carefully review the GAAP financial results that are disclosed in our SEC filings. We have not quantitatively reconciled our fiscal 2019 Adjusted EBITDA target to the most directly comparable GAAP measure because items such as stock-based compensation, adjustments to the provision for income taxes, amortization of intangibles and interest expense, which are specific items that impact these measures, have not yet occurred, are out of our control, or cannot be predicted. For example, quantification of stock-based compensation expense requires inputs such as the number of shares granted and market price that are not currently ascertainable. Accordingly, reconciliations to the Non-GAAP forward looking metrics are not available without unreasonable effort and such unavailable reconciling items could significantly impact our financial results. 
+
+
+
+
+
+Index
+
+
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+
+
+
+
+
+
+
+
+
+
+The Credit Facility is discussed below and in "Notes to Condensed Consolidated Financial Statements - Note (10) - Credit Facility."
+
+
+
+Our investment policy relating to our cash and cash equivalents is intended to minimize principal loss while at the same time maximize the income we receive without significantly increasing risk. To minimize risk, we generally invest our cash and cash equivalents in money market mutual funds (both government and commercial), certificates of deposit, bank deposits, and U.S. Treasury securities. Many of our money market mutual funds invest in direct obligations of the U.S. government, bank securities guaranteed by the Federal Deposit Insurance Corporation, certificates of deposit and commercial paper and other securities issued by other companies. While we cannot predict future market conditions or market liquidity, we believe our investment policies are appropriate in the current environment. Ultimately, the availability of our cash and cash equivalents is dependent on a well-functioning liquid market.
+
+
+
+
+
+In connection with an original $175.0 million shelf registration filed with the SEC on December 15, 2015, we sold 7.1 million shares of our common stock in a public offering at a price of $14.00 per share in June 2016, resulting in proceeds to us of $95.0 million, net of underwriting discounts and commissions. As of October 31, 2018 and December 6, 2018, an aggregate registered amount of $75.0 million under our existing shelf registration statement filed with the SEC remains available for sale of various types of securities, including debt. This existing shelf registration is expected to expire on December 23, 2018. As such, on December 6, 2018, we filed a new $400.0 million shelf registration statement with the SEC for the sale of various types of securities, including debt.
+
+
+
+As of October 31, 2018 and December 6, 2018, we were authorized to repurchase up to an additional $8.7 million of our common stock, pursuant to our current $100.0 million stock repurchase program. Our stock repurchase program has no time restrictions and repurchases may be made in open-market or privately negotiated transactions and may be made pursuant to SEC Rule 10b5-1 trading plans. There were no repurchases of our common stock during the three months ended October 31, 2018 and 2017. 
+
+
+
+
+
+Index
+
+
+
+On September 26, 2018, our Board of Directors declared a dividend of $0.10 per common share, which was paid on November 16, 2018. On December 6, 2018, our Board of Directors declared a dividend of $0.10 per common share, payable on February 15, 2019 to stockholders of record at the close of business on January 16, 2019. Future dividends remain subject to compliance with financial covenants under our Credit Facility as well as Board approval.
+
+
+
+
+
+We continue to receive (and approve on a limited basis) requests from our customers for higher credit limits and longer payment terms. We also continue to monitor our accounts receivable credit portfolio and have not had material negative customer credit experiences historically.
+
+
+
+We have historically met both our short-term and long-term cash requirements with funds provided by a combination of cash and cash equivalent balances, cash generated from operating activities and cash generated from financing transactions. Based on our anticipated level of future sales and operating income, we believe that our existing cash and cash equivalent balances, our cash generated from operating activities and amounts potentially available under our Credit Facility will be sufficient to meet both our currently anticipated short-term and long-term operating cash requirements. 
+
+
+
+
+
+Credit Facility
+
+
+
+On October 31, 2018, we entered into a First Amended and Restated Credit Agreement (the “Credit Facility”) with a syndicate of lenders, replacing our prior Credit Agreement dated as of February 23, 2016 (as amended by that certain First Amendment, dated as of June 6, 2017 (the “Prior Credit Facility”)). 
+
+
+
+
+
+The Credit Facility matures on October 31, 2023 (the “Revolving Maturity Date”). If we issue new unsecured debt in excess of $5.0 million with a maturity date that is less than 91 days from October 31, 2023, the Revolving Maturity Date would automatically accelerate so that it would be 91 days earlier than the maturity date of the new unsecured debt.
+
+
+
+The proceeds of the new Credit Facility were used, in part, to repay in full the outstanding borrowings under the Prior Credit Facility, and additional proceeds of the Credit Facility are expected to be used by us for working capital and other general corporate purposes. As of October 31, 2018, the amount outstanding under our Credit Facility was $193.4 million, which is reflected in the non-current portion of long-term debt on our Condensed Consolidated Balance Sheet. At October 31, 2018, we had $2.7 million of standby letters of credit outstanding under our Credit Facility related to our guarantees of future performance on certain customer contracts and no outstanding commercial letters of credit.
+
+
+
+
+
+
+
+Index
+
+
+
+
+
+
+
+As of October 31, 2018, our Secured Leverage Ratio was 2.25x TTM Adjusted EBITDA compared to the maximum allowable Secured Leverage Ratio of 3.75x TTM Adjusted EBITDA. Our Interest Expense Coverage Ratio as of October 31, 2018 was 11.31x TTM Adjusted EBITDA compared to the Minimum Interest Expense Coverage Ratio of 3.25x TTM Adjusted EBITDA. Given our expected future business performance, we anticipate maintaining compliance with the terms and financial covenants in our Credit Facility for the foreseeable future.
+
+
+
+The obligations under the Credit Facility are guaranteed by certain of our domestic subsidiaries (the “Guarantors”). As collateral security under the Credit Facility and the guarantees thereof, we and the Guarantors have granted to the administrative agent, for the benefit of the lenders, a lien on, and first priority security interest in, substantially all of our tangible and intangible assets.
+
+
+
+On December 6, 2018, we entered into the first amendment to the Credit Facility. The purpose of the amendment is to provide for a mechanism to replace the LIBO rate for Eurodollar borrowings with an alternative benchmark interest rate, should the LIBO rate generally become unavailable in the future on an other-than-temporary basis.
+
+
+
+Capitalized terms used but not defined herein have the meanings set forth for such terms in the Credit Facility and the Prior Credit Facility, which have been documented and filed with the SEC.
+
+
+
+OFF-BALANCE SHEET ARRANGEMENTS
+
+
+
+As of October 31, 2018, we did not have any off-balance sheet arrangements as defined in Item 303(a)(4) of Regulation S-K.
+
+
+
+
+
+Index
+
+
+
+COMMITMENTS
+
+
+
+In the normal course of business, other than as discussed below, we routinely enter into binding and non-binding purchase obligations primarily covering anticipated purchases of inventory and equipment. We do not expect that these commitments, as of October 31, 2018, will materially adversely affect our liquidity. 
+
+
+
+
+
+
+
+
+
+As discussed further in "Notes to Condensed Consolidated Financial Statements - Note (17) - Stockholders’ Equity," on December 6, 2018, our Board of Directors declared a dividend of $0.10 per common share, payable on February 15, 2019 to stockholders of record at the close of business on January 16, 2019. Future dividends remain subject to compliance with financial covenants under our Credit Facility as well as Board approval.
+
+
+
+At October 31, 2018, we have approximately $2.7 million of standby letters of credit outstanding under our Credit Facility related to our guarantees of future performance on certain customer contracts. Such amounts are not included in the above table.
+
+
+
+
+
+As discussed in "Notes to Condensed Consolidated Financial Statements - Note (9) - Cost Reduction Actions," during the three months ended October 31, 2018, we exited our Government Solutions segment's manufacturing facility located in Tampa, Florida and recorded a related charge of $1.4 million in selling, general and administrative expenses on our Condensed Consolidated Statement of Operations. Of this amount, $1.0 million and $0.4 million, respectively, was included in accrued expenses and other current liabilities and other liabilities (non-current) on our Condensed Consolidated Balance Sheet as of October 31, 2018. Such amounts are not shown in the above commitment table.
+
+
+
+
+
+Index
+
+
+
+In the ordinary course of business, we include indemnification provisions in certain of our customer contracts. Pursuant to these agreements, we have agreed to indemnify, hold harmless and reimburse the indemnified party for losses suffered or incurred by the indemnified party, including but not limited to losses related to third-party intellectual property claims. It is not possible to determine the maximum potential amount under these agreements due to a history of nominal claims in the Comtech legacy business and the unique facts and circumstances involved in each particular agreement. As discussed further in "Notes to Condensed Consolidated Financial Statements - Note (18) - Legal Proceedings and Other Matters," TCS is a party to a number of indemnification matters and we are incurring ongoing legal expenses in connection with these matters. Our insurance policies may not cover the cost of defending indemnification claims or providing indemnification. As a result, pending or future claims asserted against us by a party that we have agreed to indemnify could result in legal costs and damages that could have a material adverse effect on our consolidated results of operations and financial condition.
+
+
+
+We have change in control agreements, severance agreements and indemnification agreements with certain of our executive officers and certain key employees. All of these agreements may require payments by us, in certain circumstances, including, but not limited to, a change in control of our Company or an involuntary termination of employment without cause. 
+
+
+
+Our Condensed Consolidated Balance Sheet as of October 31, 2018 includes total liabilities of $7.3 million for uncertain tax positions, including interest, any or all of which may result in a cash payment. The future payments related to uncertain tax positions have not been presented in the table above due to the uncertainty of the amounts and timing of any potential cash settlement with the taxing authorities.
+
+
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+
+
+We are required to prepare our condensed consolidated financial statements in accordance with the Financial Accounting Standards Board ("FASB") Accounting Standards Codification ("ASC") which is the source for all authoritative U.S. generally accepted accounting principles, which is commonly referred to as "GAAP." The FASB ASC is subject to updates by the FASB, which are known as Accounting Standards Updates ("ASUs"). 
+
+
+
+
+
+•FASB ASU No. 2014-09 "Revenue from Contracts with Customers (Topic 606)." See "Notes to Condensed Consolidated Financial Statements - Note (3) -Revenue," for further information. 
+
+
+
+•FASB ASU No. 2016-16, issued in October 2016, which eliminates a prior exception and now requires an entity to recognize the income tax consequences of an intra-entity transfer of an asset other than inventory (for example, intellectual property and property, plant and equipment) when the transfer occurs. We adopted this ASU on August 1, 2018. There was no material impact to our condensed consolidated financial statements (including any cumulative-effect adjustment) and disclosures upon such adoption.
+
+
+
+
+
+
+
+
+
+Index
+
+
+
+•FASB ASU No. 2016-13 issued in June 2016 and, as clarified by ASU No. 2018-19 issued in November 2018, which requires the measurement of expected credit losses for financial assets held at the reporting date to be based on historical experience, current conditions and reasonable and supportable forecasts. This ASU is effective for fiscal years beginning after December 15, 2019 (our fiscal year beginning on August 1, 2020), including interim periods within those fiscal years. All entities may adopt the amendments in this ASU earlier as of the fiscal years beginning after December 15, 2018, including interim periods within those fiscal years. Except for a prospective transition approach required for debt securities for which an other-than-temporary impairment had been recognized before the effective date, an entity will apply the amendments in this ASU through a cumulative-effect adjustment to retained earnings as of the beginning of the first reporting period in which the guidance is effective (that is, on a modified-retrospective approach). We are evaluating the impact of this ASU on our condensed consolidated financial statements and disclosures.
+
+
+
+•FASB ASU No. 2017-11, issued in July 2017, which provides guidance on the accounting for certain financial instruments with embedded features that result in the strike price of the instrument or embedded conversion option being reduced on the basis of the pricing of future equity offerings (commonly referred to as "down round" features). This ASU is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2018 (our fiscal year beginning on August 1, 2019) and early adoption is permitted, including adoption in an interim period. This ASU should be applied retrospectively in accordance with the provisions of the ASU. We are evaluating the impact of this ASU on our condensed consolidated financial statements and disclosures; however, we do not expect the adoption to have any effect given that we currently do not have any financial instruments with such “down round” features.
+
+
+
+•FASB ASU No. 2017-12, issued in August 2017, which expands and refines hedge accounting for both nonfinancial and financial risk components and simplifies and aligns the recognition and presentation of the effects of the hedging instrument and the hedged item in the financial statements. This ASU is effective for fiscal years beginning after December 15, 2018 (our fiscal year beginning on August 1, 2019) and for interim periods therein, with early adoption permitted. We are evaluating the impact of this ASU on our condensed consolidated financial statements and disclosures; however, we do not expect the adoption to have any effect given that we are currently not a party to any such hedging transactions.
+
+
+
+•FASB ASU No. 2018-07, issued in June 2018, which expands the scope of Topic 718 to include certain share-based payment transactions for acquiring goods and services from nonemployees. This ASU is effective for fiscal years beginning after December 15, 2018 (our fiscal year beginning on August 1, 2019), including interim periods within that fiscal year. Early adoption is permitted. An entity should only remeasure liability-classified awards that have not been settled by the date of adoption and equity-classified awards for which a measurement date has not been established, through a cumulative-effect adjustment to retained earnings as of the beginning of the fiscal year of adoption. We are evaluating the impact of this ASU on our condensed consolidated financial statements and disclosures; however, we do not expect the adoption to have any effect given that we currently do not have any such outstanding share-based awards with nonemployees.
+
+
+
+•FASB ASU No. 2018-13, issued in August 2018, which modifies the disclosure requirements for fair value measurements in Topic 820. This ASU is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019 (our fiscal year beginning on August 1, 2020). Upon the effective date, certain provisions are to be applied prospectively, while others are to be applied retrospectively to all periods presented. An entity is permitted to early adopt any removed or modified disclosures upon issuance of this ASU and delay adoption of the additional disclosures until their effective date. We are evaluating the impact of this ASU on our condensed consolidated financial statement disclosures.
+
+
+
+•FASB ASU No. 2018-15, issued in August 2018, which aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal use software (and hosting arrangements that include an internal use software license). The accounting for the service element of a hosting arrangement that is a service contract is not affected by the amendments in this ASU. This ASU is effective for fiscal years beginning after December 15, 2019 (our fiscal year beginning on August 1, 2020), and interim periods within those fiscal years. Early adoption is permitted, including adoption in any interim period. This ASU should be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. We are evaluating the impact of this ASU on our condensed consolidated financial statements and disclosures.
+
+
+
+
+
+Index
+
+
+
+•FASB ASU No. 2018-16, issued in October 2018, which expands the list of eligible U.S. benchmark interest rates permitted in the application of hedge accounting due to broad concerns about the long-term sustainability of the LIBO rate. This ASU adds the Overnight Index Swap (“OIS”) rate, based on the Secured Overnight Financing Rate (“SOFR”), as an eligible U.S. benchmark interest rate. This ASU is effective for fiscal years beginning after December 15, 2018 (our fiscal year beginning on August 1, 2019) and for interim periods therein, with early adoption permitted. We are evaluating the impact of this ASU on our condensed consolidated financial statements and disclosures; however, we do not expect the adoption to have any effect given that we are currently not a party to any such hedging transactions.
+
+
+
+•FASB ASU No. 2018-17, issued in October 2018, which requires entities to consider indirect interests held through related parties under common control on a proportional basis, rather than as the equivalent of a direct interest in its entirety when determining whether a decision-making fee is a variable interest. This ASU is effective for fiscal years beginning after December 15, 2019 (our fiscal year beginning on August 1, 2020) and for interim periods therein, with early adoption permitted. We are evaluating the impact of this ASU on our condensed consolidated financial statements and disclosures; however, we do not expect the adoption to have any effect given that we currently do not have any indirect interests held through related parties in common control.
+
+
+
+•FASB ASU No. 2018-18, issued in November 2018, which clarifies when certain transactions between collaborative arrangement participants should be accounted for under ASC 606 and incorporates unit-of-account guidance consistent with ASC 606 to aid in this determination. The ASU also precludes entities from presenting consideration from transactions with a collaborator that is not a customer together with revenue recognized from contracts with customers. This ASU is effective for fiscal years beginning after December 15, 2019 (our fiscal year beginning on August 1, 2020) and for interim periods therein, with early adoption permitted. We are evaluating the impact of this ASU on our condensed consolidated financial statements and disclosures; however, we do not expect the adoption to have any effect given that we are currently not engaged in such collaborative arrangement transactions.
+
+
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+
+
+
+None.
+
+
+
+Item 4. Mine Safety Disclosures
+
+
+
+Not applicable.
+
+
+
+Item 6. Exhibits 
+
+
+
+Exhibit 10.1 - First Amended and Restated Credit Agreement, dated October 31, 2018, among Comtech Telecommunications Corp., the lenders party thereto and Citibank N.A., as administrative agent, issuing bank and swingline lender (incorporated by reference to Exhibit 10.1 to the Company's Current Report on Form 8-K, filed on November 5, 2018) 
+
+
+
+Exhibit 31.1 - Certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+
+
+Exhibit 31.2 - Certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+
+
+Exhibit 32.1 - Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+
+
+Exhibit 32.2 - Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+
+
+Exhibit 101.INS - XBRL Instance Document
+
+
+
+Exhibit 101.SCH - XBRL Taxonomy Extension Schema Document
+
+
+
+Exhibit 101.CAL - XBRL Taxonomy Extension Calculation Linkbase Document
+
+
+
+Exhibit 101.LAB - XBRL Taxonomy Extension Labels Linkbase Document
+
+
+
+Exhibit 101.PRE - XBRL Taxonomy Extension Presentation Linkbase Document
+
+
+
+Exhibit 101.DEF - XBRL Taxonomy Extension Definition Linkbase Document
+
+
+
+
+
+Index
+
+
+
+SIGNATURES
+
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+
+
+COMTECH TELECOMMUNICATIONS CORP.
+
+
+
+
+
+
+

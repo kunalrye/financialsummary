@@ -1,0 +1,678 @@
+ Item 2:  
+
+
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations   
+
+
+
+Statements in this Quarterly Report on Form 
+
+
+
+10-Q which are not historical facts, so called “forward-looking statements,” are made pursuant to the safe harbor provisions of Section 21E of the Securities Exchange Act of 1934, as amended. Investors are cautioned that all forward-looking statements involve risks and uncertainties, including those detailed in our filings with the Securities and Exchange Commission. See also Part II, Item 1A of this Quarterly Report on Form 
+
+
+
+10-Q and Part I, Item 1A “Risk Factors” in our Annual Report on Form 
+
+
+
+10-K for the year ended December 31, 2018. Readers are cautioned not to place undue reliance on these forward-looking statements which reflect management’s analysis only as of the date hereof. We assume no obligation to update these forward-looking statements to reflect actual results or changes in factors or assumptions affecting forward-looking statements, except as may be required by law. 
+
+
+
+Overview  
+
+
+
+
+
+   • 
+
+
+
+semiconductor test (“Semiconductor Test”) systems;   
+
+
+
+   • 
+
+
+
+industrial automation (“Industrial Automation”) products;   
+
+
+
+   • 
+
+
+
+
+
+   • 
+
+
+
+wireless test (“Wireless Test”) systems.   
+
+
+
+We have a customer base which includes integrated device manufacturers (“IDMs”), outsourced semiconductor assembly and test providers (“OSATs”), original equipment manufacturers (“OEMs”), wafer foundries, fabless companies that design, but contract with others for the manufacture of integrated circuits (“ICs”), developers of wireless devices and consumer electronics, manufacturers of circuit boards, automotive suppliers, wireless product manufacturers, storage device manufacturers, aerospace and military contractors, and distributors that sell collaborative robots, autonomous mobile robots and wireless test systems. The sales of our products and services are dependent, to a large degree, on these customers who are subject to cyclical trends in the demand for their products. These cyclical periods have had, and will continue to have, a significant effect on our business because our customers often delay or accelerate purchases in reaction to changes in their businesses and to demand fluctuations in the semiconductor, electronics and industrial automation industries. Historically, these demand fluctuations have resulted in significant variations in our results of operations.  
+
+
+
+The market for our test products is concentrated with a limited number of significant customers accounting for a substantial portion of the purchases of test equipment. A few customers drive significant demand for our test products both through direct sales and sales to the customer’s supply partners. We expect that sales of our test products will continue to be concentrated with a limited number of significant customers for the foreseeable future.  
+
+
+
+In the nine months ended September 29, 2019, revenue in our test businesses has exceeded forecasts as a result of semiconductor test demand in China, early 5G test investments and strength in our System Test businesses. It is difficult to predict whether these positive trends will continue in 2020.  
+
+
+
+In the nine months ended September 29, 2019, the revenue growth of our industrial automation business was below our forecast. We expect 2019 full year revenue growth of our industrial automation business to be under the low end of our long-term range of 30% to 40%. We will continue to invest in our industrial automation businesses to position us for returning to our long-term range of 30% to 40% growth when industrial activity and investment increase.  
+
+
+
+On February 26, 2018, we acquired Energid Technologies Corporation (“Energid”) for a total purchase price of approximately $27.6 million. Energid’s technology enables and simplifies the programming of complex robotic motions used in a wide variety of end markets, ranging from heavy industry to healthcare, utilizing both traditional robots and collaborative robots.  
+
+
+
+On April 25, 2018, we acquired Mobile Industrial Robots ApS (“MiR”), a Danish limited liability company. MiR is the leading maker of collaborative autonomous mobile robots for industrial applications. The total purchase price was approximately $197.8 million, which included cash paid of approximately $145.2 million and $52.6 million in fair value of contingent consideration payable upon achievement of certain thresholds and targets for revenue and earnings before interest and taxes through 2020. Contingent consideration for 2018 was $30.8 million and was paid in March 2019. The maximum payment for the remaining MiR contingent consideration that could be paid is $81.0 million.  
+
+
+
+
+
+Table of Contents 
+
+
+
+MiR and Energid are included in our Industrial Automation segment.  
+
+
+
+On January 30, 2019, we acquired all of the issued and outstanding shares of Lemsys SA (“Lemsys”) for a total purchase price of approximately $9.1 million. Lemsys strengthens our position in the electrification trends of vehicles, solar, wind, and industrial applications. Lemsys is included in our Semiconductor Test segment.  
+
+
+
+On June 3, 2019, we invested $15 million in RealWear, Inc. (“RealWear”). RealWear, a private company, develops and sells advanced wearable technology including industrial, hands-free, head-mounted augmented reality devices that make the workplace safer and more productive. Our investment in RealWear aligns with our strategy of bringing the power of advanced automation to companies of all sizes to improve the productivity of their employees and the quality of their products and services.  
+
+
+
+On October 18, 2019, we entered into an agreement to acquire 100% of the equity of AutoGuide, LLC (“AutoGuide”), a maker of high-payload autonomous mobile robots (AMRs), an emerging and fast growing segment of the global forklift market for $58 million of cash and up to $107 million in earn-outs potentially through 2022. AutoGuide is based in Chelmsford, MA. AutoGuide’s AMRs are used for material transport of payloads up to 4,500 kg in manufacturing, warehouse and logistics applications. These products complement MiR’s lower payload products. The acquisition of AutoGuide is expected to close in the fourth quarter of 2019, subject to customary closing conditions and regulatory approval. AutoGuide will be included in Teradyne’s Industrial Automation segment.  
+
+
+
+We believe our recent acquisitions and investments have enhanced our opportunities for growth. We intend to continue to invest in our business, grow market share in our markets and expand further our addressable markets while tightly managing our costs.  
+
+
+
+Critical Accounting Policies and Estimates  
+
+
+
+We have identified the policies which are critical to understanding our business and our results of operations. There have been no significant changes during the three and nine months ended September 29, 2019 to the items disclosed as our critical accounting policies and estimates in Management’s Discussion and Analysis of Financial Condition and Results of Operations in our Annual Report on Form 
+
+
+
+10-K for the fiscal year ended December 31, 2018, except as noted below. 
+
+
+
+Investment in Other Company  
+
+
+
+
+
+Leases  
+
+
+
+In February 2016, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) 
+
+
+
+
+
+“Leases (Topic 842)” (“Topic 842”), which requires a lessee to record a 
+
+
+
+right-of-use (“ROU”) asset and a lease liability on the balance sheet for operating leases with terms longer than twelve months. We adopted this standard and the related amendments (collectively “ASC 842”) on January 1, 2019 and utilized the modified retrospective approach provided by ASU 
+
+
+
+
+
+
+
+Under ASC 842, a contract is or contains a lease when we have the right to control the use of an identified asset. We determine if an arrangement is a lease at inception of the contract, which is the date on which the terms of the contract are agreed to and the agreement creates enforceable rights and obligations. The commencement date of the lease is the date that the lessor makes an underlying asset available for use. As of September 29, 2019, we do not have material leases that have not yet commenced.  
+
+
+
+We determine if the lease is operating or finance at the lease commencement date based upon the terms of the lease and the nature of the asset. The lease term used to calculate the lease liability includes options to extend or terminate the lease when it is reasonably certain that the option will be exercised.  
+
+
+
+
+
+Table of Contents 
+
+
+
+For leases commencing after January 1, 2019, the lease liability is measured at the present value of future lease payments, discounted using the discount rate for the lease at the commencement date. As we are typically unable to determine the implicit rate, we use an incremental borrowing rate based on the lease term and economic environment at commencement date. We initially measure payments based on an index by using the applicable rate at lease commencement. Variable payments that do not depend on an index are not included in the lease liability and are recognized as they are incurred. The ROU asset is initially measured as the amount of lease liability, adjusted for any initial lease costs, prepaid lease payments, and reduced by any lease incentives.  
+
+
+
+Our contracts often include 
+
+
+
+non-lease components such as common area maintenance. We elected the practical expedient to account for the lease and 
+
+
+
+non-lease components as a single lease component. For leases with a term of one year or less we elected not to record the lease asset or liability. The lease payments are recognized in the consolidated statement of earnings on a straight-line basis over the lease term. We include lease costs within cost of revenues and operating expenses. 
+
+
+
+Preparation of Financial Statements and Use of Estimates  
+
+
+
+The preparation of consolidated financial statements requires management to make estimates and judgments that affect the amounts reported in the financial statements. Actual results may differ significantly from these estimates.  
+
+
+
+SELECTED RELATIONSHIPS WITHIN THE CONDENSED CONSOLIDATED  
+
+
+
+
+
+
+
+Table of Contents 
+
+
+
+Results of Operations  
+
+
+
+Third Quarter 2019 Compared to Third Quarter 2018  
+
+
+
+Revenues  
+
+
+
+
+
+
+
+
+
+
+
+Revenues attributable to a country are based on location of customer site.   
+
+
+
+Gross Profit  
+
+
+
+
+
+
+
+Table of Contents 
+
+
+
+Gross profit as a percent of revenue increased by 0.4 points, primarily due to favorable product mix in Semiconductor Test and Storage Test.  
+
+
+
+We assess the carrying value of our inventory on a quarterly basis by estimating future demand and comparing that demand against 
+
+
+
+on-hand and 
+
+
+
+on-order inventory positions. Forecasted revenue information is obtained from sales and marketing groups and incorporates factors such as backlog and future revenue demand. This quarterly process identifies obsolete and excess inventory. Obsolete inventory, which represents items for which there is no demand, is fully reserved. Excess inventory, which represents inventory items that are not expected to be consumed during the next twelve quarters for our Semiconductor Test, System Test and Industrial Automation segments and the next four quarters for our Wireless Test segment, is written-down to estimated net realizable value. 
+
+
+
+During the three months ended September 29, 2019, we recorded an inventory provision of $3.0 million included in cost of revenues primarily due to downward revisions to previously forecasted demand levels, of which $1.9 million was related to Semiconductor Test, $0.7 million was related to Wireless Test and $0.4 million was related to System Test.  
+
+
+
+During the three months ended September 30, 2018, we recorded an inventory provision of $3.3 million included in cost of revenues primarily due to downward revisions to previously forecasted demand levels, of which $2.1 million was related to Semiconductor Test, $0.7 million was related to Wireless Test, and $0.4 million was related to Industrial Automation.  
+
+
+
+During the three months ended September 29, 2019 and September 30, 2018, we scrapped $3.4 million and $1.7 million of inventory, respectively. During the three months ended September 29, 2019 and September 30, 2018, we sold $0.8 million and $1.0 million of previously written-down or 
+
+
+
+written-off inventory, respectively. As of September 29, 2019, we had inventory related reserves, which had been written-down or 
+
+
+
+written-off totaling $101.2 million. We have no 
+
+
+
+pre-determined timeline to scrap the remaining inventory. 
+
+
+
+Selling and Administrative  
+
+
+
+
+
+The increase of $9.0 million in selling and administrative expenses was due primarily to higher spending in Industrial Automation from higher sales and marketing spending in Universal Robots and MiR, and higher stock compensation expense from the modification of Teradyne’s former chief financial officer’s outstanding equity awards.  
+
+
+
+Engineering and Development  
+
+
+
+
+
+The increase of $0.8 million in engineering and development expenses was primarily due to higher spending in Industrial Automation, partially offset by lower spending in Semiconductor Test.  
+
+
+
+Restructuring and Other  
+
+
+
+During the three months ended September 29, 2019, we recorded a $7.8 million gain for the decrease in the fair value of the MiR contingent consideration liability, partially offset by $0.5 million recorded for employee severance charges primarily in Industrial Automation, $0.5 million for acquisition related compensation and expenses, and $0.3 million of fixed assets impairment in Wireless Test.  
+
+
+
+
+
+Table of Contents 
+
+
+
+During the three months ended September 30, 2018, we recorded $1.7 million for employee severance charges, primarily in Semiconductor Test and $0.8 million for acquisition related compensation, partially offset by a $0.8 million gain for the decrease in the fair value of the Universal Robots contingent consideration liability.  
+
+
+
+
+
+Interest income decreased by $1.0 million due primarily to lower unrealized gains on equity marketable securities in 2019. Other (income) expense, net decreased by $0.7 million due primarily to lower foreign exchange losses.  
+
+
+
+
+
+
+
+
+
+
+
+Income Taxes  
+
+
+
+The effective tax rate for the three months ended September 29, 2019 and September 30, 2018 was 10.5% and 14.8%, respectively. The decrease in the effective tax rate from the three months ended September 29, 2019 to the three months ended September 30, 2018 primarily resulted from the tax rate effect of a projected shift in the geographic distribution of income, which reduces the income subject to taxation in higher tax rate jurisdictions relative to lower tax rate jurisdictions, an increase in the net favorable impact of the U.S. Tax Cuts and Jobs Act of 2017, and an increase in net discrete tax benefit.  
+
+
+
+
+
+Table of Contents 
+
+
+
+Nine Months 2019 Compared to Nine Months 2018  
+
+
+
+Revenues  
+
+
+
+
+
+
+
+
+
+
+
+Revenues attributable to a country are based on location of customer site.   
+
+
+
+Gross Profit  
+
+
+
+
+
+
+
+Table of Contents 
+
+
+
+Gross profit as a percent of revenue increased by 0.7 points, primarily due to favorable product mix in Semiconductor Test and Storage Test.  
+
+
+
+We assess the carrying value of our inventory on a quarterly basis by estimating future demand and comparing that demand against 
+
+
+
+on-hand and 
+
+
+
+on-order inventory positions. Forecasted revenue information is obtained from sales and marketing groups and incorporates factors such as backlog and future revenue demand. This quarterly process identifies obsolete and excess inventory. Obsolete inventory, which represents items for which there is no demand, is fully reserved. Excess inventory, which represents inventory items that are not expected to be consumed during the next twelve quarters for our Semiconductor Test, System Test and Industrial Automation segments and the next four quarters for our Wireless Test segment, is written-down to estimated net realizable value. 
+
+
+
+During the nine months ended September 29, 2019, we recorded an inventory provision of $8.8 million included in cost of revenues primarily due to downward revisions to previously forecasted demand levels, of which $5.3 million was related to Semiconductor Test, $1.9 million was related to Wireless Test, $1.1 million was related to System Test, and $0.5 million was related to Industrial Automation.  
+
+
+
+During the nine months ended September 30, 2018, we recorded an inventory provision of $9.5 million included in cost of revenues primarily due to downward revisions to previously forecasted demand levels, of which $5.9 million was related to Semiconductor Test and $2.2 million was related to Wireless Test.  
+
+
+
+During the nine months ended September 29, 2019 and September 30, 2018, we scrapped $6.4 million and $3.2 million of inventory, respectively. During the nine months ended September 29, 2019 and September 30, 2018, we sold $2.0 million and $5.2 million of previously written-down or 
+
+
+
+written-off inventory, respectively. As of September 29, 2019, we had inventory related reserves for inventory, which had been written-down or 
+
+
+
+written-off totaling $101.2 million. We have no 
+
+
+
+pre-determined timeline to scrap the remaining inventory. 
+
+
+
+Selling and Administrative  
+
+
+
+
+
+The increase of $29.9 million in selling and administrative expenses was due primarily to higher spending in Industrial Automation from higher sales and marketing spending in Universal Robots and MiR, which was acquired on April 25, 2018.  
+
+
+
+Engineering and Development  
+
+
+
+
+
+The increase of $9.2 million in engineering and development expenses was primarily due to higher spending in Industrial Automation partially offset by lower spending in Semiconductor Test.  
+
+
+
+Restructuring and Other  
+
+
+
+During the nine months ended September 29, 2019, we recorded a $16.5 million gain for the decrease in the fair value of the MiR contingent consideration liability, partially offset by $2.1 million recorded for employee severance charges primarily in Semiconductor Test and Industrial Automation, $2.3 million for acquisition related expenses and compensation and $0.3 million of fixed assets impairment in Wireless Test.  
+
+
+
+
+
+Table of Contents 
+
+
+
+During the nine months ended September 30, 2018, we recorded $7.9 million for employee severance charges, primarily in Semiconductor Test, and $4.1 million for acquisition related compensation and expenses, partially offset by a $9.2 million gain for the decrease in the fair value of the Universal Robots contingent consideration liability.  
+
+
+
+
+
+Interest income increased by $1.0 million due primarily to higher unrealized gains on equity marketable securities in 2019. Interest expense decreased by $0.9 million due primarily to lower realized losses on sales of marketable securities in 2019. Other (income) expense, net increased by $2.2 million due primarily to higher pension costs and higher foreign exchange losses.  
+
+
+
+
+
+
+
+
+
+
+
+Income Taxes  
+
+
+
+The effective tax rate for the nine months ended September 29, 2019 and September 30, 2018 was 9.2% and 13.6%, respectively. The decrease in the effective tax rate from the nine months ended September 29, 2019 to the nine months ended September 30, 2018 primarily resulted from the tax rate effect of a projected shift in the geographic distribution of income, which reduces the income subject to taxation in higher tax rate jurisdictions relative to lower tax rate jurisdictions, and an increase in net discrete tax benefit. These reductions were partially offset by a decrease in the net favorable impact of the U.S. Tax Cuts and Jobs Act of 2017.  
+
+
+
+
+
+Table of Contents 
+
+
+
+Contractual Obligations  
+
+
+
+
+
+
+
+Represents the transition tax liability associated with our accumulated foreign earnings as a result of the enactment of the Tax Reform Act on December 22, 2017.   
+
+
+
+
+
+Included in other long-term liabilities are liabilities for customer advances, extended warranty, uncertain tax positions, deferred tax liabilities and other obligations. For certain long-term obligations, we are unable to provide a reasonably reliable estimate of the timing of future payments relating to these obligations and therefore we included these amounts in the column marked “Other.”   
+
+
+
+Liquidity and Capital Resources  
+
+
+
+Our cash, cash equivalents, and marketable securities balances decreased by $164.5 million in the nine months ended September 29, 2019 to $1.0 billion.   
+
+
+
+Operating activities during the nine months ended September 29, 2019 provided cash of $362.4 million. Changes in operating assets and liabilities used cash of $83.5 million due to a $97.1 million increase in operating assets and a $13.6 million increase in operating liabilities.  
+
+
+
+The increase in operating assets was primarily due to a $66.8 million increase in accounts receivable due to increased sales, a $16.1 million increase in prepayments and other assets, and a $14.1 million increase in inventories.  
+
+
+
+The increase in operating liabilities was due to a $27.8 million increase in deferred revenue and customer advance payments, a $23.7 million increase in other accrued liabilities, and a $17.5 million increase in accounts payable, partially offset by a $31.2 million decrease in income taxes, a $20.4 million decrease in accrued employee compensation due primarily to first quarter payments related to variable compensation, and $3.8 million of retirement plan contributions.  
+
+
+
+Investing activities during the nine months ended September 29, 2019 used cash of $266.9 million due to $605.5 million used for purchases of marketable securities, $96.0 million used for purchases of property, plant and equipment, $15.0 million used for an investment in RealWear, and $7.0 million, net of cash acquired, used for the acquisition of Lemsys, partially offset by $393.5 million and $60.3 million in proceeds from maturities and sales of marketable securities, respectively, and proceeds from life insurance of $2.9 million related to the cash surrender value from the cancellation of Teradyne owned life insurance policies.  
+
+
+
+Financing activities during the nine months ended September 29, 2019 used cash of $427.9 million due to $368.8 million used for the repurchase of 8.8 million shares of common stock at an average price of $41.93 per share, $46.3 million used for dividend payments, $27.6 million used for payments related to MiR and Universal Robots acquisition contingent consideration, and $14.5 million used for payments related to net settlements of employee stock compensation awards, partially offset by $29.3 million from the issuance of common stock under employee stock purchase and stock option plans.  
+
+
+
+Operating activities during the nine months ended September 30, 2018 provided cash of $290.5 million. Changes in operating assets and liabilities used cash of $151.1 million due to a $140.6 million increase in operating assets and a $10.4 million decrease in operating liabilities.  
+
+
+
+
+
+Table of Contents 
+
+
+
+The increase in operating assets was primarily due to a $77.8 million increase in accounts receivable due to increased sales and the impact of the new revenue recognition standard, a $34.1 million increase in inventories, and a $28.7 million increase in prepayments and other assets.  
+
+
+
+The decrease in operating liabilities was due to a $26.1 million decrease in accrued employee compensation due primarily to first quarter payments related to variable compensation, a $33.2 million decrease in income taxes, and $3.2 million of retirement plan contributions, partially offset by a $22.9 million increase in other accrued liabilities, a $19.4 million increase in accounts payable and a $9.8 million increase in deferred revenue and customer advance payments.  
+
+
+
+Investing activities during the nine months ended September 30, 2018 provided cash of $719.0 million due to $843.2 million and $934.1 million in proceeds from sales and maturities of marketable securities, respectively, proceeds from a government subsidy of $7.9 million for property, plant and equipment and proceeds from life insurance of $1.1 million related to the cash surrender value from the cancellation of Teradyne owned life insurance policies, partially offset by $809.5 million used for purchases of marketable securities, $169.5 million used for the acquisitions of MiR and Energid, and $88.3 million used for purchases of property, plant and equipment.  
+
+
+
+Financing activities during the nine months ended September 30, 2018 used cash of $626.0 million due to $562.3 million used for the repurchase of 13.8 million shares of common stock at an average price of $40.62 per share, $51.3 million used for dividend payments, $19.8 million used for payment related to net settlement of employee stock compensation awards, and $13.6 million used for a payment related to Universal Robots acquisition contingent consideration, partially offset by $21.0 million from the issuance of common stock under employee stock purchase and stock option plans.  
+
+
+
+In January 2019, May 2019, and August 2019, our Board of Directors declared a quarterly cash dividend of $0.09 per share. Dividend payments for the nine months ended September 29, 2019 were $46.3 million.  
+
+
+
+In January 2018, May 2018, and August 2018, our Board of Directors declared a quarterly cash dividend of $0.09 per share. Dividend payments for the nine months ended September 30, 2018 were $51.3 million.  
+
+
+
+In January 2018, our Board of Directors cancelled the December 2016 stock repurchase program and authorized a new stock repurchase program for up to $1.5 billion of common stock. We intend to repurchase $500 million in 2019. During the nine months ended September 29, 2019, we repurchased 8.8 million shares of common stock for $368.8 million at an average price of $41.93 per share. During the nine months ended September 30, 2018, we repurchased 13.8 million shares of common stock for $562.3 million at an average price of $40.62 per share. The cumulative repurchases under the $1.5 billion stock repurchase program as of September 29, 2019 totaled 30.4 million shares of common stock for $1,192.3 million at an average price per share of $39.18.  
+
+
+
+While we declared a quarterly cash dividend and authorized a share repurchase program, we may reduce or eliminate the cash dividend or share repurchase program in the future. Future cash dividends and stock repurchases are subject to the discretion of our Board of Directors, which will consider, among other things, our earnings, capital requirements and financial condition.  
+
+
+
+We believe our cash, cash equivalents and marketable securities balance will be sufficient to pay our quarterly dividend, execute our authorized share repurchase program and meet our working capital and expenditure needs for at least the next twelve months. Inflation has not had a significant long-term impact on earnings.  
+
+
+
+Equity Compensation Plans  
+
+
+
+
+
+10-K, we have a 1996 Employee Stock Purchase Plan and a 2006 Equity and Cash Compensation Incentive Plan (the “2006 Equity Plan”). 
+
+
+
+
+
+Recently Issued Accounting Pronouncements  
+
+
+
+On January 26, 2017, the FASB issued ASU 
+
+
+
+
+
+
+
+one-step impairment test will be applied to goodwill at all reporting units, even those with zero or negative carrying 
+
+
+
+
+
+Table of Contents 
+
+
+
+amounts. Entities will be required to disclose the amount of goodwill at reporting units with zero or negative carrying amounts. The revised guidance will be applied prospectively, and is effective in 2020. Early adoption is permitted for any impairment tests performed after January 1, 2017. We are currently evaluating the impact of this ASU on our financial position, results of operations and statements of cash flows.  
+
+
+
+ Item 2:  
+
+
+
+Unregistered Sales of Equity Securities and Use of Proceeds   
+
+
+
+In January 2018, our Board of Directors cancelled the December 2016 stock repurchase program and authorized a new stock repurchase program for up to $1.5 billion of common stock. We intend to repurchase $500 million in 2019. During the nine months ended September 29, 2019, we repurchased 8.8 million shares of common stock for $368.8 million at an average price of $41.93 per share. During the nine months ended September 30, 2018, we repurchased 13.8 million shares of common stock for $562.3 million at an average price of $40.62 per share. The cumulative repurchases under the $1.5 billion stock repurchase program as of September 29, 2019 totaled 30.4 million shares of common stock for $1,192.3 million at an average price per share of $39.18.  
+
+
+
+
+
+Table of Contents 
+
+
+
+
+
+
+
+Includes approximately two thousand shares at an average price of $50.83 withheld from employees for the payment of taxes.   
+
+
+
+We satisfy U.S. federal and state minimum withholding tax obligations due upon the vesting and the conversion of restricted stock units into shares of our common stock, by automatically withholding from the shares being issued, a number of shares with an aggregate fair market value on the date of such vesting and conversion that would satisfy the minimum withholding amount due.  
+
+
+
+ Item 4:  
+
+
+
+Mine Safety Disclosures   
+
+
+
+Not Applicable  
+
+
+
+ Item 6:  
+
+
+
+Exhibits   
+
+
+
+
+
+
+
+Table of Contents 
+
+
+
+SIGNATURES  
+
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.  
+
+
+
+
+

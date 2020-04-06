@@ -1,0 +1,638 @@
+ ITEM 2.  
+
+
+
+MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS  
+
+
+
+The following is a discussion of the financial condition, changes in financial condition, and results of operations for our fiscal quarters ended December 28, 2018, September 28, 2018 and December 29, 2017, referred to herein as the December 2018 quarter, the September 2018 quarter, and the December 2017 quarter, respectively. We operate and report financial results on a fiscal year of 52 or 53 weeks ending on the Friday closest to June 30. The December 2018, September 2018 and December 2017 quarters were all 13 weeks.  
+
+
+
+You should read this discussion in conjunction with financial information and related notes included elsewhere in this report. Unless the context indicates otherwise, as used herein, the terms we, us, Seagate, the Company and our refer to Seagate Technology plc, an Irish public limited company, and its subsidiaries. References to $ are to United States dollars.  
+
+
+
+Some of the statements and assumptions included in this Quarterly Report on Form 10-Q are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 or Section 21E of the Securities Exchange Act of 1934, each as amended, including, in particular, statements about our plans, strategies and prospects, demand for our products, shifts in technology, estimates of industry growth, our ability to effectively manage our debt obligations and our cash liquidity position, our restructuring efforts, the sufficiency of our sources of cash to meet our cash needs for the next 12 months, our expectations regarding capital expenditures, and the impact of the 2017 U.S. Tax Cuts and Jobs Act (the Tax Act) on our financial statements and the projected costs savings for the fiscal year ending June 28, 2019. These statements identify prospective information and may include words such as expects, intends, plans, anticipates, believes, estimates, predicts, projects, may, will, or negative of these words, variations of these words and comparable terminology. These forward-looking statements are based on information available to the Company as of the date of this Quarterly Report on Form 10-Q and are based on managements current views and assumptions. These forward-looking statements are conditioned upon and also involve a number of known and unknown risks, uncertainties and other factors that could cause actual results, performance or events to differ materially from those anticipated by these forward-looking statements. Such risks, uncertainties and other factors may be beyond our control and may pose a risk to our operating and financial condition. Such risks and uncertainties include, but are not limited to:  
+
+
+
+       
+
+
+
+the uncertainty in global economic and political conditions;  
+
+
+
+       
+
+
+
+the development and introduction of products based on new technologies and expansion into new data storage markets;  
+
+
+
+       
+
+
+
+the impact of competitive product announcements and unexpected advances in competing technologies or changes in market trends;  
+
+
+
+       
+
+
+
+the impact of variable demand and an adverse pricing environment for storage products;  
+
+
+
+       
+
+
+
+the Companys ability to achieve projected cost savings in connection with its restructuring plans and consolidation of its manufacturing activities;  
+
+
+
+       
+
+
+
+the Companys ability to effectively manage its debt obligations and comply with certain covenants in its credit facilities with respect to financial ratios and financial condition tests and maintain a favorable cash liquidity position;  
+
+
+
+       
+
+
+
+the Companys ability to successfully qualify, manufacture and sell its storage products, particularly the new disk drive products with lower cost structures, in increasing volumes on a cost-effective basis and with acceptable quality;  
+
+
+
+       
+
+
+
+possible excess industry supply both with respect to particular disk drive products and competing alternative storage technology solutions;  
+
+
+
+       
+
+
+
+disruptions to the Companys supply chain or production capabilities;  
+
+
+
+       
+
+
+
+consolidation trends in the data storage industry;  
+
+
+
+       
+
+
+
+fluctuations in interest rates;  
+
+
+
+       
+
+
+
+currency fluctuations that may impact the Companys margins, international sales and results of operations;  
+
+
+
+       
+
+
+
+fluctuations in the value of the Companys investments and the associated investment income;  
+
+
+
+       
+
+
+
+
+
+       
+
+
+
+the evolving legal, regulatory and administrative climate in the international markets where the Company operates including changes in regulations relating to privacy and protection of data and environmental matters; and  
+
+
+
+       
+
+
+
+cyber-attacks or other data breaches that disrupt the Companys operations or result in the dissemination of proprietary or confidential information and cause reputational harm, and the cybersecurity threats and vulnerabilities associated with the Companys infrastructure updates to its information technology systems.  
+
+
+
+Information concerning risks, uncertainties and other factors that could cause results to differ materially from those projected in such forward-looking statements is also set forth in Item 1A. Risk Factors of our Annual Report on Form 10-K for the fiscal year ended June 29, 2018, which we encourage you to carefully read. These forward-looking statements should not be relied upon as representing our views as of any date subsequent to the date on which they were made and we undertake no obligation to update forward-looking statement s to reflect new information or future events or circumstances after the date they were made.  
+
+
+
+
+
+Table of Contents 
+
+
+
+
+
+       
+
+
+
+Our Company. Overview of our business.  
+
+
+
+       
+
+
+
+Overview of the December 2018 quarter. Highlights of events in the December 2018 quarter that impacted our financial position.  
+
+
+
+       
+
+
+
+Results of Operations. An analysis of our financial results comparing the December 2018 quarter to the September 2018 quarter and the December 2017 quarter.  
+
+
+
+       
+
+
+
+Liquidity and Capital Resources. An analysis of changes in our balance sheet and cash flows, and discussion of our financial condition including the credit quality of our investment portfolio and potential sources of liquidity.  
+
+
+
+       
+
+
+
+Contractual Obligations and Commitments. Overview of contractual obligations and contingent liabilities and commitments outstanding as of December 28, 2018.  
+
+
+
+       
+
+
+
+Critical Accounting Policies. Accounting policies and estimates that we believe are important to understanding the assumptions and judgments incorporated in our reported financial results.  
+
+
+
+Our Company  
+
+
+
+We are a leading provider of data storage technology and solutions. Our principal products are hard disk drives, commonly referred to as disk drives, hard drives or HDDs. In addition to HDDs, we produce a broad range of data storage products including solid state drives (SSD) and storage subsystems.  
+
+
+
+Hard disk drives are devices that store digitally encoded data on rapidly rotating disks with magnetic surfaces. Disk drives continue to be the primary medium of mass data storage due to their performance attributes, high quality and cost effectiveness. Complementing existing data center storage architecture, solid-state storage devices use integrated circuit assemblies as memory to store data, and most SSDs use NAND flash memory.  
+
+
+
+Our HDD products are designed for mission critical and nearline applications in enterprise servers and storage systems; edge compute applications, where our products are designed primarily for desktop and mobile computing; and edge non-compute applications, where our products are designed for a wide variety of end user devices such as portable external storage systems, surveillance systems, digital video recorders (DVRs), network-attached storage (NAS) and gaming consoles. Our SSD products mainly include serial attached SCSI (SAS) and Non-Volatile Memory Express (NVMe) SSDs.  
+
+
+
+Our enterprise data solutions (formerly referred to as the cloud systems and solutions) portfolio includes modular original equipment manufacturer (OEM) storage systems and scale-out storage servers.  
+
+
+
+Overview of the December 2018 quarter  
+
+
+
+During the December 2018 quarter, we shipped 87 exabytes of HDD storage capacity. We generated revenue of approximately $2.7 billion, gross margin of 29% and our operating cash flow was $288 million. We paid $499 million towards the maturity of our 2018 Senior Notes, $180 million in dividends and repurchased approximately 3 million of our ordinary shares for $136 million.  
+
+
+
+
+
+Table of Contents 
+
+
+
+Results of Operations  
+
+
+
+
+
+
+
+
+
+Table of Contents 
+
+
+
+Revenue  
+
+
+
+
+
+
+
+Revenue in the December 2018 quarter decreased by $276 million from the September 2018 quarter primarily due to the decrease in exabytes shipped as a result of less favorable market conditions, and price erosion, partially offset by higher seasonal demand in the consumer market.  
+
+
+
+Revenue in the December 2018 quarter decreased by $199 million from the December 2017 quarter primarily due to price erosion.  
+
+
+
+Revenue for the six months ended December 28, 2018 increased by $160 million from the six months ended December 29, 2017 as a result of an increase in exabytes shipped due to higher demand for our high capacity HDD product portfolio, partially offset by price erosion.  
+
+
+
+We maintain various sales programs such as channel rebates and price masking. Sales programs were approximately 13%, 11% and 12% of gross drive revenue for the December 2018 quarter, September 2018 quarter and December 2017 quarter, respectively. Adjustments to revenues due to under or over accruals for sales programs related to revenues reported in prior quarterly periods were less than 1% of quarterly gross revenue in all periods presented.  
+
+
+
+Cost of Revenue and Gross Margin  
+
+
+
+
+
+Gross margin as a percentage of revenue for the December 2018 quarter decreased from the September 2018 quarter primarily driven by price erosion and unfavorable product mix.  
+
+
+
+Compared to the December 2017 quarter, gross margin as a percentage of revenue for the December 2018 quarter decreased primarily driven by price erosion, partially offset by favorable product mix.  
+
+
+
+Compared to the six months ended December 29, 2017, gross margin as a percentage of revenue for the six months ended December 28, 2018 increased primarily driven by favorable product mix and improved factory utilization as a result of increased revenue from our high capacity HDD product portfolio, partially offset by a decline in prices for NAND flash memory and general price erosion.  
+
+
+
+In the December 2018 quarter, total warranty cost was 0.6% of revenue and included a favorable change in estimates of prior warranty accruals of 0.5% of revenue due to improvements in return rates on newer generation products. Warranty cost related to new shipments was 1.1%, 1.2% and 1.4% of revenue for the December 2018, September 2018 and December 2017 quarters, respectively.  
+
+
+
+
+
+Table of Contents 
+
+
+
+Operating Expenses  
+
+
+
+
+
+Product development expense. Product development expense for the December 2018 quarter decreased by $20 million compared to the September 2018 quarter primarily due to a $4 million decrease in variable compensation expense and an $11 million charge related to the voluntary early exit program in the prior period.  
+
+
+
+Compared to the December 2017 quarter, Product development expense for the December 2018 quarter remained flat.  
+
+
+
+Compared to the corresponding six months ended December 29, 2017, Product development expense for the six months ended December 28, 2018 remained flat including an $11 million charge related to the voluntary early exit program, which was offset by an $11 million decrease in variable compensation and share-based compensation expenses.  
+
+
+
+Marketing and administrative expense. Marketing and administrative expense for the December 2018 quarter increased by $5 million from the September 2018 quarter, primarily due to a $7 million increase in share-based compensation expense, partially offset by a $3 million decrease in variable compensation expense.  
+
+
+
+Compared to the December 2017 quarter, Marketing and administrative expense for the December 2018 quarter decreased by $22 million, primarily due to a $6 million decrease in salaries and employee benefits as a result of the restructuring of our workforce in prior periods, an $8 million decrease in other general expenses due to related operational efficiencies and an $8 million decrease in variable compensation expense.  
+
+
+
+Compared to the corresponding six months ended December 29, 2017, Marketing and administrative expense for the six months ended December 28, 2018 decreased by $52 million, primarily due to a $19 million decrease in salaries and employee benefits as a result of the restructuring of our workforce in prior periods, a $16 million decrease in other general expenses due to related operational efficiencies and a $17 million decrease in variable compensation and share-based compensation expenses.  
+
+
+
+Amortization of intangibles. Amortization of intangibles for the December 2018 quarter remained flat compared to the September 2018 quarter. Amortization of intangibles for the three and six months ended December 28, 2018 decreased by $14 million and $30 million, respectively, from the three and six months ended December 29, 2017 due to certain intangible assets reaching the end of their useful life.  
+
+
+
+Restructuring and other, net. Restructuring and other, net for the six months ended December 28, 2018 was comprised of charges primarily related to a voluntary early exit program. There was no new restructuring plan in the December 2018 quarter.  
+
+
+
+Restructuring and other, net for the three and six months ended December 29, 2017 was comprised of restructuring charges to reduce our global workforce by 500 and 1,100 employees, respectively.  
+
+
+
+Other Expense, Net  
+
+
+
+
+
+Other expense, net. Other expense, net for the December 2018 quarter decreased by $17 million from the September 2018 quarter primarily due to a $12 million net increase in gains due to favorable changes in foreign currency exchange rates and a $6 million net increase in gains related to strategic investments.  
+
+
+
+Compared to the December 2017 quarter, Other expense, net for the December 2018 quarter decreased by $44 million primarily due to a $19 million net increase in gains due to favorable changes in foreign currency exchange rates, a $16 million increase in interest income on our investment in a debt security and a $4 million decrease in interest expense due to the repayment of certain senior notes.  
+
+
+
+
+
+Table of Contents 
+
+
+
+Other expenses, net for the six months ended December 28, 2018 decreased by $76 million from the corresponding period in the prior year, primarily due to a $34 million net increase in gains due to favorable changes in foreign currency exchange rates, a $31 million increase in interest income on our investment in a debt security and a $7 million decrease in interest expense due to the repayment of certain senior notes.  
+
+
+
+Income Taxes  
+
+
+
+
+
+We recorded income tax provisions of $14 million and $32 million in the three and six months ended December 28, 2018, respectively. The income tax provision for the three and six months ended December 28, 2018 included approximately $5 million and $4 million of net discrete tax benefits, respectively, primarily associated with the recognition of previously unrecognized tax benefits related to the expiration of certain statutes of limitation.  
+
+
+
+Our income tax provision recorded for the three and six months ended December 28, 2018 differed from the provision for income taxes that would be derived by applying the Irish statutory rate of 25% to income before income taxes, primarily due to the net effect of (i) tax benefits related to non-U.S. earnings generated in jurisdictions that are subject to tax incentive programs and are considered indefinitely reinvested outside of Ireland and (ii) a decrease in valuation allowance for certain deferred tax assets.  
+
+
+
+During the six months ended December 28, 2018, our unrecognized tax benefits excluding interest and penalties decreased by approximately $20 million to $40 million. The unrecognized tax benefits that, if recognized, would impact the effective tax rate were $40 million at December 28, 2018, subject to certain future valuation allowance reversals. During the 12 months beginning December 29, 2018, we expect that our unrecognized tax benefits could be reduced by approximately $7 million, primarily as a result of the expiration of certain statutes of limitation.  
+
+
+
+Our income tax provision was $212 million and $219 million in the three and six months ended December 29, 2017, respectively. The income tax provision for the three and six months ended December 29, 2017 included approximately $197 million of net discrete tax expense, primarily associated with the revaluation of U.S. deferred tax assets as a result of the enactment of the Tax Act on December 22, 2017, partially offset by the recognition of previously unrecognized tax benefits associated with the expiration of certain statutes of limitation.  
+
+
+
+Our income tax provision recorded for the six months ended December 29, 2017 differed from the provision for income taxes that would be derived by applying the Irish statutory rate of 25% to income before income taxes, primarily due to the net effect of (i) tax benefits related to non-U.S. earnings generated in jurisdictions that are subject to tax holidays or tax incentive programs and are considered indefinitely reinvested outside of Ireland and (ii) a decrease in valuation allowance for certain deferred tax assets.  
+
+
+
+On December 22, 2017, the Tax Act was enacted into law in the United States. The Tax Act significantly revises U.S. corporate income tax law by, among other things, lowering U.S. corporate income tax rates from 35% to 21%, implementing a territorial tax system, and imposing a one-time transition tax on deemed repatriated earnings of non-U.S. subsidiaries.  
+
+
+
+The U.S. tax law changes, including limitations on various business deductions such as executive compensation under Internal Revenue Code §162(m), will not impact our tax expense in the short-term due to our large net operating loss and tax credit carryovers and associated valuation allowance. The Tax Acts new international rules, including Global Intangible Low-Taxed Income (GILTI), Foreign Derived Intangible Income (FDII), and Base Erosion Anti-Avoidance Tax (BEAT) are effective beginning in fiscal year 2019. For fiscal year 2019, we have included these effects of the Tax Act in our financial statements and concluded the impact will not be material.  
+
+
+
+As of September 2018 quarter, pursuant to SEC Staff Accounting Bulletin (SAB) 118 (regarding the application of ASC 740 associated with the enactment of the Tax Act), we had considered SAB 118 and believed our accounting under ASC 740 for the provisions of the Tax Act was complete.  
+
+
+
+Liquidity and Capital Resources  
+
+
+
+
+
+
+
+Table of Contents 
+
+
+
+Cash and Cash Equivalents  
+
+
+
+
+
+Our cash and cash equivalents as of December 28, 2018 decreased by $496 million from June 29, 2018 primarily as a result of repayment of our 2018 Senior Notes of $499 million, repurchases of our ordinary shares of $286 million, dividends to our shareholders of $361 million and payments for capital expenditures of $304 million, partially offset by net cash provided by operating activities.  
+
+
+
+Cash Provided by Operating Activities  
+
+
+
+
+
+       
+
+
+
+a decrease of $240 million in accounts payable, primarily due to lower material purchases and timing of payments; and  
+
+
+
+       
+
+
+
+a decrease of $89 million in accrued employee compensation primarily due to cash paid to our employees as part of our variable compensation plans.  
+
+
+
+Cash Used in Investing Activities  
+
+
+
+Cash used in investing activities for the six months ended December 28, 2018 was $230 million, primarily attributable to the payments for the purchase of property, equipment and leasehold improvements of $304 million, offset by the proceeds from the settlement of foreign currency forward exchange contracts of $66 million.  
+
+
+
+Cash Used in Financing Activities  
+
+
+
+
+
+       
+
+
+
+$499 million in repayment of our 2018 Senior Notes;  
+
+
+
+       
+
+
+
+$361 million in dividend payments;  
+
+
+
+       
+
+
+
+$286 million in payments for repurchase of our ordinary shares; and  
+
+
+
+       
+
+
+
+$30 million in payments for taxes related to net share settlement of equity awards;  
+
+
+
+       
+
+
+
+partially offset by $35 million in proceeds from the issuance of ordinary shares under employee stock plans.  
+
+
+
+Liquidity Sources, Cash Requirements and Commitments  
+
+
+
+
+
+As of December 28, 2018, no borrowings had been drawn under the revolving credit facility or had been utilized for letters of credit issued under this credit facility. The line of credit is available for borrowings, subject to compliance with financial covenants and other customary conditions to borrowing.  
+
+
+
+
+
+Our liquidity requirements are primarily to meet our working capital, product development and capital expenditure needs, to fund scheduled payments of principal and interest on our indebtedness, and to fund our quarterly dividend and any future strategic investments. Our ability to fund these requirements will depend on our future cash flows, which are determined by future operating performance, and therefore, subject to prevailing global macroeconomic conditions and financial, business and other factors, some of which are beyond our control.  
+
+
+
+For fiscal year 2019, we expect capital expenditures to remain within our long-term targeted range of 6% to 8% of revenue.  
+
+
+
+
+
+Table of Contents 
+
+
+
+From time to time we may repurchase any of our outstanding notes in open market or privately negotiated purchases or otherwise, or we may repurchase outstanding notes pursuant to the terms of the applicable indenture.  
+
+
+
+Dividends declared in the December 2018 quarter of $178 million were subsequently paid on January 2, 2019. Our Board of Directors declared a quarterly cash dividend of $0.63 per share on February 4, 2019, which is payable on April 3, 2019 to shareholders of record at the close of business on March 20, 2019.  
+
+
+
+From time to time we may repurchase any of our outstanding ordinary shares through private, open market, tender offers broker-assisted purchases or other means. On October 29, 2018, our Board of Directors authorized the repurchase of an additional $2.3 billion of its outstanding ordinary shares. As of December 28, 2018, $2.9 billion remained available for repurchase under our existing repurchase authorization limit. All repurchases are effected as redemptions in accordance with our Articles of Association.  
+
+
+
+
+
+Table of Contents 
+
+
+
+Contractual Obligations and Commitments  
+
+
+
+
+
+
+
+
+
+Purchase obligations are defined as contractual obligations for the purchase of goods or services, which are enforceable and legally binding on us, and that specify all significant terms.  
+
+
+
+
+
+Includes total future minimum rent expense under non-cancelable leases for both occupied and vacated facilities (rent expense is shown net of sublease income).  
+
+
+
+
+
+Consists of funding requirements related to strategic commitments.  
+
+
+
+As of December 28, 2018, we had a liability of $40 million for unrecognized tax benefits excluding interest and penalties, of which $4 million and an additional $1 million of interest and penalties could result in potential cash payments, none of which is expected to be settled within one year. Outside of one year, we are unable to make a reasonably reliable estimate of when cash settlement with a taxing authority will occur.  
+
+
+
+Critical Accounting Policies  
+
+
+
+Our discussion and analysis of financial condition and results of operations are based upon our condensed consolidated financial statements, which have been prepared in accordance with U.S. generally accepted accounting principles. The preparation of such statements requires us to make estimates and assumptions that affect the reported amounts of revenues and expenses during the reporting period and the reported amounts of assets and liabilities as of the date of the financial statements. Our estimates are based on historical experience and other assumptions that we consider to be appropriate in the circumstances. However, actual future results may vary from our estimates.  
+
+
+
+Other than as described in Part I, Item 1. Financial Statements - Note 1. Basis of Presentation and Summary of Significant Accounting Policies, there have been no other material changes in our critical accounting policies and estimates. Refer to Managements Discussion and Analysis of Financial Condition and Results of Operations contained in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended June 29, 2018, as filed with the SEC on August 3, 2018, for a discussion of our critical accounting policies and estimates.  
+
+
+
+Recent Accounting Pronouncements  
+
+
+
+See Part I, Item 1. Financial Statements - Note 1. Basis of Presentation and Summary of Significant Accounting Policies for information regarding the effect of new accounting pronouncements on our financial statements.  
+
+
+
+
+
+Table of Contents 
+
+
+
+ ITEM 2.  
+
+
+
+UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS  
+
+
+
+Repurchase of Equity Securities  
+
+
+
+All repurchases are effected as redemptions in accordance with the Companys Articles of Association.  
+
+
+
+On October 29, 2018, the Companys Board of Directors authorized the repurchase of an additional $2.3 billion of its outstanding ordinary shares. As of December 28, 2018, $2.9 billion remained available for repurchase under the existing repurchase authorization limit. There is no expiration date on this authorization.  
+
+
+
+
+
+
+
+
+
+Repurchase of shares including tax withholdings.  
+
+
+
