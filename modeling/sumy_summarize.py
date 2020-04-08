@@ -14,9 +14,20 @@ adi_item4 = open('ADI_0000006281_20180505_item4.txt', encoding='utf-8').read().s
 adi_part2 = open('ADI_0000006281_20180505_part2.txt', encoding='utf-8').read().splitlines()
 entire_corpus = adi_item1 + adi_item2 + adi_item3 + adi_item4
 
+# discrete tax benefit
+# recorded tax expense amount
+# europe, japan, china revenue
+# liquidity
 LexRankSummary(entire_corpus, 10)
 print('\n')
+
+# mostly tax and contractual agreements
+# records revenue increase and decrease of automotive and consumer end market
 LuhnSummary(entire_corpus, 10)
 print('\n')
+
+# talks about stock?
+# term loans
+# talks about ability to produce products due to unstable areas
 LsaSummary(entire_corpus, 10)
 
