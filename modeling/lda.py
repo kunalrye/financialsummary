@@ -55,6 +55,10 @@ def prepare_text_for_lda(text):
     tokens = tokenize(text)
     tokens = [token for token in tokens if len(token) > 4]
     tokens = [token for token in tokens if token not in en_stop]
+    for token in tokens:
+        if len(get_lemma(token)) == 0:
+            print('empty token')
+
     tokens = [get_lemma(token) for token in tokens]
     return tokens
 
@@ -73,10 +77,13 @@ def do_lda(doc_text, NUM_SENTS):
         dictionary = corpora.Dictionary(all_tokens)
         corpus = [dictionary.doc2bow(text) for text in all_tokens]
 
-        pickle.dump(corpus, open('corpus.pkl', 'wb'))
-        dictionary.save('dictionary.gensim')
+        # pickle.dump(corpus, open('corpus.pkl', 'wb'))
+        # dictionary.save('dictionary.gensim')
         NUM_TOPICS = 5
+        if len(corpus[0]) == 0:
+            return([])
         ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics=NUM_TOPICS, id2word=dictionary, passes=15)
+
         ldamodel.save('model5.gensim')
         topics = ldamodel.print_topics(num_words=4)
         maxes = list()

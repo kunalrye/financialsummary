@@ -69,7 +69,7 @@ def summarize_sections(full_doc_name, in_comp_dirpath, out_comp_dirpath, cluster
         full_summary += "\n\n\n"
 
     # write the summary string to the output file
-    text_file = open(os.path.join(out_comp_dirpath, full_doc_name) + ".txt", "w")
+    text_file = open(os.path.join(out_comp_dirpath, full_doc_name) + ".txt", "w",encoding='utf-8')
     text_file.write(full_summary)
     text_file.close()
 
