@@ -1,4 +1,4 @@
-from modeling.run_model import summarize_test_docs, summarize_train_docs
+from modeling.run_model import summarize_test_docs, summarize_train_docs, summarize_company_docs
 from modeling.LexRank_Luhn_LSA import LexRankSummary, LuhnSummary, LsaSummary
 import os
 
@@ -30,4 +30,10 @@ print('\n')
 # term loans
 # talks about ability to produce products due to unstable areas
 LsaSummary(entire_corpus, 10)
+
+
+summarize_company_docs("CDW", LexRankSummary, "lexrank")
+summarize_company_docs("CDW", LuhnSummary, "lunhsummary")
+summarize_company_docs("CDW", LsaSummary, "lsasummary")
+
 
