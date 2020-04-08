@@ -1,5 +1,6 @@
 from modeling.run_model import summarize_test_docs, summarize_train_docs, summarize_company_docs
-from modeling.LexRank_Luhn_LSA import LexRankSummary, LuhnSummary, LsaSummary
+from modeling.LexRank_Luhn_LSA import LexRankSummary, LuhnSummary, LsaSummary, EdmundsonSummary, TextRankSummary,\
+    SumBasicSummary, KLSummary, ReductionSummary
 import os
 
 os.chdir('C:/Users/jsbae/financialsummary/resources/legal_filter_train/ADI')
@@ -18,22 +19,48 @@ entire_corpus = adi_item1 + adi_item2 + adi_item3 + adi_item4
 # recorded tax expense amount
 # europe, japan, china revenue
 # liquidity
-LexRankSummary(entire_corpus, 10)
-print('\n')
+#LexRankSummary(entire_corpus, 10)
+#print('\n')
 
 # mostly tax and contractual agreements
 # records revenue increase and decrease of automotive and consumer end market
-LuhnSummary(entire_corpus, 10)
-print('\n')
+#LuhnSummary(entire_corpus, 10)
+#print('\n')
 
 # talks about stock?
 # term loans
 # talks about ability to produce products due to unstable areas
-LsaSummary(entire_corpus, 10)
+#LsaSummary(entire_corpus, 10)
+#print('\n')
 
 
-summarize_company_docs("CDW", LexRankSummary, "lexrank")
-summarize_company_docs("CDW", LuhnSummary, "lunhsummary")
-summarize_company_docs("CDW", LsaSummary, "lsasummary")
+print('2')
+print('\n')
+# EdmundsonSummary(entire_corpus, 10)
+print('\n')
+print('3')
+print('\n')
+TextRankSummary(entire_corpus, 10)
+print('\n')
+print('4')
+print('\n')
+SumBasicSummary(entire_corpus, 10)
+print('\n')
+print('5')
+print('\n')
+KLSummary(entire_corpus, 10)
+print('\n')
+print('6')
+print('\n')
+ReductionSummary(entire_corpus, 10)
+
+
+
+
+
+
+# summarize_company_docs("CDW", LexRankSummary, "lexrank")
+# summarize_company_docs("CDW", LuhnSummary, "lunhsummary")
+# summarize_company_docs("CDW", LsaSummary, "lsasummary")
 
 
