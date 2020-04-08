@@ -1,444 +1,272 @@
 Item 2.Management’s Discussion and Analysis of Financial Condition and Results of Operations.
-
-
-
 You should read the following discussion and analysis of our financial condition and results of operations together with the unaudited condensed consolidated financial statements and related notes appearing elsewhere herein.
-
-
-
-This discussion and analysis contains forward-looking statements within the meaning of the "safe harbor" provisions of the Private Securities Litigation Reform Act of 1995. These forward-looking statements can be identified generally by the use of forward-looking terminology and words such as "expects," "anticipates," "estimates," "believes," "predicts," "intends," "plans," "potential," "may," "continue," "should," "will" and words of comparable meaning. Without limiting the generality of the preceding statement, all statements in this report relating to estimated and projected earnings, margins, costs, expenditures, cash flows, growth rates and future financial results are forward-looking statements. We caution investors that any such forward-looking statements are only predictions and are not guarantees of future performance. Certain risks, uncertainties and other factors may cause actual results to differ materially from those projected in the forward-looking statements. Such factors may include:
-
-
+This discussion and analysis contains forward-looking statements within the meaning of the "safe harbor" provisions of the Private Securities Litigation Reform Act of 1995.
+These forward-looking statements can be identified generally by the use of forward-looking terminology and words such as "expects," "anticipates," "estimates," "believes," "predicts," "intends," "plans," "potential," "may," "continue," "should," "will" and words of comparable meaning.
+Without limiting the generality of the preceding statement, all statements in this report relating to estimated and projected earnings, margins, costs, expenditures, cash flows, growth rates and future financial results are forward-looking statements.
+We caution investors that any such forward-looking statements are only predictions and are not guarantees of future performance.
+Certain risks, uncertainties and other factors may cause actual results to differ materially from those projected in the forward-looking statements.
+Such factors may include:
 
 •overall business and economic conditions affecting the healthcare industry, including the effects of the federal healthcare reform legislation enacted in 2010, and implementing regulations, on the businesses of our hospital clients;
 
-
-
 •government regulation of our products and services and the healthcare and health insurance industries, including changes in healthcare policy affecting Medicare and Medicaid reimbursement rates and qualifying technological standards;
-
-
 
 •changes in customer purchasing priorities, capital expenditures and demand for information technology systems;
 
-
-
 •saturation of our target market and hospital consolidations;
-
-
 
 •general economic conditions, including changes in the financial and credit markets that may affect the availability and cost of credit to us or our clients;
 
-
-
 •our substantial indebtedness, and our ability to incur additional indebtedness in the future;
-
-
 
 •our potential inability to generate sufficient cash in order to meet our debt service obligations;
 
-
-
 •restrictions on our current and future operations because of the terms of our senior secured credit facilities;
-
-
 
 •market risks related to interest rate changes;
 
-
-
 •competition with companies that have greater financial, technical and marketing resources than we have;
-
-
 
 •failure to develop new technology and products in response to market demands;
 
-
-
 •failure of our products to function properly resulting in claims for medical and other losses;
 
-
-
 •breaches of security and viruses in our systems resulting in customer claims against us and harm to our reputation;
-
-
 
 •failure to maintain customer satisfaction through new product releases free of undetected errors or problems;
 
 
-
-
-
 •our ability to attract and retain qualified client service and support personnel;
-
-
 
 •failure to properly manage growth in new markets we may enter;
 
-
-
 •misappropriation of our intellectual property rights and potential intellectual property claims and litigation against us;
-
-
 
 •changes in accounting principles generally accepted in the United States of America;
 
-
-
 •significant charge to earnings if our goodwill or intangible assets become impaired; and
 
-
-
 •fluctuations in quarterly financial performance due to, among other factors, timing of customer installations.
-
-
-
 Additional information concerning these and other factors that could cause differences between forward-looking statements and future actual results is discussed under the heading "Risk Factors" in our Annual Report on Form 10-K for the year ended December 31, 2017.
-
-
-
 Background
 
 
-
-
-
 •Evident, formed in April 2015, provides a comprehensive acute care electronic health record ("EHR") solution, Thrive, and related services for community hospitals and their physician clinics.
-
-
-
-•Healthland provides a comprehensive acute care EHR solution, Centriq, and related services for community hospitals and their physician clinics. 
-
-
-
+•Healthland provides a comprehensive acute care EHR solution, Centriq, and related services for community hospitals and their physician clinics.
 •TruBridge focuses on providing business management, consulting, and managed IT services along with its complete revenue cycle management ("RCM") solution for all care settings, regardless of their primary healthcare information solutions provider.
-
-
-
 •AHT provides a comprehensive post-acute care EHR solution and related services for skilled nursing and assisted living facilities.
-
-
-
-Our companies currently support approximately 1,100 acute care facilities and approximately 3,500 post-acute care facilities with a geographically diverse customer mix within the domestic community healthcare market. Our clients primarily consist of community hospitals with 200 or fewer acute care beds, with hospitals having 100 or fewer beds comprising approximately 94% of our hospital EHR customer base. 
-
-
-
-
-
+Our companies currently support approximately 1,100 acute care facilities and approximately 3,500 post-acute care facilities with a geographically diverse customer mix within the domestic community healthcare market.
+Our clients primarily consist of community hospitals with 200 or fewer acute care beds, with hospitals having 100 or fewer beds comprising approximately 94% of our hospital EHR customer base.
 Acute Care EHR
 
-
-
 Our Acute Care EHR segment consists of acute care software solutions and support sales generated by Evident and Healthland.
-
-
-
 Post-acute Care EHR
 
-
-
 Our Post-acute Care EHR segment consists of post-acute care software solutions and support sales generated by AHT.
-
-
-
 TruBridge
 
-
-
 Our TruBridge segment primarily consists of business management, consulting and managed IT services sales generated by TruBridge and the sale of Rycan's revenue cycle management workflow and automation software.
-
-
-
 Management Overview
 
+Historically, we have primarily sought revenue growth through sales of healthcare IT systems and related services to existing and new clients within our target market, a strategy that has resulted in a ten-year compounded annual growth rate in legacy revenues (i.e., revenues related to our legacy Evident and TruBridge operations) of approximately 5.9% as of the end of our most recently completed fiscal year.
+Important to our potential for continued long-term revenue growth is our ability to sell new and additional products and services to our existing customer base, including cross-selling opportunities presented with the acquisition of HHI.
+We believe that as our combined customer base grows, the demand for additional products and services, including business management, consulting and managed IT services, will also continue to grow, supporting further increases in recurring revenues.
+We also expect to drive revenue growth from new product development that we may generate from our research and development activities.
+January 2016 marked an important milestone for CPSI, as we announced the completion of our acquisition of Healthland Holding Inc. ("HHI"), the first major acquisition in the Company's history.
+This acquisition expanded our footprint for servicing acute care facilities and introduced us to the post-acute care segment, adding significantly to our already substantial recurring revenue base and further expanding our ability to generate organic recurring revenue growth through additional cross-selling 
 
-
-Historically, we have primarily sought revenue growth through sales of healthcare IT systems and related services to existing and new clients within our target market, a strategy that has resulted in a ten-year compounded annual growth rate in legacy revenues (i.e., revenues related to our legacy Evident and TruBridge operations) of approximately 5.9% as of the end of our most recently completed fiscal year. Important to our potential for continued long-term revenue growth is our ability to sell new and additional products and services to our existing customer base, including cross-selling opportunities presented with the acquisition of HHI. We believe that as our combined customer base grows, the demand for additional products and services, including business management, consulting and managed IT services, will also continue to grow, supporting further increases in recurring revenues. We also expect to drive revenue growth from new product development that we may generate from our research and development activities.
-
-
-
-January 2016 marked an important milestone for CPSI, as we announced the completion of our acquisition of Healthland Holding Inc. ("HHI"), the first major acquisition in the Company's history. This acquisition expanded our footprint for servicing acute care facilities and introduced us to the post-acute care segment, adding significantly to our already substantial recurring revenue base and further expanding our ability to generate organic recurring revenue growth through additional cross-selling 
-
-
-
-opportunities now available within the combined company. We believe that the addition of HHI and its clients and products has enhanced and will continue to enhance our ability to grow our business and compete in the markets that we serve.
-
-
-
-Our business model is designed such that, as revenue growth materializes, earnings and profitability growth are naturally bolstered through increased future margin realization. Once a hospital has installed our solutions, we continue to provide support services to the customer on an ongoing basis and make available to the customer our broad portfolio of business management, consulting, and managed IT services. The provision of these services typically requires fewer resources than the initial system installation, resulting in increased overall gross margins. 
-
-
-
-We also look to increase margins through cost containment measures where appropriate as we continue to leverage opportunities for greater operating efficiencies of the combined entity. For example, during the first quarter of 2018, we further integrated our acute care product lines into a combined client support group. Using best practices of the combined companies implementation processes, we have decreased travel costs for our acute-care installations by approximately 25%. During the fourth quarter of 2017, TruBridge eliminated approximately $0.6 million per quarter of cloud hosting service costs for the HHI customer base by utilizing in-house resources. Also, during the first quarter of 2017, we instituted a limited-time, voluntary severance program offering those employees meeting certain predetermined criteria severance packages involving continuing periodic cash payments and healthcare benefits for varying periods, depending upon the individual's years of service with the Company. 
-
-
-
-Turbulence in the U.S. and worldwide economies and financial markets impacts almost all industries. While the healthcare industry is not immune to economic cycles, we believe it is more significantly affected by U.S. regulatory and national health projects than by the economic cycles of our economy. Additionally, healthcare organizations with a large dependency on Medicare and Medicaid populations, such as community hospitals, have been affected by the challenging financial condition of the federal government and many state governments and government programs. Accordingly, we recognize that prospective hospital clients often do not have the necessary capital to make investments in information technology. Additionally, in response to these challenges, hospitals have become more selective regarding where they invest capital, resulting in a focus on strategic spending that generates a return on their investment. Despite these challenges, we believe healthcare information technology is often viewed as more strategically beneficial to hospitals than other possible purchases because the technology also plays an important role in healthcare by improving safety and efficiency and reducing costs. Additionally, we believe most hospitals recognize that they must invest in healthcare information technology to meet current and future regulatory, compliance and government reimbursement requirements.
-
-
-
-In recent years, there have been significant changes to provider reimbursement by the U.S. federal government, followed by commercial payers and state governments. There is increasing pressure on healthcare organizations to reduce costs and increase quality while replacing fee-for-service in part by enrolling in an advanced payment model. This pressure could further encourage adoption of healthcare IT and increase demand for business management, consulting, and managed IT services as the future success of these healthcare providers is greatly dependent upon their ability to engage patient populations and to coordinate patient care across a multitude of settings, while optimizing operating efficiency along the way.
-
-
-
-We have historically made financing arrangements available to customers on a case-by-case basis depending upon the various aspects of the proposed contract and customer attributes. These financing arrangements include other short-term payment plans and longer-term lease financing through us or third-party financing companies. For those clients not seeking a financing arrangement, the payment schedule of the typical contract is structured to provide for a scheduling deposit due at contract signing, with the remainder of the contracted fees due at various stages of the installation process (delivery of hardware, installation of software and commencement of training, and satisfactory completion of a monthly accounting cycle or end-of-month operation by and as applicable for each respective application). 
-
-
-
-During 2017, total financing receivables increased by $15.5 million, which had a significant impact on operating cash flow. The increase in financing arrangements is primarily due to two reasons. First, meaningful use stage 3 installations are primarily financed through short-term payment plans. Second, competitor financing options, primarily through accounts receivables management collections and cloud EHR arrangements, have applied pressure to reduce initial customer capital investment requirements for new EHR installations, leading to the offering of long-term lease options. 
-
-
-
-We have also historically made our software applications available to clients through "Software as a Service" or "SaaS" configurations, including our Cloud Electronic Health Record ("Cloud EHR") offering. These offerings are attractive to some clients because this configuration allows them to obtain access to advanced software products without a significant initial capital outlay. We have experienced a substantial increase in the prevalence of such SaaS arrangements for new system installations and add-on sales to existing clients since 2015, a trend we expect to continue for the foreseeable future. Unlike our historical perpetual license arrangements under which the related revenue is recognized effectively upon installation, the SaaS arrangements result in revenue being recognized monthly as the services are provided over the term of the arrangement. As a 
-
-
+opportunities now available within the combined company.
+We believe that the addition of HHI and its clients and products has enhanced and will continue to enhance our ability to grow our business and compete in the markets that we serve.
+Our business model is designed such that, as revenue growth materializes, earnings and profitability growth are naturally bolstered through increased future margin realization.
+Once a hospital has installed our solutions, we continue to provide support services to the customer on an ongoing basis and make available to the customer our broad portfolio of business management, consulting, and managed IT services.
+The provision of these services typically requires fewer resources than the initial system installation, resulting in increased overall gross margins.
+We also look to increase margins through cost containment measures where appropriate as we continue to leverage opportunities for greater operating efficiencies of the combined entity.
+For example, during the first quarter of 2018, we further integrated our acute care product lines into a combined client support group.
+Using best practices of the combined companies implementation processes, we have decreased travel costs for our acute-care installations by approximately 25%.
+During the fourth quarter of 2017, TruBridge eliminated approximately $0.6 million per quarter of cloud hosting service costs for the HHI customer base by utilizing in-house resources.
+Also, during the first quarter of 2017, we instituted a limited-time, voluntary severance program offering those employees meeting certain predetermined criteria severance packages involving continuing periodic cash payments and healthcare benefits for varying periods, depending upon the individual's years of service with the Company.
+Turbulence in the U.S. and worldwide economies and financial markets impacts almost all industries.
+While the healthcare industry is not immune to economic cycles, we believe it is more significantly affected by U.S. regulatory and national health projects than by the economic cycles of our economy.
+Additionally, healthcare organizations with a large dependency on Medicare and Medicaid populations, such as community hospitals, have been affected by the challenging financial condition of the federal government and many state governments and government programs.
+Accordingly, we recognize that prospective hospital clients often do not have the necessary capital to make investments in information technology.
+Additionally, in response to these challenges, hospitals have become more selective regarding where they invest capital, resulting in a focus on strategic spending that generates a return on their investment.
+Despite these challenges, we believe healthcare information technology is often viewed as more strategically beneficial to hospitals than other possible purchases because the technology also plays an important role in healthcare by improving safety and efficiency and reducing costs.
+Additionally, we believe most hospitals recognize that they must invest in healthcare information technology to meet current and future regulatory, compliance and government reimbursement requirements.
+In recent years, there have been significant changes to provider reimbursement by the U.S. federal government, followed by commercial payers and state governments.
+There is increasing pressure on healthcare organizations to reduce costs and increase quality while replacing fee-for-service in part by enrolling in an advanced payment model.
+This pressure could further encourage adoption of healthcare IT and increase demand for business management, consulting, and managed IT services as the future success of these healthcare providers is greatly dependent upon their ability to engage patient populations and to coordinate patient care across a multitude of settings, while optimizing operating efficiency along the way.
+We have historically made financing arrangements available to customers on a case-by-case basis depending upon the various aspects of the proposed contract and customer attributes.
+These financing arrangements include other short-term payment plans and longer-term lease financing through us or third-party financing companies.
+For those clients not seeking a financing arrangement, the payment schedule of the typical contract is structured to provide for a scheduling deposit due at contract signing, with the remainder of the contracted fees due at various stages of the installation process (delivery of hardware, installation of software and commencement of training, and satisfactory completion of a monthly accounting cycle or end-of-month operation by and as applicable for each respective application).
+During 2017, total financing receivables increased by $15.5 million, which had a significant impact on operating cash flow.
+The increase in financing arrangements is primarily due to two reasons.
+First, meaningful use stage 3 installations are primarily financed through short-term payment plans.
+Second, competitor financing options, primarily through accounts receivables management collections and cloud EHR arrangements, have applied pressure to reduce initial customer capital investment requirements for new EHR installations, leading to the offering of long-term lease options.
+We have also historically made our software applications available to clients through "Software as a Service" or "SaaS" configurations, including our Cloud Electronic Health Record ("Cloud EHR") offering.
+These offerings are attractive to some clients because this configuration allows them to obtain access to advanced software products without a significant initial capital outlay.
+We have experienced a substantial increase in the prevalence of such SaaS arrangements for new system installations and add-on sales to existing clients since 2015, a trend we expect to continue for the foreseeable future.
+Unlike our historical perpetual license arrangements under which the related revenue is recognized effectively upon installation, the SaaS arrangements result in revenue being recognized monthly as the services are provided over the term of the arrangement.
+As a 
 
 result, the effect of this trend on the Company's financial statements is reduced system sales revenues during the period of installation in exchange for increased recurring periodic revenues (reflected in system sales and support revenues) over the term of the SaaS arrangement.
-
-
-
 American Recovery and Reinvestment Act of 2009
 
-
-
-While ongoing financial challenges facing healthcare organizations have impacted and are expected to continue to impact the community hospitals that comprise our target market, we believe that the reduced reimbursement under the American Recovery and Reinvestment Act of 2009 (the "ARRA") for those providers failing to adopt qualifying EHRs will continue to support demand for healthcare information technology and will have a positive impact on our business prospects through at least 2018. 
-
-
-
-While we believe that the expanded requirements for continued compliance with meaningful use rules have resulted in an expanded replacement market for EHRs, it is uncertain whether revenues generated from this replacement market will be sufficient to offset the impacts of the overall accelerated adoption and increased penetration of EHRs within our target market. As a result, our system sales revenues and profitability may be materially and adversely affected during the short-term. 
-
-
-
-Similarly, compliance with the meaningful use rules has accelerated the purchases of incremental applications by our existing clients. Consequently, our penetration rates within our existing customer base for our current menu of applications have increased significantly under the ARRA, thereby significantly narrowing the market for add-on sales to existing clients. On August 2, 2017, the Centers for Medicare and Medicaid Services (“CMS”) announced a final rule that effectively delayed the requirement for stage three compliance from January 1, 2018 to January 1, 2019. CMS issued a proposed rule in April 2018 that would effectively delay the deadline for compliance to October 1, 2019, by proposing a 90-day attestation period instead of the currently-required full year attestation period. While we believe that the stage three requirements provide a significant opportunity for add-on sales revenues through 2018, the delay by CMS is expected to delay some of the contract revenues we previously anticipated and there is a risk of further delays or reductions in the regulatory requirements imposed on hospitals, which could have an adverse effect on our revenues.
-
-
-
+While ongoing financial challenges facing healthcare organizations have impacted and are expected to continue to impact the community hospitals that comprise our target market, we believe that the reduced reimbursement under the American Recovery and Reinvestment Act of 2009 (the "ARRA") for those providers failing to adopt qualifying EHRs will continue to support demand for healthcare information technology and will have a positive impact on our business prospects through at least 2018.
+While we believe that the expanded requirements for continued compliance with meaningful use rules have resulted in an expanded replacement market for EHRs, it is uncertain whether revenues generated from this replacement market will be sufficient to offset the impacts of the overall accelerated adoption and increased penetration of EHRs within our target market.
+As a result, our system sales revenues and profitability may be materially and adversely affected during the short-term.
+Similarly, compliance with the meaningful use rules has accelerated the purchases of incremental applications by our existing clients.
+Consequently, our penetration rates within our existing customer base for our current menu of applications have increased significantly under the ARRA, thereby significantly narrowing the market for add-on sales to existing clients.
+On August 2, 2017, the Centers for Medicare and Medicaid Services (“CMS”) announced a final rule that effectively delayed the requirement for stage three compliance from January 1, 2018 to January 1, 2019.
+CMS issued a proposed rule in April 2018 that would effectively delay the deadline for compliance to October 1, 2019, by proposing a 90-day attestation period instead of the currently-required full year attestation period.
+While we believe that the stage three requirements provide a significant opportunity for add-on sales revenues through 2018, the delay by CMS is expected to delay some of the contract revenues we previously anticipated and there is a risk of further delays or reductions in the regulatory requirements imposed on hospitals, which could have an adverse effect on our revenues.
 Although we are pursuing other strategic initiatives designed to result in system sales revenue growth in the future in the form of selective expansion into English-speaking international markets, selective expansion within the 100 to 200 bed hospital market, and continued development of new software applications such as our Business Intelligence solution which provides community hospital leaders valuable insight into financial, operational, and clinical data, there can be no guarantee that such initiatives will prove successful or will benefit the Company in a sufficiently timely fashion to offset the short-term effects of the aforementioned narrowing markets.
-
-
-
 Results of Operations
 
-
-
-During the three months ended March 31, 2018, we generated revenues of $70.9 million from the sale of our products and services, compared to $64.1 million during the three months ended March 31, 2017, an increase of 11% that is primarily attributed to TruBridge client growth and meaningful use stage three ("MU3") implementations. We view sales of TruBridge solutions within our existing EHR client base as our leading performance indicator. Our net income for the three months ended March 31, 2018 increased $3.7 million from the first three months of 2017 as a result of revenue growth accompanied with improved gross margins of 55%, a 4% increase from the first three months of 2017. Net cash provided by operating activities decreased $6.6 million to $3.1 million provided from operations during the three months ended March 31, 2017, primarily due to a reduction of short-term liabilities and other changes in working capital.
-
-
-
-
-
-
-
+During the three months ended March 31, 2018, we generated revenues of $70.9 million from the sale of our products and services, compared to $64.1 million during the three months ended March 31, 2017, an increase of 11% that is primarily attributed to TruBridge client growth and meaningful use stage three ("MU3") implementations.
+We view sales of TruBridge solutions within our existing EHR client base as our leading performance indicator.
+Our net income for the three months ended March 31, 2018 increased $3.7 million from the first three months of 2017 as a result of revenue growth accompanied with improved gross margins of 55%, a 4% increase from the first three months of 2017.
+Net cash provided by operating activities decreased $6.6 million to $3.1 million provided from operations during the three months ended March 31, 2017, primarily due to a reduction of short-term liabilities and other changes in working capital.
 Three Months Ended March 31, 2018 Compared with Three Months Ended March 31, 2017 
 
+Revenues.
+Total revenues for the three months ended March 31, 2018 increased 10.6%, or $6.8 million, compared to the three months ended March 31, 2017.
+Non-recurring system sales and support revenues increased $3.0 million, or 30%, primarily as Acute Care EHR non-recurring revenue increased $3.5 million, or 40%.
+Acute Care EHR benefited from $4.4 million in MU3 implementations during the first quarter of 2018, compared to none in the same period of 2017.
+This increase was partially offset by a decrease in other add-on software implementations as a result of the Company's and clients' emphasis on MU3 certification prior to the January 1, 2019 deadline.
+We installed acute care EHR solutions at six new hospital clients during the first quarter of 2018 (one under a SaaS arrangement, resulting in revenue being recognized ratably over the contractual term) compared to four new hospital clients during the first quarter of 2017 (one under a SaaS arrangement).
+Non-recurring Post-acute Care EHR revenues decreased by $0.5 million, or 39%, as a result of slowing new installation bookings due to aggressive competition during our effort to make technological improvements to the AHT product line.
+Recurring system sales and support revenues decreased $0.7 million, or 2%.
+Acute Care EHR recurring revenues decreased $0.4 million, or 1%, as a result of 2017 price increase freezes for the existing customer base to ease the impact of MU3 implementation coupled with attrition, primarily from the Healthland customer base, outweighing new customer growth.
+Post-acute Care EHR recurring revenues decreased by $0.2 million, or 5%, due to attrition attributed to the aforementioned aggressive competitive environment.
+TruBridge revenues increased 22%, or $4.5 million, from the first quarter of 2017.
+Our hospital clients operate in an environment typified by rising costs and increased complexity and are increasingly seeking to alleviate themselves of the ever-increasing administrative burden of operating their own business office functions, resulting in an expanded customer base for our accounts receivable management services, increasing $2.8 million, or 47%, and our medical coding services, increasing $1.5 million, or 159%, since the first quarter of 2017.
+Our insurance services revenues have increased 6%, or $0.4 million, primarily as our Rycan revenue cycle management solution continues to see customer base growth.
+These increases have been partially offset by a $0.3 million, or 8%, decrease in private pay services due to reduced transaction volumes experienced by our customer base.
+Costs of Sales.
+Total costs of sales increased by 1%, or $0.4 million, from the first quarter of 2017.
+As a percentage of total revenues, costs of sales decreased to 45% in the first quarter of 2018 from 49% in the first quarter of 2017.
+Costs of Acute Care EHR system sales and support decreased by $0.7 million, or 4%, from the first quarter of 2017 primarily due to a $0.9 million, or 54%, decrease in equipment costs (which are minimal for MU3 implementations), and decreased travel costs of $0.3 million, or 24%, due to improved implementation techniques, partially offset by a $0.3 million, or 10%, increase in third-party software costs.
+The dual effect of increased revenues and these beneficial cost improvements 
 
-
-Revenues. Total revenues for the three months ended March 31, 2018 increased 10.6%, or $6.8 million, compared to the three months ended March 31, 2017. 
-
-
-
-
-
-
-
- Non-recurring system sales and support revenues increased $3.0 million, or 30%, primarily as Acute Care EHR non-recurring revenue increased $3.5 million, or 40%. Acute Care EHR benefited from $4.4 million in MU3 implementations during the first quarter of 2018, compared to none in the same period of 2017. This increase was partially offset by a decrease in other add-on software implementations as a result of the Company's and clients' emphasis on MU3 certification prior to the January 1, 2019 deadline. We installed acute care EHR solutions at six new hospital clients during the first quarter of 2018 (one under a SaaS arrangement, resulting in revenue being recognized ratably over the contractual term) compared to four new hospital clients during the first quarter of 2017 (one under a SaaS arrangement). Non-recurring Post-acute Care EHR revenues decreased by $0.5 million, or 39%, as a result of slowing new installation bookings due to aggressive competition during our effort to make technological improvements to the AHT product line.
-
-
-
- Recurring system sales and support revenues decreased $0.7 million, or 2%. Acute Care EHR recurring revenues decreased $0.4 million, or 1%, as a result of 2017 price increase freezes for the existing customer base to ease the impact of MU3 implementation coupled with attrition, primarily from the Healthland customer base, outweighing new customer growth. Post-acute Care EHR recurring revenues decreased by $0.2 million, or 5%, due to attrition attributed to the aforementioned aggressive competitive environment. 
-
-
-
- TruBridge revenues increased 22%, or $4.5 million, from the first quarter of 2017. Our hospital clients operate in an environment typified by rising costs and increased complexity and are increasingly seeking to alleviate themselves of the ever-increasing administrative burden of operating their own business office functions, resulting in an expanded customer base for our accounts receivable management services, increasing $2.8 million, or 47%, and our medical coding services, increasing $1.5 million, or 159%, since the first quarter of 2017. Our insurance services revenues have increased 6%, or $0.4 million, primarily as our Rycan revenue cycle management solution continues to see customer base growth. These increases have been partially offset by a $0.3 million, or 8%, decrease in private pay services due to reduced transaction volumes experienced by our customer base.
-
-
-
-Costs of Sales. Total costs of sales increased by 1%, or $0.4 million, from the first quarter of 2017. As a percentage of total revenues, costs of sales decreased to 45% in the first quarter of 2018 from 49% in the first quarter of 2017. 
-
-
-
-Costs of Acute Care EHR system sales and support decreased by $0.7 million, or 4%, from the first quarter of 2017 primarily due to a $0.9 million, or 54%, decrease in equipment costs (which are minimal for MU3 implementations), and decreased travel costs of $0.3 million, or 24%, due to improved implementation techniques, partially offset by a $0.3 million, or 10%, increase in third-party software costs. The dual effect of increased revenues and these beneficial cost improvements 
-
-
-
-resulted in the gross margin on Acute Care EHR system sales and support increasing to 58% in the first quarter of 2018 from 53% in the first quarter of 2017. 
-
-
-
-Costs of Post-acute Care EHR system sales and support decreased by $0.4 million, or 17%, from the first quarter of 2017 primarily due to reduced payroll costs of $0.2 million, or 17%, as the realization of HHI integration synergies over the trailing twelve months has resulted in reduced headcount. Third party software costs, hardware costs, and travel costs decreased by a total of $0.2 million due to the decreased installation volume mentioned above. The gross margin on Post-acute Care EHR system sales and support increased to 70% in the first quarter of 2018, from 68% in the first quarter of 2017.
-
-
-
-Our costs associated with TruBridge increased 13%, or $1.5 million, with the largest contributing factor being an increase in payroll and related costs of 29%, or $2.1 million, as a result of adding more employees during the trailing twelve months in order to support and develop our growing customer base. Increased payroll was partially offset by an approximate $0.6 million decrease in cloud hosting costs as a result of moving to in-house resources during the fourth quarter of 2017 for cloud services provided to the HHI customer base. The gross margin on these services increased to 47% in the first quarter of 2018 from 43% in the first quarter of 2017, primarily attributed to the realization of 2017 bookings to revenue in which the aforementioned accompanying payroll costs constricted margins during 2017.
-
-
-
-Product Development. Product development expenses consist primarily of compensation and other employee-related costs (including stock-based compensation) and infrastructure costs incurred, but not capitalized, for new product development and product enhancements. Product development costs increased 8%, or $0.7 million, from the first quarter of 2017, as a result of increased headcount dedicated to functionality additions and enhancements across the product lines, as well as integration across product lines. 
-
-
-
-Sales and Marketing. Sales and marketing expenses increased 8%, or $0.6 million, from the first quarter of 2017, primarily due to increased TruBridge-specific and MU3 commissions expense, and the related payroll taxes.
-
-
-
-General and Administrative. General and administrative expenses increased 6%, or $0.7 million, from the first quarter of 2017, primarily due to a $0.5 million increase in bad debt expense and a $0.7 million, or 23%, increase in employee health costs during the first quarter of 2018. Bad debt was negatively impacted by the closure of one of our hospital clients, while increased prescription drug utilization drove employee health costs higher. These increases were partially offset by a $0.3 million decrease in voluntary severance program expense from the first quarter of 2017. 
-
-
-
-Amortization of Acquisition-Related Intangibles. Amortization expense associated with acquisition-related intangible assets was relatively unchanged from the first quarter of 2017.
-
-
-
- Total Operating Expenses. As a percentage of total revenues, total operating expenses decreased to 44% in the first quarter of 2018 compared to 46% in the first quarter of 2017. 
-
-
-
-Total Other Income (Expense). Total other income (expense) increased from expense of $1.7 million during the first quarter of 2017 to expense of $1.8 million during the first quarter of 2018, as market conditions have resulted in increased interest rates paid on our variable-rate debt obligations.
-
-
-
-Income Before Taxes. As a result of the foregoing factors, income before taxes increased by 292%, or $4.4 million, from the first quarter of 2017.
-
-
-
-Provision for Income Taxes. Our effective tax rate for the three months ended March 31, 2018 decreased to 32.4% from 83.6% for the three months ended March 31, 2017. Our effective tax rate for the three months ended March 31, 2018 was impacted by the Tax Cuts and Jobs Act, which reduced our corporate federal rate from 35% to 21% effective at the beginning of 2018. The first quarter of 2018 also included a $0.4 million shortfall tax expense related to stock-based compensation that increased the effective rate by 6%. During the first quarter of 2017 we experienced a shortfall tax expense related to stock-based compensation of $0.8 million that increased the effective rate by 51%.
-
-
-
-Net Income. Net income for the three months ended March 31, 2018 increased by $3.7 million to a net income of $4.0 million, or $0.29 per basic and diluted share, compared with net income of $0.2 million, or $0.02 per basic and diluted share, for the three months ended March 31, 2017. Net income represented 6% of revenue for the three months ended March 31, 2018, compared to less than 1% of revenue for the three months ended March 31, 2017.
-
-
-
+resulted in the gross margin on Acute Care EHR system sales and support increasing to 58% in the first quarter of 2018 from 53% in the first quarter of 2017.
+Costs of Post-acute Care EHR system sales and support decreased by $0.4 million, or 17%, from the first quarter of 2017 primarily due to reduced payroll costs of $0.2 million, or 17%, as the realization of HHI integration synergies over the trailing twelve months has resulted in reduced headcount.
+Third party software costs, hardware costs, and travel costs decreased by a total of $0.2 million due to the decreased installation volume mentioned above.
+The gross margin on Post-acute Care EHR system sales and support increased to 70% in the first quarter of 2018, from 68% in the first quarter of 2017.
+Our costs associated with TruBridge increased 13%, or $1.5 million, with the largest contributing factor being an increase in payroll and related costs of 29%, or $2.1 million, as a result of adding more employees during the trailing twelve months in order to support and develop our growing customer base.
+Increased payroll was partially offset by an approximate $0.6 million decrease in cloud hosting costs as a result of moving to in-house resources during the fourth quarter of 2017 for cloud services provided to the HHI customer base.
+The gross margin on these services increased to 47% in the first quarter of 2018 from 43% in the first quarter of 2017, primarily attributed to the realization of 2017 bookings to revenue in which the aforementioned accompanying payroll costs constricted margins during 2017.
+Product Development.
+Product development expenses consist primarily of compensation and other employee-related costs (including stock-based compensation) and infrastructure costs incurred, but not capitalized, for new product development and product enhancements.
+Product development costs increased 8%, or $0.7 million, from the first quarter of 2017, as a result of increased headcount dedicated to functionality additions and enhancements across the product lines, as well as integration across product lines.
+Sales and Marketing.
+Sales and marketing expenses increased 8%, or $0.6 million, from the first quarter of 2017, primarily due to increased TruBridge-specific and MU3 commissions expense, and the related payroll taxes.
+General and Administrative.
+General and administrative expenses increased 6%, or $0.7 million, from the first quarter of 2017, primarily due to a $0.5 million increase in bad debt expense and a $0.7 million, or 23%, increase in employee health costs during the first quarter of 2018.
+Bad debt was negatively impacted by the closure of one of our hospital clients, while increased prescription drug utilization drove employee health costs higher.
+These increases were partially offset by a $0.3 million decrease in voluntary severance program expense from the first quarter of 2017.
+Amortization of Acquisition-Related Intangibles.
+Amortization expense associated with acquisition-related intangible assets was relatively unchanged from the first quarter of 2017.
+Total Operating Expenses.
+As a percentage of total revenues, total operating expenses decreased to 44% in the first quarter of 2018 compared to 46% in the first quarter of 2017.
+Total Other Income (Expense).
+Total other income (expense) increased from expense of $1.7 million during the first quarter of 2017 to expense of $1.8 million during the first quarter of 2018, as market conditions have resulted in increased interest rates paid on our variable-rate debt obligations.
+Income Before Taxes.
+As a result of the foregoing factors, income before taxes increased by 292%, or $4.4 million, from the first quarter of 2017.
+Provision for Income Taxes.
+Our effective tax rate for the three months ended March 31, 2018 decreased to 32.4% from 83.6% for the three months ended March 31, 2017.
+Our effective tax rate for the three months ended March 31, 2018 was impacted by the Tax Cuts and Jobs Act, which reduced our corporate federal rate from 35% to 21% effective at the beginning of 2018.
+The first quarter of 2018 also included a $0.4 million shortfall tax expense related to stock-based compensation that increased the effective rate by 6%.
+During the first quarter of 2017 we experienced a shortfall tax expense related to stock-based compensation of $0.8 million that increased the effective rate by 51%.
+Net Income.
+Net income for the three months ended March 31, 2018 increased by $3.7 million to a net income of $4.0 million, or $0.29 per basic and diluted share, compared with net income of $0.2 million, or $0.02 per basic and diluted share, for the three months ended March 31, 2017.
+Net income represented 6% of revenue for the three months ended March 31, 2018, compared to less than 1% of revenue for the three months ended March 31, 2017.
 Liquidity and Capital Resources
-
-
 
 Sources of Liquidity
 
-
-
-As of March 31, 2018, our principal sources of liquidity consisted of cash and cash equivalents of $1.7 million and our remaining borrowing capacity under the Amended Revolving Credit Facility of $13.7 million compared to $0.5 million of cash and cash equivalents and $17.0 million of remaining borrow capacity under the Amended Revolving Credit Facility as of December 31, 2017. In conjunction with our acquisition of HHI in January 2016, we entered into the Previous Credit Agreement which provided for the $125 million Previous Term Loan Facility and the $50 million Previous Revolving Credit Facility. On October 13, 2017, the Company entered into the Second Amendment to refinance and decrease the aggregate committed size of the credit facilities from $175 million to $162 million, which included the $117 million Amended Term Loan Facility and the $45 million Amended Revolving Credit Facility. On February 8, 2018, the Company entered into the Third Amendment to increase the aggregate principle amount of the Amended Credit Facilities from $162 million to $167 million, which includes the $117 million Amended Term Loan Facility and a $50 million Amended Revolving Credit Facility.
-
-
-
-As of March 31, 2018, we had $143.1 million in principle amount of indebtedness outstanding under the Amended Credit Facilities. We believe that our cash and cash equivalents of $1.7 million as of March 31, 2018, the future operating cash flows of the combined entity, and our remaining borrowing capacity under the Amended Revolving Credit Facility of $13.7 million as of March 31, 2018, taken together, provide adequate resources to fund ongoing cash requirements for the next twelve months. We cannot provide assurance that our actual cash requirements will not be greater than we expect as of the date of filing of this Form 10-Q. If sources of liquidity are not available or if we cannot generate sufficient cash flow from operations during the next twelve months, we may be required to obtain additional sources of funds through additional operational improvements, capital market transactions, asset sales or financing from third parties, a combination thereof or otherwise. We cannot provide assurance that these additional sources of funds will be available or, if available, would have reasonable terms.
-
-
-
+As of March 31, 2018, our principal sources of liquidity consisted of cash and cash equivalents of $1.7 million and our remaining borrowing capacity under the Amended Revolving Credit Facility of $13.7 million compared to $0.5 million of cash and cash equivalents and $17.0 million of remaining borrow capacity under the Amended Revolving Credit Facility as of December 31, 2017.
+In conjunction with our acquisition of HHI in January 2016, we entered into the Previous Credit Agreement which provided for the $125 million Previous Term Loan Facility and the $50 million Previous Revolving Credit Facility.
+On October 13, 2017, the Company entered into the Second Amendment to refinance and decrease the aggregate committed size of the credit facilities from $175 million to $162 million, which included the $117 million Amended Term Loan Facility and the $45 million Amended Revolving Credit Facility.
+On February 8, 2018, the Company entered into the Third Amendment to increase the aggregate principle amount of the Amended Credit Facilities from $162 million to $167 million, which includes the $117 million Amended Term Loan Facility and a $50 million Amended Revolving Credit Facility.
+As of March 31, 2018, we had $143.1 million in principle amount of indebtedness outstanding under the Amended Credit Facilities.
+We believe that our cash and cash equivalents of $1.7 million as of March 31, 2018, the future operating cash flows of the combined entity, and our remaining borrowing capacity under the Amended Revolving Credit Facility of $13.7 million as of March 31, 2018, taken together, provide adequate resources to fund ongoing cash requirements for the next twelve months.
+We cannot provide assurance that our actual cash requirements will not be greater than we expect as of the date of filing of this Form 10-Q.
+If sources of liquidity are not available or if we cannot generate sufficient cash flow from operations during the next twelve months, we may be required to obtain additional sources of funds through additional operational improvements, capital market transactions, asset sales or financing from third parties, a combination thereof or otherwise.
+We cannot provide assurance that these additional sources of funds will be available or, if available, would have reasonable terms.
 Operating Cash Flow Activities
 
-
-
-Net cash provided by operating activities decreased $6.6 million, from $9.7 million provided by operations for the three months ended 2017 to $3.1 million provided by operations for the three months ended 2018. The decrease in cash flows provided from operations is primarily due to a combined $4.2 million decrease in payables and other liabilities as a result of the timing of vendor and payroll payments accompanied by a $1.2 million decrease in the cash impact of deferred revenues during the first quarter of 2018. The $3.7 million increase in net income was mostly offset by a combined accounts and financing receivables expansion of $4.6 million more than during the first quarter of 2017. The increase in financing arrangements is primarily due to two reasons. First, meaningful use stage 3 installations are primarily financed through short-term payment plans. Second, competitor financing options, primarily accounts receivables management collections and cloud EHR arrangements, have applied pressure to reduce initial customer capital investment requirements for new EHR installations, leading to the offering of long-term lease options.
-
-
-
+Net cash provided by operating activities decreased $6.6 million, from $9.7 million provided by operations for the three months ended 2017 to $3.1 million provided by operations for the three months ended 2018.
+The decrease in cash flows provided from operations is primarily due to a combined $4.2 million decrease in payables and other liabilities as a result of the timing of vendor and payroll payments accompanied by a $1.2 million decrease in the cash impact of deferred revenues during the first quarter of 2018.
+The $3.7 million increase in net income was mostly offset by a combined accounts and financing receivables expansion of $4.6 million more than during the first quarter of 2017.
+The increase in financing arrangements is primarily due to two reasons.
+First, meaningful use stage 3 installations are primarily financed through short-term payment plans.
+Second, competitor financing options, primarily accounts receivables management collections and cloud EHR arrangements, have applied pressure to reduce initial customer capital investment requirements for new EHR installations, leading to the offering of long-term lease options.
 Investing Cash Flow Activities
 
-
-
-Net cash used in investing activities increased to $0.1 million in the first three months of 2018 compared to none during the first three months of 2017. We do not anticipate the need for significant capital expenditures during the remainder of 2018. 
-
-
+Net cash used in investing activities increased to $0.1 million in the first three months of 2018 compared to none during the first three months of 2017.
+We do not anticipate the need for significant capital expenditures during the remainder of 2018. 
 
 Financing Cash Flow Activities
 
-
-
-During the first three months of 2018, our financing activities used net cash of $1.9 million, as we paid a net $0.5 million in long term-debt principal and we declared and paid dividends in the amount of $1.4 million. During the first quarter of 2018, we made a $7.3 million prepayment on the Amended Term Loan Facility, by drawing down on the Revolving Credit Facility, in accordance with the excess cash flow mandatory prepayment requirements of the Amended Credit Agreement. Financing cash flow activities used $10.0 million during the first three months of 2017, primarily due to $6.6 million paid in long-term debt principal and $3.4 million cash paid in dividends. The decrease in dividends paid is a result of moving to a fixed dividend policy during the fourth quarter of 2017.
-
-
-
-We believe that paying dividends is an effective way of providing an investment return to our stockholders and a beneficial use of our cash. However, the declaration of dividends by CPSI is subject to compliance with the terms of our Amended Credit Agreement and the discretion of our Board of Directors which may decide to change or terminate the Company's dividend policy at any time. Our Board of Directors will continue to take into account such matters as general business conditions, capital needs, our financial results and such other factors as our Board of Directors may deem relevant.
-
-
-
+During the first three months of 2018, our financing activities used net cash of $1.9 million, as we paid a net $0.5 million in long term-debt principal and we declared and paid dividends in the amount of $1.4 million.
+During the first quarter of 2018, we made a $7.3 million prepayment on the Amended Term Loan Facility, by drawing down on the Revolving Credit Facility, in accordance with the excess cash flow mandatory prepayment requirements of the Amended Credit Agreement.
+Financing cash flow activities used $10.0 million during the first three months of 2017, primarily due to $6.6 million paid in long-term debt principal and $3.4 million cash paid in dividends.
+The decrease in dividends paid is a result of moving to a fixed dividend policy during the fourth quarter of 2017.
+We believe that paying dividends is an effective way of providing an investment return to our stockholders and a beneficial use of our cash.
+However, the declaration of dividends by CPSI is subject to compliance with the terms of our Amended Credit Agreement and the discretion of our Board of Directors which may decide to change or terminate the Company's dividend policy at any time.
+Our Board of Directors will continue to take into account such matters as general business conditions, capital needs, our financial results and such other factors as our Board of Directors may deem relevant.
 Credit Agreement
 
-
-
-As of March 31, 2018, we had $106.8 million in principal amount outstanding under the Amended Term Loan Facility and $36.3 million in principal amount outstanding under the Amended Revolving Credit Facility. Each of the Amended Credit Facilities continues to bear interest at a rate per annum equal to an applicable margin plus, at our option, either (1) the Adjusted LIBOR rate for the relevant interest period, (2) an alternate base rate determined by reference to the greater of (a) the prime lending rate of Regions, (b) the federal funds rate for the relevant interest period plus one half of one percent per annum and (c) the one month LIBOR rate plus one percent per annum, or (3) a combination of (1) and (2). The applicable margin range for LIBOR loans and the letter of credit fee ranges from 2.00% to 3.50%. The applicable margin range for base rate loans ranges from 1.00% to 2.50%, in each case based on the Company's consolidated leverage ratio. 
-
-
-
-Principal payments with respect to the Amended Term Loan Facility are due on the last day of each fiscal quarter beginning December 31, 2017, with quarterly principal payments of approximately $1.46 million through September 30, 2019, approximately $2.19 million through September 30, 2021 and approximately $2.93 million through September 30. 2022, with the maturity on October 13, 2022 or such earlier date as the obligations under the Amended Credit Agreement become due and payable pursuant to the terms of the Amended Credit Agreement (the "Amended Maturity Date"). Any principal outstanding under the Amended Revolving Credit Facility is due and payable on the Amended Maturity Date.
-
-
-
-The Amended Credit Facilities are secured pursuant to a Pledge and Security Agreement, dated January 8, 2016, among the parties identified as obligors therein and Regions, as collateral agent (the “Security Agreement”), on a first priority basis by a security interest in substantially all of the tangible and intangible assets (subject to certain exceptions) of the Company and certain subsidiaries of the Company, as guarantors (collectively, the “Subsidiary Guarantors”), including certain registered intellectual property and the capital stock of certain of the Company’s direct and indirect subsidiaries. Our obligations under the Amended Credit Agreement are also guaranteed by the Subsidiary Guarantors.
-
-
-
-
-
-The Amended Credit Agreement requires the Company to mandatorily prepay the Amended Credit Facilities with (i) 75% of excess cash flow (minus certain specified other payments) during each of the fiscal years ending December 31, 2017 and December 31, 2018 and (ii) 50% of excess cash flow (minus certain specified other payments) during the fiscal year ending December 31, 2019 and thereafter. The Company is permitted to voluntarily prepay the Amended Credit Facilities at any time without penalty, subject to customary “breakage” costs with respect to prepayments of LIBOR rate loans made on a day other than the last day of any applicable interest period. The excess cash flow mandatory prepayment requirement of the Amended Credit Agreement resulted in a $7.3 million prepayment on the Amended Term Loan Facility during the first quarter of 2018 related to excess cash flow generated by the Company during 2017. This mandatory prepayment was funded by drawing down on the Amended Revolving Credit Facility, as excess cash flow generated by the Company during 2017 was primarily used to voluntarily prepay amounts due under the Amended Revolving Credit Facility.
-
-
-
+As of March 31, 2018, we had $106.8 million in principal amount outstanding under the Amended Term Loan Facility and $36.3 million in principal amount outstanding under the Amended Revolving Credit Facility.
+Each of the Amended Credit Facilities continues to bear interest at a rate per annum equal to an applicable margin plus, at our option, either (1) the Adjusted LIBOR rate for the relevant interest period, (2) an alternate base rate determined by reference to the greater of (a) the prime lending rate of Regions, (b) the federal funds rate for the relevant interest period plus one half of one percent per annum and (c) the one month LIBOR rate plus one percent per annum, or (3) a combination of (1) and (2).
+The applicable margin range for LIBOR loans and the letter of credit fee ranges from 2.00% to 3.50%.
+The applicable margin range for base rate loans ranges from 1.00% to 2.50%, in each case based on the Company's consolidated leverage ratio.
+Principal payments with respect to the Amended Term Loan Facility are due on the last day of each fiscal quarter beginning December 31, 2017, with quarterly principal payments of approximately $1.46 million through September 30, 2019, approximately $2.19 million through September 30, 2021 and approximately $2.93 million through September 30.
+2022, with the maturity on October 13, 2022 or such earlier date as the obligations under the Amended Credit Agreement become due and payable pursuant to the terms of the Amended Credit Agreement (the "Amended Maturity Date").
+Any principal outstanding under the Amended Revolving Credit Facility is due and payable on the Amended Maturity Date.
+The Amended Credit Facilities are secured pursuant to a Pledge and Security Agreement, dated January 8, 2016, among the parties identified as obligors therein and Regions, as collateral agent (the “Security Agreement”), on a first priority basis by a security interest in substantially all of the tangible and intangible assets (subject to certain exceptions) of the Company and certain subsidiaries of the Company, as guarantors (collectively, the “Subsidiary Guarantors”), including certain registered intellectual property and the capital stock of certain of the Company’s direct and indirect subsidiaries.
+Our obligations under the Amended Credit Agreement are also guaranteed by the Subsidiary Guarantors.
+The Amended Credit Agreement requires the Company to mandatorily prepay the Amended Credit Facilities with (i) 75% of excess cash flow (minus certain specified other payments) during each of the fiscal years ending December 31, 2017 and December 31, 2018 and (ii) 50% of excess cash flow (minus certain specified other payments) during the fiscal year ending December 31, 2019 and thereafter.
+The Company is permitted to voluntarily prepay the Amended Credit Facilities at any time without penalty, subject to customary “breakage” costs with respect to prepayments of LIBOR rate loans made on a day other than the last day of any applicable interest period.
+The excess cash flow mandatory prepayment requirement of the Amended Credit Agreement resulted in a $7.3 million prepayment on the Amended Term Loan Facility during the first quarter of 2018 related to excess cash flow generated by the Company during 2017.
+This mandatory prepayment was funded by drawing down on the Amended Revolving Credit Facility, as excess cash flow generated by the Company during 2017 was primarily used to voluntarily prepay amounts due under the Amended Revolving Credit Facility.
 Backlog
 
+Backlog consists of revenues we reasonably expect to recognize over the next twelve months under all existing contracts, including those with remaining performance obligations that have original expected durations of one year or less and those with fees that are variable in which we estimate future revenues.
+The revenues to be recognized may relate to a combination of one-time fees for system sales and recurring fees for support and maintenance and TruBridge services.
+As of March 31, 2018, we had a twelve-month backlog of approximately $35 million in connection with non-recurring system purchases and approximately $230 million in connection with recurring payments under support and maintenance, Cloud EHR contracts, and 
 
-
-Backlog consists of revenues we reasonably expect to recognize over the next twelve months under all existing contracts, including those with remaining performance obligations that have original expected durations of one year or less and those with fees that are variable in which we estimate future revenues. The revenues to be recognized may relate to a combination of one-time fees for system sales and recurring fees for support and maintenance and TruBridge services. As of March 31, 2018, we had a twelve-month backlog of approximately $35 million in connection with non-recurring system purchases and approximately $230 million in connection with recurring payments under support and maintenance, Cloud EHR contracts, and 
-
-
-
-TruBridge services. As of March 31, 2017, we had a twelve-month backlog of approximately $25 million in connection with non-recurring system purchases and approximately $215 million in connection with recurring payments under support and maintenance and TruBridge services. 
-
-
-
+TruBridge services.
+As of March 31, 2017, we had a twelve-month backlog of approximately $25 million in connection with non-recurring system purchases and approximately $215 million in connection with recurring payments under support and maintenance and TruBridge services.
 Bookings
 
 
 
-
-
-
-
  Acute Care EHR bookings increased $2.5 million, or 16%, from the first quarter of 2017 as new system implementations bookings strengthened from prior year levels, which we attribute mostly to timing as the pipeline for the EHR replacement market has not materially changed.
-
-
-
-Post-acute Care EHR bookings decreased $1.2 million, or 62%, from the first quarter of 2017. New business opportunities for this segment, which consist solely of the operations of AHT, have suffered as a result of increased competition and recent underinvestment in AHT's product offerings (particularly prior to our acquisition of AHT as part of the January 2016 acquisition of HHI) making functionality and usability comparisons less favorable for AHT. Although management has formulated a strategy and enacted steps to improve the related product functionality and usability and is confident that such measures will translate into improved future bookings performance (and, eventually, revenue growth), there can be no guarantee that this strategy will be successful. During the fourth quarter of 2017, the anticipated attrition of significant customer accounts and a product development acceleration investment plan in our Post-acute Care EHR software led management to record a goodwill impairment of $28.0 million against our Post-acute Care EHR reporting unit as of December 31, 2017.
-
-
-
-We continue to execute on our TruBridge strategy by moving up-market into larger healthcare facilities while expanding the scope of our relationships with new and existing customers by increasing revenue-generating touchpoints within those facilities. Our initial success in that endeavor has resulted in bookings volatility as our periodic bookings are heavily influenced by low-volume, high-value deals. Such large, enterprise client wins resulted in TruBridge bookings for the first quarter of 2017 that were the second-highest in TruBridge history at that time, with bookings for the remainder of 2017 being heavily influenced by large, enterprise client wins. Absent any such large, enterprise client wins during the first quarter of 2018, TruBridge bookings experienced a normalization that resulted in a decrease from the first quarter of 2017. We continue to see demand for TruBridge's products and services that alleviate administrative burden on our clients and allow them to take advantage of our specialized capabilities. Particularly strong demand exists for TruBridge's accounts receivable management and medical coding services.
-
-
-
+Post-acute Care EHR bookings decreased $1.2 million, or 62%, from the first quarter of 2017.
+New business opportunities for this segment, which consist solely of the operations of AHT, have suffered as a result of increased competition and recent underinvestment in AHT's product offerings (particularly prior to our acquisition of AHT as part of the January 2016 acquisition of HHI) making functionality and usability comparisons less favorable for AHT.
+Although management has formulated a strategy and enacted steps to improve the related product functionality and usability and is confident that such measures will translate into improved future bookings performance (and, eventually, revenue growth), there can be no guarantee that this strategy will be successful.
+During the fourth quarter of 2017, the anticipated attrition of significant customer accounts and a product development acceleration investment plan in our Post-acute Care EHR software led management to record a goodwill impairment of $28.0 million against our Post-acute Care EHR reporting unit as of December 31, 2017.
+We continue to execute on our TruBridge strategy by moving up-market into larger healthcare facilities while expanding the scope of our relationships with new and existing customers by increasing revenue-generating touchpoints within those facilities.
+Our initial success in that endeavor has resulted in bookings volatility as our periodic bookings are heavily influenced by low-volume, high-value deals.
+Such large, enterprise client wins resulted in TruBridge bookings for the first quarter of 2017 that were the second-highest in TruBridge history at that time, with bookings for the remainder of 2017 being heavily influenced by large, enterprise client wins.
+Absent any such large, enterprise client wins during the first quarter of 2018, TruBridge bookings experienced a normalization that resulted in a decrease from the first quarter of 2017.
+We continue to see demand for TruBridge's products and services that alleviate administrative burden on our clients and allow them to take advantage of our specialized capabilities.
+Particularly strong demand exists for TruBridge's accounts receivable management and medical coding services.
 Off-Balance Sheet Arrangements
 
-
-
 We had no off-balance sheet arrangements, as defined by Item 303(a)(4) of SEC Regulation S-K, as of March 31, 2018.
-
-
-
 The Company has other lease rights and obligations that it accounts for as operating leases that may be reclassified as balance sheet arrangements under accounting pronouncements recently finalized by the FASB.
-
-
-
 Critical Accounting Policies and Estimates
 
-
-
-Our Management Discussion and Analysis is based upon our condensed consolidated financial statements, which have been prepared in accordance with U.S. GAAP. The preparation of these financial statements requires us to make subjective or complex judgments that may affect the reported financial condition and results of operations. We base our estimates on historical experience and other assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the reported values of assets, liabilities, revenues, expenses and other financial amounts that are not readily apparent from other sources. Actual results may differ from these estimates and these estimates may differ under different assumptions or conditions. We continually evaluate the information used to make these estimates as our business and the economic environment changes.
-
-
-
-In our Annual Report on Form 10-K for the year ended December 31, 2017, we identified our critical accounting polices related to revenue recognition, allowance for doubtful accounts, allowance for credit losses, and estimates. During the first quarter of 2018, we adopted the new accounting standard codified as Accounting Standards Codification ("ASC") 606, Revenue from Contracts with Customers, and all related amendments and have applied it to all contracts using the modified retrospective method, pursuant to which the cumulative effect of initially applying the new revenue standard is recognized as an adjustment to retained earnings and impacted balance sheet line items as of January 1, 2018, the date of adoption. Refer to Note 2 - Recent Accounting Pronouncements of the Notes to Financial Statements (Part 1, Item 1 of this Form 10-Q) for further discussion.
-
-
-
+Our Management Discussion and Analysis is based upon our condensed consolidated financial statements, which have been prepared in accordance with U.S. GAAP.
+The preparation of these financial statements requires us to make subjective or complex judgments that may affect the reported financial condition and results of operations.
+We base our estimates on historical experience and other assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the reported values of assets, liabilities, revenues, expenses and other financial amounts that are not readily apparent from other sources.
+Actual results may differ from these estimates and these estimates may differ under different assumptions or conditions.
+We continually evaluate the information used to make these estimates as our business and the economic environment changes.
+In our Annual Report on Form 10-K for the year ended December 31, 2017, we identified our critical accounting polices related to revenue recognition, allowance for doubtful accounts, allowance for credit losses, and estimates.
+During the first quarter of 2018, we adopted the new accounting standard codified as Accounting Standards Codification ("ASC") 606, Revenue from Contracts with Customers, and all related amendments and have applied it to all contracts using the modified retrospective method, pursuant to which the cumulative effect of initially applying the new revenue standard is recognized as an adjustment to retained earnings and impacted balance sheet line items as of January 1, 2018, the date of adoption.
+Refer to Note 2 - Recent Accounting Pronouncements of the Notes to Financial Statements (Part 1, Item 1 of this Form 10-Q) for further discussion.
 There have been no other significant changes to these critical accounting policies during the three months ended March 31, 2018.
-
-
-
 Item 2.Unregistered Sales of Equity Securities and Use of Proceeds.
-
-
-
- Not Applicable.
-
-
-
+Not Applicable.

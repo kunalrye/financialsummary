@@ -1,580 +1,321 @@
 ITEM 2.MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
 
-
-
 CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
 
-
-
-The Private Securities Litigation Reform Act of 1995 (the “Reform Act”) provides a safe harbor for forward-looking statements made by or on behalf of EnerSys. EnerSys and its representatives may, from time to time, make written or verbal forward-looking statements, including statements contained in EnerSys’ filings with the Securities and Exchange Commission and its reports to stockholders. Generally, the inclusion of the words “anticipate,” “believe,” “expect,” “future,” “intend,” “estimate,” “will,” “plans,” or the negative of such terms and similar expressions identify statements that constitute “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934 and that are intended to come within the safe harbor protection provided by those sections. All statements addressing operating performance, events, or developments that EnerSys expects or anticipates will occur in the future, including statements relating to sales growth, earnings or earnings per share growth, and market share, as well as statements expressing optimism or pessimism about future operating results, are forward-looking statements within the meaning of the Reform Act. The forward-looking statements are and will be based on management’s then-current beliefs and assumptions regarding future events and operating performance and on information currently available to management, and are applicable only as of the dates of such statements.
-
-
-
-Forward-looking statements involve risks, uncertainties and assumptions. Although we do not make forward-looking statements unless we believe we have a reasonable basis for doing so, we cannot guarantee their accuracy. Actual results may differ materially from those expressed in these forward-looking statements due to a number of uncertainties and risks, including the risks described in the Company’s 2018 Annual Report on Form 10-K (the "2018 Annual Report") and other unforeseen risks. You should not put undue reliance on any forward-looking statements. These statements speak only as of the date of this Quarterly Report on Form 10-Q, even if subsequently made available by us on our website or otherwise, and we undertake no obligation to update or revise these statements to reflect events or circumstances occurring after the date of this Quarterly Report on Form 10-Q.
-
-
-
+The Private Securities Litigation Reform Act of 1995 (the “Reform Act”) provides a safe harbor for forward-looking statements made by or on behalf of EnerSys.
+EnerSys and its representatives may, from time to time, make written or verbal forward-looking statements, including statements contained in EnerSys’ filings with the Securities and Exchange Commission and its reports to stockholders.
+Generally, the inclusion of the words “anticipate,” “believe,” “expect,” “future,” “intend,” “estimate,” “will,” “plans,” or the negative of such terms and similar expressions identify statements that constitute “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934 and that are intended to come within the safe harbor protection provided by those sections.
+All statements addressing operating performance, events, or developments that EnerSys expects or anticipates will occur in the future, including statements relating to sales growth, earnings or earnings per share growth, and market share, as well as statements expressing optimism or pessimism about future operating results, are forward-looking statements within the meaning of the Reform Act.
+The forward-looking statements are and will be based on management’s then-current beliefs and assumptions regarding future events and operating performance and on information currently available to management, and are applicable only as of the dates of such statements.
+Forward-looking statements involve risks, uncertainties and assumptions.
+Although we do not make forward-looking statements unless we believe we have a reasonable basis for doing so, we cannot guarantee their accuracy.
+Actual results may differ materially from those expressed in these forward-looking statements due to a number of uncertainties and risks, including the risks described in the Company’s 2018 Annual Report on Form 10-K (the "2018 Annual Report") and other unforeseen risks.
+You should not put undue reliance on any forward-looking statements.
+These statements speak only as of the date of this Quarterly Report on Form 10-Q, even if subsequently made available by us on our website or otherwise, and we undertake no obligation to update or revise these statements to reflect events or circumstances occurring after the date of this Quarterly Report on Form 10-Q.
 Our actual results may differ materially from those contemplated by the forward-looking statements for a number of reasons, including the following factors:
-
-
 
 •general cyclical patterns of the industries in which our customers operate;
 
-
-
 •the extent to which we cannot control our fixed and variable costs;
-
-
 
 •the raw materials in our products may experience significant fluctuations in market price and availability;
 
-
-
 •certain raw materials constitute hazardous materials that may give rise to costly environmental and safety claims;
-
-
 
 •legislation regarding the restriction of the use of certain hazardous substances in our products;
 
-
-
 •risks involved in our operations such as disruption of markets, changes in import and export laws, environmental regulations, currency restrictions and local currency exchange rate fluctuations;
-
-
 
 •our ability to raise our selling prices to our customers when our product costs increase;
 
-
-
 •the extent to which we are able to efficiently utilize our global manufacturing facilities and optimize our capacity;
-
-
 
 •general economic conditions in the markets in which we operate;
 
-
-
 •competitiveness of the battery markets and other energy solutions for industrial applications throughout the world;
-
-
 
 •our timely development of competitive new products and product enhancements in a changing environment and the acceptance of such products and product enhancements by customers;
 
-
-
 •our ability to adequately protect our proprietary intellectual property, technology and brand names;
-
-
 
 •litigation and regulatory proceedings to which we might be subject;
 
-
-
 •our expectations concerning indemnification obligations;
-
-
 
 •changes in our market share in the geographic business segments where we operate;
 
-
-
 •our ability to implement our cost reduction initiatives successfully and improve our profitability;
-
-
 
 •quality problems associated with our products;
 
-
-
 •our ability to implement business strategies, including our acquisition strategy, manufacturing expansion and restructuring plans;
-
-
 
 •our acquisition strategy may not be successful in locating advantageous targets;
 
-
-
 •our ability to successfully integrate any assets, liabilities, customers, systems and management personnel we acquire into our operations and our ability to realize related revenue synergies, strategic gains and cost savings may be significantly harder to achieve, if at all, or may take longer to achieve;
-
-
 
 •potential goodwill impairment charges, future impairment charges and fluctuations in the fair values of reporting units or of assets in the event projected financial results are not achieved within expected time frames;
 
-
-
 •our debt and debt service requirements which may restrict our operational and financial flexibility, as well as imposing unfavorable interest and financing costs;
-
-
 
 •our ability to maintain our existing credit facilities or obtain satisfactory new credit facilities;
 
-
-
 •adverse changes in our short and long-term debt levels under our credit facilities;
-
-
 
 •our exposure to fluctuations in interest rates on our variable-rate debt;
 
-
-
 •our ability to attract and retain qualified management and personnel;
-
-
 
 •our ability to maintain good relations with labor unions;
 
-
-
 •credit risk associated with our customers, including risk of insolvency and bankruptcy;
-
-
 
 •our ability to successfully recover in the event of a disaster affecting our infrastructure;
 
-
-
 •terrorist acts or acts of war, could cause damage or disruption to our operations, our suppliers, channels to market or customers, or could cause costs to increase, or create political or economic instability; and
 
-
-
 •the operation, capacity and security of our information systems and infrastructure.
-
-
-
-This list of factors that may affect future performance is illustrative, but by no means exhaustive. Accordingly, all forward-looking statements should be evaluated with the understanding of their inherent uncertainty.
-
-
-
-In the following discussion and analysis of results of operations and financial condition, certain financial measures may be considered “non-GAAP financial measures” under Securities and Exchange Commission rules. These rules require supplemental explanation and reconciliation, which is provided in this Quarterly Report on Form 10-Q. EnerSys’ management uses the non-GAAP measures “primary working capital” and “primary working capital percentage” in its evaluation of business segment cash flow and financial position performance. These disclosures have limitations as an analytical tool, should not be viewed as a substitute for cash flow determined in accordance with GAAP, and should not be considered in isolation or as a substitute for analysis of the Company’s results as reported under GAAP, nor are they necessarily comparable to non-GAAP performance measures that may be presented by other companies. Management believes that this non-GAAP supplemental information is helpful in understanding the Company’s ongoing operating results.
-
-
-
+This list of factors that may affect future performance is illustrative, but by no means exhaustive.
+Accordingly, all forward-looking statements should be evaluated with the understanding of their inherent uncertainty.
+In the following discussion and analysis of results of operations and financial condition, certain financial measures may be considered “non-GAAP financial measures” under Securities and Exchange Commission rules.
+These rules require supplemental explanation and reconciliation, which is provided in this Quarterly Report on Form 10-Q.
+EnerSys’ management uses the non-GAAP measures “primary working capital” and “primary working capital percentage” in its evaluation of business segment cash flow and financial position performance.
+These disclosures have limitations as an analytical tool, should not be viewed as a substitute for cash flow determined in accordance with GAAP, and should not be considered in isolation or as a substitute for analysis of the Company’s results as reported under GAAP, nor are they necessarily comparable to non-GAAP performance measures that may be presented by other companies.
+Management believes that this non-GAAP supplemental information is helpful in understanding the Company’s ongoing operating results.
 Overview
 
-
-
-EnerSys (the “Company,” “we,” or “us”) is the world’s largest manufacturer, marketer and distributor of industrial batteries. We also manufacture, market and distribute products such as battery chargers, power equipment, battery accessories, and outdoor cabinet enclosures. Additionally, we provide related aftermarket and customer-support services for our products. We market our products globally to over 10,000 customers in more than 100 countries through a network of distributors, independent representatives and our internal sales force.
-
-
-
-
-
+EnerSys (the “Company,” “we,” or “us”) is the world’s largest manufacturer, marketer and distributor of industrial batteries.
+We also manufacture, market and distribute products such as battery chargers, power equipment, battery accessories, and outdoor cabinet enclosures.
+Additionally, we provide related aftermarket and customer-support services for our products.
+We market our products globally to over 10,000 customers in more than 100 countries through a network of distributors, independent representatives and our internal sales force.
 •Americas, which includes North and South America, with our segment headquarters in Reading, Pennsylvania, USA;
-
-
 
 •EMEA, which includes Europe, the Middle East and Africa, with our segment headquarters in Zug, Switzerland; and
 
-
-
 •Asia, which includes Asia, Australia and Oceania, with our segment headquarters in Singapore.
-
-
-
-
-
-•Reserve power products are used for backup power for the continuous operation of critical applications in telecommunications systems, uninterruptible power systems, or “UPS” applications for computer and computer-controlled systems, and other specialty power applications, including medical and security systems, premium starting, lighting and ignition applications, in switchgear, electrical control systems used in electric utilities, large-scale energy storage, energy pipelines, in commercial aircraft, satellites, military aircraft, submarines, ships and tactical vehicles. Reserve power products also include thermally managed cabinets and enclosures for electronic equipment and batteries.
-
-
-
-•Motive power products are used to provide power for electric industrial forklifts used in manufacturing, warehousing and other material handling applications as well as mining equipment, diesel locomotive starting and other rail equipment. 
-
-
-
+•Reserve power products are used for backup power for the continuous operation of critical applications in telecommunications systems, uninterruptible power systems, or “UPS” applications for computer and computer-controlled systems, and other specialty power applications, including medical and security systems, premium starting, lighting and ignition applications, in switchgear, electrical control systems used in electric utilities, large-scale energy storage, energy pipelines, in commercial aircraft, satellites, military aircraft, submarines, ships and tactical vehicles.
+Reserve power products also include thermally managed cabinets and enclosures for electronic equipment and batteries.
+•Motive power products are used to provide power for electric industrial forklifts used in manufacturing, warehousing and other material handling applications as well as mining equipment, diesel locomotive starting and other rail equipment.
 Economic Climate
 
-
-
-Recent indicators continue to suggest a mixed trend in economic activity among the different geographical regions. North America and EMEA are experiencing moderate economic growth, with the economic growth in the United States accelerating. Our Asia region continues to grow faster than any other region in which we do business.
-
-
-
+Recent indicators continue to suggest a mixed trend in economic activity among the different geographical regions.
+North America and EMEA are experiencing moderate economic growth, with the economic growth in the United States accelerating.
+Our Asia region continues to grow faster than any other region in which we do business.
 Volatility of Commodities and Foreign Currencies
 
-
-
-Our most significant commodity and foreign currency exposures are related to lead and the Euro, respectively. Historically, volatility of commodity costs and foreign currency exchange rates have caused large swings in our production costs. As the global economic climate changes, we anticipate that our commodity costs and foreign currency exposures may continue to fluctuate as they have in the past several years. Over the past year, on a consolidated basis, we have experienced rising commodity costs. 
-
-
-
+Our most significant commodity and foreign currency exposures are related to lead and the Euro, respectively.
+Historically, volatility of commodity costs and foreign currency exchange rates have caused large swings in our production costs.
+As the global economic climate changes, we anticipate that our commodity costs and foreign currency exposures may continue to fluctuate as they have in the past several years.
+Over the past year, on a consolidated basis, we have experienced rising commodity costs.
 Customer Pricing
 
-
-
-Our selling prices fluctuated during the last several years to offset the volatile cost of commodities. Approximately 30% of our revenue is currently subject to agreements that adjust pricing to a market-based index for lead. During the second quarter and six months of fiscal 2019, where permitted, we increased our selling prices in response to increased commodity costs including other raw materials and freight.
-
-
-
+Our selling prices fluctuated during the last several years to offset the volatile cost of commodities.
+Approximately 30% of our revenue is currently subject to agreements that adjust pricing to a market-based index for lead.
+During the second quarter and six months of fiscal 2019, where permitted, we increased our selling prices in response to increased commodity costs including other raw materials and freight.
 Liquidity and Capital Resources
 
-
-
 We believe that our financial position is strong, and we have substantial liquidity with $545 million of available cash and cash equivalents and available and undrawn credit lines of approximately $531 million at September 30, 2018 to cover short-term liquidity requirements and anticipated growth in the foreseeable future.
-
-
-
 In fiscal 2018, we entered into a new credit facility (“2017 Credit Facility”) that comprises a $600 million senior secured revolving credit facility (“2017 Revolver”) and a $150 million senior secured term loan (“2017 Term Loan”) with a maturity date of September 30, 2022, which provides us with sufficient liquidity to fund acquisitions and stock repurchase programs.
-
-
-
-A substantial majority of the Company’s cash and investments are held by foreign subsidiaries. The majority of that cash and investments is expected to be utilized to fund local operating activities, capital expenditure requirements and acquisitions. The Company believes that it has sufficient sources of domestic and foreign liquidity.
-
-
-
+A substantial majority of the Company’s cash and investments are held by foreign subsidiaries.
+The majority of that cash and investments is expected to be utilized to fund local operating activities, capital expenditure requirements and acquisitions.
+The Company believes that it has sufficient sources of domestic and foreign liquidity.
 We believe that our strong capital structure and liquidity affords us access to capital for future capital expenditures, acquisition and stock repurchase opportunities and continued dividend payments.
-
-
-
 Results of Operations
 
-
-
 Net Sales
-
-
 
 Segment sales
 
 
 
-
-
-
-
-Net sales increased $43.2 million or 7.0% in the second quarter of fiscal 2019 as compared to the second quarter of fiscal 2018. This increase was the result of a 7% increase in organic volume and a 2% increase in pricing, partially offset by a 2% decrease in foreign currency translation impact. 
-
-
-
-Net sales increased $91.5 million or 7.4% in the six months of fiscal 2019 as compared to the six months of fiscal 2018. This increase was the result of a 6% increase in organic volume and a 2% increase in pricing, partially offset by a 1% decrease in foreign currency translation impact. 
-
-
-
-The Americas segment’s net sales increased $47.1 million or 13.8% in the second quarter of fiscal 2019 as compared to the second quarter of fiscal 2018, primarily due to a 12% increase in organic volume and a 3% increase in pricing, partially offset by a 1% decrease in foreign currency translation impact. Net sales increased $85.0 million or 12.2% in the six months of fiscal 2019 as compared to the six months of fiscal 2018, primarily due to a 11% increase in organic volume and a 3% increase in pricing, partially offset by a 2% decrease in foreign currency translation impact. 
-
-
-
-The EMEA segment’s net sales increased $6.1 million or 3.1% in the second quarter of fiscal 2019 as compared to the second quarter of fiscal 2018, primarily due to a 6% increase in organic volume, partially offset by a 3% decrease in foreign currency translation impact. Net sales increased $17.5 million or 4.4% in the six months of fiscal 2019 as compared to the six months of fiscal 2018, primarily due to a 3% increase in organic volume and a 1% increase in pricing. 
-
-
-
-The Asia segment’s net sales decreased $10.0 million or 12.9% in the second quarter of fiscal 2019 as compared to the second quarter of fiscal 2018, primarily due to a 14% decrease in organic volume partially offset by a 1% increase in pricing. Net sales decreased $11.0 million or 7.6% in the six months of fiscal 2019 as compared to the six months of fiscal 2018, primarily due to a 10% decrease in organic volume and a 1% increase each in pricing and foreign currency translation impact. 
-
-
-
+Net sales increased $43.2 million or 7.0% in the second quarter of fiscal 2019 as compared to the second quarter of fiscal 2018.
+This increase was the result of a 7% increase in organic volume and a 2% increase in pricing, partially offset by a 2% decrease in foreign currency translation impact.
+Net sales increased $91.5 million or 7.4% in the six months of fiscal 2019 as compared to the six months of fiscal 2018.
+This increase was the result of a 6% increase in organic volume and a 2% increase in pricing, partially offset by a 1% decrease in foreign currency translation impact.
+The Americas segment’s net sales increased $47.1 million or 13.8% in the second quarter of fiscal 2019 as compared to the second quarter of fiscal 2018, primarily due to a 12% increase in organic volume and a 3% increase in pricing, partially offset by a 1% decrease in foreign currency translation impact.
+Net sales increased $85.0 million or 12.2% in the six months of fiscal 2019 as compared to the six months of fiscal 2018, primarily due to a 11% increase in organic volume and a 3% increase in pricing, partially offset by a 2% decrease in foreign currency translation impact.
+The EMEA segment’s net sales increased $6.1 million or 3.1% in the second quarter of fiscal 2019 as compared to the second quarter of fiscal 2018, primarily due to a 6% increase in organic volume, partially offset by a 3% decrease in foreign currency translation impact.
+Net sales increased $17.5 million or 4.4% in the six months of fiscal 2019 as compared to the six months of fiscal 2018, primarily due to a 3% increase in organic volume and a 1% increase in pricing.
+The Asia segment’s net sales decreased $10.0 million or 12.9% in the second quarter of fiscal 2019 as compared to the second quarter of fiscal 2018, primarily due to a 14% decrease in organic volume partially offset by a 1% increase in pricing.
+Net sales decreased $11.0 million or 7.6% in the six months of fiscal 2019 as compared to the six months of fiscal 2018, primarily due to a 10% decrease in organic volume and a 1% increase each in pricing and foreign currency translation impact.
 Product line sales
 
 
 
-
-
-
-
-Net sales of our reserve power products in the second quarter of fiscal 2019 increased $21.2 million or 7.2% compared to the second quarter of fiscal 2018. The increase was primarily due to a 7% increase in organic volume and a 2% increase in pricing, partially offset by a 2% decrease in foreign currency translation impact. Net sales increased $40.0 million or 6.7% in the six months of fiscal 2019 as compared to the six months of fiscal 2018, primarily due to a 6% increase in organic volume and a 1% increase in pricing. 
-
-
-
-Net sales of our motive power products in the second quarter of fiscal 2019 increased by $22.0 million or 6.8% compared to the second quarter of fiscal 2018. The increase was primarily due to a 7% increase in organic volume and a 2% increase in pricing, partially offset by a 2% decrease in foreign currency translation impact. Net sales increased $51.5 million or 8.0% in the six months of fiscal 2019 as compared to the six months of fiscal 2018, primarily due to a 6% increase in organic volume and a 2% increase in pricing. 
-
-
-
+Net sales of our reserve power products in the second quarter of fiscal 2019 increased $21.2 million or 7.2% compared to the second quarter of fiscal 2018.
+The increase was primarily due to a 7% increase in organic volume and a 2% increase in pricing, partially offset by a 2% decrease in foreign currency translation impact.
+Net sales increased $40.0 million or 6.7% in the six months of fiscal 2019 as compared to the six months of fiscal 2018, primarily due to a 6% increase in organic volume and a 1% increase in pricing.
+Net sales of our motive power products in the second quarter of fiscal 2019 increased by $22.0 million or 6.8% compared to the second quarter of fiscal 2018.
+The increase was primarily due to a 7% increase in organic volume and a 2% increase in pricing, partially offset by a 2% decrease in foreign currency translation impact.
+Net sales increased $51.5 million or 8.0% in the six months of fiscal 2019 as compared to the six months of fiscal 2018, primarily due to a 6% increase in organic volume and a 2% increase in pricing.
 Gross Profit 
 
 
 
-
-
-
-
-Gross profit increased $0.6 million or 0.4% in the second quarter and increased $2.4 million or 0.8% in the six months of fiscal 2019 compared to the comparable prior year periods of fiscal 2018. Gross profit, as a percentage of net sales, decreased 160 basis points in both the second quarter and six months of fiscal 2019 compared to the second quarter and six months of fiscal 2018, respectively. This decrease in the gross profit margin in both the second quarter and six months is primarily due to an increase in commodity costs of approximately $14 million and $30 million, respectively, which were offset by increases in organic volume and pricing, but still resulted in gross margin dilution.
-
-
-
+Gross profit increased $0.6 million or 0.4% in the second quarter and increased $2.4 million or 0.8% in the six months of fiscal 2019 compared to the comparable prior year periods of fiscal 2018.
+Gross profit, as a percentage of net sales, decreased 160 basis points in both the second quarter and six months of fiscal 2019 compared to the second quarter and six months of fiscal 2018, respectively.
+This decrease in the gross profit margin in both the second quarter and six months is primarily due to an increase in commodity costs of approximately $14 million and $30 million, respectively, which were offset by increases in organic volume and pricing, but still resulted in gross margin dilution.
 Operating Items 
 
 
 
-
-
-
-
-Operating expenses, as a percentage of sales, decreased 70 basis points in the second quarter of fiscal 2019 and decreased 40 basis points in the six months of fiscal 2019, compared to the comparable prior year periods of fiscal 2018. Excluding the impact of the foreign currency translation, the increase in dollars was primarily due to payroll related expenses. 
-
-
-
+Operating expenses, as a percentage of sales, decreased 70 basis points in the second quarter of fiscal 2019 and decreased 40 basis points in the six months of fiscal 2019, compared to the comparable prior year periods of fiscal 2018.
+Excluding the impact of the foreign currency translation, the increase in dollars was primarily due to payroll related expenses.
 Selling expenses, our main component of operating expenses, were 47.9% and 48.7% of total operating expenses in the second quarter and six months, respectively, compared to 52.1% and 52.7% of total operating expenses in the second quarter and six months of fiscal 2018.
-
-
-
 Restructuring charges
 
-
-
-Included in our second quarter of fiscal 2019 operating results are restructuring charges of $1.0 million in EMEA and $0.1 million in Asia. The charges in the EMEA relate to improving efficiencies of our general operations, while charges in Asia relate to a strategic shift in our India operations from reserve power production to motive power production. 
-
-
-
-Included in our second quarter of fiscal 2018 operating results are restructuring charges of $0.3 million in Americas and $1.5 million in EMEA.The charges in Americas related to the sale of the building at our Cleveland, Ohio charger manufacturing facility in the U.S., which ceased operations in fiscal 2017, while charges in EMEA related to restructuring our motive power production, supply chain and general operations in EMEA to improve efficiencies. 
-
-
-
+Included in our second quarter of fiscal 2019 operating results are restructuring charges of $1.0 million in EMEA and $0.1 million in Asia.
+The charges in the EMEA relate to improving efficiencies of our general operations, while charges in Asia relate to a strategic shift in our India operations from reserve power production to motive power production.
+Included in our second quarter of fiscal 2018 operating results are restructuring charges of $0.3 million in Americas and $1.5 million in EMEA.The charges in Americas related to the sale of the building at our Cleveland, Ohio charger manufacturing facility in the U.S., which ceased operations in fiscal 2017, while charges in EMEA related to restructuring our motive power production, supply chain and general operations in EMEA to improve efficiencies.
 Operating Earnings
 
 
 
-
+NM = not meaningful
 
 
 
 NM = not meaningful
 
-
-
-
-
-
-
-NM = not meaningful
-
-
-
-Operating earnings decreased $1.1 million or 1.6% and decreased $6.9 million or 5.1% in the second quarter and six months of fiscal 2019, respectively, compared to the second quarter and six months of fiscal 2018. Operating earnings, as a percentage of net sales, decreased 80 basis points and 120 basis points in the second quarter and six months of fiscal 2019, respectively, compared to the second quarter and six months of fiscal 2018, primarily due to an increase in commodity costs and freight, partially offset by organic volume improvement, price recoveries and cost saving initiatives. 
-
-
-
-The Americas segment's operating earnings, excluding restructuring charges, decreased 50 basis points and 180 basis points in the second quarter and six months of fiscal 2019, respectively, compared to the second quarter and six months of fiscal 2018 primarily due to higher commodity costs, partially offset by organic volume improvement, price recoveries and cost saving initiatives. 
-
-
-
-The EMEA segment's operating earnings, excluding restructuring charges, decreased 220 basis points and 50 basis points in the second quarter and six months of fiscal 2019, respectively, compared to the second quarter and six months of fiscal 2018, primarily due to higher commodity costs and freight, partially offset by organic volume improvement and cost saving initiatives. 
-
-
-
+Operating earnings decreased $1.1 million or 1.6% and decreased $6.9 million or 5.1% in the second quarter and six months of fiscal 2019, respectively, compared to the second quarter and six months of fiscal 2018.
+Operating earnings, as a percentage of net sales, decreased 80 basis points and 120 basis points in the second quarter and six months of fiscal 2019, respectively, compared to the second quarter and six months of fiscal 2018, primarily due to an increase in commodity costs and freight, partially offset by organic volume improvement, price recoveries and cost saving initiatives.
+The Americas segment's operating earnings, excluding restructuring charges, decreased 50 basis points and 180 basis points in the second quarter and six months of fiscal 2019, respectively, compared to the second quarter and six months of fiscal 2018 primarily due to higher commodity costs, partially offset by organic volume improvement, price recoveries and cost saving initiatives.
+The EMEA segment's operating earnings, excluding restructuring charges, decreased 220 basis points and 50 basis points in the second quarter and six months of fiscal 2019, respectively, compared to the second quarter and six months of fiscal 2018, primarily due to higher commodity costs and freight, partially offset by organic volume improvement and cost saving initiatives.
 The Asia segment's operating earnings, excluding restructuring charges, decreased 190 basis points and 230 basis points in the second quarter and six months of fiscal 2019, respectively, compared to the second quarter and six months of fiscal 2018, primarily due to a decrease in organic volume from a slow down in telecom spending during the six months of fiscal 2019 in the People's Republic of China and higher commodity costs.
-
-
-
 Interest Expense
 
 
 
-
-
-
-
-Interest expense of $6.4 million in the second quarter of fiscal 2019 (net of interest income of $0.5 million) was $0.1 million lower than the interest expense of $6.5 million in the second quarter of fiscal 2018 (net of interest income of $0.7 million). Interest expense of $12.9 million in the six months quarter of fiscal 2019 (net of interest income of $1.0 million) was $0.7 million higher than the interest expense of $12.2 million in the six months quarter of fiscal 2018 (net of interest income of $1.4 million). 
-
-
-
-The decrease in interest expense in the second quarter of fiscal 2019 is primarily due to lower average debt and the repayment of our high interest debt in South America, offset by higher interest rates. The increase in interest expense in the six months of fiscal 2019 is primarily due to higher interest rates, partially offset by lower average debt. Our average debt outstanding was $628.3 million and $619.8 million in the second quarter and six months of fiscal 2019 compared to $680.5 million and $654.5 million in the second quarter and six months of fiscal 2018. 
-
-
-
+Interest expense of $6.4 million in the second quarter of fiscal 2019 (net of interest income of $0.5 million) was $0.1 million lower than the interest expense of $6.5 million in the second quarter of fiscal 2018 (net of interest income of $0.7 million).
+Interest expense of $12.9 million in the six months quarter of fiscal 2019 (net of interest income of $1.0 million) was $0.7 million higher than the interest expense of $12.2 million in the six months quarter of fiscal 2018 (net of interest income of $1.4 million).
+The decrease in interest expense in the second quarter of fiscal 2019 is primarily due to lower average debt and the repayment of our high interest debt in South America, offset by higher interest rates.
+The increase in interest expense in the six months of fiscal 2019 is primarily due to higher interest rates, partially offset by lower average debt.
+Our average debt outstanding was $628.3 million and $619.8 million in the second quarter and six months of fiscal 2019 compared to $680.5 million and $654.5 million in the second quarter and six months of fiscal 2018.
 Included in interest expense are non-cash charges for deferred financing fees of $0.3 million and $0.6 million in the second quarter and six months of fiscal 2019 compared to $0.6 million and $1.0 million, in the second quarter and six months of fiscal 2018.
-
-
-
 Other (Income) Expense, Net
-
-
-
-
 
 
 
 NM = not meaningful
 
-
-
-Other (income) expense, net in the second quarter of fiscal 2019 was income of $1.3 million compared to expense of $2.8 million in the second quarter of fiscal 2018. Other (income) expense, net in the six months of fiscal 2019 was income of $0.9 million compared to expense of $6.1 million in the six months of fiscal 2018. Foreign currency impact resulted in a gain of $1.8 million and $2.2 million, in the second quarter of fiscal 2019 and six months of fiscal 2019, respectively, compared to a foreign currency loss of $2.5 million and $5.1 million in the second quarter and six months of fiscal 2018, respectively. 
-
-
-
-The adoption of ASU No. 2017-07, “Compensation—Retirement Benefits (Topic 715)” in fiscal 2019 resulted in pension expense components other than service, being recorded in Other (income) expense, net. These amounted to $0.3 million and $0.4 million in the second quarter of fiscal 2019 and fiscal 2018, respectively, and were $0.6 million and $0.8 million in the six months of fiscal 2019 and fiscal 2018, respectively.
-
-
-
+Other (income) expense, net in the second quarter of fiscal 2019 was income of $1.3 million compared to expense of $2.8 million in the second quarter of fiscal 2018.
+Other (income) expense, net in the six months of fiscal 2019 was income of $0.9 million compared to expense of $6.1 million in the six months of fiscal 2018.
+Foreign currency impact resulted in a gain of $1.8 million and $2.2 million, in the second quarter of fiscal 2019 and six months of fiscal 2019, respectively, compared to a foreign currency loss of $2.5 million and $5.1 million in the second quarter and six months of fiscal 2018, respectively.
+The adoption of ASU No.
+2017-07, “Compensation—Retirement Benefits (Topic 715)” in fiscal 2019 resulted in pension expense components other than service, being recorded in Other (income) expense, net.
+These amounted to $0.3 million and $0.4 million in the second quarter of fiscal 2019 and fiscal 2018, respectively, and were $0.6 million and $0.8 million in the six months of fiscal 2019 and fiscal 2018, respectively.
 Earnings Before Income Taxes
 
 
 
-
-
-
-
-As a result of the above, earnings before income taxes in the second quarter of fiscal 2019 increased $3.1 million, or 5.8%, compared to the second quarter of fiscal 2018 and decreased $0.6 million or 0.4%, in the six months of fiscal 2019, compared to the six months of fiscal 2018. 
-
-
-
+As a result of the above, earnings before income taxes in the second quarter of fiscal 2019 increased $3.1 million, or 5.8%, compared to the second quarter of fiscal 2018 and decreased $0.6 million or 0.4%, in the six months of fiscal 2019, compared to the six months of fiscal 2018.
 Income Tax Expense 
 
 
 
-
-
-
-
-The Company’s income tax provision consists of federal, state and foreign income taxes. The tax provision for the second quarter of fiscal 2019 and 2018 was based on the estimated effective tax rates applicable for the full years ending March 31, 2019 and March 31, 2018, respectively, after giving effect to items specifically related to the interim periods. Our effective income tax rate with respect to any period may be volatile based on the mix of income in the tax jurisdictions in which we operate, change in tax laws and the amount of our consolidated income before taxes. 
-
-
-
-On December 22, 2017, the Tax Cuts and Jobs Act (“Tax Act”) was enacted into law. Among the significant changes resulting from the law, the Tax Act reduced the U.S. federal income tax rate from 35% to 21% effective January 1, 2018, and required companies to pay a one-time transition tax on unrepatriated cumulative non-U.S. earnings of foreign subsidiaries and created new taxes on certain foreign sourced earnings. The U.S. statutory tax rate for fiscal 2019 is 21.0%.
-
-
-
-As of September 30, 2018, we have not completed our accounting for the tax effects of enactment of the Tax Act; however, we have made a reasonable estimate of the effects on our existing deferred tax balances and the one-time transition tax. We did not obtain additional information during the quarter affecting the provisional amounts initially recorded for the year ended March 31, 2018. In accordance with Staff Accounting Bulletin 118, these amounts are considered provisional and may be affected by future guidance, if and when issued. The estimate of our transition tax liability may change when we finalize both the calculation of post-1986 foreign earnings and profits previously deferred from U.S. federal taxation and the amounts held in cash or other specified assets.
-
-
-
-Beginning in fiscal 2019, the global intangible low-taxed income (“GILTI”), foreign derived intangible income (“FDII”), and base-erosion and anti-abuse (“BEAT”) provisions became effective. The GILTI provisions require us to include in our US income tax return foreign subsidiary earnings in excess of an allowable return on the foreign subsidiary’s tangible assets. Due to the complexities of the GILTI tax rules, we are continuing to evaluate the application of ASC 740. Under US GAAP, we are allowed to make an accounting policy choice of either (1) treating the taxes due on future US inclusions in taxable income as a current-period expense when incurred (“period cost method”) or (2) factoring amounts into a Company’s measurement of its deferred taxes (“deferred method”). As of the second quarter of fiscal 2019, we have not elected an accounting policy treatment for the method we would utilize for GILTI. Based on existing legislative guidance and interpretation, we have estimated the impact on the tax provision of the GILTI inclusion, offset by the related foreign tax credit, and expects the annual effective tax rate to be increased by approximately 2.8%.
-
-
-
-FDII allows a new deduction for U.S. corporations up to 37.5% of foreign derived intangible income. This is an export incentive that reduces the tax on foreign derived sales and service income in excess of a base amount to 13.125%. Based upon the existing legislative guidance and interpretation, we have estimated the impact on the annual effective tax rate to be decreased by approximately 0.5%. 
-
-
-
-The BEAT provisions eliminate the deductions of certain base-erosion payments to related foreign corporations and impose a minimum tax if greater than regular tax. We do not expect to be subject to BEAT in fiscal 2019.
-
-
-
-The consolidated effective income tax rates were 18.6% and 21.7%, respectively, for the second quarters of fiscal 2019 and 2018 and were 19.1% and 21.2% for the six months of fiscal 2019 and 2018. The rate decrease in the second quarter and six months of fiscal 2019 compared to the comparable prior year periods of fiscal 2018 is primarily due to changes in the mix of earnings among tax jurisdictions and items related to the Tax Act. The Tax Act items accounted for a net decrease of 2.2% comprising a 4.5% decrease for the rate change, a 0.5% decrease for the FDII deduction and a 2.8% increase for GILTI inclusion.
-
-
-
-Foreign income as a percentage of worldwide income is estimated to be 68% for fiscal 2019 compared to 63% for fiscal 2018. The foreign effective income tax rates for the six months of fiscal 2019 and 2018 were 11.1% and 11.2%, respectively. The rate decrease compared to the prior year period is primarily due to changes in the mix of earnings among tax jurisdictions. Income from the Company's Swiss subsidiary comprised a substantial portion of our overall foreign mix of income and is taxed at an effective income tax rate of approximately 6%.
-
-
-
+The Company’s income tax provision consists of federal, state and foreign income taxes.
+The tax provision for the second quarter of fiscal 2019 and 2018 was based on the estimated effective tax rates applicable for the full years ending March 31, 2019 and March 31, 2018, respectively, after giving effect to items specifically related to the interim periods.
+Our effective income tax rate with respect to any period may be volatile based on the mix of income in the tax jurisdictions in which we operate, change in tax laws and the amount of our consolidated income before taxes.
+On December 22, 2017, the Tax Cuts and Jobs Act (“Tax Act”) was enacted into law.
+Among the significant changes resulting from the law, the Tax Act reduced the U.S. federal income tax rate from 35% to 21% effective January 1, 2018, and required companies to pay a one-time transition tax on unrepatriated cumulative non-U.S. earnings of foreign subsidiaries and created new taxes on certain foreign sourced earnings.
+The U.S. statutory tax rate for fiscal 2019 is 21.0%.
+As of September 30, 2018, we have not completed our accounting for the tax effects of enactment of the Tax Act; however, we have made a reasonable estimate of the effects on our existing deferred tax balances and the one-time transition tax.
+We did not obtain additional information during the quarter affecting the provisional amounts initially recorded for the year ended March 31, 2018.
+In accordance with Staff Accounting Bulletin 118, these amounts are considered provisional and may be affected by future guidance, if and when issued.
+The estimate of our transition tax liability may change when we finalize both the calculation of post-1986 foreign earnings and profits previously deferred from U.S. federal taxation and the amounts held in cash or other specified assets.
+Beginning in fiscal 2019, the global intangible low-taxed income (“GILTI”), foreign derived intangible income (“FDII”), and base-erosion and anti-abuse (“BEAT”) provisions became effective.
+The GILTI provisions require us to include in our US income tax return foreign subsidiary earnings in excess of an allowable return on the foreign subsidiary’s tangible assets.
+Due to the complexities of the GILTI tax rules, we are continuing to evaluate the application of ASC 740.
+Under US GAAP, we are allowed to make an accounting policy choice of either (1) treating the taxes due on future US inclusions in taxable income as a current-period expense when incurred (“period cost method”) or (2) factoring amounts into a Company’s measurement of its deferred taxes (“deferred method”).
+As of the second quarter of fiscal 2019, we have not elected an accounting policy treatment for the method we would utilize for GILTI.
+Based on existing legislative guidance and interpretation, we have estimated the impact on the tax provision of the GILTI inclusion, offset by the related foreign tax credit, and expects the annual effective tax rate to be increased by approximately 2.8%.
+FDII allows a new deduction for U.S. corporations up to 37.5% of foreign derived intangible income.
+This is an export incentive that reduces the tax on foreign derived sales and service income in excess of a base amount to 13.125%.
+Based upon the existing legislative guidance and interpretation, we have estimated the impact on the annual effective tax rate to be decreased by approximately 0.5%.
+The BEAT provisions eliminate the deductions of certain base-erosion payments to related foreign corporations and impose a minimum tax if greater than regular tax.
+We do not expect to be subject to BEAT in fiscal 2019.
+The consolidated effective income tax rates were 18.6% and 21.7%, respectively, for the second quarters of fiscal 2019 and 2018 and were 19.1% and 21.2% for the six months of fiscal 2019 and 2018.
+The rate decrease in the second quarter and six months of fiscal 2019 compared to the comparable prior year periods of fiscal 2018 is primarily due to changes in the mix of earnings among tax jurisdictions and items related to the Tax Act.
+The Tax Act items accounted for a net decrease of 2.2% comprising a 4.5% decrease for the rate change, a 0.5% decrease for the FDII deduction and a 2.8% increase for GILTI inclusion.
+Foreign income as a percentage of worldwide income is estimated to be 68% for fiscal 2019 compared to 63% for fiscal 2018.
+The foreign effective income tax rates for the six months of fiscal 2019 and 2018 were 11.1% and 11.2%, respectively.
+The rate decrease compared to the prior year period is primarily due to changes in the mix of earnings among tax jurisdictions.
+Income from the Company's Swiss subsidiary comprised a substantial portion of our overall foreign mix of income and is taxed at an effective income tax rate of approximately 6%.
 Critical Accounting Policies and Estimates
 
-
-
-There have been no material changes to our critical accounting policies from those discussed under the caption “Critical Accounting Policies and Estimates” in “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our 2018 Annual Report. The adoption of ASC 606 did not result in a material change to our “Revenue Recognition” critical accounting estimate. See Recently Adopted Accounting Pronouncements in Note 1- Basis of Presentation, to the Consolidated Condensed Financial Statements, for further information on the adoption of ASC 606. 
-
-
-
-The Company issued performance condition-based awards in the second quarter ended September 30, 2018. The fair value of performance condition based awards are recognized as compensation expense beginning at the time in which the performance conditions are deemed probable of achievement, which the Company assesses at each reporting period. Once a performance condition is considered probable, the Company records compensation expense based on the portion of the service period elapsed to date with respect to that award, with a cumulative catch-up, net of estimated forfeitures, and recognize any remaining compensation expense, if any, over the remaining requisite service period using the straight method as the awards are subject to cliff vesting. See Note 11, Stock-Based Compensation, to the Consolidated Condensed Financial Statements, for further information.
-
-
-
+There have been no material changes to our critical accounting policies from those discussed under the caption “Critical Accounting Policies and Estimates” in “Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our 2018 Annual Report.
+The adoption of ASC 606 did not result in a material change to our “Revenue Recognition” critical accounting estimate.
+See Recently Adopted Accounting Pronouncements in Note 1- Basis of Presentation, to the Consolidated Condensed Financial Statements, for further information on the adoption of ASC 606.
+The Company issued performance condition-based awards in the second quarter ended September 30, 2018.
+The fair value of performance condition based awards are recognized as compensation expense beginning at the time in which the performance conditions are deemed probable of achievement, which the Company assesses at each reporting period.
+Once a performance condition is considered probable, the Company records compensation expense based on the portion of the service period elapsed to date with respect to that award, with a cumulative catch-up, net of estimated forfeitures, and recognize any remaining compensation expense, if any, over the remaining requisite service period using the straight method as the awards are subject to cliff vesting.
+See Note 11, Stock-Based Compensation, to the Consolidated Condensed Financial Statements, for further information.
 Liquidity and Capital Resources
 
-
-
-Operating activities provided cash of $84.0 million in the six months of fiscal 2019 compared to $45.5 million in the comparable period of fiscal 2018. In the six months of fiscal 2019, cash provided by operating activities was primarily from net earnings of $93.4 million, depreciation and amortization of $27.3 million, stock-based compensation of $9.1 million, non-cash charges relating to write-off of assets of $1.1 million, non-cash interest of $0.6 million and provision for deferred taxes of $0.8 million. Cash provided by earnings as adjusted for non-cash items were partially offset by the increase in primary working capital of $22.3 million, net of currency translation changes, and an outflow of $4.2 million relating to prepaid assets and $20.6 million relating to accrued expenses for income tax payments. 
-
-
-
-In the six months of fiscal 2018, cash provided by operating activities was primarily from net earnings of $91.5 million, depreciation and amortization of $26.6 million, stock-based compensation of $9.5 million, provision of doubtful accounts of $0.8 million and non-cash interest of $1.0 million. Cash provided by earnings as adjusted for non-cash items was partially offset by the increase in primary working capital of $46.8 million, net of currency translation changes, decrease in accrued expenses of $32.4 million, comprising primarily of legal proceedings related payments, payroll related expenses and income taxes and an increase in prepaid and other current assets of $5.4 million, comprising primarily of prepaid taxes.
-
-
-
-As explained in the discussion of our use of “non-GAAP financial measures,” we monitor the level and percentage of primary working capital to sales. Primary working capital for this purpose is trade accounts receivable, plus inventories, minus trade accounts payable. The resulting net amount is divided by the trailing three month net sales (annualized) to derive a primary working capital percentage. Primary working capital was $666.0 million (yielding a primary working capital percentage of 25.2%) at September 30, 2018, $701.6 million (yielding a primary working capital percentage of 25.7%) at March 31, 2018 and $690.2 million at October 1, 2017 (yielding a primary working capital percentage of 28.0%). The primary working capital percentage of 25.2% at September 30, 2018 is 50 basis points lower than that for March 31, 2018, and 280 basis points lower than that for the prior year period. Excluding the impact of certain reclasses relating to the adoption of ASC 606, primary working capital percentage was 26.0%, which is 30 basis points higher than that for March 31, 2018 and 200 basis points lower than that for the prior year period. The increase in primary working capital from March 31, 2018 is primarily due to inventories, on account of rising commodity costs and freight, and a longer supply chain on select products. The decrease in primary working capital from the prior year quarter of October 1, 2017 was due to increased annualized sales, as well as improvements in all three components of primary working capital.
-
-
-
-
-
-
-
+Operating activities provided cash of $84.0 million in the six months of fiscal 2019 compared to $45.5 million in the comparable period of fiscal 2018.
+In the six months of fiscal 2019, cash provided by operating activities was primarily from net earnings of $93.4 million, depreciation and amortization of $27.3 million, stock-based compensation of $9.1 million, non-cash charges relating to write-off of assets of $1.1 million, non-cash interest of $0.6 million and provision for deferred taxes of $0.8 million.
+Cash provided by earnings as adjusted for non-cash items were partially offset by the increase in primary working capital of $22.3 million, net of currency translation changes, and an outflow of $4.2 million relating to prepaid assets and $20.6 million relating to accrued expenses for income tax payments.
+In the six months of fiscal 2018, cash provided by operating activities was primarily from net earnings of $91.5 million, depreciation and amortization of $26.6 million, stock-based compensation of $9.5 million, provision of doubtful accounts of $0.8 million and non-cash interest of $1.0 million.
+Cash provided by earnings as adjusted for non-cash items was partially offset by the increase in primary working capital of $46.8 million, net of currency translation changes, decrease in accrued expenses of $32.4 million, comprising primarily of legal proceedings related payments, payroll related expenses and income taxes and an increase in prepaid and other current assets of $5.4 million, comprising primarily of prepaid taxes.
+As explained in the discussion of our use of “non-GAAP financial measures,” we monitor the level and percentage of primary working capital to sales.
+Primary working capital for this purpose is trade accounts receivable, plus inventories, minus trade accounts payable.
+The resulting net amount is divided by the trailing three month net sales (annualized) to derive a primary working capital percentage.
+Primary working capital was $666.0 million (yielding a primary working capital percentage of 25.2%) at September 30, 2018, $701.6 million (yielding a primary working capital percentage of 25.7%) at March 31, 2018 and $690.2 million at October 1, 2017 (yielding a primary working capital percentage of 28.0%).
+The primary working capital percentage of 25.2% at September 30, 2018 is 50 basis points lower than that for March 31, 2018, and 280 basis points lower than that for the prior year period.
+Excluding the impact of certain reclasses relating to the adoption of ASC 606, primary working capital percentage was 26.0%, which is 30 basis points higher than that for March 31, 2018 and 200 basis points lower than that for the prior year period.
+The increase in primary working capital from March 31, 2018 is primarily due to inventories, on account of rising commodity costs and freight, and a longer supply chain on select products.
+The decrease in primary working capital from the prior year quarter of October 1, 2017 was due to increased annualized sales, as well as improvements in all three components of primary working capital.
 Investing activities used cash of $35.3 million in the six months of fiscal 2019 and primarily consisted of capital expenditures relating to plant improvements.
-
-
-
 Investing activities used cash of $29.4 million in the six months of fiscal 2018 and primarily consisted of capital expenditures of $26.6 million, and a $3.0 million acquisition.
-
-
-
-Financing activities provided cash of $6.8 million in the six months of fiscal 2019. During the six months of fiscal 2019, we borrowed $84.5 million under the 2017 Revolver and repaid $65.0 million. Payment of cash dividends to our stockholders were $14.7 million and payment of taxes related to net share settlement of equity awards were $3.4 million. Proceeds from stock options were $8.3 million and net payments on short-term debt were $2.9 million. 
-
-
-
-Financing activities used cash of $8.3 million in the six months of fiscal 2018. During the second quarter of fiscal 2018, we entered into a 2017 Credit Facility and borrowed $343.5 million under the 2017 Revolver and $150.0 million under the 2018 Term loan. Repayments on the 2017 Revolver during the six months of fiscal 2018 were $58.3 million. Borrowings and repayments on the 2011 Revolver during the six months of fiscal 2018 were $147.1 million and $312.1 million, respectively, and repayment of the 2011 Term loan was $127.5 million. On August 4, 2017, the outstanding balance on the 2011 Revolver and the 2011 Term Loan of $240.0 million and $123.0 million, respectively, was repaid utilizing the proceeds from the 2017 Credit Facility. We also paid $100.0 million under an accelerated share repurchase agreement (“ASR”), which was settled on January 5, 2018, the scheduled settlement date for the ASR. Treasury stock open market purchases were $21.2 million, payment of cash dividends to our stockholders were $15.0 million, payment of taxes related to net share settlement of equity awards were $7.4 million and debt issuance costs were $2.7 million. Net repayments on short-term debt were $5.4 million and proceeds from stock options were $0.7 million. 
-
-
-
-Currency translation had a negative impact of $32.5 million on our cash balance in the six months of fiscal 2019 compared to a positive impact of $32.0 million in the six months of fiscal 2018. In the six months of fiscal 2019, principal currencies in which we do business such as the Euro, Swiss franc, British pound, Polish zloty, Chinese renminbi and Mexican peso weakened versus the U.S. dollar. 
-
-
-
+Financing activities provided cash of $6.8 million in the six months of fiscal 2019.
+During the six months of fiscal 2019, we borrowed $84.5 million under the 2017 Revolver and repaid $65.0 million.
+Payment of cash dividends to our stockholders were $14.7 million and payment of taxes related to net share settlement of equity awards were $3.4 million.
+Proceeds from stock options were $8.3 million and net payments on short-term debt were $2.9 million.
+Financing activities used cash of $8.3 million in the six months of fiscal 2018.
+During the second quarter of fiscal 2018, we entered into a 2017 Credit Facility and borrowed $343.5 million under the 2017 Revolver and $150.0 million under the 2018 Term loan.
+Repayments on the 2017 Revolver during the six months of fiscal 2018 were $58.3 million.
+Borrowings and repayments on the 2011 Revolver during the six months of fiscal 2018 were $147.1 million and $312.1 million, respectively, and repayment of the 2011 Term loan was $127.5 million.
+On August 4, 2017, the outstanding balance on the 2011 Revolver and the 2011 Term Loan of $240.0 million and $123.0 million, respectively, was repaid utilizing the proceeds from the 2017 Credit Facility.
+We also paid $100.0 million under an accelerated share repurchase agreement (“ASR”), which was settled on January 5, 2018, the scheduled settlement date for the ASR.
+Treasury stock open market purchases were $21.2 million, payment of cash dividends to our stockholders were $15.0 million, payment of taxes related to net share settlement of equity awards were $7.4 million and debt issuance costs were $2.7 million.
+Net repayments on short-term debt were $5.4 million and proceeds from stock options were $0.7 million.
+Currency translation had a negative impact of $32.5 million on our cash balance in the six months of fiscal 2019 compared to a positive impact of $32.0 million in the six months of fiscal 2018.
+In the six months of fiscal 2019, principal currencies in which we do business such as the Euro, Swiss franc, British pound, Polish zloty, Chinese renminbi and Mexican peso weakened versus the U.S. dollar.
 As a result of the above, total cash and cash equivalents increased by $23.1 million to $545.2 million, in the six months of fiscal 2019 compared to an increase by $39.8 million to $540.1 million, in the comparable period of fiscal 2018.
-
-
-
-All obligations under our 2017 Credit Facility are secured by, among other things, substantially all of our U.S. assets. The 2017 Credit Facility contains various covenants which, absent prepayment in full of the indebtedness and other obligations, or the receipt of waivers, limit our ability to conduct certain specified business transactions, buy or sell assets out of the ordinary course of business, engage in sale and leaseback transactions, pay dividends and take certain other actions. There are no prepayment penalties on loans under this credit facility.
-
-
-
-We are in compliance with all covenants and conditions under our credit agreement and our 5.00% Senior Notes due 2023. We believe that we will continue to comply with these covenants and conditions, and that we have the financial resources and the capital available to fund the foreseeable organic growth in our business and to remain active in pursuing further acquisition opportunities. See Note 8 to the Consolidated Financial Statements included in our 2018 Annual Report and Note 9 to the Consolidated Condensed Financial Statements included in this Quarterly Report on Form 10-Q for a detailed description of our debt.
-
-
-
+All obligations under our 2017 Credit Facility are secured by, among other things, substantially all of our U.S. assets.
+The 2017 Credit Facility contains various covenants which, absent prepayment in full of the indebtedness and other obligations, or the receipt of waivers, limit our ability to conduct certain specified business transactions, buy or sell assets out of the ordinary course of business, engage in sale and leaseback transactions, pay dividends and take certain other actions.
+There are no prepayment penalties on loans under this credit facility.
+We are in compliance with all covenants and conditions under our credit agreement and our 5.00% Senior Notes due 2023.
+We believe that we will continue to comply with these covenants and conditions, and that we have the financial resources and the capital available to fund the foreseeable organic growth in our business and to remain active in pursuing further acquisition opportunities.
+See Note 8 to the Consolidated Financial Statements included in our 2018 Annual Report and Note 9 to the Consolidated Condensed Financial Statements included in this Quarterly Report on Form 10-Q for a detailed description of our debt.
 Contractual Obligations and Commercial Commitments
 
-
-
-A table of our obligations is contained in Part II, Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations — Contractual Obligations of our 2018 Annual Report for the year ended March 31, 2018. As of September 30, 2018, we had no significant changes to our contractual obligations table contained in our 2018 Form 10-K.
-
-
-
+A table of our obligations is contained in Part II, Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations — Contractual Obligations of our 2018 Annual Report for the year ended March 31, 2018.
+As of September 30, 2018, we had no significant changes to our contractual obligations table contained in our 2018 Form 10-K.
 Item 2.Unregistered Sales of Equity Securities and Use of Proceeds
-
-
 
  Purchases of Equity Securities by the Issuer and Affiliated Purchasers
 
-
-
-The following table summarizes the number of shares of common stock we purchased from participants in our equity incentive plans as well as repurchases of common stock authorized by the Board of Directors. As provided by the Company’s equity incentive plans, (a) vested options outstanding may be exercised through surrender to the Company of option shares or vested options outstanding under the Company’s equity incentive plans to satisfy the applicable aggregate exercise price (and any withholding tax) required to be paid upon such exercise and (b) the withholding tax requirements related to the vesting and settlement of restricted stock units and market condition-based share units may be satisfied by the surrender of shares of the Company’s common stock.
-
-
-
+The following table summarizes the number of shares of common stock we purchased from participants in our equity incentive plans as well as repurchases of common stock authorized by the Board of Directors.
+As provided by the Company’s equity incentive plans, (a) vested options outstanding may be exercised through surrender to the Company of option shares or vested options outstanding under the Company’s equity incentive plans to satisfy the applicable aggregate exercise price (and any withholding tax) required to be paid upon such exercise and (b) the withholding tax requirements related to the vesting and settlement of restricted stock units and market condition-based share units may be satisfied by the surrender of shares of the Company’s common stock.
 Purchases of Equity Securities
-
-
-
-
-
 
 
 
 
 Item 4.Mine Safety Disclosures
 
-
-
 Not applicable.
-
-
-
 ITEM 6.EXHIBITS
-
-
-
 
 
 SIGNATURES
 
-
-
 Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
-
-
-
 ENERSYS (Registrant) 
-
-
-
 
 
  Michael J. Schmidtlein
 
-
-
  Chief Financial Officer
-
-
-
-
-

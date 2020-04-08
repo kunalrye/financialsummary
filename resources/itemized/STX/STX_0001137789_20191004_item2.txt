@@ -1,103 +1,62 @@
 ITEM 2.MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
 
-
-
- The following is a discussion of the financial condition, changes in financial condition, and results of operations for our fiscal quarters ended October 4, 2019, June 28, 2019 and September 28, 2018, referred to herein as the “September 2019 quarter,” the “June 2019 quarter,” and the “September 2018 quarter,” respectively. We operate and report financial results on a fiscal year of 52 or 53 weeks ending on the Friday closest to June 30. The September 2019 quarter was 14 weeks and the June 2019 quarter and September 2018 quarter were each 13 weeks.
-
-
-
- You should read this discussion in conjunction with financial information and related notes included elsewhere in this report. Unless the context indicates otherwise, as used herein, the terms “we,” “us,” “Seagate,” the “Company” and “our” refer to Seagate Technology plc, an Irish public limited company, and its subsidiaries. References to “$” are to United States dollars.
-
-
-
-This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 or Section 21E of the Securities Exchange Act of 1934, each as amended, including, among other things, statements about our plans, strategies and prospects, market demand for our products, shifts in technology, estimates of industry growth, our ability to effectively manage our debt obligations and our cash liquidity position, our restructuring efforts, the sufficiency of our sources of cash to meet our cash needs for the next 12 months and our expectations regarding capital expenditures and projected cost savings for the fiscal year ending July 3, 2020. These statements identify prospective information and may include words such as “expects,” “intends,” “plans,” “anticipates,” “believes,” “estimates,” “predicts,” “projects,” “may,” “will,”, “will continue,” “can,” “could,” or negative of these words, variations of these words and comparable terminology. These forward-looking statements are based on information available to the Company as of the date of this Quarterly Report on Form 10-Q and are based on management’s current views and assumptions. These forward-looking statements are conditioned upon and also involve a number of known and unknown risks, uncertainties and other factors that could cause actual results, performance or events to differ materially from those anticipated by these forward-looking statements. Such risks, uncertainties and other factors may be beyond our control and may pose a risk to our operating and financial condition. Such risks and uncertainties include, but are not limited to:
-
-
+ The following is a discussion of the financial condition, changes in financial condition, and results of operations for our fiscal quarters ended October 4, 2019, June 28, 2019 and September 28, 2018, referred to herein as the “September 2019 quarter,” the “June 2019 quarter,” and the “September 2018 quarter,” respectively.
+We operate and report financial results on a fiscal year of 52 or 53 weeks ending on the Friday closest to June 30.
+The September 2019 quarter was 14 weeks and the June 2019 quarter and September 2018 quarter were each 13 weeks.
+You should read this discussion in conjunction with financial information and related notes included elsewhere in this report.
+Unless the context indicates otherwise, as used herein, the terms “we,” “us,” “Seagate,” the “Company” and “our” refer to Seagate Technology plc, an Irish public limited company, and its subsidiaries.
+References to “$” are to United States dollars.
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 or Section 21E of the Securities Exchange Act of 1934, each as amended, including, among other things, statements about our plans, strategies and prospects, market demand for our products, shifts in technology, estimates of industry growth, our ability to effectively manage our debt obligations and our cash liquidity position, our restructuring efforts, the sufficiency of our sources of cash to meet our cash needs for the next 12 months and our expectations regarding capital expenditures and projected cost savings for the fiscal year ending July 3, 2020.
+These statements identify prospective information and may include words such as “expects,” “intends,” “plans,” “anticipates,” “believes,” “estimates,” “predicts,” “projects,” “may,” “will,”, “will continue,” “can,” “could,” or negative of these words, variations of these words and comparable terminology.
+These forward-looking statements are based on information available to the Company as of the date of this Quarterly Report on Form 10-Q and are based on management’s current views and assumptions.
+These forward-looking statements are conditioned upon and also involve a number of known and unknown risks, uncertainties and other factors that could cause actual results, performance or events to differ materially from those anticipated by these forward-looking statements.
+Such risks, uncertainties and other factors may be beyond our control and may pose a risk to our operating and financial condition.
+Such risks and uncertainties include, but are not limited to:
 
 •addressing the many challenges facing the Company’s business;
 
-
-
 •the uncertainty in global economic and political conditions;
-
-
 
 •the development and introduction of products based on new technologies and expansion into new data storage markets, and market acceptance of new products;
 
-
-
 •the impact of competitive product announcements and unexpected advances in competing technologies or changes in market trends;
-
-
 
 •the impact of variable demand, changes in market demand, and an adverse pricing environment for storage products;
 
-
-
 •the Company’s ability to effectively manage its debt obligations and comply with certain covenants in its credit facilities with respect to financial ratios and financial condition tests and its ability to maintain a favorable cash liquidity position;
-
-
 
 •the Company’s ability to successfully qualify, manufacture and sell its storage products in increasing volumes on a cost-effective basis and with acceptable quality;
 
-
-
 •any price erosion or volatility of sales volumes through the Company’s distributor and retail channel;
 
-
-
 •disruptions to the Company’s supply chain or production capabilities;
-
-
 
 •currency fluctuations that may impact the Company’s margins, international sales and results of operations;
 
 
-
-
-
 •the evolving legal, regulatory and administrative climate in the international markets where the Company operates; and
 
-
-
 •cyber-attacks or other data breaches that disrupt the Company’s operations or result in the dissemination of proprietary or confidential information and cause reputational harm.
-
-
-
-Information concerning these and other risks, uncertainties and factors, among others, that could cause results to differ materially from our expectations are described in this Quarterly Report on Form 10-Q and in “Item 1A. Risk Factors” of our Annual Report on Form 10-K for the fiscal year ended June 28, 2019, which we encourage you to carefully read. These forward-looking statements should not be relied upon as representing our views as of any date subsequent to the date on which they were made and we undertake no obligation to update forward-looking statements except as required by law.
-
-
-
-
-
-
-
-•Liquidity and Capital Resources. An analysis of changes in our balance sheet and cash flows, and discussion of our financial condition including the credit quality of our investment portfolio and potential sources of liquidity.
-
-
-
-•Critical Accounting Policies. Accounting policies and estimates that we believe are important to understanding the assumptions and judgments incorporated in our reported financial results.
-
-
-
-For an overview of our business, see “Part I, Item 1. Financial Statements—Note 1. Basis of Presentation and Summary of Significant Accounting Policies—Organization”
-
-
+Information concerning these and other risks, uncertainties and factors, among others, that could cause results to differ materially from our expectations are described in this Quarterly Report on Form 10-Q and in “Item 1A.
+Risk Factors” of our Annual Report on Form 10-K for the fiscal year ended June 28, 2019, which we encourage you to carefully read.
+These forward-looking statements should not be relied upon as representing our views as of any date subsequent to the date on which they were made and we undertake no obligation to update forward-looking statements except as required by law.
+•Liquidity and Capital Resources.
+An analysis of changes in our balance sheet and cash flows, and discussion of our financial condition including the credit quality of our investment portfolio and potential sources of liquidity.
+•Critical Accounting Policies.
+Accounting policies and estimates that we believe are important to understanding the assumptions and judgments incorporated in our reported financial results.
+For an overview of our business, see “Part I, Item 1.
+Financial Statements—Note 1.
+Basis of Presentation and Summary of Significant Accounting Policies—Organization”
 
 Overview of the September 2019 quarter
 
-
-
-During the September 2019 quarter, we shipped 98 exabytes of HDD storage capacity. We generated revenue of approximately $2.6 billion, gross margin of 26% and our operating cash flow was $456 million. We repurchased an aggregate principal amount of $620 million of certain outstanding senior notes in connection with the Tender Offers and borrowed $500 million under the Term Loan. We repurchased approximately 9 million of our ordinary shares for $450 million and paid $170 million in dividends. Additionally, we changed our estimate of the useful lives of our manufacturing equipment from a range of three to five years to a range of three to seven years. The effect of this change in estimate increased the September 2019 quarter net income by $23 million. 
-
-
-
+During the September 2019 quarter, we shipped 98 exabytes of HDD storage capacity.
+We generated revenue of approximately $2.6 billion, gross margin of 26% and our operating cash flow was $456 million.
+We repurchased an aggregate principal amount of $620 million of certain outstanding senior notes in connection with the Tender Offers and borrowed $500 million under the Term Loan.
+We repurchased approximately 9 million of our ordinary shares for $450 million and paid $170 million in dividends.
+Additionally, we changed our estimate of the useful lives of our manufacturing equipment from a range of three to five years to a range of three to seven years.
+The effect of this change in estimate increased the September 2019 quarter net income by $23 million.
 Results of Operations
-
-
-
-
-
 
 
 
@@ -106,273 +65,129 @@ Revenue
 
 
 
-
-
-
-
 Revenue in the September 2019 quarter increased by $207 million from the June 2019 quarter primarily due to an increase in exabytes shipped and improved product mix, partially offset by price erosion.
-
-
-
 Revenue in the September 2019 quarter decreased by $413 million from the September 2018 quarter primarily due to less favorable market conditions and price erosion.
-
-
-
-We maintain various sales incentive programs such as channel rebates and price masking. Sales incentive programs were approximately 13%, 11% and 11% of gross HDD revenue for the September 2019 quarter, June 2019 quarter and September 2018 quarter, respectively. Adjustments to revenues due to under or over accruals for sales incentive programs related to revenues reported in prior quarterly periods were less than 1% of quarterly gross revenue in all periods presented.
-
-
-
+We maintain various sales incentive programs such as channel rebates and price masking.
+Sales incentive programs were approximately 13%, 11% and 11% of gross HDD revenue for the September 2019 quarter, June 2019 quarter and September 2018 quarter, respectively.
+Adjustments to revenues due to under or over accruals for sales incentive programs related to revenues reported in prior quarterly periods were less than 1% of quarterly gross revenue in all periods presented.
 Cost of Revenue and Gross Margin  
 
 
-
-
-
 Gross margin as a percentage of revenue for the September 2019 quarter remained relatively flat compared to the June 2019 quarter.
-
-
-
 Compared to the September 2018 quarter, gross margin as a percentage of revenue for the September 2019 quarter decreased primarily driven by price erosion and factory under-utilization.
-
-
-
-In the September 2019 quarter, total warranty cost was 0.5% of revenue and included a favorable change in estimates of prior warranty accruals of 0.4% of revenue due to improvements in return rates on newer generation products. Warranty cost related to new shipments was 0.9%, 0.9% and 1.2% of revenue for the September 2019 quarter, June 2019 quarter and September 2018 quarter, respectively.
-
-
-
+In the September 2019 quarter, total warranty cost was 0.5% of revenue and included a favorable change in estimates of prior warranty accruals of 0.4% of revenue due to improvements in return rates on newer generation products.
+Warranty cost related to new shipments was 0.9%, 0.9% and 1.2% of revenue for the September 2019 quarter, June 2019 quarter and September 2018 quarter, respectively.
 Operating Expenses
 
 
-
-
-
-Product development expense. Product development expense for the September 2019 quarter increased by $14 million compared to the June 2019 quarter due to a $14 million increase in compensation and other employee benefits resulting primarily from the additional fourteenth week in the September 2019 quarter. 
-
-
-
-Compared to the September 2018 quarter, Product development expense for the September 2019 quarter decreased by $11 million primarily due to a $10 million decrease in other general expenses as a result of timing of materials purchases and a $5 million decrease in variable compensation expense, partially offset by an increase in expense from the additional fourteenth week in the September 2019 quarter. 
-
-
-
-Marketing and administrative expense. Marketing and administrative expense for the September 2019 quarter increased by $14 million from the June 2019 quarter, primarily due to a $9 million increase in other general expenses as a result of increased outside services, a $2 million increase in variable compensation expense and a $2 million increase in compensation and other employee benefits mainly resulting from the additional fourteenth week in the September 2019 quarter. 
-
-
-
+Product development expense.
+Product development expense for the September 2019 quarter increased by $14 million compared to the June 2019 quarter due to a $14 million increase in compensation and other employee benefits resulting primarily from the additional fourteenth week in the September 2019 quarter.
+Compared to the September 2018 quarter, Product development expense for the September 2019 quarter decreased by $11 million primarily due to a $10 million decrease in other general expenses as a result of timing of materials purchases and a $5 million decrease in variable compensation expense, partially offset by an increase in expense from the additional fourteenth week in the September 2019 quarter.
+Marketing and administrative expense.
+Marketing and administrative expense for the September 2019 quarter increased by $14 million from the June 2019 quarter, primarily due to a $9 million increase in other general expenses as a result of increased outside services, a $2 million increase in variable compensation expense and a $2 million increase in compensation and other employee benefits mainly resulting from the additional fourteenth week in the September 2019 quarter.
 Compared to the September 2018 quarter, Marketing and administrative expense for the September 2019 quarter increased by $7 million, primarily due to a $4 million increase in share-based compensation expense and a $4 million increase in other general expenses mainly as a result of increased outside services and increase in expense from the additional fourteenth week in the September 2019 quarter.
-
-
-
-Amortization of intangibles. Amortization of intangibles for the September 2019 quarter decreased by $2 million from the June 2019 quarter and the September 2018 quarter due to certain intangible assets reaching the end of their useful lives.
-
-
-
-Restructuring and other, net. Restructuring and other, net for the September 2019 quarter was comprised of charges primarily related to a new voluntary early exit program.
-
-
-
+Amortization of intangibles.
+Amortization of intangibles for the September 2019 quarter decreased by $2 million from the June 2019 quarter and the September 2018 quarter due to certain intangible assets reaching the end of their useful lives.
+Restructuring and other, net.
+Restructuring and other, net for the September 2019 quarter was comprised of charges primarily related to a new voluntary early exit program.
 Restructuring and other, net for the June 2019 quarter was comprised primarily of a gain from the sale of certain property.
-
-
-
 Restructuring and other, net for the September 2018 quarter was comprised of charges primarily related to a voluntary early exit program.
-
-
-
 Other Expense, Net 
 
 
-
-
-
-Other expense, net. Other expense, net for the September 2019 quarter increased by $34 million from the June 2019 quarter, primarily due to a $30 million loss resulting from the repurchase of certain long-term debt and a $5 million decrease in interest income mainly resulting from the redemption of our investment in Toshiba Memory Holdings Corporation (“TMHC”) in the June 2019 quarter.
-
-
-
+Other expense, net.
+Other expense, net for the September 2019 quarter increased by $34 million from the June 2019 quarter, primarily due to a $30 million loss resulting from the repurchase of certain long-term debt and a $5 million decrease in interest income mainly resulting from the redemption of our investment in Toshiba Memory Holdings Corporation (“TMHC”) in the June 2019 quarter.
 Compared to the September 2018 quarter, Other expense, net for the September 2019 quarter increased by $40 million primarily due to a $30 million loss resulting from the repurchase of certain long-term debt and an $11 million decrease in interest income mainly resulting from the redemption of our investment in TMHC in the June 2019 quarter.
-
-
-
 Income Taxes 
 
 
-
-
-
-Our income tax benefit of $2 million for the three months ended October 4, 2019 included approximately $11 million of net discrete tax benefit of which $8 million was associated with net excess tax benefits related to share-based compensation expense. 
-
-
-
-Our income tax provision recorded for the three months ended October 4, 2019 differed from the provision for income taxes that would be derived by applying the Irish statutory rate of 25% to income before income taxes, primarily due to the net effect of tax benefits related to (i) non-Irish earnings generated in jurisdictions that are subject to tax incentive programs and are considered indefinitely reinvested outside of Ireland and (ii) current year generation of research credits. 
-
-
-
-During the three months ended October 4, 2019, our unrecognized tax benefits excluding interest and penalties increased by approximately $2 million to $85 million. The unrecognized tax benefits that, if recognized, would impact the effective tax rate were $85 million at October 4, 2019, subject to certain future valuation allowance reversals. During the 12 months beginning October 5, 2019, we expect that our unrecognized tax benefits could be reduced by an immaterial amount, as a result of expected cash payments to tax authorities.
-
-
-
+Our income tax benefit of $2 million for the three months ended October 4, 2019 included approximately $11 million of net discrete tax benefit of which $8 million was associated with net excess tax benefits related to share-based compensation expense.
+Our income tax provision recorded for the three months ended October 4, 2019 differed from the provision for income taxes that would be derived by applying the Irish statutory rate of 25% to income before income taxes, primarily due to the net effect of tax benefits related to (i) non-Irish earnings generated in jurisdictions that are subject to tax incentive programs and are considered indefinitely reinvested outside of Ireland and (ii) current year generation of research credits.
+During the three months ended October 4, 2019, our unrecognized tax benefits excluding interest and penalties increased by approximately $2 million to $85 million.
+The unrecognized tax benefits that, if recognized, would impact the effective tax rate were $85 million at October 4, 2019, subject to certain future valuation allowance reversals.
+During the 12 months beginning October 5, 2019, we expect that our unrecognized tax benefits could be reduced by an immaterial amount, as a result of expected cash payments to tax authorities.
 Our income tax provision of $18 million for the three months ended September 28, 2018 included approximately $1 million of net discrete tax expense.
-
-
-
 Our income tax provision recorded for the three months ended September 28, 2018 differed from the provision from income taxes that would be derived by applying the Irish statutory rate of 25% to income before income taxes, primarily due to the net effect of (i) tax benefits related to non-Irish earnings generated in jurisdictions that are subject to tax holidays or tax incentive programs and are considered indefinitely reinvested outside of Ireland and (ii) a decrease in valuation allowance for certain deferred tax assets.
-
-
-
 Liquidity and Capital Resources
-
-
-
 
 
 Cash and Cash Equivalents
 
 
-
-
-
 Our cash and cash equivalents as of October 4, 2019 decreased by $436 million from June 28, 2019 primarily as a result of the repurchase of certain senior notes of $645 million for $620 million in aggregate principal amount, repurchases of our ordinary shares of $450 million, dividends to our shareholders of $170 million, and payments for capital expenditures of $147 million, partially offset by net proceeds of $498 million from borrowings under our Term Loan and net cash of $456 million provided by operating activities.
-
-
-
 Cash Provided by Operating Activities
-
-
-
 
 
 •an increase of $281 million in accounts payable, primarily due to timing of payments and an increase in materials purchases; 
 
-
-
 •partially offset by an increase of $77 million in accounts receivable, primarily due to timing of collections and an increase in revenue;
-
-
 
 •an increase of $65 million in inventories, primarily due to an increase in material purchases; and
 
-
-
 •a decrease of $20 million in accrued employee compensation primarily due to cash paid to our employees as part of our discretionary spending plans.
-
-
-
 Cash Used in Investing Activities
 
-
-
 Cash used in investing activities for the three months ended October 4, 2019 was $151 million, primarily attributable to the payments for the purchase of property, equipment and leasehold improvements of $147 million.
-
-
-
 Cash Used in Financing Activities
-
-
-
 
 
 •$645 million in payments for repurchase of certain long-term debt;
 
-
-
 •$450 million in payments for repurchase of our ordinary shares;
-
-
 
 •$170 million in dividend payments;
 
-
-
 •$37 million in payments for taxes related to net share settlement of equity awards;
-
-
 
 •partially offset by $498 million in net proceeds from the borrowing under the Term Loan; and
 
-
-
 •$39 million in proceeds from the issuance of ordinary shares under employee stock plans.
-
-
-
 Liquidity Sources, Cash Requirements and Commitments
 
 
-
-
-
-On September 17, 2019, we borrowed a principal amount of $500 million under the Term Loan and the proceeds were used to repurchase a portion of our outstanding senior notes. The Term Loan bears interest at a rate of LIBOR plus a variable margin determined based on our corporate credit rating. The Term Loan is repayable in quarterly installments of 1.25% of the original principal amount beginning on December 31, 2020, with the remaining balance payable upon maturity on September 16, 2025.
-
-
-
-As of October 4, 2019, no borrowings had been drawn and no borrowings had been utilized for letters of credit or swing line loans issued under the Revolving Credit Facility. The Revolving Credit Facility is available for borrowings, subject to compliance with financial covenants and other customary conditions to borrowing. 
-
-
-
-
-
-Our liquidity requirements are primarily to meet our working capital, product development and capital expenditure needs, to fund scheduled payments of principal and interest on our indebtedness, and to fund our quarterly dividend and any future strategic investments. Our ability to fund these requirements will depend on our future cash flows, which are determined by future operating performance, and therefore, subject to prevailing global macroeconomic conditions and financial, business and other factors, some of which are beyond our control.
-
-
-
+On September 17, 2019, we borrowed a principal amount of $500 million under the Term Loan and the proceeds were used to repurchase a portion of our outstanding senior notes.
+The Term Loan bears interest at a rate of LIBOR plus a variable margin determined based on our corporate credit rating.
+The Term Loan is repayable in quarterly installments of 1.25% of the original principal amount beginning on December 31, 2020, with the remaining balance payable upon maturity on September 16, 2025.
+As of October 4, 2019, no borrowings had been drawn and no borrowings had been utilized for letters of credit or swing line loans issued under the Revolving Credit Facility.
+The Revolving Credit Facility is available for borrowings, subject to compliance with financial covenants and other customary conditions to borrowing.
+Our liquidity requirements are primarily to meet our working capital, product development and capital expenditure needs, to fund scheduled payments of principal and interest on our indebtedness, and to fund our quarterly dividend and any future strategic investments.
+Our ability to fund these requirements will depend on our future cash flows, which are determined by future operating performance, and therefore, subject to prevailing global macroeconomic conditions and financial, business and other factors, some of which are beyond our control.
 For fiscal year 2020, we expect capital expenditures to remain within our long-term targeted range of 6% to 8% of revenue.
-
-
-
-From time to time we may repurchase any of our outstanding notes in open market or privately negotiated purchases or otherwise, or we may repurchase outstanding notes pursuant to the terms of the applicable indenture. 
-
-
-
-Dividends declared in the September 2019 quarter of $165 million were subsequently paid on October 9, 2019. Our Board of Directors declared a quarterly cash dividend of $0.65 per share on October 28, 2019, which is payable on January 8, 2020 to shareholders of record at the close of business on December 26, 2019. 
-
-
-
-From time to time, we may repurchase any of our outstanding ordinary shares through tender offers, private, open market or broker-assisted purchases or other means. As of October 4, 2019, $1.7 billion remained available for repurchases under our existing repurchase authorization. All repurchases are effected as redemptions in accordance with our Articles of Association. 
-
-
-
+From time to time we may repurchase any of our outstanding notes in open market or privately negotiated purchases or otherwise, or we may repurchase outstanding notes pursuant to the terms of the applicable indenture.
+Dividends declared in the September 2019 quarter of $165 million were subsequently paid on October 9, 2019.
+Our Board of Directors declared a quarterly cash dividend of $0.65 per share on October 28, 2019, which is payable on January 8, 2020 to shareholders of record at the close of business on December 26, 2019.
+From time to time, we may repurchase any of our outstanding ordinary shares through tender offers, private, open market or broker-assisted purchases or other means.
+As of October 4, 2019, $1.7 billion remained available for repurchases under our existing repurchase authorization.
+All repurchases are effected as redemptions in accordance with our Articles of Association.
 Critical Accounting Policies
 
-
-
-Our discussion and analysis of financial condition and results of operations are based upon our condensed consolidated financial statements, which have been prepared in accordance with U.S. generally accepted accounting principles. The preparation of such statements requires us to make estimates and assumptions that affect the reported amounts of revenues and expenses during the reporting period and the reported amounts of assets and liabilities as of the date of the financial statements. Our estimates are based on historical experience and other assumptions that we consider to be appropriate in the circumstances. However, actual future results may vary from our estimates.
-
-
-
-Other than as described in “Part I, Item 1. Financial Statements—Note 1. Basis of Presentation and Summary of Significant Accounting Policies”, there have been no other material changes in our critical accounting policies and estimates. Refer to “Management’s Discussion and Analysis of Financial Condition and Results of Operations” contained in Part II, Item 7. of our Annual Report on Form 10-K for the fiscal year ended June 28, 2019, as filed with the SEC on August 2, 2019, for a discussion of our critical accounting policies and estimates.
-
-
-
+Our discussion and analysis of financial condition and results of operations are based upon our condensed consolidated financial statements, which have been prepared in accordance with U.S. generally accepted accounting principles.
+The preparation of such statements requires us to make estimates and assumptions that affect the reported amounts of revenues and expenses during the reporting period and the reported amounts of assets and liabilities as of the date of the financial statements.
+Our estimates are based on historical experience and other assumptions that we consider to be appropriate in the circumstances.
+However, actual future results may vary from our estimates.
+Other than as described in “Part I, Item 1.
+Financial Statements—Note 1.
+Basis of Presentation and Summary of Significant Accounting Policies”, there have been no other material changes in our critical accounting policies and estimates.
+Refer to “Management’s Discussion and Analysis of Financial Condition and Results of Operations” contained in Part II, Item 7. of our Annual Report on Form 10-K for the fiscal year ended June 28, 2019, as filed with the SEC on August 2, 2019, for a discussion of our critical accounting policies and estimates.
 Recent Accounting Pronouncements
 
-
-
-See “Part I, Item 1. Financial Statements—Note 1. Basis of Presentation and Summary of Significant Accounting Policies” for information regarding the effect of new accounting pronouncements on our financial statements.
-
-
-
+See “Part I, Item 1.
+Financial Statements—Note 1.
+Basis of Presentation and Summary of Significant Accounting Policies” for information regarding the effect of new accounting pronouncements on our financial statements.
 ITEM 2.UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
-
-
 
 Repurchase of Equity Securities
 
+All repurchases of our outstanding ordinary shares are effected as redemptions in accordance with STX’s Articles of Association.
+As of October 4, 2019, $1.7 billion remained available for repurchases under the existing repurchase authorization.
+There is no expiration date on this authorization.
+ITEM 5.OTHER INFORMATION 
+
+ Not applicable.
+ITEM 6.EXHIBITS
 
 
-All repurchases of our outstanding ordinary shares are effected as redemptions in accordance with STX’s Articles of Association. 
+† The certifications attached as Exhibit 32.1 that accompany this Quarterly Report on Form 10-Q are not deemed filed with the Securities and Exchange Commission and are not to be incorporated by reference into any filing of Seagate Technology plc under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, whether made before or after the date of this Form 10-Q, irrespective of any general incorporation language contained in such filing.
+SIGNATURES
 
-
-
-As of October 4, 2019, $1.7 billion remained available for repurchases under the existing repurchase authorization. There is no expiration date on this authorization. 
-
-
-
-
-
-
-
-
-
-
-
-
-
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.

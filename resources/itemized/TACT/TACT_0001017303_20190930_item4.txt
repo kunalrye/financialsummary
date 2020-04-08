@@ -1,106 +1,79 @@
- Item 4.  CONTROLS AND PROCEDURES      
-
-
+Item 4.
+CONTROLS AND PROCEDURES      
 
 Evaluation of Disclosure Controls and Procedures 
 
-
-
-Our management, with the participation of our Chief Executive Officer (“CEO”) and Chief Financial Officer (“CFO”) (our principal executive officer and principal financial officer, respectively), evaluated the effectiveness of our disclosure controls and procedures as of September 30, 2019. The term “disclosure controls and procedures,” as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, means controls and other procedures of a company that are designed to provide reasonable assurance that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the rules and forms of the Securities and Exchange Commission (the “SEC”). Disclosure controls and procedures include, without limitation, controls and procedures designed to provide reasonable assurance that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to the company’s management, including its principal executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosure. Management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives, and management necessarily applies its judgment in evaluating the cost-benefit relationship of possible controls and procedures. 
-
-
-
-At the time that (i) our Annual Report on Form 10-K for the year ended December 31, 2018 was filed on March 18, 2019, (ii) our Quarterly Report on Form 10-Q for the quarter ended March 31, 2019 was filed on May 10, 2019, and (iii) our Quarterly Report on Form 10-Q for the quarter ended June 30, 2019 was filed on August 8, 2019, our management, including our CEO and CFO, concluded that our disclosure controls and procedures were effective as of December 31, 2018, March 31, 2019, and June 30, 2019, respectively. Subsequently, our management, including our CEO and CFO, reevaluated the effectiveness of our disclosure controls and procedures and concluded that our disclosure controls and procedures were not effective as of December 31, 2018, March 31, 2019, and June 30, 2019, and continue to not be effective as of September 30, 2019 due to material weaknesses in our internal control over financial reporting as described below. 
-
-
-
-Notwithstanding these material weaknesses, our management, including our CEO and CFO, has concluded that our consolidated financial statements included in our Annual Report on Form 10-K for the year ended December 31, 2018 and our condensed consolidated financial statements included in our Quarterly Reports on Form 10-Q for the quarters ended March 31, 2019 and June 30, 2019, as previously filed with the SEC, and the condensed consolidated financial statements included in this Quarterly Report on Form 10-Q are fairly stated in all material respects in accordance with GAAP for each of the periods presented, and that they can still be relied upon. 
-
-
-
-We will be amending our Annual Report on Form 10-K for the year ended December 31, 2018 to reflect the conclusion by management that our internal control over financial reporting and disclosure controls and procedures were not effective as of December 31, 2018. 
-
-
-
-
-
+Our management, with the participation of our Chief Executive Officer (“CEO”) and Chief Financial Officer (“CFO”) (our principal executive officer and principal financial officer, respectively), evaluated the effectiveness of our disclosure controls and procedures as of September 30, 2019.
+The term “disclosure controls and procedures,” as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, means controls and other procedures of a company that are designed to provide reasonable assurance that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the rules and forms of the Securities and Exchange Commission (the “SEC”).
+Disclosure controls and procedures include, without limitation, controls and procedures designed to provide reasonable assurance that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to the company’s management, including its principal executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosure.
+Management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives, and management necessarily applies its judgment in evaluating the cost-benefit relationship of possible controls and procedures.
+At the time that (i) our Annual Report on Form 10-K for the year ended December 31, 2018 was filed on March 18, 2019, (ii) our Quarterly Report on Form 10-Q for the quarter ended March 31, 2019 was filed on May 10, 2019, and (iii) our Quarterly Report on Form 10-Q for the quarter ended June 30, 2019 was filed on August 8, 2019, our management, including our CEO and CFO, concluded that our disclosure controls and procedures were effective as of December 31, 2018, March 31, 2019, and June 30, 2019, respectively.
+Subsequently, our management, including our CEO and CFO, reevaluated the effectiveness of our disclosure controls and procedures and concluded that our disclosure controls and procedures were not effective as of December 31, 2018, March 31, 2019, and June 30, 2019, and continue to not be effective as of September 30, 2019 due to material weaknesses in our internal control over financial reporting as described below.
+Notwithstanding these material weaknesses, our management, including our CEO and CFO, has concluded that our consolidated financial statements included in our Annual Report on Form 10-K for the year ended December 31, 2018 and our condensed consolidated financial statements included in our Quarterly Reports on Form 10-Q for the quarters ended March 31, 2019 and June 30, 2019, as previously filed with the SEC, and the condensed consolidated financial statements included in this Quarterly Report on Form 10-Q are fairly stated in all material respects in accordance with GAAP for each of the periods presented, and that they can still be relied upon.
+We will be amending our Annual Report on Form 10-K for the year ended December 31, 2018 to reflect the conclusion by management that our internal control over financial reporting and disclosure controls and procedures were not effective as of December 31, 2018.
 Material Weaknesses in Internal Control Over Financial Reporting 
 
-
-
-We identified the following control deficiencies that constituted material weaknesses in our internal control over financial reporting as of September 30, 2019. We also determined that these material weaknesses existed as of December 31, 2018, March 31, 2019, and June 30, 2019. A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of our annual or interim consolidated financial statements will not be prevented or detected on a timely basis. 
-
-
-
- ●  We did not design and maintain effective controls over user access within the Company’s ERP system, Oracle, to ensure appropriate segregation of duties and to adequately restrict user access to appropriate personnel. Specifically, the provisioning and user recertification controls are not designed to ensure users maintain proper segregation of duties and therefore could have inappropriate access rights (the “Access Control Weakness”).     
-
-
-
- ●  We did not design and maintain effective controls over the completeness and accuracy of information included in key spreadsheets supporting our accounting records (the “Spreadsheet Control Weakness”).     
-
-
-
-The control deficiencies constituted material weaknesses, but did not result in a material misstatement to our consolidated financial statements for the year ended December 31, 2018 (or any of the condensed consolidated financial statements for the quarters included therein), or to the unaudited condensed consolidated financial statements for the quarter ended March 31, 2019, June 30, 2019, and September 30, 2019. However, if these material weaknesses are not remediated, a material misstatement of account balances or disclosures may not be prevented, and may go undetected, which could result in a material misstatement of future annual or interim consolidated financial statements. 
-
-
-
+We identified the following control deficiencies that constituted material weaknesses in our internal control over financial reporting as of September 30, 2019.
+We also determined that these material weaknesses existed as of December 31, 2018, March 31, 2019, and June 30, 2019.
+A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of our annual or interim consolidated financial statements will not be prevented or detected on a timely basis.
+●  We did not design and maintain effective controls over user access within the Company’s ERP system, Oracle, to ensure appropriate segregation of duties and to adequately restrict user access to appropriate personnel.
+Specifically, the provisioning and user recertification controls are not designed to ensure users maintain proper segregation of duties and therefore could have inappropriate access rights (the “Access Control Weakness”).
+●  We did not design and maintain effective controls over the completeness and accuracy of information included in key spreadsheets supporting our accounting records (the “Spreadsheet Control Weakness”).
+The control deficiencies constituted material weaknesses, but did not result in a material misstatement to our consolidated financial statements for the year ended December 31, 2018 (or any of the condensed consolidated financial statements for the quarters included therein), or to the unaudited condensed consolidated financial statements for the quarter ended March 31, 2019, June 30, 2019, and September 30, 2019.
+However, if these material weaknesses are not remediated, a material misstatement of account balances or disclosures may not be prevented, and may go undetected, which could result in a material misstatement of future annual or interim consolidated financial statements.
 Remediation Efforts to Address Material Weaknesses 
 
 
-
-
-
- ●  To address the Access Control Weakness, we are utilizing the services of an Oracle consulting firm and an accounting firm unrelated to PwC, to assist us in analyzing and reviewing Oracle access for all users. Upon completion of this analysis, we plan to modify the designated Oracle responsibilities for each employee for which a conflict has been identified to remove any Oracle transactional responsibilities that we believe are conflicting and reassign those responsibilities to a different employee to ensure proper segregation of duties. In addition, we plan to enhance and implement provisioning and user certification controls to ensure we maintain the appropriate segregation of duties within Oracle following the analysis.     
-
-
-
- ●  To address the Spreadsheet Control Weakness, for each key spreadsheet using Oracle data, we plan to evaluate and determine (1) if a standard Oracle report exists containing the same information as the spreadsheet, and if so, we would utilize the standard Oracle report (without modification) instead of the spreadsheet to support our accounting records and (2) if a standard Oracle report cannot be used, we will implement a new key control whereby an employee performs a formal validation that the information from Oracle is completely and accurately transferred (automatically or manually) to a spreadsheet by verifying totals and other information on a test basis. For all other key spreadsheets, we plan to design and implement a new key control to validate completeness and accuracy of information supporting our accounting records.     
-
-
-
-We believe these steps will address the material weaknesses described above. 
-
-
-
+ ●  To address the Access Control Weakness, we are utilizing the services of an Oracle consulting firm and an accounting firm unrelated to PwC, to assist us in analyzing and reviewing Oracle access for all users.
+Upon completion of this analysis, we plan to modify the designated Oracle responsibilities for each employee for which a conflict has been identified to remove any Oracle transactional responsibilities that we believe are conflicting and reassign those responsibilities to a different employee to ensure proper segregation of duties.
+In addition, we plan to enhance and implement provisioning and user certification controls to ensure we maintain the appropriate segregation of duties within Oracle following the analysis.
+●  To address the Spreadsheet Control Weakness, for each key spreadsheet using Oracle data, we plan to evaluate and determine (1) if a standard Oracle report exists containing the same information as the spreadsheet, and if so, we would utilize the standard Oracle report (without modification) instead of the spreadsheet to support our accounting records and (2) if a standard Oracle report cannot be used, we will implement a new key control whereby an employee performs a formal validation that the information from Oracle is completely and accurately transferred (automatically or manually) to a spreadsheet by verifying totals and other information on a test basis.
+For all other key spreadsheets, we plan to design and implement a new key control to validate completeness and accuracy of information supporting our accounting records.
+We believe these steps will address the material weaknesses described above.
 Changes in Internal Control Over Financial Reporting 
 
+No change in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) occurred during the fiscal quarter ended September 30, 2019 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+LEGAL PROCEEDINGS      
 
+The Company may, in the ordinary course of business, become a party to litigation involving collection matters, contract claims and other legal proceedings relating to the conduct of its business.
+As of September 30, 2019, we are unaware of any legal proceedings pending or threatened against the Company that management believes are likely to have a material adverse effect on our business, financial condition or results of operations.
+Item 1A.
+RISK FACTORS      
 
-No change in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) occurred during the fiscal quarter ended September 30, 2019 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+Information regarding risk factors appears under Part I, Item 1A, “Risk Factors,” of our Annual Report on Form 10-K for the year ended December 31, 2018.
+There have been no material changes from the risk factors previously disclosed in that Annual Report on Form 10-K, except as amended and supplemented by the additional risk factors below.
+The risks described in our Annual Report on Form 10-K, and the additional risk factors below are not the only risks facing our Company.
+Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially adversely affect our business, financial condition or future results.
+The United Kingdom’s anticipated withdrawal from the European Union may have a negative effect on global economic conditions, financial markets and our business, including our U.K. subsidiary.
+In 2016, the United Kingdom (“U.K.”) voted to depart from the European Union (“E.U.”), commonly known as “Brexit” and subsequently notified the European Council of its intention to leave the E.U.
+The U.K. is currently negotiating the terms of Brexit, the negotiation period of which has now been extended up to January 31, 2020, unless further extension is agreed to by the parties.
+We have taken certain actions in response to Brexit and in anticipation of E.U.
+legal requirements and the U.K.’s separation from the E.U.
+The potential impact from Brexit on us and on our results of operations is unclear.
+The actual effects of Brexit, which may be negative for our business, will depend upon many factors, including, but not limited to, the final results of the Brexit negotiations and whether the U.K. departs the E.U.
+with or without a withdrawal agreement.
+As of September 30, 2019, we do not, however, expect Brexit to have a material adverse impact on our consolidated results of operations as only 10% of our total revenues for both the three and nine months ended September 30, 2019 are attributable to our U.K. operations.
+However, we cannot predict the direction or outcome Brexit-related matters and negotiations may take, or the impact that Brexit may have on our European operations, including our U.K. subsidiary.
+Material weaknesses in our internal control over financial reporting have been identified, and if we are unable to implement and maintain effective internal control over financial reporting, or our independent registered public accounting firm is unable to provide an unqualified report thereon, we could be materially adversely affected.
+Material weaknesses in our internal control over financial reporting existed as of September 30, 2019 regarding our internal controls over user access to ensure appropriate segregation of duties and to adequately restrict user access to appropriate personnel.
+Specifically, the provisioning and user recertification controls are not designed to ensure users maintain proper segregation of duties and therefore could have inappropriate access rights.
+Additionally, we identified a material weakness in controls over key spreadsheets supporting our accounting records.
+Specifically, we did not design adequate controls to address the completeness and accuracy of information included in key spreadsheets.
+As a result of these material weaknesses, management concluded that our internal control over financial reporting was not effective as of December 31, 2018.
+Unless and until these material weaknesses have been remediated or should new material weaknesses arise or be discovered in the future, a material misstatement could occur and go undetected in our interim or annual consolidated financial statements.
+As a result, we may experience delays in fulfilling our reporting obligations or complying with the Securities Act of 1933, as amended, and the Securities Exchange Act of 1934, as amended, among other federal regulations, which could result in investigations and sanctions by regulatory authorities, including, but not limited to, the Securities and Exchange Commission (the “SEC”), and may result in defaults or accelerations under our credit facility in the event that we are unable to timely file reports with the SEC, to the extent that in such an event, we are unable to obtain waivers from our lender.
+Any of these results could adversely affect our business and the value of our common stock.
+Item 2.
+Item 4.
+MINE SAFETY DISCLOSURES      
 
-
-
- Item 4.  MINE SAFETY DISCLOSURES      
-
-
-
-Not applicable. 
-
-
-
- Item 5.  OTHER INFORMATION      
-
-
-
-None. 
-
-
-
-Item 6. EXHIBITS 
-
-
-
-
+Not applicable.
+Item 5.
+Item 6.
+EXHIBITS 
 
 
 
 SIGNATURES 
 
-
-
-Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
-
-
-
-
-
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
