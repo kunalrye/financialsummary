@@ -12,25 +12,28 @@ def LexRankSummary(document, sentences):
     parser = PlaintextParser.from_string(document,Tokenizer("english"))
     summarizer = LexRankSummarizer()
     summary = summarizer(parser.document, sentences)
-    for sentence in summary:
-        print(sentence)
+    # for sentence in summary:
+    #     print(sentence)
+    return summary
 
 def LuhnSummary(document, sentences):
     parser = PlaintextParser.from_string(document,Tokenizer("english"))
     summarizer = LuhnSummarizer()
     summary = summarizer(parser.document, sentences)
-    for sentence in summary:
-        print(sentence)
+    # for sentence in summary:
+    #     print(sentence)
+    return summary
 
 def LsaSummary(document, sentences):
     parser = PlaintextParser.from_string(document,Tokenizer("english"))
     summarizer = LsaSummarizer()
     summary = summarizer(parser.document, sentences)
-    for sentence in summary:
-        print(sentence)
+    # for sentence in summary:
+    #     print(sentence)
+    return summary
 
-#summarize_train_docs(LexRankSummary, "lexrank")
-#summarize_test_docs(LexRankSummary, "lexrank")
+summarize_train_docs(LexRankSummary, "lexrank")
+summarize_test_docs(LexRankSummary, "lexrank")
 
 #summarize_train_docs(LuhnSummary, "luhn")
 #summarize_test_docs(LuhnSummary, "luhn")
