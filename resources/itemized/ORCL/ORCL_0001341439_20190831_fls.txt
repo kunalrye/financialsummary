@@ -1,8 +1,98 @@
+Table of Contents 
+
+ORACLE CORPORATION  
+
+FORM 10-Q QUARTERLY REPORT 
+
+TABLE OF CONTENTS 
+
+
+Table of Contents 
+
 Cautionary Note on Forward-Looking Statements 
 
-For purposes of this Quarterly Report, the terms “Oracle,” “we,” “us” and “our” refer to Oracle Corporation and its consolidated subsidiaries. This Quarterly Report on Form 10-Q contains statements that are not historical in nature, are predictive in nature, or that depend upon or refer to future events or conditions or otherwise contain forward-looking statements within the meaning of Section 21 of the Securities Exchange Act of 1934, as amended, and the Private Securities Litigation Reform Act of 1995. These include, among other things, statements regarding: 
+For purposes of this Quarterly Report, the terms “Oracle,” “we,” “us” and “our” refer to Oracle Corporation and its consolidated subsidiaries.
+This Quarterly Report on Form 10-Q contains statements that are not historical in nature, are predictive in nature, or that depend upon or refer to future events or conditions or otherwise contain forward-looking statements within the meaning of Section 21 of the Securities Exchange Act of 1934, as amended, and the Private Securities Litigation Reform Act of 1995.
+These include, among other things, statements regarding: 
 
-as well as other statements regarding our future operations, financial condition and prospects, and business strategies. Forward-looking statements may be preceded by, followed by or include the words “expects,” “anticipates,” “intends,” “plans,” “believes,” “seeks,” “strives,” “estimates,” “will,” “should,” “is designed to” and similar expressions. We claim the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995 for all forward-looking statements. We have based these forward-looking statements on our current expectations and projections about future events. These forward-looking statements are subject to risks, uncertainties and assumptions about our business that could affect our future results and could cause those results or other outcomes to differ materially from those expressed or implied in the forward-looking statements. Factors that might cause or contribute to such differences include, but are not limited to, those discussed in “Risk Factors” included in documents we file from time to time with the U.S. Securities and Exchange Commission (the SEC), including our Annual Report on Form 10-K for our fiscal year ended May 31, 2019 and our other Quarterly Reports on Form 10-Q to be filed by us in our fiscal 2020, which runs from June 1, 2019 to May 31, 2020.  
+•  
 
-We have no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or risks, except to the extent required by applicable securities laws. If we do update one or more forward-looking statements, no inference should be drawn that we will make additional updates with respect to those or other forward-looking statements. New information, future events or risks could cause the forward-looking events we discuss in this Quarterly Report not to occur. You should not place undue reliance on these forward-looking statements, which reflect our expectations only as of the date of this Quarterly Report. 
+our expectation that we may acquire companies, products, services and technologies to further our corporate strategy as compelling opportunities become available; 
 
+•  
+
+our expectation that, on a constant currency basis, our total cloud and license revenues generally will continue to increase due to expected growth in our cloud services and our license support offerings, and continued demand for our cloud license and on-premise license offerings; 
+
+•  
+
+our belief that our Oracle Cloud Software-as-a-Service and Infrastructure-as-a-Service (SaaS and IaaS, respectively, and collectively, Oracle Cloud Services) offerings are opportunities for us to expand our cloud and license business, and that demand for our Oracle Cloud Services will continue to increase; 
+
+•  
+
+our expectation that substantially all of our customers will renew their license support contracts annually; 
+
+•  
+
+our expectation that our hardware business will have lower operating margins as a percentage of revenues than our cloud and license business; 
+
+•  
+
+our expectation that we will continue to make significant investments in research and development, and our belief that research and development efforts are essential to maintaining our competitive position; 
+
+•  
+
+our expectation that our international operations will continue to provide a significant portion of our total revenues and expenses; 
+
+•  
+
+the sufficiency of our sources of funding for working capital, capital expenditures, contractual obligations, acquisitions, dividends, stock repurchases, debt repayments and other matters; 
+
+•  
+
+our belief that we have adequately provided under U.S. generally accepted accounting principles for outcomes related to our tax audits and that the final outcome of our tax related examinations, agreements or judicial proceedings will not have a material effect on our results of operations, and our belief that our net deferred tax assets will be realized in the foreseeable future; 
+
+•  
+
+our belief that the outcome of certain legal proceedings and claims to which we are a party will not, individually or in the aggregate, result in losses that are materially in excess of amounts already recognized, if any; 
+
+•  
+
+the possibility that certain legal proceedings to which we are a party could have a material impact on our future cash flows and results of operations; 
+
+•  
+
+our expectations regarding the timing and amount of expenses relating to the Fiscal 2019 Oracle Restructuring Plan and the improved efficiencies in our operations that such a plan will create; 
+
+•  
+
+the timing and amount of future cash dividend payments and stock repurchases, including our expectation that the levels of our future stock repurchase activity may be modified in comparison to past periods in order to use available cash for other purposes; 
+
+•  
+
+our expectations regarding the impact of recent accounting pronouncements on our consolidated financial statements; 
+
+
+Table of Contents 
+
+•  
+
+our expectation that, to the extent customers renew support contracts or cloud SaaS and IaaS contracts from companies that we have acquired, we will recognize revenues for the full contracts’ values over the respective renewal periods; 
+
+•  
+
+our ability to predict quarterly hardware revenues; 
+
+•  
+
+the percentage of remaining performance obligations that we expect to recognize as revenues over the next twelve months; 
+
+as well as other statements regarding our future operations, financial condition and prospects, and business strategies.
+Forward-looking statements may be preceded by, followed by or include the words “expects,” “anticipates,” “intends,” “plans,” “believes,” “seeks,” “strives,” “estimates,” “will,” “should,” “is designed to” and similar expressions.
+We claim the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995 for all forward-looking statements.
+We have based these forward-looking statements on our current expectations and projections about future events.
+These forward-looking statements are subject to risks, uncertainties and assumptions about our business that could affect our future results and could cause those results or other outcomes to differ materially from those expressed or implied in the forward-looking statements.
+Factors that might cause or contribute to such differences include, but are not limited to, those discussed in “Risk Factors” included in documents we file from time to time with the U.S. Securities and Exchange Commission (the SEC), including our Annual Report on Form 10-K for our fiscal year ended May 31, 2019 and our other Quarterly Reports on Form 10-Q to be filed by us in our fiscal 2020, which runs from June 1, 2019 to May 31, 2020.
+We have no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or risks, except to the extent required by applicable securities laws.
+If we do update one or more forward-looking statements, no inference should be drawn that we will make additional updates with respect to those or other forward-looking statements.
+New information, future events or risks could cause the forward-looking events we discuss in this Quarterly Report not to occur.
+You should not place undue reliance on these forward-looking statements, which reflect our expectations only as of the date of this Quarterly Report.
