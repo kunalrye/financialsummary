@@ -1,7 +1,5 @@
 ITEM 2.MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
-
 SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
-
 This report contains certain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934.
 All statements other than statements of historical fact may be forward-looking statements.
 You can identify these and other forward-looking statements by the use of words such as “may,” “will,” “could,” “would,” “should,” “expects,” “plans,” “anticipates,” “relies,” “believes,” “estimates,” “predicts,” “intends,” “potential,” “continue,” “thinks,” “seeks,” or the negative of such terms, or other comparable terminology.
@@ -12,7 +10,6 @@ Factors that might cause or contribute to such differences include, but are not 
 You should carefully review these risks and also review the risks described in other documents we file from time to time with the Securities and Exchange Commission.
 You are cautioned not to place undue reliance on these forward-looking statements, and we expressly assume no obligation and do not intend to update the forward-looking statements in this report after the date hereof.
 EXECUTIVE SUMMARY
-
 We are a leading supplier of process control and yield management solutions for the semiconductor and related nanoelectronics industries.
 Our broad portfolio of inspection and metrology products, and related service, software and other offerings primarily supports integrated circuit (“IC” or “chip”) manufacturers throughout the entire semiconductor fabrication process, from research and development to final volume production.
 We provide leading edge equipment, software and support that enable IC manufacturers to identify, resolve and manage significant advanced technology manufacturing process challenges and obtain higher finished product yields at lower overall cost.
@@ -43,7 +40,6 @@ We have already seen our mix of business begin to shift toward increased purchas
 Because of a more diversified semiconductor device-end demand, and disciplined capacity planning by wafer fab equipment customers, we believe the long-term growth dynamics for the industry remain strong.
 While manufacturers of PCBs, FPDs, SDs and other electronic components create different products for diverse end-markets, they share similar production challenges in an increasingly competitive environment.
 Acquisition of Orbotech, Ltd.
-
 On February 20, 2019, we completed the acquisition of Orbotech, Ltd. (“Orbotech”) for total consideration of approximately $3.26 billion.
 Orbotech’s core business enables electronic device manufacturers to inspect, test and measure printed circuit boards and flat panel displays to verify their quality; pattern electronic circuitry on substrate and perform three-dimensional shaping of metalized circuits on multiple surfaces; and utilize advanced vacuum deposition and etching process in semiconductor device and semiconductor manufacturing and to perform laser drilling of electronic substrates.
 For additional details on the financial statement impacts of the Orbotech acquisition, refer to Note 6 “Business Combinations” to the condensed consolidated financial statements.
@@ -51,7 +47,6 @@ In addition, our Board of Directors has authorized a share repurchase of up to $
 We raised approximately $1.20 billion in new long-term debt financing to partially refinance our existing debt, to repurchase shares and for general corporate purposes.
 For additional details, refer to Note 8, “Debt”, and Note 10, “Stock Repurchase Program” to the condensed consolidated financial statements.
 CRITICAL ACCOUNTING ESTIMATES AND POLICIES
-
 The preparation of our condensed consolidated financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions in applying our accounting policies that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities.
 We base these estimates and assumptions on historical experience and evaluate them on an ongoing basis to ensure that they remain reasonable under current conditions.
 Actual results could differ from those estimates.
@@ -61,35 +56,24 @@ There have been no other material changes in our critical accounting estimates a
 Refer to Note 1 “Basis of Presentation” to the condensed consolidated financial statements for additional details.
 In addition, please refer to Management’s Discussion and Analysis of Financial Condition and Results of Operations contained in Part II, Item 7 of our Annual Report on Form 10-K for our fiscal year ended June 30, 2018 for a more complete discussion of our critical accounting policies and estimates.
 Recent Accounting Pronouncements
-
 For a description of recent accounting pronouncements, including those recently adopted and the expected dates of adoption as well as estimated effects, if any, on our condensed consolidated financial statements of those not yet adopted, see Note 1, “Basis of Presentation” to the condensed consolidated financial statements for additional details.
 RESULTS OF OPERATIONS
-
 On July 1, 2018, we adopted ASC 606 using the modified retrospective transition approach.
 Results for reporting periods beginning after June 30, 2018 are presented under ASC 606, while prior period amounts are presented under legacy guidance.
 For additional details, refer to Note 2 “Revenue” to the condensed consolidated financial statements.
 Revenues and Gross Margin
-
-
-
 Product revenues
-
 Our business is affected by the concentration of our customer base and our customers’ capital equipment procurement patterns as a result of their investment plans.
 Our product revenues in any particular period are significantly impacted by the amount of new orders that we receive during that period and, depending upon the duration of manufacturing and installation cycles, in the preceding period.
 Product revenue decreased during the three months ended March 31, 2019 compared to the three months ended December 31, 2018 and March 31, 2018, primarily due to lower product shipments to customers in the memory business, partially offset by $125.8 million in product revenue from our newly acquired Orbotech business.
 Product revenues increased during the nine months ended March 31, 2019 compared to the nine months ended March 31, 2018, primarily due to a strong demand from our customers in the wafer inspection business, $125.8 million in product revenue from our newly acquired Orbotech business, and a favorable impact from the adoption of ASC 606 due to our assessment of timing of transfer of control, partially offset by a lower products shipments to customers in the memory business.
 Service revenues
-
 Service revenues are generated from product maintenance and support services, as well as billable time and material service calls made to our customers.
 The amount of our service revenues is typically a function of the number of systems installed at our customers’ sites and the utilization of those systems, but it is also impacted by other factors, such as our rate of service contract renewals, the types of systems being serviced and fluctuations in foreign exchange rates.
 Service revenues increased during the each of comparative periods presented, primarily due to the impact of adoption of ASC 606 whereby revenue from the standard warranty represents a separate performance obligation and included in our services revenue, and an increase of $35.5 million in service revenue from our newly acquired Orbotech business.
 Revenues by region
-
-
-
 A significant portion of our revenues continue to be generated in Asia, where a substantial portion of the world’s semiconductor manufacturing capacity is located, and we expect that trend to continue.
 Gross margin
-
 Our gross margin fluctuates with revenue levels and product mix and is affected by variations in costs related to manufacturing and servicing our products, including our ability to scale our operations efficiently and effectively in response to prevailing business conditions.
 Changes in gross margin percentage driven by revenue volume of products and services reflect our ability to leverage existing infrastructure to generate higher revenues.
 It also includes the effect of fluctuations in foreign exchange rates, average customer pricing and customer revenue deferrals associated with volume purchase agreements.
@@ -99,9 +83,6 @@ Changes in gross margin percentage from other service and manufacturing costs in
 Our gross margin during the three months ended March 31, 2019 decreased compared to the three months ended December 31, 2018 and March 31, 2018, primarily due to a lower revenue volume of products and services and an increase in service and manufacturing costs, partially offset by a favorable mix of products and services sold, as well as the acquisition of Orbotech which historically had lower product gross margins.
 Our gross margin during the nine months ended March 31, 2019 decreased compared to the nine months ended March 31, 2018, primarily due to an increase in service and manufacturing costs, a lower revenue volume of products and services, partially offset by a favorable mix of products and services sold, as well as the acquisition of Orbotech which historically had lower product gross margins.
 Interest Expense and Other Expense (Income), Net
-
-
-
 Interest expense during the three months ended March 31, 2019 increased compared to the three months ended December 31, 2018, and December 31, 2017, primarily due to interest on the $1.20 billion Senior Notes issued in March 2019.
 The decrease in interest expense during the nine months ended March 31, 2019 compared the nine months ended March 31, 2018 was primarily due to lower outstanding debt during the majority of the 2019 period.
 Other expense (income), net is comprised primarily of realized gains or losses on sales of marketable securities, gains or losses from revaluations of certain foreign currency denominated assets and liabilities as well as foreign currency contracts, and interest-related accruals (such as interest and penalty accruals related to our tax obligations) and interest income earned on our invested cash, cash equivalents and marketable securities.
@@ -109,12 +90,6 @@ The change in other expense (income), net during the three months ended March 31
 The increase in other expense (income), net during the three months ended March 31, 2019 compared to the three months ended March 31, 2018 was primarily due lower net foreign currency loss of $1.8 million.
 The increase in other expense (income), net during the nine months ended March 31, 2019 compared to the nine months ended March 31, 2018 was primarily due to an increase in interest income of $7.1 million and a higher net foreign currency gain of $3.3 million.
 Provision for Income Taxes
-
-
-
-
-
-
 Our future effective income tax rate depends on various factors, such as tax legislation, the geographic composition of our pre-tax income, the amount of our pre-tax income as business activities fluctuate, non-deductible expenses incurred in connection with acquisitions, research and development credits as a percentage of aggregate pre-tax income, non-taxable or non-deductible increases or decreases in the assets held within our Executive Deferred Savings Plan, the tax effects of employee stock activity and the effectiveness of our tax planning strategies.
 In the normal course of business, we are subject to examination by tax authorities throughout the world.
 We are under United States federal income tax examination for the fiscal year ended June 30, 2016.
@@ -127,12 +102,9 @@ Orbotech is now in the process of the second stage, in which the claims raised b
 In addition, the ITA can examine additional items and may assess additional amounts in the second stage.
 The second stage must be completed within one year of when the Objection was filed.
 LIQUIDITY AND CAPITAL RESOURCES
-
-
-
 As of March 31, 2019, our cash, cash equivalents and marketable securities totaled $1.90 billion, which represents a decrease of $983.1 million from June 30, 2018.
 The decrease is mainly due to $1.82 billion paid to fund Orbotech and other business acquisitions, stock repurchases of $750.2 million, and cash used for payment of dividends and dividend equivalents of $350.9 million, partially offset by the net proceeds of our 2019 Senior Notes of $1.19 billion and our cash generated from operations and net proceeds from marketable securities transactions.
-As of March 31, 2019, $554.1 million of our $1.90 billion of cash, cash equivalents and marketable securities were held by our foreign subsidiaries and branch offices.
+ As of March 31, 2019, $554.1 million of our $1.90 billion of cash, cash equivalents and marketable securities were held by our foreign subsidiaries and branch offices.
 We currently intend to indefinitely reinvest $392.4 million of the cash, cash equivalents and marketable securities held by our foreign subsidiaries.
 If, however, a portion of these funds were to be repatriated to the United States, we would be required to accrue and pay state and foreign taxes of approximately 1%-22% of the funds repatriated.
 The amount of taxes due will depend on the amount and manner of the repatriation, as well as the location from which the funds are repatriated.
@@ -153,29 +125,19 @@ Other than the special cash dividend declared during the three months ended Dece
 For details of the special cash dividend, refer to Note 8 “Equity and Long-Term Incentive Compensation Plans,” of the Notes to the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended June 30, 2018.
 The shares repurchased under our stock repurchase program have reduced our basic and diluted weighted-average shares outstanding for the nine months ended March 31, 2019 and 2018.
 The stock repurchase program is intended, in part, to offset shares issued in connection with the purchases under our ESPP program and the vesting of employee restricted stock units.
-•An increase in accounts payable payments of approximately $94.0 million; 
-
-•An increase in payments for employee-related expenses of approximately $22.0 million; 
-
+•An increase in accounts payable payments of approximately $94.0 million;
+•An increase in payments for employee-related expenses of approximately $22.0 million;
 •An increase in payments for merger and acquisition related expenses, mostly related to the Orbotech acquisition of approximately $55.0 million.
-◦An increase in collections of approximately $55.0 million mainly driven by higher shipments; 
-
-◦An increase in interest income of approximately $5.0 million mainly driven by higher interest rates; 
-
+◦An increase in collections of approximately $55.0 million mainly driven by higher shipments;
+◦An increase in interest income of approximately $5.0 million mainly driven by higher interest rates;
 ◦A decrease in income tax payments of approximately $62.0 million;
-
-◦A decrease in cash-long term incentives of approximately $11.0 million; 
-
-◦A decrease in debt interest payments of approximately $5.0 million; and 
-
+◦A decrease in cash-long term incentives of approximately $11.0 million;
+◦A decrease in debt interest payments of approximately $5.0 million; and
 ◦A decrease in net other tax payments of approximately $3.0 million.
 Net cash used by investing activities during the nine months ended March 31, 2019 was $1.21 billion compared to cash provided by investing activities of $164.8 million during the nine months ended March 31, 2018.
 This change was mainly due to $1.82 billion paid to fund Orbotech and other acquisitions, partially offset by cash received from sale and maturity of marketable securities of $679.9 million during the nine months ended March 31, 2019, compared to $215.9 million during the nine months ended March 31, 2018.
 Net cash provided by financing activities during the nine months ended March 31, 2019 was $72.1 million compared to cash used by financing activities of $928.7 million during the nine months ended March 31, 2018.
 This change was mainly impacted by net proceeds from the issuance of Senior Notes in March 2019 of $1.19 billion and lower net payments of the revolving credit facility, partially offset by
-
-
-
 In March 2019 and November 2014, we issued $1.20 billion and $2.50 billion, respectively (each a “2019 Senior Notes”, a “2014 Senior Notes”, and collectively the “Senior Notes”), aggregate principal amount of senior, unsecured long-term notes.
 The original discounts on the 2019 Senior Notes and the 2014 Senior Notes amounted to $6.7 million and $4.0 million, respectively, and are being amortized over the life of the debt.
 Interest is payable semi-annually on May 1 and November 1 of each year for the 2014 Senior Notes and semi-annually on March 15 and September 15 of each year for the 2019 Senior Notes.
@@ -207,6 +169,7 @@ Our liquidity may be affected by many factors, some of which are based on the no
 Although cash requirements will fluctuate based on the timing and extent of these factors, we believe that cash generated from operations, together with the liquidity provided by existing cash and cash equivalents balances and our $1.00 billion Revolving Credit Facility, will be sufficient to satisfy our liquidity requirements associated with working capital needs, capital expenditures, cash dividends, stock repurchases and other contractual obligations, including repayment of outstanding debt, for at least the next 12 months.
 Factors that can affect our credit ratings include changes in our operating performance, the economic environment, conditions in the semiconductor and semiconductor equipment industries, our financial position, material acquisitions and changes in our business strategy.
 Off-Balance Sheet Arrangements
-
 As of March 31, 2019, we did not have any off-balance sheet arrangements, as defined in Item 303(a)(4)(ii) of SEC Regulation S-K, that have or are reasonably likely to have a current or future effect on our financial position, changes in financial condition, revenues and expenses, results of operations, liquidity, capital expenditures, or capital resources that are material to investors.
 Refer to Note 14 “Commitments and contingencies” to the condensed consolidated financial statements for information related to indemnification obligations.
+ITEM 2.UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+Equity Repurchase Plans

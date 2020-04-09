@@ -1,35 +1,30 @@
-PART II 
-
-Item 1, 1A 
-
+PART II
+Item 1, 1A
 PART II.
-LEGAL PROCEEDINGS  
-
+OTHER INFORMATION
+ITEM 1.
+LEGAL PROCEEDINGS
 Refer to Note 14 – Contingencies of the Notes to Financial Statements (Part I, Item 1 of this Form 10-Q) for information regarding legal proceedings in which we are involved.
-RISK FACTORS  
-
+ITEM 1A.
+RISK FACTORS
 Our operations and financial results are subject to various risks and uncertainties, including those described below, that could adversely affect our business, financial condition, results of operations, cash flows, and the trading price of our common stock.
 We face intense competition across all markets for our products and services, which may lead to lower revenue or operating margins.
-Competition in the technology sector  
-
+Competition in the technology sector
 Our competitors range in size from diversified global companies with significant research and development resources to small, specialized firms whose narrower product lines may let them be more effective in deploying technical, marketing, and financial resources.
 Barriers to entry in many of our businesses are low and many of the areas in which we compete evolve rapidly with changing and disruptive technologies, shifting user needs, and frequent introductions of new products and services.
 Our ability to remain competitive depends on our success in making innovative products, devices, and services that appeal to businesses and consumers.
-Competition among platform-based ecosystems  
-
+Competition among platform-based ecosystems
 An important element of our business model has been to create platform-based ecosystems on which many participants can build diverse solutions.
 A well-established ecosystem creates beneficial network effects among users, application developers, and the platform provider that can accelerate growth.
 Establishing significant scale in the marketplace is necessary to achieve and maintain attractive margins.
 We face significant competition from firms that provide competing platforms.
-•  
-
+•
 A competing vertically-integrated model, in which a single firm controls the software and hardware elements of a product and related services, has succeeded with some consumer products such as personal computers, tablets, phones, gaming consoles, and wearables.
 Competitors pursuing this model also earn revenue from services integrated with the hardware and software platform, including applications and content sold through their integrated marketplaces.
 They may also be able to claim security and performance benefits from their vertically integrated offer.
 We also offer some vertically-integrated hardware and software products and services.
 To the extent we shift a portion of our business to a vertically integrated model we increase our cost of revenue and reduce our operating margins.
-•  
-
+•
 We derive substantial revenue from licenses of Windows operating systems on personal computers.
 We face significant competition from competing platforms developed for new devices and form factors such as smartphones and tablet computers.
 These devices compete on multiple bases including price and the perceived utility of the device and its platform.
@@ -38,31 +33,24 @@ Even if many users view these devices as complementary to a personal computer, t
 Competing with operating systems licensed at low or no cost may decrease our PC operating system margins.
 Popular products or services offered on competing platforms could increase their competitive strength.
 In addition, some of our devices compete with products made by our original equipment manufacturer (“OEM”) partners, which may affect their commitment to our platform.
-•  
-
+•
 Competing platforms have content and application marketplaces with scale and significant installed bases.
 The variety and utility of content and applications available on a platform are important to device purchasing decisions.
 Users sometimes incur costs to move data and buy new content and applications when switching platforms.
 To compete, we must successfully enlist developers to write applications for our platform and ensure that these applications have high quality, security, customer appeal, and value.
 Efforts to compete with competitors’ content and application marketplaces may increase our cost of revenue and lower our operating margins.
-PART II 
-
-Item 1A 
-
-Business model competition  
-
+PART II
+Item 1A
+Business model competition
 Companies compete with us based on a growing variety of business models.
-•  
-
+•
 Even as we transition more of our business to infrastructure-, platform-, and software-as-a-service business model, the license-based proprietary software model generates a substantial portion of our software revenue.
 We bear the costs of converting original ideas into software products through investments in research and development, offsetting these costs with the revenue received from licensing our products.
 Many of our competitors also develop and sell software to businesses and consumers under this model.
-•  
-
+•
 Other competitors develop and offer free applications, online services and content, and make money by selling third-party advertising.
 Advertising revenue funds development of products and services these competitors provide to users at no or little cost, competing directly with our revenue-generating products.
-•  
-
+•
 Some companies compete with us using an open source business model by modifying and then distributing open source software at nominal cost to end-users, and earning revenue on advertising or complementary services and products.
 These firms do not bear the full costs of research and development for the software.
 Some open source software vendors develop software that mimics the features and functionality of our products.
@@ -78,28 +66,21 @@ We are undertaking cultural and organizational changes to drive accountability a
 Our intelligent cloud and intelligent edge worldview is connected with the growth of the internet of things (“IoT”).
 Our success in the IoT will depend on the level of adoption of our offerings such as Microsoft Azure, Azure Stack, Azure IoT Edge, and Azure Sphere.
 We may not establish market share sufficient to achieve scale necessary to achieve our business objectives.
-•  
-
+•
 Continuing to bring to market compelling cloud-based experiences that generate increasing traffic and market share.
-•  
-
+•
 Maintaining the utility, compatibility, and performance of our cloud-based services on the growing array of computing devices, including PCs, smartphones, tablets, gaming consoles, and other devices, as well as sensors and other endpoints.
-•  
-
+•
 Continuing to enhance the attractiveness of our cloud platforms to third-party developers.
-•  
-
+•
 Ensuring our cloud-based services meet the reliability expectations of our customers and maintain the security of their data.
-•  
-
+•
 Making our suite of cloud-based services platform-agnostic, available on a wide range of devices and ecosystems, including those of our competitors.
 It is uncertain whether our strategies will attract the users or generate the revenue required to succeed.
 If we are not effective in executing organizational and technical changes to increase efficiency and accelerate innovation, or if we fail to generate sufficient usage of our new products and services, we may not grow revenue in line with the infrastructure and development investments described above.
 This may negatively impact gross margins and operating income.
-PART II 
-
-Item 1A 
-
+PART II
+Item 1A
 We make significant investments in new products and services that may not achieve expected returns.
 We will continue to make significant investments in research, development, and marketing for existing products, services, and technologies, including the Windows operating system, Microsoft 365, Office, Bing, Microsoft SQL Server, Windows Server, Microsoft Stores, Azure, Office 365, Xbox Live, Mixer, LinkedIn, and other cloud-based offerings.
 We also invest in the development and acquisition of a variety of hardware for productivity, communication, and entertainment including PCs, tablets, gaming devices, and HoloLens.
@@ -128,10 +109,8 @@ We test goodwill for impairment at least annually.
 Factors that may be a change in circumstances, indicating that the carrying value of our goodwill or amortizable intangible assets may not be recoverable, include a decline in our stock price and market capitalization, reduced future cash flow estimates, and slower growth rates in industry segments in which we participate.
 We have in the past recorded, and may in the future be required to record a significant charge on our consolidated financial statements during the period in which any impairment of our goodwill or amortizable intangible assets is determined, negatively affecting our results of operations.
 Our acquisition of LinkedIn resulted in a significant increase in our goodwill and intangible asset balances.
-PART II 
-
-Item 1A 
-
+PART II
+Item 1A
 Legal changes, our evolving business model, piracy, and other factors may decrease the value of our intellectual property.
 Protecting our intellectual property rights and combating unlicensed copying and use of our software and other intellectual property on a global basis is difficult.
 While piracy adversely affects U.S. revenue, the impact on revenue from outside the U.S. is more significant, particularly countries in which the legal system provides less protection for intellectual property rights.
@@ -160,18 +139,15 @@ If our source code leaks, we might lose future trade secret protection for that 
 It may then become easier for third parties to compete with our products by copying functionality, which could adversely affect our revenue and operating margins.
 Unauthorized disclosure of source code also could increase the security risks described in the next paragraph.
 Cyberattacks and security vulnerabilities could lead to reduced revenue, increased costs, liability claims, or harm to our reputation or competitive position.
-Security of our information technology  
-
+Security of our information technology
 Threats to IT security can take a variety of forms.
 Individual and groups of hackers and sophisticated organizations, including state-sponsored organizations or nation-states, continuously undertake attacks that pose threats to our customers and our IT.
 These actors may use a wide variety of methods, which may include developing and deploying malicious software or exploiting vulnerabilities in hardware, software, or other infrastructure in order to attack our products and services or gain access to our networks and datacenters, using social engineering techniques to induce our employees, users, partners, or customers to disclose passwords or other sensitive information or take other actions to gain access to our data or our users’ or customers’ data, or acting in a coordinated manner to launch distributed denial of service or other coordinated attacks.
 Inadequate account security practices may also result in unauthorized access to confidential data.
 For example, system administrators may fail to timely remove employee account access when no longer appropriate.
 Employees or third parties may intentionally compromise our or our users’ security or systems, or reveal confidential information.
-PART II 
-
-Item 1A 
-
+PART II
+Item 1A
 Cyberthreats are constantly evolving, increasing the difficulty of detecting and successfully defending against them.
 We may have no current capability to detect certain vulnerabilities, which may allow them to persist in the environment over long periods of time.
 Cyberthreats can have cascading impacts that unfold with increasing speed across our internal networks and systems and those of our partners and customers.
@@ -180,8 +156,7 @@ In addition, our internal IT environment continues to evolve.
 Often, we are early adopters of new devices and technologies.
 We embrace new ways of sharing data and communicating internally and with partners and customers using methods such as social networking and other consumer-oriented technologies.
 Our business policies and internal security controls may not keep pace with these changes as new threats emerge.
-Security of our products, services, devices, and customers’ data  
-
+Security of our products, services, devices, and customers’ data
 The security of our products and services is important in our customers’ decisions to purchase or use our products or services.
 Security threats are a significant challenge to companies like us whose business is providing technology products and services to others.
 Threats to our own IT infrastructure can also affect our customers.
@@ -202,10 +177,8 @@ Our license agreements typically contain provisions that eliminate or limit our 
 At times, to achieve commercial objectives, we may enter into agreements with larger liability exposure to customers.
 As illustrated by the recent Spectre and Meltdown threats, our products operate in conjunction with and are dependent on products and components across a broad ecosystem.
 If there is a security vulnerability in one of these components, and if there is a security exploit targeting it, we could face increased costs, liability claims, reduced revenue, or harm to our reputation or competitive position.
-PART II 
-
-Item 1A 
-
+PART II
+Item 1A
 Disclosure and misuse of personal data could result in liability and harm our reputation.
 As we continue to grow the number and scale of our cloud-based offerings, we store and process increasingly large amounts of personally identifiable information of our customers and users.
 The continued occurrence of high-profile data breaches provides evidence of an external environment increasingly hostile to information security.
@@ -237,10 +210,8 @@ As a leading global software and device maker, government agencies closely scrut
 An increasing number of governments are actively enforcing competition laws and regulations and this includes increased scrutiny in potentially large markets such as the European Union (“EU”), the U.S., and China.
 Some jurisdictions also allow competitors or consumers to assert claims of anti-competitive conduct.
 U.S. federal and state antitrust authorities have previously brought enforcement actions and continue to scrutinize our business.
-PART II 
-
-Item 1A 
-
+PART II
+Item 1A
 The European Commission (“the Commission”) closely scrutinizes the design of high-volume Microsoft products and the terms on which we make certain technologies used in these products, such as file formats, programming interfaces, and protocols, available to other companies.
 Flagship product releases such as Windows 10 can receive significant scrutiny under competition laws.
 For example, in 2004, the Commission ordered us to create new versions of our Windows operating system that do not include certain multimedia technologies and to provide our competitors with specifications for how to implement certain proprietary Windows communications protocols in their own products.
@@ -252,18 +223,14 @@ Our portfolio of first-party devices continues to grow; at the same time our OEM
 As a result, increasingly we both cooperate and compete with our OEM partners, creating a risk that we fail to do so in compliance with competition rules.
 Regulatory scrutiny in this area may increase.
 Certain foreign governments, particularly in China and other countries in Asia, have advanced arguments under their competition laws that exert downward pressure on royalties for our intellectual property.
-•  
-
+•
 We may have to choose between withdrawing products from certain geographies to avoid fines or designing and developing alternative versions of those products to comply with government rulings, which may entail a delay in a product release and removing functionality that customers want or on which developers rely.
-•  
-
+•
 We may be required to make available licenses to our proprietary technologies on terms that do not reflect their fair market value or do not protect our associated intellectual property.
-•  
-
+•
 We are subject to a variety of ongoing commitments because of court or administrative orders, consent decrees, or other voluntary actions we have taken.
 If we fail to comply with these commitments, we may incur litigation costs and be subject to substantial fines or other remedial actions.
-•  
-
+•
 Our ability to realize anticipated Windows 10 post-sale monetization opportunities may be limited.
 Our global operations subject us to potential liability under anti-corruption, trade protection, and other laws and regulations.
 The Foreign Corrupt Practices Act and other anti-corruption laws and regulations (“Anti-Corruption Laws”) prohibit corrupt payments by our employees, vendors, or agents.
@@ -274,10 +241,8 @@ While we devote substantial resources to our global compliance programs and have
 Our failure to comply with Anti-Corruption Laws or competition laws could result in significant fines and penalties, criminal sanctions against us, our officers, or our employees, prohibitions on the conduct of our business, and damage to our reputation.
 Operations outside the U.S. may be affected by changes in trade protection laws, policies, and measures, sanctions, and other regulatory requirements affecting trade and investment.
 We may be subject to legal liability and reputational damage if we sell goods or services in violation of U.S. trade sanctions on countries such as Iran, North Korea, Cuba, Sudan, and Syria.
-PART II 
-
-Item 1A 
-
+PART II
+Item 1A
 Other regulatory areas that may apply to our products and online services offerings include user privacy, telecommunications, data storage and protection, and online content.
 For example, regulators may take the position that our offerings such as Skype are covered by existing laws regulating telecommunications services and new laws may define more of our services as regulated telecommunications services.
 Data protection authorities may assert that our collection, use, and management of customer data is inconsistent with their laws and regulations.
@@ -289,8 +254,7 @@ Compliance with these types of regulation may involve significant costs or requi
 Noncompliance could result in the imposition of penalties or orders we stop the alleged noncompliant activity.
 We strive to empower all people and organizations to achieve more, and accessibility of our products is an important aspect of this goal.
 There is increasing pressure from advocacy groups, regulators, competitors, and customers to make technology more accessible.
-If our products do not meet customer expectations or emerging global accessibility requirements, we could lose sales opportunities or face regulatory actions 
-
+If our products do not meet customer expectations or emerging global accessibility requirements, we could lose sales opportunities or face regulatory actions
 Laws and regulations relating to the handling of personal data may impede the adoption of our services or result in increased costs, legal claims, fines against us, or reputational damage.
 The growth of our Internet- and cloud-based services internationally relies increasingly on the movement of data across national boundaries.
 Legal requirements relating to the collection, storage, handling, and transfer of personal data continue to evolve.
@@ -310,10 +274,8 @@ Ongoing legal reviews by regulators may result in burdensome or inconsistent req
 Compliance with applicable laws and regulations regarding personal data may require changes in services, business practices, or internal systems that result in increased costs, lower revenue, reduced efficiency, or greater difficulty in competing with foreign-based firms.
 Compliance with data regulations might limit our ability to innovate or offer certain features and functionality in some jurisdictions where we operate.
 Failure to comply with existing or new rules may result in significant penalties or orders to stop the alleged noncompliant activity, as well as negative publicity and diversion of management time and effort.
-PART II 
-
-Item 1A 
-
+PART II
+Item 1A
 Our business depends on our ability to attract and retain talented employees.
 Our business is based on successfully attracting and retaining talented employees.
 The market for highly skilled workers and leaders in our industry is extremely competitive.
@@ -350,10 +312,8 @@ Our software products and services also may experience quality or reliability pr
 The highly sophisticated software we develop may contain bugs and other defects that interfere with their intended operation.
 Any defects we do not detect and fix in pre-release testing could cause reduced sales and revenue, damage to our reputation, repair or remediation costs, delays in the release of new products or versions, or legal liability.
 Although our license agreements typically contain provisions that eliminate or limit our exposure to liability, there is no assurance these provisions will withstand legal challenge.
-PART II 
-
-Item 1A 
-
+PART II
+Item 1A
 We acquire some device and datacenter components from sole suppliers.
 Our competitors use some of the same suppliers and their demand for hardware components can affect the capacity available to us.
 If a component from a sole-source supplier is delayed or becomes unavailable, whether because of supplier capacity constraint, industry shortages, legal or regulatory changes, or other reasons, we may not obtain timely replacement supplies, resulting in reduced sales or inadequate datacenter capacity.
@@ -390,10 +350,8 @@ An extended federal government shutdown resulting from failing to pass budget ap
 Our product distribution system relies on an extensive partner and retail network.
 OEMs building devices that run our software have also been a significant means of distribution.
 The impact of economic conditions on our partners, such as the bankruptcy of a major distributor, OEM, or retailer, could cause sales channel disruption.
-PART II 
-
-Item 1A 
-
+PART II
+Item 1A
 Challenging economic conditions also may impair the ability of our customers to pay for products and services they have purchased.
 As a result, allowances for doubtful accounts and write-offs of accounts receivable may increase.
 We maintain an investment portfolio of various holdings, types, and maturities.
@@ -426,47 +384,30 @@ Inappropriate or controversial data practices by Microsoft or others could impai
 These deficiencies could undermine the decisions, predictions, or analysis AI applications produce, subjecting us to competitive harm, legal liability, and brand or reputational harm.
 Some AI scenarios present ethical issues.
 If we enable or offer AI solutions that are controversial because of their impact on human rights, privacy, employment, or other social issues, we may experience brand or reputational harm.
-•  
-
+•
 The introduction of new features, products, services, or terms of service that customers, users, or partners do not like.
-•  
-
+•
 Public scrutiny of our decisions regarding user privacy, data practices, or content.
-•  
-
+•
 Data security breaches, compliance failures, or actions of partners or individual employees.
 The proliferation of social media may increase the likelihood, speed, and magnitude of negative brand events.
 If our brands or reputation are damaged, it could negatively impact our revenues or margins, or ability to attract the most highly qualified employees.
-PART II 
-
-Item 2 
-
+PART II
+Item 2
 ITEM 2.
-UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS  
-
-UNREGISTERED SALE OF EQUITY SECURITIES 
-
+UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+UNREGISTERED SALE OF EQUITY SECURITIES
 In connection with our acquisition of GitHub, Inc. on October 25, 2018, we issued 52,695,909 shares of Microsoft common stock to certain holders of capital stock of GitHub.
 The offer and sale of the shares were not registered under the Securities Act and were made in reliance upon the exemption from registration under Section 4(a)(2) of the Securities Act for an issuance not involving a public offering.
-DIVIDENDS AND SHARE REPURCHASES  
-
-
-
+DIVIDENDS AND SHARE REPURCHASES
 All repurchases were made using cash resources.
 Our stock repurchases may occur through open market purchases or pursuant to a Rule 10b5-1 trading plan.
 The above table excludes shares repurchased to settle employee tax withholding related to the vesting of stock awards.
-PART II 
-
-Item 6 
-
+PART II
+Item 6
 ITEM 6.
-EXHIBITS  
-
-
-
-Furnished, not filed  
-
+EXHIBITS
+Furnished, not filed
 Items 3, 4, and 5 are not applicable and have been omitted.
-SIGNATURE  
-
+SIGNATURE
 Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned; thereunto duly authorized.

@@ -1,56 +1,33 @@
+Item 1.Legal Proceedings
+Refer to Note 15 to our condensed consolidated financial statements for information regarding legal proceedings.
 Item 1A.
 Risk Factors
-
 When evaluating Microchip and its business, you should give careful consideration to the factors listed below, in addition to the information provided elsewhere in this Form 10-Q and in other documents that we file with the Securities and Exchange Commission.
 Our operating results are impacted by global economic conditions and may fluctuate in the future due to a number of factors that could reduce our net sales and profitability.
 •general economic, industry or political conditions in the U.S. or internationally;
-
 •changes in demand or market acceptance of our products and products of our customers, and market fluctuations in the industries into which such products are sold;
-
 •changes in tax regulations and policies in the U.S. and other countries in which we do business including the impact of the Tax Cuts and Jobs Act of 2017 (the Act);
-
 •new accounting pronouncements or changes in existing accounting standards and practices, including the impact of the new revenue recognition standard (ASC 606) on our financial statements;
-
 •our ability to continue to realize the expected benefits of our acquisitions including our recent acquisition of Microsemi;
-
 •our ability to ramp our factory capacity to meet customer demand;
-
 •our ability to secure sufficient wafer foundry, assembly and testing capacity;
-
 •changes or fluctuations in customer order patterns and seasonality;
-
 •changes in utilization of our manufacturing capacity and fluctuations in manufacturing yields;
-
 •the mix of inventory we hold and our ability to satisfy orders from our inventory;
-
 •levels of inventories held by our customers;
-
 •risk of excess and obsolete inventories;
-
 •competitive developments including pricing pressures;
-
 •unauthorized copying of our products resulting in pricing pressure and loss of sales;
-
 •availability of raw materials and equipment;
-
 •our ability to successfully transition products to more advanced process technologies to reduce manufacturing costs;
-
 •the level of orders that are received and can be shipped in a quarter;
-
 •the level of sell-through of our products through distribution;
-
 •fluctuations in our mix of product sales;
-
 •announcements of other significant acquisitions by us or our competitors;
-
 •disruptions in our business or our customers' businesses due to terrorist activity, armed conflict, war, worldwide oil prices and supply, public health concerns, natural disasters or disruptions in the transportation system;
-
 •constrained availability from other electronic suppliers impacting our customers' ability to ship their products, which in turn may adversely impact our sales to those customers;
-
 •costs and outcomes of any current or future tax audits or any litigation or claims involving intellectual property, customers or other issues;
-
 •fluctuations in commodity or energy prices; and
-
 •property damage or other losses, whether or not covered by insurance.
 We believe that period-to-period comparisons of our operating results are not necessarily meaningful and that you should not rely upon any such comparisons as indications of our future performance.
 In future periods, our operating results may fall below our public guidance or the expectations of public market analysts and investors, which would likely have a negative effect on the price of our common stock.
@@ -103,29 +80,17 @@ As a significant portion of our products are manufactured at foundries, foundry 
 If we do not achieve a sufficient level of turns orders in a particular quarter relative to our revenue targets, our revenue and operating results will likely suffer.
 Intense competition in the markets we serve may lead to pricing pressures, reduced sales of our products or reduced market share.
 •the quality, performance, reliability, features, ease of use, pricing and diversity of our products;
-
 •our success in designing and manufacturing new products including those implementing new technologies;
-
 •our ability to ramp production and increase capacity, as needed, at our wafer fabrication and assembly and test facilities;
-
 •the rate at which customers incorporate our products into their own applications and the success of such applications;
-
 •the rate at which the markets that we serve redesign and change their own products;
-
 •our ability to obtain adequate foundry and assembly and test capacity and supplies of raw materials and other supplies at acceptable prices;
-
 •changes in demand in the markets that we serve and the overall rate of growth or contraction of such markets, including but not limited to the automotive, personal computing and consumer electronics markets;
-
 •product introductions by our competitors;
-
 •the number, nature and success of our competitors in a given market;
-
 •our ability to protect our products and processes by effective utilization of intellectual property rights;
-
 •our ability to remain price competitive against companies that have copied our proprietary product lines, especially in countries where intellectual property rights protection is difficult to achieve and maintain;
-
 •our ability to address the needs of our customers; and
-
 •general market and economic conditions.
 Historically, average selling prices in the semiconductor industry decrease over the life of any particular product.
 The average selling prices of our microcontroller and proprietary analog, interface, mixed signal and timing products have remained relatively constant, while average selling prices of our memory and non-proprietary analog, interface, mixed signal and timing products have declined over time.
@@ -176,15 +141,10 @@ In addition, during an industry or economic downturn, it is possible there will 
 Violations of the Foreign Corrupt Practices Act, or similar laws, by our distributors or other channel partners could have a material adverse impact on our business.
 Our success depends on our ability to introduce new products on a timely basis.
 •effective new product selection;
-
 •timely completion and introduction of new product designs;
-
 •procurement of licenses for intellectual property rights from third parties under commercially reasonable terms;
-
 •timely filing and protection of intellectual property rights for new product designs;
-
 •availability of development and support tools and collateral literature that make complex new products easy for engineers to understand and use; and
-
 •market acceptance of our customers' end products.
 Because our products are complex, we have experienced delays from time to time in completing new product development.
 In addition, our new products may not receive or maintain substantial market acceptance.
@@ -221,25 +181,18 @@ While our facilities in Thailand have continued to operate normally, there can b
 If operations at any of our facilities, or our subcontractors' facilities are interrupted, we may not be able to shift production to other facilities on a timely basis, and we may need to spend significant amounts to repair or replace our facilities and equipment.
 If we experienced business interruptions, we would likely experience delays in shipments of products to our customers and alternate sources for production may be unavailable on acceptable terms.
 This could result in reduced revenues and profits and the cancellation of orders or loss of customers.
-Although we maintain business interruption 
-
+Although we maintain business interruption
 insurance, such insurance will likely not be enough to compensate us for any losses that may occur and any losses or damages incurred by us as a result of business interruptions could significantly harm our business.
 Additionally, operations at our customers and licensees may be disrupted for a number of reasons.
 In the event of customer disruptions, sales of our products may decline and our revenue, profitability and financial condition could suffer.
 Likewise, if our licensees are unable to manufacture and ship products incorporating our technology, or if there is a decrease in product demand due to a business disruption, our royalty revenue may decline.
 Our technology licensing business exposes us to various risks.
 •proper identification of licensee requirements;
-
 •timely development and introduction of new or enhanced technology;
-
 •our ability to protect and enforce our intellectual property rights for our licensed technology;
-
 •our ability to limit our liability and indemnification obligations to licensees;
-
 •availability of sufficient development and support services to assist licensees in their design and manufacture of products integrating our technology;
-
 •availability of foundry licensees with sufficient capacity to support original equipment manufacturers (OEM) production; and
-
 •market acceptance of our customers' end products.
 Because our licensed technologies are complex, there may be delays from time to time in developing and enhancing such technologies.
 There can be no assurance that our existing or any enhanced or new technology will achieve or maintain substantial market acceptance.
@@ -254,17 +207,11 @@ As is typical in the semiconductor industry, we receive notifications from third
 These legal proceedings and claims, even if meritless, could result in substantial costs to us and divert our resources.
 If we are not able to resolve a claim, settle a matter, obtain necessary licenses on commercially reasonable terms, reengineer our products or processes to avoid infringement, provide a cost-effective remedy, or successfully prosecute or defend our position, we could incur uninsured liability in any of them, be required to take an appropriate charge to operations, be enjoined from selling a material portion of our products or using certain processes, suffer a reduction or elimination in the value of our inventories, and our business, financial condition or results of operations could be harmed.
 •costs related to writing off the value of our inventory of nonconforming products;
-
 •recalling nonconforming products;
-
 •providing support services, product replacements, or modifications to products and the defense of such claims;
-
 •diversion of resources from other projects;
-
 •lost revenue or a delay in the recognition of revenue due to cancellation of orders or unpaid receivables;
-
 •customer imposed fines or penalties for failure to meet contractual requirements; and
-
 •a requirement to pay damages or penalties.
 Because the systems into which our products are integrated have a higher cost of goods than the products we sell, the expenses and damages we are asked to pay may be significantly higher than the sales and profits we received from the products involved.
 While we specifically exclude consequential damages in our standard terms and conditions, certain of our contracts may not exclude such liabilities.
@@ -299,34 +246,22 @@ In particular, economic conditions in China remain uncertain and we are unable t
 We purchase a substantial portion of our raw materials and equipment from foreign suppliers.
 In addition, we own product assembly and testing facilities near Bangkok, Thailand, which has experienced periods of political instability in the past.
 A large portion of our finished goods inventory is maintained in Thailand.
-From time to time, Thailand has also 
-
+From time to time, Thailand has also
 experienced periods of severe flooding.
 There can be no assurance that any future flooding or political instability in Thailand would not have a material adverse impact on our operations.
 As part of our Atmel acquisition, we acquired a test facility in Calamba, Philippines.
 We use various foundries and other foreign contractors for a significant portion of our assembly and testing and wafer fabrication requirements.
 •political, social and economic instability;
-
 •potentially adverse tax consequences;
-
 •economic uncertainty in the worldwide markets served by us;
-
 •trade restrictions and changes in tariffs;
-
 •import and export license requirements and restrictions;
-
 •changes in rules and laws related to taxes, environmental, health and safety, technical standards and consumer protection in various jurisdictions;
-
 •currency fluctuations and foreign exchange regulations;
-
 •difficulties in staffing and managing international operations;
-
 •employment regulations;
-
 •disruptions in international transport or delivery;
-
 •public health conditions; and
-
 •difficulties in collecting receivables and longer payment cycles.
 If any of these risks materialize, or are worse than we anticipate, our sales could decrease and our operating results could suffer.
 Our contractual relationships with our customers expose us to risks and liabilities.
@@ -403,8 +338,7 @@ In addition, the number and complexity of laws focused on the energy efficiency 
 It may be difficult for us to timely comply with these laws and we may not have sufficient quantities of compliant products to meet customers' needs, thereby adversely impacting our sales and profitability.
 We may also have to write off inventory in the event that we hold unsaleable inventory as a result of changes to regulations or customer requirements.
 We expect these risks and trends to continue.
-In addition, we anticipate increased customer requirements to meet voluntary criteria related to the reduction or elimination of substances of high concern in our products, energy efficiency measures, and supplier practices 
-
+In addition, we anticipate increased customer requirements to meet voluntary criteria related to the reduction or elimination of substances of high concern in our products, energy efficiency measures, and supplier practices
 associated with sourcing and manufacturing.
 These requirements may increase our own costs, as well as those passed on to us by our supply chain.
 Customer demands for us to implement business practices that are more stringent than existing legal requirements may reduce our revenue opportunities or cause us to incur higher costs.
@@ -437,7 +371,6 @@ We are subject to certain income tax examinations in foreign jurisdictions for f
 We regularly assess the likelihood of adverse outcomes resulting from these examinations to determine the adequacy of our provision for income taxes and have reserved for potential adjustments that may result from the current examinations.
 There can be no assurance that the final determination of any of these or any future examinations will not have an adverse effect on our effective tax rates, financial position and results of operations.
 Exposure to greater than anticipated income tax liabilities, changes in tax rules and regulations (including the Act), changes in the interpretation of tax rules and regulations, or unfavorable assessments from tax audits could affect our effective tax rates, financial condition and results of operations
-
 We are a U.S.-based multinational company subject to tax in multiple U.S. and foreign tax jurisdictions.
 Our income tax obligations could be affected by many factors, including but not limited to changes to our corporate operating structure, intercompany arrangements and tax planning strategies.
 Our income tax expense is computed based on tax rates at the time of the respective financial period.
@@ -450,31 +383,20 @@ Furthermore, changes to the taxation of undistributed foreign earnings could cha
 The foregoing items could have a material adverse effect on our business, cash flow, results of operations or financial conditions.
 The future trading price of our common stock could be subject to wide fluctuations in response to a variety of factors.
 •quarterly variations in our operating results or the operating results of other technology companies;
-
 •our ability to realize the expected benefits of our recent acquisition of Microsemi;
-
 •general conditions in the semiconductor industry;
-
 •global economic and financial conditions;
-
 •changes in our financial guidance or our failure to meet such guidance;
-
-
 •any other acquisitions we pursue or complete; and
-
 •actual or anticipated announcements of technical innovations or new products by us or our competitors.
 In addition, the stock market has from time to time experienced significant price and volume fluctuations that have affected the market prices for many companies and that often have been unrelated to the operating performance of such companies.
 These broad market fluctuations and other factors have harmed and may harm the market price of our common stock.
 Some or all of the foregoing factors could also cause the market price of our convertible debentures to decline or fluctuate substantially.
 Anti-takeover defenses in our charter documents and under Delaware law could discourage takeover attempts, which could also reduce the market price of our common stock.
 •the ability of our board of directors to issue shares of preferred stock and to determine the price and other terms of those shares, including preferences and voting rights, without stockholder approval, which could be used to significantly dilute the ownership of a hostile acquiror;
-
 •the right of our board of directors to elect a director to fill a vacancy created by the expansion of our board of directors or the resignation, death or removal of a director, which prevents stockholders from being able to fill vacancies on our board of directors;
-
 •the requirement that a special meeting of stockholders may be called only by the holders of 50% or more of the combined voting power of all classes of our capital stock, which could delay the ability of our stockholders to force consideration of a proposal or to take action, including the removal of directors;
-
 •the ability of our board of directors, by majority vote, to amend the bylaws, which may allow our board of directors to take additional actions to prevent an unsolicited takeover and inhibit the ability of an acquiror to amend the bylaws to facilitate an unsolicited takeover attempt; and
-
 •advance notice procedures with which stockholders must comply to nominate candidates to our board of directors or to propose matters to be acted upon at a stockholders' meeting, which may discourage or deter a potential acquiror from conducting a solicitation of proxies to elect the acquiror's own slate of directors or otherwise attempting to obtain control of us.
 In addition, as a Delaware corporation, we are subject to Section 203 of the Delaware General Corporation Law.
 These provisions may prohibit large stockholders, in particular those owning 15% or more of our outstanding voting stock, from merging or combining with us for a certain period of time.
@@ -505,8 +427,7 @@ Should legislative regulations require complete or partial funding of these plan
 From time to time we receive grants from governments, agencies and research organizations.
 If we are unable to comply with the terms of those grants, we may not be able to receive or recognize grant benefits or we may be required to repay grant benefits previously paid to us and recognize related charges, which would adversely affect our operating results and financial position.
 From time to time, we receive economic incentive grants and allowances from European governments, agencies and research organizations targeted at increasing employment at specific locations.
-The subsidy grant agreements typically contain 
-
+The subsidy grant agreements typically contain
 economic incentive, headcount, capital and research and development expenditure and other covenants that must be met to receive and retain grant benefits, and these programs can be subjected to periodic review by the relevant governments.
 Noncompliance by us with the conditions of the grants could result in our forfeiture of all or a portion of any future amounts to be received, as well as the repayment of all or a portion of amounts received to date.
 Conversion of our debentures will dilute the ownership interest of our existing stockholders.

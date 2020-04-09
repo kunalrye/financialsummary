@@ -1,0 +1,125 @@
+ITEM 2.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+FORWARD-LOOKING STATEMENTS
+This Quarterly Report on Form 10-Q contains or incorporates forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.
+These statements include, but are not limited to, statements about our future financial performance and business plans, the adequacy of our liquidity and capital resources, the continued payment of quarterly dividends, and the timing of revenue recognition, and are described more completely in Part I of our Annual Report on Form 10-K for the year ended December 31, 2018.
+These forward-looking statements are based on current expectations, estimates, forecasts, and projections about the industry and markets in which we operate and management’s beliefs and assumptions.
+In addition, other written or oral statements that constitute forward-looking statements may be made by us or on our behalf.
+Words such as “expect,” “anticipate,” “intend,” “plan,” “believe,” “could,” “estimate,” “may,” “target,” “strategy,” “is intended to,” “project,” “guidance,” “likely,” “usually,” or variations of such words and similar expressions are intended to identify such forward-looking statements.
+Important factors that could cause actual future activities and results to differ materially from those expressed in such forward-looking statements include, among others, variation in demand for our products and services, reliance on third-party relationships, reliance on key personnel, the inherent risks associated with international operations and the continued uncertainties in the global economy, our continued effort to market and sell both domestically and internationally, foreign currency exchange rates, the potential legal and financial liabilities and reputation damage due to cyber-attacks and security breaches, and management of our growth.
+These risks and other factors that could cause actual results to differ materially from those expressed in such forward-looking statements are described more completely in Part I of our Annual Report on Form 10-K for the year ended December 31, 2018 and other filings we make with the U.S. Securities and Exchange Commission (“SEC”).
+Investors are cautioned not to place undue reliance on such forward-looking statements, and there are no assurances that the results contained in such statements will be achieved.
+Although new information, future events, or risks may cause actual results to differ materially from future results expressed or implied by such forward-looking statements, except as required by applicable law, we do not undertake and expressly disclaim any obligation to publicly update or revise these forward-looking statements whether as the result of new information, future events, or otherwise.
+BUSINESS OVERVIEW
+We develop, market, license, and support enterprise software applications that help organizations transform the way they engage with their customers and process and complete work across their enterprise.
+We also license our no-code Pega Platform™ for rapid application development to clients that wish to build and extend their business applications.
+Our cloud-architected portfolio of customer engagement and digital process automation applications leverages artificial intelligence (“AI”), case management, and robotic automation technology, built on our unified no-code Pega Platform, empowering businesses to quickly design, extend, and scale their enterprise applications to meet strategic business needs.
+Our target clients are Global 3000 organizations and government agencies that require applications to differentiate themselves in the markets they serve.
+Our applications achieve and facilitate differentiation by increasing business agility, driving growth, improving productivity, attracting and retaining customers, and reducing risk.
+We deliver applications tailored to our clients’ specific industry needs.
+Performance metrics
+We utilize several performance metrics in analyzing and assessing our overall performance, making operating decisions, and forecasting and planning for future periods.
+Annual contract value (“ACV”) (1) (2)
+The change in ACV measures the growth and predictability of future cash flows from Pega Cloud and Client Cloud committed arrangements as of the end of the particular reporting period.
+Remaining performance obligations (“RPO”)
+CRITICAL ACCOUNTING POLICIES
+Management’s Discussion and Analysis of Financial Condition and Results of Operations is based upon our unaudited condensed consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States (“U.S.”) and the rules and regulations of the SEC for interim financial reporting.
+The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues, and expenses, and the related disclosure of contingent assets and liabilities.
+We base our estimates and judgments on historical experience, knowledge of current conditions, and expectations of what could occur in the future given available information.
+•“Critical Accounting Estimates and Significant Judgments” in Item 7.
+“Management’s Discussion and Analysis of Financial Condition and Results of Operations”; and
+•Note 2.
+“Significant Accounting Policies” in Item 8.
+“Financial Statements and Supplementary Data”.
+There have been no significant changes to our critical accounting policies as disclosed in our Annual Report on Form 10-K for the year ended December 31, 2018.
+RESULTS OF OPERATIONS
+Revenue
+Our license revenue is derived from sales of our applications and Pega Platform.
+Our cloud revenue is derived from our hosted Pega Platform and software applications.
+We expect our revenue mix to continue to shift in favor of our subscription offerings, particularly cloud arrangements, which could result in slower total revenue growth in the near term.
+Revenue from cloud arrangements is generally recognized over the service period, while revenue from term and perpetual license arrangements is generally recognized upfront when the license rights become effective.
+Subscription revenue
+The increases in cloud revenue in the three and nine months ended September 30, 2019 reflect the shift in client preferences to cloud arrangements from other types of arrangements.
+The increase in term license revenue in the three months ended September 30, 2019 was due to revenue recognized from several large, multi-year term license contracts in the three months ended September 30, 2019.
+The decrease in term license revenue in the nine months ended September 30, 2019 was attributable to revenue recognized from term license contracts in the nine months ended September 30, 2019 with multi-year committed maintenance periods, which resulted in a greater portion of the contract value being allocated to maintenance.
+The increases in maintenance revenue in the three and nine months ended September 30, 2019 were primarily due to the continued growth in the aggregate value of the installed base of our software and strong renewal rates in excess of 90%.
+Perpetual license
+The decreases in perpetual license revenue in the three and nine months ended September 30, 2019 reflects the shift in client preferences in favor of our cloud offerings instead of our perpetual license arrangements.
+Consulting
+Our consulting revenue fluctuates depending upon the mix of new implementation projects we perform as compared to those performed by our enabled clients or led by our partners.
+The decreases in consulting revenue in the three and nine months ended September 30, 2019 were primarily due to decreases in billable hours.
+Gross profit
+The recent shift in our revenue mix toward cloud arrangements has resulted in slower total gross profit growth as our cloud business continues to grow and scale.
+Revenue from cloud arrangements is generally recognized over the service period, while revenue from term and perpetual license arrangements is generally recognized upfront when the license rights become effective.
+The increase in total gross profit in the three months ended September 30, 2019 was primarily due to an increase in term revenue recognized from several large, multi-year term license contracts in the three months ended September 30, 2019.
+It was also due to an increase in cloud revenue reflecting the shift in client preferences to cloud arrangements from other types of arrangements, an increase in maintenance revenue due to the continued growth in the aggregate value of the installed base of our software and strong renewal rates in excess of 90%.
+The decrease in total gross profit in the nine months ended September 30, 2019 was primarily due to a decrease in term and perpetual license revenue and a decrease in consulting revenue due to a decrease in billable hours.
+The decrease in total gross profit percent in the nine months ended September 30, 2019 was driven by the shift in client preferences in favor of cloud arrangements, which are lower margin than our term and perpetual license revenue streams and decreases in cloud and consulting gross profit percent.
+The decreases in cloud gross profit percent in the three and nine months ended September 30, 2019 were driven by an increase in costs as we accelerated our investments in cloud infrastructure and service delivery to support future growth.
+The decreases in consulting gross profit percent in the three and nine months ended September 30, 2019 were driven by a decrease in billable hours as consulting resources were transitioning to new projects after completing a large project and an increase in consulting resource availability as we continue growing and leveraging our partner network.
+Operating expenses
+Selling and marketing
+The increases in the three and nine months ended September 30, 2019 were primarily due to compensation and benefits of $22.6 million and $58.1 million, attributable to increased headcount, equity compensation, and increases of $4.0 million and $10.6 million in deferred contract cost amortization.
+Also, contributing to the increases were travel and entertainment of $2.6 million and $4.5 million.
+The increase in headcount reflects our efforts to increase our sales capacity to deepen relationships with existing clients and target new accounts.
+Research and development
+The increases in the three and nine months ended September 30, 2019 were primarily due to compensation and benefits of $3.8 million and $10.5 million, attributable to an increase in headcount and equity compensation, and $1.2 million and $4.5 million in cloud hosting expenses as we expand our cloud-focused research and development activities.
+General and administrative
+The increases in the three and nine months ended September 30, 2019 were primarily due to compensation and benefits of $3.2 million and $3.7 million, due to increased headcount.
+Stock-based compensation
+The increases in the three and nine months ended September 30, 2019 were primarily due to the increased value of our annual periodic equity awards granted in March 2019 and 2018 and increased headcount.
+These awards generally have a five-year vesting schedule.
+Other income (expense), net
+The changes in foreign currency transaction (loss) gain were primarily due to the impact of fluctuations in foreign currency exchange rates associated with our foreign currency-denominated cash, accounts receivable, and intercompany receivables and payables held by our United Kingdom (“U.K.”) subsidiary.
+The inclusion of excess tax benefits from stock-based compensation in the provision for income taxes has increased the variability of the effective tax rates in recent periods.
+This fluctuation may continue in future periods, depending on our future stock price in relation to the fair value of awards, the timing of RSU vestings, the exercise behavior of our stock option holders, and the total value of future grants of stock-based compensation awards.
+During the nine months ended September 30, 2019, the Company’s effective income tax rate changed primarily due to the Global Intangible Low-Taxed Income (“GILTI”) provision of the Tax Reform Act.
+The Company’s effective income tax rate was also affected by excess tax benefits from stock-based compensation and an increase in U.S. research and development tax credits.
+LIQUIDITY AND CAPITAL RESOURCES
+On November 6, 2019, we entered into a five-year $100 million senior secured revolving credit agreement (the “Credit Agreement”) with PNC Bank, National Association (“PNC”).
+We may use borrowings to finance working capital needs and for general corporate purposes.
+Subject to specific circumstances, the Credit Agreement allows us to increase the aggregate commitment up to $200 million.
+See Item 5.
+“Other Information” for additional information.
+We believe that our current cash, cash equivalents, marketable securities, cash flow from operations, and borrowing capacity will be sufficient to fund our operations, quarterly cash dividends, and stock repurchases for at least the next 12 months.
+Whether these resources are adequate to meet our liquidity needs beyond that period will depend on our growth, operating results, and the investments required to meet possible increased demand for our services.
+If we require additional capital resources to grow our business, we may seek to finance our operations from available funds or additional external financing.
+If it became necessary to repatriate foreign funds, we may be required to pay U.S. state and local taxes, as well as foreign taxes, upon repatriation.
+Due to the complexity of income tax laws and regulations, and the effects of the Tax Reform Act, it is impracticable to estimate the amount of taxes we would have to pay.
+Cash (used in) provided by operating activities
+As client preferences continue to shift in favor of cloud arrangements, we could continue to experience slower operating cash flow growth, or negative cash flow, in the near term.
+Cash from cloud arrangements is generally collected over an average service period of three years, while cash from perpetual license arrangements is generally collected upfront, shortly after the license rights become effective.
+The primary driver of the decrease in the nine months ended September 30, 2019 was the recent shift in our revenue mix toward cloud arrangements, which are generally collected over an average service period of three years, and increased costs as the Company accelerated investments in its cloud offerings and selling and marketing activities to support future growth.
+Cash provided by (used in) investing activities
+The change in cash provided by (used in) investing activities was primarily driven by the payment of consideration for the acquisition of In the Chat Communications Inc. in May 2019.
+Cash (used in) financing activities
+We primarily used cash in financing activities for repurchases of our common stock under our publicly announced stock repurchase programs, stock repurchases for tax withholdings for the net settlement of our equity awards, and the payment of our quarterly dividend.
+Stock repurchase program (1)
+Common stock repurchases
+Dividends
+It is our current intention to pay a quarterly cash dividend of $0.03 per share, however, the Board of Directors may terminate or modify the dividend program at any time without prior notice.
+ITEM 2.
+UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+Issuer Purchases of Equity Securities
+ITEM 5.
+OTHER INFORMATION
+On November 6, 2019, we entered into a five-year $100 million senior secured revolving credit agreement (the “Credit Agreement”) with PNC Bank, National Association (“PNC”).
+We may use borrowings to finance working capital needs and for general corporate purposes.
+Subject to specific circumstances, the Credit Agreement allows us to increase the aggregate commitment up to $200 million.
+The Credit Agreement contains customary representations and warranties, affirmative and negative covenants, and events of default.
+Principal covenants include a maximum net consolidated leverage ratio of 3.5 (with a step-up in the event of certain acquisitions) and a minimum consolidated interest coverage ratio of 3.5.
+Our obligations under the Credit Agreement may be accelerated upon the occurrence of an event of default under the Credit Agreement, which includes, among other things, payment defaults, defaults in the performance of
+affirmative and negative covenants, the inaccuracy of representations or warranties, cross-defaults, bankruptcy and insolvency-related defaults, defaults relating to judgments, certain events resulting in a material adverse effect on us and a change of control of us.
+•the London Interbank Offered Rates (“LIBOR”) Rate plus an interest margin based on our net consolidated leverage ratio; or
+•a base rate (which is the highest of (1) PNC’s prime rate, (2) the Federal Funds open rate in effect on such day plus 0.5%, and (3) the daily LIBOR Rate plus 1%) plus an interest margin based on our net consolidated leverage ratio.
+We are obligated to pay an unused commitment fee during the term of the Credit Agreement that varies between 0.15% and 0.225% depending on our net consolidated leverage ratio.
+The credit facility includes a provision for the replacement of the LIBOR rate in the event that such rate is no longer available.
+The replacement rate will be determined by PNC in consultation with us.
+The revolving credit facility may be prepaid before maturity in whole or in part at our option without penalty or premium.
+We may at any time reduce or terminate the commitments under the credit facility.
+The description of the Credit Agreement contained herein is qualified in its entirety by reference to the Credit Agreement, a copy of which is filed as Exhibit 10.1 to this Quarterly Report on Form 10-Q.
+ITEM 6.
+EXHIBITS
++ Indicates that the exhibit is being furnished with this report and is not filed as a part of it.
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.

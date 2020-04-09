@@ -1,113 +1,62 @@
 Item 2.
 Management's Discussion and Analysis of Financial Condition and Results of Operations
-
 This report, including "Part I – Item 2 Management's Discussion and Analysis of Financial Condition and Results of Operations" and "Part II - Item 1A Risk Factors" contains certain forward-looking statements that involve risks and uncertainties, including statements regarding our strategy, financial performance and revenue sources.
 We use words such as "anticipate," "believe," "plan," "expect," "future," "continue," "intend" and similar expressions to identify forward-looking statements.
 Our actual results could differ materially from the results anticipated in these forward-looking statements as a result of certain factors including those set forth under "Risk Factors," beginning at page 51 and elsewhere in this Form 10-Q.
 Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance or achievements.
 You should not place undue reliance on these forward-looking statements.
 We disclaim any obligation to update information contained in any forward-looking statement.
-These forward-looking statements include, without limitation, statements regarding the following: 
-
+These forward-looking statements include, without limitation, statements regarding the following:
 •The effects that adverse global economic conditions and fluctuations in the global credit and equity markets may have on our financial condition and results of operations;
-
 •The effects and amount of competitive pricing pressure on our product lines and modest pricing declines in certain of our more mature proprietary product lines;
-
 •Our ability to moderate future average selling price declines;
-
 •The effect of product mix, capacity utilization, yields, fixed cost absorption, competition and economic conditions on gross margin;
-
 •The amount of, and changes in, demand for our products and those of our customers;
-
 •Our expectation that in the future we will acquire additional businesses that we believe will complement our existing businesses;
-
 •Our expectation that in the future we will enter into joint development agreements or other business or strategic relationships with other companies;
-
 •The level of orders that will be received and shipped within a quarter;
-
 •Our expectation that our days of inventory levels will increase modestly in the March 2018 quarter.
 Our belief that our existing level of inventory will allow us to maintain competitive lead times and provide strong delivery performance to our customers;
-
 •The effect that distributor and customer inventory holding patterns will have on us;
-
 •Our belief that customers recognize our products and brand name and use distributors as an effective supply channel;
-
 •Anticipating increased customer requirements to meet voluntary criteria related to the reduction or elimination of substances in our products;
-
 •Our belief that deferred cost of sales are recorded at their approximate carrying value and will have low risk of material impairment;
-
 •Our belief that our direct sales personnel combined with our distributors provide an effective means of reaching our customer base;
-
 •Our ability to increase the proprietary portion of our analog and interface product lines and the effect of such an increase;
-
 •Our belief that our processes afford us both cost-effective designs in existing and derivative products and greater functionality in new product designs;
-
 •The impact of any supply disruption we may experience;
-
 •Our ability to effectively utilize our facilities at appropriate capacity levels and anticipated costs;
-
 •That we adjust capacity utilization to respond to actual and anticipated business and industry-related conditions;
-
 •That our existing facilities will provide sufficient capacity to respond to increases in demand with modest incremental capital expenditures;
-
 •That manufacturing costs will be reduced by transition to advanced process technologies;
-
 •Our ability to maintain manufacturing yields;
-
 •Continuing our investments in new and enhanced products;
-
 •The cost effectiveness of using our own assembly and test operations;
-
 •Our anticipated level of capital expenditures;
-
 •Continuation and amount of quarterly cash dividends;
-
 •That the Atmel acquisition was structured in a manner that enabled us to utilize a substantial portion of the cash, cash equivalents, short-term investments and long-term investments held by certain of our foreign subsidiaries in a tax efficient manner and that our determinations with respect to the tax consequences of the acquisition are reasonable;
-
 •The sufficiency of our existing sources of liquidity to finance anticipated capital expenditures and otherwise meet our anticipated cash requirements, and the effects that our contractual obligations are expected to have on them;
-
 •That our U.S. operations and capital requirements are funded primarily by cash generated from U.S. operating activities, which has been and is expected to be sufficient to meet our business needs in the U.S. for the foreseeable future;
-
 •The impact of seasonality on our business;
-
 •The accuracy of our estimates used in valuing employee equity awards;
-
 •That the resolution of legal actions will not have a material effect on our business, and the accuracy of our assessment of the probability of loss and range of potential loss;
-
 •The recoverability of our deferred tax assets;
-
 •The adequacy of our tax reserves to offset any potential tax liabilities, having the appropriate support for our income tax positions and the accuracy of our estimated tax rate;
-
 •That we intend to pay the one-time transition tax over a period of eight years;
-
 •Our belief that our determinations with respect to the tax consequences of the Atmel acquisition are reasonable;
-
 •Our belief that the expiration of any tax holidays will not have a material impact on our overall tax expense or effective tax rate;
-
 •Our belief that the estimates used in preparing our consolidated financial statements are reasonable;
-
 •Our actions to vigorously and aggressively defend and protect our intellectual property on a worldwide basis;
-
 •Our ability to obtain patents and intellectual property licenses and minimize the effects of litigation;
-
 •The level of risk we are exposed to for product liability claims or indemnification claims;
-
-
 •The effect of fluctuations in currency rates;
-
 •That our offshore earnings are considered to be permanently reinvested offshore and that we could determine to repatriate some of our offshore earnings in future periods to fund stockholder dividends, share repurchases, acquisitions or other corporate activities;
-
 •That a significant portion of our future cash generation will be in our foreign subsidiaries;
-
 •Our intention to satisfy the lesser of the principal amount or the conversion value of our debentures in cash;
-
 •Changes to the taxation of undistributed foreign earnings could change our future intentions regarding reinvestment of such earnings;
-
 •Our intent to maintain a high-quality investment portfolio that preserves principal, meets liquidity needs, avoids inappropriate concentrations and delivers an appropriate yield; and
-
 •Our ability to collect accounts receivable.
 Strategy
-
 Our goal is to be a worldwide leader in providing specialized semiconductor products for a wide variety of embedded control applications.
 Our strategic focus is on embedded control solutions, including general purpose and specialized microcontrollers, development tools and related software, analog, interface, mixed signal and timing products, wired and wireless connectivity products, memory products and technology licensing.
 We provide highly cost-effective embedded control solutions that also offer the advantages of small size, high performance, extreme low power usage, wide voltage range operation, mixed signal integration and ease of development, thus enabling timely and cost-effective integration of our solutions by our customers in their end products.
@@ -132,21 +81,17 @@ Our current research and development activities focus on the design of new micro
 We are also developing new design and process technologies to achieve further cost reductions and performance improvements in our products.
 See "Our operating results are impacted by both seasonality and the wide fluctuation of supply and demand in the semiconductor industry," on page 55 for discussion of the impact of seasonality on our business.
 Critical Accounting Policies and Estimates
-
 General
-
 Our discussion and analysis of our financial condition and results of operations is based upon our condensed consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the U.S. We review the accounting policies we use in reporting our financial results on a regular basis.
 The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses and related disclosure of contingent liabilities.
 On an ongoing basis, we evaluate our estimates, including those related to revenue recognition, business combinations, share-based compensation, inventories, income taxes, senior and junior subordinated convertible debt and contingencies.
 We base our estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources.
-Our results may 
-
+Our results may
 differ from these estimates due to actual outcomes being different from those on which we based our assumptions.
 We review these estimates and judgments on an ongoing basis.
 We believe the following critical accounting policies affect our more significant judgments and estimates used in the preparation of our condensed consolidated financial statements.
 We also have other policies that we consider key accounting policies, such as our policy regarding revenue recognition to original equipment manufacturers (OEMs); however, we do not believe these policies require us to make estimates or judgments that are as difficult or subjective as our policies described below.
 Revenue Recognition - Distributors
-
 Our distributors worldwide generally have broad price protection and product return rights which prevent the sales pricing from being fixed or determinable at the time of shipment to our distributors.
 Therefore, revenue recognition is deferred until the pricing uncertainty is resolved, which generally occurs when the distributor sells the product to their customer.
 At the time of shipment to these distributors, we record a trade receivable for the selling price as there is a legally enforceable right to payment, relieve inventory for the carrying value of goods shipped since legal title has passed to the distributor, and record the gross margin in deferred income on shipments to distributors on our condensed consolidated balance sheets.
@@ -172,8 +117,7 @@ The deferred income on shipments to distributors that will ultimately be recogni
 These additional price credits historically have resulted in the deferred income approximating the overall gross margins that we recognize in the distribution channel of our business.
 Distributor advances, reflected as a reduction of deferred income on shipments to distributors on our condensed consolidated balance sheets, totaled $194.2 million at December 31, 2017 and $203.9 million at March 31, 2017.
 On sales to distributors, our payment terms generally require the distributor to settle amounts owed to us for an amount in excess of their ultimate cost.
-The sales price to our distributors may be higher than the amount that the distributors will ultimately owe us because distributors often negotiate price reductions after purchasing products from us and such reductions are often 
-
+The sales price to our distributors may be higher than the amount that the distributors will ultimately owe us because distributors often negotiate price reductions after purchasing products from us and such reductions are often
 significant.
 It is our practice to apply these negotiated price discounts to future purchases, requiring the distributor to settle receivable balances, on a current basis, generally within 30 days, for amounts originally invoiced.
 This practice has an adverse impact on the working capital of our distributors.
@@ -191,7 +135,6 @@ Products returned by distributors and subsequently scrapped have historically be
 We routinely evaluate the risk of impairment of the deferred cost of sales component of the deferred income on shipments to distributors account.
 Because of the historically immaterial amounts of inventory that have been scrapped, and historically rare instances where discounts given to a distributor result in a price less than our cost, we believe the deferred costs are recorded at their approximate carrying value.
 Recent Updates to Revenue Recognition
-
 In May 2014, the FASB issued ASU 2014-09-Revenue from Contracts with Customers (Topic 606) and in August 2015, the FASB subsequently issued ASU 2015-14 "Deferral of the Effective Date," which supersedes existing revenue recognition guidance pursuant to US GAAP and will no longer permit us to defer revenue on sales to distributors until the products are sold to the end customer.
 Upon our adoption of ASU 2014-09 and 2015-14 beginning April 1, 2018, we will be required to recognize revenue at the time of shipment to the distributors.
 The amount of revenue recognized will be adjusted for estimates of returns and allowances provided to distributors.
@@ -199,10 +142,7 @@ These estimates will require significant judgment and will be based on historica
 After adoption, the effect of the new standard on our future consolidated financial statements will depend on the relative percentage of sales through distributors; the level of and changes in the amount of inventory held by distributors; the individual products and product types held in inventory by distributors; and our ability to accurately estimate pricing variability at the time of sale to the distributor.
 See Note 2 to our condensed consolidated financial statements for additional information on the new guidance.
 Business Combinations
-
-
 Share-based Compensation
-
 We measure at fair value and recognize compensation expense for all share-based payment awards, including grants of employee stock options, restricted stock units (RSUs) and employee stock purchase rights, to be recognized in our financial statements based on their respective grant date fair values.
 For the past several years, we have utilized RSUs as our primary equity incentive compensation instrument for employees.
 Share-based compensation cost is measured on the grant date based on the fair market value of our common stock discounted for expected future dividends and is recognized as expense straight-line over the requisite service periods.
@@ -215,7 +155,6 @@ Prior to the adoption of ASU 2016-09, we estimated the number of share-based awa
 If there are any modifications or cancellations of the underlying unvested securities, we may be required to accelerate, increase or cancel any remaining unearned share-based compensation expense.
 Future share-based compensation expense and unearned share-based compensation will increase to the extent that we grant additional equity awards to employees or we assume unvested equity awards in connection with acquisitions.
 Inventories
-
 Inventories are valued at the lower of cost and net realizable value using the first-in, first-out method.
 We write down our inventory for estimated obsolescence or unmarketable inventory in an amount equal to the difference between the cost of inventory and the estimated net realizable value based upon assumptions about future demand and market conditions.
 If actual market conditions are less favorable than those we projected, additional inventory write-downs may be required.
@@ -229,7 +168,6 @@ Alternatively, demand can be adjusted down to the extent any existing products a
 In periods where our production levels are substantially below our normal operating capacity, the reduced production levels of our manufacturing facilities are charged directly to cost of sales.
 There was no charge to cost of sales for reduced production levels in each of the three and nine month periods ended December 31, 2017 and 2016.
 Income Taxes
-
 As part of the process of preparing our condensed consolidated financial statements, we are required to estimate our income taxes in each of the jurisdictions in which we operate.
 This process involves estimating our actual current tax exposure together with assessing temporary differences resulting from differing treatment of items for tax and accounting purposes.
 These differences result in deferred tax assets and liabilities, which are included within our condensed consolidated balance sheets.
@@ -264,16 +202,13 @@ Due to the complexity of the new tax on low-taxed income of foreign subsidiaries
 Based on recent FASB deliberations, it appears we will be allowed to make an accounting policy choice of either (1) treating taxes due on future U.S. inclusions in taxable income as a current-period expense when incurred or (2) factoring such amounts into our measurement of our deferred taxes.
 Our selection of an accounting policy will depend, in part, on analyzing our facts to determine what the impact is expected to be under each method.
 Senior and Junior Subordinated Convertible Debt
-
 We separately account for the liability and equity components of our senior and junior subordinated convertible debt in a manner that reflects our nonconvertible debt (unsecured debt) borrowing rate when interest cost is recognized.
 This results in a bifurcation of a component of the debt, classification of that component in equity and the accretion of the resulting discount on the debt to be recognized as part of interest expense in our condensed consolidated statements of operations.
 Lastly, we include the dilutive effect of the shares of our common stock issuable upon conversion of the outstanding senior and junior subordinated convertible debt in our diluted income per share calculation regardless of whether the market price triggers or other contingent conversion features have been met.
-We apply the treasury stock method as we have the intent and have adopted an accounting policy to settle the principal amount of the senior and junior subordinated convertible debentures in 
-
+We apply the treasury stock method as we have the intent and have adopted an accounting policy to settle the principal amount of the senior and junior subordinated convertible debentures in
 cash.
 This method results in incremental dilutive shares when the average fair value of our common stock for a reporting period exceeds the conversion prices per share and adjusts as dividends are recorded in the future.
 Contingencies
-
 In the ordinary course of our business, we are exposed to various liabilities as a result of contracts, product liability, customer claims and other matters.
 Additionally, we are involved in a limited number of legal actions, both as plaintiff and defendant.
 Consequently, we could incur uninsured liability in any of those actions.
@@ -288,18 +223,13 @@ If we can reasonably estimate a range but no amount within the range appears to 
 Contingencies of an acquired company that exist as of the date of the acquisition are measured at fair value if determinable, which generally is based on a probability weighted model.
 If fair value is not determinable, contingencies of an acquired company are recognized when they become probable and reasonably estimable.
 Results of Continuing Operations
-
-
-
 Net Sales
-
 We operate in two industry segments and engage primarily in the design, development, manufacture and sale of semiconductor products as well as the licensing of our SuperFlash and other technologies.
 We sell our products to distributors and original equipment manufacturers, referred to as OEMs, in a broad range of markets, perform ongoing credit evaluations of our customers and generally require no collateral.
 In certain circumstances, a customer's financial condition may require collateral, and, in such cases, the collateral would be typically provided by letters of credit.
 Our net sales for the quarter ended December 31, 2017 were $994.2 million, a decrease of 1.8% from the previous quarter's net sales of $1,012.1 million.
 The decrease in net sales in the three months ended December 31, 2017 compared to the three months ended September 30, 2017 was primarily due to the impact of seasonality on our business.
 •An amount of revenue that could not be recognized under US GAAP relating to Atmel's inventory in the distribution channel on the acquisition date; and
-
 •The impact of the change in timing of revenue recognition for some of Atmel's distributors from shipment to the distributor to upon sale by the distributor to their customers.
 Excluding the impact of these two accounting factors, net sales for the three and nine months ended December 31, 2017 compared to the same periods in the prior year increased 12.8% and 15.0%, respectively.
 These increases were primarily due to growth in our business driven by favorable economic and semiconductor industry conditions.
@@ -307,20 +237,13 @@ Approximately 7% and 5% of the respective increases in net sales during the thre
 The remaining sales growth was primarily due to a net increase in the volume of products sold.
 We sell a large number of products to a large and diverse customer base and there was not any product, customer or market that accounted for a material portion of the increase.
 •global economic conditions in the markets we serve;
-
 •semiconductor industry conditions;
-
 •our new product offerings that have increased our served available market;
-
 •customers' increasing needs for the flexibility offered by our programmable solutions;
-
 •inventory holding patterns of our customers;
-
 •increasing semiconductor content in our customers' products; and
-
 •continued market share gains in the segments of the markets we address.
 Microcontrollers
-
 Our microcontroller product line represents the largest component of our total net sales.
 Microcontrollers and associated application development systems accounted for approximately 66.5% and 65.9% of our net sales for the three and nine months ended December 31, 2017, respectively, compared to approximately 61.9% and 62.6% of our net sales for the three and nine months ended December 31, 2016, respectively.
 Net sales of our microcontroller products increased 27.9% and 25.2% in the three and nine months ended December 31, 2017, respectively, compared to the three and nine months ended December 31, 2016.
@@ -331,7 +254,6 @@ We have experienced, and expect to continue to experience, moderate pricing pres
 We have in the past been able to, and expect in the future to be able to, moderate average selling price declines in our microcontroller product lines by introducing new products with more features and higher prices.
 We may be unable to maintain average selling prices for our microcontroller products as a result of increased pricing pressure in the future, which would adversely affect our operating results.
 Analog, Interface, Mixed Signal and Timing Products
-
 Sales of our analog, interface, mixed signal and timing products accounted for approximately 23.3% and 23.8% of our net sales for the three and nine months ended December 31, 2017, respectively, compared to approximately 26.5% and 26.3% of our net sales for the three and nine months ended December 31, 2016, respectively.
 Net sales of our analog, interface, mixed signal and timing products increased 4.7% and 7.8% in the three and nine months ended December 31, 2017, respectively, compared to the three and nine months ended December 31, 2016.
 These sales increases were due primarily to growth in our business driven by favorable economic and semiconductor industry conditions and market share gains.
@@ -341,7 +263,6 @@ The non-proprietary portion of our analog, interface, mixed signal and timing bu
 We may be unable to maintain the average selling prices of our analog, interface, mixed signal and timing products as a result of increased pricing pressure in the future, which would adversely affect our operating results.
 We anticipate the proprietary portion of our analog, interface, mixed signal and timing products will increase over time.
 Memory Products
-
 Sales of our memory products accounted for approximately 4.8% and 5.0% of our net sales for the three and nine-month periods ended December 31, 2017, respectively, compared to approximately 5.5% of our net sales for each of the three and nine-month periods ended December 31, 2016, respectively.
 Net sales of our memory products increased 4.2% and 8.0% in the three and nine months ended December 31, 2017, respectively, compared to the three and nine months ended December 31, 2016.
 These sales increases were due primarily to growth in our business driven by favorable economic and semiconductor industry conditions.
@@ -349,20 +270,17 @@ Memory product pricing has historically been cyclical in nature, with steep pric
 We have experienced, and expect to continue to experience, varying degrees of competitive pricing pressures in our memory products.
 We may be unable to maintain the average selling prices of our memory products as a result of increased pricing pressure in the future, which could adversely affect our operating results.
 Technology Licensing
-
 Technology licensing revenue includes a combination of royalties associated with licenses for the use of our SuperFlash and other technologies and fees for engineering services.
 Technology licensing accounted for approximately 2.8% and 2.6% of our net sales for the three and nine months ended December 31, 2017, respectively, compared to approximately 2.9% and 2.7% of our net sales for the three and nine months ended December 31, 2016, respectively.
 Net sales related to our technology licensing increased 15.5% and 15.1% in the three and nine months ended December 31, 2017, respectively, compared to the three and nine months ended December 31, 2016.
 Revenue from technology licensing can fluctuate over time based on the production activities of our licensees as well as general economic and semiconductor industry conditions.
 Multi-Market and Other
-
 Multi-market and Other (MMO) consists of manufacturing services (wafer foundry and assembly and test subcontracting), legacy application specific integrated circuits, complex programmable logic devices, and aerospace products.
 Revenue from these services and products accounted for approximately 2.6% and 2.7% of our net sales for the three and nine months ended December 31, 2017, respectively, compared to approximately 3.2% and 2.9% of our net sales for the three and nine months ended December 31, 2016, respectively.
 MMO net sales decreased 2.0% in the three months ended December 31, 2017 compared to the three months ended December 31, 2016.
 MMO net sales increased 7.9% in the nine months ended December 31, 2017 compared to the nine months ended December 31, 2016.
 MMO net sales can fluctuate over time based on changes in demand for our manufacturing services (wafer foundry and assembly and test subcontracting) as well as general economic and semiconductor industry conditions.
 Distribution
-
 Distributors accounted for approximately 53.7% of our net sales in the three months ended December 31, 2017 and approximately 52.6% of our net sales in the three months ended December 31, 2016.
 Distributors accounted for approximately 54.2% of our net sales in the nine months ended December 31, 2017 and approximately 54.9% of our net sales in the nine months ended December 31, 2016.
 Our distributors focus primarily on servicing the product requirements of a broad base of diverse customers.
@@ -372,37 +290,26 @@ Generally, we do not have long-term agreements with our distributors and we, or 
 The loss of, or the disruption in the operations of, one or more of our distributors could reduce our future net sales in a given quarter and could result in an increase in inventory returns.
 At December 31, 2017, our distributors maintained 34 days of inventory of our products compared to 33 days of inventory at our distributors at March 31, 2017.
 Over the past five fiscal years, the days of inventory maintained by our distributors have fluctuated between 30 days and 37 days.
-We do not believe that inventory holding patterns at our distributors 
-
+We do not believe that inventory holding patterns at our distributors
 will materially impact our net sales prior to the adoption of ASU 2014-09-Revenue from Contracts with Customers (Topic 606), as we do not recognize revenue until the inventory is sold by the distributors.
 Upon our adoption of ASC 606 commencing on April 1, 2018, we will be required to recognize revenue from distributors at the time our products are sold to the distributor.
 As a result, beginning April 1, 2018, inventory holding patterns at our distributors may have a material impact on our net sales.
 Sales by Geography
-
-
-
 Americas sales include sales to customers in the U.S., Canada, Central America and South America.
 Sales to foreign customers accounted for approximately 85% of our total net sales in each of the three and nine months ended December 31, 2017 compared to approximately 83% and 84% of our total net sales in the three and nine months ended December 31, 2016, respectively.
 Substantially all of our foreign sales are U.S. dollar denominated.
 Sales to customers in Asia have generally increased over time due to many of our customers transitioning their manufacturing operations to Asia and growth in demand from the emerging Asian market.
 Our sales force in the Americas and Europe supports a significant portion of the design activity for products which are ultimately shipped to Asia.
 Gross Profit
-
 Our gross profit in the three months ended December 31, 2017 was $607.1 million, or 61.1% of net sales, compared to $465.3 million, or 55.8% of net sales, in the three months ended December 31, 2016.
 Our gross profit in the nine months ended December 31, 2017 was $1,805.6 million, or 60.6% of net sales, compared to $1,224.4 million, or 48.9% of net sales, in the nine months ended December 31, 2016.
 •charges of approximately $12.0 million and $186.7 million in the three and nine months ended December 31, 2016, respectively, related to the recognition of acquired inventory at fair value as a result of our acquisitions which increased the value of our acquired inventory and subsequently increased our cost of sales and reduced our gross margins when the related revenue was recognized;
-
 •inventory write-downs being higher than the gross margin impact of sales of inventory that was previously written down in the three and nine months ended December 31, 2016;
-
 •inventory write-downs being lower than the gross margin impact of sales of inventory that was previously written down in the three and nine months ended December 31, 2017; and
-
 •fluctuations in the product mix of microcontrollers, analog, interface, mixed signal and timing products, memory products and technology licensing.
 •continual cost reductions in wafer fabrication and assembly and test manufacturing, such as new manufacturing technologies and more efficient manufacturing techniques;
-
 •lower depreciation as a percentage of cost of sales;
-
 •increases in the level of assembly and test operations performed at our internal facilities compared to assembly and test operations performed by our third-party contractors, which lower our manufacturing costs as these functions are performed internally; and
-
 •favorable market conditions and product mix.
 We adjust our wafer fabrication and assembly and test capacity utilization as required to respond to actual and anticipated business and industry-related conditions.
 When production levels are below normal capacity, we charge cost of sales for the unabsorbed capacity.
@@ -433,7 +340,6 @@ Approximately 43% and 42% of our net sales came from products that were produced
 Our use of third parties involves some reduction in our level of control over the portions of our business that we subcontract.
 While we review the quality, delivery and cost performance of our third-party contractors, our future operating results could suffer if any third-party contractor is unable to maintain manufacturing yields, assembly and test yields and costs at approximately their current levels.
 Selling, General and Administrative
-
 Selling, general and administrative expenses for the three months ended December 31, 2017 were $109.1 million, or 11.0% of net sales, compared to $111.0 million, or 13.3% of net sales, for the three months ended December 31, 2016.
 Selling, general and administrative expenses for the nine months ended December 31, 2017 were $337.6 million, or 11.3% of net sales, compared to $388.7 million, or 15.5% of net sales, for the nine months ended December 31, 2016.
 Selling, general and administrative expenses include salary expenses related to field sales, marketing and administrative personnel, advertising and promotional expenditures and legal expenses.
@@ -443,19 +349,14 @@ Selling, general and administrative expenses decreased $51.0 million, or 13.1%, 
 The primary reasons for the decreases in selling, general and administrative expenses were reductions in personnel and associated costs in connection with synergies realized from our Atmel acquisition and lower share-based compensation expense due to accelerated vesting of equity awards held by terminated Atmel employees during the period ended June 30, 2016.
 Selling, general and administrative expenses fluctuate over time, primarily due to revenue and operating expense investment levels.
 Amortization of Acquired Intangible Assets
-
-
-Special Charges and Other, Net 
-
+Special Charges and Other, Net
 During the three and nine months ended December 31, 2017, we incurred special charges and other, net of $0.2 million and $17.3 million, respectively.
 The special charges and other, net incurred in the nine months ended December 31, 2017 is comprised primarily of a $19.5 million charge for fees associated with transitioning from the public utility provider in Oregon to a lower cost direct access provider.
 During the three and nine months ended December 31, 2016, we incurred special charges and other, net of $20.9 million and $52.5 million comprised primarily of employee separation costs and impairment charges.
 Other Income (Expense)
-
 Interest income in the three and nine months ended December 31, 2017 was $6.3 million and $14.4 million, respectively.
 Interest income in the three and nine months ended December 31, 2016 was $0.5 million and $1.8 million, respectively.
-The primary reason for the increases in interest income in the three and nine months ended December 31, 2017 
-
+The primary reason for the increases in interest income in the three and nine months ended December 31, 2017
 compared to the same periods last year relates to higher cash and investment balances.
 During the quarter ended June 30, 2016, we used cash to finance a significant portion of the purchase price of our April 4, 2016 acquisition of Atmel.
 Interest expense in the three and nine months ended December 31, 2017 was $49.7 million and $148.7 million, respectively.
@@ -467,7 +368,6 @@ Other loss, net in the three months ended December 31, 2017 was $3.0 million and
 Other income, net in the three months ended December 31, 2016 was $0.1 million and other loss, net in the nine months ended December 31, 2016 was $0.7 million.
 The primary reason for these changes relates to foreign currency exchange rate fluctuations.
 Provision for Income Taxes
-
 The provision for income taxes reflects tax on foreign earnings and federal and state tax on U.S. earnings.
 We had an effective tax rate of 227.7% for the three months ended December 31, 2017 and a negative effective tax rate of 28.5% for the three months ended December 31, 2016.
 We had an effective tax rate of 80.2% for the nine months ended December 31, 2017 and a negative effective tax rate of 87.3% for the nine months ended December 31, 2016.
@@ -495,7 +395,6 @@ We believe that we maintain adequate tax reserves to offset any potential tax li
 If such amounts ultimately prove to be unnecessary, the resulting reversal of such reserves would result in tax benefits being recorded in the period the reserves are no longer deemed necessary.
 If such amounts ultimately prove to be less than any final assessment, a future charge to expense would be recorded in the period in which the assessment is determined.
 Results of Discontinued Operations
-
 Discontinued operations represent the mobile touch operations that we acquired as part of our acquisition of Atmel.
 On November 10, 2016, we completed the sale of the mobile touch assets to Solomon Systech (Limited) International, a Hong Kong based semiconductor company.
 The transaction included the sale of certain semiconductor products, equipment, customer list, backlog, patents, and a license to certain other intellectual property and patents related to Atmel's mobile touch product line.
@@ -503,7 +402,6 @@ We also agreed to provide certain transition services to Solomon Systech.
 For financial statement purposes, the results of operations for this discontinued business have been segregated from those of the continuing operations and are presented in our condensed consolidated financial statements as discontinued operations.
 Net loss from discontinued operations for the three and nine months ended December 31, 2016 was $0.2 million and $6.0 million, respectively.
 Liquidity and Capital Resources
-
 We had $1,985.0 million in cash, cash equivalents and short-term and long-term investments at December 31, 2017, an increase of $574.8 million from the March 31, 2017 balance.
 Net cash provided by operating activities was $1,060.1 million in the nine months ended December 31, 2017, compared to $736.9 million in the nine months ended December 31, 2016.
 The increase in net cash provided from operating activities was primarily due to higher net sales as well as operating cash flows resulting from synergies realized from our process efficiency and restructuring efforts related to our acquisition of Atmel.
@@ -547,8 +445,7 @@ On October 28, 2002, we announced that our Board of Directors had approved and i
 A quarterly dividend of $0.3625 per share was paid on December 5, 2017 in the aggregate amount of $84.9 million.
 A quarterly dividend of $0.3630 per share was declared on February 6, 2018 and will be paid on March 6, 2018 to stockholders of record as of February 21, 2018.
 We expect the aggregate cash dividend for March 2018 to be approximately $85.2 million.
-Our Board is free to change our dividend practices at any time and to increase or decrease the dividend paid, or not to pay a dividend on our common stock on the basis of our results of operations, financial condition, cash requirements and 
-
+Our Board is free to change our dividend practices at any time and to increase or decrease the dividend paid, or not to pay a dividend on our common stock on the basis of our results of operations, financial condition, cash requirements and
 future prospects, and other factors deemed relevant by our Board.
 Our current intent is to provide for ongoing quarterly cash dividends depending upon market conditions, our results of operations, and potential changes in tax laws.
 We believe that our existing sources of liquidity combined with cash generated from operations and borrowings under our credit agreement will be sufficient to meet our currently anticipated cash requirements for at least the next 12 months.
@@ -558,24 +455,18 @@ We may increase our borrowings under our credit agreement or seek additional equ
 The timing and amount of any such financing requirements will depend on a number of factors, including our level of dividend payments, changes in tax laws and regulations regarding the repatriation of offshore cash (including the impact of the Act), demand for our products, changes in industry conditions, product mix, competitive factors and our ability to identify suitable acquisition candidates.
 There can be no assurance that such financing will be available on acceptable terms, and any additional equity financing would result in incremental ownership dilution to our existing stockholders.
 Contractual Obligations
-
 There have not been any material changes in our contractual obligations from what we disclosed in our Annual Report on Form 10-K for the fiscal year ended March 31, 2017.
 During the December 2017 quarter, we recognized a one-time transition tax on accumulated unrepatriated foreign earnings, estimated at $627.7 million, as a result of the recent U.S. tax reform of which we expect to result in future cash payments of approximately $300.0 million.
 This one-time transition tax is identified as provisional in our condensed consolidated financial statements for the period ended December 31, 2017, and is subject to future measurement period adjustments in accordance with SAB 118.
 We intend to elect to pay this tax over a period of eight years, with 8% of the transition tax paid each year for fiscal 2018 through fiscal 2022, and 15%, 20%, and 25%, respectively, to be paid during fiscal 2023, 2024, and 2025.
 Off-Balance Sheet Arrangements (Including Guarantees)
-
 As of December 31, 2017, we are not involved in any off-balance sheet arrangements, as defined in Item 303(a)(4)(ii) of SEC Regulation S-K.
 In the ordinary course of business, we may provide standby letters of credit or other guarantee instruments to certain parties as required for certain transactions initiated by us or our subsidiaries.
 We have not recorded any liability in connection with these guarantee arrangements.
 Based on historical experience and information currently available, we believe we will not be required to make any payments under these guarantee arrangements.
 Item 2.
 Unregistered Sales of Equity Securities and Use of Proceeds
-
 We did not repurchase any shares of our common stock in the three months ended December 31, 2017.
 Item 6.Exhibits
-
-
 SIGNATURES
-
 Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.

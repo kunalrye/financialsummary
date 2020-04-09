@@ -1,0 +1,95 @@
+ITEM 2.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The Management’s Discussion and Analysis of Financial Condition and Results of Operations ("MD&A") in this Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, that involve risks and uncertainties, which are discussed in the "Cautionary Note Regarding Forward-Looking Statements" section in Part I of this Quarterly Report on Form 10-Q.
+Overview
+Cypress manufactures and sells advanced embedded system solutions for automotive, industrial, consumer and enterprise end markets.
+Cypress' microcontrollers, analog ICs, wireless and wired connectivity solutions and memories help engineers design differentiated products and help with speed to market.
+Cypress is committed to providing customers with quality support and engineering resources.
+Business Segments
+Business Segments Description
+Microcontroller and Connectivity Division  MCD focuses on connectivity and computing solutions for the Internet of Things and automotive solutions that enhance the in-cabin user experience.
+MCD offerings include robust wireless and wired connectivity solutions that combine with flexible, high-performance microcontroller ("MCU") and analog solutions, backed with a focus on superior design software.
+The portfolio includes Wi-Fi® and Bluetooth® and Bluetooth Low Energy (BLE), and Wi-Fi plus Bluetooth combo solutions; Traveo™ automotive MCUs, PSoC® programmable MCUs and general-purpose MCUs; CapSense® capacitive-sensing controllers and automotive TrueTouch® touchscreen solutions; a broad line of USB controllers, including solutions for the USB-C and USB Power Delivery standards; and analog PMIC Power Management ICs.
+This division also includes our intellectual property ("IP") business.
+Memory Products Division  MPD focuses on fail-safe storage and datalogging solutions for mission critical applications.
+The portfolio includes specialized, high-performance parallel and serial NOR flash memories, static random access memories ("SRAM"), F-RAM™ ferroelectric memory devices, nonvolatile SRAMs ("nvSRAM"), and other specialty memories.
+This division also includes our nonvolatile DIMM subsidiary AgigA Tech, Inc.
+Business Strategy
+Refer to Part I Item 1. Business in our Annual Report on Form 10-K for the year ended December 30, 2018 for a discussion of our strategies.
+As we continue to implement our strategies, there are many internal and external factors that could impact our ability to meet any or all of our objectives.
+Some of these factors are discussed in Part I Item 1A in our Annual Report on Form 10-K for the year ended December 30, 2018 as well as in Part II Item 1A in this Quarterly Report on Form 10-Q.
+Results of Operations
+Revenues
+Our total revenues decreased by $43.2 million, or 7.4%, to $539.0 million for the three-month period ended March 31, 2019 compared to the same period in the prior year.
+The decrease was primarily due to demand softening across broad markets.
+Revenues recorded by MCD decreased by $26.3 million, or 7.8%, in the three months ended March 31, 2019 compared to the same prior year period.
+The decrease was primarily due to the stage of a major end customer's product life-cycle in wireless connectivity and a decline in demand for memory products.
+Revenues recorded by MPD decreased by $16.9 million, or 6.9%, in the three months ended March 31, 2019 compared to the same prior year period.
+The decrease was primarily due to a decline in demand for NAND Flash products.
+Our gross margin improved to 37.6% in the three months ended March 31, 2019 from 36.5% in the three months ended April 1, 2018.
+The primary drivers of the improvement in gross margin were a shift in the product mix towards higher density memory products and a decrease in commoditized products, higher fab utilization, which increased from 74% in the three months ended April 1, 2018 to 83% in the three months ended March 31, 2019, and a reduction in the cost of certain products.
+This improvement was partially offset by a decrease in the sale of inventory that was previously written off or written down for the three months ended March 31, 2019 as compared to the same prior year period.
+The gross margin in the first quarter of fiscal 2019 and 2018 was benefited by 0.7% and 1.6%, respectively, from the sale of previously reserved inventory.
+Included in cost of revenues are amortization of intangible assets of $46.9 million and $48.1 million for the first quarters of fiscal years 2019 and 2018, respectively.
+Income Taxes
+Equity Method Investments
+For the three months ended March 31, 2019, our share in Deca's net loss was $3.6 million.
+By comparison, for the corresponding period of 2018 our share in the net loss of Deca was $3.5 million.
+Deca continues to be in the process of developing and testing a fan-out wafer level packaging technology.
+Deca’s estimated enterprise value is sensitive to its ability to achieve these product development and testing milestones.
+Delays or failure by Deca to complete these milestones, or secure funding needed to support its growth and cash needs, may have a significant adverse impact on Deca’s estimated enterprise value and may result in our recognition of a material impairment in the carrying value of our investment in Deca.
+We held 52.5% of Deca's outstanding voting shares as of March 31, 2019 and December 30, 2018.
+Liquidity and Capital Resources
+Our Revolving Credit Facility has a capacity of $540 million which was undrawn as of March 31, 2019.
+Key Components of Cash Flows
+Operating Activities
+•depreciation and amortization of $71.4 million;
+•stock-based compensation expense of $20.4 million;
+•accretion of interest expense on Senior Exchangeable Notes and amortization of debt and financing costs on other debt of $4.8 million;
+•our share in the net loss of an equity method investee of $3.6 million;
+•loss related to assets held for sale of $3.5 million; and
+•restructuring costs and other adjustments of $0.7 million.
+•a increase of $48.6 million in operating lease right-of-use assets;
+•a decrease in accounts payable and accrued and other liabilities of $30.4 million mainly due to timing of payments to vendors;
+•a decrease of $21.9 million in price adjustments and other revenue reserves for sales to distributors due to an increase in revenue during the first three months of 2019;
+•a decrease in other current and long-term assets of $3.5 million for prepayments for licenses and other vendors; and
+•a decrease in assets held for sale due to the changes in inventories of $2.7 million.
+Investing Activities
+•property and equipment expenditures of $10.5 million relating to purchases of certain manufacturing facility equipment;
+•partially offset by $ 6.1 million in net distributions for the deferred compensation plan.
+Financing Activities
+•dividend payments of $39.7 million;
+•payments of $26.3 million on Term Loan B;
+•payments of $5.4 million on net shares settlement of restricted stock units; and
+•payments of $0.4 million on finance lease liabilities;
+•partially offset by proceeds of $14.3 million from employee equity awards.
+Liquidity and Contractual Obligations
+Contractual Obligations
+Capital Resources and Financial Condition
+As of March 31, 2019, our cash, cash equivalents and short-term investment balance was $285.1 million as compared to $285.7 million as of December 30, 2018.
+As of March 31, 2019, approximately 12.4% of our cash and cash equivalents were held by our non-U.S. subsidiaries.
+While these amounts are primarily denominated in U.S. dollars, a portion is denominated in foreign currencies.
+All non-U.S. cash balances are exposed to local political, banking, currency control, and other risks.
+In addition, these amounts, if repatriated, may be subject to tax and other transfer restrictions.
+Critical Policies and Estimates
+The discussion and analysis of our financial condition and results of operations are based upon our Condensed Consolidated Financial Statements included in this Quarterly Report on Form 10-Q and the data used to prepare them.
+Our Condensed Consolidated Financial Statements have been prepared in accordance with accounting principles generally accepted in the United States and we are required to make estimates, judgments and assumptions in the course of such preparation.
+Note 1 of the Notes to Condensed Consolidated Financial Statements under Part I, Item 1 describes the significant accounting policies and methods used in the preparation of the consolidated financial statements.
+On an ongoing basis, we re-evaluate our judgments and estimates including those related to revenue recognition, allowances for doubtful accounts receivable, inventory valuation, valuation of long-lived assets, goodwill and financial instruments, stock-based compensation, settlement costs, and income taxes.
+We base our estimates and judgments on historical experience, knowledge of current conditions and our beliefs of what could occur in the future considering available information.
+Actual results may differ from these estimates under different assumptions or conditions.
+•Revenue Recognition
+•Business Combinations
+•Valuation of Inventories
+•Valuation of Long-Lived Assets
+•Valuation of Goodwill
+•Investments in Equity Interests
+•Cash Flow Hedges
+•Share-Based Compensation
+•Employee Benefit Plans
+•Accounting for Income Taxes
+As discussed in Note 1, we adopted ASC Topic 842 in the first quarter of fiscal 2019.
+There have been no other changes to our critical accounting policies and estimates since the filing of our Annual Report on Form 10-K for the year ended December 30, 2018.
+ITEM 2.
+UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+None.

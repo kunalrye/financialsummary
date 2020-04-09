@@ -1,32 +1,23 @@
 Item 2.Management’s Discussion and Analysis of Financial Condition and Results of Operations
-
 The following discussion and analysis contains forward-looking statements within the meaning of the federal securities laws, and should be read in conjunction with the disclosures we make concerning risks and other factors that may affect our business and operating results.
 You should read this information in conjunction with the unaudited Condensed Consolidated Financial Statements and the notes thereto included in this Quarterly Report on Form 10-Q, and the audited Consolidated Financial Statements and notes thereto and Part II, Item 8, contained in our Annual Report on Form 10‑K for the fiscal year ended June 30, 2017.
 See also “Forward-Looking Statements” immediately prior to Part I, Item 1 in this Quarterly Report on Form 10-Q.
 Unless otherwise indicated, references herein to specific years and quarters are to our fiscal years and fiscal quarters.
 As used herein, the terms “we,” “us,” “our,” and the “Company” refer to Western Digital Corporation and its subsidiaries.
 Our Company
-
-
 Our fiscal year ends on the Friday nearest to June 30 and typically consists of 52 weeks.
 Fiscal years 2018, which ends on June 29, 2018, and 2017, which ended on June 30, 2017, are both comprised 52 weeks, with all quarters presented consisting of 13 weeks.
 Key Developments
-
 Refinancing Transactions
-
-
 The Refinancing Transactions are expected to be completed in the third quarter of fiscal year 2018, subject to customary closing conditions.
 In connection with the Refinancing Transactions, we have announced that we intend to repurchase up to $500 million of our common stock in privately negotiated or open market transactions.
 Since December 29, 2017, we have repurchased approximately $151 million of our common stock in privately negotiated transactions, at a purchase price per share equal to $87.08 per share, with available cash on hand.
 Tax Reform
-
 On December 22, 2017, the President of the United States of America signed the Tax Cuts and Jobs Act (the “2017 Act”), which includes a broad range of tax reform proposals affecting businesses, including a reduction in the U.S. federal corporate tax rate from 35% to 21%, a one-time mandatory deemed repatriation tax on earnings of certain foreign subsidiaries that were previously tax deferred, and new taxes on certain foreign earnings.
 As a result of the 2017 Act, we have made a reasonable estimate of the effects on the Company’s existing deferred tax balances and the one-time mandatory deemed repatriation tax required by the 2017 Act and have recognized a provisional income tax expense of $1.66 billion for the one-time mandatory deemed repatriation tax and a provisional income tax benefit of $88 million related to the re-measurement of deferred tax assets and liabilities for the three and six months ended December 29, 2017.
 For additional information regarding the 2017 Act, see Part I, Item 1, Note 10, Income Tax Expense, of the Notes to Condensed Consolidated Financial Statements included in this Quarterly Report on Form 10‑Q.
 See also the discussion in “Results of Operations-Income Tax Expense” and “Liquidity and Capital Resources” below for information regarding the impact of the 2017 Act on the Company’s financial condition, results of operations and cash flows.
 Ventures with TMC
-
-
 In September 2017, Toshiba Corporation (“Toshiba”), of which TMC is a wholly owned subsidiary, announced it had entered into a definitive agreement to sell TMC, including its interest in Flash Ventures, to a consortium led by SK Hynix Inc. and Bain Capital Private Equity, L.P., BCPE Pangea Cayman, L.P., BCPE Pangea Cayman2, Ltd., Bain Capital Fund XII, L.P., Bain Capital Asia Fund III, L.P. and Pangea (together, “Bain Capital”), that includes other competitors, as well as key customers.
 We previously asserted our consent rights under the terms of the Flash Ventures agreements with respect to the transactions involving, among other things, the transfer by Toshiba of its interests in Flash Ventures to TMC, and the proposed sale of TMC to a consortium of investors led by Bain Capital.
 In December 2017, we entered into a Confidential Settlement and Mutual Release Agreement (the “Toshiba Settlement Agreement”) with Toshiba and TMC pursuant to which the parties agreed to withdraw and seek dismissal of the litigation and arbitration proceedings related to the transfer of Toshiba’s interests in Flash Ventures and related matters.
@@ -39,30 +30,14 @@ The Y6 Facility Agreement establishes terms for the manufacture of NAND in Fab 6
 We have agreed to fund 50% of Fab 6’s start-up costs, as well as 50% of Flash Ventures’ portion of an upcoming investment in manufacturing equipment for Fab 6.
 The Company’s share of the initial commitment is expected to be approximately $950 million, mostly for equipment investments and some start-up costs to be incurred primarily through calendar 2018.
 Extension of Joint Venture Agreements
-
 In connection with the Toshiba Settlement Agreement, in December 2017, we also entered into agreements with TMC to extend the term of Flash Alliance Ltd. to December 31, 2029 and the term of Flash Forward Ltd. to December 31, 2027.
 The term of Flash Partners Ltd. was previously extended to December 31, 2029.
 Debt Facilities
-
-
-
 •We made a voluntary prepayment of the full principal amounts of our Euro-denominated term B-2 loans (“Euro Term Loan B-2”) using cash on hand.
 For additional information regarding our debt facilities, see Part I, Item 1, Note 6, Debt, of the Notes to Condensed Consolidated Financial Statements included in this Quarterly Report on Form 10‑Q.
 Results of Operations
-
 Second Quarter and First Half Overview
-
-
-
-
-
-
-
-
-
-
-Net Revenue 
-
+Net Revenue
 Net revenue for the three and six months ended December 29, 2017 increased $448 million, or 9.2%, and $915 million, or 9.5%, respectively, as compared to the same periods in prior year.
 The increase in net revenue for the three and six months ended December 29, 2017, compared to the same periods in the prior year, primarily reflects a favorable flash memory demand environment and growth of our diversified product portfolio.
 For the three and six months ended December 29, 2017, Client Devices revenue increased 9.5% and 11.1%, respectively, year-over-year, primarily driven by growth in mobility, client solid state drives (“SSD”) and surveillance products.
@@ -77,26 +52,18 @@ For each of the three and six months ended December 30, 2016, these programs rep
 The amounts attributed to our sales incentive and marketing programs generally vary according to several factors including industry conditions, list pricing strategies, seasonal demand, competitor actions, channel mix and overall availability of products.
 Changes in future customer demand and market conditions may require us to adjust our incentive programs as a percentage of gross revenue.
 Gross Profit and Gross Margin
-
 Gross profit for the three and six months ended December 29, 2017 increased $480 million, or 31.3%, and $1.058 billion, or 36.9%, respectively, as compared to the same period in the prior year.
 The increase in gross profit for the three and six months ended December 29, 2017 reflects the increase in revenue discussed above and improvements in our gross margin.
 The increase in gross margin for the three and six months ended December 29, 2017 was primarily due to a favorable demand environment for flash-based products, improvements in our production costs from technology transitions and a higher mix of flash-based product revenue.
 Gross profit was negatively impacted by amortization expense on acquired intangible assets, stock-based compensation, charges related to the implementation of cost-saving initiatives and other charges, which aggregated $293 million, or 5.5%, of revenue, for the three months ended December 29, 2017, and $259 million, or 5.3%, of revenue, for the three months ended December 30, 2016.
 Gross profit was negatively impacted by amortization expense on acquired intangible assets, stock-based compensation, charges related to the implementation of cost-saving initiatives and other charges, which aggregated $572 million, or 5.4%, of revenue, for the six months ended December 29, 2017, and $523 million, or 5.4%, of revenue, for the six months ended December 30, 2016.
 Operating Expenses
-
-
-
-
-
 Employee termination and other charges for the three and six months ended December 29, 2017 primarily related to further actions associated with the integration and business realignment of substantial portions of our business.
 For additional information regarding employee termination, asset impairment and other charges, see Part I, Item 1, Note 12, Employee Termination, Asset Impairment and Other Charges, of the Notes to Condensed Consolidated Financial Statements included in this Quarterly Report on Form 10‑Q.
-Interest and Other Income (Expense) 
-
+Interest and Other Income (Expense)
 Total interest and other income (expense), net for the three months ended December 29, 2017 decreased $43 million from the same period in the prior year, primarily due to higher foreign exchange losses and other charges of $26 million in the prior year, lower interest expense of $8 million resulting from reductions in the principal amount of debt and higher interest income of $9 million related to increased investments.
 Total interest and other income (expense), net for the six months ended December 29, 2017 decreased $351 million from the same period in the prior year, primarily due to the loss on extinguishment of debt of $292 million recognized in the prior year, lower interest expense of $39 million resulting from reductions in the principal amount of debt and higher interest income of $20 million related to increased investments.
 Income Tax Expense
-
 The following table sets forth income tax information from our Consolidated Statement of Operations by dollar and effective tax rate.
 Under the 2017 Act, the U.S. federal corporate tax rate is reduced from 35% to 21% and is effective January 1, 2018 resulting in the use of an estimated annual effective rate of approximately 28% for our U.S. federal corporate tax rate for fiscal year 2018.
 The reduction in the U.S. federal corporate tax rate from 35% to the blended tax rate of 28% for fiscal year 2018 is estimated to have reduced our income tax expense by $7 million for the three and six months ended December 29, 2017.
@@ -118,16 +85,12 @@ Our estimate of the effective tax rate increase is subject to our assertion as t
 Our total tax expense in future fiscal years will also vary as a result of discrete items such as excess tax benefits or deficiencies.
 For additional information regarding income tax expense (benefit), see Part I, Item 1, Note 10, Income Tax Expense, of the Notes to Condensed Consolidated Financial Statements included in this Quarterly Report on Form 10‑Q.
 Liquidity and Capital Resources
-
-
-
 We believe our cash, cash equivalents and cash generated from operations as well as our available credit facilities will be sufficient to meet our working capital, debt, stock repurchases, dividend and capital expenditure needs for at least the next twelve months.
 Our ability to sustain our working capital position is subject to a number of risks that we discuss in Part II, Item 1A, Risk Factors, in this Quarterly Report on Form 10‑Q.
 During 2018, we expect cash used for purchases of property, plant and equipment and net activity in notes receivable and equity investments relating to Flash Ventures to be approximately $1.50 billion to $1.90 billion.
 The total expected cash to be used could vary depending on the timing and completion of various capital projects and the availability, timing and terms of related financing.
 As described above, we also expect that if the Refinancing Transactions and share repurchase are completed, our total debt outstanding will decrease by approximately $1.00 billion and our available cash on hand will decrease by approximately $2.40 billion compared to December 29, 2017.
 See above in “Key Developments - Refinancing Transactions” for additional information
-
 Pursuant to the 2017 Act, we are required to pay a one-time deemed repatriation tax related to the undistributed earnings of our foreign subsidiaries.
 For the three and six months ended December 29, 2017, we recorded a provisional amount for the mandatory deemed repatriation tax liability of $1.66 billion, which is payable over an 8-year period as further discussed below under “Short and Long-term Liquidity-Contractual Obligations and Commitments.” The provisional amount included in the Condensed Consolidated Financial Statements of Operations may change when we finalize the calculation of our post-1986 foreign earnings and profits that were previously deferred from U.S. income taxes and the amount of foreign earnings held in cash or other specified assets.
 For additional information regarding our total tax liability for the mandatory repatriation tax, see Part I, Item 1, Note 10, Income Tax Expense, of the Notes to Condensed Consolidated Financial Statements included in this Quarterly Report on Form 10‑Q.
@@ -138,7 +101,6 @@ foreign withholding, state income taxes, and additional U.S. tax on currency tra
 While the current tax expense is based upon an assumption that foreign undistributed earnings are indefinitely reinvested, our plan may change upon the completion of long-term capital allocation plans in light of the 2017 Act and completion of the calculation of the incremental tax effects on the repatriation of foreign undistributed earnings.
 In the event we determine not to continue to assert the permanent reinvestment of part or all of our foreign undistributed earnings such a determination could result in the accrual and payment of additional foreign, state and local taxes.
 Operating Activities
-
 Cash flow from operating activities primarily consists of net income, adjusted for non-cash charges, plus or minus changes in other operating assets and liabilities.
 This represents our principal source of cash.
 Net cash provided by changes in other operating assets and liabilities was $1.27 billion for the six months ended December 29, 2017, as compared to net cash used for changes in other operating assets and liabilities of $37 million for the six months ended December 30, 2016.
@@ -152,48 +114,35 @@ For the six months ended December 29, 2017, DSO decreased by 3 days over the pri
 DIO increased by 6 days over the prior year, primarily reflecting short-term build-up of inventory to support expected demand.
 DPO primarily reflects routine variations in timing of purchases and payments and remained consistent over the prior year.
 Investing Activities
-
 Net cash used in investing activities for the six months ended December 29, 2017 primarily consisted of $416 million of capital expenditures, a net $509 million increase in notes receivable issuances to Flash Ventures, and $99 million for acquisitions.
 Net cash used in investing activities for the six months ended December 30, 2016 primarily consisted of $330 million of capital expenditures and a $70 million net increase in notes receivable issuances to and investments in Flash Ventures.
 Our cash equivalents are primarily invested in money market funds that invest in U.S. Treasury securities and U.S. Government agency securities as well as bank certificates of deposit.
 In addition, we invest directly in U.S. Treasury securities, U.S. and International Government agency securities, certificates of deposit, asset-backed securities and corporate and municipal notes and bonds.
 Financing Activities
-
 Net cash used in financing activities for the six months ended December 29, 2017 primarily consisted of $4.11 billion in debt repayments and $295 million to pay dividends on our common stock, partially offset by proceeds of $2.96 billion from debt issuances, a net $32 million in employee stock plans, and $28 million from the settlement of debt hedge contracts.
 Net cash used in financing activities for the six months ended December 30, 2016 consisted of $8.25 billion to repay debt, and $284 million to pay dividends on our common stock, partially offset by $3.99 billion of proceeds from debt, net of issuance costs, $61 million of proceeds from call options, and a net $106 million provided by employee stock plans.
 Off-Balance Sheet Arrangements
-
 Other than the commitments related to Flash Ventures, facility lease commitments incurred in the normal course of business and certain indemnification provisions (see “Contractual Obligations and Commitments” below), we do not have any other material off-balance sheet financing arrangements or liabilities, guarantee contracts, retained or contingent interests in transferred assets, or any other obligation arising out of a material variable interest in an unconsolidated entity.
 We do not have any majority-owned subsidiaries that are not included in the Condensed Consolidated Financial Statements.
 Additionally, we do not have an interest in, or relationships with, any special-purpose entities.
 For additional information regarding our off-balance sheet arrangements, see Part I, Item 1, Note 8, Commitments, Contingencies and Related Parties, of the Notes to Condensed Consolidated Financial Statements included in this Quarterly Report on Form 10‑Q.
 Short and Long-term Liquidity
-
-Contractual Obligations and Commitments 
-
-
-
-
-Debt 
-
+Contractual Obligations and Commitments
+Debt
 See Part I, Item 1, Note 6, Debt, of the Notes to Condensed Consolidated Financial Statements included in this Quarterly Report on Form 10‑Q for information regarding our indebtedness, including information about new borrowings and repayments, increased availability under our revolving credit facility and the principal repayment terms, interest rates, covenants and other key terms of our outstanding indebtedness.
 Interest Rate Swap
-
 We have entered into interest rate swap agreements to moderate our exposure to fluctuations in interest rates underlying our variable rate debt.
 For a description of our current interest rate swaps, see Part I, Item 3, Quantitative and Qualitative Disclosures About Market Risk and Part I, Item 1, Note 5, Derivative Instruments and Hedging Activities, of the Notes to Condensed Consolidated Financial Statements included in this Quarterly Report on Form 10‑Q.
 Flash Ventures
-
 Flash Ventures sells and leases back from a consortium of financial institutions a portion of its tools and has entered into equipment lease agreements of which we guarantee half of the total outstanding obligations.
 The lease agreements contain customary covenants for Japanese lease facilities.
 In addition to containing customary events of default related to Flash Ventures that could result in an acceleration of Flash Ventures’ obligations, the lease agreements contain acceleration clauses for certain events of default related to the guarantors, including us.
 As of December 29, 2017, we were in compliance with all covenants under these Japanese lease facilities.
 See Part I, Item 1, Note 8, Commitments, Contingencies and Related Parties, of the Notes to Condensed Consolidated Financial Statements included in this Quarterly Report on Form 10‑Q for information regarding Flash Ventures.
 Foreign Exchange Contracts
-
 We purchase foreign exchange contracts to hedge the impact of foreign currency fluctuations on certain underlying assets, liabilities and commitments for operating expenses and product costs denominated in foreign currencies.
 For a description of our current foreign exchange contract commitments, see Part I, Item 3, Quantitative and Qualitative Disclosures About Market Risk and Part I, Item 1, Note 5, Derivative Instruments and Hedging Activities, of the Notes to Condensed Consolidated Financial Statements included in this Quarterly Report on Form 10‑Q.
 Indemnifications
-
 In the ordinary course of business, we may provide indemnifications of varying scope and terms to customers, vendors, lessors, business partners and other parties with respect to certain matters, including, but not limited to, losses arising out of our breach of agreements, products or services to be provided by us, environmental compliance or from IP infringement claims made by third parties.
 In addition, we have entered into indemnification agreements with our directors and certain of our officers that will require us, among other things, to indemnify them against certain liabilities that may arise by reason of their status or service as directors or officers.
 We maintain director and officer insurance, which may cover certain liabilities arising from our obligation to indemnify our directors and officers in certain circumstances.
@@ -201,38 +150,22 @@ It is not possible to determine the maximum potential amount under these indemni
 Such indemnification agreements may not be subject to maximum loss clauses.
 Historically, we have not incurred material costs as a result of obligations under these agreements.
 Mandatory Repatriation Tax
-
-
-
 The 2017 Act allows for the provisional mandatory deemed repatriation tax of $1.66 billion to be payable over an 8-year period without interest.
 The payments are due with 8% of the tax to be paid in each of the first five years, 15% in the 6th year, 20% in the 7th year, and 25% in the 8th year.
 For additional information regarding our provisional estimate of the total tax liability for the mandatory repatriation tax, see Part I, Item 1, Note 10, Income Tax Expense, of the Notes to Condensed Consolidated Financial Statements included in this Quarterly Report on Form 10‑Q.
-Unrecognized Tax Benefits 
-
+Unrecognized Tax Benefits
 As of December 29, 2017, the liability for unrecognized tax benefits (excluding accrued interest and penalties) was approximately $529 million.
 Accrued interest and penalties related to unrecognized tax benefits as of December 29, 2017 was approximately $94 million.
 Of these amounts, approximately $502 million could result in potential cash payments.
 We are not able to provide a reasonable estimate of the timing of future tax payments related to these obligations.
 For additional information regarding our total tax liability for unrecognized tax benefits, see Part I, Item 1, Note 10, Income Tax Expense, of the Notes to Condensed Consolidated Financial Statements included in this Quarterly Report on Form 10‑Q.
 Cash Dividend
-
 Since the first quarter of 2013, we have issued a quarterly cash dividend.
 On November 1, 2017, we declared a cash dividend of $0.50 per share of our common stock to our shareholders of record as of December 29, 2017.
 The cash dividend of $149 million was paid on January 16, 2018.
 On January 27, 2018, we declared a cash dividend of $0.50 per share of our common stock to our shareholders of record as of March 30, 2018, which will be paid on April 16, 2018.
 We may modify, suspend, or cancel our cash dividend policy in any manner and at any time.
 Recently Issued Accounting Pronouncements Not Yet Adopted
-
-
-
-
-
-
-
-
-
-
-
 In May 2014, the FASB issued ASU No.
 2014-09, “Revenue from Contracts with Customers (Topic 606)” (“ASC Topic 606”), which amends the guidance in former ASC Topic 605, “Revenue Recognition”, to provide a single, comprehensive revenue recognition model for all contracts with customers.
 ASC Topic 606 requires an entity to recognize revenue in a manner that depicts the transfer of promised goods or services to customers in amounts that reflect the consideration to which an entity expects to be entitled in exchange for those goods or services.
@@ -252,13 +185,11 @@ We do not currently expect any significant changes to our other accounting polic
 Our implementation efforts are progressing as planned.
 For a description of recently adopted accounting pronouncements, including the respective dates of adoption and effects on our results of operations and financial condition, see Part I, Item 1, Note 2, Recently Adopted Accounting Pronouncements, of the Notes to Condensed Consolidated Financial Statements included in this Quarterly Report on Form 10‑Q.
 Critical Accounting Policies and Estimates
-
 We have prepared the accompanying unaudited Condensed Consolidated Financial Statements in accordance with U.S. GAAP.
 The preparation of the financial statements requires the use of judgments and estimates that affect the reported amounts of revenues, expenses, assets, liabilities and shareholders’ equity.
 We have adopted accounting policies and practices that are generally accepted in the industry in which we operate.
 If these estimates differ significantly from actual results, the impact to the Condensed Consolidated Financial Statements may be material.
 There have been no material changes in our critical accounting policies and estimates from those disclosed in our Annual Report on Form 10‑K for our fiscal year ended June 30, 2017.
 Please refer to Part II, Item 7 of our Annual Report on Form 10‑K for the fiscal year ended June 30, 2017 for a discussion of our critical accounting policies and estimates.
-Item 2.Unregistered Sales of Equity Securities and Use of Proceeds 
-
+Item 2.Unregistered Sales of Equity Securities and Use of Proceeds
 None.

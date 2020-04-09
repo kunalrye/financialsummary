@@ -1,6 +1,5 @@
 Item 2.
-Management's Discussion and Analysis of Financial Condition and Results of Operations 
-
+Management's Discussion and Analysis of Financial Condition and Results of Operations
 This Quarterly Report on Form 10-Q, which we refer to as the Report, including “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” contains forward-looking statements regarding future events and the future results of Juniper Networks, Inc., which we refer to as “we,” “us,” "Juniper," or the “Company,” that are based on our current expectations, estimates, forecasts, and projections about our business, economic and market outlook, our results of operations, the industry in which we operate and the beliefs and assumptions of our management.
 Words such as “expects,” “anticipates,” “targets,” “goals,” “projects,” “would,” “will,” “could,” “may,” “intends,” “plans,” “believes,” “seeks,” “estimates,” variations of such words, and similar expressions are intended to identify such forward-looking statements.
 Forward-looking statements by their nature address matters that are, to different degrees, uncertain, and these forward-looking statements are only predictions and are subject to risks, uncertainties, and assumptions that are difficult to predict.
@@ -14,9 +13,7 @@ In making these decisions, we consider various factors, including contractual ob
 Each of these decisions has some impact on the financial results for any given period.
 To aid in understanding our operating results for the periods covered by this Report, we have provided an executive overview, which includes a summary of our business and market environment along with a financial results and key performance metrics overview.
 These sections should be read in conjunction with the more detailed discussion and analysis of our condensed consolidated financial condition and results of operations in this Item 2, our “Risk Factors” section included in Item 1A of Part II of this Report, and our unaudited Condensed Consolidated Financial Statements and Notes included in Item 1 of Part I of this Report, as well as our audited Consolidated Financial Statements and Notes included in Item 8 of Part II of our Annual Report on Form 10-K for the fiscal year ended December 31, 2018, or Form 10-K.
-
 Business and Market Environment
-
 Juniper designs, develops, and sells products and services for high-performance networks to enable customers to build scalable, reliable, secure and cost-effective networks for their businesses, while achieving agility and improved operating efficiency through automation.
 Further, our intent is to expand our software business by introducing new software solutions to our product portfolio that simplify the operation of networks, and allow our customers across our key verticals flexibility in consumption and deployment.
 We believe our software revenues as a percentage of total revenues will increase over time as we introduce new software product offerings and business models designed to better monetize the value of our software offerings.
@@ -35,100 +32,50 @@ In the second quarter of 2019, Enterprise decreased primarily due to timing of o
 In the second quarter of 2019, we experienced improved trends within our Cloud vertical primarily due to an acceleration of certain wide area deployments, which had previously been proceeding at a slower rate.
 In the near-term, Cloud deployment cycles remain difficult to predict.
 Financial Results and Key Performance Metrics Overview
-
-
-
-
-
-
 Of our top ten customers for the second quarter of 2019, four were Cloud, five were Service Provider, and one was in Enterprise.
 Of these customers, three were located outside of the U.S.
-
-
-
-
-
-
-
 Critical Accounting Policies and Estimates
-
 The preparation of financial statements and related disclosures in conformity with U.S. GAAP requires us to make judgments, assumptions, and estimates that affect the amounts reported in the Condensed Consolidated Financial Statements and the accompanying notes.
 On an ongoing basis, we evaluate our estimates and assumptions.
 These estimates and assumptions are based on current facts, historical experience, and various other factors that we believe are reasonable under the circumstances to determine reported amounts of assets, liabilities, revenues, and expenses that are not readily apparent from other sources.
 During the six months ended June 30, 2019, except for the change in accounting estimates and changes in certain accounting policies related to the adoption of Topic 842 described in Note 2, Summary of Significant Accounting Policies, in the Notes to Condensed Consolidated Financial Statements in Item 1 of Part I of this Report, there were no material changes to our critical accounting policies and estimates as compared to the critical accounting policies and estimates disclosed in Management's Discussion and Analysis of Financial Condition and Results of Operations contained in Part II, Item 7 of our Form 10-K.
 Recent Accounting Pronouncements
-
 See Note 2, Summary of Significant Accounting Policies, in the Notes to Condensed Consolidated Financial Statements in Item 1 of Part I of this Report, for a full description of the recently adopted accounting standards and recent accounting standards not yet adopted, including the actual and expected dates of adoption and estimated effects on our consolidated results of operations and financial condition, which is incorporated herein by reference.
 Results of Operations
-
 Revenues
-
-
-
-
-
 Three Months Ended June 30, 2019 compared with the Three Months Ended June 30, 2018
-
 Product net revenues decreased during the three months ended June 30, 2019, compared to the same period in 2018, primarily due to Service Provider and Enterprise, impacting routing and switching.
 Routing and switching revenue decreased during the three months ended June 30, 2019, compared to the same period in 2018, primarily due to a decrease in our Service Provider vertical resulting from lower net revenues from our MX product family, and a decrease in our Enterprise vertical resulting from lower net revenues from our QFX product family.
 Service net revenues increased during the three months ended June 30, 2019, compared to the same period in 2018, primarily due to strong renewal and attach rates of support contracts.
 Six Months Ended June 30, 2019 compared with the Six Months Ended June 30, 2018
-
 Product net revenues decreased during the six months ended June 30, 2019, compared to the same period in 2018, primarily due to Service Provider and Cloud, impacting routing and switching.
 Routing and switching revenue decreased during the six months ended June 30, 2019, compared to the same period in 2018, primarily due to a decrease in our Service Provider vertical resulting from lower net revenues from our MX product family, and a decrease in our Cloud vertical resulting in lower net revenues from our QFX product family.
 Service net revenues increased during the six months ended June 30, 2019, compared to the same period in 2018, due to strong renewal and attach rates of support contracts.
 Gross Margins
-
-
-
 Our gross margins as a percentage of net revenues have been and will continue to be affected by a variety of factors, including the mix and average selling prices of our products and services, new product introductions and enhancements, manufacturing, component and logistics costs, expenses for inventory obsolescence and warranty obligations, cost of support and service personnel, customer mix as we continue to expand our footprint with certain strategic customers, the mix of distribution channels through which our products and services are sold, and import tariffs.
 For example, the United States imposed a tariff on networking products imported from China, which includes certain products that we import into and sell within the United States.
 For more information on the potential impact of tariffs on our business, see the “Risk Factors” section of Item 1A of Part II of this Report.
 Three Months Ended June 30, 2019 compared with the Three Months Ended June 30, 2018
-
 Product gross margin
-
 Product gross margin as a percentage of product revenues decreased during the three months ended June 30, 2019, compared to the same period in 2018, primarily due to higher amortization of intangible assets associated with the recent acquisition of Mist, lower revenue, partially offset by growth in our software revenue.
 We continue to undertake specific efforts to address certain factors impacting our product gross margin.
 These efforts include performance and quality improvements through engineering to increase value across our products; optimizing our supply chain and service business; pricing management; and increasing software and solution sales; however, there can be no guarantee that these efforts will be successful or that they will be realized in the time frame we anticipate.
-Service gross margin 
-
+Service gross margin
 Service gross margin as a percentage of service net revenues increased during the three months ended June 30, 2019, compared to the same period in 2018, primarily due to lower service delivery costs and higher revenue.
 Six Months Ended June 30, 2019 compared with the Six Months Ended June 30, 2018
-
 Product gross margin
-
 Product gross margin as a percentage of product revenues decreased during the six months ended June 30, 2019, compared to the same period in 2018, primarily due to lower revenue, partially offset by growth in our software revenue.
-Service gross margin 
-
+Service gross margin
 Service gross margin as a percentage of service net revenues increased during the six months ended June 30, 2019, compared to the same period in 2018, primarily due to lower service delivery costs and a one-time recovery of goods and services tax.
 Operating Expenses
-
-
-
-
-
 Three Months Ended June 30, 2019 compared with the Three Months Ended June 30, 2018
-
-
 Six Months Ended June 30, 2019 compared with the Six Months Ended June 30, 2018
-
-
-Other Expense, Net 
-
-
-
-
-
+Other Expense, Net
 Three Months Ended June 30, 2019 compared with the Three Months Ended June 30, 2018
-
 Total other expense, net decreased during the three months ended June 30, 2019, compared to the same period in 2018, primarily due to a decrease in interest expense, as a result of lower total debt, and an increase in interest income related to our fixed income investment portfolio, as a result of higher yields.
 Six Months Ended June 30, 2019 compared with the Six Months Ended June 30, 2018
-
 Total other expense, net decreased during the six months ended June 30, 2018, compared to the same period in 2018, primarily due to an increase in interest income related to our fixed income investment portfolio, as a result of higher yields.
 Income Tax Provision
-
-
 The effective tax rate increased during the three and six months ended June 30, 2019, compared to the same periods in 2018, primarily due to a change in the level of discrete items in the comparative period.
 For further explanation of our income tax provision, see Note 13, Income Taxes, in Notes to Condensed Consolidated Financial Statements in Item 1 of Part I of this Report.
 On July 24, 2018, the Ninth Circuit Court of Appeals, or the Court, issued an opinion in Altera Corp. v. Commissioner requiring related parties in an intercompany cost-sharing arrangement to share expenses related to share-based compensation.
@@ -143,29 +90,19 @@ See the "Risk Factors" section of Item 1A of Part II of this Report for a descri
 As a result of recommendations by the Organisation for Economic Cooperation and Development, or OECD, on Base Erosion and Profit Shifting, certain countries in EMEA and APAC have either enacted new corporate tax legislation or are considering enacting such legislation in the near future.
 We expect the effect of these reform measures to potentially impact long-standing tax principles, particularly in regard to transfer pricing.
 Consequently, we expect global tax authorities to increasingly challenge our cost sharing and other intercompany arrangements, and the related sourcing of taxable profits in global jurisdictions.
-Liquidity and Capital Resources 
-
-
-
-Summary of Cash Flows 
-
-
-
+Liquidity and Capital Resources
+Summary of Cash Flows
 Operating Activities
-
 Net cash provided by operations decreased during the six months ended June 30, 2019, compared to the same period in 2018.
 The decrease was primarily due to lower cash collections from customers as a result of lower invoicing, partially offset by a decrease in cash payments to suppliers.
 Investing Activities
-
 Net cash used in investing activities was $556.9 million during the six months ended June 30, 2019, compared to net cash provided by investing activities of $1,083.3 million for the same period in 2018.
 During the six months ended June 30, 2019, the payment for the acquisition of Mist was $270.9 million and net purchases of investments was $230.8 million.
 During the six months ended June 30, 2018, net proceeds from sales, maturities and redemptions of investments was $1,194.1 million, primarily from the liquidation of repatriated offshore investments to fund the accelerated share repurchase program ("2018 ASR") discussed below.
 Financing Activities
-
 Net cash used in financing activities decreased during the six months ended June 30, 2019, compared to the same period in 2018.
 The decrease was primarily due to the payment of $750.0 million pursuant to the 2018 ASR during the six months ended June 30, 2018 compared to the payment of $300.0 million pursuant to a new accelerated share repurchase program ("2019 ASR") for the same period in 2019 as described further below, partially offset by the payment of $350.0 million for our Senior Notes that matured during the six months ended June 30, 2019.
 Capital Return
-
 In January 2018, our Board of Directors, which we refer to as the Board, approved a $2.0 billion share repurchase program, which we refer to as the 2018 Stock Repurchase Program.
 As part of the 2018 Stock Repurchase Program in February 2018, we entered into the 2018 ASR to repurchase $750.0 million of our common stock.
 We made an up-front payment of $750.0 million pursuant to the 2018 ASR to repurchase our common stock.
@@ -180,25 +117,16 @@ We declared and paid cash dividends of $0.19 per share, totaling $65.5 million a
 Any future dividends, and the establishment of record and payment dates, are subject to approval by the Board or an authorized committee thereof.
 See Note 16, Subsequent Event, in the Notes to Condensed Consolidated Financial Statements in Item 1 of Part I of this Report for discussion of our dividend declaration subsequent to June 30, 2019.
 Revolving Credit Facility
-
 In April 2019, we entered into a new credit agreement with certain institutional lenders that provides for a five-year $500.0 million unsecured revolving credit facility (the “Revolving Credit Facility”), with an option to increase the Revolving Credit Facility by up to an additional $200.0 million, subject to the lenders' approval.
 The Prior Revolving Credit Facility was terminated substantially concurrently with our entering into the Revolving Credit Facility.
 The Revolving Credit Facility will terminate in April 2024, subject to two one-year maturity extension options, on the terms and conditions as set forth in the credit agreement.
 As of June 30, 2019, we were in compliance with all covenants in the Credit Agreement, and no amounts were outstanding.
 Liquidity and Capital Resource Requirements
-
-
 Based on past performance and current expectations, we believe that our existing cash and cash equivalents, short-term, and long-term investments, together with cash generated from operations and access to capital markets and the revolving credit facility will be sufficient to fund our operations; planned stock repurchases and dividends; capital expenditures; commitments and other liquidity requirements; and anticipated growth for at least the next twelve months.
 However, our future liquidity and capital requirements may vary materially from those now planned depending on many factors, including, but not limited to, our growth rate; the timing and amount we spend to support development efforts; the expansion of sales and marketing activities; the introduction of new and enhanced products and services; the costs to acquire or invest in businesses and technologies; an increase in manufacturing or component costs; and the risks and uncertainties detailed in the “Risk Factors” section of Item 1A of Part II of this Report.
 Item 2.
 Unregistered Sales of Equity Securities and Use of Proceeds
-
 Purchases of Equity Securities by the Issuer and Affiliated Purchasers
-
-
-
-
-
 As part of the 2018 Stock Repurchase Program, on April 29, 2019, we entered into the 2019 ASR to repurchase an aggregate of approximately $300.0 million of our outstanding common stock.
 Under the ASR, we made an up-front payment of $300.0 million pursuant to the ASR and received and retired an initial 8.6 million shares of our common stock for an aggregate price of $240.0 million, based on the market price of $27.94 per share of our common stock on the date of the transaction.
 The initial shares received by us were retired, accounted for as a reduction to stockholder’s equity in the Condensed Consolidated Balance Sheets, and treated as a repurchase of common stock for purposes of calculating earnings per share.
@@ -206,11 +134,6 @@ The forward contract for the remaining $60.0 million is considered indexed to th
 For further explanation of our ASR, see Note 10, Equity, in Notes to Condensed Consolidated Financial Statements in Item 1 of Part I of this Report.
 Item 6.
 Exhibits
-
-
-
-
  +Indicates management contract or compensatory plan, contract or arrangement.
 SIGNATURES
-
 Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant had duly caused this Report to be signed on its behalf by the undersigned thereunto duly authorized.

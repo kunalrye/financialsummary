@@ -1,5 +1,4 @@
 ITEM 2.Management’s Discussion and Analysis of Financial Condition and Results of Operations
-
 This information should be read in conjunction with the unaudited condensed consolidated financial statements and related notes included in Part I, Item 1 of this Quarterly Report on Form 10-Q and the audited consolidated financial statements and related notes and Management’s Discussion and Analysis of Financial Condition and Results of Operations in our Annual Report on Form 10-K for the fiscal year ended November 3, 2018 (fiscal 2018).
 This Quarterly Report on Form 10-Q, including the following discussion, contains forward-looking statements regarding future events and our future results that are subject to the safe harbor created under the Private Securities Litigation Reform Act of 1995 and other safe harbors under the Securities Act of 1933 and the Securities Exchange Act of 1934.
 All statements other than statements of historical fact are statements that could be deemed forward-looking statements.
@@ -11,17 +10,11 @@ Readers are cautioned that these forward-looking statements are only predictions
 Therefore, actual results may differ materially and adversely from those expressed in any forward-looking statements.
 We undertake no obligation to revise or update any forward-looking statements, including to reflect events or circumstances occurring after the date of the filing of this report, except to the extent required by law.
 Results of Operations
-
-
 Overview
-
-
-
 The fiscal year ending November 2, 2019 (fiscal 2019) is a 52-week year and the fiscal year ended November 3, 2018 (fiscal 2018) was a 53-week year.
 The additional week in fiscal 2018 was included in the first quarter ended February 3, 2018.
 Therefore, the first nine months of fiscal 2019 included one less week of operations as compared to the first nine months of fiscal 2018.
 Revenue Trends by End Market
-
 The following tables summarize revenue by end market for the three- and nine-month periods ended August 3, 2019 and August 4, 2018.
 The categorization of revenue by end market is determined using a variety of data points including the technical characteristics of the product, the “sold to” customer information, the “ship to” customer information and the end customer product or application into which our product will be incorporated.
 As data systems for capturing and tracking this data and our methodology evolve and improve, the categorization of products by end market can vary over time.
@@ -31,45 +24,26 @@ Industrial end market revenues decreased in the three-month period ended August 
 Automotive end market revenues decreased in the three-month period ended August 3, 2019, as compared to the same period of the prior fiscal year, primarily as a result of a broad-based decrease in demand for our products.
 Consumer end market revenues decreased in the three-month period ended August 3, 2019, as compared to the same period of the prior fiscal year, primarily as a result of decreased demand for products used in portable consumer applications.
 Communications end market revenue increased in the three-month period ended August 3, 2019, as compared to the same period of the prior fiscal year, primarily as a result of an increase in demand for our products sold into the wireless sector of this end market,
-
 Industrial end market revenues decreased in the nine-month period ended August 3, 2019, as compared to the same period of the prior fiscal year, primarily as a result of a decrease in demand for products sold into the automation and memory test sectors of this end market and one less week of operations in the first nine months of fiscal 2019, as compared to the first nine months of fiscal 2018, partially offset by an increase in demand for products sold into the aerospace and defense sector of this end market.
 Automotive end market revenues decreased in the nine-month period ended August 3, 2019, as compared to the same period of the prior fiscal year, primarily as a result of a broad-based decrease in demand for our products and one less week of operations in the first nine months of fiscal 2019, as compared to the first nine months of fiscal 2018.
 Consumer end market revenues decreased in the nine-month period ended August 3, 2019, as compared to the same period of the prior fiscal year, primarily as a result of decreased demand for products used in portable consumer applications and one less week of operations in the first nine months of fiscal 2019 as compared to the first nine months of fiscal 2018.
 Communications end market revenue increased in the nine-month period ended August 3, 2019, as compared to the same period of the prior fiscal year, as a result of an increase in demand for our products sold into the wireless sector of this end market, partially offset by one less week of operations in the first nine months of fiscal 2019 as compared to the first nine months of fiscal 2018.
 Revenue by Sales Channel
-
-
-
 Gross Margin
-
-
-
 Gross margin percentage decreased by 70 and 80 basis points in the three- and nine-month periods ended August 3, 2019, respectively, as compared to the same periods of the prior fiscal year, primarily as a result of lower internal utilization of our wafer fabrication facilities.
 Special Charges
-
 We monitor global macroeconomic conditions on an ongoing basis and continue to assess opportunities for improved operational effectiveness and efficiency, as well as a better alignment of expenses with revenues.
 As a result of these assessments, we have undertaken various restructuring actions over the past several years.
 We recorded special charges of $51.1 million on a cumulative basis through August 3, 2019 as a result of our decision to consolidate certain wafer and test facility operations acquired as part of the acquisition of Linear Technology Corporation (Linear) of which $6.6 million was recorded in the first nine months of fiscal 2019 related to one-time termination benefits for employees included in this action.
-These one-time termination benefits are being recognized over the future service period 
-
-
+These one-time termination benefits are being recognized over the future service period
 required for employees to earn these benefits.
 Employees included in this action must continue to be employed by us until their employment is terminated by us in order to receive the severance benefits.
 See Note 6, Special Charges, of the Notes to Condensed Consolidated Financial Statements in Part I, Item 1 in this Quarterly Report on Form 10-Q for further information.
 Operating Income
-
-
-
-
 Nonoperating Expense (Income)
-
-
 The year-over-year decrease in nonoperating expense in the three- and nine-month periods ended August 3, 2019 was primarily the result of a decrease in interest expense including lower amortized finance fees, which were accelerated as a result of principal repayments related to our previously outstanding 3-year and 5-year term loans.
 In the nine-month period this decrease in interest expense was partially offset by an increase in other, net expenses, primarily resulting from the impairment of an investment recognized in the second quarter of fiscal 2019.
 Provision for Income Taxes
-
-
-
 Our effective tax rate reflects the applicable tax rate in effect in the various tax jurisdictions around the world where our income is earned.
 Our effective income tax rate can also be impacted each year by discrete factors or events.
 The tax rate for the three- and nine-month periods ended August 3, 2019 was below the U.S. statutory tax rate of 21% due to lower statutory tax rates applicable to our operations in the foreign jurisdictions in which we earn income and as a result of the foreign derived intangible income deduction (FDII), partially offset by the global intangible low-tax income (GILTI) tax.
@@ -85,13 +59,9 @@ This revenue generated outside of the U.S. results in a material portion of our 
 For the nine-month period ended August 4, 2018 this pretax income was primarily in Bermuda, Ireland, and Singapore, at tax rates ranging from 0% to 12.5% in these jurisdictions.
 See Note 12, Income Taxes, in the Notes to Condensed Consolidated Financial Statements in Part I, Item 1 of this Quarterly Report on Form 10-Q for further discussion.
 Net Income
-
-
-
 Net income decreased in the three-month period ended August 3, 2019, as compared to the same period of the prior fiscal year, as a result of a $42.2 million decrease in operating income and a $5.2 million increase in provision for income taxes, partially offset by a $1.3 million decrease in nonoperating expense.
 Net income decreased in the nine-month period ended August 3, 2019 as compared to the same period of the prior fiscal year, as a result of a $61.1 million decrease in operating income, partially offset by a $31.3 million decrease in provision for income taxes and a $13.0 million decrease in nonoperating expense.
 Liquidity and Capital Resources
-
 At August 3, 2019, our principal source of liquidity was $612.2 million of cash and cash equivalents, of which approximately $262.6 million was held in the United States.
 The balance of our cash and cash equivalents was held outside the United States in various foreign subsidiaries.
 We continue to assert our intent to reinvest substantially all of our foreign earnings indefinitely.
@@ -103,33 +73,22 @@ We believe that our existing sources of liquidity and cash expected to be genera
 At August 3, 2019, cash and cash equivalents totaled $612.2 million.
 The following changes contributed to the net change in cash and cash equivalents in the nine-month period ended August 3, 2019 as compared to the same period in fiscal 2018.
 Operating Activities
-
 Cash provided by operating activities is net income adjusted for certain non-cash items and changes in assets and liabilities.
 The decrease in cash provided by operating activities during the nine-month period ended August 3, 2019, as compared to the same period of the prior fiscal year, was primarily the result of changes in working capital.
 Investing Activities
-
 Investing cash flows consist primarily of capital expenditures and cash used for acquisitions.
 Cash used for investing activities during the nine-month period ended August 3, 2019, as compared to the same period of the prior fiscal year, remained relatively flat, as increased capital spending was partially offset by decreased payments for acquisitions.
-Financing Activities 
-
+Financing Activities
 Financing cash flows consist primarily of payments of dividends to stockholders, repurchases of common stock, issuance and repayment of debt, and proceeds from the sale of shares of common stock pursuant to employee equity incentive plans.
 The decrease in cash used related to financing activities during the nine-month period ended August 3, 2019, as compared to the same period of the prior fiscal year, was primarily due to an increase in proceeds from debt related to the Term Loan Agreement and a decrease in debt repayments, partially offset by early termination of debt related to our previously outstanding 3-year and 5-year term loan facilities and increases in stock repurchases and dividend payments.
 Working Capital
-
-
-
 The increase in accounts receivable in dollars was primarily the result of normal variations in the timing of collections and billings.
 Inventory in dollars increased, primarily as a result of our efforts to balance manufacturing production, demand and inventory levels.
 Our inventory levels are impacted by our need to support forecasted sales demand and variations between those forecasts and actual demand.
 Current liabilities increased to $1.5 billion at August 3, 2019 from $1.1 billion at the end of fiscal 2018.
-The increase was primarily due to an increase of $344.4 million in the current portion of our debt, an increase in income taxes payable of $80.2 
-
-
+The increase was primarily due to an increase of $344.4 million in the current portion of our debt, an increase in income taxes payable of $80.2
 million, and an increase in accrued liabilities of $48.0 million, partially offset by a decrease in accounts payable of $40.7 million.
 Debt
-
-
-
 As of August 3, 2019, we had $5.7 billion of carrying value outstanding on our debt.
 In the third quarter of fiscal 2019, we entered into a term loan credit agreement (Term Loan Agreement) with JPMorgan Chase Bank, N.A.
 as administrative agent and the other banks identified therein as lenders, for an unsecured term loan facility in the principal amount of $1.25 billion maturing March 10, 2022, to refinance our then-outstanding 3-year and 5-year unsecured term loans.
@@ -143,8 +102,7 @@ The Term Loan Agreement also requires us to maintain a consolidated leverage rat
 The covenant will be reduced to 3.5 to 1.0 beginning in fiscal year 2020, assuming we do not undertake any significant acquisitions, mergers, and other fundamental changes.
 Should such a change occur, we may be authorized to increase the covenant back to 4.0 to 1.0.
 As of August 3, 2019, we were compliant with these covenants.
-Revolving Credit Facility 
-
+Revolving Credit Facility
 On June 28, 2019, we entered into a second amended and restated revolving credit agreement with Bank of America N.A.
 as administrative agent and the other banks identified therein as lenders (Revolving Credit Agreement), which further amended and restated our amended and restated revolving credit agreement dated as of September 23, 2016.
 The Revolving Credit Agreement provides for a five year unsecured revolving credit facility in an aggregate principal amount of up to $1.25 billion, expiring on June 28, 2024.
@@ -154,29 +112,22 @@ We may borrow under this revolving credit facility in the future and use the pro
 The Revolving Credit Agreement contains the customary representations and warranties, and affirmative and negative covenants and events of default applicable to the Company and its subsidiaries as summarized above for the Term Loan Agreement.
 As of August 3, 2019, we were compliant with these covenants.
 Stock Repurchase Program
-
-
 Capital Expenditures
-
 Net additions to property, plant and equipment were $224.3 million in the first nine months of fiscal 2019 and were funded with a combination of cash on hand and cash generated from operations.
 We expect capital expenditures for fiscal 2019 to be approximately 5% of fiscal 2019 revenue.
 These capital expenditures will be funded with a combination of cash on hand and cash generated from operations.
 Dividends
-
 On August 20, 2019, our Board of Directors declared a cash dividend of $0.54 per outstanding share of common stock.
 The dividend will be paid on September 11, 2019 to all shareholders of record at the close of business on August 30, 2019 and is expected to total approximately $199.5 million.
 We currently expect quarterly dividends to continue at $0.54 per share, although they remain subject to determination and declaration by our Board of Directors.
 The payment of future dividends, if any, will be based on several factors, including our financial performance, outlook and liquidity.
 Contractual Obligations
-
 There have not been any material changes during the nine-month period ended August 3, 2019 to the amounts presented in the table summarizing our contractual obligations included in our Annual Report on Form 10-K for the fiscal year ended November 3, 2018.
 New Accounting Pronouncements
-
 From time to time, new accounting pronouncements are issued by the Financial Accounting Standards Board (FASB) that are adopted by us as of the specified effective date.
 Unless otherwise discussed, management believes that the impact of recently issued standards will not have a material impact on our future financial condition and results of operations.
 See Note 13, New Accounting Pronouncements, in the Notes to our Condensed Consolidated Financial Statements in Part I, Item 1 of this Quarterly Report on Form 10-Q for a description of recently issued and adopted accounting pronouncements, including the dates of adoption and impact on our historical financial condition and results of operations.
 Revenue Recognition
-
 In May 2014, the FASB issued ASU 2014-09, Revenue from Contracts with Customers (ASU 2014-09), which supersedes nearly all existing revenue recognition guidance under U.S. GAAP.
 The core principle of ASU 2014-09 is that an entity should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services.
 Additionally, the guidance requires improved disclosures to help users of financial statements better understand the nature, amount, timing, and uncertainty of revenue and cash flows arising from contracts with customers.
@@ -185,29 +136,15 @@ We adopted ASU 2014-09 in the first quarter of fiscal 2019, using the full retro
 As a result of the adoption of ASU 2014-09, we changed our accounting policy for revenue recognition.
 See Note 1, Basis of Presentation, and Note 2, Revenue Recognition, in the Notes to our Condensed Consolidated Financial Statements in Part I, Item 1 of this Quarterly Report on Form 10-Q for details of the impact of ASU 2014-09 on our financial statements.
 Income Taxes
-
 In October 2016, the FASB issued ASU 2016-16, Income Taxes (Topic 740) (ASU 2016-16).
 ASU 2016-16 requires an entity to recognize the income tax consequences of an intra-entity transfer of an asset, other than inventory, when the transfer occurs.
 ASU 2016-16 is effective for fiscal years beginning after December 15, 2017, and interim periods within those fiscal years.
 We adopted ASU 2016-16 in the first quarter of fiscal 2019 using the modified retrospective method with a cumulative-effect adjustment directly to retained earnings.
 The adoption of ASU 2016-16 resulted in a cumulative-effect increase in our deferred tax assets of approximately $1.7 billion and an increase to our deferred tax liabilities of $1.3 billion.
 Critical Accounting Policies and Estimates
-
 Except for the accounting policy for revenue recognition that was updated as a result of adopting ASU 2014-09, there were no other material changes in the nine-month period ended August 3, 2019 to the information provided under the heading “Critical Accounting Policies and Estimates” in the section entitled "Management's Discussion and Analysis of Financial Condition and Results of Operations" of our Annual Report on Form 10-K for the fiscal year ended November 3, 2018.
 ITEM 2.Unregistered Sales of Equity Securities and Use of Proceeds
-
-Issuer Purchases of Equity Securities 
-
-
-
-
-
-
+Issuer Purchases of Equity Securities
 ITEM 6.Exhibits
-
-
-
-
 SIGNATURES
-
 Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.

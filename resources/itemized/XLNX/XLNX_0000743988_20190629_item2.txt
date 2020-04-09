@@ -1,14 +1,6 @@
 Item 2.Management's Discussion and Analysis of Financial Condition and Results of Operations
-
 Critical Accounting Policies and Estimates
-
-
-
-
-
 Net Revenues
-
-
 •Advanced Products include our most recent product offerings and consist of the UltraScale+, UltraScale and 7-series product families and our Alveo boards products.
 •Core Products consist of all other product families.
 These product categories are modified on a periodic basis to better reflect the maturity of the products and advances in technology.
@@ -16,9 +8,6 @@ The most recent modification was made on April 3, 2016, which was the beginning 
 Specifically, we are grouping the products manufactured at the 28 nanometer (nm), 20nm and 16nm nodes into the Advanced Products category while all other products are grouped in the Core Products category.
 Except for Avnet, no other distributor or end customer accounted for more than 10% of our net revenues for the first quarter of fiscal 2020 or 2019.
 Net Revenues by Product
-
-
-
 Net revenues from Advanced Products increased in the first three months of fiscal 2020 compared to the comparable prior year period.
 The increase was a result of sales growth from our 16nm, and to a lesser extent, from our 20nm product families.
 We expect sales of Advanced Products to continue to grow as more customer programs enter into volume production with our 16nm products.
@@ -26,11 +15,6 @@ Net revenues from Core Products decreased in the first three months of fiscal 20
 The decrease was largely due to lower sales from our Virtex-2 and Virtex-5 product families.
 Core Products are relatively mature products and, as a result, their sales are expected to decline over time.
 Net Revenues by End Markets
-
-
-
-
-
 Net revenues from Automotive, Broadcast and Consumer increased, in terms of absolute dollar, in the first three months of fiscal 2020 from the comparable prior year period.
 The increase was due to higher sales from all sub-segments, in particular from consumer business.
 Net revenues from Wired and Wireless increased in the first three months of fiscal 2020 from the comparable prior year period.
@@ -40,19 +24,13 @@ The decrease was driven by lower sales from China region.
 Channel Revenue was slightly negative in the first three months of fiscal 2020 as shipments to distributors were lower than what the distributors subsequently shipped to the end customers in the period.
 While we strive to improve the stability of distributor inventory balances, Channel Revenue could fluctuate in the future driven by external factors such as the distributors' own inventory management and customer service objectives.
 Net Revenues by Geography
-
-
-
-
 Net revenues in Asia Pacific increased in the first quarter of fiscal 2020 from the comparable prior year period.
 The increase was primarily due to higher sales from wireless business, driven by the initial deployment ramp of 5G wireless networks.
 Net revenues in Europe increased in the first quarter of fiscal 2020 from the comparable prior year period.
 The increase was primarily due to higher sales from wireless, and to a lesser extent, AIT businesses.
 Net revenues in Japan increased in the first quarter of fiscal 2020 from the comparable prior year period.
 The increase was primarily due to higher sales from industrial business.
-Gross Margin 
-
-
+Gross Margin
 Gross margin was lower by 3.6 percentage points in the first quarter of fiscal 2020 from the comparable prior year period.
 The change was driven primarily by unfavorable changes in the end market mix, as the percentage of revenue derived from wireless business, which has relatively lower gross margin, has increased significantly.
 Lower gross margin was also affected, to a lesser extent, by amortization of acquisition-related intangibles.
@@ -64,26 +42,14 @@ In order to compete effectively, we pass manufacturing cost reductions to our cu
 Price erosion is common in the semiconductor industry, as advances in both product architecture and manufacturing process technology permit continual reduction in unit cost.
 We historically have been able to offset much of such revenue decline in our mature products with increased revenue from newer products.
 Research and Development
-
-
-
-
 Selling, General and Administrative
-
-
 Selling, general and administrative expenses increased by $16.9 million for the first quarter of fiscal 2020 from the comparable prior year period as we incurred higher employee compensation (including stock-based compensation) due primarily to increased headcount, as well as higher expenses related to merger and acquisition activities.
 Stock-Based Compensation
-
-
 The 20% increase in stock-based compensation expense for the first quarter of fiscal 2020 as compared to the prior year period was primarily related to higher expenses associated with RSUs to remain competitive in compensation, as we granted RSUs at a higher fair value than in the prior years.
 Interest and Other Income (Expense), Net
-
-
 Our net interest and other income (expense) was a net income of $11.6 million in the first quarter of fiscal 2020, as compared to a net expense of $2.8 million in the same prior year period.
 The net increase was due primarily to gains on the sale of an investment during the first quarter of fiscal 2020.
 Provision for Income Taxes
-
-
 The decrease in the effective tax rate in the first quarter of fiscal 2020 as compared to the same prior year period was primarily due to a net increase in the benefit attributable to income earned in lower tax rate jurisdictions and the recognition of a tax benefit attributable to deductions to be claimed on amended tax returns for fiscal 2016 and 2017.
 The difference between the U.S. federal statutory tax rate of 21% and our effective tax rate in all periods presented was primarily due to the beneficial impact of income earned in lower tax rate jurisdictions, which was partially offset by tax on GILTI.
 On July 27, 2015, the United States Tax Court (Tax Court) issued its opinion in Altera Corp. v. Commissioner, and, in a 15-0 decision, concluded that related parties in a cost sharing arrangement are not required to share expenses related to stock-based compensation.
@@ -97,7 +63,6 @@ Since the Altera decision is not yet final, we believe the law to be unsettled a
 As of the fiscal quarter ended June 29, 2019, the potential impact of a final adverse decision to the consolidated statement of income could be as much as $45.0 million for prior years' taxes and interest.
 We will continue to monitor developments in the Altera case and the potential effect on our consolidated financial statements.
 Financial Condition, Liquidity and Capital Resources
-
 We have historically used a combination of cash flows from operations and equity, as well as debt financing to support ongoing business activities, acquire or invest in critical or complementary technologies, purchase facilities and capital equipment, repurchase our common stock and debentures under our repurchase program, pay dividends and finance working capital.
 Additionally, our investments in debt securities are liquid and available for future business needs.
 The combination of cash, cash equivalents and short-term and long-term investments as of June 29, 2019 and March 30, 2019 totaled $2.94 billion and $3.23 billion, respectively.
@@ -106,8 +71,7 @@ As of March 30, 2019, cash, cash equivalents and short-term investments were $3.
 As of June 29, 2019, we had $1.83 billion of cash and cash equivalents and short-term investments held in our non-U.S. jurisdictions.
 Substantially all $1.83 billion of cash, cash equivalents and short-term investments held by our non-U.S. entities is available for use in the U.S. without incurring additional U.S federal income taxes.
 Operating Activities —During the first quarter of fiscal 2020, our operations generated net positive cash flow of $298.2 million, which was $122.0 million higher than the $176.2 million generated during the first quarter of fiscal 2019.
-The positive cash flow 
-
+The positive cash flow
 from operations generated during the first quarter of fiscal 2020 was primarily from net income as adjusted for non-cash related items, decrease in accounts receivable and increase in income tax payable.
 These items were partially offset by increases in inventories and other assets and a decrease in accrued liabilities.
 Accounts receivable decreased by $29.2 million and days sales outstanding decreased to 33 days at June 29, 2019 from 40 days at March 30, 2019.
@@ -120,7 +84,6 @@ Net cash used in financing activities during the first quarter of fiscal 2020 co
 Common Stock Repurchase Program" to our condensed consolidated financial statements, included in Part I.
 "Financial Information,") to repurchase shares of common stock, $94.0 million dividend payments to stockholders, $4.9 million payment related to other financing activities and $4.1 million of payment for RSU withholdings.
 Contractual Obligations
-
 We lease some of our facilities, office buildings and land under non-cancelable operating leases that expire at various dates through August 2029.
 See "Note 15.
 Commitments" to our condensed consolidated financial statements, included in Part I.
@@ -130,18 +93,15 @@ Of the $514.3 million, $477.6 million was the estimated long-term portion of the
 The remaining $36.7 million of the long-term income taxes payable is for uncertain tax positions and related interest and penalties.
 Due to the inherent uncertainty with respect to the timing of future cash outflows associated with such liabilities, we are unable to reliably estimate the timing of cash settlement with the respective taxing authorities.
 Off-Balance-Sheet Arrangements
-
 As of June 29, 2019, we did not have any significant off-balance-sheet arrangements, as defined in Item 303(a)(4)(ii) of SEC Regulation S-K.
 Liquidity and Capital Resources
-
 Cash generated from operations is used as our primary source of liquidity and capital resources.
 Our investment portfolio is also available for future cash requirements as is our $400.0 million revolving credit facility entered into in December 2016 (expiring in December 2021).
 We are not aware of any lack of access to the revolving credit facility; however, we can provide no assurance that access to the revolving credit facility will not be impacted by adverse conditions in the financial markets.
 Our revolving credit facility is not reliant upon a single bank.
 There have been no borrowings to date under our existing revolving credit facility.
 During the first quarter of fiscal 2020, we repurchased 1.4 million shares of common stock in the open market for a total of $145.0 million.
-Additionally, we entered into a stock repurchase agreement with an independent financial institution to repurchase shares 
-
+Additionally, we entered into a stock repurchase agreement with an independent financial institution to repurchase shares
 under the 2018 Repurchase Program, whereby we provided the financial institution with an up-front payment totaling $300.0 million and the financial institution agreed to deliver to us a certain number of shares based upon the volume weighted-average price, during an averaging period, less a specified discount.
 Under this arrangement, we received an initial 1.6 million shares of common stock during the first quarter of fiscal 2020 for $168.1 million (estimated based on volume-weighted average price up to June 29, 2019).
 The initial shares received by us were retired, accounted for as a reduction to stockholders' equity in the condensed consolidated balance sheets and treated as a repurchase of common stock for purposes of calculating earnings per share.
@@ -152,7 +112,6 @@ We will continue to evaluate opportunities for investments to obtain additional 
 However, the risk factors discussed in Item 1A included in Part II.
 "Risk Factors" and below could affect our cash positions adversely.
 Item 2.Unregistered Sale of Equity Securities and Use of Proceeds
-
 On May 16, 2016, the Board authorized the 2016 Repurchase Program to repurchase up to $1.00 billion of the Company's common stock and debentures.
 On May 16, 2018, the Board authorized the 2018 Repurchase Program to repurchase the Company's common stock and debentures up to $500.0 million.
 The 2016 and 2018 Repurchase Programs have no stated expiration date.
@@ -163,10 +122,6 @@ Under this arrangement, Company received an initial 1.6 million shares of common
 The initial shares received by the Company were retired, accounted for as a reduction to stockholders' equity in the condensed consolidated balance sheets and treated as a repurchase of common stock for purposes of calculating earnings per share.
 The Company expects to receive additional shares and a portion of the remaining estimated $131.9 million back during the next quarter.
 Item 6.Exhibits
-
-
-
 Items 3, 4 and 5 are not applicable and have been omitted.
 SIGNATURES
-
 Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.

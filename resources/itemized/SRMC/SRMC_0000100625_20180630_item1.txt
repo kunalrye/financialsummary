@@ -1,0 +1,141 @@
+ITEM 1.
+FINANCIAL STATEMENTS
+SIERRA MONITOR CORPORATION
+Condensed Balance Sheets
+See accompanying notes to the unaudited interim condensed financial statements.
+  Page 2 of 20
+SIERRA MONITOR CORPORATION
+Condensed Statements of Operations
+See accompanying notes to the unaudited interim condensed financial statements.
+  Page 3 of 20
+SIERRA MONITOR CORPORATION
+Condensed Statements of Cash Flows
+See accompanying notes to the unaudited interim condensed financial statements.
+  Page 4 of 20
+SIERRA MONITOR CORPORATION
+Notes to the Interim Condensed Financial Statements
+Basis of Presentation
+The accompanying unaudited interim condensed financial statements have been prepared by Sierra Monitor Corporation (the “Company,” “we,” or “us”) pursuant to the rules and regulations of the Securities and Exchange Commission (the “SEC”).
+Certain information and footnote disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States of America (“U.S.
+GAAP”) have been omitted pursuant to such SEC rules and regulations; nevertheless, the Company believes that the disclosures are adequate to make the information presented not misleading.
+Amounts related to disclosure of December 31, 2017 balances within these interim condensed financial statements were derived from the audited 2017 financial statements and notes thereto.
+These financial statements and the notes hereto should be read in conjunction with the financial statements and notes thereto included in the Company’s Annual Report on Form 10-K for the year ended December 31, 2017, which was filed with the SEC on April 2, 2018.
+In the opinion of the Company, all adjustments, including normal recurring adjustments necessary to present fairly the financial position, results of operations, and cash flows of the Company for the interim period have been included.
+The results of operations for the interim period are not necessarily indicative of the results for any subsequent interim period or for the full year.
+Summary of Business
+The Company’s FieldServer family of protocol gateways, routers, and network explorers targets facility automation requirements, and is used by original equipment manufacturers (“OEMs”) and system integrators to enable local and remote monitoring and control of assets and facilities.
+The FieldServer family of products works with the SMC Cloud portal; a cloud-based service that registers and manages FieldServer products, provides secure remote access to the local web-based applications that run on FieldServer products, and integrates with third-party applications over REST APIs.
+With more than 200,000 installed gateways supporting over 140 protocols such as BACnet, LonWorks, MODBUS, and XML in commercial and industrial facilities, FieldServer is the industry’s leading multi-protocol gateway brand and is delivered in a variety of form factors appropriate to the asset being interfaced.
+The intellectual property in FieldServer products is embodied in the proprietary embedded software that runs on a variety of customized hardware platforms with different connectivity options such as Serial, Ethernet, Wi-Fi, or cellular.
+In addition to bridging data protocols between various assets or devices within a facility, the embedded software includes value-added “fog” or “local application” software for monitoring, logging, alarming, and trending local field data.
+Additionally, the embedded software enables the assets or devices in the facility to securely connect to third-party clouds and to the Company’s own SMC Cloud portal.
+The SMC Cloud portal is a proprietary, secure, and scalable Software-as-a-Service product and is developed and deployed using the same core technologies and providers that are used by many of the world’s leading web sites and Internet-based services.
+  Page 5 of 20
+The Company’s solutions are also sold to telecommunication companies and their suppliers to manage environmental and security conditions such as temperature, gas, and smoke in remote structures such as local DSL distribution nodes and buildings at cell tower sites.
+Accounting Policies
+a) Revenue Recognition
+In May 2014, the Financial Accounting Standards Board (“FASB”) issued ASU 2014-09, “Revenue from Contracts with Customers” (Topic 606).
+ASC 606 requires the recognition of revenue when promised goods or services are transferred to customers in an amount that reflects the considerations to which the entity expects to be entitled to in exchange for those goods or services.
+On January 1, 2018, the Company adopted ASC 606 by using the modified retrospective method.
+The comparative information has not been recast and continues to be reported under the accounting standards in effect for those periods.
+The adoption did not have a material impact to the nature and timing of its revenues, condensed statements of operations, condensed statements cash flows and condensed balance sheets.
+The majority of the impact has been on sales returns and the impact has been deemed immaterial.
+The Company’s revenues are derived from the sale of FieldServer products, FieldServer products services, Gas Detection and Environment Control products, and Gas Detection and Environment Control products services.
+The Company accounts for a contract with a customer when there’s approval and commitment from both parties, the rights of the parties are identified, payment terms are identified, the contract has commercial substance and collectability of consideration is probable.
+The Company’s revenue arrangements consist of multiple performance obligations including hardware, software, and services.
+Determining the stand-alone selling price (“SSP”) and allocation of consideration from an arrangement to the individual performance obligations, and the appropriate timing of revenue recognition are significant judgments with respect to these arrangements.
+The Company does not provide credits, incentives or retroactive discounts, which may be required to be accounted for as variable consideration when estimating the amount of revenue to be recognized.
+The Company from time to time provides a right of return to its customers and the Company uses expected value method to estimate the potential value of the customer returns to reduce the transaction price.
+The impact has been deemed to be immaterial, thus there is no disclosure related to sales returns, return on assets and refund liability.
+Gas Detection and Environment Control Products
+Gas Detection and Environment Control Products are sold as off-the-shelf products with prices fixed at the time of order.
+Orders delivered to the Company by phone, fax, mail or email are considered valid purchase orders and once accepted by the Company are deemed to be the final understanding between us and our customer as to the specific nature and terms of the agreed-upon sale transaction.
+The creditworthiness of customers is assessed prior to the Company accepting a customer’s first order.
+Additionally, international customers and customers who have developed a history of payment problems are generally required to prepay or pay through a letter-of-credit.
+Revenue is recognized at a point in time when control of the product is transferred to the customer, generally occurring upon the shipment or delivery dependent upon the terms of the underlying contract when (a) for FOB factory orders they leave our shipping dock or (b) for FOB customer dock orders upon confirmation of delivery.
+Gas Detection and Environment Control Services
+Gas detection and environment control services consist of field service orders (technical support) and training, which are provided separately from product orders.
+Orders are accepted in the same forms as discussed for Gas Detection and Environment Control Products above with hourly prices fixed at the time of order.
+Revenue recognition occurs only when the service activity is completed.
+Such services are provided to current and prior customers, and, as noted above, creditworthiness has generally already been assessed.
+In cases where the probability of receiving payment is low, a credit card number is collected for immediate processing.
+Revenue is recognized in the period the technical support and training are performed.
+FieldServer Products
+FieldServer Services
+FieldServer services consist of orders for custom development of protocol drivers.
+Generally, customers place orders for FieldServer products concurrently with their order for protocol drivers.
+However, if custom development of the protocol driver is required, the product order is not processed until development of the protocol driver is complete.
+The driver development involves further research after receipt of order, preparation of a scope document to be approved by the customer and then engineering time to write, test and release the driver program.
+When development of the driver is complete the customer is notified and can proceed with a FieldServer product.
+Revenues for protocol driver development are recognized at a point in time when the control of the product is transferred to the customer generally occurring upon shipment or delivery of the related product that includes the developed protocol drivers (as noted in FieldServer Products above).
+Discounts and Allowances
+Discounts are applied at time of order entry and sales are processed at net pricing.
+No allowances are offered to customers.
+b) Recent Accounting Pronouncements
+Recent accounting pronouncements discussed in the notes to the December 31, 2017 audited financial statements, filed previously with the SEC in our Annual Report on Form 10-K on April 2, 2018, that are required to be adopted during the year ended December 31, 2018, did not have or are not expected to have a significant impact on the Company’s 2018 financial statements.
+  Page 6 of 20
+In February 2016, the FASB issued ASU 2016-2, “Leases” (Topic 842), which is intended to improve financial reporting for lease transactions.
+This ASU will require organizations that lease assets, such as real estate, airplanes and manufacturing equipment, to recognize on their balance sheet the assets and liabilities for the rights to use those assets for the lease term and obligations to make lease payments created by those leases that have terms of greater than 12 months.
+The recognition, measurement, and presentation of expenses and cash flows arising from a lease by a lessee primarily will depend on its classification as finance or operating lease.
+This ASU will also require disclosures to help investors and other financial statement users better understand the amount and timing of cash flows arising from leases.
+These disclosures will include qualitative and quantitative requirements, providing additional information about the amounts recorded in the financial statements.
+The ASU is effective for the Company for the year ending December 31, 2019 and interim reporting periods within that year, and early adoption is permitted.
+Management has not yet determined the effect of this ASU on the Company’s financial statements.
+c) Employee Stock-Based Compensation
+In April 2016 and in May 2016, the Company’s Board of Directors and the Company’s shareholders, respectively, approved the Company’s 2016 Equity Incentive Plan (the “2016 Stock Plan”) and reserved a total of (i) 279,680 shares, plus (ii) 2,550,320 shares that remained available for issuance under the 2006 Stock Plan immediately prior to its expiration, plus (iii) any shares subject to stock options or restricted stock granted under the 2006 Stock Plan that, on or after the date the 2016 Stock Plan became effective, expired or otherwise terminated without having been exercised in full, or were forfeited to or repurchased by the Company, with the maximum number of shares to be added to the 2016 Stock Plan pursuant to clauses (ii) and (iii) equal to 2,668,320.
+Options granted under our 2006 Stock Plan and 2016 Stock Plan are at the fair market value of our common stock at the grant date, typically vest ratably over four years, and expire ten years from the grant date.
+As of June 30, 2018, a total of 1,154,000 shares were issued under the 2016 Stock Plan.
+All share-based payments to employees (incentive stock options) are recognized in the financial statements based on their fair values at the date of grant.
+The calculated fair value is recognized as expense (net of any capitalization) over the requisite service period, net of estimated forfeitures, using the straight-line method.
+The Company considers many factors when estimating expected forfeitures, including types of awards, employee class and historical experience.
+The modified prospective method of application requires compensation expense to be recognized in the financial statements for all unvested stock options beginning in the quarter of award.
+The cost is based on the grant date fair value of the stock option.
+Compensation expense recognized in future periods for share-based compensation will be adjusted for the effects of estimated forfeitures.
+For the six-month periods ended June 30, 2018 and 2017, general and administrative expenses included stock-based compensation expense of $93,766 and $165,792, respectively, decreasing the Company’s income and increasing loss before provision for income taxes and resulting from the recognition of compensation expense associated with employee stock options.
+There was no material impact on the Company’s basic and diluted net loss per share as a result of recognizing the employee stock-based compensation expense.
+The Company did not modify the terms of any previously granted stock options during the six-month periods ended June 30, 2018 and 2017.
+d) Subsequent Events
+The Company appointed Ross DeMont as a member of the Company’s Board of Directors effective July 25, 2018.
+  Page 7 of 20
+Further, the Company amended the Bylaws of the Company (the “Amended Bylaws”), in order to increase the size of the board of directors from five directors to six directors effective immediately in connection with the appointment of Mr. DeMont.
+Inventories
+Net Loss Per Share
+Basic loss per share (“EPS”) is computed using the weighted average number of common shares outstanding during the period.
+Diluted EPS is computed using the weighted average number of common and dilutive potential common shares outstanding during the period.
+Dilutive potential common shares consist of common stock issuable upon exercise of stock options using the treasury stock method.
+No adjustments to losses were made for purposes of per share calculations.
+At June 30, 2018, outstanding options to acquire 808,000 shares of common stock were not considered potentially dilutive common shares due to the exercise price of such options being higher than the stock price used in the EPS calculation.
+At June 30, 2017, there were no options to acquire shares of common stock that were considered potentially dilutive due to the net loss for the year-to-date periods
+Concentrations
+No customer made up more than 10% of accounts receivable at June 30, 2018 and two customers made up more than 10% of accounts receivable at December 31, 2017.
+Additionally, no customers made up more than 10% of net sales for each of the three or six-month periods ended June 30, 2018 or June 30, 2017.
+The Company currently maintains substantially all of its day to day operating cash with a major financial institution.
+At times, cash balances may be in excess of the amounts insured by the Federal Deposit Insurance Corporation.
+Cash balances of approximately $2,301,000 and $2,830,000 were in excess of such insured amounts at June 30, 2018 and December 31, 2017, respectively
+  Page 8 of 20
+Segment Information
+The Company operates in a single business segment, industrial instrumentation.
+The Company’s chief operating decision maker, the Chief Executive Officer (“CEO”), evaluates the performance of the Company and makes operating decisions based on financial data consistent with the presentation in the accompanying unaudited condensed financial statements.
+Line of Credit
+The Company maintains a line of credit with its commercial bank in the maximum amount of $2,000,000.
+No borrowings have been made under the Company’s line of credit during the first six months of fiscal year 2018 and there were no outstanding balances at June 30, 2018 or December 31, 2017.
+As of June 30, 2018, the Company was in compliance with the financial covenants of the line of credit.
+Stock Option Grants
+No options were granted during the three-month period ending June 30, 2018 and 41,000 options with a fair value of $27,224 were granted during the six-month period ended June 30, 2018.
+A total of 238,000 options with a fair value of $162,554 were granted during the three month and six-month periods ended June 30, 2017.
+Stock Option Exercise and Expiration
+No stock options were exercised in the six-month period ended June 30, 2018 and 1,000 options expired during the three-month period ended June 30, 2018.
+A total of 135,000 stock options were exercised in the six-month period ended June 30, 2017 for total proceeds of $16,298.
+During the same period, 1,500 options expired.
+Commitments and Contingencies
+From time to time, the Company is subject to legal proceedings and claims that arise in the normal course of business.
+While the outcome of these proceedings and claims cannot be predicted, we currently are not a party to any legal proceedings, the adverse outcome of which, in management’s opinion, individually or in the aggregate, is expected to have a material adverse effect on the Company’s financial position or results of operations.
+  Page 9 of 20
+ITEM 1.
+LEGAL PROCEEDINGS
+From time to time, the Company is subject to legal proceedings and claims that arise in the normal course of business.
+While the outcome of these proceedings and claims cannot be predicted, we currently are not a party to any legal proceedings, the adverse outcome of which, in management’s opinion, individually or in the aggregate, is expected to have a material adverse effect on the Company’s financial position or results of operations.
+ITEM 1A.
+RISK FACTORS
+Please see those risk factors identified in Item1A, Risk Factors, of the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2017.
+The Company’s risk factors have not changed materially since December 31, 2017.

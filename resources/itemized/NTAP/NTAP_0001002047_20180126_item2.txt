@@ -7,10 +7,8 @@ Forward-looking statements are not guarantees of future performance and the actu
 Factors that might cause such differences include, but are not limited to, those discussed in Part II, Item 1A of this Form 10-Q under the heading “Risk Factors,” which are incorporated herein by reference.
 The following discussion should be read in conjunction with our fiscal year 2017 Form 10-K and the condensed consolidated financial statements and notes thereto included elsewhere in this Form 10-Q.
 We assume no obligation to revise or update any forward-looking statements for any reason, except as required by law.
-Overview  
-
-Our Company 
-
+Overview
+Our Company
 We are the data authority for hybrid cloud environments.
 We provide a full range of hybrid cloud data services that simplify management of applications and data across cloud and on-premises environments to accelerate digital transformations.
 Together with our partners, we empower global organizations to unleash the full potential of their data to expand customer touchpoints, foster greater innovation, and optimize their operations.
@@ -33,32 +31,23 @@ Strategic solutions include Clustered ONTAP, branded E-Series, SolidFire, AltaVa
 Mature solutions include 7-mode OnTap, add-on hardware and related operating system (OS) software and original equipment manufacturers (OEM) products.
 Both our Mature and Strategic product lines include a mix of disk, hybrid and all flash storage media.
 In addition to our products, we provide a variety of services including software maintenance, hardware maintenance and other services including professional services, global support solutions, and customer education and training to help customers most effectively manage their data.
-Financial Results and Key Performance Metrics Overview  
-
-
-
-
-Stock Repurchase Program and Dividend Activity 
-
+Financial Results and Key Performance Metrics Overview
+Stock Repurchase Program and Dividend Activity
 During the first nine months of fiscal 2018, we repurchased 10 million shares of our common stock at an average price of $46.37 per share, for an aggregate of $450 million.
 We also declared cash dividends of an aggregate of $0.60 per share in that period, for which we paid an aggregate of $161 million.
-Senior Notes Redemption 
-
+Senior Notes Redemption
 On November 3, 2017, we extinguished our 2.00% Senior Notes due December 2017 for an aggregate cash redemption price of $751 million, plus accrued and unpaid interest.
-Real Estate Transactions 
-
+Real Estate Transactions
 On September 8, 2017, we entered into an agreement to sell certain land and buildings for a total of $306 million, through two separate and independent closings.
 On December 7, 2017, the first closing date, we consummated the sale of properties with a net book value of $66 million for cash proceeds of $210 million, resulting in a gain, net of direct selling costs, of $142 million.
 In fiscal 2016, we entered into a sale-leaseback arrangement of certain of our land and buildings.
 The arrangement did not qualify for sale-leaseback accounting and instead was accounted for as a financing transaction.
 In December 2017, we terminated the leases and recorded a non-cash sale of properties with a net book value of $54 million, the extinguishment of $130 million in financing obligations, and a gain of $76 million.
-Tax Reform 
-
+Tax Reform
 On December 22, 2017, the 2017 Tax Reform Reconciliation Act, originally referred to as the Tax Cuts and Jobs Act (TCJA), was enacted into law.
 This tax reform legislation contains several key tax provisions that affected us, including a one-time mandatory transition tax on accumulated foreign earnings and a reduction of the U.S. corporate income tax rate to 21% effective January 1, 2018, among others.
 Our GAAP net loss in the third quarter and first nine months of fiscal 2018 includes a one-time tax reform-related provisional charge of $856 million.
-Critical Accounting Policies and Estimates  
-
+Critical Accounting Policies and Estimates
 Our condensed consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America, which require management to make judgments, estimates and assumptions that affect the reported amounts of assets, liabilities, net revenues and expenses, and the disclosure of contingent assets and liabilities.
 Our estimates are based on historical experience and various other assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities.
 We believe that the accounting estimates employed and the resulting balances are reasonable; however, actual results may differ from these estimates and such differences may be material.
@@ -66,20 +55,15 @@ The summary of our significant accounting policies is included under Item 7 – 
 There have been no material changes to the critical accounting policies and estimates as filed in such report, except with respect to Income Taxes.
 As a part of the provisional estimates recorded during the quarter in response to the enactment of the TCJA, we considered the impacts of the act, reviewed our projected global cash requirements, and determined that certain historical and future foreign earnings will no longer be indefinitely reinvested, in contrast to our previous policy.
 Refer to Note 13 – Income Taxes of the Notes to Condensed Consolidated Financial Statements for additional details.
-New Accounting Standards  
-
+New Accounting Standards
 See Note 2 – Recent Accounting Standards Not Yet Effective of the Notes to Condensed Consolidated Financial Statements for a full description of new accounting pronouncements, including the respective expected dates of adoption and effects on our financial statements.
-Results of Operations  
-
+Results of Operations
 Our fiscal year is reported as a 52- or 53-week year that ends on the last Friday in April.
 Fiscal years 2018 and 2017, ending April 27, 2018 and April 28, 2017, are each 52-week years, with 13 weeks in each of their quarters.
 Unless otherwise stated, references to particular years, quarters, months and periods refer to the Company’s fiscal years ended in April and the associated quarters, months and periods of those fiscal years.
-Percentages may not add due to rounding 
-
-Discussion and Analysis of Results of Operations  
-
-Overview  
-
+Percentages may not add due to rounding
+Discussion and Analysis of Results of Operations
+Overview
 Net revenues for the third quarter and first nine months of fiscal 2018 were $1,523 million and $4,270 million, respectively, reflecting an increase of $119 million, or 8%, and $232 million, or 6%, respectively, compared to the corresponding periods of the prior year, reflecting higher product revenues, partially offset by lower hardware maintenance and other services revenues.
 Gross profit as a percentage of net revenues for the third quarter and the first nine months of fiscal 2018 increased by one percentage point and one and a half percentage points, respectively, compared to the corresponding periods in fiscal 2017, reflecting higher margins on product revenues.
 Gross profit margins on product revenues increased four and a half percentage points in the third quarter of fiscal 2018 and four percentage points in the first nine months of fiscal 2018 compared to the corresponding periods of fiscal 2017, primarily due to an increase in average selling price (ASP) and, to a lesser extent, the favorable impact of foreign exchange rate fluctuations.
@@ -97,9 +81,7 @@ A decrease in unit volume of 7-mode systems resulting from the movement of custo
 Product revenues from both strategic and mature solutions were favorably impacted by foreign exchange rate fluctuations in the third quarter of fiscal 2018 compared to the third quarter of fiscal 2017.
 Total product revenues from strategic solutions totaled $1,704 million in the first nine months of fiscal 2018 reflecting a 24% increase from $1,375 million in the first nine months of fiscal 2017.
 This increase was primarily due to a 7% increase in unit volume of Clustered ONTAP systems and an increase in ASP driven by sales of our All-Flash FAS products.
-Total product revenue from  
-
-
+Total product revenue from
 mature solutions totaled $746 million in the first nine months of fiscal 2018 reflecting a 4% decrease from $779 million in the first nine months of fiscal 2017.
 This decrease was primarily due to a 69% decrease in unit volume of 7-mode systems, and a 10% decrease in OEM revenues, partially offset by an 11% increase in add-on hardware, storage and related OS revenues.
 Software maintenance revenues are associated with contracts which entitle customers to receive unspecified product upgrades and enhancements on a when-and-if-available basis, bug fixes and patch releases, as well as internet and telephone access to technical support personnel located in our global support centers.
@@ -108,18 +90,10 @@ Hardware maintenance and other services revenues include hardware maintenance, p
 Hardware maintenance contract revenues were $299 million and $903 million for the third quarter and first nine months of fiscal 2018, respectively, compared to $313 million and $952 million for the corresponding periods of the prior year.
 The decreases in the current year were primarily due to lower contract renewal rates, and a decline in ASP on executed contracts.
 Professional services and educational and training services revenues were $67 million and $206 million for the third quarter and first nine months of fiscal 2018, respectively, compared to $67 million and $209 million for the corresponding periods of the prior year.
-Percentages may not add due to rounding 
-
+Percentages may not add due to rounding
 Americas revenues consist of sales to Americas commercial and U.S. public sector markets.
 Our geographic distribution of revenues as a percentage of net revenues was relatively consistent in the third quarter and first nine months of fiscal 2018 compared to the third quarter and first nine months of fiscal 2017.
-Cost of Revenues  
-
-
-
-
-
-
-
+Cost of Revenues
 Cost of product revenues represented 51% of product revenues for the third quarter and first nine months of fiscal 2018, compared to 55% and 54% for the third quarter and first nine months of fiscal 2017, respectively.
 Materials costs represented 91% and 90% of product costs for the third quarter and first nine months of fiscal 2018, respectively, compared to 90% and 91% in the third quarter and first nine months of fiscal 2017, respectively.
 Materials costs increased $37 million and $57 million in the third quarter and first nine months of fiscal 2018, respectively, compared to the corresponding periods of the prior year, primarily due to higher unit volume of Clustered ONTAP systems.
@@ -131,10 +105,8 @@ Cost of product revenues in the third quarter of fiscal 2018 compared to the thi
 Cost of software maintenance revenues was relatively flat in the third quarter and first nine months of fiscal 2018 compared to the corresponding periods of fiscal 2017 and represented 3% of software maintenance revenues for all periods presented.
 Cost of hardware maintenance and other services revenues decreased $3 million, or 3%, for the third quarter of fiscal 2018 compared to the third quarter of fiscal 2017, and decreased $33 million, or 9%, for the first nine months of fiscal 2018 compared to the first nine months of fiscal 2017, primarily due to the favorable impact of cost savings initiatives.
 Costs represented 30% of hardware maintenance and other services revenues in the third quarter and first nine months of fiscal 2018, compared to 29% and 32% in the third quarter and first nine months of fiscal 2017, respectively.
-Operating Expenses  
-
-Sales and Marketing, Research and Development and General and Administrative Expenses  
-
+Operating Expenses
+Sales and Marketing, Research and Development and General and Administrative Expenses
 Compensation costs represent the largest component of operating expenses.
 Included in compensation costs are salaries, benefits, other compensation-related costs, stock-based compensation expense and employee incentive compensation plan costs.
 Total compensation costs included in operating expenses increased by $26 million, or 7% in the third quarter of fiscal 2018 compared to the corresponding period in the prior year primarily due to higher incentive compensation expense, reflecting stronger operating performance against goals, and, to a lesser extent, the unfavorable impact of foreign exchange rate fluctuations.
@@ -147,22 +119,16 @@ Depreciation expense decreased primarily due to certain equipment becoming fully
 Compensation costs for the third quarter of fiscal 2018 increased slightly compared to the corresponding period of fiscal 2017 as a result of higher incentive compensation expense, partially offset by a slight decrease in average headcount.
 Compensation costs for the first nine months of fiscal 2018 were favorably impacted by lower salaries, benefits and stock-based compensation expenses compared to the corresponding period of fiscal 2017 due to an 11% decrease in average headcount, partially offset by higher incentive compensation expense.
 The increase in professional and legal fees and outside services expense in the third quarter and first nine months of fiscal 2018 was primarily due to higher spending levels on projects and outside services, while the increase in facilities and IT support costs was primarily due to an increase in spending on IT projects.
-NM – Not Meaningful 
-
+NM – Not Meaningful
 Management has previously approved several restructuring actions to streamline our business, eliminate costs and redirect resources to our highest return activities, including the March 2016 Plan and the November 2016 Plan, under which we reduced our global workforce by approximately 11% and 6%, respectively.
 We completed all workforce related activities under these plans as of the end of fiscal 2017.
 See Note 12 – Restructuring Charges of the Notes to Condensed Consolidated Financial Statements for more details regarding our restructuring plans.
-NM – Not Meaningful 
-
+NM – Not Meaningful
 On September 8, 2017, we entered into an agreement to sell certain properties previously classified as assets held-for-sale for a total of $306 million, through two separate and independent closings.
 On December 7, 2017, the date of the first closing, we consummated the sale of properties with a net book value of $66 million for cash proceeds of $210 million, resulting in a gain, net of direct selling costs, of $142 million.
 During the third quarter of fiscal 2018, our continuing involvement with properties subject to a sale-leaseback arrangement entered into in fiscal 2016 ended, and as a result we recorded a non-cash sale of properties, extinguished the associated financing obligation and recognized a gain of $76 million.
-Other Income (Expense), Net (in millions, except percentages) 
-
-
-
-NM - Not Meaningful 
-
+Other Income (Expense), Net (in millions, except percentages)
+NM - Not Meaningful
 Interest income increased in the third quarter and the first nine months of fiscal 2018 compared to the corresponding periods of the prior year, primarily due to a shift in our investment portfolio to higher-yielding investments.
 Interest expense increased in the third quarter and the first nine months of fiscal 2018 primarily as a result of our commercial paper program, which began in the third quarter of fiscal 2017, and the September 2017 issuance of $800 million aggregate principal amount of Senior Notes which have a higher weighted average interest rate than the $750 million aggregate principal amount of Senior Notes extinguished in November 2017.
 Our effective tax rate for the third quarter of fiscal 2018 was 204.3% compared to an effective tax rate of 20.2% for the third quarter of fiscal 2017.
@@ -171,24 +137,13 @@ Our effective tax rates increased for the third quarter and first nine months of
 Our fiscal 2017 effective tax rates reflect the impact of a significant amount of our earnings, primarily income from our European operations which are headquartered in the Netherlands, being taxed in foreign jurisdictions at rates below the U.S. statutory tax rate.
 See Note 13 – Income Taxes of the Notes to Condensed Consolidated Financial Statements for additional information.
 We continue to monitor the progress of ongoing discussions with tax authorities and the impact, if any, of the expected expiration of the statute of limitations in various taxing jurisdictions.
-Liquidity, Capital Resources and Cash Requirements  
-
-
-
-
-
-Cash Flows  
-
+Liquidity, Capital Resources and Cash Requirements
+Cash Flows
 As of January 26, 2018, our cash, cash equivalents and short-term investments were $5.6 billion, an increase of $0.7 billion from April 28, 2017.
 The increase was primarily due to $795 million of net proceeds from the issuance of long-term debt, $210 million in proceeds from the sale of properties, $132 million in proceeds from the issuance of commercial paper notes, net of repayments, and $984 million of cash provided by operating activities, partially offset by $750 million paid to redeem our Senior Notes due in December 2017, $450 million paid for the repurchase of our common stock and $161 million used for the payment of dividends.
 Working capital increased by $1.1 billion to $3.2 billion as of January 26, 2018 compared to April 28, 2017 primarily due to an increase in cash, cash equivalents and short term investments that was primarily attributable to proceeds from the sale of properties, proceeds from the issuance of commercial paper, net of repayment, and net cash provided by operating activities.
-Cash Conversion Cycle 
-
-
-
-Days may not add due to rounding 
-
-
+Cash Conversion Cycle
+Days may not add due to rounding
 Days sales outstanding, referred to as DSO, calculates the average collection period of our receivables.
 DSO is based on ending accounts receivable and net revenue for each period.
 DSO is calculated by dividing accounts receivable by average net revenue per day for the current quarter (91 days for each of the quarters presented above).
@@ -204,30 +159,24 @@ DPO is calculated by dividing accounts payable by average cost of revenues per d
 DPO for the third quarter of fiscal 2018 increased compared to the fourth and third quarters of fiscal 2017, primarily as a result of improved vendor payables management and an extension of payment terms with our suppliers.
 The cash conversion cycle is the sum of DSO and DIO less DPO.
 Items which may cause the cash conversion cycle in a particular period to differ include, but are not limited to, changes in business mix, changes in payment terms (including extended payment terms from suppliers), the extent of shipment linearity, seasonal trends and the timing of revenue recognition and inventory purchases within the period.
-Cash Flows from Operating Activities  
-
+Cash Flows from Operating Activities
 During the first nine months of fiscal 2018, we generated cash from operating activities of $984 million, reflecting a net loss of $195 million, adjusted by non-cash depreciation and amortization of $150 million, stock-based compensation of $125 million, a deferred income tax provision of $258 million, and a gain on sale of properties of $218 million, compared to $621 million of cash generated from operating activities during the first nine months of fiscal 2017.
-•  
-
+•
 Accounts payable increased $115 million, primarily due to improved vendor payables management and an extension of payment terms with our suppliers during fiscal 2018.
-•  
-
+•
 Long-term taxes payable increased $723 million primarily due to a one-time transition tax liability recorded during the third quarter of fiscal 2018 as a result of the impact of U.S. tax reform, which will be paid over a period of eight years.
 We expect that cash provided by operating activities may materially fluctuate in future periods due to a number of factors, including fluctuations in our operating results, shipment linearity, accounts receivable collections performance, inventory and supply chain management, vendor payment initiatives, tax benefits or charges from stock-based compensation, and the timing and amount of compensation and other payments.
-Cash Flows from Investing Activities  
-
+Cash Flows from Investing Activities
 During the first nine months of fiscal 2018, we paid $178 million for the purchases of investments, net of maturities and sales, and paid $97 million for capital expenditures, while during the first nine months of fiscal 2017 we generated $2 million from maturities and sales of investments, net of purchases, and paid $137 million for capital expenditures.
 Additionally, during the first nine months of fiscal 2018, we paid $75 million to acquire two privately-held companies, and received proceeds of $210 million from the sale of properties.
-Cash Flows from Financing Activities  
-
+Cash Flows from Financing Activities
 During the first nine months of fiscal 2018, we generated $795 million in cash from the issuance of long-term debt, $132 million in cash from issuances of commercial paper notes, net of repayments, and used $450 million for the repurchase of 10 million shares of our common stock, $161 million for the payment of dividends, and $750 million to redeem our Senior Notes due in December 2017.
 During the first nine months of fiscal 2017, we generated $392 million in cash from issuances of commercial paper notes, net of repayments, and used $850 million to repay our short-term loan, $576 million for the repurchase of common stock, and $157 million for the payment of dividends.
 Key factors that could affect our cash flows include changes in our revenue mix and profitability, our ability to effectively manage our working capital, in particular, accounts receivable, accounts payable and inventories, the timing and amount of stock repurchases and payment of cash dividends, the impact of foreign exchange rate changes, our ability to effectively integrate acquired products, businesses and technologies and the timing of repayments of our debt.
 Based on past performance and our current business outlook, we believe that our sources of liquidity, including potential future issuances of debt, equity or other securities, will satisfy our working capital needs, capital expenditures, investment requirements, stock repurchases, cash dividends, contractual obligations, commitments, principal and interest payments on our debt and other liquidity requirements associated with operations and meet our cash requirements for at least the next 12 months.
 However, in the event our liquidity is insufficient, we may be required to curtail spending and implement additional cost saving measures and restructuring actions or enter into new financing arrangements.
 We cannot be certain that we will continue to generate cash flows at or above current levels or that we will be able to obtain additional financing, if necessary, on satisfactory terms, if at all.
-Liquidity  
-
+Liquidity
 Our principal sources of liquidity as of January 26, 2018 consisted of cash, cash equivalents and short-term investments, as well as cash we expect to generate from operations.
 As of January 26, 2018 and April 28, 2017, $5.0 billion and $4.5 billion, respectively, of cash, cash equivalents and short-term investments were held by various foreign subsidiaries and were generally based in U.S. dollar-denominated holdings, while $0.6 billion and $0.4 billion, respectively, were available in the U.S. at the end of each period.
 Under the transition tax of the TCJA, we have treated all historical foreign earnings as taxable in the U.S. which resulted in a $739 million discrete tax expense in the current quarter.
@@ -237,14 +186,10 @@ The principal objectives of our investment policy are the preservation of princi
 We attempt to mitigate default risk by investing in high-quality investment grade securities, limiting the time to maturity and monitoring the counter-parties and underlying obligors closely.
 We believe our cash equivalents and short-term investments are liquid and accessible.
 We are not aware of any significant deterioration in the fair value of our cash equivalents or investments from the values reported as of January 26, 2018.
-Senior Notes  
-
-
-
+Senior Notes
 Interest on the Senior Notes is payable semi-annually.
 For further information on the underlying terms, see Note 9 – Financing Arrangements of the Notes to Condensed Consolidated Financial Statements.
-Commercial Paper Program and Credit Facility 
-
+Commercial Paper Program and Credit Facility
 We have a commercial paper program (the Program), under which we may issue unsecured commercial paper notes.
 On July 17, 2017 we amended the Program to increase the maximum amounts available that may be borrowed, repaid and re-borrowed to an aggregate face or principal amount of the notes outstanding of $1.0 billion, as compared to $600 million prior to the amendment.
 The maturities of the notes can vary, but may not exceed 397 days from the date of issue.
@@ -257,13 +202,11 @@ Proceeds from the facility may also be used for general corporate purposes, prov
 The credit agreement also includes options that allow us to request an increase in the facility of up to an additional $300 million and to extend its maturity date for two additional one-year periods, both subject to certain conditions.
 As of January 26, 2018, we were in compliance with all associated covenants in this agreement.
 No amounts were drawn against this facility during any of the periods presented.
-Capital Expenditure Requirements  
-
+Capital Expenditure Requirements
 We expect to fund our capital expenditures, including our commitments related to facilities, equipment, operating leases and internal-use software development projects over the next few years through existing cash, cash equivalents, investments and cash generated from operations.
 The timing and amount of our capital requirements cannot be precisely determined and will depend on a number of factors, including future demand for products, changes in the network storage industry, hiring plans and our decisions related to the financing of our facilities and equipment requirements.
 We anticipate capital expenditures for the remainder of fiscal 2018 to be between $50 million and $100 million.
-Dividends and Stock Repurchase Program  
-
+Dividends and Stock Repurchase Program
 On February 14, 2018, we declared a cash dividend of $0.20 per share of common stock, payable on April 25, 2018 to holders of record as of the close of business on April 6, 2018.
 Our Board of Directors had authorized the repurchase of up to $9.6 billion of our common stock under our stock repurchase program.
 Under this program, we can purchase shares of our outstanding common stock through open market and privately negotiated transactions at prices deemed appropriate by our management.
@@ -271,13 +214,10 @@ The stock repurchase program may be suspended or discontinued at any time.
 Since the May 13, 2003 inception of this program through January 26, 2018, we repurchased a total of 279 million shares of our common stock at an average price of $33.31 per share, for an aggregate purchase price of $9.3 billion.
 As of January 26, 2018, the remaining authorized amount for stock repurchases under this program was $0.3 billion, with no termination date, which we plan to complete by May 2018.
 The timing and amount of stock repurchase transactions and future dividends will depend on market conditions, corporate business and financial considerations and regulatory requirements.
-Contractual Obligations  
-
-Operating Lease Commitments  
-
+Contractual Obligations
+Operating Lease Commitments
 As of January 26, 2018, future annual minimum lease payments under non-cancelable operating leases with an initial term in excess of one year totaled $198 million.
-Purchase Orders and Other Commitments  
-
+Purchase Orders and Other Commitments
 In the ordinary course of business, we make commitments to our third-party contract manufacturers to manage manufacturer lead times and meet product forecasts, and to other parties to purchase various key components used in the manufacture of our products.
 A significant portion of our reported purchase commitments arising from these agreements consists of firm, non-cancelable, and unconditional commitments.
 As of January 26, 2018, we had $387 million in non-cancelable purchase commitments for inventory.
@@ -285,18 +225,15 @@ We record a liability for firm, non-cancelable and unconditional purchase commit
 To the extent that such forecasts are not achieved, our commitments and associated accruals may change.
 In addition to inventory commitments with contract manufacturers and component suppliers, we have open purchase orders and construction related obligations associated with our ordinary course of business for which we have not received goods or services.
 As of January 26, 2018, we had $15 million in construction related obligations and $222 million in other purchase obligations.
-Unrecognized Tax Benefits  
-
+Unrecognized Tax Benefits
 As of January 26, 2018, our liability for uncertain tax positions was $303 million, including interest, penalties and offsetting indirect benefits.
 Due to the uncertainty of the timing of future cash payments, we cannot make reasonably reliable estimates of the period of cash settlement with the taxing authorities.
-Sale-leaseback Transactions 
-
+Sale-leaseback Transactions
 In fiscal 2016, we entered into a sale-leaseback arrangement of certain of our land and buildings, under which we leased back certain of our properties rent free over lease terms ending at various dates through December 31, 2017.
 These properties did not qualify for sale-leaseback accounting and as a result they were accounted for as financing transactions.
 In December 2017, we terminated the leases and recorded a non-cash sale of properties with a net book value of $54 million, the extinguishment of $130 million in financing obligations, and a gain of $76 million.
 As of January 26, 2018, there are no balances remaining on our condensed consolidated balance sheets associated with this sale-leaseback arrangement.
-Financing Guarantees 
-
+Financing Guarantees
 While most of our arrangements for sales include short-term payment terms, from time to time we provide long-term financing to creditworthy customers.
 We have generally sold receivables financed through these arrangements on a non-recourse basis to third party financing institutions within 10 days of the contracts’ dates of execution, and we classify the proceeds from these sales as cash flows from operating activities in our condensed consolidated statements of cash flows.
 We account for the sales of these receivables as “true sales” as defined in the accounting standards on transfers of financial assets, as we are considered to have surrendered control of these financing receivables.
@@ -316,21 +253,16 @@ We have entered into service contracts with certain of our end-user customers th
 If a service contract is terminated as a result of our non-performance under the contract or our failure to comply with the terms of the financing arrangement, we could, under certain circumstances, be required to acquire certain assets related to the service contract or to pay the aggregate unpaid payments under such arrangements.
 As of January 26, 2018, we have not been required to make any payments under these arrangements, and we believe the likelihood of having to acquire a material amount of assets or make payments under these arrangements is remote.
 The portion of the financial arrangement that represents unearned services revenue is included in deferred revenue and financed unearned services revenue in our condensed consolidated balance sheets.
-Indemnification Agreements 
-
+Indemnification Agreements
 We enter into indemnification agreements with third parties in the ordinary course of business.
 Generally, these indemnification agreements require us to reimburse losses suffered by the third-parties due to various events, such as lawsuits arising from patent or copyright infringement.
 These indemnification obligations are considered off-balance sheet arrangements under accounting guidance.
-Legal Contingencies  
-
+Legal Contingencies
 We are subject to various legal proceedings and claims which arise in the normal course of business.
 See further details on such matters in Note 16 – Commitments and Contingencies of the Notes to Condensed Consolidated Financial Statements.
 Item 2.
 Unregistered Sales of Equity Securities and Use of Proceeds.
-Purchases of equity securities  
-
-
-
+Purchases of equity securities
 In May 2003, our Board of Directors approved a stock repurchase program.
 As of January 26, 2018, our Board of Directors has authorized the repurchase of up to $9.6 billion of our common stock.
 Since inception of the program through January 26, 2018, we repurchased a total of 279 million shares of our common stock for an aggregate purchase price of $9.3 billion.

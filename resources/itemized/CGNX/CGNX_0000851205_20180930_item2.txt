@@ -1,7 +1,5 @@
 ITEM 2: MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
-
 Forward-Looking Statements
-
 Certain statements made in this report, as well as oral statements made by the Company from time to time, constitute forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended.
 Readers can identify these forward-looking statements by our use of the words “expects,” “anticipates,” “estimates,” “believes,” “projects,” “intends,” “plans,” “will,” “may,” “shall,” “could,” “should,” and similar words and other statements of a similar sense.
 These statements are based upon our current estimates and expectations as to prospective events and circumstances, which may or may not be in our control and as to which there can be no firm assurances given.
@@ -11,7 +9,6 @@ The foregoing list should not be construed as exhaustive and we encourage reader
 The Company cautions readers not to place undue reliance upon any such forward-looking statements, which speak only as of the date made.
 The Company disclaims any obligation to subsequently revise forward-looking statements to reflect the occurrence of anticipated or unanticipated events or circumstances after the date such statements are made.
 Executive Overview
-
 Cognex Corporation is a leading worldwide provider of machine vision products that capture and analyze visual information in order to automate tasks, primarily in manufacturing processes, where vision is required.
 In addition to product revenue derived from the sale of machine vision products, the Company also generates revenue by providing maintenance and support, consulting, and training services to its customers; however, service revenue accounted for less than 10% of total revenue for all periods presented.
 The Company’s customers are predominantly in the factory automation market.
@@ -24,9 +21,7 @@ These customers purchase Cognex products and integrate them into the automation 
 On January 1, 2018, the Company adopted Accounting Standards Codification (ASC) 606, "Revenue from Contracts with Customers," using the full retrospective method to present all periods reported on a consistent basis.
 Accordingly, prior period revenue, cost of revenue, and gross profit have been restated to apply the provisions of this ASC.
 Revenue for the third quarter of 2018 totaled $232,221,000, representing a decrease of 13% from the revenue reported for the third quarter of 2017, which was the highest quarterly revenue recorded by the Company.
-The revenue decline 
-
-
+The revenue decline
 was driven primarily by lower order levels from a few large customers in the consumer electronics industry and was partially offset by growth in the logistics industry.
 The gross margin improved to 75% of revenue in the third quarter of 2018 from 74% of revenue in the third quarter of 2017, due primarily to a lower percentage of revenue related to application-specific customer solutions.
 Operating expenses in the third quarter of 2018 increased by 10% over the third quarter of 2017 due principally to the impact of headcount additions to support our future growth plans.
@@ -35,14 +30,12 @@ A decrease in tax expense primarily from revised estimates of the impact of the 
 Net income decreased to 35% of revenue in the third quarter of 2018 from 39% of revenue in the third quarter of 2017.
 Net income per diluted share was $0.45 in the third quarter of 2018 compared to $0.57 in the third quarter of 2017.
 Results of Operations
-
 As foreign currency exchange rates are a factor in understanding period-to-period comparisons, we believe the presentation of results on a constant-currency basis in addition to reported results helps improve investors’ ability to understand our operating results and evaluate our performance in comparison to prior periods.
 We also use results on a constant-currency basis as one measure to evaluate our performance.
 Constant-currency information compares results between periods as if exchange rates had remained constant period-over-period.
 We generally refer to such amounts calculated on a constant-currency basis as excluding the impact of foreign currency exchange rate changes.
 Results on a constant-currency basis are not in accordance with accounting principles generally accepted in the United States of America (U.S. GAAP) and should be considered in addition to, and not as a substitute for, results prepared in accordance with U.S. GAAP.
 Revenue
-
 Revenue decreased by $33,821,000, or 13%, for the three-month period and increased by $29,891,000, or 5%, for the nine-month period.
 Revenue for both periods in 2018 was impacted by lower sales in the consumer electronics industry primarily due to significantly lower revenue from large customers in OLED (organic light-emitting diode) display and smartphone manufacturing following a high level of investment from these customers in 2017.
 Excluding sales to customers in the consumer electronics industry, revenue increased by approximately 6% for the three-month period and increased by approximately 23% for the nine-month period.
@@ -54,7 +47,6 @@ Constant-currency revenue from customers based in Europe decreased by 9% for the
 Revenue for both Europe and Asia was negatively impacted by the lower sales in the consumer electronics industry noted above.
 As of the date of this report, we expect revenue for the fourth quarter of 2018 to decrease sequentially from the third quarter of 2018 due to lower sales in the consumer electronics industry, as well as anticipated lower demand from customers based in China.
 Gross Margin
-
 Gross margin as a percentage of revenue was 75% for both the three-month and nine-month periods in 2018, compared to 74% and 76% for same periods in 2017.
 The increase for the three-month period was due primarily to a lower percentage of revenue related to application-specific customer solutions.
 These solutions typically have lower gross margins due to the application configuration and deployment services included as part of the solution, as well as on-site support services provided after the solution is deployed.
@@ -63,20 +55,9 @@ Although there was also a lower percentage of revenue related to application-spe
 The Company's gross margin percentage has ranged in the mid 70s for the past several years.
 As of the date of this report, we expect the gross margin percentage for the fourth quarter of 2018 to continue to be within this historical range, but lower than the third quarter of 2018.
 Operating Expenses
-
-
-
-
-
 Selling, General, and Administrative Expenses
-
-
-
-
-
 company bonuses and sales commissions, resulting from lower levels of achievement on performance plans that were set at the beginning of the year.
 Non-operating Income (Expense)
-
 The Company recorded foreign currency losses of $379,000 and $708,000 for the three-month and nine-month periods in 2018, respectively, compared to foreign currency losses of $127,000 and $574,000 for the same periods in 2017.
 Foreign currency gains and losses result primarily from the revaluation and settlement of accounts receivable, accounts payable, and intercompany balances that are reported in one currency and collected in another.
 Investment income increased by $1,462,000, or 59%, for the three-month period and increased by $4,111,000, or 62%, for the nine-month period.
@@ -84,7 +65,6 @@ The increase was due primarily to higher yields on the Company's portfolio of de
 The Company recorded other expense of $129,000 and $98,000 for the three-month and nine-month periods in 2018, respectively, compared to other expense of $445,000 and $344,000 for the same periods in 2017.
 Other income (expense) includes fair value adjustments of contingent consideration liabilities arising from business acquisitions, as well as rental income, net of associated expenses, from leasing space in buildings adjacent to the Company’s corporate headquarters.
 Income Tax Expense
-
 The Company’s effective tax rate was an expense of 1% and 6% of pre-tax income for the three-month and nine-month periods in 2018, respectively, compared to an expense of 9% and 4% of pre-tax income for the same periods in 2017.
 On December 22, 2017, the Tax Cuts and Jobs Act of 2017 (Tax Act) was signed into law.
 The Company made what it considered to be a reasonable estimate of the impact of the Tax Act in its financial statements for the year ended December 31, 2017.
@@ -102,7 +82,6 @@ The statutory tax rate is 12.5% in Ireland and 25% in China.
 International rights to certain of the Company’s intellectual property are held by a subsidiary whose legal jurisdiction does not tax this income, resulting in a foreign effective tax rate lower than the above mentioned statutory rates.
 The Company has not yet determined how the Tax Act will impact its financial statement assertion related to indefinite reinvestment in future years.
 Liquidity and Capital Resources
-
 The Company has historically been able to generate positive cash flow from operations, which has funded its operating activities and other cash requirements and has resulted in an accumulated cash and investment balance of $809,316,000 as of September 30, 2018.
 The Company has established guidelines relative to credit ratings, diversification, and maturities of its investments that maintain liquidity.
 The Company’s cash requirements during the nine months ended September 30, 2018 were met with positive cash flows from operations, investment maturities, and the proceeds from stock option exercises.
@@ -127,5 +106,8 @@ As of September 30, 2018, the Company had $809,316,000 in cash and investments.
 In addition, Cognex has no long-term debt and does not anticipate needing debt financing in the near future.
 We believe that our strong cash position has put us in a relatively good position with respect to our longer-term liquidity needs.
 New Pronouncements
-
 Refer to Part I - Note 2 within this Form 10-Q, for a full description of recently issued accounting pronouncements including the expected dates of adoption and the expected impact on the financial position and results of operations of the Company.
+ITEM 2.
+UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+In October 2018, the Company's Board of Directors authorized the repurchase of an additional $200,000,000 of the Company's common stock.
+This new authorization will commence once the Company completes the February 2018 program, with repurchases subject to market conditions and other relevant factors.

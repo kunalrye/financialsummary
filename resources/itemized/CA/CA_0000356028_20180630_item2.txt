@@ -1,7 +1,5 @@
 Item 2: MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
-
 Cautionary Statement Regarding Forward-Looking Statements
-
 This Quarterly Report on Form 10-Q (“Form 10-Q”) contains certain forward-looking information relating to CA, Inc. (which we refer to as the “Company,” “Registrant,” “CA Technologies,” “CA,” “we,” “our” or “us”), that is based on the beliefs of, and assumptions made by, our management as well as information currently available to management.
 When used in this Form 10-Q, the words “believes,” “plans,” “anticipates,” “expects,” “estimates,” “targets” and similar expressions relating to the future are intended to identify forward-looking information.
 Forward-looking information includes, for example, not only the statements relating to the future made in this Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”), but also statements relating to the future that appear in other parts of this Form 10-Q.
@@ -12,8 +10,7 @@ We do not intend to update these forward-looking statements, except as otherwise
 Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date hereof.
 This MD&A is provided as a supplement to, and should be read in conjunction with, our financial statements and the accompanying notes to the financial statements.
 References in this Form 10-Q to fiscal 2019 and fiscal 2018 are to our fiscal years ending on March 31, 2019 and 2018, respectively.
-OVERVIEW 
-
+OVERVIEW
 CA Technologies is a global leader in software solutions that simplify complex enterprise environments.
 Our solutions enable customers to plan, develop, automate, manage and secure applications across mobile, cloud, distributed and mainframe platforms.
 Many of the largest companies in the world, including most of the Fortune 500 and many government agencies, rely on CA software to help manage and secure their hybrid cloud environments.
@@ -32,14 +29,10 @@ We are able to bidirectionally leverage our core strengths and development effor
 Our strong market position enables our investment in development, innovation and support of the mainframe platform to be among the largest in the industry, which sustains ongoing customer commitment to our Mainframe Solutions.
 Our Services segment leverages our expertise across our Mainframe Solutions and Enterprise Solutions segments and helps customers deploy and maintain our solutions.
 Agile
-
-
 •Agile Planning helps customers transform their development practices from traditional to modern agile methodologies.
 Agile development utilizes an iterative work cadence with a feedback loop that decreases time-to-market, increases product quality and, most importantly, maintains a focus on generating rapid business value.
 CA’s cloud-based solutions in this space help customers to collaboratively plan, prioritize and track agile software development at scale.
 DevOps
-
-
 •Continuous Delivery optimizes the application development processes by automating the deployment of applications across all stages of their lifecycles.
 Continuous delivery is key to transforming the technical aspects of software delivery.
 Our solutions enable the development, testing and release teams to work concurrently and continuously to remove the excess overhead and delays that come with traditional software development.
@@ -50,8 +43,6 @@ Our unified platform provides end-to-end automation capabilities that cover serv
 Our solutions help customers see application dependencies and provide intelligent analytics, comprehensive coverage, and an open, extensible architecture that improves end-user experience.
 •API (Application Programming Interface) Management facilitates the creation, security and management of APIs through their lifecycle, enabling customers to connect more directly with end-users via mobile apps, cloud platforms and “Internet of Things” devices.
 Security
-
-
 •Application Security offers a holistic and scalable way to manage security risk across an application lifecycle.
 Through our acquisition of Veracode, we provide a wide range of security testing and threat mitigation techniques.
 Our solution is hosted on a unified application security testing platform and integrates into existing development toolchains.
@@ -73,7 +64,6 @@ We are focused on maintaining and expanding the strong relationships with our es
 We intend to supplement our organic innovation efforts with key technology acquisitions that are within or adjacent to our core areas of focus.
 We also focus on organically developing nascent technologies from companies we have acquired to provide them with the necessary interoperability, resilience and security to operate at scale in the large, heterogeneous IT environments utilized by our customers.
 EXECUTIVE SUMMARY
-
 In May 2014, the FASB issued Accounting Standards Update No.
 2014-09, Revenue from Contracts with Customers, with amendments in 2015, 2016 and 2017, which creates new ASC Topic 606 (“Topic 606”) that replaces most existing revenue recognition guidance in GAAP.
 Topic 606 was adopted by us effective April 1, 2018 using the modified retrospective method.
@@ -82,19 +72,15 @@ As a result of adopting Topic 606, we now recognize revenue for the license comp
 Refer to Note 2, “Revenue from Contracts with Customers,” and Note 3, “Impact of Adopting Topic 606,” in the Notes to the Condensed Consolidated Financial Statements for a discussion of the changes in our policies for revenue recognition and commissions, and the required disclosures related to the impact of adopting Topic 606.
 Refer to our Annual Report on Form 10-K for policies in accordance with Topic 605.
 Revenue
-
 •Total revenue decreased due to the adoption of Topic 606 in the first quarter of fiscal 2019.
 On a Topic 605 basis, total revenue increased $27 million primarily due to a favorable foreign exchange effect of $20 million.
 Excluding the favorable foreign exchange effect, total revenue increased primarily due to an increase in Mainframe Solutions revenue and SaaS revenue within our Enterprise Solutions segment.
 Expenses
-
 •Under both Topic 606 and Topic 605, operating expenses increased primarily due to an increase in other expenses, net attributable to the restructuring plan approved by our Board of Directors on May 2, 2018 (“Fiscal 2019 Plan”).
 This increase was partially offset by a decrease in selling and marketing expenses.
 Income taxes
-
 •Under both Topic 606 and Topic 605, income tax benefit includes $98 million resulting primarily from refinements to the provisional estimates of the impact of changes in tax law in the United States resulting from the Tax Cuts and Jobs Act enacted on December 22, 2017 (the “Tax Act”).
 Segment results
-
 •Mainframe Solutions revenue increased primarily due to a favorable foreign exchange effect of $10 million and, to a lesser extent, an increase in revenue from new sales that offset the decline in revenue contribution from renewals.
 Mainframe Solutions operating margin increased primarily due to an increase in Mainframe Solutions revenue.
 •Enterprise Solutions revenue increased primarily due to a favorable foreign exchange effect of $8 million.
@@ -104,13 +90,7 @@ Enterprise Solutions operating margin increased primarily due to lower acquisiti
 The decline in professional services engagements was a result of several factors including our products being easier to install and manage, and an increase in customers’ use of partners for services engagements.
 Operating margin for Services was generally consistent.
 PERFORMANCE INDICATORS
-
-
-
-
-
 RESULTS OF OPERATIONS
-
 In May 2014, the FASB issued Topic 606 that replaces most existing revenue recognition guidance in GAAP.
 Topic 606 was adopted by us effective April 1, 2018 using the modified retrospective method.
 Reporting periods prior to the adoption of Topic 606 were presented in accordance with Topic 605.
@@ -120,9 +100,7 @@ Refer to our Annual Report on Form 10-K for policies in accordance with Topic 60
 The following table presents revenue and expense line items reported in our Condensed Consolidated Statements of Operations for the first quarter of fiscal 2019, both as reported under Topic 606 and Topic 605, and for the first quarter of fiscal 2018 as reported under Topic 605, and the period-over-period dollar and percentage changes for those line items.
 These comparisons of past results are not necessarily indicative of future results.
 Revenue
-
 Total Revenue
-
 Total revenue is the amount of revenue recognized during the reporting period from the sale of products and services.
 Our products and services can be broadly categorized as perpetual licenses to use software, term-based licenses for SaaS and on-premise use of software, maintenance for perpetual and term-based on-premise licenses, and professional services.
 Our software licenses and maintenance are for mainframe, enterprise, and SaaS computing environments.
@@ -135,35 +113,28 @@ Total bookings, or sales, includes the incremental value of all product and prof
 For the first quarter of fiscal 2019, total bookings were $778 million.
 Total revenue for the first quarter of fiscal 2018 was based on Topic 605, which generally consisted of a majority of our revenue being recognized ratably over the term of our contracts and, as such, total bookings had a lower effect on our quarterly revenue performance.
 Software Licenses and Maintenance
-
 Software licenses and maintenance revenue for the first quarter of fiscal 2019 decreased compared with the first quarter of fiscal 2018 due to the adoption of Topic 606 in the first quarter of fiscal 2019.
 Excluding the impact from the adoption of Topic 606 of $108 million, software licenses and maintenance revenue for the first quarter of fiscal 2019 increased $28 million compared with the first quarter of fiscal 2018 primarily due to a favorable foreign exchange effect of $18 million.
 Excluding the favorable foreign exchange effect, software licenses and maintenance revenue increased primarily due to an increase in Mainframe Solutions revenue and SaaS revenue within our Enterprise Solutions segment.
 Professional Services
-
 Professional services revenue for the first quarter of fiscal 2019 decreased compared with the first quarter of fiscal 2018 primarily due to the adoption of Topic 606 in the first quarter of fiscal 2019.
 Excluding the impact from the adoption of Topic 606 of $6 million, professional services revenue for the first quarter of fiscal 2019 decreased slightly compared with the first quarter of fiscal 2018 primarily due to a decline in professional services engagements.
 The decline in professional services engagements was a result of several factors, including our products being easier to install and manage and an increase in customers’ use of partners for services engagements.
 For the long term, we expect new versions of our on-premise software to be easier to implement and a higher percentage of our business to shift to a SaaS-based model, which could potentially reduce the demand for our professional services engagements.
 Total Revenue by Geography
-
 The following tables present the amount of revenue earned from sales to unaffiliated customers in the United States and international regions and corresponding percentage changes for the first quarter of fiscal 2019 compared with the first quarter of fiscal 2018.
 Revenue in the United States for the first quarter of fiscal 2019 decreased compared with the first quarter of fiscal 2018 due to the adoption of Topic 606 in the first quarter of fiscal 2019.
 Excluding the impact from the adoption of Topic 606 of $91 million, revenue in the United States increased.
 International revenue for the first quarter of fiscal 2019 decreased compared with the first quarter of fiscal 2018 due to the adoption of Topic 606 in the first quarter of fiscal 2019.
 Excluding the impact from the adoption of Topic 606 of $23 million, international revenue increased primarily due to a favorable foreign exchange effect of $20 million.
 Expenses
-
 Operating Expenses
-
 Operating expenses for the first quarter of fiscal 2019 increased compared with the first quarter of fiscal 2018 primarily due to an increase in other expenses, net attributable to the Fiscal 2019 Plan.
 This increase was partially offset by a decrease in selling and marketing expenses as discussed below.
 Costs of Licensing and Maintenance
-
 Costs of licensing and maintenance include technical support, royalties, SaaS, and other manufacturing and distribution costs.
 Costs of licensing and maintenance for the first quarter of fiscal 2019 increased compared with the first quarter of fiscal 2018 primarily due to an increase in costs associated with our SaaS products.
 Cost of Professional Services
-
 Cost of professional services consists primarily of our personnel-related costs associated with providing professional services and training to customers.
 Cost of professional services for the first quarter of fiscal 2019 decreased compared with the first quarter of fiscal 2018 due to the adoption of Topic 606 in the first quarter of fiscal 2019.
 Excluding the impact from the adoption of Topic 606, cost of professional services for the first quarter of fiscal 2019 was consistent compared with the first quarter of fiscal 2018.
@@ -171,41 +142,31 @@ Operating margin for professional services for the first quarter of fiscal 2019 
 Operating margin for professional services does not include certain additional direct costs that are included within the Services segment (refer to “Performance of Segments” below).
 Expenses for the Services segment consist of cost of professional services and other direct costs included within selling and marketing and general and administrative expenses.
 Amortization of Capitalized Software Costs
-
 Amortization of capitalized software costs consists of the amortization of both purchased software and internally generated capitalized software development costs.
 Internally generated capitalized software development costs relate to new products and significant enhancements to existing software products that have reached the technological feasibility stage.
 Amortization of capitalized software costs for the first quarter of fiscal 2019 decreased compared with the first quarter of fiscal 2018 primarily due to a decrease in amortization of our internally developed software products and, to a lesser extent, a decrease in amortization expense associated with purchased software products.
 With our adoption of the Agile development methodology in fiscal 2014, amortization expense of internally developed software products has decreased as we have not capitalized any internally developed software costs.
 Selling and Marketing
-
 Selling and marketing expenses include the costs relating to our sales force, partners, corporate and business marketing and customer training programs.
 Selling and marketing expenses for the first quarter of fiscal 2019 decreased compared with the first quarter of fiscal 2018 due to a decrease in personnel-related costs of $15 million resulting from lower headcount.
 Commissions expense was unfavorably affected by $10 million as a result of the adoption of Topic 606, which was caused by amortization expense from capitalized commission costs of $30 million, partially offset by $20 million of deferred commission costs.
 Refer to Note 2, “Revenue from Contracts with Customers,” in the Notes to the Condensed Consolidated Financial Statements for additional information.
 General and Administrative
-
 General and administrative expenses include the costs of corporate functions, including our executive leadership and administration groups, finance, legal, human resources, corporate communications and other costs such as provisions for doubtful accounts.
 General and administrative expenses for the first quarter of fiscal 2019 decreased compared with the first quarter of fiscal 2018 primarily due to a decrease in personnel-related costs resulting from lower headcount.
 Product Development and Enhancements
-
 Product development and enhancements expense for the first quarter of fiscal 2019 increased compared with the first quarter of fiscal 2018 primarily due to an increase in personnel-related costs resulting from higher headcount.
 Depreciation and Amortization of Other Intangible Assets,
-
 Depreciation and amortization of other intangible assets consists of both depreciation of property and equipment and amortization of other intangible assets.
 Depreciation and amortization of other intangible assets for the first quarter of fiscal 2019 was consistent compared with the first quarter of fiscal 2018.
 Other Expenses, Net
-
-
-
 On May 2, 2018, our Board of Directors approved the Fiscal 2019 Plan to better align its business priorities.
 The Fiscal 2019 Plan comprises the termination of approximately 800 employees and global facility exits and consolidations.
 Severance and facility exit and consolidation actions under the Fiscal 2019 Plan are expected to be substantially completed by the end of fiscal 2019.
 Refer to Note 4, “Restructuring,” in the Notes to the Condensed Consolidated Financial Statements for additional information.
 Interest Expense, Net
-
 Interest expense, net for the first quarter of fiscal 2019 decreased compared with the first quarter of fiscal 2018 primarily due to an increase in interest income resulting from higher interest rates and cash balances in the United States.
 Income Taxes
-
 Income tax benefit for the first quarter of fiscal 2019 was $84 million compared with income tax expense for the first quarter of fiscal 2018 of $60 million.
 For the first quarter of fiscal 2019, we recorded a net discrete tax benefit of $98 million resulting primarily from refinements to the provisional estimates of the impact of changes in tax law in the United States resulting from the enactment of the Tax Act.
 For the first quarter of fiscal 2018, we recorded a net discrete tax benefit of $8 million resulting primarily from reductions in uncertain tax positions related to effectively settled tax audits.
@@ -219,8 +180,7 @@ Excluding the impact of discrete items for the first quarter of fiscal 2019 and 
 The reduction in our estimated annual effective tax rate is primarily resulting from the Tax Act which provided for a lower statutory tax rate in the United States.
 Changes in tax laws, the outcome of tax audits and any other changes in potential tax liabilities may result in additional tax expense or benefit in fiscal 2019, which are not considered in our estimated annual effective tax rate.
 While we do not currently view any such items as individually material to the results of our consolidated financial position or results of operations, the impact of certain items may yield additional tax expense or benefit in the remaining quarters of fiscal 2019.
-Performance of Segments 
-
+Performance of Segments
 In accordance with FASB ASC Topic 280, Segment Reporting, we disaggregate our operations into Mainframe Solutions, Enterprise Solutions and Services segments, which is utilized by the Chief Operating Decision Maker, who is our Chief Executive Officer, for evaluating segment performance and allocating resources.
 Our Mainframe Solutions and Enterprise Solutions segments are comprised of our software business organized by the nature of our software offerings and the platforms on which the products operate.
 The Services segment is comprised of product implementation, consulting, customer education and customer training services, including those directly related to our Mainframe Solutions and Enterprise Solutions software that we sell to our customers.
@@ -249,7 +209,6 @@ For the long term, we expect new versions of our on-premise software to be easie
 Operating margin for Services for the first quarter of fiscal 2019 was generally consistent compared with the first quarter of fiscal 2018.
 Refer to Note 14, “Segment Information,” in the Notes to the Condensed Consolidated Financial Statements for additional information.
 LIQUIDITY AND CAPITAL RESOURCES
-
 Our cash and cash equivalent balances are held in numerous locations throughout the world, with 48% held in our subsidiaries outside the United States at June 30, 2018.
 Cash and cash equivalents totaled $3,328 million at June 30, 2018, representing a decrease of $77 million from the March 31, 2018 balance of $3,405 million.
 During the first quarter of fiscal 2019, there was a $104 million unfavorable translation effect from foreign exchange rates on cash held outside the United States in currencies other than the U.S. dollar.
@@ -262,7 +221,6 @@ In addition, we continue to expect foreign cash, cash equivalents and cash flows
 Pursuant to the terms of the Merger Agreement with Broadcom, we may not continue to repurchase shares without Broadcom’s consent.
 Refer to Note 15, “Subsequent Events” in the Notes to the Condensed Consolidated Financial Statements for additional information.
 Sources and Uses of Cash
-
 Under our subscription and maintenance agreements, customers generally make installment payments over the term of the agreement, often with at least one payment due at contract execution, for the right to use our software products and receive product support, software fixes and new products when available.
 The timing and actual amounts of cash received from committed customer installment payments under any specific agreement can be affected by several factors, including the time value of money and the customer’s credit rating.
 Often, the amount received is the result of direct negotiations with the customer when establishing pricing and payment terms.
@@ -277,46 +235,30 @@ In any quarter, we may receive payments in advance of the contractually committe
 In limited circumstances, we may offer discounts to customers to ensure payment in the current period of invoices that have been billed, but might not otherwise be paid until a subsequent period because of payment terms.
 Historically, any such discounts have not been material.
 Net Cash Provided by Operating Activities
-
-
-
-
 First Quarter Comparison Fiscal 2019 Versus Fiscal 2018
-
 Operating Activities
-
 Net cash provided by operating activities for the first quarter of fiscal 2019 was $262 million, representing a decrease of $36 million compared with the first quarter of fiscal 2018.
 The decrease in net cash provided by operating activities was primarily due to a decrease in cash collections from billings of $113 million mainly attributable to lower single installment collections, partially offset by a decrease in vendor disbursements and payroll of $81 million compared with the year-ago period.
 Investing Activities
-
 Net cash used in investing activities for the first quarter of fiscal 2019 was $37 million compared with $18 million for the first quarter of fiscal 2018.
 The increase in net cash used in investing activities was due to an increase in cash paid for acquisitions and purchased software of $19 million compared with the year-ago period.
 Financing Activities
-
 Net cash used in financing activities for the first quarter of fiscal 2019 was $199 million compared with $166 million for the first quarter of fiscal 2018.
 The increase in net cash used in financing activities was primarily due to an increase in common stock repurchases of $80 million, offset by an increase in net debt borrowings from our notional pooling arrangement of $42 million and an increase in exercises of common stock options of $13 million compared with the year-ago period.
 Debt Obligations
-
-
-
 Term Loan
-
 In April 2018, we amended our term loan agreement with Bank of America, N.A.
 to extend the maturity date from April 2022 to April 2023.
 Other Indebtedness
-
 We had $114 million of unsecured and uncommitted multi-currency lines of credit at June 30, 2018 and March 31, 2018 available to meet short-term working capital needs for our subsidiaries.
 We use guarantees and letters of credit issued by financial institutions to guarantee performance on certain contracts and other items.
 At June 30, 2018 and March 31, 2018, $56 million and $60 million, respectively, of these lines of credit were pledged in support of bank guarantees and other local credit lines.
 At June 30, 2018 and March 31, 2018, none of these arrangements were drawn down by third parties.
 For additional information concerning our debt obligations, refer to our consolidated financial statements and notes thereto included in our 2018 Form 10-K.
-
 Effect of Exchange Rate Changes
-
 There was a $104 million unfavorable foreign currency translation effect on our cash balances for the first quarter of fiscal 2019 predominantly due to the strengthening of the U.S. dollar against the euro (5%), the Brazilian real (15%), the Israeli shekel (4%) and the British pound sterling (6%).
 There was an $88 million favorable foreign currency translation effect on our cash balances for the first quarter of fiscal 2018 predominantly due to the weakening of the U.S. dollar against the euro (7%), the British pound sterling (4%), and the Israeli shekel (4%), partially offset by the strengthening of the U.S. dollar against the Brazilian real (6%).
 CRITICAL ACCOUNTING POLICIES AND BUSINESS PRACTICES
-
 The preparation of financial statements in accordance with GAAP requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenue and expenses.
 We base our estimates on historical experience and various other assumptions that we believe are reasonable under the circumstances.
 Our estimates form the basis for making judgments about amounts and timing of revenue and expenses, the carrying values of assets and the recorded amounts of liabilities that are not readily apparent from other sources.
@@ -325,15 +267,7 @@ Information with respect to our critical accounting policies that we believe cou
 At June 30, 2018, there was no material change to our critical accounting policies or the methodologies or assumptions we apply under them since March 31, 2018 other than the impact of adopting Topic 606.
 Refer to Note 2, “Revenue from Contracts with Customers,” and Note 3, “Impact of Adopting Topic 606,” in the Notes to the Condensed Consolidated Financial Statements for a discussion of the changes in our policies for revenue recognition and commissions, and the required disclosures related to the impact of adopting Topic 606.
 New Accounting Pronouncements
-
 For information regarding new accounting pronouncements, and the impact of these pronouncements on our consolidated financial statements, if any, refer to Note 1, “Accounting Policies,” in the Notes to the Condensed Consolidated Financial Statements.
 Item 2.
-Item 4.
-Item 5.
-Item 6.
-EXHIBITS
-
-
-SIGNATURES
-
-Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+ISSUER PURCHASES OF EQUITY SECURITIES

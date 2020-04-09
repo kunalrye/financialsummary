@@ -11,32 +11,21 @@ We have no plans, and undertake no obligation, to revise or update our forward-l
 We caution readers not to place undue reliance upon any such forward-looking statements, which speak only as of the date made.
 In this document, the words “we,” “our,” “ours” and “us” refer only to Skyworks Solutions, Inc. and its subsidiaries and not any other person or entity.
 RESULTS OF OPERATIONS
-
 THREE MONTHS ENDED DECEMBER 29, 2017, AND DECEMBER 30, 2016
-
-
-
 OVERVIEW
-
 We, together with our consolidated subsidiaries, are empowering the wireless networking revolution.
 Our highly innovative analog semiconductors are connecting people, places, and things spanning a number of new and previously unimagined applications within the automotive, broadband, cellular infrastructure, connected home, industrial, medical, military, smartphone, tablet and wearable markets.
 GENERAL
-
-
 •Net revenue increased by 15% to $1,052 million for the three months ended December 29, 2017, as compared with the corresponding period in fiscal year 2017.
 This increase in revenue was primarily driven by our success in capturing a higher share of the increasing radio frequency and analog content per device as smartphone models continue to evolve, the increasing number of applications for the Internet of Things, and our expanding analog product portfolio supporting new vertical markets including automotive, industrial, medical and military.
 •Our ending cash and cash equivalents balance increased approximately 4% to $1,682 million as of December 29, 2017, from $1,617 million as of September 29, 2017.
 This increase in cash and cash equivalents was primarily the result of cash generated from operations of $361 million, partially offset by the repurchase of 1.65 million shares of common stock for $173 million, dividend payments of $59 million, and capital expenditures of $28 million during the three months ended December 29, 2017.
 NET REVENUE
-
-
 We market and sell our products directly to original equipment manufacturers of communications and electronics products, third-party original design manufacturers and contract manufacturers, and indirectly through electronic components distributors.
 We generally experience seasonal peaks during the second half of the calendar year, primarily as a result of increased worldwide production of consumer electronics in anticipation of increased holiday sales, whereas our second fiscal quarter is typically lower and in line with seasonal industry trends.
 We generated net revenue of $1,051.9 million for the three months ended December 29, 2017, an increase of $137.6 million or 15%, as compared with $914.3 million for the corresponding period in fiscal year 2017.
 This increase in net revenue for the three months ended December 29, 2017, is primarily related to an increase in demand for our components from a key smartphone customer as compared with the corresponding period in fiscal year 2017, partially offset by decreases in average selling prices.
 GROSS PROFIT
-
-
 Gross profit represents net revenue less cost of goods sold.
 Our cost of goods sold consists primarily of purchased materials, labor and overhead (including depreciation and share-based compensation expense) associated with product manufacturing.
 Erosion of average selling prices of established products is typical of the semiconductor industry.
@@ -45,28 +34,18 @@ The $72.9 million increase in gross profit for the three months ended December 2
 These positive impacts were partially offset by lower average selling prices with a gross profit impact of $8.3 million.
 Gross profit margin increased to 51.0% of net revenue for the three months ended December 29, 2017, as compared with the corresponding period in fiscal year 2017, due to the overall increase in revenue and the aforementioned factors.
 RESEARCH AND DEVELOPMENT
-
-
 Research and development expenses consist primarily of direct personnel costs including share-based compensation expense, costs for pre-production evaluation and testing of new devices, masks, engineering prototypes and design tool costs.
 The increase in research and development expenses for the three months ended December 29, 2017, as compared with the corresponding period in fiscal year 2017, was primarily related to an increase in employee-related compensation expense and product development– related expenses.
 Research and development expense increased as a percentage of net revenue when compared with the corresponding period in fiscal year 2017 as a result of our increased investment in developing new product capabilities.
 SELLING, GENERAL AND ADMINISTRATIVE
-
-
 Selling, general and administrative expenses include legal and related costs, accounting, treasury, human resources, information systems, customer service, bad debt expense, sales commissions, share-based compensation expense, advertising, marketing, and costs associated with business combinations completed or contemplated during the period and other costs.
 The increase in selling, general and administrative expenses for the three months ended December 29, 2017, as compared with the corresponding period in fiscal year 2017, was primarily related to an increase in employee compensation.
 Selling, general and administrative expense decreased as a percentage of net revenue when compared with the corresponding period in fiscal year 2017 primarily due to the increase in net revenue.
 AMORTIZATION OF INTANGIBLES
-
-
 The decrease in amortization expense for the three months ended December 29, 2017, as compared with the corresponding period in fiscal year 2017, was primarily due to the end of the useful lives of certain intangible assets that were acquired in prior fiscal years.
-RESTRUCTURING AND OTHER CHARGES 
-
-
+RESTRUCTURING AND OTHER CHARGES
 There were no new restructuring charges incurred during the three months ended December 29, 2017.
-PROVISION FOR INCOME TAXES 
-
-
+PROVISION FOR INCOME TAXES
 We recorded a provision for income taxes of $315.2 million (which consisted of $304.9 million and $10.3 million related to United States and foreign income taxes, respectively) for the three months ended December 29, 2017.
 On December 22, 2017, the President of the United States signed into law new tax legislation, which includes, among other things, a reduction of the United States corporate tax rate from 35% to 21%, a mandatory deemed repatriation tax on foreign earnings, repeal of the corporate alternative minimum tax and the domestic production activities deduction, and expensing of certain capital investments.
 The new law makes fundamental changes to the taxation of multinational entities, including a shift from worldwide taxation with deferral to a hybrid territorial system, featuring a participation exemption regime, a minimum tax on low-taxed foreign earnings, and new measures to deter base erosion and promote export from the United States.
@@ -83,9 +62,6 @@ The reduction of the corporate tax rate to 21% is effective within fiscal year 2
 The effective tax rate for the three months ended December 29, 2017, was 81.7%, as compared with 19.7% for the three months ended December 30, 2016.
 The difference between our three month effective tax rate of 81.7% and the federal statutory rate of 24.6% resulted primarily from a one-time charge of $257.8 million related to the mandatory deemed repatriation tax on foreign earnings, a one-time charge of $18.5 million related to the revaluation of our deferred tax assets and liabilities related to tax reform, and an increase in tax expense related to a change in the reserve for uncertain tax positions, partially offset by foreign earnings taxed at rates lower than the federal statutory rate, the domestic production activities deduction, research and experimentation tax credits earned, and a benefit of $16.2 million related to windfall stock deductions.
 LIQUIDITY AND CAPITAL RESOURCES
-
-
-
 Cash provided by operating activities consists of net income for the period adjusted for certain non-cash items and changes in certain operating assets and liabilities.
 During the three months ended December 29, 2017, we generated $360.8 million of cash from operating activities, a decrease of $135.1 million as compared with the $495.9 million generated during the three months ended December 30, 2016.
 The decrease in cash flow from operating activities during the three months ended December 29, 2017, was primarily related to a net change in cash outflows of $156.3 million related to a decrease in accounts payable as a result of the timing of vendor payments.
@@ -93,10 +69,8 @@ Cash used in investing activities consists primarily of cash paid for acquisitio
 Cash used in investing activities was $34.2 million during the three months ended December 29, 2017, as compared with $60.6 million during the three months ended December 30, 2016.
 The cash used for capital expenditures was $28.2 million, primarily related to the purchase of manufacturing equipment to support the expansion of our assembly and test operations, filter production operations, and wafer fabrication facilities.
 During the three months ended December 29, 2017, we paid $6.0 million related to purchased intangibles.
-•$172.5 million related to our repurchase of 1.65 million shares of our common stock pursuant to the stock repurchase program approved by our Board of Directors on January 17, 2017; 
-
+•$172.5 million related to our repurchase of 1.65 million shares of our common stock pursuant to the stock repurchase program approved by our Board of Directors on January 17, 2017;
 •$59.1 million related to the payment of cash dividends on our common stock; and
-
 •$44.7 million related to the minimum statutory payroll tax withholdings payments on the vesting of employee performance and restricted stock awards.
 These uses of cash were partially offset by the net proceeds from employee stock option exercises of $14.4 million during the three months ended December 29, 2017.
 Cash and cash equivalent balances were $1,681.5 million as of December 29, 2017, representing an increase of $64.7 million from September 29, 2017.
@@ -113,10 +87,8 @@ The timing and amount of any shares of the Company’s common stock that are rep
 The repurchase program may be suspended or discontinued at any time.
 We currently expect to fund the repurchase program using our working capital.
 CONTRACTUAL OBLIGATIONS
-
 Our contractual obligations disclosure in the 2017 10-K has not materially changed since we filed that report, except for the $257.8 million deemed repatriation tax on foreign earnings, which is payable over the next eight years, $20.6 million per year for each of the next five years, followed by payments of $38.7 million, $51.6 million and $64.5 million in years six through eight, respectively.
 OFF-BALANCE SHEET ARRANGEMENTS
-
 We have no material off-balance sheet arrangements as defined in SEC Regulation S-K Item- 303(a)(4)(ii).
 Item 2.
 Unregistered Sales of Equity Securities and Use of Proceeds.
@@ -128,20 +100,17 @@ The Company has agreed to file a registration statement with the Securities and 
 Item 5.
 Other Information.
 Approval of Revised Fiscal Year 2018 Executive Incentive Plan
-
 On January 30, 2018, the Compensation Committee (the “Compensation Committee”) of the Company’s Board of Directors amended the Company’s Fiscal Year 2018 Executive Incentive Plan (the “Incentive Plan”) to provide that the portion of the incentive awards under the Incentive Plan that previously was attainable based on the Company’s achievement against a non-GAAP earnings per share (“EPS”) performance metric will instead be attainable based on the Company’s achievement against a non-GAAP operating income performance metric.
 The non-GAAP operating income performance metric was established by the Compensation Committee on November 7, 2017, concurrently with the non-GAAP EPS performance metric.
 The Compensation Committee approved the change in metrics in light of the favorable impact on the Company’s non-GAAP EPS for fiscal year 2018 that is now expected as a result of the new U.S. tax legislation, which was enacted on December 22, 2017, as well as the potential favorable impact on non-GAAP EPS of the Company’s new stock repurchase program.
 The Compensation Committee believes this change maintains the original rigor of the performance incentive objectives of the Incentive Plan.
 No other changes were made to the Incentive Plan.
 Amendment to Third Amended and Restated By-laws
-
 Effective January 31, 2018, the Board of Directors approved and adopted an amendment to our Third Amended and Restated By-laws (the “By-laws”) to grant stockholders the right to call a special meeting of stockholders.
 Prior to the adoption of this provision, a special meeting of stockholders could only be called pursuant to a resolution adopted by a majority of the members of the Board of Directors.
 Article II, Section 3 of the By-laws has been amended to permit stockholders who, individually or in the aggregate, own at least 25% of our outstanding shares of common stock and who have held such shares continuously for at least one year prior to their request, to call a special meeting of stockholders, subject to the terms and conditions set forth in the By-laws.
 This description of the amendment to the By-laws is qualified in its entirety by reference to the text of the By-laws, as amended, which is filed as Exhibit 3.1 to this Quarterly Report on Form 10-Q.
 Item 6.
 Exhibits.
-SIGNATURES 
-
+SIGNATURES
 Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.

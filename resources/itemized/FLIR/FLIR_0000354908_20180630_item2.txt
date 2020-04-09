@@ -1,7 +1,5 @@
 ITEM 2.MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
-
 Forward-Looking Statements
-
 This Quarterly Report on Form 10-Q (the “Report”), including “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part I, Item 2, contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 regarding future events and the future results of FLIR Systems, Inc. and its consolidated subsidiaries (“FLIR” or the “Company”) that are based on management’s current expectations, estimates, projections and assumptions about the Company’s business.
 Words such as “expects,” “anticipates,” “intends,” “plans,” “believes,” “sees,” “estimates” and variations of such words and similar expressions are intended to identify such forward-looking statements.
 These statements are not guarantees of future performance and involve risks, uncertainties and assumptions that are difficult to predict.
@@ -10,7 +8,6 @@ In addition, such statements could be affected by general industry, economic, an
 Such forward-looking statements speak only as of the date of this Report or, in the case of any document incorporated by reference, the date of that document, and the Company does not undertake any obligation to update any forward-looking statement to reflect events or circumstances after the date of this Report, or for changes made to this document by wire services or Internet service providers.
 If the Company updates or corrects one or more forward-looking statements, investors and others should not conclude that the Company will make additional updates or corrections with respect to other forward-looking statements.
 Consolidated Operating Results
-
 The following discussion of operating results provides an overview of our operations by addressing key elements in our Consolidated Statements of Income.
 The “Segment Operating Results” section that follows describes the contributions of each of our business segments to our consolidated revenue and earnings from operations.
 Given the nature of our business, we believe revenue and earnings from operations (including operating margin percentage) are most relevant to an understanding of our performance at a segment level.
@@ -22,9 +19,7 @@ Consequently, year over year comparisons for any given quarter may not be indica
 Excluding the divestiture of the Consumer and SMB Security businesses, we currently expect total annual revenue for 2018 to be higher than 2017 revenue and reported revenue including the divested businesses to be about flat or slightly down when compared to prior year.
 However, unexpected changes in economic conditions from key customer markets or other major unanticipated events may cause total revenue, and the mix of revenue between our segments, to vary from quarter to quarter during the year.
 International sales accounted for 48.4 percent and 48.4 percent of total revenue for the quarters ended June 30, 2018 and 2017, respectively.
-The proportion of our international revenue compared to total revenue will fluctuate from quarter to quarter 
-
-
+The proportion of our international revenue compared to total revenue will fluctuate from quarter to quarter
 due to normal variation in order activity across various regions as well as specific factors that may affect one region and not another.
 Overall, we anticipate that revenue from international sales will continue to comprise a significant percentage of total revenue.
 Cost of goods sold.
@@ -70,21 +65,13 @@ We have filed a complaint against the Belgian tax assessments, and the result of
 At June 30, 2018, we held the euro equivalent of $35.3 million in a restricted cash account.
 Those amounts, or portions thereof, could become unrestricted depending on the outcome of this matter.
 Segment Operating Results
-
-
 Industrial
-
-
-
 Industrial business unit revenue for the quarter ended June 30, 2018 increased by 14.4 percent compared to the same period of 2017.
 Industrial business unit revenue for the six months ended June 30, 2018 increased by 12.4 percent compared to the same period of 2017.
 The increase in revenue for the three month period was predominately attributable to strength in the Instruments UAS, gas finders, science and automation product lines and sales to automotive OEMs.
 The increase in revenue for the six month period was predominately attributable to strong performance in the Instruments and OEM product lines.
 The increase in earnings from operations for the three and six months ended June 30, 2018, compared to the same periods of 2017, was primarily due to strong revenue growth coupled with product mix in the Instruments and OEM products.
 Government and Defense
-
-
-
 Government and Defense business unit revenue for the quarter ended June 30, 2018 increased by 10.5 percent compared to the same period of 2017.
 Government and Defense business unit revenue for the six months ended June 30, 2018 increased by 12.8 percent compared to the same period of 2017.
 The increase in revenue for the three and six month periods ended June 30, 2018, compared to the same periods of 2017 was driven by strong results in land and CBRNE related systems.
@@ -92,20 +79,14 @@ The increase in earnings from operations for the three and six month periods end
 The decrease in year-over-year backlog is primarily driven by the timing of large US Government orders under a CBRNE program during 2017 and subsequent delivery timing.
 Additionally, there was a large international order in current backlog as of June 30, 2017, which was moved to non-current backlog in late 2017.
 Commercial
-
-
-
 Commercial business unit revenue for the quarter ended June 30, 2018 decreased by 16.5 percent compared to the same period of 2017.
 Commercial business unit revenue for the six months ended June 30, 2018 decreased 10.4 percent compared to the same period of 2017.
 The decrease in revenue for the three and six month periods ended June 30, 2018 was predominately due to the divestitures of our Consumer and SMB Security businesses during the period ended March 31, 2018, partially offset by strong growth in marine electronics and intelligent transportation related products.
 The increase in earnings from operations for the three and six months ended June 30, 2018, compared to the same periods of 2017, was primarily due to favorable product mix, led by marine electronics.
 Liquidity and Capital Resources
-
 At June 30, 2018, we had a total of $507.9 million in cash, cash equivalents and restricted cash, $217.3 million of which resided in the United States and $290.6 million at our foreign subsidiaries, compared to cash and cash equivalents at December 31, 2017, of $519.1 million, of which $228.9 million resided in the United States and $290.2 million at our foreign subsidiaries.
 At June 30, 2018, the restricted cash balance was $35.3 million and we had no amounts designated as restricted cash at December 31, 2017.
-The decrease in cash, cash equivalents and restricted cash during the six months ended June 30, 2018, was primarily due to share repurchases of $100.0 million, dividend payments of $44.3 million, business acquisitions of $14.2 million, minority interest investments of $9.5 million and capital expenditures of $13.4 million, partially offset by cash provided from operations 
-
-
+The decrease in cash, cash equivalents and restricted cash during the six months ended June 30, 2018, was primarily due to share repurchases of $100.0 million, dividend payments of $44.3 million, business acquisitions of $14.2 million, minority interest investments of $9.5 million and capital expenditures of $13.4 million, partially offset by cash provided from operations
 of $153.3 million, cash received from the sale of our Consumer and SMB Security businesses of $25.9 million and proceeds of $16.9 million from shares issued under our stock compensation plans.
 Cash provided by operating activities during the six months ended June 30, 2018 totaled $153.3 million, which primarily consisted of net earnings, adjusted for depreciation and amortization, stock-based compensation, other non-cash items and changes in working capital.
 The increase of cash provided by operating activities in 2018 over 2017 was due to an increase in net income and improvement in working capital.
@@ -122,6 +103,7 @@ The Credit Agreement allows us and certain designated subsidiaries to borrow in 
 Interest rates under the Credit Agreement are determined based on the type of borrowing.
 Interest associated with borrowings can be based on either the prime lending rate of Bank of America, N.A.
 or the published Eurocurrency rate (i.e.
+LIBOR).
 The borrowings have an applicable margin that ranges from 0.125 percent to 2.125 percent depending on the applicable base rate and our consolidated total leverage ratio.
 Including the respective spreads, the one-month Eurocurrency-based borrowing rate was 3.469 percent per annum and the prime lending-based borrowing rate was 5.375 percent per annum at June 30, 2018.
 The Credit Agreement requires us to pay a commitment fee on the amount of unused revolving commitments at a rate, based on our total leverage ratio, which ranges from 0.150 percent to 0.300 percent of unused revolving commitments.
@@ -138,7 +120,7 @@ This authorization will expire on February 8, 2019.
 During the first quarter of 2018, we entered into an accelerated share repurchase program at a notional amount of $50.0 million, which settled on June 4, 2018, under which we received 1.0 million shares.
 The repurchases were under the February 2017 authorization.
 As of June 30, 2018, a total of 2.0 million shares have been repurchased under the February 8, 2017 authorization.
-New tax legislation, commonly referred to as the Tax Cuts and Jobs Act (the “Tax Act”), was enacted on December 22, 2017.
+ New tax legislation, commonly referred to as the Tax Cuts and Jobs Act (the “Tax Act”), was enacted on December 22, 2017.
 In accordance with the Tax Act, we have accrued $66.5 million of United States taxes payable on all previously undistributed earnings of our foreign subsidiaries, estimated to be approximately $1.0 billion as of December 31, 2017.
 We have also recorded deferred tax liabilities of $14.3 million for state and foreign taxes estimated to be due upon distribution of all accumulated earnings by our foreign subsidiaries.
 We have not provided United States, state or foreign income taxes for earnings generated after January 1, 2018 by certain subsidiaries outside the United States as we currently intend to reinvest the earnings in operations and other activities outside of the United States indefinitely.
@@ -147,14 +129,11 @@ United States taxes would generally not be payable due to changes made by the Ta
 We believe that our existing cash combined with the cash we anticipate generating from operating activities, and our available credit facilities and financing available from other sources will be sufficient to meet our cash requirements for the next twelve months.
 We do not have any significant commitments nor are we aware of any significant events or conditions that are likely to have a material impact on our liquidity or capital resources.
 Off-Balance Sheet Arrangements
-
 As of June 30, 2018, we leased our non-owned facilities under operating lease agreements.
 We also leased certain operating machinery and equipment and office equipment under operating lease agreements.
 Except for these operating lease agreements, we do not have any off-balance sheet arrangements that have or are likely to have a material current or future effect on our financial condition, revenues or expenses, results of operations, liquidity, capital expenditures, or capital resources.
 Recent Accounting Pronouncements
-
-Recently Issued Accounting Pronouncements 
-
+Recently Issued Accounting Pronouncements
 In February 2016, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") No.
 2016-02, “Leases (Topic 842)” (“ASU 2016-02”).
 The amendments in this update require the identification of arrangements that should be accounted for as leases by lessees.
@@ -169,7 +148,6 @@ The standard is effective for annual and interim periods in fiscal years beginni
 Early adoption is permitted.
 The Company is currently evaluating this guidance to determine the impact it may have on its consolidated financial statements.
 Critical Accounting Policies and Estimates
-
 Preparation of the financial statements requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the period.
 Management believes the most complex and sensitive judgments, because of their significance to the consolidated financial statements, result primarily from the need to make estimates about the effects of matters that are inherently uncertain.
 The Company has updated its revenue recognition policy in connection with the adoption of FASB ASU No.
@@ -178,8 +156,7 @@ Readers should also refer to Management's Discussion and Analysis and the critic
 Actual results in these areas could differ materially from management's estimates.
 There have been no significant changes in the Company's assumptions regarding critical accounting estimates during the first six months of 2018.
 Contractual Obligations
-
 There were no material changes to the Company's contractual obligations outside the ordinary course of its business during the quarter ended June 30, 2018.
 Contingencies
-
 See Note 16, "Contingencies," of the Notes to the Consolidated Financial Statements for a description of an ongoing lawsuit filed by Raytheon Company against FLIR Systems, Inc. and its subsidiary, FLIR Commercial Systems, Inc., the disclosure of certain matters by the Company to the United States Department of State Office of Defense Trade Controls Compliance, communications to the Company from the United States Department of Commerce Bureau of Industry and Security, and the Company's current estimates of the range of potential loss associated with quality concerns identified by the Company regarding certain SkyWatch Surveillance Towers.
+ITEM 2.UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS

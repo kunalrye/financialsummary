@@ -1,40 +1,26 @@
 PART II.OTHER INFORMATION
-
 Item 1.Legal Proceedings
-
 See "Note 17.
 Contingencies" to our condensed consolidated financial statements, included in Item 1.
 "Financial Statements" for information regarding patent litigation.
 Item 1A.
 Risk Factors
-
 The following risk factors and other information included in this Quarterly Report on Form 10-Q should be carefully considered.
 The risks and uncertainties described below are not the only risks to the Company.
 Additional risks and uncertainties not presently known to the Company or that the Company’s management currently deems immaterial also may impair its business operations.
 If any of the risks described below were to occur, our business, financial condition, operating results and cash flows could be materially adversely affected.
 Our success depends on our ability to develop and introduce new products and our failure to do so would have a material adverse impact on our financial condition and results of operations.
-•timely completion of new product designs; 
-
-•ability to generate new design opportunities and design wins; 
-
-•availability of specialized field application engineering resources supporting demand creation and customer adoption of new products; 
-
-•ability to utilize advanced manufacturing process technologies on circuit geometries of 28nm and smaller; 
-
-•achieving acceptable yields; 
-
-•ability to obtain adequate production capacity from our wafer foundries and assembly and test subcontractors; 
-
-•ability to obtain advanced packaging; 
-
-•availability and completeness of supporting software design tools; 
-
-•utilization of predefined IP logic; 
-
-•customer acceptance of advanced features in our new products; 
-
+•timely completion of new product designs;
+•ability to generate new design opportunities and design wins;
+•availability of specialized field application engineering resources supporting demand creation and customer adoption of new products;
+•ability to utilize advanced manufacturing process technologies on circuit geometries of 28nm and smaller;
+•achieving acceptable yields;
+•ability to obtain adequate production capacity from our wafer foundries and assembly and test subcontractors;
+•ability to obtain advanced packaging;
+•availability and completeness of supporting software design tools;
+•utilization of predefined IP logic;
+•customer acceptance of advanced features in our new products;
 •ability of our customers to complete their product designs and bring them to market; and
-
 •market acceptance of our customers' products.
 We rely on independent foundries for the manufacture of all of our products and a manufacturing problem or insufficient foundry capacity could adversely affect our operations.
 Most of our wafers are manufactured in Taiwan by Taiwan Semiconductor Manufacturing Company Limited (TSMC) and United Microelectronics Corporation (UMC).
@@ -42,8 +28,7 @@ We also have wafers manufactured in South Korea by Samsung Electronics Co., Ltd.
 Terms with respect to the volume and timing of wafer production and the pricing of wafers produced by the semiconductor foundries are determined through periodic negotiations with these wafer foundries, which usually result in short-term agreements that do not provide for long-term supply or allocation commitments.
 We are dependent on these foundries to supply the substantial majority of our wafers.
 We rely on TSMC, UMC and our other foundries to produce wafers with competitive performance attributes.
-Therefore, the foundries, particularly TSMC which manufactures our newest products, must be able to transition to advanced manufacturing process technologies and increased wafer sizes, produce wafers at acceptable yields and deliver them in a timely 
-
+Therefore, the foundries, particularly TSMC which manufactures our newest products, must be able to transition to advanced manufacturing process technologies and increased wafer sizes, produce wafers at acceptable yields and deliver them in a timely
 manner.
 Furthermore, we cannot guarantee that the foundries that supply our wafers will offer us competitive pricing terms or other commercial terms important to our business.
 We cannot guarantee that our foundries will not experience manufacturing problems, including delays in the realization of advanced manufacturing process technologies or difficulties due to limitations of new and existing process technologies.
@@ -78,52 +63,31 @@ These factors make it difficult for us to forecast future sales and project quar
 The difficulty in forecasting future sales impairs our ability to project our inventory requirements, which could result, and in the past has resulted, in inventory write-downs or failure to meet customer product demands in a timely manner.
 In addition, difficulty in forecasting revenues compromises our ability to provide forward-looking revenue and earnings guidance.
 If we are not able to compete successfully in our industry, our financial results and future prospects will be adversely affected.
-•product pricing; 
-
-•time-to-market; 
-
-•product performance, reliability, quality, power consumption and density; 
-
-•field upgradeability; 
-
-•adaptability of products to specific applications; 
-
-•ease of use and functionality of software design tools; 
-
-•availability and functionality of predefined IP logic; 
-
+•product pricing;
+•time-to-market;
+•product performance, reliability, quality, power consumption and density;
+•field upgradeability;
+•adaptability of products to specific applications;
+•ease of use and functionality of software design tools;
+•availability and functionality of predefined IP logic;
 •completeness of applicable software solutions;
-
-•adherence to industry-standard programming environments; 
-
-•inventory and supply chain management; 
-
-•access to leading-edge process technology and assembly capacity; 
-
+•adherence to industry-standard programming environments;
+•inventory and supply chain management;
+•access to leading-edge process technology and assembly capacity;
 •ability to provide timely customer service and support; and
-
 •access to advanced packaging technology.
 Our strategy for expansion in the logic market includes continued introduction of new product architectures that address high-volume, low-cost and low-power applications as well as high-performance, high-density applications.
 However, we may not be successful in executing this strategy.
 In addition, we anticipate continued pressure from our customers to reduce prices, which may outpace our ability to lower the cost for established products.
-•high-density programmable logic products characterized by FPGA-type architectures; 
-
-•high-volume and low-cost FPGAs as programmable replacements for ASICs and ASSPs; 
-
-•ASICs and ASSPs with incremental amounts of embedded programmable logic; 
-
-•high-speed, low-density complex programmable logic devices; 
-
-•high-performance digital signal processing devices; 
-
-•products with embedded processors; 
-
-•products with embedded multi-gigabit transceivers; 
-
+•high-density programmable logic products characterized by FPGA-type architectures;
+•high-volume and low-cost FPGAs as programmable replacements for ASICs and ASSPs;
+•ASICs and ASSPs with incremental amounts of embedded programmable logic;
+•high-speed, low-density complex programmable logic devices;
+•high-performance digital signal processing devices;
+•products with embedded processors;
+•products with embedded multi-gigabit transceivers;
 •discrete general-purpose Graphics Processing Units (GPUs) targeting data center and automotive applications;
-
 •other new or emerging programmable logic products; and
-
 •large enterprises, like hyperscalers, that have the resources to develop proprietary semiconductors.
 Several companies have introduced products that compete with ours or have announced their intention to sell PLD products.
 To the extent that our efforts to compete are not successful, our financial condition and results of operations could be materially adversely affected.
@@ -200,22 +164,14 @@ Cyber-attacks and data breaches could have an adverse effect on our business and
 Security breaches, including cyber-attacks, phishing attacks or attempts to misappropriate or compromise confidential or proprietary information or sabotage enterprise IT systems, are becoming increasingly frequent and more sophisticated.
 We depend on the uninterrupted operation of our IT systems to manage our operations, store and retrieve business and financial data and facilitate internal communications and communications with customers, subcontractors, suppliers and distribution partners.
 We experience security incidents of varying degrees on an ongoing basis.
-We take steps to detect and investigate any security incidents 
-
-
+We take steps to detect and investigate any security incidents
 Acquisitions and strategic investments present risks, and we may not realize the goals that were contemplated at the time of a transaction.
 •our ongoing business may be disrupted and our management's attention may be diverted by investment, acquisition, transition or integration activities;
-
 •an acquisition or strategic investment may not further our business strategy as we expected, and we may not integrate an acquired company or technology as successfully as we expected;
-
 •our operating results or financial condition may be adversely impacted by claims or liabilities that we assume from an acquired company or technology or that are otherwise related to an acquisition;
-
 •we may have difficulty incorporating acquired technologies or products with our existing product lines;
-
-•we may have higher than anticipated costs in continuing support and development of acquired products, and in general and administrative functions that support such products; 
-
+•we may have higher than anticipated costs in continuing support and development of acquired products, and in general and administrative functions that support such products;
 •our strategic investments may not perform as expected, and we may be required to recognize a loss on any or all of our strategic investments; and
-
 •we may experience unexpected changes in how we are required to account for our acquisitions and strategic investments pursuant to U.S. GAAP.
 The occurrence of any of these risks could have a material adverse effect on our business, results of operations, financial condition or cash flows, particularly in the case of a larger acquisition or several concurrent acquisitions or strategic investments.
 If we are unable to maintain effective internal controls, our stock price could be adversely affected.
@@ -298,29 +254,20 @@ In addition, 30.0 million shares of common stock were reserved for issuance purs
 The availability of substantial amounts of our common stock resulting from the exercise or settlement of equity awards outstanding under our equity incentive plans, which would be dilutive to existing stockholders, could adversely affect the prevailing market price of our common stock and could impair our ability to raise additional capital through the sale of equity securities.
 We have indebtedness that could adversely affect our financial condition and prevent us from fulfilling our debt obligations.
 •make it difficult for us to satisfy our financial obligations, including making scheduled principal and interest payments on the debentures and our other indebtedness;
-
 •limit our ability to borrow additional funds for working capital, capital expenditures, acquisitions or other general corporate purposes;
-
 •limit our ability to use our cash flow or obtain additional financing for future working capital, capital expenditures, acquisitions or other general business purposes;
-
 •require us to use a portion of our cash flow from operations to make debt service payments;
-
 •limit our flexibility to plan for, or react to, changes in our business and industry;
-
 •place us at a competitive disadvantage compared to our less leveraged competitors; and
-
 •increase our vulnerability to the impact of adverse economic and industry conditions.
 Our ability to meet our debt service obligations will depend on our future performance, which will be subject to financial, business and other factors affecting our operations, many of which are beyond our control.
 The agreements governing the 2021 Notes and 2024 Notes contain covenants that may adversely affect our ability to operate our business.
 •create certain liens on principal property or the capital stock of certain subsidiaries;
-
 •enter into certain sale and leaseback transactions with respect to principal property; and
-
 •consolidate or merge with, or convey, transfer or lease all or substantially all our assets, taken as a whole, to another person.
 A failure to comply with these covenants and other provisions in these indentures could result in events of default under the indentures, which could permit acceleration of the 2021 Notes and the 2024 Notes.
 Any required repayment as a result of such acceleration could have a material adverse effect on our business, results of operations, financial condition or cash flows.
 Item 2.Unregistered Sale of Equity Securities and Use of Proceeds
-
 On May 16, 2016, the Board authorized the 2016 Repurchase Program to repurchase up to $1.00 billion of the Company's common stock and debentures.
 On May 16, 2018, the Board authorized the 2018 Repurchase Program to repurchase the Company's common stock and debentures up to $500.0 million.
 The 2016 and 2018 Repurchase Programs have no stated expiration date.
@@ -331,10 +278,6 @@ Under this arrangement, Company received an initial 1.6 million shares of common
 The initial shares received by the Company were retired, accounted for as a reduction to stockholders' equity in the condensed consolidated balance sheets and treated as a repurchase of common stock for purposes of calculating earnings per share.
 The Company expects to receive additional shares and a portion of the remaining estimated $131.9 million back during the next quarter.
 Item 6.Exhibits
-
-
-
 Items 3, 4 and 5 are not applicable and have been omitted.
 SIGNATURES
-
 Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.

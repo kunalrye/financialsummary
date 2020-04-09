@@ -1,40 +1,26 @@
 PART II.OTHER INFORMATION
-
 Item 1.Legal Proceedings
-
 See "Note 17.
 Contingencies" to our condensed consolidated financial statements, included in Item 1.
 "Financial Statements" for information regarding patent litigation.
 Item 1A.
 Risk Factors
-
 The following risk factors and other information included in this Quarterly Report on Form 10-Q should be carefully considered.
 The risks and uncertainties described below are not the only risks to the Company.
 Additional risks and uncertainties not presently known to the Company or that the Company’s management currently deems immaterial also may impair its business operations.
 If any of the risks described below were to occur, our business, financial condition, operating results and cash flows could be materially adversely affected.
 Our success depends on our ability to develop and introduce new products and failure to do so would have a material adverse impact on our financial condition and results of operations.
-•timely completion of new product designs; 
-
-•ability to generate new design opportunities and design wins; 
-
-•availability of specialized field application engineering resources supporting demand creation and customer adoption of new products; 
-
-•ability to utilize advanced manufacturing process technologies on circuit geometries of 28nm and smaller; 
-
-•achieving acceptable yields; 
-
-•ability to obtain adequate production capacity from our wafer foundries and assembly and test subcontractors; 
-
-•ability to obtain advanced packaging; 
-
-•availability of supporting software design tools; 
-
-•utilization of predefined IP logic; 
-
-•customer acceptance of advanced features in our new products; 
-
+•timely completion of new product designs;
+•ability to generate new design opportunities and design wins;
+•availability of specialized field application engineering resources supporting demand creation and customer adoption of new products;
+•ability to utilize advanced manufacturing process technologies on circuit geometries of 28nm and smaller;
+•achieving acceptable yields;
+•ability to obtain adequate production capacity from our wafer foundries and assembly and test subcontractors;
+•ability to obtain advanced packaging;
+•availability of supporting software design tools;
+•utilization of predefined IP logic;
+•customer acceptance of advanced features in our new products;
 •ability of our customers to complete their product designs and bring them to market; and
-
 •market acceptance of our customers' products.
 We rely on independent foundries for the manufacture of all of our products and a manufacturing problem or insufficient foundry capacity could adversely affect our operations.
 Most of our wafers are manufactured in Taiwan by Taiwan Semiconductor Manufacturing Company (TSMC) and United Microelectronics Corporation (UMC).
@@ -77,48 +63,29 @@ These factors make it difficult for us to forecast future sales and project quar
 The difficulty in forecasting future sales impairs our ability to project our inventory requirements, which could result, and in the past has resulted, in inventory write-downs or failure to meet customer product demands in a timely manner.
 In addition, difficulty in forecasting revenues compromises our ability to provide forward-looking revenue and earnings guidance.
 If we are not able to compete successfully in our industry, our financial results and future prospects will be adversely affected.
-•product pricing; 
-
-•time-to-market; 
-
-•product performance, reliability, quality, power consumption and density; 
-
-•field upgradeability; 
-
-•adaptability of products to specific applications; 
-
-•ease of use and functionality of software design tools; 
-
-•availability and functionality of predefined IP logic; 
-
-•inventory and supply chain management; 
-
-•access to leading-edge process technology and assembly capacity; 
-
+•product pricing;
+•time-to-market;
+•product performance, reliability, quality, power consumption and density;
+•field upgradeability;
+•adaptability of products to specific applications;
+•ease of use and functionality of software design tools;
+•availability and functionality of predefined IP logic;
+•inventory and supply chain management;
+•access to leading-edge process technology and assembly capacity;
 •ability to provide timely customer service and support; and
-
 •access to advanced packaging technology.
 Our strategy for expansion in the logic market includes continued introduction of new product architectures that address high-volume, low-cost and low-power applications as well as high-performance, high-density applications.
 However, we may not be successful in executing this strategy.
 In addition, we anticipate continued pressure from our customers to reduce prices, which may outpace our ability to lower the cost for established products.
-•high-density programmable logic products characterized by field programmable gate arrays (FPGA) type architectures; 
-
-•high-volume and low-cost FPGAs as programmable replacements for ASICs and ASSPs; 
-
-•ASICs and ASSPs with incremental amounts of embedded programmable logic; 
-
-•high-speed, low-density complex programmable logic devices; 
-
-•high-performance digital signal processing devices; 
-
+•high-density programmable logic products characterized by field programmable gate arrays (FPGA) type architectures;
+•high-volume and low-cost FPGAs as programmable replacements for ASICs and ASSPs;
+•ASICs and ASSPs with incremental amounts of embedded programmable logic;
+•high-speed, low-density complex programmable logic devices;
+•high-performance digital signal processing devices;
 •products with analog, mixed signal and digital signal processing capabilities;
-
-•products with embedded processors; 
-
-•products with embedded multi-gigabit transceivers; 
-
-•discrete general purpose GPUs targeting non-graphics applications; and 
-
+•products with embedded processors;
+•products with embedded multi-gigabit transceivers;
+•discrete general purpose GPUs targeting non-graphics applications; and
 •other new or emerging programmable logic products.
 Several companies have introduced products that compete with ours or have announced their intention to sell PLD products.
 To the extent that our efforts to compete are not successful, our financial condition and results of operations could be materially adversely affected.
@@ -194,17 +161,11 @@ Failure of our IT systems or difficulties in managing them could result in busin
 Cyber-attacks and data breaches could have an adverse effect on our business and reputation and negatively impact our financial condition and results of operations.
 Acquisitions and strategic investments present risks, and we may not realize the goals that were contemplated at the time of a transaction.
 •our ongoing business may be disrupted and our management's attention may be diverted by investment, acquisition, transition or integration activities;
-
 •an acquisition or strategic investment may not further our business strategy as we expected, and we may not integrate an acquired company or technology as successfully as we expected;
-
 •our operating results or financial condition may be adversely impacted by claims or liabilities that we assume from an acquired company or technology or that are otherwise related to an acquisition;
-
 •we may have difficulty incorporating acquired technologies or products with our existing product lines;
-
-•we may have higher than anticipated costs in continuing support and development of acquired products, and in general and administrative functions that support such products; 
-
+•we may have higher than anticipated costs in continuing support and development of acquired products, and in general and administrative functions that support such products;
 •our strategic investments may not perform as expected; and
-
 •we may experience unexpected changes in how we are required to account for our acquisitions and strategic investments pursuant to U.S. GAAP.
 The occurrence of any of these risks could have a material adverse effect on our business, results of operations, financial condition or cash flows, particularly in the case of a larger acquisition or several concurrent acquisitions or strategic investments.
 If we are unable to maintain effective internal controls, our stock price could be adversely affected.
@@ -285,42 +246,27 @@ As of December 29, 2018, we had 2.00 billion authorized common shares, of which 
 In addition, 30.9 million shares of common stock were reserved for issuance pursuant to our equity incentive plans and Amended and Restated 1990 Employee Qualified Stock Purchase Plan.
 The availability of substantial amounts of our common stock resulting from the exercise or settlement of equity awards outstanding under our equity incentive plans, which would be dilutive to existing stockholders, could adversely affect the prevailing market price of our common stock and could impair our ability to raise additional capital through the sale of equity securities.
 We have indebtedness that could adversely affect our financial condition and prevent us from fulfilling our debt obligations.
-The aggregate amount of our consolidated indebtedness as of December 29, 2018 was $1.75 billion (principal amount), which consists of $500.0 million in aggregate principal amount of our 2.125% Notes due 2019 (2019 Notes), $500.0 million in aggregate 
-
-
+The aggregate amount of our consolidated indebtedness as of December 29, 2018 was $1.75 billion (principal amount), which consists of $500.0 million in aggregate principal amount of our 2.125% Notes due 2019 (2019 Notes), $500.0 million in aggregate
 •make it difficult for us to satisfy our financial obligations, including making scheduled principal and interest payments on the debentures and our other indebtedness;
-
 •limit our ability to borrow additional funds for working capital, capital expenditures, acquisitions or other general corporate purposes;
-
 •limit our ability to use our cash flow or obtain additional financing for future working capital, capital expenditures, acquisitions or other general business purposes;
-
 •require us to use a portion of our cash flow from operations to make debt service payments;
-
 •limit our flexibility to plan for, or react to, changes in our business and industry;
-
 •place us at a competitive disadvantage compared to our less leveraged competitors; and
-
 •increase our vulnerability to the impact of adverse economic and industry conditions;
-
 Our ability to meet our debt service obligations will depend on our future performance, which will be subject to financial, business and other factors affecting our operations, many of which are beyond our control.
 The agreements governing the 2019 Notes, 2021 Notes and 2024 Notes contain covenants that may adversely affect our ability to operate our business.
 •create certain liens on principal property or the capital stock of certain subsidiaries;
-
 •enter into certain sale and leaseback transactions with respect to principal property; and
-
 •consolidate or merge with, or convey, transfer or lease all or substantially all our assets, taken as a whole, to, another person.
 A failure to comply with these covenants and other provisions in these indentures could result in events of default under the indentures, which could permit acceleration of the 2019 Notes, the 2021 Notes and the 2024 Notes.
 Any required repayment as a result of such acceleration could have a material adverse effect on our business, results of operations, financial condition or cash flows.
 Item 2.Unregistered Sale of Equity Securities and Use of Proceeds
-
 On May 16, 2016, the Board authorized the 2016 Repurchase Program to repurchase of up to $1.00 billion of shares of our common stock and debentures.
 The 2016 Repurchase Program has no stated expiration date.
 Through December 29, 2018, we have used $953.7 million of the $1.00 billion authorized under the 2016 Repurchase Program, leaving $46.3 million available for future purchases.
 On May 16, 2018, the Board authorized the 2018 Repurchase Program to repurchase the Company's common stock and debentures up to $500.0 million.
 Item 6.Exhibits
-
-
 Items 3, 4 and 5 are not applicable and have been omitted.
 SIGNATURES
-
 Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.

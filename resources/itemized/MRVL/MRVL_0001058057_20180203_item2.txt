@@ -1,66 +1,39 @@
 Item 2.
 Management’s Discussion and Analysis of Financial Condition and Results of Operations
-
 This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), which are subject to the “safe harbor” created by those sections.
 These statements involve known and unknown risks, uncertainties and other factors, which may cause our actual results to differ materially from those implied by the forward-looking statements.
 Words such as “anticipates,” “expects,” “intends,” “plans,” “projects,” “believes,” “seeks,” “estimates,” “may,” “can,” “will,” “would” and similar expressions identify such forward-looking statements.
 Forward-looking statements are subject to risks and uncertainties that could cause actual results to differ materially from those indicated in the forward-looking statements.
-Factors that could cause actual results to differ materially from those predicted, include, but are not limited to: 
-
+Factors that could cause actual results to differ materially from those predicted, include, but are not limited to:
 •our ability to complete the merger with Cavium, Inc. on a timely basis, or at all;
-
 •our ability to realize anticipated synergies in connection with the Cavium acquisition;
-
 •our dependence on a small number of customers;
-
 •severe financial hardship or bankruptcy of one or more of our major customers;
-
-•the effects of any potential future acquisitions, strategic investments, divestitures, mergers or joint ventures; 
-
+•the effects of any potential future acquisitions, strategic investments, divestitures, mergers or joint ventures;
 •risks associated with acquisition and consolidation activity in the semiconductor industry;
-
 our ability and the ability of our customers to successfully compete in the markets in which we serve;
-
 •our dependence upon the hard disk drive market, which is highly cyclical and intensely competitive;
-
 •our ability and our customers’ ability to develop new and enhanced products and the adoption of those products in the market;
-
 •decreases in our gross margin and results of operations in the future due to a number of factors;
-
 •our reliance on independent foundries and subcontractors for the manufacture, assembly and testing of our products;
-
 •the risks associated with manufacturing and selling a majority of our products and our customers’ products outside of the United States;
-
 •the effects of transitioning to smaller geometry process technologies;
-
 •our ability to scale our operations in response to changes in demand for existing or new products and services;
-
 •our ability to limit costs related to defective products;
-
-•our ability to recruit and retain experience executive management as well as highly skilled engineering and sales and marketing personnel; 
-
+•our ability to recruit and retain experience executive management as well as highly skilled engineering and sales and marketing personnel;
 •our ability to mitigate risks related to our information technology systems;
-
 •our ability to protect our intellectual property;
-
 •our ability to estimate customer demand and future sales accurately;
-
 •our reliance on third-party distributors and manufacturers' representatives to sell our products;
-
 •the impact of international conflict and continued economic volatility in either domestic or foreign markets;
-
-•the impact and costs associated with changes in international financial and regulatory conditions; 
-
-•the impact of any changes in our application of the United Stated federal income tax laws and the loss of any beneficial treatment that we currently enjoy; 
-
-•our maintenance of an effective system of internal controls; and 
-
+•the impact and costs associated with changes in international financial and regulatory conditions;
+•the impact of any changes in our application of the United Stated federal income tax laws and the loss of any beneficial treatment that we currently enjoy;
+•our maintenance of an effective system of internal controls; and
 •the outcome of pending or future litigation and legal and regulatory proceedings.
 Additional factors which could cause actual results to differ materially include those set forth in the following discussion, as well as the risks discussed in Part II, Item 1A, “Risk Factors,” and other sections of this Quarterly Report on Form 10-Q.
 These forward-looking statements speak only as of the date hereof.
 Unless required by law, we undertake no obligation to update any forward-looking statements.
 Overview
-
 We are a fabless semiconductor provider of high-performance, application-specific standard products.
 Our core strength is developing complex System-on-a-Chip (“SoC”) devices, leveraging our technology portfolio of intellectual property in the areas of analog, mixed-signal, digital signal processing, and embedded and standalone integrated circuits.
 We also develop integrated hardware platforms along with software that incorporates digital computing technologies designed and configured to provide an optimized computing solution.
@@ -94,19 +67,12 @@ For risks related to our sales cycles, see Part II, Item 1A, “Risk Factors,”
 If we are unable to accurately predict customer demand, we may hold excess or obsolete inventory, which would reduce our gross margin.
 Conversely, we may have insufficient inventory, which would results in lost revenue opportunities and potential loss of market share as well as damaged customer relationships."
 Critical Accounting Policies and Estimates
-
 Except for the accounting policy for revenue recognition that was updated as a result of adopting the new accounting standard on the recognition of revenue from contracts with customers, there have been no material changes to our critical accounting policies and estimates from the information provided in the “Critical Accounting Policies and Estimates” section of our Management's Discussion and Analysis of Financial Condition and Results of Operations included in our Annual Report on Form 10-K for the fiscal year ended February 3, 2018.
 See Note 3.
 Revenue - "New revenue recognition policy including significant judgments and estimates" for additional information.
 Results of Operations
-
-
-
-Three months ended May 5, 2018 and April 29, 2017 
-
+Three months ended May 5, 2018 and April 29, 2017
 Net Revenue
-
-
  At the beginning of fiscal year 2019, we adopted the new revenue recognition standard using the modified retrospective method.
 Refer to “Note 3 - Revenue” for further information.
 Our net revenue for the three months ended May 5, 2018 increased by $31.9 million compared to net revenue for the three months ended April 29, 2017.
@@ -114,32 +80,19 @@ This was primarily due to increased sales of our networking and connectivity pro
 This increase was partially offset by decreased sales of our other products, which were down 10% compared to the three months ended April 29, 2017.
 In the three months ended May 5, 2018, unit shipments were 9% higher and average selling prices decreased 4% compared to the three months ended April 29, 2017.
 Cost of Goods Sold and Gross Profit
-
-
-
 Research and Development
-
-
 Research and development expenses decreased by $11.4 million in the three months ended May 5, 2018 compared to the three months ended April 29, 2017.
 The decrease was primarily attributable to a decrease of $4.5 million in nonrecurring engineering service fees, a decrease of $2.9 million in technology license amortization expense and $2.3 million in lower personnel costs due to headcount reduction.
 Selling, general and administrative
-
-
 Selling, general and administrative expense increased by $17.2 million in the three months ended May 5, 2018 compared to the three months ended April 29, 2017.
 The increase was primarily due to an increase of $15.3 million in merger-related costs.
 Refer to “Note 1- Basis of Presentation” for discussion of the pending merger transaction.
 Restructuring Related Charges
-
-
 We recognized $1.6 million of total restructuring related charges in the three months ended May 5, 2018 as the Company continues to execute previously announced restructuring actions.
 Interest and Other Income, Net
-
-
 Interest and other income, net, increased by $4.0 million in the three months ended May 5, 2018 compared to the three months ended April 29, 2017.
 The increase is primarily due to a $2.6 million increase in interest income and a $1.5 million increase associated with foreign currency gain related to the revaluation of foreign currency denominated tax liabilities.
 Provision (benefit) for Income Taxes
-
-
 Our income tax provision for the three months ended May 5, 2018 was $3.8 million compared to an income tax provision of $5.2 million for the three months ended April 29, 2017.
 Our income tax provision for the three months ended May 5, 2018 differs from the same period in the prior year due to a reduction of tax expense on income from continuing operations, including discrete items in the quarter, versus the recognition of a discrete item related to changes in prior tax positions, and an additional accrual related to restructurings in the prior period.
 The effective tax rate for the three months ended May 5, 2018 and April 29, 2017 differs from the statutory federal rate of 21% primarily due to foreign earnings that are taxed at a substantially lower tax rate.
@@ -153,9 +106,7 @@ As we continue our analysis of the 2017 Tax Act, collect and prepare necessary d
 Those adjustments may materially impact our provision for income taxes in the period in which the adjustments are made.
 Our provision for income taxes may be affected by changes in the geographic mix of earnings with different applicable tax rates, changes in the realizability of deferred tax assets and liabilities, accruals related to contingent tax liabilities and period-to-period changes in such accruals, the results of income tax audits, the expiration of statutes of limitation, the implementation of tax planning strategies, tax rulings, court decisions, settlements with tax authorities and changes in tax laws.
 Additionally, please see the information in Part II, Item 1A, “Risk Factors,” under the caption “Changes in existing taxation benefits, rules or practices may adversely affect our financial results.”
-
 Liquidity and Capital Resources
-
 Our principal source of liquidity as of May 5, 2018 consisted of approximately $1.9 billion of cash, cash equivalents and short-term investments, of which approximately $1.0 billion was held by foreign subsidiaries (outside Bermuda).
 Approximately $550 million of this amount held by foreign subsidiaries is related to subsidiaries whose earnings are undistributed and have been indefinitely reinvested outside of Bermuda.
 These funds are primarily held in China, Israel and the United States.
@@ -174,9 +125,6 @@ In addition, the equity or debt securities that we issue may have rights, prefer
 Future payment of a regular quarterly cash dividend on our common shares and our planned repurchases of common stock will be subject to, among other things, the best interests of the Company and our shareholders, our results of operations, cash balances and future cash requirements, financial condition, developments in ongoing litigation, statutory requirements under Bermuda law, market conditions and other factors that our board of directors may deem relevant.
 Our dividend payments and repurchases of common stock may change from time to time, and we cannot provide assurance that we will continue to declare dividends or repurchase shares at all or in any particular amounts.
 Cash Flows from Operating Activities
-
-
-
 Net cash flow used in operations for the three months ended April 29, 2017 was $134.2 million.
 We had $106.6 million of net income, adjusted for $38.2 million of non-cash items, which was primarily driven by depreciation and amortization of $20.7 million, share-based compensation expense of $24.0 million, the amortization and write-off of acquired intangible assets of $1.1 million, and gain on the sale of discontinued operations of $8.2 million.
 The cash outflow from working capital of $10.6 million for the three months ended April 29, 2017 was primarily driven by increases in accounts receivable and inventory, as well as a decrease in accrued liabilities when adjusted for the impacts of investing activities, offset by an increase in accounts payable.
@@ -184,38 +132,26 @@ The increase in accounts receivable was driven by less favorable sales linearity
 Inventories primarily associated with HDD inventory increased in preparation for the next quarter's demand.
 The decrease in accrued liabilities when adjusted for the impact of unsettled investment purchases was driven by a reduction of accruals for restructuring expenses and rebates.
 Cash Flows from Investing Activities
-
 Net cash flow provided by investing activities was $216.7 million for the three months ended May 5, 2018 compared to net cash used in investing activities of $17.3 million for the three months ended April 29, 2017.
 For the three months ended May 5, 2018, net cash provided by investing activities was primarily driven by net proceeds for sales and maturities of available-for sale securities and time deposits of $274.1 million, offset by purchases of available-for-sale securities and time deposits of $38.5 million and purchases of property and equipment of $13.6 million.
 For the three months ended April 29, 2017, net cash used in investing activities of $17.3 million was primarily driven by purchase of available-for-sale securities of $198.4 million, offset by sales and maturities of available-for-sale securities of $161.0 million and net proceeds of $23.0 million from the sale of our Broadband business.
 Cash Flows from Financing Activities
-
 For the three months ended May 5, 2018, net cash used in financing activities of $66.7 million was primarily attributable to $29.8 million for payment of our quarterly dividends, $23.9 million minimum tax withholding payments on behalf of employees for net share settlements, and $20.5 million payments on technology license obligations.
 These outflows were partially offset by proceeds of $11.1 million from employee stock plans.
 For the three months ended April 29, 2017, net cash used in financing activities of $205.0 million was primarily attributable to $166.3 million for the repurchases of our common stock, $30.0 million for payment of our quarterly dividends, and $21.8 million minimum tax withholding payments on behalf of employees for net share settlements.
 Contractual Obligations
-
 We presented our contractual obligations at February 3, 2018 in our Annual Report on Form 10-K for the fiscal year then ended.
 There have been no material changes outside the ordinary course of business in those obligations during the three months ended May 5, 2018.
 Indemnification Obligations
-
 See “Note 8 – Commitments and Contingencies” in the Notes to the Unaudited Condensed Consolidated Financial Statements set forth in Part I, Item 1 of this Quarterly Report on Form 10-Q.
 Item 2.
 Unregistered Sales of Equity Securities and Use of Proceeds
-
 There were no sales of unregistered securities during the three months ended May 5, 2018.
 Issuer Purchases of Equity Securities
-
 During the three months ended May 5, 2018, we suspended our share repurchase program in anticipation of the funding of our acquisition of Cavium.
 Therefore, there were no share repurchases during the three months ended May 5, 2018.
 Although share repurchases are temporarily suspended, we have $358.0 million of repurchase authority remaining under our current share repurchase program.
 Item 6.
 Exhibits
-
-
-
-
-
 SIGNATURES
-
 Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.

@@ -1,5 +1,4 @@
 FORWARD-LOOKING STATEMENTS
-
 This Quarterly Report on Form 10-Q contains forward-looking statements that involve a number of risks and uncertainties.
 Words such as "anticipates," "expects," "intends," "goals," "plans," "believes," "seeks," "estimates," "continues," "may," "will," "would," "should," "could," and variations of such words and similar expressions are intended to identify such forward-looking statements.
 In addition, any statements that refer to projections of our future financial performance, our anticipated growth and trends in our businesses, projected growth of markets relevant to our businesses, future products and technology and the expected availability and benefits of such products and technology, expected timing and impact of acquisitions, divestitures, and other significant transactions, expected completion of restructuring activities, uncertain events or assumptions, and other characterizations of future events or circumstances are forward-looking statements.
@@ -9,9 +8,3 @@ Given these risks and uncertainties, readers are cautioned not to place undue re
 Readers are urged to carefully review and consider the various disclosures made in this Form 10-Q and in other documents we file from time to time with the SEC that disclose risks and uncertainties that may affect our business.
 Unless specifically indicated otherwise, the forward-looking statements in this Form 10-Q do not reflect the potential impact of any divestitures, mergers, acquisitions, or other business combinations that had not been completed as of the date of this filing.
 In addition, the forward-looking statements in this Form 10-Q are made as of the date of this filing, including expectations based on third-party information and projections that management believes to be reputable, and Intel does not undertake, and expressly disclaims any duty, to update such statements, whether as a result of new information, new developments, or otherwise, except to the extent that disclosure may be required by law.
-INTEL UNIQUE TERMS
-
-
-PLATFORM PRODUCTS A microprocessor (processor or central processing unit (CPU)) and chipset, a stand-alone System-on-Chip (SoC), or a multichip package, based on Intel® architecture.
-Platform products, or platforms, are primarily used in solutions sold through the Client Computing Group (CCG), Data Center Group (DCG), and Internet of Things Group (IOTG) segments.
-ADJACENT PRODUCTS All of our non-platform products for CCG, DCG, and IOTG, such as modem, Ethernet and silicon photonics, as well as Mobileye, Non-Volatile Memory Solutions Group (NSG), and Programmable Solutions Group (PSG) products.

@@ -1,19 +1,13 @@
 Item 2.
 Management’s Discussion and Analysis of Financial Condition and Results of Operations
-
 Business Overview
-
 Activision Blizzard, Inc. is a leading global developer and publisher of interactive entertainment content and services.
 We develop and distribute content and services on video game consoles, personal computers (“PC”s), and mobile devices.
 We also operate esports leagues and events and create film and television content based on our intellectual property.
 The terms “Activision Blizzard,” the “Company,” “we,” “us,” and “our” are used to refer collectively to Activision Blizzard, Inc. and its subsidiaries.
 The Company was originally incorporated in California in 1979 and was reincorporated in Delaware in December 1992.
 In connection with the 2008 business combination by and among the Company (then known as Activision, Inc.), Vivendi S.A, and Vivendi Games, Inc., then an indirect wholly-owned subsidiary of Vivendi S.A., we were renamed Activision Blizzard, Inc.
-
 Our Segments
-
-
-
 Activision Publishing, Inc. (“Activision”), is a leading global developer and publisher of interactive software products and entertainment content, particularly for the console platform.
 Activision primarily delivers content through retail and digital channels, including full-game and in-game sales, as well as by licensing software to third-party or related-party companies that distribute Activision products.
 Activision develops, markets, and sells products primarily based on our internally developed intellectual properties, as well as some licensed properties.
@@ -30,57 +24,28 @@ King Digital Entertainment (“King”) is a leading global developer and publis
 King also distributes its content and services on the PC platform, primarily via Facebook.
 King’s games are free to play; however, players can acquire in-game items, either with virtual currency or real currency, and we continue to focus on in-game advertising as a growing source of additional revenue.
 Other
-
-
 •the Activision Blizzard Studios (“Studios”) business, which is devoted to creating original film and television content based on our library of globally recognized intellectual properties, and which, in September 2018, released the third season of the animated TV series Skylanders™ Academy on Netflix; and
-
 •the Activision Blizzard Distribution (“Distribution”) business, which consists of operations in Europe that provide warehousing, logistics, and sales distribution services to third-party publishers of interactive entertainment software, our own publishing operations, and manufacturers of interactive entertainment hardware.
 Business Results and Highlights
-
 Financial Results
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Since certain of our games are hosted online or include significant online functionality that represents a separate performance obligation, we defer the transaction price allocable to the online functionality from the sale of these games and then recognize the attributable revenues over the relevant estimated service periods, which are generally less than a year.
 Net revenues and operating income for the three months ended June 30, 2019, include a net effect of $189 million and $135 million, respectively, from the recognition of deferred net revenues and related cost of revenues.
 Net revenues and operating income for the six months ended June 30, 2019, include a net effect of $755 million and $576 million, respectively, from the recognition of deferred net revenues and related cost of revenues.
 Content Release and Event Highlights
-
 During the three months ended June 30, 2019, Activision released CrashTM Team Racing Nitro-Fueled and Blizzard released the latest expansion to Hearthstone—Rise of ShadowsTM.
 Operating Metrics
-
 The following operating metrics are key performance indicators that we use to evaluate our business.
 Net Bookings
-
 We monitor net bookings as a key operating metric in evaluating the performance of our business.
 Net bookings is the net amount of products and services sold digitally or sold-in physically in the period, and includes license fees, merchandise, and publisher incentives, among others.
 Net bookings is equal to net revenues excluding the impact from deferrals.
 Q2 2019 vs. Q2 2018
-
-
 •lower net bookings from the Destiny franchise, the publishing rights to which we sold to Bungie in December 2018, as previously disclosed; and
-
 •lower net bookings from Overwatch.
 The decrease was partially offset by net bookings from Crash Team Racing Nitro-Fueled, which was released in June 2019.
 YTD Q2 2019 vs. YTD Q2 2018
-
-
-
-
 •lower net bookings from Overwatch.
 Monthly Active Users
-
 We monitor monthly active users (“MAUs”) as a key measure of the overall size of our user base.
 MAUs are the number of individuals who accessed a particular game in a given month.
 We calculate average MAUs in a period by adding the total number of MAUs in each of the months in a given period and dividing that total by the number of months in the period.
@@ -91,15 +56,10 @@ Average MAUs decreased by 18 million, or 5%, for the three months ended June 30,
 The decrease in King’s average MAUs is primarily due to decreases from the Candy Crush franchise.
 The decrease in Activision’s average MAUs is primarily due to decreases from the Call of Duty franchise.
 •decreases across King’s various franchises, primarily from less engaged users leaving the network, partially offset by an increase in average MAUs for the Candy Crush franchise, primarily given the launch of Candy Crush Friends SagaTM in the fourth quarter of 2018;
-
 •lower average MAUs for Activision, primarily due to lower average MAUs from the Call of Duty franchise and the absence of Destiny MAUs in our operating metric; and
-
-
 King MAUs were also negatively impacted by a King network outage in the second quarter of 2018, resulting from changes made by a third-party partner which inadvertently impacted some users’ ability to play and spend money in King games.
 Management’s Overview of Business Trends
-
 Interactive Entertainment and Mobile Gaming Growth
-
 Our business participates in the global interactive entertainment industry.
 Games have become an increasingly popular form of entertainment, and we estimate the total industry has grown, on average, 18% annually from 2015 to 2018.
 The industry continues to benefit from additional players entering the market as interactive entertainment becomes more commonplace across age groups and as more developing regions gain access to this form of entertainment.
@@ -107,7 +67,6 @@ The wide adoption of smart phones globally and the free-to-play business model o
 Mobile gaming is estimated to be larger than console and PC gaming, and continues to grow at a significant rate.
 King is a leading developer of mobile and free-to-play games and our other business units have mobile efforts underway that present the opportunity for us to expand the reach of, and drive additional player investment from, our franchises.
 Opportunities to Expand Franchises Outside of Games
-
 Our fans spend significant time investing in our franchises through purchases of our game content, whether through purchases of full games or downloadable content or via microtransactions.
 Given the passion our players have for our franchises, we believe there are emerging opportunities to drive additional engagement and investment in our franchises outside of games.
 Our efforts to build these adjacent opportunities are still relatively nascent, but we view them as potentially significant sources of future revenues.
@@ -115,7 +74,6 @@ For example, as part of our efforts to take advantage of esports opportunities, 
 During 2018, we also completed the sale of eight additional teams for the Overwatch League, which are competing in the league’s second season that began in February 2019.
 Additionally, we have sold the first eight teams for our professional Call of Duty city-based league.
 Concentration of Sales Among the Most Popular Franchises
-
 The concentration of retail revenues among key titles has continued as a trend in the overall interactive entertainment industry.
 According to The NPD Group, the top 10 titles accounted for 38% of the retail sales in the U.S. interactive entertainment industry in 2018.
 Similarly, a significant portion of our revenues historically has been derived from video games based on a few popular franchises, and these video games have been responsible for a disproportionately high percentage of our profits.
@@ -128,353 +86,175 @@ We also have mobile titles in development based on Activision and Blizzards inte
 Overall, we do expect that a limited number of popular franchises will continue to produce a disproportionately high percentage of our, and the industry’s, revenues and profits in the near future.
 Accordingly, our ability to maintain our top franchises and our ability to successfully compete against our competitors’ top franchises can significantly impact our performance.
 Recurring Revenue Business Models
-
 Increased consumer online connectivity has allowed us to offer players new investment opportunities and to shift our business further towards a more consistently recurring and year-round model.
 Offering downloadable content and microtransactions, in addition to full games, allows our players to access and invest in new content throughout the year.
 This incremental content not only provides additional high-margin revenues, it can also increase player engagement.
 Also, mobile games, and free-to-play games more broadly, are generally less seasonal than games developed primarily for the console or PC platforms.
 Consolidated Statements of Operations Data
-
-
-
 Consolidated Net Revenues
-
-
-
 Consolidated Net Revenues
-
-Q2 2019 vs. Q2 2018 
-
-
-
-
-YTD Q2 2019 vs. YTD Q2 2018
-
-
-
-
-Change in Deferred Revenues Recognized
-
 Q2 2019 vs. Q2 2018
-
-
 YTD Q2 2019 vs. YTD Q2 2018
-
-
+Change in Deferred Revenues Recognized
+Q2 2019 vs. Q2 2018
+YTD Q2 2019 vs. YTD Q2 2018
 Foreign Exchange Impact
-
 Changes in foreign exchange rates had a negative impact of $39 million and $105 million on our consolidated net revenues for the three and six months ended June 30, 2019, as compared to the same period in the previous year.
 The changes are primarily due to changes in the value of the U.S. dollar relative to the euro and the British pound.
 Operating Segment Results
-
-
 Our operating segments are also consistent with our internal organizational structure, the way we assess operating performance and allocate resources, and the availability of separate financial information.
 We do not aggregate operating segments.
 Segment Net Revenues
-
 Activision
-
 Q2 2019 vs. Q2 2018
-
-
 •lower revenues from the Destiny franchise, the publishing rights to which we sold to Bungie in December 2018, as previously disclosed;
-
 •lower revenues from Crash Bandicoot™ N. Sane Trilogy, which was released on the Xbox One, PC, and Nintendo Switch in June 2018;
-
 •lower revenues from the Call of Duty franchise catalog titles; and
-
-
-
 •revenues from Crash Team Racing Nitro-Fueled, which was released in June 2019; and
-
-
 YTD Q2 2019 vs. YTD Q2 2018
-
-
-
 •lower revenues from the Destiny franchise;
-
 •lower revenues from Call of Duty franchise catalog titles; and
-
 •lower revenues from Crash Bandicoot N. Sane Trilogy.
 Blizzard
-
 Q2 2019 vs. Q2 2018
-
-
 •lower revenues from Overwatch;
-
-
-
 YTD Q2 2019 vs. YTD Q2 2018
-
-
-
 •lower revenues from Overwatch; and
-
 •lower revenues from Hearthstone.
 King
-
 Q2 2019 vs. Q2 2018
-
 King’s net revenues for the three months ended June 30, 2019, were roughly equal to net revenues for the three months ended June 30, 2018.
 YTD Q2 2019 vs. YTD Q2 2018
-
 King’s net revenues for the six months ended June 30, 2019, were roughly equal to net revenues for the six months ended June 30, 2018.
 Segment Income from Operations
-
 Activision
-
 Q2 2019 vs. Q2 2018
-
 The decrease in Activision’s operating income for the three months ended June 30, 2019, as compared to the three months ended June 30, 2018, was primarily due to lower revenues, as discussed above.
 The decrease was partially offset by lower operating costs associated with the Destiny franchise, the publishing rights to which we sold to Bungie in December 2018, as previously disclosed.
 YTD Q2 2019 vs. YTD Q2 2018
-
-
 •lower revenues, primarily driven by the Call of Duty franchise, as discussed above;
-
-
 •an increase in bad debt provisions.
 The decrease was partially offset by lower operating costs associated with the Destiny franchise.
 Blizzard
-
 Q2 2019 vs. Q2 2018
-
-
-•lower spending on sales and marketing, primarily driven by Overwatch; 
-
+•lower spending on sales and marketing, primarily driven by Overwatch;
 •lower charitable contributions; and
-
 •lower personnel costs.
 YTD Q2 2019 vs. YTD Q2 2018
-
-
 •lower spending on sales and marketing, primarily driven by lower marketing for esports initiatives and Overwatch;
-
 •lower personnel costs; and
-
 •lower service provider fees, such as digital storefront fees (e.g.
 fees retained by Apple and Google for our sales on their platforms), payment processor fees, and server bandwidth fees.
 King
-
 Q2 2019 vs. Q2 2018
-
 King’s operating income for the three months ended June 30, 2019, was roughly equal to the three months ended June 30, 2018.
 YTD Q2 2019 vs. YTD Q2 2018
-
-
 •lower service provider fees such as digital storefront fees (e.g.
 fees retained by Apple and Google for our sales on their platforms), payment processor fees, and server bandwidth fees; and
-
 •lower product development costs.
 Foreign Exchange Impact
-
 Changes in foreign exchange rates had a negative impact of $30 million and $72 million on reportable segment net revenues for the three and six months ended June 30, 2019, respectively, as compared to the same period in the previous year.
 The changes are primarily due to changes in the value of the U.S. dollar relative to the euro and the British pound.
 Consolidated Results
-
 Net Revenues by Distribution Channel
-
-
-
-
-
 Digital Online Channel Net Revenues
-
 Q2 2019 vs. Q2 2018
-
-
 •lower revenues recognized from the Destiny franchise, the publishing rights to which we sold to Bungie in December 2018, as previously disclosed; and
-
 •lower revenues recognized from Overwatch.
 YTD Q2 2019 vs. YTD Q2 2018
-
 The decrease in net revenues from digital online channels for the six months ended June 30, 2019, as compared to the six months ended June 30, 2018, was primarily due to lower revenues recognized from the Destiny franchise.
 Retail Channel Net Revenues
-
 Q2 2019 vs. Q2 2018
-
-
-
 •lower revenues from Crash Bandicoot N. Sane Trilogy, which was released on the Xbox One, PC, and Nintendo Switch in June 2018; and
-
 •lower revenues recognized from the Destiny franchise.
 The decrease was partially offset by revenues recognized from Crash Team Racing Nitro-Fueled, which was released in June 2019.
 YTD Q2 2019 vs. YTD Q2 2018
-
-
-
 •lower revenues recognized from the Destiny franchise; and
-
 •lower revenues from Crash Bandicoot N. Sane Trilogy.
 Net Revenues by Geographic Region
-
-
-
-
 Americas
-
 Q2 2019 vs. Q2 2018
-
 The decrease in net revenues from the Americas region for the three months ended June 30, 2019, as compared to the three months ended June 30, 2018, was primarily due to lower revenues recognized from the Destiny franchise, the publishing rights to which we sold to Bungie in December 2018, as previously disclosed.
 YTD Q2 2019 vs. YTD Q2 2018
-
 The decrease in net revenues from the Americas region for the six months ended June 30, 2019, as compared to the six months ended June 30, 2018, was primarily due to lower revenues recognized from the Destiny franchise.
 EMEA
-
 Q2 2019 vs. Q2 2018
-
-
-
 •lower revenues recognized from the Destiny franchise.
 YTD Q2 2019 vs. YTD Q2 2018
-
 The decrease in net revenues from the EMEA region for the six months ended June 30, 2019, as compared to the six months ended June 30, 2018, was primarily due to the same drivers applicable to the three months ended June 30, 2019 discussed above.
 Asia Pacific
-
 Q2 2019 vs. Q2 2018
-
 The decrease in net revenues from the Asia Pacific region for the three months ended June 30, 2019, as compared to the three months ended June 30, 2018, was primarily due to lower revenues recognized from Hearthstone, primarily driven by lower revenues recognized from the Rise of Shadows expansion, which was released in April 2019, as compared to The Witchwood expansion, which was released in April 2018.
 YTD Q2 2019 vs. YTD Q2 2018
-
 The decrease in net revenues from the Asia Pacific region for the six months ended June 30, 2019, as compared to the six months ended June 30, 2018, was primarily due to lower revenues recognized from the Destiny franchise.
 Net Revenues by Platform
-
-
-
-
-
 Console
-
 Q2 2019 vs. Q2 2018
-
-
-
 •lower revenues recognized from the Destiny franchise, the publishing rights to which we sold to Bungie in December 2018, as previously disclosed;
-
 •lower revenues from Crash Bandicoot N. Sane Trilogy which was released on the Xbox One, PC, and Nintendo Switch in June 2018; and
-
 •lower revenues recognized from Call of Duty franchise catalog titles.
 The decrease was partially offset by revenues recognized from Crash Team Racing Nitro-Fueled, which was released in June 2019.
 YTD Q2 2019 vs. YTD Q2 2018
-
-
 •lower revenues recognized from the Destiny franchise;
-
-
 •lower revenues recognized from Call of Duty franchise catalog titles.
 PC
-
 Q2 2019 vs. Q2 2018
-
-
 •lower revenues recognized from the Destiny franchise;
-
 •lower revenues recognized from Overwatch; and
-
-
 YTD Q2 2019 vs. YTD Q2 2018
-
-
 •lower revenues recognized from the Destiny franchise;
-
 •lower revenues recognized from Overwatch; and
-
 •lower revenues recognized from Hearthstone.
 Mobile and Ancillary
-
 Q2 2019 vs. Q2 2018
-
 Net revenues from mobile and ancillary for the three months ended June 30, 2019, were roughly equal to net revenues for the three months ended June 30, 2018.
 YTD Q2 2019 vs. YTD Q2 2018
-
 Net revenues from mobile and ancillary for the six months ended June 30, 2019, were roughly equal to net revenues for the six months ended June 30, 2018.
 Costs and Expenses
-
 Cost of Revenues
-
-
-
-
 Q2 2019 vs. Q2 2018
-
 The decrease in product costs for the three months ended June 30, 2019, as compared to the three months ended June 30, 2018, was in line with the decrease in product sales.
 YTD Q2 2019 vs. YTD Q2 2018
-
 The decrease in product costs for the six months ended June 30, 2019, as compared to the six months ended June 30, 2018, was in line with the decrease in product sales.
 Q2 2019 vs. Q2 2018
-
 The decrease in game operations and distribution costs for the three months ended June 30, 2019, as compared to the three months ended June 30, 2018, was primarily due to a decrease of $13 million in service provider fees such as digital storefront fees (e.g.
 fees retained by Apple and Google for our sales on their platforms), payment processor fees, and server bandwidth fees.
 The decrease in software royalties, amortization, and intellectual property licenses related to subscription, licensing, and other revenues for the three months ended June 30, 2019, as compared to the three months ended June 30, 2018, was primarily due to a decrease of $29 million in amortization of internally-developed franchise intangible assets acquired as part of our acquisition of King.
 YTD Q2 2019 vs. YTD Q2 2018
-
 The decrease in game operations and distribution costs for the six months ended June 30, 2019, as compared to the six months ended June 30, 2018, was primarily due to a decrease of $32 million in service provider fees such as digital storefront fees (e.g.
 fees retained by Apple and Google for our sales on their platforms), payment processor fees, and server bandwidth fees.
 The decrease in software royalties, amortization, and intellectual property licenses related to subscription, licensing, and other revenues for the six months ended June 30, 2019, as compared to the six months ended June 30, 2018, was primarily due to a decrease of $49 million in amortization of internally-developed franchise intangible assets acquired as part of our acquisition of King.
-Product Development (amounts in millions) 
-
-
+Product Development (amounts in millions)
 Q2 2019 vs. Q2 2018
-
 The decrease in product development costs for the three months ended June 30, 2019, as compared to the three months ended June 30, 2018, was primarily driven by lower product development costs from the Destiny franchise, the publishing rights to which we sold to Bungie in December 2018, as previously disclosed.
 YTD Q2 2019 vs. YTD Q2 2018
-
 The decrease in product development costs for the six months ended June 30, 2019, as compared to the six months ended June 30, 2018, was primarily driven by lower product development costs from the Destiny franchise.
 Sales and Marketing (amounts in millions)
-
-
 Q2 2019 vs. Q2 2018
-
 The decrease in sales and marketing expenses for the three months ended June 30, 2019, as compared to the three months ended June 30, 2018, was primarily due to a decrease of $35 million in marketing spending and personnel costs, primarily associated with lower marketing costs for the Overwatch and Destiny franchises, partially offset by higher marketing costs for the Candy Crush franchise.
 YTD Q2 2019 vs. YTD Q2 2018
-
-
-
 •a decrease of $44 million in amortization of the customer base intangible asset acquired as part of our acquisition of King, as the asset was fully amortized during the first quarter of 2018.
 General and Administrative (amounts in millions)
-
-
 Q2 2019 vs. Q2 2018
-
-
 •a $33 million decrease in personnel costs; and
-
-
 YTD Q2 2019 vs. YTD Q2 2018
-
 The decrease in general and administrative expenses for the six months ended June 30, 2019, as compared to the six months ended June 30, 2018, was primarily due to a $47 million decrease in personnel costs.
 Restructuring and related costs (amounts in millions)
-
-
 On February 12, 2019, the Company committed to a Board-authorized restructuring plan under which we are refocusing our resources on our largest opportunities and removing unnecessary levels of complexity and duplication from certain parts of our business.
 The costs incurred during the three and six months ended June 30, 2019, relate primarily to severance costs and the write-downs of assets that will no longer be used.
 Refer to Note 14 of the notes to the condensed consolidated financial statements included in Item 1 of this Quarterly Report on Form 10-Q for further discussion.
 Interest and Other Expense (Income), Net (amounts in millions)
-
-
 Q2 2019 vs. Q2 2018
-
-
 •a $38 million gain recognized as a result of adjusting a cost-method equity investment to fair value, with no comparable activity in the prior period (refer to Note 8 of the notes to the condensed consolidated financial statements included in Item 1 of this Quarterly Report on Form 10-Q); and
-
 •a $20 million decrease in interest expense and amortization of deferred financing costs associated with our debt obligations due to our lower total debt outstanding as a result of our debt redemptions and repayment activities during 2018.
 YTD Q2 2019 vs. YTD Q2 2018
-
-
 •a $38 million gain recognized as a result of adjusting a cost-method equity investment to fair value, with no comparable activity in the prior period; and
-
 •a $38 million decrease in interest expense and amortization of deferred financing costs associated with our debt obligations.
 Income Tax Expense (amounts in millions)
-
-
-
 The income tax expense of $163 million for the six months ended June 30, 2019, reflects an effective tax rate of 17%, which is higher than the effective tax rate of 7% for the six months ended June 30, 2018.
 The increase is primarily due to the factors discussed above for the three months ended June 30, 2019, as compared to the three months ended June 30, 2018.
 Further information about our income taxes is provided in Note 16 of the notes to the condensed consolidated financial statements included in Item 1 of this Quarterly Report on Form 10-Q.
 Liquidity and Capital Resources
-
 We believe our ability to generate cash flows from operating activities is one of our fundamental financial strengths.
 In the near term, we expect our business and financial condition to remain strong and to continue to generate significant operating cash flows, which, we believe, in combination with our existing balance of cash and cash equivalents and short-term investments of $4.7 billion, our access to capital, and the availability of our $1.5 billion revolving credit facility, will be sufficient to finance our operational and financing requirements for the next 12 months.
 Our primary sources of liquidity, which are available to us to fund cash outflows such as our anticipated dividend payments, share repurchases, and scheduled debt maturities, include our cash and cash equivalents, short-term investments, and cash flows provided by operating activities.
@@ -485,68 +265,46 @@ Working capital needs are impacted by weekly sales, which are generally highest 
 We consider, on a continuing basis, various transactions to increase shareholder value and enhance our business results, including acquisitions, divestitures, joint ventures, share repurchases, and other structural changes.
 These transactions may result in future cash proceeds or payments.
 Sources of Liquidity (amounts in millions)
-
-
-
 Net Cash Provided by Operating Activities
-
-
 Net cash provided by operating activities for the six months ended June 30, 2019, was $604 million, as compared to $538 million for the six months ended June 30, 2018.
 The increase was primarily due to changes in our working capital resulting from the timing of collections and payments and lower cash spent to support the Destiny franchise, the publishing rights to which we sold to Bungie in December 2018, as previously disclosed.
 This increase was partially offset by lower net income and a decrease in non-cash adjustments to net income for the six months ended June 30, 2019, as compared to the six months ended June 30, 2018.
-Net Cash Provided by (Used in) Investing Activities 
-
+Net Cash Provided by (Used in) Investing Activities
 The primary drivers of net cash flows associated with investing activities typically include capital expenditures, purchases and sales of investments, changes in restricted cash balances, and cash used for acquisitions.
 Net cash provided by investing activities for the six months ended June 30, 2019, was $37 million, as compared to net cash used in investing activities of $124 million for the six months ended June 30, 2018.
 The increase was primarily due to cash flow activities associated with available-for-sale investments, for which, in the six months ended June 30, 2019, there were $75 million of cash proceeds from the maturities of available-for-sale investments, as compared to purchases of available-for-sale investments of $59 million in the prior-year period.
 Additionally, capital expenditures of $45 million for the six months ended June 30, 2019, were lower than the capital expenditures of $61 million for the prior-year period.
-Net Cash Used in Financing Activities 
-
+Net Cash Used in Financing Activities
 The primary drivers of net cash flows associated with financing activities typically include the proceeds from, and repayments of, our long-term debt and transactions involving our common stock, including the issuance of shares of common stock to employees upon the exercise of stock options, as well as the payment of dividends.
 The increase was partially offset by lower tax payments made for net share settlements on restricted stock units of $48 million for the six months ended June 30, 2019, as compared to $68 million for the prior-year period.
 Effect of Foreign Exchange Rate Changes
-
 Changes in foreign exchange rates had a positive impact of $3 million on our cash and cash equivalents and restricted cash for the six months ended June 30, 2019, as compared to a negative impact of $19 million for the six months ended June 30, 2018.
 The change was primarily due to changes in the value of the U.S. dollar relative to the euro and the British pound.
 Debt
-
 As of June 30, 2019 and December 31, 2018, our total outstanding debt was $2.7 billion, bearing interest at a weighted average rate of 3.18%.
 Refer to Note 11 of the notes to the condensed consolidated financial statements included in Item 1 of this Quarterly Report on Form 10-Q for further disclosures regarding our debt obligations.
 Dividends
-
 On February 12, 2019, our Board of Directors declared a cash dividend of $0.37 per common share.
 On May 9, 2019, we made an aggregate cash dividend payment of $283 million to shareholders of record at the close of business on March 28, 2019.
 Capital Expenditures
-
 For the year ending December 31, 2019, we anticipate total capital expenditures of approximately $140 million, primarily for leasehold improvements, computer hardware, and software purchases.
 During the six months ended June 30, 2019, capital expenditures were $45 million.
 Off-Balance Sheet Arrangements
-
 At each of June 30, 2019 and December 31, 2018, Activision Blizzard had no significant relationships with unconsolidated entities or financial parties, often referred to as “structured finance” or “special purpose” entities, established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes, that have or are reasonably likely to have a material current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures, or capital resources.
 Critical Accounting Policies and Estimates
-
-
 •Revenue Recognition;
-
 •Income Taxes;
-
 •Allowances for Returns and Price Protection;
-
 •Software Development Costs;
-
 •Fair Value Estimates (including Business Combinations and Assessment of Impairment of Assets); and
-
 •Share-Based Payments.
 During the six months ended June 30, 2019, there were no significant changes to the above critical accounting policies and estimates.
 Refer to Management’s Discussion and Analysis of Financial Condition and Results of Operations contained in Part II, Item 7 of our Annual Report on Form 10-K for the year ended December 31, 2018, for a more complete discussion of our critical accounting policies and estimates.
 Recently Issued Accounting Pronouncements
-
 Below are recently issued accounting pronouncements that were most significant to our accounting policy activities.
 For a detailed discussion of all relevant recently issued accounting pronouncements, see Note 3 of the notes to the condensed consolidated financial statements included in Item 1 of this Quarterly Report on Form 10-Q.
 Recently Adopted Accounting Pronouncements
-
 Leases
-
 As noted in Note 2 of the notes to the condensed consolidated financial statements included in Item 1 of this Quarterly Report on Form 10-Q, we adopted the new lease accounting standard effective January 1, 2019.
 We elected to apply an optional adoption method, which uses the effective date as the initial date of application on transition with no retrospective adjustments to prior periods.
 Additionally, we elected to apply the package of transition practical expedients which permitted us to, among other things, (1) not reassess if existing contracts contained leases under the new lease accounting standard and (2) carry forward our historical lease classifications.

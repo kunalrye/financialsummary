@@ -1,7 +1,5 @@
 ITEM 2: MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
-
 Forward-Looking Statements
-
 Certain statements made in this report, as well as oral statements made by the Company from time to time, constitute forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended.
 Readers can identify these forward-looking statements by our use of the words “expects,” “anticipates,” “estimates,” “believes,” “projects,” “intends,” “plans,” “will,” “may,” “shall,” “could,” “should,” and similar words and other statements of a similar sense.
 These statements are based upon our current estimates and expectations as to prospective events and circumstances, which may or may not be in our control and as to which there can be no firm assurances given.
@@ -11,7 +9,6 @@ The foregoing list should not be construed as exhaustive and we encourage reader
 The Company cautions readers not to place undue reliance upon any such forward-looking statements, which speak only as of the date made.
 The Company disclaims any obligation to subsequently revise forward-looking statements to reflect the occurrence of anticipated or unanticipated events or circumstances after the date such statements are made.
 Executive Overview
-
 Cognex Corporation is a leading worldwide provider of machine vision products that capture and analyze visual information in order to automate tasks, primarily in manufacturing processes, where vision is required.
 In addition to product revenue derived from the sale of machine vision products, the Company also generates revenue by providing maintenance and support, consulting, and training services to its customers; however, service revenue accounted for less than 10% of total revenue for all periods presented.
 Cognex machine vision is primarily used to automate manufacturing and distribution processes in a variety of industries where the technology is widely recognized as an important component of automated production and quality assurance.
@@ -22,14 +19,12 @@ Gross margin as a percentage of revenue declined to 74% for the third quarter of
 Operating expenses in the third quarter of 2019 decreased by 3% over the third quarter of 2018 due principally to lower expenses related to incentive compensation plans.
 Operating income was 24% of revenue in the third quarter of 2019 compared to 34% of revenue in the third quarter of 2018; net income was 23% of revenue in the third quarter of 2019 compared to 35% of revenue in the third quarter of 2018; and net income per diluted share was $0.24 in the third quarter of 2019 compared to $0.45 in the third quarter of 2018.
 Results of Operations
-
 As foreign currency exchange rates are a factor in understanding period-to-period comparisons, we believe the presentation of results on a constant-currency basis in addition to reported results helps improve investors’ ability to understand our operating results and evaluate our performance in comparison to prior periods.
 We also use results on a constant-currency basis as one measure to evaluate our performance.
 Constant-currency information compares results between periods as if exchange rates had remained constant period-over-period.
 We generally refer to such amounts calculated on a constant-currency basis as excluding the impact of foreign currency exchange rate changes.
 Results on a constant-currency basis are not in accordance with accounting principles generally accepted in the United States of America (U.S. GAAP) and should be considered in addition to, and not as a substitute for, results prepared in accordance with U.S. GAAP.
 Revenue
-
 Revenue decreased by $48,896,000, or 21%, for the three-month period and decreased by $57,196,000, or 9%, for the nine-month period.
 Changes in foreign currency exchange rates did not have a material impact on revenue for either period presented.
 The decrease in revenue for both periods was driven by significantly lower revenue in the consumer electronics industry, primarily related to smartphone manufacturing.
@@ -44,24 +39,12 @@ As of the date of this report, we expect revenue for the fourth quarter of 2019 
 The sequential decrease is anticipated to come primarily from lower sales in the consumer electronics industry due to the seasonal timing of this business, while the decrease from the prior year is anticipated to come from a broad base of customers in a variety of industries, particularly in China and Europe.
 While the Company experienced strong sales in the logistics industry in the third quarter of 2019 over the prior year, we expect logistics revenue to be lower in the fourth quarter of 2019 compared to the prior year due primarily to a major customer delaying delivery of large orders for new sites.
 Gross Margin
-
 Gross margin as a percentage of revenue was 74% for both the three-month and nine-month periods in 2019 compared to 75% for the same periods in 2018.
 The decline in the gross margin percentage was due primarily to the unfavorable absorption of manufacturing overhead costs over the lower level of revenue.
 As of the date of this report, we expect gross margin as a percentage of revenue for the fourth quarter of 2019 to be relatively consistent with the gross margin reported in the third quarter of 2019.
 Operating Expenses
-
-
-
-
-
-
 Selling, General, and Administrative Expenses
-
-
-
-
 Non-operating Income (Expense)
-
 The Company recorded foreign currency losses of $1,295,000 and $1,403,000 for the three-month and nine-month periods in 2019, respectively, compared to $379,000 and $708,000 for the same periods in 2018.
 Foreign currency gains and losses result primarily from the revaluation and settlement of accounts receivable, accounts payable, and intercompany balances that are reported in one currency and collected in another.
 A higher level of foreign currency losses was recorded in the third quarter of 2019 from the revaluation of intercompany payables denominated in U.S.
@@ -72,7 +55,6 @@ The Company recorded other income of $456,000 and $1,239,000 for the three-month
 Other income (expense) includes fair value adjustments of contingent consideration liabilities arising from business acquisitions.
 A higher level of fair value adjustments to income was recorded in 2019 related to the Company's GVi acquisition resulting from a lower level of revenue in the Americas' automotive industry.
 Income Tax Expense
-
 The Company’s effective tax rate was 12% of pre-tax income for the three-month and nine-month periods in 2019, respectively, compared to 1% and 6% for the same periods in 2018.
 The effective tax rate included a decrease in tax expense of $569,000 and $4,547,000 for the three-month and nine-month periods in 2019, respectively, and $2,811,000 and $8,400,000 for the same periods in 2018 primarily from the excess tax benefit arising from the difference between the deduction for tax purposes and the compensation cost recognized for financial reporting purposes from stock option exercises.
 The Company cannot predict the level of stock option exercises by employees in future periods.
@@ -89,7 +71,6 @@ On October 16, 2019, the Company acquired Sualab, a provider of deep learning-ba
 The Company plans to migrate acquired intellectual property to certain subsidiaries in the fourth quarter of 2019.
 Management is currently evaluating the financial impact of this migration and expects to record a discrete tax expense of between $27 million and $33 million in the fourth quarter of 2019.
 Liquidity and Capital Resources
-
 The Company has historically been able to generate positive cash flow from operations, which has funded its operating activities and other cash requirements and has resulted in an accumulated cash and investment balance of $918,414,000 as of September 29, 2019.
 The Company has established guidelines relative to credit ratings, diversification, and maturities of its investments that maintain liquidity.
 The Company’s cash requirements during the nine months ended September 29, 2019 were primarily met with positive cash flows from operations.
@@ -109,5 +90,6 @@ As of September 29, 2019, the Company had $918,414,000 in cash and investments.
 In addition, the Company has no long-term debt and does not anticipate needing debt financing in the near future.
 We believe that our strong cash position has put us in a relatively good position with respect to our longer-term liquidity needs.
 New Pronouncements
-
 Refer to Part I - Note 2 within this Form 10-Q, for a full description of recently issued accounting pronouncements including the expected dates of adoption and the expected impact on the financial position and results of operations of the Company.
+ITEM 2.
+UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS

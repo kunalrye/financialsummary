@@ -1,9 +1,4 @@
-Part I -- FINANCIAL INFORMATION
-
-Management’s Discussion and Analysis of Financial Condition and Results of Operations
-
-CERTAIN FORWARD-LOOKING INFORMATION: 
-
+CERTAIN FORWARD-LOOKING INFORMATION:
 This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 ("Securities Act") and Section 21E of the Securities Exchange Act of 1934 ("Exchange Act").
 Forward-looking statements may generally be identified by the use of such words as "anticipate," "believe," “could,” "expect," "intend," “may,” "plan," "potential," "shall," "will," “would,” or variations of such words and similar expressions, or the negative of these terms.
 Specific forward-looking statements contained within this Form 10-Q include, but are not limited to, statements regarding (i) our beliefs regarding the Enterprise market, market dynamics and customer behavior as well as our position in the market, (ii) our beliefs regarding the Consumer market, our new product introductions and the expected effect of such introductions, (iii) our belief that our "as-a-service" offerings will benefit our growth long-term but their contribution will not be material in the near term, (iv) our intention to provide customer data insight through software and service solutions, (v) the Unified Communications ("UC") market, including adoption of UC products, our position, and timing and growth expectations in this market, (vi) our plans regarding our "as a service" offerings including sales and marketing efforts, (vii) our intentions regarding investments in long-term growth opportunities and our core research and development efforts, in particular in the UC market, (viii) our intentions regarding the focus of our sales, marketing and customer services and support teams on UC, (ix) the future of UC technologies, including the transition of businesses to UC-supported systems and the effects on headset adoption and use, enterprises that adopt UC and our revenue opportunity and profit growth, (x) our expenses, including research, development and engineering expenses and selling, general and administrative expenses, (xi) fluctuations in our cash provided by operating activities as a result of various factors, including fluctuations in revenues and operating expenses, timing of product shipments, accounts receivable collections, inventory and supply chain management, and the timing and amount of taxes and other payments, (xii) our future tax rate and payments related to unrecognized tax benefits, (xiii) our anticipated range of capital expenditures for the remainder of Fiscal Year 2018 and the sufficiency of our cash, cash equivalents, and cash from operations to sustain future operations and discretionary cash requirements, (xiv) our ability to pay future stockholder dividends, (xv) our ability to draw funds on our credit facility as needed, (xvi) the sufficiency of our capital resources to fund operations, and other statements regarding our future operations, financial condition and prospects, and business strategies.
@@ -12,41 +7,12 @@ Factors that could cause actual results and events to differ materially from suc
 Risk Factors" of our Annual Report on Form 10-K for the fiscal year ended March 31, 2018, filed with the Securities and Exchange Commission (“SEC”) on May 9, 2018; and other documents we have filed with the SEC.
 We undertake no obligation to update or revise publicly any forward-looking statements, whether as a result of new information, future events, or otherwise, except as required by applicable law.
 Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements.
-OVERVIEW
-
-
-
-
-We sell our products through a high touch sales team and well developed global network of distributors and channel partners including Value-added Resellers (VARs), integrators, direct marketing resellers (DMRs), service providers, resellers, and retailers.
-Our consolidated financial results for the three and six months ended September 30, 2018 includes the financial results of Polycom from July 2, 2018, the date of acquisition.
-For more information regarding the acquisition, refer to Note 3, Acquisition, Goodwill, and Acquired Intangible Assets, of the accompanying notes to condensed consolidated financial statements.
-Total Net Revenues (in millions) Operating Income (Loss) (in millions) 
-
-Compared to the second quarter of Fiscal Year 2018 total net revenues increased 130% to $483.1 million; the increase in total net revenues is primarily related to the Acquisition.
-Voice and Video product net revenues were $207.2 million, net of fair value adjustments to deferred revenue of $3.4 million; Services net revenues were $47.8 million, net of fair value adjustments to deferred revenue of $33.1 million.
-Consumer headsets net revenues increased $10.7 million, or 22.5% from the year ago quarter and Enterprise headset net revenues increased $7.1 million, or 4.3%.
-We reported a net loss of $(86.7) million and an operating loss of $(86.0) million for the second quarter of Fiscal Year 2019, representing a decrease of (535)% and (385)% respectively.
-The decrease is primarily due to the Acquisition and the related acquisition and integration costs incurred during the second quarter of Fiscal Year 2019.
-Refer to Note 3, Acquisition, Goodwill, and Acquired Intangible Assets, in the accompanying footnotes to the condensed consolidated financial statements.
-Revenues from our Consumer headset products channel are seasonal and typically strongest in our third fiscal quarter, which includes the majority of the holiday shopping season.
-Additionally, other factors directly impact our Consumer product category performance, such as product life cycles (including the introduction and pace of adoption of new technology), the market acceptance of new product introductions, consumer preferences and the competitive retail environment, changes in consumer confidence and other macroeconomic factors.
-While sales in the mobile headset market continues to decline, we believe future growth opportunities exist in gaming headsets primarily due to growth trends in the console gaming market.
+We believe that our current cash and cash equivalents, cash provided by operations, and the availability of additional funds under the Credit Agreement will be sufficient to fund operations for at least the next 12 months; however, any projections of future financial needs and sources of working capital are subject to uncertainty.
 Readers are cautioned to review the risks, uncertainties, and assumptions set forth in this Quarterly Report on Form 10-Q, including the section entitled "Certain Forward-Looking Information" and the risk factors set forth in our Annual Report on Form 10-K for the fiscal year ended March 31, 2018, filed with the SEC on May 9, 2018, and other periodic filings with the SEC, any of which could affect our estimates for future financial needs and sources of working capital.
-OFF BALANCE SHEET ARRANGEMENTS AND CONTRACTUAL OBLIGATIONS
-
-We have not entered into any transactions with unconsolidated entities whereby we have financial guarantees, subordinated retained interests, derivative instruments, or other contingent arrangements that expose us to material continuing risks, contingent liabilities, or any other obligation under a variable interest in an unconsolidated entity that provides us with financing and liquidity support, market risk, or credit risk support.
+In June 2016, the FASB issued guidance regarding the measurement of credit losses on financial instruments, which changes the impairment model for most financial assets.
 The new model uses a forward-looking expected loss method, which will generally result in earlier recognition of allowances for losses.
 The guidance is effective for the Company's fiscal year ending March 31, 2021 with early adoption permitted beginning in the first quarter of Fiscal Year 2020.
 The Company is currently evaluating the impact the adoption of this standard will have on its consolidated financial statements and related disclosures.
-In August 2018, the FASB issued guidance which amended the disclosure requirements on fair value measurements under Topic 820, Fair Value Measurement for recurring or nonrecurring fair value measurements.
-The guidance is effective for the Company's fiscal year ending March 31, 2020 and interim periods within that year, the Company is currently evaluating the impact on its consolidated financial statements and related disclosures.
-In August 2018, the FASB issued guidance on the accounting for costs of implementation activities performed in a cloud computing arrangement that is a service contract.
-The guidance is effective for the Company's fiscal year ending March 31, 2021, and the Company is currently evaluating the impact on its consolidated financial statements and related disclosures.
-Recently Adopted Pronouncement
-
-Except for the changes below, the Company has consistently applied the accounting policies to all periods presented in these consolidated financial statements.
-The Company adopted Topic 606 Revenue from Contracts with Customers to all contracts not completed as of the initial application date of April 1, 2018.
-Topic 606 also includes Subtopic 340-40, Other Assets and Deferred Costs - Contracts with Customers, which requires the deferral of incremental costs of obtaining a contract with a customer.
-Quantitative and Qualitative Disclosures About Market Risk
-
 The discussion of our exposure to market risk related to changes in interest rates and foreign currency exchange rates contains forward-looking statements that are subject to risks and uncertainties.
+Actual results could vary materially as a result of a number of factors including those discussed in Part I, "Item 1A.
+Risk Factors" in our Annual Report on Form 10-K for the fiscal year ended March 31, 2018, filed with the SEC on May 9, 2018.

@@ -1,8 +1,6 @@
 Item 2.
 Management’s Discussion and Analysis of Financial Condition and Results of Operations
-
 FORWARD LOOKING STATEMENTS
-
 Statements contained in this report that are not statements of historical fact should be considered forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 (the “PSLRA”).
 In addition, certain statements in our future filings with the Securities and Exchange Commission (“SEC”), in press releases, and in oral and written statements made by us or with our approval that are not statements of historical fact constitute forward-looking statements within the meaning of the PSLRA.
 Examples of forward-looking statements include, but are not limited to: (i) projections of revenue, income or loss, expenses, earnings or loss per share, the payment or nonpayment of dividends, capital structure and other statements concerning future financial performance; (ii) statements of our plans and objectives by our management or Board of Directors, including those relating to products or services, research and development, and the sufficiency of capital resources; (iii) statements of assumptions underlying such statements, including those related to economic conditions; (iv) statements regarding business relationships with vendors, customers or collaborators, including the proportion of revenues generated from international as opposed to domestic customers; and (v) statements regarding products, their characteristics, performance, sales potential or effect in the hands of customers.
@@ -15,7 +13,6 @@ Therefore, you should consider these risk factors with caution and form your own
 Such forward-looking statements speak only as of the date on which statements are made, and we undertake no obligation to update any forward-looking statement to reflect events or circumstances after the date on which such statement is made to reflect the occurrence of unanticipated events or circumstances.
 Readers should carefully review the disclosures and the risk factors described in this and other documents we file from time to time with the SEC, including our Current Reports on Form 8-K to be filed by us in fiscal 2019.
 OVERVIEW
-
 We use analytics to help businesses automate, improve and connect decisions across their enterprise — an approach we commonly refer to as decision management.
 Our predictive analytics, which includes the industry-standard FICO® Score, and our decision management systems leverage the use of big data and mathematical algorithms to predict, categorize, and describe consumer behavior in order to power hundreds of billions of customer decisions each year.
 We help thousands of companies in over 100 countries use our decision management technology to target and acquire customers more efficiently, increase customer value, detect and reduce fraud and credit losses, lower operating expenses, and enter new markets more profitably.
@@ -41,7 +38,6 @@ We continue to enhance stockholder value by returning cash to stockholders throu
 During the quarter and nine months ended June 30, 2019, we repurchased approximately 0.2 million shares at a total repurchase price of $59.2 million and 0.8 million shares at a total repurchase price of $178.9 million, respectively.
 As of June 30, 2019, we had $20.3 million remaining under our then-current stock repurchase program.
 Bookings
-
 Management uses bookings as an indicator of our business performance.
 Bookings represent contracts signed in the current reporting period that generate current and future revenue streams.
 We consider contract terms, knowledge of the marketplace and experience with our customers, among other factors, when determining the estimated value of contract bookings.
@@ -52,29 +48,18 @@ Our estimate of bookings is as of the end of the period in which a contract is s
 Actual revenue and the timing thereof could differ materially from our initial estimates.
 The following paragraphs discuss the key assumptions used to calculate bookings and the susceptibility of these assumptions to variability.
 Transactional and Maintenance Bookings
-
-
 •The health of the economy and economic trends in our customers’ industries;
-
 •Individual performance of our customers relative to their competitors; and
-
 •Regulatory and other factors that affect the business environment in which our customers operate.
 We calculate maintenance bookings directly from the terms stated in the contract.
 Professional Services Bookings
-
 We calculate professional services bookings as the estimated number of hours to complete a project multiplied by the rate per hour.
 We estimate the number of hours based on our understanding of the project scope, conversations with customer personnel and our experience in estimating professional services projects.
 Estimated bookings may differ from actual results primarily due to differences in the actual number of hours incurred.
 These differences typically result from customer decisions to alter the mix of FICO and customer services resources used to complete a project.
 License Bookings
-
 Licenses are sold on a perpetual or term basis and bookings generally equal the fixed amount stated in the contract.
 Bookings Trend Analysis
-
-
-
-
-
 Transactional and maintenance bookings were 48% and 43% of total bookings for the quarters ended June 30, 2019 and 2018, respectively.
 Professional services bookings were 37% and 46% of total bookings for the quarters ended June 30, 2019 and 2018, respectively.
 License bookings were 15% and 11% of total bookings for the quarters ended June 30, 2019 and 2018, respectively.
@@ -82,56 +67,37 @@ Transactional and maintenance bookings were 46% and 41% of total bookings for th
 Professional services bookings were 40% and 47% of total bookings for the nine months ended June 30, 2019 and 2018, respectively.
 License bookings were 14% and 12% of total bookings for the nine months ended June 30, 2019 and 2018, respectively.
 RESULTS OF OPERATIONS
-
 Revenues
-
-
-
-Quarter Ended June 30, 2019 Compared to Quarter Ended June 30, 2018 
-
+Quarter Ended June 30, 2019 Compared to Quarter Ended June 30, 2018
 Applications
-
-
 Applications segment revenues increased $27.0 million primarily due to a $28.5 million increase in our fraud solutions and a $3.3 million increase in our customer communication services, partially offset by a $5.3 million decrease in our customer management solutions.
 The increase in fraud solutions was primarily attributable to an increase in license and transactional revenues.
 The increase in customer communication services was primarily attributable to an increase in transactional revenue as a result of our continued growth in the mobile communication market.
 The decrease in customer management solutions was primarily attributable to a decrease in license revenue.
 Scores
-
-
 Scores segment revenues increased $24.3 million due to an increase of $22.1 million in our business-to-business scores revenue and $2.2 million in our business-to-consumer services revenue.
 The increase in business-to-business scores was primarily attributable to a higher unit price in auto activities.
 The increase in business-to-consumer services was primarily attributable to an increase in royalties derived from scores sold indirectly to consumers through credit reporting agencies.
 During the quarters ended June 30, 2019 and 2018, revenues generated from our agreements with Experian accounted for 13% and 12%, respectively, of our total revenues, and revenues generated from our agreements with Equifax and TransUnion together accounted for 16% and 15%, respectively, of our total revenues.
 Revenues from these customers included amounts recorded in our other segments.
 Decision Management Software
-
-
 Decision Management Software segment revenues increased $8.0 million primarily attributable to an increase in both of our license sales and SaaS subscription revenue.
-Nine Months Ended June 30, 2019 Compared to Nine Months Ended June 30, 2018 
-
+Nine Months Ended June 30, 2019 Compared to Nine Months Ended June 30, 2018
 Applications
-
-
 Applications segment revenues increased $29.8 million primarily due to a $38.4 million increase in our fraud solutions and a $5.9 million increase in our customer communication services, partially offset by a $9.1 million decrease in our originations solutions and a $5.2 million decrease in our customer management solutions.
 The increase in fraud solutions was primarily attributable to an increase in license and transactional revenues.
 The increase in customer communication services was primarily attributable to an increase in transactional revenue as a result of our continued growth in the mobile communication market.
 The decrease in our originations solutions was primarily attributable to a decrease in services and transactional revenues.
 The decrease in customer management solutions was primarily attributable to a decrease in license and services revenues.
 Scores
-
-
 Scores segment revenues increased $58.9 million due to an increase of $52.9 million in our business-to-business scores revenue and $6.0 million in our business-to-consumer services revenue.
 The increase in business-to-business scores was primarily attributable to a higher unit price in mortgage and auto activities.
 The increase in business-to-consumer services was primarily attributable to an increase in royalties derived from scores sold indirectly to consumers through credit reporting agencies.
 During the nine months ended June 30, 2019 and 2018, revenues generated from our agreements with Experian accounted for 13% and 11%, respectively, of our total revenues, and revenues generated from our agreements with Equifax and TransUnion together accounted for 13% and 14%, respectively, of our total revenues.
 Revenues from these customers included amounts recorded in our other segments.
 Decision Management Software
-
-
 Decision Management Software segment revenues increased $22.5 million primarily attributable to an increase in both of our license sales and SaaS subscription revenue, as well as an increase in services revenues related to our Decision Management Platform product.
 Cost of Revenues
-
 Cost of revenues consists primarily of employee salaries and benefits for personnel directly involved in developing, installing and supporting revenue products; travel costs; overhead costs; outside services; internal network hosting costs; software royalty fees; and credit bureau data and processing services.
 The quarter over quarter increase in cost of revenue expenses of $8.2 million was primarily attributable to an increase in personnel and labor costs as a result of increased headcount.
 Cost of revenues as a percentage of revenues decreased to 28% during the quarter ended June 30, 2019 from 31% during the quarter ended June 30, 2018 primarily due to increased sales of our high-margin Scores and software products.
@@ -139,7 +105,6 @@ The year-to-date period over period increase in cost of revenue expenses of $15.
 Cost of revenues as a percentage of revenues decreased to 29% during the nine months ended June 30, 2019 from 31% during the nine months ended June 30, 2018 primarily due to increased sales of our high-margin Scores and software products.
 Over the next several quarters, we expect cost of revenues as a percentage of revenues will be slightly higher than that incurred during the quarter ended June 30, 2019.
 Research and Development
-
 Research and development expenses include personnel and related overhead costs incurred in the development of new products and services, including research of mathematical and statistical models and development of new versions of Applications and Decision Management Software products.
 The quarter over quarter increase in research and development expenses of $4.5 million was primarily attributable to an increase in labor and personnel costs.
 Research and development expenses as a percentage of revenues decreased to 12% during the quarter ended June 30, 2019 from 13% during the quarter ended June 30, 2018 primarily due to increased sales of our high-margin Scores and software products.
@@ -147,7 +112,6 @@ The year-to-date period over period increase in research and development expense
 Research and development expenses as a percentage of revenues was 13% during the nine months ended June 30, 2019, consistent with that incurred during the nine months ended June 30, 2018.
 Over the next several quarters, we expect research and development expenditures as a percentage of revenues will be slightly higher than that incurred during the quarter ended June 30, 2019.
 Selling, General and Administrative
-
 Selling, general and administrative expenses consist principally of employee salaries, commissions and benefits; travel costs; overhead costs; advertising and other promotional expenses; corporate facilities expenses; legal expenses; business development expenses and the cost of operating computer systems.
 The quarter over quarter increase in selling, general and administrative expenses of $5.5 million was primarily attributable to an increase in personnel and labor costs as a result of increased headcount.
 Selling, general and administrative expenses as a percentage of revenues decreased to 33% during the quarter ended June 30, 2019 from 38% during the quarter ended June 30, 2018 primarily due to increased sales of our high-margin Scores and software products.
@@ -155,38 +119,23 @@ The year-to-date period over period increase in selling, general and administrat
 Selling, general and administrative expenses as a percentage of revenues decreased to 36% during the nine months ended June 30, 2019 from 38% during the nine months ended June 30, 2018 primarily due to increased sales of our high-margin Scores and software products.
 Over the next several quarters, we expect selling, general and administrative expenses as a percentage of revenues will be slightly higher than that incurred during the quarter ended June 30, 2019.
 Amortization of Intangible Assets
-
 Amortization of intangible assets consists of amortization expense related to intangible assets recorded in connection with acquisitions accounted for by the acquisition method of accounting.
 Our finite-lived intangible assets, consisting primarily of completed technology and customer contracts and relationships, are being amortized using the straight-line method over periods ranging from four to fifteen years.
 Amortization expense was $1.4 million during the quarter ended June 30, 2019 versus $1.6 million during the quarter ended June 30, 2018.
 Amortization expense was $4.5 million during the nine months ended June 30, 2019 versus $5.0 million during the nine months ended June 30, 2018.
 Over the next several quarters, we expect that amortization expense will be consistent with the amortization expense we recorded during the quarter ended June 30, 2019.
 Interest Expense, Net
-
 Interest expense includes primarily interest on the senior notes issued in May 2008, July 2010 and May 2018, as well as interest and credit facility fees on the revolving line of credit.
 Our consolidated statements of income and comprehensive income include interest expense netted with interest income, which is derived primarily from the investment of funds in excess of our immediate operating requirements.
 The quarter over quarter increase in interest expense of $1.9 million was primarily attributable to a higher average outstanding debt balance during the quarter ended June 30, 2019, as well as a higher average interest rate on our 2018 Senior Notes compared to that on our revolving line of credit.
 The year-to-date period over period increase in interest expense of $8.0 million was primarily attributable to a higher average outstanding debt balance during the nine months ended June 30, 2019, as well as a higher average interest rate on our 2018 Senior Notes compared to that on our revolving line of credit.
 Over the next several quarters, we expect net interest expense will be consistent with the net interest expense incurred during the quarter ended June 30, 2019.
 Other Income, Net
-
-
 Provision for Income Taxes
-
-
 Operating Income
-
-
-
 Applications
-
-
-Scores 
-
-
-Decision Management Software 
-
-
+Scores
+Decision Management Software
 The quarter over quarter $41.2 million increase in operating income was attributable to a $59.3 million increase in segment revenues and a $0.1 million decrease in amortization cost, partially offset by a $13.5 million increase in segment operating expenses, a $4.0 million increase in corporate expenses and a $0.7 million increase in share-based compensation cost.
 At the segment level, the quarter over quarter $41.8 million increase in segment operating income was the result of a $24.8 million increase in our Scores segment operating income, a $20.3 million increase in our Applications segment operating income and a $0.7 million decrease in our Decision Management Software segment operating loss, partially offset by a $4.0 million increase in corporate expense.
 The quarter over quarter $20.3 million increase in Applications segment operating income was due to a $27.0 million increase in segment revenue, partially offset by a $6.7 million increase in segment operating expenses.
@@ -204,9 +153,7 @@ Segment operating income as a percentage of segment revenue for Scores increased
 The year-to-date period over period $1.2 million increase in Decision Management Software segment operating loss was attributable to a $23.6 million increase in segment operating expenses, partially offset by a $22.4 million increase in segment revenue.
 Segment operating loss as a percentage of segment revenue for Decision Management Software improved to a negative 29% from a negative 37% primarily due to an increase in sales of our higher-margin software products, partially offset by our continued investment in cloud infrastructure operations and new products.
 CAPITAL RESOURCES AND LIQUIDITY
-
 Outlook
-
 As of June 30, 2019, we had $78.8 million in cash and cash equivalents, which included $61.8 million held off-shore by our foreign subsidiaries.
 We believe these balances, as well as available borrowings from our $400 million revolving line of credit and anticipated cash flows from operating activities, will be sufficient to fund our working and other capital requirements as well as the $28.0 million principal payment due in July 2019 on our senior notes issued in July 2010.
 Under our current financing arrangements, we have no other significant debt obligations maturing over the next twelve months.
@@ -216,34 +163,25 @@ We may elect to use available cash and cash equivalents to fund such activities 
 In the event additional needs for cash arise, or if we refinance our existing debt, we may raise additional funds from a combination of sources, including the potential issuance of debt or equity securities.
 Additional financing might not be available on terms favorable to us, or at all.
 If adequate funds were not available or were not available on acceptable terms, our ability to take advantage of unanticipated opportunities or respond to competitive pressures could be limited.
-Summary of Cash Flows 
-
-
+Summary of Cash Flows
 Cash Flows from Operating Activities
-
 Our primary method for funding operations and growth has been through cash flows generated from operating activities.
 Net cash provided by operating activities increased to $164.9 million during the nine months ended June 30, 2019 from $163.1 million during the nine months ended June 30, 2018.
 The $1.8 million increase was attributable to a $43.8 million increase in net income and a $13.8 million increase in non-cash items, including a $7.3 million increase in non-cash share-based compensation expense, partially offset by a $55.8 million decrease that resulted from timing of receipts and payments in our ordinary course of business.
 Cash Flows from Investing Activities
-
 Net cash used in investing activities decreased to $20.8 million for the nine months ended June 30, 2019 from $26.7 million for the nine months ended June 30, 2018.
 The $5.9 million decrease was primarily attributable to a decrease in purchases of property and equipment.
 Cash Flows from Financing Activities
-
 Net cash used in financing activities increased to $156.1 million for the nine months ended June 30, 2019 from $117.8 million for the nine months ended June 30, 2018.
 The $38.3 million increase was primarily attributable to a $269.0 million decrease in proceeds, net of payments, from our senior notes, partially offset by a $167.0 million decrease in payments, net of proceeds, from our revolving line of credit, a $50.6 million decrease in repurchases of common stock and a $13.6 million increase in proceeds from issuance of treasury stock under employee stock plans.
 Repurchases of Common Stock
-
 In July 2018, our Board of Directors approved a stock repurchase program following the completion of our previous program.
 This program was open-ended and authorized repurchases of shares of our common stock up to an aggregate cost of $250.0 million in the open market or in negotiated transactions.
 Pursuant to the July 2018 program, we repurchased 205,182 shares of our common stock at a total repurchase price of $59.2 million and 780,182 shares of our common stock at a total repurchase price of $178.9 million during the quarter and nine months ended June 30, 2019, respectively.
 In July 2019, our Board of Directors approved a new stock repurchase program following the completion of the July 2018 program.
 The new program is open-ended and authorizes repurchases of shares of our common stock up to an aggregate cost of $250.0 million in the open market or in negotiated transactions.
 Revolving Line of Credit
-
-
 Senior Notes
-
 On July 14, 2010, we issued $245 million of senior notes in a private placement to a group of institutional investors (the “2010 Senior Notes”).
 The 2010 Senior Notes were issued in four series with maturities ranging from 6 to 10 years.
 The outstanding 2010 Senior Notes’ weighted average interest rate is 5.6% and the weighted average maturity is 9.8 years.
@@ -253,21 +191,17 @@ The 2018 Senior Notes require interest payments semi-annually at a rate of 5.25%
 The purchase agreements for the 2010 Senior Notes and the indenture for the 2018 Senior Notes contain certain covenants typical of unsecured obligations.
 As of June 30, 2019, the carrying value of the Senior Notes was $513.0 million and we were in compliance with all financial covenants under these obligations.
 Off-Balance Sheet Arrangements
-
 We do not have any off-balance sheet arrangements that have or are reasonably likely to have a current or future material effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures, or capital resources.
 CRITICAL ACCOUNTING POLICIES AND ESTIMATES
-
 We prepare our consolidated financial statements in conformity with U.S. generally accepted accounting principles.
 These accounting principles require management to make certain judgments and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities as of the date of the financial statements, and the reported amounts of revenues and expenses during the reporting period.
 We periodically evaluate our estimates including those relating to revenue recognition, goodwill and other intangible assets resulting from business acquisitions, share-based compensation, income taxes and contingencies and litigation.
 We base our estimates on historical experience and various other assumptions that we believe to be reasonable based on the specific circumstances, the results of which form the basis for making judgments about the carrying value of certain assets and liabilities that are not readily apparent from other sources.
 Actual results may differ from these estimates.
 Revenue Recognition
-
 Revenue is recognized when control of the promised goods or services is transferred to our customers in an amount that reflects the consideration to which we expect to be entitled to in exchange for those goods or services.
 See Note 8 to the accompanying condensed consolidated financial statements for further discussion on revenues.
 Business Combinations
-
 Accounting for our acquisitions requires us to recognize, separately from goodwill, the assets acquired and the liabilities assumed at their acquisition-date fair values.
 Goodwill as of the acquisition date is measured as the excess of consideration transferred and the net of the acquisition-date fair values of the assets acquired and the liabilities assumed.
 While we use our best estimates and assumptions to accurately value assets acquired and liabilities assumed at the acquisition date, our estimates are inherently uncertain and subject to refinement.
@@ -279,8 +213,6 @@ Subsequent to the measurement period or our final determination of the tax allow
 Historically, there have been no significant changes in our valuation allowances or uncertain tax positions as it relates to business combinations.
 We do not believe there is a reasonable likelihood there will be a material change in the future estimates.
 Goodwill, Acquisition Intangibles and Other Long-Lived Assets - Impairment Assessment
-
-
 For fiscal 2018, we performed a step zero qualitative analysis for our annual assessment of goodwill impairment.
 After evaluating and weighing all relevant events and circumstances, we concluded that it is not more likely than not that the fair value of any of our reporting units was less than their carrying amounts.
 Consequently, we did not perform a step one quantitative analysis and determined goodwill was not impaired for any of our reporting units for fiscal 2018.
@@ -296,7 +228,6 @@ Historically, there have been no significant changes in our estimates or assumpt
 We believe our projected operating results and cash flows would need to be significantly less favorable to have a material impact on our impairment assessment.
 However, based upon our historical experience with operations, we do not believe there is a reasonable likelihood of a significant change in our projections.
 Share-Based Compensation
-
 We measure stock-based compensation cost at the grant date based on the fair value of the award and recognize it as expense, net of estimated forfeitures, over the vesting or service period, as applicable, of the stock award (generally three to four years).
 We use the Black-Scholes valuation model to determine the fair value of our stock options and the Monte Carlo valuation model to determine the fair value of our market share units.
 Our valuation models and generally accepted valuation techniques require us to make assumptions and to apply judgment to determine the fair value of our awards.
@@ -304,7 +235,6 @@ These assumptions and judgments include estimating the volatility of our stock p
 Historically, there have been no material changes in our estimates or assumptions.
 We do not believe there is a reasonable likelihood there will be a material change in the future estimates or assumptions.
 Income Taxes
-
 We estimate our income taxes based on the various jurisdictions where we conduct business, which involves significant judgment in determining our income tax provision.
 We estimate our current tax liability using currently enacted tax rates and laws and assess temporary differences that result from differing treatments of certain items for tax and accounting purposes.
 These differences result in deferred tax assets and liabilities recorded on our consolidated balance sheets using the currently enacted tax rates and laws that will apply to taxable income for the years in which those tax assets are expected to be realized or settled.
@@ -332,7 +262,6 @@ Changes in the recognition or measurement of uncertain tax positions could resul
 Historically, settlements related to our unrecognized tax benefits have been minimal.
 A description of our accounting policies associated with tax-related contingencies and valuation allowances assumed as part of a business combination is provided under “Business Combinations” above.
 Contingencies and Litigation
-
 We are subject to various proceedings, lawsuits and claims relating to products and services, technology, labor, stockholder and other matters.
 We are required to assess the likelihood of any adverse outcomes and the potential range of probable losses in these matters.
 If the potential loss is considered probable and the amount can be reasonably estimated, we accrue a liability for the estimated loss.
@@ -344,10 +273,7 @@ Revisions in the estimates of the potential liabilities could have a material im
 Historically, there have been no material changes in our estimates or assumptions.
 We do not believe there is a reasonable likelihood there will be a material change in the future estimates.
 New Accounting Pronouncements
-
 Recently Adopted Accounting Pronouncements
-
-
 We adopted ASU 2014-09 in the first quarter of our fiscal 2019 using the full retrospective method which required us to adjust each prior reporting period presented.
 This adoption primarily affected timing of revenue recognition of license revenue on term licenses and transactional revenue on guaranteed minimum fees related to our on-premises software products.
 Under the new standard, we recognize revenue when control of the license is transferred to the customer, rather than at the date payments become due and payable when there are extended payment terms, or ratably over the term of the contract as required under the previous standard.
@@ -358,35 +284,7 @@ Following the adoption of ASU 2014-09, the revenue recognition for our other sal
 Upon adoption of ASU 2014-09, we applied the standard’s practical expedients that permit the omission of prior-period information about our performance obligations.
 See Note 1 to the accompanying condensed consolidated financial statements for further discussion on the impact of the standard adoption on our previously reported results.
 Recent Accounting Pronouncements Not Yet Adopted
-
-
-
 We do not expect that any other recently issued accounting pronouncements will have a significant effect on our financial statements.
 Item 2.
 Unregistered Sales of Equity Securities and Use of Proceeds
-
-Issuer Purchases of Equity Securities 
-
-
-
-
-Item 3.
-Defaults Upon Senior Securities
-
-Not applicable.
-Item 4.
-Mine Safety Disclosures
-
-Not applicable.
-Item 5.
-Other Information
-
-Not applicable.
-Item 6.
-Exhibits 
-
-
-
-SIGNATURES
-
-Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+Issuer Purchases of Equity Securities

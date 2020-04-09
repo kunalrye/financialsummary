@@ -1,7 +1,5 @@
 ITEM 2.MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
-
 SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
-
 This report contains certain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934.
 All statements other than statements of historical fact may be forward-looking statements.
 You can identify these and other forward-looking statements by the use of words such as “may,” “will,” “could,” “would,” “should,” “expects,” “plans,” “anticipates,” “relies,” “believes,” “estimates,” “predicts,” “intends,” “potential,” “continue,” “thinks,” “seeks,” or the negative of such terms, or other comparable terminology.
@@ -12,7 +10,6 @@ Factors that might cause or contribute to such differences include, but are not 
 You should carefully review these risks and also review the risks described in other documents we file from time to time with the Securities and Exchange Commission.
 You are cautioned not to place undue reliance on these forward-looking statements, and we expressly assume no obligation and do not intend to update the forward-looking statements in this report after the date hereof.
 EXECUTIVE SUMMARY
-
 We are a leading supplier of process control and yield management solutions for the semiconductor and related nanoelectronics industries.
 Our broad portfolio of inspection and metrology products, and related service, software and other offerings primarily supports integrated circuit (“IC” or “chip”) manufacturers throughout the entire semiconductor fabrication process, from research and development to final volume production.
 We provide leading edge equipment, software and support that enable IC manufacturers to identify, resolve and manage significant advanced technology manufacturing process challenges and obtain higher finished product yields at lower overall cost.
@@ -42,7 +39,6 @@ In contrast to the memory business, capital equipment spending by foundry and lo
 We have already seen our mix of business begin to shift toward increased purchases by logic and foundry customers as a percentage of total sales, and we expect spending from these customers to continue to remain strong.
 Because of a more diversified semiconductor device-end demand, and disciplined capacity planning by wafer fab equipment customers, we believe the long-term growth dynamics for the industry remain strong.
 Proposed Merger with Orbotech, Ltd.
-
 On March 18, 2018, we entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Orbotech, Ltd. (“Orbotech”) pursuant to which we would acquire Orbotech for $38.86 in cash and 0.25 of a share of our common stock in exchange for each ordinary share of Orbotech, which at the time of announcement valued Orbotech at $3.2 billion in enterprise value.
 The merger contemplated by the Merger Agreement (the “Orbotech Merger”) is subject to receipt of required regulatory approvals and satisfaction of the other customary closing conditions.
 KLA continues to have advanced discussions with the State Administration for Market Regulation of the People’s Republic of China (SAMR) regarding clearance of the proposed merger with a goal of obtaining clearance as soon as practicable in 2019.
@@ -52,7 +48,6 @@ The share repurchase program is targeted to be completed within 12 to 18 months 
 We intend to raise approximately $1 billion in new long-term debt financing to complete the share repurchase program.
 For additional details, refer to Note 10, “Stock Repurchase Program.” to the condensed consolidated financial statements.
 CRITICAL ACCOUNTING ESTIMATES AND POLICIES
-
 The preparation of our condensed consolidated financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions in applying our accounting policies that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities.
 We base these estimates and assumptions on historical experience and evaluate them on an ongoing basis to ensure that they remain reasonable under current conditions.
 Actual results could differ from those estimates.
@@ -62,36 +57,25 @@ There have been no other material changes in our critical accounting estimates a
 Refer to Note 1 “Basis of Presentation” to the condensed consolidated financial statements for additional details.
 In addition, please refer to Management’s Discussion and Analysis of Financial Condition and Results of Operations contained in Part II, Item 7 of our Annual Report on Form 10-K for our fiscal year ended June 30, 2018 for a more complete discussion of our critical accounting policies and estimates.
 Recent Accounting Pronouncements
-
 For a description of recent accounting pronouncements, including those recently adopted and the expected dates of adoption as well as estimated effects, if any, on our condensed consolidated financial statements of those not yet adopted, see Note 1, “Basis of Presentation” to the condensed consolidated financial statements for additional details.
 RESULTS OF OPERATIONS
-
 On July 1, 2018, we adopted ASC 606 using the modified retrospective transition approach.
 Results for reporting periods beginning after July 1, 2018 are presented under the ASC 606, while prior period amounts are presented under legacy guidance.
 For additional details, refer to Note 2 “Revenue” to the condensed consolidated financial statements.
 Revenues and Gross Margin
-
-
-
 Product revenues
-
 Our business is affected by the concentration of our customer base and our customers’ capital equipment procurement patterns as a result of their investment plans.
 Our product revenues in any particular period are significantly impacted by the amount of new orders that we receive during that period and, depending upon the duration of manufacturing and installation cycles, in the preceding period.
 Product revenue increased during the three months ended December 31, 2018 compared to the three months ended September 30, 2018 and December 31, 2017, primarily due to a strong demand from our customers in the memory business resulting in the increased next generation and capacity-related investments.
 Product revenues increased during the six months ended December 31, 2018 compared to the six months ended December 31, 2017, primarily due to a strong demand from our customers in the memory and wafer inspection businesses resulting in the increased next generation and capacity-related investments, and a favorable impact from the adoption of ASC 606 due to our assessment of timing of transfer of control.
 Service revenues
-
 Service revenues are generated from product maintenance and support services, as well as billable time and material service calls made to our customers.
 The amount of our service revenues is typically a function of the number of systems installed at our customers’ sites and the utilization of those systems, but it is also impacted by other factors, such as our rate of service contract renewals, the types of systems being serviced and fluctuations in foreign exchange rates.
 Service revenues during the three months ended December 31, 2018 increased compared to the three months ended September 30, 2018, primarily due to an increase in the number of systems installed at our customers’ sites.
 Service revenues during the three and six months ended December 31, 2018 increased compared to the three and six months ended December 31, 2017, primarily due an increase in the number of systems installed at our customers’ sites, and the impact of adoption of ASC 606 whereby revenue from the standard warranty represents a separate performance obligation and included in our services revenue.
 Revenues by region
-
-
-
 A significant portion of our revenues continues to be generated in Asia, where a substantial portion of the world’s semiconductor manufacturing capacity is located, and we expect that trend to continue.
 Gross margin
-
 Our gross margin fluctuates with revenue levels and product mix and is affected by variations in costs related to manufacturing and servicing our products, including our ability to scale our operations efficiently and effectively in response to prevailing business conditions.
 Changes in gross margin percentage driven by revenue volume of products and services reflect our ability to leverage existing infrastructure to generate higher revenues.
 It also includes the effect of fluctuations in foreign exchange rates, average customer pricing and customer revenue deferrals associated with volume purchase agreements.
@@ -99,12 +83,9 @@ Changes in gross margin percentage from mix of products and services sold reflec
 Changes in gross margin percentage from manufacturing labor, overhead and efficiencies reflect our ability to manage costs and drive productivity as we scale our manufacturing activity to respond to customer requirements; this includes the impact of capacity utilization, use of overtime and variability of cost structure.
 Changes in gross margin percentage from other service and manufacturing costs include the impact of customer support costs, including the efficiencies with which we deliver services to our customers, and the effectiveness with which we manage our production plans and inventory risk.
 Our gross margin decreased to 63.5% for three months ended December 31, 2018 from 65.1% during the three months ended September 30, 2018, primarily due to an unfavorable mix of products and services sold.
-Our gross margin decreased to 63.5% for three months ended December 31, 2018 from 64.4% during the three months ended December 31, 2017, primarily due to an increase in service and manufacturing costs, partially offset by a favorable mix of products and services sold.
+ Our gross margin decreased to 63.5% for three months ended December 31, 2018 from 64.4% during the three months ended December 31, 2017, primarily due to an increase in service and manufacturing costs, partially offset by a favorable mix of products and services sold.
 Our gross margin increased to 64.3% during the six months ended December 31, 2018, from 64.0% during the six months ended December 31, 2017, primarily due to a favorable mix of products and services sold, partially offset by an increase in service and manufacturing costs.
 Interest Expense and Other Expense (Income), Net
-
-
-
 Interest expense during the three months ended December 31, 2018 remained relatively unchanged compared to the three months ended September 30, 2018, and December 31, 2017.
 Decrease in interest expense during the six months ended December 31, 2018 compared the six months ended December 31, 2017 was primarily due to lower outstanding debt.
 Other expense (income), net is comprised primarily of realized gains or losses on sales of marketable securities, gains or losses from revaluations of certain foreign currency denominated assets and liabilities as well as foreign currency contracts, and interest-related accruals (such as interest and penalty accruals related to our tax obligations) and interest income earned on our invested cash, cash equivalents and marketable securities.
@@ -112,12 +93,6 @@ The decrease in other expense (income), net during the three months ended Decemb
 The increase in other expense (income), net during the three months ended December 31, 2018 compared to the three months ended December 31, 2017 was primarily due to an increase in interest income of $2.9 million.
 The increase in other expense (income), net during the six months ended December 31, 2018 compared to the six months ended December 31, 2017 was primarily due to an increase in interest income of $5.4 million and a higher net foreign currency gain of $1.5 million.
 Provision for Income Taxes
-
-
-
-
-
-
 As of December 31, 2018, we have completed our accounting for the tax effects of the Act, which was enacted into law on December 22, 2017.
 We recorded a tax benefit adjustment of $0.3 million and $20.1 million for the transition tax liability provided by the Act during the three and six months ended December 31, 2018, respectively.
 Future guidance of the Act from U.S. federal and state governments may change the tax liability.
@@ -127,12 +102,9 @@ We are under United States federal income tax examination for the fiscal year en
 Although we believe our tax estimates are reasonable, the final determination of tax audits and any related litigation could be materially different from our historical income tax provisions and accruals.
 The results of an audit or litigation could have a material adverse effect on our results of operations or cash flows in the period or periods for which that determination is made.
 LIQUIDITY AND CAPITAL RESOURCES
-
-
-
 As of December 31, 2018, our cash, cash equivalents and marketable securities totaled $2.69 billion, which represents a decrease of $186.2 million from June 30, 2018.
 The decrease is mainly due to stock repurchases of $550.2 million, and cash used for payment of dividends and dividend equivalents of $237.3 million, partially offset by our cash generated from operations and net proceeds from marketable securities transactions.
-As of December 31, 2018, $2.15 billion of our $2.69 billion of cash, cash equivalents and marketable securities were held by our foreign subsidiaries and branch offices.
+ As of December 31, 2018, $2.15 billion of our $2.69 billion of cash, cash equivalents and marketable securities were held by our foreign subsidiaries and branch offices.
 We currently intend to indefinitely reinvest $1.94 billion of the cash, cash equivalents and marketable securities held by our foreign subsidiaries.
 If, however, a portion of these funds were to be repatriated to the United States, we would be required to accrue and pay state and foreign taxes of approximately 1%-22% of the funds repatriated.
 The amount of taxes due will depend on the amount and manner of the repatriation, as well as the location from which the funds are repatriated.
@@ -184,6 +156,7 @@ Our liquidity may be affected by many factors, some of which are based on the no
 Although cash requirements will fluctuate based on the timing and extent of these factors, we believe that cash generated from operations, together with the liquidity provided by existing cash and cash equivalents balances and our $1.00 billion Revolving Credit Facility, will be sufficient to satisfy our liquidity requirements associated with working capital needs, capital expenditures, cash dividends, stock repurchases and other contractual obligations, including repayment of outstanding debt, for at least the next 12 months.
 Factors that can affect our credit ratings include changes in our operating performance, the economic environment, conditions in the semiconductor and semiconductor equipment industries, our financial position, material acquisitions and changes in our business strategy.
 Off-Balance Sheet Arrangements
-
 As of December 31, 2018, we did not have any off-balance sheet arrangements, as defined in Item 303(a)(4)(ii) of SEC Regulation S-K, that have or are reasonably likely to have a current or future effect on our financial position, changes in financial condition, revenues and expenses, results of operations, liquidity, capital expenditures, or capital resources that are material to investors.
 Refer to Note 14 “Commitments and contingencies” to the condensed consolidated financial statements for information related to indemnification obligations.
+ITEM 2.UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+Equity Repurchase Plans

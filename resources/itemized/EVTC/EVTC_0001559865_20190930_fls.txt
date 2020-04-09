@@ -1,102 +1,15 @@
 FORWARD-LOOKING STATEMENTS
-
 This Quarterly Report on Form 10-Q contains “forward-looking statements” within the meaning of, and subject to the protection of, the Private Securities Litigation Reform Act of 1995.
 Such statements can be identified by the use of forward-looking terminology such as “believes,” “expects,” “may,” “estimates,” “will,” “should,” “plans” or “anticipates” or the negative thereof or other variations thereon or comparable terminology, or by discussions of strategy.
 Readers are cautioned that any such forward-looking statements are not guarantees of future performance and may involve significant risks and uncertainties, and that actual results may vary materially from those in the forward-looking statements as a result of various factors.
 Among the factors that significantly impact our business and could impact our business in the future are:
-
-•our reliance on our relationship with Popular, Inc. (“Popular”) for a significant portion of our revenues pursuant to our master services agreement with them, and to grow our merchant acquiring business; 
-
-•as a regulated institution, the likelihood we will be required to obtain regulatory approval before engaging in certain new activities or businesses, whether organically or by acquisition, and our potential inability to obtain such approval on a timely basis or at all, which may make transactions more expensive or impossible to complete, or make us less attractive to potential sellers; 
-
-•our ability to renew our client contracts on terms favorable to us, including our contract with Popular, and any significant concessions we may have to grant to Popular with respect to pricing or other key terms in anticipation of the negotiation of the extension of the MSA, both in respect of the current term and any extension of the MSA;
-
-•our dependence on our processing systems, technology infrastructure, security systems and fraudulent payment detection systems, as well as on our personnel and certain third parties with whom we do business, and the risks to our business if our systems are hacked or otherwise compromised; 
-
-•our ability to develop, install and adopt new software, technology and computing systems; 
-
-•a decreased client base due to consolidations and failures in the financial services industry; 
-
-•the credit risk of our merchant clients, for which we may also be liable; 
-
-•the continuing market position of the ATH network; 
-
-•a reduction in consumer confidence, whether as a result of a global economic downturn or otherwise, which leads to a decrease in consumer spending; 
-
-•our dependence on credit card associations, including any adverse changes in credit card association or network rules or fees; 
-
-•changes in the regulatory environment and changes in international, legal, tax, political, administrative or economic conditions; 
-
-•the geographical concentration of our business in Puerto Rico, including our business with the government of Puerto Rico and its instrumentalities, which are facing severe political and fiscal challenges; 
-
-•additional adverse changes in the general economic conditions in Puerto Rico, whether as a result of the government’s debt crisis or otherwise, including the continued migration of Puerto Ricans to the U.S. mainland, which could negatively affect our customer base, general consumer spending, our cost of operations and our ability to hire and retain qualified employees; 
-
-•a protracted federal government shutdown may affect our financial performance;
-
-•operating an international business in Latin America and the Caribbean, in jurisdictions with potential political and economic instability; 
-
-•our ability to execute our geographic expansion and acquisition strategies, including challenges in successfully acquiring new businesses and integrating and growing acquired businesses; 
-
-•our ability to protect our intellectual property rights against infringement and to defend ourselves against claims of infringement brought by third parties; 
-
-•our ability to recruit and retain the qualified personnel necessary to operate our business;
-
-•our ability to comply with U.S. federal, state, local and foreign regulatory requirements; 
-
-•evolving industry standards and adverse changes in global economic, political and other conditions; 
-
-•our high level of indebtedness and restrictions contained in our debt agreements, including the senior secured credit facilities, as well as debt that could be incurred in the future; 
-
-•our ability to prevent a cybersecurity attack or breach in our information security; 
-
-•our ability to generate sufficient cash to service our indebtedness and to generate future profits; 
-
-•our ability to refinance our debt; 
-
-•the possibility that we could lose our preferential tax rate in Puerto Rico; 
-
-•the risk that the counterparty to our interest rate swap agreements fail to satisfy its obligations under the agreement;
-•uncertainty of the pending debt restructuring process under Title III of the Puerto Rico Oversight, Management and Economic Stability Act (“PROMESA”), as well as actions taken by the Puerto Rico government or by the PROMESA Board to address the fiscal crisis in Puerto Rico;
-
-•the aftermath of Hurricanes Irma and Maria and their continued impact on the economies of Puerto Rico and the Caribbean;
-
-
-•the nature, timing and amount of any restatement.
 These forward-looking statements involve a number of risks and uncertainties that could cause actual results to differ materially from those suggested by the forward-looking statements.
 Forward-looking statements should, therefore, be considered in light of various factors, including those set forth under “Item 1A.
+Risk Factors,” in “Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations” and elsewhere in this Report.
 These forward-looking statements speak only as of the date of this Report, and we do not undertake any obligation to publicly release any revisions to these forward-looking statements to reflect events or circumstances after the date of this Report or to reflect the occurrence of unanticipated events.
-EVERTEC, Inc. Unaudited Condensed Consolidated Balance Sheets
-
-
-
-The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
-EVERTEC, Inc. Unaudited Condensed Consolidated Statements of Income and Comprehensive Income
-
-
-
-The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
-EVERTEC, Inc. Unaudited Condensed Consolidated Statements of Changes in Stockholders’ Equity
-
-
-
-
-The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
-EVERTEC, Inc. Unaudited Condensed Consolidated Statements of Cash Flows
-
-
-
-The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
-Notes to Unaudited Condensed Consolidated Financial Statements
-
-
-Note 1 – The Company and Basis of Presentation
-
-The Company
-
-EVERTEC, Inc. (formerly known as Carib Latam Holdings, Inc.) and its subsidiaries (collectively the “Company,” or “EVERTEC”) is a leading full-service transaction processing business in Latin America and the Caribbean.
+The following Management’s Discussion and Analysis (“MD&A”) covers: (i) the results of operations for the three and nine months ended September 30, 2019 and 2018 and (ii) the financial condition as of September 30, 2019.
+You should read the following discussion and analysis in conjunction with the audited consolidated financial statements (the “Audited Consolidated Financial Statements”) and related notes for the fiscal year ended December 31, 2018, included in the Company’s Annual Report on Form 10-K and with the unaudited condensed consolidated financial statements (the “Unaudited Condensed Consolidated Financial Statements”) and related notes appearing elsewhere herein.
 This MD&A contains forward-looking statements that involve risks and uncertainties.
 Our actual results may differ from those indicated in the forward-looking statements.
 See “Forward-Looking Statements” for a discussion of the risks, uncertainties and assumptions associated with these statements.
-Except as otherwise indicated or unless the context otherwise requires, (a) the terms “EVERTEC,” “we,” “us,” “our,” “our Company” and “the Company” refer to EVERTEC, Inc. and its subsidiaries on a consolidated basis, (b) the term “Holdings” refers to EVERTEC Intermediate Holdings, LLC, but not any of its subsidiaries and (c) the term “EVERTEC Group” refers to EVERTEC Group, LLC and its predecessor entities and their subsidiaries on a consolidated basis, including the operations of its predecessor entities prior to the Merger (as defined below).
-EVERTEC Inc.’s subsidiaries include Holdings, EVERTEC Group, EVERTEC Dominicana, SAS, Evertec Chile Holdings SpA (formerly known as Tecnopago SpA), Evertec Chile SpA (formerly known as EFT Group SpA), Evertec Chile Global SpA (formerly known as EFT Global Services SpA), Evertec Chile Servicios Profesionales SpA (formerly known as EFT Servicios Profesionales SpA), , EFT Group S.A., Tecnopago España SL, Paytrue S.A., Caleidon, S.A., Evertec Brasil Solutions Informática Ltda.
-), EVERTEC Panamá, S.A., EVERTEC Costa Rica, S.A. (“EVERTEC CR”), EVERTEC Guatemala, S.A., Evertec Colombia, SAS (formerly known as Processa, SAS), EVERTEC USA, LLC and EVERTEC México Servicios de Procesamiento, S.A. de C.V.

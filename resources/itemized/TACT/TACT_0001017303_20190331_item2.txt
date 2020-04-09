@@ -1,16 +1,13 @@
 Item 2.
-Management’s Discussion and Analysis of Financial Condition and Results of Operations 
-
-Forward Looking Statements 
-
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Forward Looking Statements
 Certain statements included in this Quarterly Report on Form 10-Q for the period ended March 31, 2019 (this “Report”), including without limitation statements in this Management’s Discussion and Analysis of Financial Condition and Results of Operations, which are not historical facts are “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”) and the Private Securities Litigation Reform Act of 1995.
 Forward-looking statements generally can be identified by the use of forward-looking terminology, such as “may”, “will”, “expect”, “intend”, ”estimate”, “anticipate”, “believe”, “project” or “continue” or the negative thereof or other similar words.
 All forward-looking statements involve risks and uncertainties, including, but not limited to those listed in Item 1A of our Annual Report on Form 10-K for the year ended December 31, 2018.
 Actual results may differ materially from those discussed in, or implied by, the forward-looking statements.
 The forward-looking statements speak only as of the date of this Report and we assume no duty to update them.
 As used in this Report, unless the context otherwise requires, references to “we”, “us”, “our”, the “Company” and “TransAct” refer to the consolidated operations of TransAct Technologies Incorporated, and its consolidated subsidiaries.
-Overview 
-
+Overview
 TransAct is a global leader in developing and selling software-driven technology and printing solutions for high growth markets including restaurant solutions, point of sale (“POS”) automation and banking, casino and gaming, lottery, and oil and gas.
 Our world-class products are designed from the ground up based on market and customer requirements and are sold under the BOHA!™, AccuDate™, Epic®, EPICENTRAL™, Ithaca®, and Printrex® brand names.
 Known and respected worldwide for innovative designs and real-world service reliability, our thermal and inkjet printers and terminals generate top-quality labels, coupons and transaction records such as receipts, tickets and other documents, as well as printed logging and plotting of data.
@@ -20,8 +17,7 @@ We also offer world-class service, support, spare parts, accessories and printin
 Through our TransAct Services Group (“TSG”), we provide a complete range of supplies and consumables used in the printing and scanning activities of customers in the restaurant and hospitality, banking, retail, casino and gaming, government and oil and gas exploration markets.
 Through our webstore, www.transactsupplies.com, and our direct selling team, we address the demand for these products.
 We operate in one reportable segment, the design, development, and marketing of software-driven technology and printing solutions for high growth markets, and provide related services, supplies and spare parts.
-Critical Accounting Judgments and Estimates 
-
+Critical Accounting Judgments and Estimates
 Our discussion and analysis of our financial condition and results of operations are based upon our Condensed Consolidated Financial Statements, which have been prepared by us in accordance with accounting principles generally accepted in the United States of America.
 The presentation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenue and expenses, and the disclosure of contingent assets and liabilities.
 Our estimates include those related to revenue recognition, inventory obsolescence, the valuation of deferred tax assets and liabilities, depreciable lives of equipment, warranty obligations, and contingent liabilities.
@@ -33,8 +29,11 @@ Printer, terminal and other hardware sales volume decreased 11% to approximately
 The average selling price of our printers, terminals and other hardware increased 4% for the first quarter of 2019 compared to the first quarter of 2018 due primarily to lower POS automation and banking sales, which sell at a lower price than our other products.
 International sales for the first quarter of 2019 increased $0.5 million, or 23%, from the same period in 2018 primarily due to increased sales in the international casino and gaming market.
 The decrease in domestic restaurant solutions revenue for the first quarter of 2019 compared to the first quarter of 2018 was driven largely by lower sales of our AccuDate 9700 terminal to our former U.S. distributor.
+This decrease was partially offset by increased sales of our AccuDate XL2e terminal, which has since been rebranded to the BOHA!
 terminal.
+Additionally, during the first quarter of 2019, we recognized our first sales of BOHA!
 software on a SaaS subscription basis.
+We expect sales of our restaurant solutions products to increase in 2019 compared to 2018 following the launch of our new BOHA!
 solution.
 The decrease in domestic POS automation and banking product revenue for the first quarter of 2019 compared to the first quarter of 2018 was primarily driven by a 24% decrease in domestic sales of our Ithaca® 9000 printer, as sales to McDonald’s decreased for the first quarter of 2019 compared to the same period in 2018.
 We expect sales of our Ithaca® 9000 to McDonald’s to decrease in 2019 compared to 2018.
@@ -50,6 +49,7 @@ We expect lottery printer sales to be lower for 2019 compared to 2018, as we hav
 The increase in sales of Printrex printers for the first quarter of 2019 compared to the first quarter of 2018 resulted from higher domestic and international sales in the oil and gas market.
 We expect total Printrex sales to increase slightly for 2019 compared to 2018, as we expect to benefit from a continued modest recovery in the oil and gas industry.
 The increase in domestic revenue from TSG for the first quarter of 2019 as compared to the first quarter of 2018 was primarily due to an increase in label sales and increased service revenue related to our restaurant solutions products.
+Sales of our restaurant solutions labels were five times higher on a growing installed base of AccuDate and BOHA!
 terminals.
 Service revenue also increased 24% for the first quarter of 2019 compared to the first quarter of 2018.
 Additionally, we had a 18% increase in sales of our legacy HP inkjet cartridges used in our banking printers.
@@ -66,6 +66,7 @@ Such expenses decreased $56 thousand, or 5%, for the first quarter of 2019 compa
 We expect engineering, design and product development expenses in 2019 to be consistent with 2018.
 Selling and marketing expenses primarily include salaries and payroll related expenses for our sales and marketing staff, sales commissions, travel expenses, expenses associated with the lease of sales offices, advertising, trade show expenses, e-commerce and other promotional marketing expenses.
 Such expenses increased by $281 thousand, or 18%, for the first quarter of 2019 compared to the first quarter of 2018 primarily due to higher compensation expenses related to the hiring of additional outside and technical sales staff during the latter part of 2018 and first quarter of 2019.
+We expect selling and marketing expense to increase significantly in 2019 compared to 2018 due to the full-year impact of hiring additional sales staff during 2018, as well as investments to support our new suite of BOHA!
 software and hardware solutions.
 General and administrative expenses primarily include salaries, incentive compensation, and other payroll related expenses for our executive, accounting, human resources and information technology staff, expenses for our corporate headquarters, professional and legal expenses, telecommunication expenses, and other expenses related to being a publicly-traded company.
 General and administrative expenses increased $78 thousand, or 4%, for the first quarter of 2019 compared to the first quarter of 2018 due primarily to higher professional and legal expenses.
@@ -87,46 +88,42 @@ The FDII deduction was not included in the effective tax rate for the first quar
 We expect our effective tax rate to be between 13% and 14% for the full year 2019.
 Net Income.
 We reported net income for the first quarter of 2019 of $746 thousand, or $0.10 per diluted share, compared to $680 thousand, or $0.09 per diluted share, for the first quarter of 2018.
-Liquidity and Capital Resources 
-
-Cash Flow 
-
+Liquidity and Capital Resources
+Cash Flow
 For the first three months of 2019, our cash and cash equivalents balance decreased $2.7 million, or 59%, from December 31, 2018.
 We ended the first quarter of 2019 with $1.9 million in cash and cash equivalents, of which $0.5 million was held by our U.K. subsidiary, and no debt outstanding.
-●  We reported net income of $0.7 million.
-●  We recorded depreciation and amortization of $0.3 million, and share-based compensation expense of $0.2 million.
-●  Accounts receivable decreased $1.2 million, or 15%, due to the collection of receivables for 2018 sales.
-●  Inventory increased $1.5 million, or 12%, due to the buildup of inventory on hand to support future anticipated sales of BOHA!
+  ●  We reported net income of $0.7 million.
+  ●  We recorded depreciation and amortization of $0.3 million, and share-based compensation expense of $0.2 million.
+  ●  Accounts receivable decreased $1.2 million, or 15%, due to the collection of receivables for 2018 sales.
+  ●  Inventory increased $1.5 million, or 12%, due to the buildup of inventory on hand to support future anticipated sales of BOHA!
 hardware product for the restaurant solutions market.
-●  Prepaid income taxes decreased $0.1 million during the first quarter of 2019.
-●  Other current and long term assets increased $0.4 million, or 65%, due primarily to an advanced payment of royalty fees.
-●  Accounts payable decreased $1.3 million, or 36%, due primarily to inventory purchases made towards the end of the fourth quarter of 2018 that were subsequently paid in the first quarter of 2019.
-●  Accrued liabilities and other liabilities decreased $1 million, or 27%, due primarily to the payment of 2018 annual bonuses in March 2019.
-●  We reported net income of $0.7 million.
-●  We recorded depreciation and amortization of $0.2 million, and share-based compensation expense of $0.2 million.
-●  Accounts receivable decreased $2.3 million, or 21%, due to the collection of past due receivables for 2017 sales made to our former international casino and gaming distributor.
-●  Prepaid income taxes decreased $0.2 million during the first quarter of 2018.
-●  Accounts payable decreased $0.7 million, or 19%, due primarily to higher inventory purchases made towards the end of the fourth quarter of 2017 compared to the first quarter of 2018 that were subsequently paid in the first quarter of 2018.
-●  Accrued liabilities and other liabilities decreased $0.9 million, or 21%, due primarily to the payment of 2017 annual bonuses in March 2018.
+  ●  Prepaid income taxes decreased $0.1 million during the first quarter of 2019.
+  ●  Other current and long term assets increased $0.4 million, or 65%, due primarily to an advanced payment of royalty fees.
+  ●  Accounts payable decreased $1.3 million, or 36%, due primarily to inventory purchases made towards the end of the fourth quarter of 2018 that were subsequently paid in the first quarter of 2019.
+  ●  Accrued liabilities and other liabilities decreased $1 million, or 27%, due primarily to the payment of 2018 annual bonuses in March 2019.
+  ●  We reported net income of $0.7 million.
+  ●  We recorded depreciation and amortization of $0.2 million, and share-based compensation expense of $0.2 million.
+  ●  Accounts receivable decreased $2.3 million, or 21%, due to the collection of past due receivables for 2017 sales made to our former international casino and gaming distributor.
+  ●  Prepaid income taxes decreased $0.2 million during the first quarter of 2018.
+  ●  Accounts payable decreased $0.7 million, or 19%, due primarily to higher inventory purchases made towards the end of the fourth quarter of 2017 compared to the first quarter of 2018 that were subsequently paid in the first quarter of 2018.
+  ●  Accrued liabilities and other liabilities decreased $0.9 million, or 21%, due primarily to the payment of 2017 annual bonuses in March 2018.
 Capital expenditures and capitalized software development costs for 2019 are expected to be approximately $1.3 million, primarily for software development for our new restaurant solutions BOHA!
 products, new product tooling, new computer software and equipment purchases.
-Credit Facility and Borrowings 
-
+Credit Facility and Borrowings
 We maintain a credit facility (the "TD Bank Credit Facility") with TD Bank N.A.
+(“TD Bank”), which provides for a $20 million revolving credit line.
 On November 21, 2017, we signed an amendment to the TD Bank Credit Facility through November 28, 2022.
 Borrowings under the revolving credit line bear a floating rate of interest at the prime rate minus one percent and are secured by a lien on all of our assets.
 We also pay a fee of 0.125% on unused borrowings under the revolving credit line.
 The amendment increased the amount of revolving credit loans we may use to fund future cash dividend payments or treasury share buybacks to $12.5 million from $10 million.
 As of March 31, 2019, borrowings available under the TD Bank Credit facility were $20 million.
-Shareholder Dividend Payments 
-
+Shareholder Dividend Payments
 In 2012, our Board of Directors initiated a quarterly cash dividend program which is subject to the Board’s approval each quarter.
 Our Board of Directors declared an increase to the quarterly cash dividend from $0.06 to $0.07 per share in May 2013, from $0.07 to $0.08 per share in May 2014, and from $0.08 to $0.09 per share in May 2017.
 Dividends declared and paid on our common stock totaled $0.7 million or $0.09 per share in the first quarter of both 2019 and 2018.
 On April 30, 2019 our Board of Directors approved the second quarter 2019 dividend in the amount of $0.09 per share payable on or about June 14, 2019 to common shareholders of record at the close of business on May 20, 2019.
 We expect to pay approximately $2.7 million in cash dividends to our common shareholders during 2019.
-Stock Repurchase Program 
-
+Stock Repurchase Program
 On March 1, 2018, our Board of Directors approved a new stock repurchase program (the “2018 Stock Repurchase Program”).
 Under the 2018 Stock Repurchase Program, we are authorized to repurchase up to $5 million of our outstanding shares of common stock from time to time in the open market at prevailing market prices based on market conditions, share price and other factors.
 The 2018 Stock Repurchase Program expires on December 31, 2019, if we do not discontinue the repurchase program prior to such time.
@@ -134,21 +131,8 @@ We use the cost method to account for treasury stock purchases, under which the 
 Repurchases of our common stock are accounted for as of the settlement date.
 During the three months ended March 31, 2019, we repurchased no shares of our common stock.
 During the three months ended March 31, 2018, we repurchased 122,780 shares of our common stock for approximately $1.6 million at an average price per share of $12.72.
-Resource Sufficiency 
-
+Resource Sufficiency
 We believe that our cash and cash equivalents on hand, our expected cash flows generated from operating activities and borrowings available under our TD Bank Credit Facility will provide sufficient resources to meet our working capital needs, finance our capital expenditures and additions to capitalized software, and dividend payments, and meet our liquidity requirements through at least the next twelve months.
 We have no material off-balance sheet arrangements as defined in Item 303(a)(4)(ii) of Regulation S-K.
-Item 2.
-Item 4.
-MINE SAFETY DISCLOSURES      
-
-Not applicable.
-Item 5.
-Item 6.
-EXHIBITS       
-
-
-
-SIGNATURES 
-
-Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+ Item 2.
+UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
