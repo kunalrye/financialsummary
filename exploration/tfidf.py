@@ -72,7 +72,7 @@ def computeTFIDF(docs):
     transformed_documents = vectorizer.fit_transform(docs)
     transformed_documents_as_array = transformed_documents.toarray()
     ## save the tfidf matrix 
-    pd.DataFrame(transformed_documents_as_array).to_csv("../resources/tfidf_mat.csv")
+    pd.DataFrame(transformed_documents_as_array).to_csv("resources/tfidf_mat.csv")
     # compute the top-n tfidf weights 
     return transformed_documents_as_array, vectorizer.get_feature_names()
 

@@ -8,8 +8,8 @@ from statistics import mean, median, stdev
 import os
 from collections import defaultdict
 
-MODEL_LIST = ["lda", "textrank", "lsa"]
-VALIDATION_SET_PATH = "../resources/validation_set"
+MODEL_LIST = ["lda", "textrank", "lsa", "LexRank"]
+VALIDATION_SET_PATH = "resources/validation_set"
 
 
 def set_contains(s, ele):
@@ -53,7 +53,7 @@ def assess_models(annotated_fname, manual_set):
     model_results = {}
 
     ## get a list of all directories in the resource directory
-    d = "../resources"
+    d = "resources"
     subdirs = [os.path.join(d, o) for o in os.listdir(d) if os.path.isdir(os.path.join(d, o))]
 
     for model in MODEL_LIST:
@@ -148,6 +148,7 @@ if __name__ == "__main__":
     results = run_assessment()
     for fname, model_scores in results.items():
         print(fname, model_scores)
+    print("\n\n")
     tabulate_results(results)
 
 

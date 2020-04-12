@@ -65,5 +65,5 @@ def filter():
     logging.set_verbosity(logging.ERROR)
 
 
-split_by_quarter("../resources/legal_filter/AAPL")
+split_by_quarter("resources/legal_filter/AAPL")
 

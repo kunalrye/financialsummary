@@ -35,7 +35,7 @@ def file_to_sents(fname):
     return cleaned_lines
 
 def get_legal_bank():
-    legal_text = open(f"../resources/forward_looking.txt").read()
+    legal_text = open(f"resources/forward_looking.txt").read()
     legal_sents = tokenize.sent_tokenize(legal_text)
     legal_non_empty = [sentence for sentence in legal_sents if len(sentence) > 0]
     return legal_non_empty
@@ -53,9 +53,9 @@ def filter():
     legal_vectors = model(get_legal_bank())
 
     ## iterate over all the files in the directory
-    input_dirpath = os.path.expanduser("../resources/itemized")
-    output_train_dirpath = os.path.expanduser("../resources/legal_filter_train/")
-    output_test_dirpath = os.path.expanduser("../resources/legal_filter_test/")
+    input_dirpath = os.path.expanduser("resources/itemized")
+    output_train_dirpath = os.path.expanduser("resources/legal_filter_train/")
+    output_test_dirpath = os.path.expanduser("resources/legal_filter_test/")
 
     train_comps, test_comps = get_train_test()
 

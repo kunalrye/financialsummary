@@ -95,14 +95,14 @@ def calculate_train_cluster_sizes():
     Calculates cluster sizes for documents of the training companies
     :return: a dictionary with the structure in calculate_cluster_sizes above
     """
-    return calculate_cluster_sizes(os.path.expanduser("../resources/legal_filter_train"))
+    return calculate_cluster_sizes(os.path.expanduser("resources/legal_filter_train"))
 
 def calculate_test_cluster_sizes():
     """
     Calculates cluster sizes for documents of the testing companies
     :return: a dictionary with the structure in calculate_cluster_sizes above
     """
-    return calculate_cluster_sizes(os.path.expanduser("../resources/legal_filter_test"))
+    return calculate_cluster_sizes(os.path.expanduser("resources/legal_filter_test"))
 
 if __name__ == "__main__":
     print(calculate_train_cluster_sizes())

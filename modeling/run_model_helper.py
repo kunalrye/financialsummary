@@ -88,8 +88,8 @@ def summarize_docs(modifier, model_func: Callable[[str, int], List[str]], model_
     print(cluster_sizes)
     processed = set()
 
-    input_dirpath = os.path.expanduser("../resources/legal_filter_" + modifier)
-    output_dirpath = os.path.expanduser(('../resources/' + model_name + '_output_' + modifier))
+    input_dirpath = os.path.expanduser("resources/legal_filter_" + modifier)
+    output_dirpath = os.path.expanduser(('resources/' + model_name + '_output_' + modifier))
     for root, dirs, files in os.walk(input_dirpath):
         for comp_name in dirs:
             ## directory of a particular company
@@ -133,8 +133,8 @@ def summarize_docs_for_company(company: str, model_func: Callable[[str, int], Li
 
     processed = set()
 
-    input_dirpath = os.path.expanduser("../resources/legal_filter_" + modifier)
-    output_dirpath = os.path.expanduser(('../resources/' + model_name + '_output_subset_' + modifier))
+    input_dirpath = os.path.expanduser("resources/legal_filter_" + modifier)
+    output_dirpath = os.path.expanduser(('resources/' + model_name + '_output_subset_' + modifier))
     for root, dirs, files in os.walk(input_dirpath):
         for comp_name in dirs:
             ## directory of a particular company
