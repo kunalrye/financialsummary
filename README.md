@@ -1,7 +1,7 @@
 # financialsummary
 A Rice University D2K Lab Project
 
-## Running Our Project
+# Running Our Project
 If running code from an IDE, ensure that the run configuration has set the working directory to be the root of the project. 
 All paths in the code are specified from the project root. 
 
