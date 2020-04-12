@@ -353,5 +353,4 @@ def separate_item(directory, tokenized):
 
 
 #######################################################################################################################
-# replace("/Users/kunal/Dropbox/10Q_all_companies/full_text/")
-separate_item("/Users/kunal/Dropbox/10Q_all_companies/full_text/")
+
