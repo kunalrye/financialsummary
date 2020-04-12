@@ -1,18 +1,22 @@
+fls.txt
+
+
+
 item1.txt
+Logitech International S.A, together with its consolidated subsidiaries, ("Logitech" or the "Company") designs, manufactures and markets products that help connect people to digital and cloud experiences.
+More than 35 years ago, Logitech created products to improve experiences around the personal PC platform, and today it is a multi-brand, multi-category company designing products that enable better experiences consuming, sharing and creating any digital content such as music, gaming, video and computing, whether it is on a computer, mobile device or in the cloud.
 The Company sells its products to a broad network of domestic and international customers, including direct sales to retailers and e-tailers and indirect sales through distributors.
+The condensed consolidated financial statements are presented in accordance with accounting principles generally accepted in the United States of America (“GAAP”) for interim financial information and therefore do not include all the information required by GAAP for complete financial statements.
 The condensed consolidated financial statements should be read in conjunction with the Company’s audited consolidated financial statements for the fiscal year ended March 31, 2019, included in its Annual Report on Form 10-K filed with the Securities and Exchange Commission (“SEC”) on May 17, 2019.
 In the opinion of management, these condensed consolidated financial statements include all adjustments, consisting of only normal and recurring adjustments, necessary and in all material aspects, for a fair statement of the results of operations, comprehensive income, financial position, cash flows and changes in shareholders' equity for the periods presented.
 Operating results for the three months ended June 30, 2019 are not necessarily indicative of the results that may be expected for the fiscal year ending March 31, 2020, or any future periods.
 Other than the recent accounting pronouncements adopted and discussed below under Recent Accounting Pronouncements Adopted and Summary of Significant Accounting Policies, there have been no changes in the Company’s significant accounting policies during the three months ended June 30, 2019 compared with the significant accounting policies described in its Annual Report on Form 10-K for the fiscal year ended March 31, 2019.
 Significant estimates and assumptions made by management involve the fair value of goodwill, intangible assets acquired from business acquisitions, valuation of operating right-of-use assets, warranty liabilities, accruals for customer incentives, cooperative marketing, and pricing programs (Customer Programs) and related breakage when appropriate, accrued sales return liability, allowance for doubtful accounts, inventory valuation, share-based compensation expense, uncertain tax positions, and valuation allowances for deferred tax assets.
-In February 2016, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) No. 2016-02, "Leases (Topic 842)" (ASU 2016-02 or Topic 842), which requires a lessee to recognize right-of-use (ROU) assets and lease liabilities arising from operating and financing leases with terms longer than 12 months on the consolidated balance sheets and to disclose key information about leasing arrangements.
-Share equivalents attributable to outstanding stock options, restricted stock units ("RSUs") and employee share purchase rights (ESPP) totaling 2.0 million and 1.5 million for the three months ended June 30, 2019 and 2018, respectively, were excluded from the calculation of diluted net income per share because the combined exercise price and average unamortized grant date fair value upon exercise of these options and ESPP or vesting of RSUs were greater than the average market price of the Company's shares during the periods presented herein, and therefore their inclusion would have been anti-dilutive.
-The income tax benefit in the respective period primarily consists of tax benefit related to the share-based compensation expense for the period and direct tax benefit realized, including net excess tax benefits recognized from share-based awards vested or exercised during the period.
-The costs recorded of $2.4 million and $2.3 million for the three months ended June 30, 2019 and 2018, respectively, were primarily related to service costs.
-The income tax provision for the three months ended June 30, 2019 was $6.5 million based on an effective income tax rate of 12.6% of pre-tax income, compared to an income tax benefit of $5.2 million based on an effective income tax rate of (15.7)% of pre-tax income for the three months ended June 30, 2018.
-The change in the effective income tax rate for the three months ended June 30, 2019, compared to the same period ended June 30, 2018, was primarily due to the mix of income and losses in the various tax jurisdictions which the Company operates and the transitional income tax impact in Switzerland.
-Furthermore, there were discrete tax benefits of $5.8 million and $1.2 million from the recognition of excess tax benefits in the United States and reversal of uncertain tax positions from the expiration of statutes of limitations, respectively, in the three-month period ended June 30, 2019, compared with $8.3 million and $0.9 million, respectively, in the three-month period ended June 30, 2018.
-As of June 30, 2019 and March 31, 2019, the total amount of unrecognized tax benefits due to uncertain tax positions was $77.3 million and $76.5 million, respectively, all of which would affect the effective income tax rate if recognized.
+2016-02, "Leases (Topic 842)" (ASU 2016-02 or Topic 842), which requires a lessee to recognize right-of-use (ROU) assets and lease liabilities arising from operating and financing leases with terms longer than 12 months on the consolidated balance sheets and to disclose key information about leasing arrangements.
+The Company adopted the new standard effective April 1, 2019 and recorded an ROU asset and lease liability related to its operating leases.
+The Company elected the package of transitional practical expedients, which among other provisions, allows the Company to not reassess under the new standard the Company's prior conclusions about lease identification, lease classification and initial direct cost, for any existing leases on the adoption date.
+In addition, for operating leases, the Company elected to account for lease and non-lease components as a single lease component.
+Adoption of the standard resulted in the recognition of $31.3 million of ROU assets and $37.4 million of lease liabilities related to the Company's leases on its condensed consolidated balance sheet on April 1, 2019.
 
 
 item2.txt
@@ -20,7 +24,6 @@ Our total sales for the three months ended June 30, 2019 increased 6%, compared 
 Our sales for the three months ended June 30, 2019 increased 6% and 12% in the Americas and EMEA, respectively, compared to the same period of the prior fiscal year.
 Our sales for the three months ended June 30, 2019 in Asia Pacific were flat compared to the same period of the prior fiscal year.
 Our gross margin for the three months ended June 30, 2019 increased 30 basis points to 37.1% from 36.8% for the three months ended June 30, 2018.
-Operating expenses for the three months ended June 30, 2019 remained flat compared to the same period of the prior fiscal year.
 
 
 item3.txt
@@ -32,15 +35,15 @@ item4.txt
 
 
 part2.txt
-Based on currently available information, we do not believe that resolution of pending matters will have a material adverse effect on our financial condition, cash flows or results of operations.
+impact on our business, financial condition, cash flows and results of operations in a particular period.
+Any claims or proceedings against us, whether meritorious or not, can have an adverse impact because of defense costs, diversion of management and operational resources, negative publicity and other factors.
 •We must incur a large portion of our costs in advance of sales orders because we must plan research and production, order components, buy tooling equipment, and enter into development, sales and marketing, and other operating commitments prior to obtaining firm commitments from our customers.
 This makes it difficult for us to rapidly adjust our costs during the quarter in response to a revenue shortfall, which could adversely affect our operating results.
-Such variance may affect our growth, our previous outlook and expectations, and comparisons of our operating results and financial statements between periods.
 •We have attempted to simplify our organization, to reduce operating costs through expense reduction and global workforce reductions, to reduce the complexity of our product portfolio, and to better align costs with our current business as we expand from PC accessories to growth opportunities in accessories and other products for music, gaming, video collaboration, digital home, mobile devices and other product categories.
-We may not achieve the cost savings or other anticipated benefits from these efforts, and the success or failure of such efforts may cause our operating results to fluctuate and to be difficult to predict.
 We attempt to adjust product prices over time to offset the impact of currency movements.
 However, over short periods of time, during periods of weakness in consumer spending or given high levels of competition in many product categories, our ability to change local currency prices to offset the impact of currency fluctuations is limited.
-If we fail to innovate and develop new products in a timely and cost-effective manner for our new and existing product categories, our business and operating results could be adversely affected.
-Our product categories are characterized by short product life cycles, intense competition, frequent new product introductions, rapidly changing technology, dynamic consumer demand and evolving industry standards.
+As a result, we must continually innovate in our new and existing product categories, introduce new products and technologies, and enhance existing products in order to remain competitive.
+•Offer our products at prices and on terms that are attractive to our customers and consumers.
+In addition, if we do not continue to differentiate our products through distinctive, technologically advanced features, designs, and services that are appealing to our customers and consumers, as well as continue to build and strengthen our brand recognition and our access to distribution channels, our business could be adversely affected.
 
 

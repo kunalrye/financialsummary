@@ -1,35 +1,39 @@
+fls.txt
+
+
+
 item1.txt
 We design, manufacture and sell computerized (i.e., Computer Numeric Control, or CNC) machine tools, consisting primarily of vertical machining centers (mills) and turning centers (lathes), to companies in the metal cutting industry through a worldwide sales, service and distribution network.
 We also provide machine tool components, software options, control upgrades, accessories and replacement parts for our products, as well as customer service, training, and applications support.
 We also provide machine tool components, software options, control upgrades, accessories and replacement parts for our products, as well as customer service, training and applications support.
 We adopted Accounting Standards Codification (“ASC”) 606 “Revenue from Contracts with Customers” (“ASC 606”) on November 1, 2018, the start of our 2019 fiscal year, and elected the modified retrospective method as of the date of adoption.
-We recognize revenues from the sale of machine tools, components and accessories and services and reflect the consideration to which we expect to be entitled.
-In accordance with ASC 606, we have defined contracts as agreements with our customers and distributors in the form of purchase orders, packing or shipping documents, invoices, and, periodically, verbal requests for components and accessories.
 For each contract, we identify our performance obligations, which is delivering goods or services, determine the transaction price, allocate the contract transaction price to the performance obligations (when applicable), and recognize the revenue when (or as) the performance obligation is transferred to the customer.
-Therefore, we recognize revenue from sales of our machine tool systems upon delivery of the product to the customer or distributor, which is normally at the time of shipment.
-Depending upon geographic location, after shipment, a machine may be installed at the customer’s facilities by a distributor, independent contractor or by one of our service technicians.
 For our five-axis machines that we install, we estimate the fair value of the installation performance obligation and recognize that installation revenue on a prorate basis over the period of the installation process.
-Customer discounts and estimated product returns are considered variable consideration and are recorded as a reduction of revenue in the same period that the related sales are recorded.
+We consider these services to be perfunctory within the context of the contract, as the value of these services typically does not rise to a material level as a component of the total contract value.
+Currently, the only risk that we manage through the use of derivative instruments is foreign currency risk, for which we enter into derivative instruments in the form of foreign currency forward exchange contracts with a few major financial institutions.
 We enter into these forward exchange contracts to reduce the potential effects of foreign exchange rate movements on our net equity investment in one of our foreign subsidiaries, to reduce the impact on gross profit and net earnings from sales and purchases denominated in foreign currencies, and to reduce the impact on our net earnings of foreign currency fluctuations on receivables and payables denominated in foreign currencies that are different than the subsidiaries’ functional currency.
 We are primarily exposed to foreign currency exchange rate risk with respect to transactions and net assets denominated in Euros, Pounds Sterling, Indian Rupee, South African Rand, Singapore Dollars, Chinese Yuan, Polish Zloty, and New Taiwan Dollars.
 We had forward contracts outstanding as of April 30, 2019, denominated in Euros, Pounds Sterling and New Taiwan Dollars with set maturity dates ranging from May 2019 through April 2020.
 The contract amounts, expressed at forward rates in U.S. Dollars at April 30, 2019, were $24.9 million for Euros, $9.5 million for Pounds Sterling and $26.0 million for New Taiwan Dollars.
 At April 30, 2019, we had approximately $702,000 of gains, net of tax, related to cash flow hedges deferred in Accumulated other comprehensive loss.
+Included in this amount were $195,000 of unrealized gains, net of tax, related to cash flow hedge instruments that remain subject to currency fluctuation risk.
+The majority of these deferred losses will be recorded as an adjustment to Cost of sales and service in periods through April 2020, when the corresponding inventory that is the subject of the related hedge contracts is sold, as described above.
+To manage this risk, we entered into a forward contract with a notional amount of €3.0 million in November 2018.
 
 
 item2.txt
 We design, manufacture and sell computerized (i.e., Computer Numeric Control, or CNC) machine tools, consisting primarily of vertical machining centers (mills) and turning centers (lathes), to companies in the metal cutting industry through a worldwide sales, service and distribution network.
+Our computer control systems and software products are primarily sold as integral components of our computerized machine tool products.
+We also provide machine tool components, software options, control upgrades, accessories and replacement parts for our products, as well as customer service, training and applications support.
+During the first six months of fiscal 2019, approximately 51% of our revenues were attributable to customers in Europe, where we typically sell more of our higher-performance, higher-priced VMX series machines.
 For example, when the U.S. Dollar weakens in value relative to a foreign currency, sales made, and expenses incurred, in that currency when translated to U.S. Dollars for reporting in our financial statements, are higher than would be the case when the U.S. Dollar is stronger.
-In the comparison of our period-to-period results, we discuss the effect of currency translation on those results, which reflect translation to U.S. Dollars at exchange rates prevailing during the period covered by those financial statements.
+In the comparison of our period-to-period results, we discuss the effect of currency translation on those results, which reflect translation to U.S. We seek to mitigate those risks through the use of various derivative instruments, principally foreign currency forward exchange contracts.
 Sales and service fees for the second quarter of fiscal 2019 were $70.7 million, an increase of $250,000, or less than 1%, compared to the corresponding prior year period and included an unfavorable currency impact of $3.0 million, or 4%, when translating foreign sales to U.S. dollars for financial reporting purposes.
 Sales in the Americas for the second quarter of fiscal 2019 increased by 10%, compared to the corresponding period in fiscal 2018.
 The increase in sales for the second quarter of fiscal 2019 was primarily attributable to sales of vertical milling machines from a U.S. machine tool distributor acquired by Hurco in the fourth quarter of fiscal 2018 located in California, one of the largest machine tool markets in the U.S., and increased customer demand for Hurco and Takumi vertical milling machines in the U.S. European sales for the second quarter of fiscal 2019 were relatively unchanged compared to the corresponding period in fiscal 2018, and included an unfavorable currency impact of 7%, when translating foreign sales to U.S. dollars for financial reporting purposes, which was largely offset by increased sales of Hurco vertical milling machines in Germany.
-Asian Pacific sales for the second quarter of fiscal 2019 decreased by 17%, compared to the corresponding period in fiscal 2018.
-The decrease in Asian Pacific sales for the second quarter of fiscal 2019 was primarily attributable to decreased shipments of Hurco vertical milling machines and Takumi bridge mill machines in China and an unfavorable currency impact of 2% when translating foreign sales to U.S. dollars for financial reporting purposes.
-Sales of computerized machine tools decreased slightly for the second quarter of fiscal 2019, compared to the corresponding period in fiscal 2018, and included an unfavorable currency impact of 4% when translating foreign sales to U.S. dollars for financial reporting purposes.
 Sales of computer control systems and software increased by 9%, compared to the corresponding period in fiscal 2018, due mainly to an increase in aftermarket software sales in France.
 Sales of service parts and service fees increased in the second quarter of fiscal 2019 by 4% and 5%, respectively, compared to the corresponding period in fiscal 2018.
-Orders for the second quarter of fiscal 2019 were $67.2 million, a decrease of $12.7 million, or 16%, compared to the corresponding period in fiscal 2018, and included an unfavorable currency impact of $2.6 million, or 3%, when translating foreign orders to U.S. dollars.
+The increases were primarily attributable to sales of aftermarket sales and service from the newly acquired distributor.
 
 
 item3.txt
@@ -37,6 +41,6 @@ We enter into foreign currency forward exchange contracts from time to time to h
 
 
 part2.txt
-This disclosure is made pursuant to Section 10A(i)(2) of the Securities Exchange Act of 1934, as added by Section 202 of the Sarbanes-Oxley Act of 2002.
+Pursuant to applicable accounting rules, we accrue the minimum liability for each known claim when the estimated outcome is a range of possible loss and no one amount within that range is more likely than another.
 
 

@@ -1,35 +1,40 @@
+fls.txt
+
+
+
 item1.txt
-In the opinion of management, the unaudited interim consolidated financial statements reflect all adjustments of a normal recurring nature that are necessary for a fair presentation of the results for the interim periods presented.
 The information included in this Form 10-Q should be read in conjunction with information included in the Microsoft Corporation 2017 Form 10-K filed with the U.S. Securities and Exchange Commission on August 2, 2017.
 We have also recast prior period securities lending payables to other current liabilities on our consolidated balance sheets to conform to the current period presentation, with no impact on consolidated net income or cash flows.
 The consolidated financial statements include the accounts of Microsoft Corporation and its subsidiaries.
 Investments for which we are not able to exercise significant influence over the investee and which do not have readily determinable fair values are accounted for under the cost method.
-Product revenue includes sales from operating systems; cross-device productivity applications; server applications; business solution applications; desktop and server management tools; software development tools; video games; and hardware such as PCs, tablets, gaming and entertainment consoles, other intelligent devices, and related accessories.
-Revenue is recognized upon transfer of control of promised products or services to customers in an amount that reflects the consideration we expect to receive in exchange for those products or services.
+Service and other revenue also includes sales from online advertising and LinkedIn. Revenue is recognized upon transfer of control of promised products or services to customers in an amount that reflects the consideration we expect to receive in exchange for those products or services.
 We enter into contracts that can include various combinations of products and services, which are generally capable of being distinct and accounted for as separate performance obligations.
-Revenue is recognized net of allowances for returns and any taxes collected from customers, which are subsequently remitted to governmental authorities.
-Licenses for on-premises software provide the customer with a right to use the software as it exists when made available to the customer.
 Revenue from distinct on-premises licenses is recognized upfront at the point in time when the software is made available to the customer.
 In cases where we allocate revenue to software updates, primarily because the updates are provided at no additional charge, revenue is recognized as the updates are provided, which is generally ratably over the estimated life of the related device or license.
+Certain volume licensing programs, including Enterprise Agreements, include on-premises licenses combined with Software Assurance (“SA”).
 SA conveys rights to new software and upgrades released over the contract period and provides support, tools, and training to help customers deploy and use products more efficiently.
 Revenue allocated to SA is generally recognized ratably over the contract period as customers simultaneously consume and receive benefits, given that SA comprises distinct performance obligations that are satisfied over time.
 Cloud services, which allow customers to use hosted software over the contract period without taking possession of the software, are provided on either a subscription or consumption basis.
+Revenue related to cloud services provided on a subscription basis is recognized ratably over the contract period.
+Revenue related to cloud services provided on a consumption basis, such as the amount of storage used in a period, is recognized based on the customer utilization of such resources.
+When cloud services require a significant level of integration and interdependency with software and the individual components are not considered distinct, all revenue is recognized over the period in which the cloud services are provided.
 
 
 item2.txt
 We generate revenue by licensing and supporting an array of software products, by offering a wide range of cloud-based and other services to consumers and businesses, by designing, manufacturing, and selling devices that integrate with our cloud-based services, and by delivering relevant online advertising to a global audience.
-Our most significant expenses are related to compensating employees; designing, manufacturing, marketing, and selling our products and services; datacenter costs in support of our cloud-based services; and income taxes.
 Office Consumer revenue increased 12% and Office 365 consumer subscribers increased to 30.6 million.
 LinkedIn revenue increased 37%, driven by strong momentum across all business lines.
 Server products and cloud services revenue increased 20%, driven by Azure revenue growth of 93%.
 Windows original equipment manufacturer licensing (“Windows OEM”) revenue increased 4%, driven by OEM Pro revenue growth of 11%.
 Windows Commercial revenue increased 21%, driven by an increased volume of multi-year agreements and the mix of products that carry higher in-quarter revenue recognition.
-Gaming revenue increased 18%, driven by Xbox software and services revenue growth of 24%, mainly from third-party title strength.
 Microsoft Surface revenue increased 32% against a prior year comparable impacted by product end-of-life-cycle dynamics.
-Search advertising revenue, excluding traffic acquisition costs, increased 16%, driven by higher revenue per search and search volume.
 
 
 item3.txt
+
+
+
+item4.txt
 
 
 
@@ -38,6 +43,8 @@ We face intense competition across all markets for our products and services, wh
 Our competitors range in size from diversified global companies with significant research and development resources to small, specialized firms whose narrower product lines may let them be more effective in deploying technical, marketing, and financial resources.
 Barriers to entry in many of our businesses are low and many of the areas in which we compete evolve rapidly with changing and disruptive technologies, shifting user needs, and frequent introductions of new products and services.
 Our ability to remain competitive depends on our success in making innovative products, devices, and services that appeal to businesses and consumers.
-A well-established ecosystem creates beneficial network effects among users, application developers, and the platform provider that can accelerate growth.
+We face significant competition from firms that provide competing platforms, applications, and services.
+A competing vertically-integrated model, in which a single firm controls the software and hardware elements of a product and related services, has succeeded with some consumer products such as personal computers, tablets, phones, gaming consoles, and wearables.
+Competitors pursuing this model also earn revenue from services integrated with the hardware and software platform.
 
 

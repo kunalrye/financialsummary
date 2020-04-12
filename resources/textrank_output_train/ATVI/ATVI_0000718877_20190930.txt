@@ -1,42 +1,42 @@
 fls.txt
-
+This Quarterly Report on Form 10-Q contains, or incorporates by reference, certain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.
 
 
 item1.txt
 Includes the net effects of capitalization, deferral, and amortization of share-based compensation expense.
-Effective December 31, 2018, Activision and Bungie mutually agreed to terminate their publishing relationship related to the Destiny franchise.
+Blizzard primarily delivers content through retail and digital channels, including subscriptions, full-game, and in-game sales, as well as by licensing software to third-party or related-party companies that distribute Blizzard products.
+Accordingly, the unaudited condensed consolidated financial statements should be read in conjunction with the audited consolidated financial statements and notes thereto included in our Annual Report on Form 10-K for the year ended December 31, 2018.
 The accompanying condensed consolidated financial statements include the accounts and operations of the Company.
 During the three months ended March 31, 2019, we identified an error principally related to the initial recognition of global intangible low-taxed income of foreign subsidiaries income taxes which should have been recorded in the three months and year ended December 31, 2018.
 Income tax expense for the three months and year ended December 31, 2018 should have been reduced by $35 million.
 This amount is not material to the consolidated financial statements for the year ended December 31, 2018, and we will revise our 2018 consolidated financial statements to correct this matter in our Annual Report on Form 10-K for the year ending December 31, 2019.
-In February 2016, the Financial Accounting Standards Board (“FASB”) issued new guidance related to the accounting for leases.
 The new standard, among other things, requires a lessee to classify a lease as either an operating or financing lease, and to recognize a lease liability and a right-of-use (“ROU”) asset for its leases.
 On January 1, 2019, we adopted the new lease accounting standard.
 As a result, we have updated our significant accounting policy disclosure to include our accounting policy for leases under the new standard.
+In certain of our lease arrangements, primarily those related to our data center arrangements, judgment is required in determining if a contract contains a lease.
+Lease assets and liabilities are recognized based on the present value of future lease payments over the lease term at the commencement date.
+Variable lease payments are recognized as lease expenses as incurred, and generally relate to variable payments made based on the level of services provided by the landlords of our leases.
 
 
 item2.txt
-Activision Blizzard, Inc. is a leading global developer and publisher of interactive entertainment content and services.
+In connection with the 2008 business combination by and among the Company (then known as Activision, Inc.), Vivendi S.A, and Vivendi Games, Inc., then an indirect wholly-owned subsidiary of Vivendi S.A., we were renamed Activision Blizzard, Inc. In 2010, Activision entered into an exclusive relationship with Bungie, Inc.
+(“Bungie”) to publish games in the Destiny franchise.
+Blizzard primarily delivers content through retail and digital channels, including subscriptions, full-game, and in-game sales, as well as by licensing software to third-party or related-party companies that distribute Blizzard products.
+King’s games are free to play; however, players can acquire in-game items, either with virtual currency or real currency, and we continue to focus on in-game advertising as a growing source of additional revenue.
 •the Activision Blizzard Distribution (“Distribution”) business, which consists of operations in Europe that provide warehousing, logistics, and sales distribution services to third-party publishers of interactive entertainment software, our own publishing operations, and manufacturers of interactive entertainment hardware.
+We monitor net bookings as a key operating metric in evaluating the performance of our business.
+Net bookings is the net amount of products and services sold digitally or sold-in physically in the period, and includes license fees, merchandise, and publisher incentives, among others.
+Net bookings is equal to net revenues excluding the impact from deferrals.
+In-game net bookings primarily includes the net amount of downloadable content and microtransactions sold during the period, and is equal to in-game net revenues excluding the impact from deferrals.
 Q3 2019 vs.
 Q3 2018
-•a decrease in Activision net bookings of $188 million driven by (1) lower net bookings from the Destiny franchise (reflecting our sale of the publishing rights for Destiny to Bungie in December 2018), and (2) lower net bookings from the Call of Duty franchise catalog titles.
 Q3 2019 vs.
 Q3 2018
-The decrease in in-game net bookings for the three months ended September 30, 2019, as compared to the three months ended September 30, 2018, was primarily due to a decrease in Blizzard and Activision in-game net bookings of $183 million and $113 million, respectively, due to the same drivers discussed for net bookings above.
-MAUs are the number of individuals who accessed a particular game in a given month.
-In addition, due to technical limitations, for Activision and King, an individual who accesses the same game on two platforms or devices in the relevant period would be counted as two users.
-For Blizzard, an individual who accesses the same game on two platforms or devices in the relevant period would generally be counted as a single user.
-Average MAUs decreased by 11 million, or 3%, for the three months ended September 30, 2019, as compared to the three months ended June 30, 2019, primarily driven by a decrease in average MAUs for King.
-The decrease in King’s average MAUs is primarily due to decreases from the Candy Crush franchise.
-Games have become an increasingly popular form of entertainment, and we estimate the total industry has grown, on average, 18% annually from 2015 to 2018.
-Offering downloadable content and microtransactions, in addition to full games, allows our players to access and invest in new content throughout the year.
-This incremental content not only provides additional high-margin revenues, it can also increase player engagement.
-Q3 2019 vs.
 
 
 item3.txt
-We transact business in many different foreign currencies and may be exposed to financial market risk resulting from fluctuations in foreign currency exchange rates.
+To mitigate our foreign currency risk resulting from our foreign currency-denominated monetary assets, liabilities, and earnings and our foreign currency risk related to functional currency-equivalent cash flows resulting from our intercompany transactions, we periodically enter into currency derivative contracts, principally forward contracts.
+The fair values of our foreign currency contracts are estimated based on the prevailing exchange rates of the various hedged currencies as of the end of the period.
 
 
 item4.txt
@@ -44,6 +44,6 @@ item4.txt
 
 
 part2.txt
-Item 1.
+
 
 

@@ -1,3 +1,7 @@
+fls.txt
+
+
+
 item1.txt
 The Company adopted ASC 606 on the first day of the current fiscal year, June 25, 2018, under the modified retrospective approach, applying the amendments to prospective reporting periods.
 In conjunction with the adoption of ASC 606, the Company’s revenue recognition policy has been amended, refer to Note 3 - Revenue for a description of the amendments.
@@ -6,40 +10,40 @@ Under ASC 606, the Company recognizes revenue from sales of systems when the Com
 Except as disclosed above, the adoption of ASC 606 did not have a significant impact on the Company’s Condensed Consolidated Statement of Operations for the three and nine months ended March 31, 2019.
 The amendments provide clarity on the measurement methodology to be used for the required disclosure of fair value of financial instruments measured at amortized cost on the balance sheet and clarifies that an entity should evaluate the need for a valuation allowance on deferred tax assets related to available-for-sale securities in combination with the entity’s other deferred tax assets, among other changes.
 The Company’s adoption of this standard in the first quarter of fiscal year 2019 did not have a material impact on its Condensed Consolidated Financial Statements.
-The Company adopted this standard update in the first quarter of fiscal year 2019 using a retrospective transition method.
 The Company’s adoption of this standard did not have a material impact on its Condensed Consolidated Financial Statements.
-The Company adopted this standard in the first quarter of fiscal year 2019 using a modified-retrospective approach through a cumulative-effect adjustment directly to retained earnings.
 The Company’s adoption of this standard resulted in a $0.4 million decrease to retained earnings and a corresponding $0.4 million increase to other assets on its Condensed Consolidated Financial Statements.
+In November 2016, the FASB released ASU 2016-18, “Statement of Cash Flows – Restricted Cash.” This standard update requires that restricted cash and restricted cash equivalents be included in cash and cash equivalents when reconciling the beginning-of-period and end-of-period total amounts shown in the statement of cash flows.
 The Company adopted these amendments in the first quarter of fiscal Year 2019 and as a result the Company has included a Condensed Consolidated Statement of Stockholders’ Equity to this quarterly report on Form 10-Q.
 In June 2016, the FASB released ASU 2016-13, “Financial Instruments – Credit Losses.” The amendment revises the impairment model to utilize an expected loss methodology in place of the currently used incurred loss methodology, which will result in more timely recognition of losses on financial instruments, including but not limited to, available for sale debt securities and accounts receivable.
-The Company is required to adopt this standard starting in the first quarter of fiscal year 2021 using a modified-retrospective approach.
 The Company is currently in the process of evaluating the impact of adoption on its Condensed Consolidated Financial Statements.
+The Company is currently evaluating the impact of adoptions on its Condensed Consolidated Financial Statements.
+The Company recognizes revenue when promised goods or services are transferred to customers in an amount that reflects the consideration to which the Company expects to be entitled in exchange for those goods or services by following a five-step process, (1) identify the contract with a customer, (2) identify the performance obligations in the contract, (3) determine the transaction price, (4) allocate the transaction price, and (5) recognize revenue when or as the Company satisfies a performance obligation, as further described below.
+The Company generally invoices customers at shipment and for professional services either as provided or upon meeting certain milestones.
 
 
 item2.txt
 Despite recent semiconductor capital investment volatility, over the longer term, we believe that technology inflections in our industry, including 3D device scaling, multiple patterning, process flow, and advanced packaging chip integration will lead to an increase in our served addressable market for our products and services in deposition, etch, and clean.
-While there could be continued variability in the near-term, we believe that demand for our products and services will increase faster than overall spending on wafer fabrication equipment, as the proportion of customers’ capital expenditures rises in these technology inflection areas, and as we continue to gain market share.
 In the March 2019 quarter, revenue decreased slightly compared to the December 2018 quarter.
-Gross margin as a percentage of revenue in the March 2019 quarter declined compared to the December 2018 quarter primarily due to lower factory and field utilization and customer and product mix.
 The increase in operating expenses in the March 2019 quarter compared to the December 2018 quarter was mainly driven by increases in employee-related costs resulting from seasonal impacts, an extra work week in the quarter, and restructuring charges.
 Additionally, our March 2019 quarter operating income was negatively impacted primarily by the appreciation of the stock market during the quarter as we incurred additional costs related to our deferred compensation plan liabilities.
+We have deferred compensation plan-related assets designed to mitigate market valuation exposure to these liabilities, and the market gains for the March 2019 quarter associated with these assets are recognized in other income and expense.
 
 
 item3.txt
-We mitigate default risk by investing in high credit quality securities and by positioning our portfolio to respond appropriately to a significant reduction in a credit rating of any investment issuer or guarantor.
+
 
 
 item4.txt
-We maintain disclosure controls and procedures and internal control over final reporting that are designed to comply with Rule 13a-15 of the Exchange Act. In designing and evaluating the controls and procedures associated with each, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives, and that the effectiveness of controls cannot be absolute because the cost to design and implement a control to identify errors or mitigate the risk of errors occurring should not outweigh the potential loss caused by the errors that would likely be detected by the control.
+We maintain disclosure controls and procedures and internal control over final reporting that are designed to comply with Rule 13a-15 of the Exchange Act. Moreover, we believe that a control system cannot be guaranteed to be 100% effective all of the time.
 
 
 part2.txt
+The variability in our customers’ investments during any particular period is dependent on several factors, including but not limited to electronics demand, economic conditions (both general and in the semiconductor and electronics industries), industry supply and demand, prices for semiconductors, and our customers’ ability to develop and manufacture increasingly complex and costly semiconductor devices.
 During periods of rapid growth or decline in demand for our products and services, we face significant challenges in maintaining adequate financial and business controls, management processes, information systems, and procedures for training, assimilating, and managing our workforce, and in appropriately sizing our supply chain infrastructure and facilities, work force, and other components of our business on a timely basis.
+Especially during transitional periods, resource allocation decisions can have a significant impact on our future performance, particularly if we have not accurately anticipated industry changes.
+Our success will depend, to a significant extent, on the ability of our executive officers and other members of our senior management to identify and respond to these challenges effectively.
 •the dilutive impact of our Convertible Notes (as defined below) on our earnings per share.
 Our revolving credit facility also includes an option to increase the amount up to an additional $600.0 million, for a potential total commitment of $1.85 billion.
 In addition, we have entered, and in the future may enter, into derivative instrument arrangements to hedge against the variability of cash flows due to changes in the benchmark interest rate of fixed rate debt.
-Our ability to meet our expenses and debt obligations will depend on our future performance, which will be affected by financial, business, economic, regulatory, and other factors.
-Furthermore, our operations may not generate sufficient cash flows to enable us to meet our expenses and service our debt.
-Conversion of our Convertible Notes may cause dilution to our stockholders and to our earnings per share.
 
 

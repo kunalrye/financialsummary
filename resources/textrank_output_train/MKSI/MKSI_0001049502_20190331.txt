@@ -1,23 +1,26 @@
+fls.txt
+
+
+
 item1.txt
 Tax expense (benefit) was $15 and ($112) for the three months ended March 31, 2019 and 2018, respectively.
 Tax benefit was $21 and $36 for the three months ended March 31, 2019 and 2018, respectively.
 Tax benefit was $16 and $17 for the three months ended March 31, 2019 and 2018, respectively.
+The interim financial data as of March 31, 2019, and for the three months ended March 31, 2019 are unaudited; however, in the opinion of MKS, the interim data includes all adjustments, consisting of normal recurring adjustments, necessary for a fair statement of the results for the interim periods.
+The unaudited condensed consolidated financial statements should be read in conjunction with the audited consolidated financial statements and notes thereto included in the MKS Annual Report on Form 10-K for the year ended December 31, 2018 filed with the Securities and Exchange Commission on February 26, 2019.
+In October 2018, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) 2018-16, Derivatives and Hedging (Topic 815). This standard permits the use of the Overnight Index Swap Rate (OIS) based on the Secured Overnight Financing Rate as a U.S. benchmark interest rate for hedge accounting purposes under Topic 815 in addition to the interest rates on direct treasury obligations of the U.S. government, the London Interbank Offered Rate (LIBOR) swap rate, the OIS rate based on the Federal Funds Effective Rate and the Securities Industry and Financial Markets Association Municipal Swap Rate.
+The Company adopted this ASU during the first quarter of 2019 and the adoption of this ASU did not have a material impact on the Companys consolidated financial statements.
 The Company adopted this ASU during the first quarter of 2019 and the adoption of this ASU did not have a material impact on the Companys consolidated financial statements.
 This standard requires the recognition of lease assets and liabilities for all leases, with certain exceptions, on the balance sheet.
 The Company adopted ASU 2016-02 on January 1, 2019, and used the effective date as its date of initial application.
 The Company also elected to adopt the package of practical expedients upon transition, which permits companies to not reassess lease identification, classification, and initial direct costs under ASU 2016-02 for leases that commenced prior to the effective date.
 Upon adoption, the Company recorded a cumulative effect of initially applying this new standard, resulting in the addition of $71,042 of right-of-use assets and $20,192 and $54,147 of short-term and long-term lease liabilities, respectively.
-The Company does not have any finance leases.
-The Company has existing net leases in which the non-lease components (e.g. common area maintenance, maintenance, consumables, etc.) are paid separately from rent based on actual costs incurred.
-Therefore, non-lease components are not included in the right-of-use asset and lease liability and are reflected as expenses in the periods incurred.
-The Company has existing leases that include variable lease and non-lease components that are not included in the right-of-use asset and lease liability, and are reflected as expenses in the periods incurred.
+The Company has existing net leases in which the non-lease components (e.g. are paid separately from rent based on actual costs incurred.
 Contract assets as of March 31, 2019 and December 31, 2018 were $3,624 and $3,624, respectively, and included in other current assets.
 Ending deferred revenue as of March 31, 2019 included $13,322 of current deferred revenue, $3,018 of long-term deferred revenue and $7,734 of current customer advances.
-The tables above, which show the gross unrealized gains and (losses) aggregated by investment category for available-for-sale investments as of March 31, 2019 and December 31, 2018, reflect the inclusion within short-term investments of investments with contractual maturities greater than one year from the date of purchase.
-In accordance with the provisions of fair value accounting, a fair value measurement assumes that the transaction to sell an asset or transfer a liability occurs in the principal market for the asset or liability or, in the absence of a principal market, the most advantageous market for the asset or liability and defines fair value based upon an exit price model.
-Level 2   Observable inputs other than Level 1 prices, such as quoted prices for similar assets or liabilities; quoted prices in markets that are not active; or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities.
 Level 2 assets and liabilities include debt securities with quoted prices that are traded less frequently than exchange-traded instruments or securities or derivative contracts that are valued using a pricing model with inputs that are observable in the market or can be derived principally from or corroborated by observable market data.
-Level 3   Unobservable inputs that are supported by little or no market activity and that are significant to the fair value of the assets or liabilities.
+Level 3 assets and liabilities include financial instruments whose value is determined using pricing models, discounted cash flow methodologies, or similar techniques, as well as instruments for which the determination of fair value requires significant management judgment or estimation.
+In such cases, the Company categorizes such assets and liabilities based on the lowest level input that is significant to the fair value measurement in its entirety.
 
 
 item2.txt
@@ -37,6 +40,7 @@ item4.txt
 
 
 part2.txt
-Newport Corp., et al., Case No. A-16-733154-C, and Hubert C.
+Newport Corp., et al., Case No. A-16-734039-B, were filed in the District Court, Clark County, Nevada on behalf of a putative class of stockholders of Newport Corporation (Newport) for claims related to the merger agreement (Newport Merger Agreement) between the Company, Newport, and a wholly-owned subsidiary of the Company (Merger Sub).
+The lawsuits named as defendants the Company, Newport, Merger Sub, and certain then current and former members of Newports board of directors.
 
 

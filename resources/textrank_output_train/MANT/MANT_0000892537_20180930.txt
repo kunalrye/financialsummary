@@ -3,43 +3,48 @@ fls.txt
 
 
 item1.txt
-3.Revenue from Contracts with Customers
+We recommend that you read these condensed consolidated financial statements in conjunction with the audited consolidated financial statements and related notes included in our Annual Report on Form 10-K for the fiscal year ended December 31, 2017, previously filed with the SEC.
 Revenue Recognition - On January 1, 2018, we adopted Accounting Standards Codification (ASC) 606, Revenue from Contracts with Customers using the modified retrospective method applied to those contracts that were not substantially complete as of January 1, 2018.
 ASC 606 outlines a five-step model whereby revenue is recognized as performance obligations within the contract are satisfied.
 We recognized the cumulative effect of adopting ASC 606 as an increase to the 2018 opening balance of retained earnings in the amount of $0.8 million, with the impact primarily related to fixed-price contracts.
 Revenue for the nine months ended September 30, 2018 increased $3.3 million as a result of applying ASC 606.
-We recognize revenue over time when there is a continuous transfer of control to our customer.
+At contract inception, we identify the distinct goods or services promised in the contract, referred to as performance obligations.
+Then we determine the transaction price for the contract; the consideration to which we can expect in exchange for the promised goods or services in the contract.
+The transaction price is allocated to each distinct performance obligation using our best estimate of the standalone selling price for each distinct good or service promised in the contract.
 For our U.S. government contracts, this continuous transfer of control to the customer is supported by clauses in the contract that allow the U.S. government to unilaterally terminate the contract for convenience, pay us for costs incurred plus a reasonable profit and take control of any work in process.
 When control is transferred over time, revenue is recognized based on the extent of progress towards completion of the performance obligation.
 Based on the nature of the products and services provided in the contract, we use our judgment to determine if an input measure or output measure best depicts the transfer of control over time.
-Revenue is recognized proportionally as contract costs are incurred plus estimated fees.
-For time-and-material contracts, we bill the customer per labor hour and per material, and revenue is recognized in the amount invoiced since the amount corresponds directly to the value of our performance to date.
+For services contracts, we typically satisfy our performance obligations as services are rendered.
+Contract costs include labor, material and allocable indirect expenses.
 For stand-ready service contracts, a time-elapsed output method is used to measure progress, and revenue is recognized straight-line over the term of the contract.
-If a contract does not meet the criteria for recognizing revenue over time, we recognize revenue at a point in time.
-Revenue is recognized at the point in time when control of the good or service is transferred to our customer.
-Determining a measure of progress and when control transfers requires us to make judgments that affect the timing of when revenue is recognized.
-As part of this process, management reviews information including, but not limited to, any outstanding key contract matters, progress towards completion and the related program schedule, identified risks and opportunities and the related changes in estimates of revenue and costs.
+Essentially, all of our contracts satisfy their performance obligations over time.
+The effect of a contract modification on the transaction price and our measure of progress for the performance obligation to which it relates is recognized as an adjustment to revenue and profit cumulatively.
 
 
 item2.txt
-The following table sets forth certain items from our condensed consolidated statements of income and the relative percentage that certain items of expenses and earnings bear to revenue, as well as the period-to-period change from September 30, 2017 to September 30, 2018.
+We expect future appropriations to be debated with the consideration of policy priorities, national budget deficits, debt ceilings and the Budget Control Act. We recommend that you read this discussion and analysis in conjunction with our Annual Report on Form 10-K for the fiscal year ended December 31, 2017, previously filed with the Securities and Exchange Commission.
 The primary driver of our increase in revenues relates to revenues from new contract awards and growth on certain existing contracts and acquisitions.
-As a percentage of revenue, direct labor costs were 46% for the three months ended September 30, 2018, compared to 48% for the same period in 2017.
 As a percentage of revenues, other direct costs, which include subcontractors and third party equipment and materials used in the performance of our contracts, was 39% for the three months ended September 30, 2018, compared to 38% for the same period in 2017.
 The increase in interest expense was due to increased borrowings under our credit facility to fund the acquisition of InfoZen in the fourth quarter of 2017 and the purchase of equipment to support a managed IT services contract.
-The following table sets forth certain items from our condensed consolidated statements of income and the relative percentage that certain items of expenses and earnings bear to revenue, as well as the period-to-period change from September 30, 2017 to September 30, 2018.
+Our effective income tax rates were 24% and 35% for the three months ended September 30, 2018 and 2017, respectively.
 The primary driver of our increase in revenue relates to revenues from new contract awards and growth on existing contracts, including higher levels of material procurements, and acquisitions.
-As a percentage of revenue, direct labor costs were 48% for the nine months ended September 30, 2018, compared to 49% for the same period in 2017.
 As a percentage of revenue, other direct costs, which include subcontractors as well as equipment and materials used in the performance of our contracts, was 38% for the nine months ended September 30, 2018, compared to 37% for the same period in 2017.
 We expect cost of services as a percentage of revenues to remain steady or slightly increase for the remainder of 2018 due to the potential for higher levels of materials in the last quarter of the year.
 The increase in interest expense was due to increased borrowings under our credit facility to fund the acquisition of InfoZen in the fourth quarter of 2017 and the purchase of equipment to support a managed IT services contract.
+Our effective income tax rates were 25% and 36% for the nine months ended September 30, 2018 and 2017, respectively.
+We define funded backlog to be the portion of backlog for which funding currently is appropriated and allocated to the contract by the purchasing agency or otherwise authorized for payment by the customer upon completion of a specific portion of work.
+A variety of circumstances or events may cause changes in the amount of our backlog and funded backlog, including the execution of new contracts, the extension of existing contracts, the non-renewal or completion of current contracts, the early termination of contracts, and adjustment to estimates for previously included contracts.
+
+
+item3.txt
+
 
 
 item4.txt
-As a result, our disclosure controls and procedures are designed to provide reasonable assurance that such disclosure controls and procedures will meet their objectives.
+Disclosure controls and procedures are also designed to provide reasonable assurance that such information is accumulated and communicated to our management, including our principal executive officer and our principal financial officer, as appropriate to allow timely decisions regarding required disclosure.
 
 
 part2.txt
-Item 1A.Risk Factors
+
 
 

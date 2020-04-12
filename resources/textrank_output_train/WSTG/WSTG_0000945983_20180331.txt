@@ -1,20 +1,22 @@
 fls.txt
-Substantial risks and uncertainties unknown at this time could cause actual results to differ materially from those indicated by such forward-looking statements, 
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations contains, in addition to historical information, forward-looking statements that involve risks and uncertainties.
 
 
 item1.txt
+In the opinion of the Company’s management, all adjustments that are of a normal recurring nature, considered necessary for fair presentation, have been included in the accompanying condensed consolidated financial statements.
+For further information, refer to the consolidated financial statements and notes thereto included in the Company’s annual report on Form 10-K filed with the Securities Exchange Commission for the year ended December 31, 2017.
 Effective January 1, 2018 we adopted the requirements of Accounting Standards Update, or ASU, No. 2014-09 Revenue from Contracts with customers, or Accounting Standard Codification (“ASC”) 606 using the full retrospective method, as discussed in detail in Note 5.
-ASU 2016-02 requires a lessee to recognize in the statement of financial position a liability to make lease payments and a right-of-use asset representing its right to use the underlying asset for the lease term.
-The Company is currently assessing the potential impact of adopting ASU 2016-02 on its consolidated financial statements.
-In June 2016, the FASB issued Accounting Standards Update No. 2016-13, Financial Instruments - Credit Losses (Topic 326) ("ASU No. 2016-13").
-ASU No. 2016-13 is effective for the Company in the first quarter of 2020, with early adoption permitted, and is to be applied using a modified retrospective approach.
-The Company is currently evaluating the potential effects of adopting the provisions of ASU No. 2016-13 on its consolidated financial statements, particularly its recognition of allowances for accounts receivable.
-The adoption of this guidance did not have a material impact on the Company’s consolidated financial statements.
+Earnings per share for the three months ended March 31, 2017 were recalculated and restated using the two class method and presented on a comparable basis with the same periods in 2018.
+In 2017 the Company determined it should be reporting earnings per share using the two-class method in accordance with ASC 260-10-45-60, which treats unvested restricted shares granted under our 2012 Stock-Based Compensation Plan that are entitled to receive non-forfeitable dividends as participating securities.
+While the Company has determined the impact of applying the two-class method does not have a material impact on previously issued financial statements, it is appropriate to recalculate and restate amounts presented on a comparative and consistent basis with current period results.
+2016-13 on its consolidated financial statements, particularly its recognition of allowances for accounts receivable.
 The amendments in this updated guidance clarify that an entity should apply modification accounting in response to a change in the terms and conditions of an entity’s share-based payment awards unless three newly specified criteria are met.
 The new guidance was effective for the Company on a prospective basis beginning on January 1, 2018 and did not impact the Company’s Consolidated Financial Statements as it is not the Company’s practice to change either the terms or conditions of stock-based payment awards once they are granted.
-In August 2017, the FASB issued ASU No. 2017-12, Derivatives and Hedging (Topic 815) – Targeted Improvements to Accounting for Hedging Activities, which improves the financial reporting of hedging relationships to better portray the economic results of an entity’s risk management activities in its financial statements.
-ASU No. 2017-12 is effective for fiscal years beginning after December 15, 2018, including interim periods within those fiscal years; the ASU allows for early adoption in any interim period after issuance of the update.
 The Company is currently assessing the impact this ASU will have on its consolidated financial statements.
+Effective January 1, 2018, we adopted ASC 606 using the full retrospective method, which requires us to restate our historical financial information to reflect the adoption as of the earliest reporting period presented.
+The most significant impact of adopting the standard relates to the determination of whether the Company is acting as a principal or an agent in the sale of third party security software and software that is highly interdependent with support, as well as maintenance, support and other services.
+Historically, under the transfer of risk and rewards model of revenue recognition, the Company has accounted for primarily all of its sales on a gross basis.
+The new guidance requires the Company to identify performance obligations and assess transfer of control.
 
 
 item2.txt
@@ -24,13 +26,13 @@ On an on-going basis, the Company evaluates its estimates, including those relat
 The Company believes the following critical accounting policies used in the preparation of its consolidated financial statements affect its more significant judgments and estimates.
 The Company makes estimates regarding performance obligations inherent in the products and services it sells including, whether ongoing maintenance obligations performed by third party vendors are distinct from the related software licenses, and allocation of sales prices among distinct performance obligations.
 The Company’s accounts receivable long-term are discounted to their present value at prevailing market rates at the time of sale based on prevailing rates.
-The Company writes down its inventory for estimated obsolescence or unmarketable inventory equal to the difference between the cost of inventory and the estimated market value based upon assumptions about future demand and market conditions.
 In the event the Company were to determine that it would not be able to realize all or part of its net deferred tax assets in the future, an adjustment to the deferred tax assets would be charged to income in the period such determination was made.
-Under the fair value recognition provision, stock-based compensation cost is measured at the grant date based on the fair value of the award and is recognized as expense on a straight-line basis over the requisite service period.
 ASU 2016-02 requires a lessee to recognize in the statement of financial position a liability to make lease payments and a right-of-use asset representing its right to use the underlying asset for the lease term.
 The Company is currently assessing the potential impact of adopting ASU 2016-02 on its consolidated financial statements.
-ASU No. 2016-13 is effective for the Company in the first quarter of 2020, with early adoption permitted, and is to be applied using a modified retrospective approach.
 The Company is currently evaluating the potential effects of adopting the provisions of ASU No. 2016-13 on its consolidated financial statements, particularly its recognition for accounts receivable.
+The adoption of this guidance did not have a material impact on the Company’s consolidated financial statements.
+The amendments in this updated guidance clarify that an entity should apply modification accounting in response to a change in the terms and conditions of an entity’s share-based payment awards unless three newly specified criteria are met.
+The new guidance was effective for the Company on a prospective basis beginning on January 1, 2018 and did not impact the Company’s Consolidated Financial Statements as it is not the Company’s practice to change either the terms or conditions of stock-based payment awards once they are granted.
 
 
 item3.txt
@@ -38,12 +40,10 @@ item3.txt
 
 
 item4.txt
-Evaluation of Disclosure Controls and Procedures.
 As required by Rule 13a-15(b) under the Exchange Act, our management carried out an evaluation of the effectiveness of the design and operation of the Company’s “disclosure controls and procedures”, as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, as of the end of the period covered by this report.
 
 
 part2.txt
 (1)    Includes 9,126 shares surrendered to the Company by employees to satisfy individual tax withholding obligations upon vesting of previously issued shares of Restricted Stock.
-(2)    Average price paid per share reflects the closing price the Company’s Common Stock on the business date the shares were surrendered by the employee stockholder to satisfy individual tax withholding obligations upon vesting of Restricted Stock or the price of the Common Stock paid on the open market purchase, as applicable.
 
 

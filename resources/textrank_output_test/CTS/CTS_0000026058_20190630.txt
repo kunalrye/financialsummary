@@ -1,23 +1,28 @@
+fls.txt
+
+
+
 item1.txt
-Beginning in January 2019, CTS adopted the provisions of Accounting Standards Update ("ASU") 2016-02, "Leases (Topic 842)" under the optional transition method, which requires, if necessary, a cumulative effect adjustment to the opening balance of retained earnings.
 The lease liability is based on the present value of minimum lease payments discounted using our secured incremental borrowing rate at the date of adoption.
 Existing deferred rent liabilities, resulting from our historical practice of using the straight line method for recognizing lease expense, were reclassified upon adoption to reduce the measurement of the lease assets.
-We elected the package of practical expedients permitted under the transition guidance, which among other things, allows us to carry forward the historical accounting relating to lease identification and classification for existing leases at adoption.
-Upon adoption we recorded a lease liability of $24,792 and a right of use asset of $22,066.
 During the three and six months ended June 30, 2019, we recognized revenues of $37 and $106, respectively, for amounts that were included in contract liabilities at the beginning of the period.
-Costs associated with exit and restructuring activities are recorded in the Condensed Consolidated Statement of Earnings as a separate component of Operating earnings.
+In June 2016, we announced plans to restructure operations by phasing out production at our Elkhart facility and transitioning it into a research and development center supporting our global operations ("June 2016 Plan").
 The total restructuring liability related to severance and other one-time benefit arrangements under the June 2016 Plan was $501 at June 30, 2019, and $668 at December 31, 2018.
-We accrue a liability for probable remediation activities, claims and proceedings against us with respect to environmental matters if the amount can be reasonably estimated, and provide disclosures including the nature of a loss whenever it is probable or reasonably possible that a potentially material loss may have occurred but cannot be estimated.
-These costs are included in interest expense in our Condensed Consolidated Statement of Earnings.
+The remaining restructuring liability related to the April 2014 Plan was $701 at June 30, 2019, and $918 at December 31, 2018.
+On February 12, 2019, we entered into an amended and restated five-year Credit Agreement with a group of banks (the "Credit Agreement") to extend the term of the facility.
+Amortization expense was approximately $41 and $46 for the three months ended June 30, 2019 and 2018, respectively and approximately $77 and $93 for the six months ended June 30, 2019 and 2018, respectively.
+We selectively use derivative financial instruments including foreign currency forward contracts and interest rate swaps to manage our exposure to these risks.
 The use of derivative financial instruments exposes the Company to credit risk, which relates to the risk of nonperformance by a counterparty to the derivative contracts.
 We manage our credit risk by entering into derivative contracts with only highly rated financial institutions and by using netting agreements.
+No recognition of ineffectiveness was recorded in our Condensed Consolidated Statement of Earnings for the three and six months ended June 30, 2019.
 We use forward contracts to mitigate currency risk related to a portion of our forecasted foreign currency revenues and costs.
 The currency forward contracts are designed as cash flow hedges and are recorded in the Condensed Consolidated Balance Sheets at fair value.
+At June 30, 2019, we had a net unrealized gain of $784 in accumulated other comprehensive (loss) income, of which $784 is expected to be reclassified to income within the next 12 months.
+At June 30, 2018 we had a net unrealized gain of $59 in accumulated other comprehensive (loss) income.
 
 
 item2.txt
 Sales were $120,684 in the second quarter of 2019, an increase of $2,663 or 2.3% from the second quarter of 2018.
-Changes in foreign exchange rates decreased sales by $1,861 year-over-year due to the U.S. Dollar appreciating compared to the Chinese Renminbi and Euro and relating mostly to sales of products to the transportation end market.
 Gross margin as a percent of sales was 34.1% in the second quarter of 2019 compared to 35.4% in the second quarter of 2018.
 Research and development expenses were $6,257 or 5.2% of sales in the second quarter of 2019 compared to $6,476 or 5.5% of sales in the comparable quarter of 2018.
 Restructuring charges were $911 or 0.8% of sales in the second quarter of 2019.
@@ -28,7 +33,7 @@ Other expense in the second quarter of 2019 was principally driven by foreign cu
 Our effective income tax rate was 25.1% and 37.7% in the second quarters of 2019 and 2018, respectively.
 The decrease in the effective tax rate for the three months ended June 30, 2019, compared with the same period in 2018, was primarily attributed to the 2018 withholding tax payment of $1,703 on a one-time distribution from Taiwan.
 Sales were $238,308 in the six months ended June 30, 2019, an increase of $6,757 or 2.9% from the six months ended June 30, 2018.
-Changes in foreign exchange rates decreased sales by $3,632 year-over-year due to the U.S. Dollar appreciating compared to the Chinese Renminbi and Euro and relating mostly to sales of products to the transportation end market.
+Gross margin as a percent of sales was 34.3% in the six months ended June 30, 2019 compared to 34.7% for the six months ended June 30, 2018.
 
 
 item4.txt
@@ -36,7 +41,6 @@ item4.txt
 
 
 part2.txt
-Item 1.
-Legal Proceedings
+On February 7, 2019 the Board of Directors authorized a new stock repurchase program with a maximum dollar limit of $25 million.
 
 

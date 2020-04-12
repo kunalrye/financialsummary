@@ -1,35 +1,36 @@
 fls.txt
-
+This MD&A is provided as a supplement to, should be read in conjunction with, and is qualified in its entirety by reference to, our Condensed Consolidated Financial Statements (Unaudited) and accompanying Notes appearing elsewhere in this Report (the “Notes”).
+“Management’s Discussion and Analysis of Financial Condition and Results of Operations” included in our Fiscal 2018 Form 10-K.
 
 
 item1.txt
+The accompanying Condensed Consolidated Financial Statements (Unaudited) include the accounts of Harris Corporation and its consolidated subsidiaries.
+As used in these Notes to Condensed Consolidated Financial Statements (Unaudited) (these “Notes”), the terms “Harris,” “Company,” “we,” “our” and “us” refer to Harris Corporation and its consolidated subsidiaries.
+The accompanying Condensed Consolidated Financial Statements (Unaudited) have been prepared by Harris, without an audit, in accordance with U.S. generally accepted accounting principles (“GAAP”) for interim financial information and with the rules and regulations of the Securities and Exchange Commission (“SEC”).
+The results for the quarter ended September 28, 2018 are not necessarily indicative of the results that may be expected for the full fiscal year or any subsequent period.
+The balance sheet at June 29, 2018 has been derived from our audited financial statements and reflects the adoption of Accounting Standards Update (“ASU”) 2014-09, Revenue from Contracts with Customers (Topic 606), as amended (“ASC 606”), as described below under “Adoption of New Accounting Standards.” The balance sheet at June 29, 2018 does not include all of the information and footnotes required by GAAP for annual financial statements.
 The classification of certain prior-period amounts has been adjusted in our Condensed Consolidated Financial Statements (Unaudited) to conform with current-period classifications.
 Reclassifications include certain direct selling and bid and proposal costs from the “Cost of product sales and services” line item to the “Engineering, selling and administrative expenses” line item in our Condensed Consolidated Statement of Income (Unaudited) and in these Notes.
-We account for a contract when it has approval and commitment from all parties, the rights and payment terms of the parties can be identified, the contract has commercial substance and the collectibility of the consideration, or transaction price, is probable.
-Our contracts are often subsequently modified to include changes in specifications, requirements or price that may create new or change existing enforceable rights and obligations.
 Therefore, such modifications are accounted for as if they were part of the existing contract, and we may be required to recognize a cumulative catch-up adjustment to revenue at the date of the contract modification.
 We determine the transaction price for each contract based on our best estimate of the consideration we expect to receive, which includes assumptions regarding variable consideration, such as award and incentive fees.
-We include such estimated amounts in the transaction price to the extent it is probable that a significant reversal of cumulative revenue recognized will not occur when the uncertainty associated with the variable consideration is resolved.
+These variable amounts are generally awarded upon achievement of certain negotiated performance metrics, program milestones or cost targets and can be based upon customer discretion.
 For contracts with multiple performance obligations, we allocate the transaction price to each performance obligation based on the relative standalone selling price of the good or service underlying each performance obligation.
-Our contracts with the U.S. Government, including foreign military sales contracts, are subject to the Federal Acquisition Regulations (“FAR”) and the prices of our contract deliverables are typically based on our estimated or actual costs plus a reasonable profit margin.
 As a result, the standalone selling prices of the goods and services in these contracts are typically equal to the selling prices stated in the contract, thereby, eliminating the need to allocate (or reallocate) the transaction price to the multiple performance obligations.
-In our non-U.S. Government contracts, we also generally use the expected cost plus a margin approach to determine standalone selling price.
 In addition, we determine standalone selling price for certain contracts that are commercial in nature based on observable selling prices.
+We recognize revenue for each performance obligation when (or as) the performance obligation is satisfied by transferring control of the promised goods or services underlying the performance obligation to the customer.
 
 
 item2.txt
+“Management’s Discussion and Analysis of Financial Condition and Results of Operations” included in our Fiscal 2018 Form 10-K.
 Reclassifications include certain direct selling and bid and proposal costs from the “Cost of product sales and services” line item to the “Engineering, selling and administrative expenses” line item in our Condensed Consolidated Statement of Income (Unaudited) and in the Notes.
 The increase in revenue in the first quarter of fiscal 2019 compared with the first quarter of fiscal 2018 was due to higher revenue in all three of our segments.
 The increase in gross margin in the first quarter of fiscal 2019 compared with the first quarter of fiscal 2018 was primarily due to higher revenue in all three of our segments and productivity savings, partially offset by program and business revenue mix in our Communication Systems segment.
-The decrease in ESA as a percentage of total revenue (“ESA percentage”) in the first quarter of fiscal 2019 compared with the first quarter of fiscal 2018 was primarily due to cost containment.
 The increase in engineering, selling and administrative (“ESA”) expenses in the first quarter of fiscal 2019 compared with the first quarter of fiscal 2018 was primarily due to higher bid and proposal and employment costs.
 Our effective tax rate (income taxes as a percentage of income from continuing operations before income taxes) was 16.0 percent in the first quarter of fiscal 2019 compared with 27.6 percent in the first quarter of fiscal 2018.
 In the first quarter of fiscal 2019, our effective tax rate benefited from the tax rate reduction under the Tax Act, and in the first quarters of fiscal 2019 and 2018, our effective tax rate benefited from the favorable impact of excess tax benefits related to equity-based compensation, and from several differences in GAAP and tax accounting related to investments.
+The increase in income from continuing operations in the first quarter of fiscal 2019 compared with the first quarter of fiscal 2018 was primarily due to the combined effects of the reasons noted above in this “Consolidated Results of Operations” discussion regarding the first quarters of fiscal 2019 and 2018.
 The increase in income from continuing operations per diluted common share in the first quarter of fiscal 2019 compared with the first quarter of fiscal 2018 was primarily due to higher income from continuing operations and fewer diluted weighted average common shares outstanding due to repurchases of shares of common stock under our repurchase program during the last three quarters of fiscal 2018 and first quarter of fiscal 2019.
 The increase in segment revenue in the first quarter of fiscal 2019 compared with the first quarter of fiscal 2018 was due to growth in all three businesses that comprise our Communication Systems segment, including $38 million of higher revenue from Tactical Communications, primarily due to strong readiness demand for U.S. Department of Defense tactical radios, and higher revenue in Public Safety and Professional Communications and Night Vision.
-The increase in segment gross margin and the decrease in segment gross margin as a percentage of revenue (“gross margin percentage”) in the first quarter of fiscal 2019 compared with the first quarter of fiscal 2018 primarily reflected higher volume and productivity savings, partially offset by program and business revenue mix.
-The slight increase in segment ESA expenses in the first quarter of fiscal 2019 compared with the first quarter of fiscal 2018 reflected cost containment despite higher revenue, resulting in a lower segment ESA percentage in the first quarter of fiscal 2019 compared with the first quarter of fiscal 2018.
-The increases in segment operating income and segment operating income as a percentage of revenue (“operating margin percentage”) in the first quarter of fiscal 2019 compared with the first quarter of fiscal 2018 reflected the combined effects of the items discussed above regarding this segment.
 
 
 item3.txt
@@ -41,9 +42,8 @@ Item 4.
 
 
 part2.txt
+Item 1.
 Legal Proceedings.
-•The closing of the merger is subject to closing conditions, including regulatory approvals and approval by the shareholders of each company.
-If the closing conditions are not satisfied or waived, either timely or at all, the merger will be delayed or will not be completed, which could cause us not to realize some or all of the anticipated benefits of the merger.
-•In connection with the merger, the combined company will have significant outstanding indebtedness, including each company’s currently outstanding indebtedness, which could adversely affect us, including by potentially lowering our credit ratings or decreasing our business flexibility, particularly if we are not able to realize some or all of the anticipated benefits and cost savings from the merger.
+These audits may result in assessments of additional taxes that are subsequently resolved with the authorities or ultimately through legal proceedings.
 
 

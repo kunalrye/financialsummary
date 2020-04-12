@@ -1,22 +1,24 @@
+fls.txt
+The forward-looking statements included in this report are made only as of the date of this report, and we undertake no obligation to update the forward-looking statements to reflect subsequent events or circumstances.
+
+
 item1.txt
-Our centralized manufacturing and support organizations, such as facilities, procurement and logistics, provide support to our operating segments, including those in Other.
-Costs incurred by these organizations, including depreciation, are charged to the segments on a per-unit basis.
-The following geographic area information includes revenue based on product shipment destination.
-Leases are included in other long-term assets, accrued expenses and other liabilities, and other long-term liabilities on our Consolidated Balance Sheets.
+The consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States (GAAP) and on the same basis as the audited financial statements included in our annual report on Form 10-K for the year ended December 31, 2018, except for the effects of adopting Accounting Standards Update (ASU) No. Certain information and note disclosures normally included in annual consolidated financial statements have been omitted pursuant to the rules and regulations of the U.S. Securities and Exchange Commission.
 Lease assets represent our right to use underlying assets for the lease term, and lease liabilities represent our obligations to make lease payments over the lease term.
 On the commencement date, leases are evaluated for classification, and assets and liabilities are recognized based on the present value of lease payments over the lease term.
 We use our incremental borrowing rate based on the information available at commencement in determining the present value of lease payments.
-Operating lease expense is generally recognized on a straight-line basis over the lease term.
 Our lease values include options to extend or not to terminate the lease when it is reasonably certain that we will exercise such options.
-Leases with a lease term of 12 months or less are not recorded on the balance sheet; we recognize lease expense for these leases on a straight-line basis over the lease term.
+Potentially dilutive securities representing 9 million and 5 million shares of common stock that were outstanding during the first quarters of 2019 and 2018, respectively, were excluded from the computation of diluted earnings per common share during these periods because their effect would have been anti-dilutive.
 In connection with the issuance of long-term debt, we may use financial derivatives such as treasury-rate lock agreements that are recognized in AOCI and amortized over the life of the related debt.
 The fair values of our derivative financial instruments were not material as of March 31, 2019.
 Our investments in cash equivalents, short-term investments and certain long-term investments, as well as our deferred compensation liabilities, are carried at fair value.
+The carrying values for other current financial assets and liabilities, such as accounts receivable and accounts payable, approximate fair value due to the short maturity of such instruments.
+The carrying value of our long-term debt approximates the fair value as measured using broker-dealer quotes, which are Level 2 inputs.
+The reported results for 2019 reflect the application of the new accounting guidance, while the reported results for prior periods are not adjusted and continue to be reported in accordance with our historical accounting under ASC 840, Leases.
+The adoption of the new standard resulted in the recognition of $229 million of lease liabilities with corresponding lease assets as of January 1, 2019.
 
 
 item2.txt
-This strategic decision to directly control our manufacturing helps ensure a consistent supply of products for our customers and also allows us to invest in technology that differentiates the features of our products.
-We invest more than $1 billion each year to develop new products for our portfolio, which includes tens of thousands of products.
 Our strategic focus, and where we invest the majority of our resources, is on Analog and Embedded Processing, with a particular emphasis on designing and selling those products into the industrial and automotive markets, which we believe represent the best growth opportunities.
 Analog and embedded processing products sold into industrial and automotive markets provide long product life cycles, intrinsic diversity and less capital-intensive manufacturing, which we believe offer stability, profitability and strong cash generation.
 This business model is the foundation of our capital management strategy, which is based on our belief that free cash flow growth, especially on a per-share basis, is important for maximizing shareholder value over the long term.
@@ -26,13 +28,15 @@ Our first-quarter revenue was $3.59 billion, net income was $1.22 billion and ea
 In our core businesses, Analog revenue declined 2% and Embedded Processing declined 14% from the same quarter a year ago.
 Our cash flow from operations of $7.2 billion for the trailing 12 months again underscored the strength of our business model.
 Free cash flow for the trailing 12 months was $6.0 billion and represents 38.4% of revenue.
-We have returned $8.0 billion to owners in the past 12 months through stock repurchases and dividends.
 Our strategy is to return all our free cash flow to shareholders.
 Over the last 12 months, our dividends represented 45% of free cash flow, underscoring their sustainability.
+For an explanation of free cash flow and the term “annual operating tax rate,” see the Non-GAAP financial information section.
+Revenue of $3.59 billion decreased $195 million, or 5%, due to lower revenue from Embedded Processing and Analog.
+Gross profit of $2.26 billion was down $186 million, or 8%, due to lower revenue and reduced factory loadings.
 
 
 part2.txt
+Information concerning our risk factors is contained in Item 1A of our Form 10-K for the year ended December 31, 2018, and is incorporated by reference herein.
 The following table contains information regarding our purchases of our common stock during the quarter.
-All open-market purchases during the quarter were made under the authorization from our board of directors to purchase up to $6.0 billion of additional shares of TI common stock announced September 21, 2017.
 
 

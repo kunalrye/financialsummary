@@ -1,42 +1,49 @@
+fls.txt
+However, the absence of these words or similar expressions does not mean that a statement is not forward-looking.
+
+
 item1.txt
-Item 1.
-Financial Statements 
-Description of Business and Summary of Significant Accounting Policies 
-In this quarterly report on Form 10-Q, Mesa Laboratories, Inc., a Colorado corporation, together with its subsidiaries is collectively referred to as “we,” “us,” “our,” the “Company” or “Mesa.” 
-We pursue a strategy of focusing primarily on quality control products and services which are sold into niche markets that are driven by regulatory requirements.
-We are organized into four divisions across eight physical locations.
-Biological, cleaning, and chemical indicators are used to assess the effectiveness of sterilization and disinfection processes in the hospital, dental, medical device, and pharmaceutical industries.
-The division also provides testing and laboratory services, mainly to the dental industry.
-Our Instruments Division designs, manufactures, and markets quality control instruments and disposable products utilized in the healthcare, pharmaceutical, food and beverage, medical device, industrial hygiene, and environmental air sampling industries.
+Our Cold Chain Monitoring Division designs, develops, and markets systems which are used to monitor various environmental parameters such as temperature, humidity, and differential pressure to ensure that critical storage and processing conditions are maintained in hospitals, pharmaceutical and medical device manufacturers, blood banks, pharmacies, and laboratory environments.
 Our Cold Chain Packaging Division provides packaging development consulting services and thermal packaging products such as coolers, boxes, insulation materials, and phase-change products to control temperature during the customer’s transport of their own products.
-In February 2016, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) 2016-02, Leases (Topic 842).
+The accompanying unaudited condensed consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States (“U.S. GAAP”) for interim financial information and pursuant to the rules and regulations of the Securities and Exchange Commission.
+This quarterly report should be read in conjunction with the consolidated financial statements included in our annual report on Form 10-K for the year ended March 31, 2018.
 The pronouncement requires lessees to recognize a liability for lease obligations, which represents the discounted obligation to make future minimum lease payments, and a corresponding right-of-use asset on the balance sheet for all leases with terms greater than 12 months.
-The guidance also requires qualitative and quantitative disclosures designed to present financial statement users with the ability to assess the amount, timing, and uncertainty of cash flows arising from leases.
 We have initiated our plan for the adoption and implementation of this new accounting standard, including assessing our lease arrangements, evaluating practical expedients, and making necessary changes to our accounting policies, processes, and internal controls over financial reporting.
-We are still assessing the expected impact of the standard on our consolidated balance sheets but it will not significantly impact our consolidated statements of income and cash flows.
+Effective April 1, 2018, we adopted ASU 2014-09 Revenue from Contracts with Customers (Topic 606) and all related amendments (referred to collectively hereinafter as “ASU 606”) on a modified retrospective basis.
+The primary impact of adoption was the enhancement of disclosures to provide additional clarity regarding how revenue is earned and recognized, and to show revenues at a more disaggregated level, included in Note 2.
+The amendments also require any provisional amounts or subsequent adjustments to be included in net income from continuing operations.
+Additionally, this ASU discusses required disclosures that an entity must make with regard to the TCJA.
+This ASU is effective immediately as new information is available to adjust provisional amounts that were previously recorded.
+We have adopted this standard and will continue to evaluate indicators that may give rise to a change in our tax provision as a result of the TCJA.
+Refer to Note 7 for additional information on the TCJA.
+Contract assets would exist when sales are recorded (i.e. the control of the goods or services has been transferred to the customer), but customer payment is contingent on a future event besides the passage of time (such as satisfaction of additional performance obligations).
 
 
 item2.txt
+We pursue a strategy of focusing primarily on quality control products and services, which are sold into niche markets that are driven by regulatory requirements.
 Our Instruments Division designs, manufactures, and markets quality control instruments and disposable products utilized in the healthcare, pharmaceutical, food and beverage, medical device, industrial hygiene, and environmental air sampling industries.
 Our Cold Chain Monitoring Division designs, develops, and markets systems which are used to monitor various environmental parameters such as temperature, humidity, and differential pressure to ensure that critical storage and processing conditions are maintained in hospitals, pharmaceutical and medical device manufacturers, blood banks, pharmacies, and other laboratory and industrial environments.
 Our Cold Chain Packaging Division provides packaging development consulting services and thermal packaging products such as coolers, boxes, insulation materials, and phase-change products to control temperature during the customer’s transport of their own products.
+Sterilization and disinfection control products and most products in our Cold Chain Packaging Division are disposable and are used on a routine basis, thus product sales are less sensitive to general economic conditions.
+Service demand is driven by our customers’ quality control and regulatory environments, which require periodic repair and recalibration or certification of our instrument products and cold chain monitoring systems.
+Labor costs, including non-cash stock-based compensation, and amortization of intangible assets drive the substantial majority of general and administrative expense.
 During the three months ended June 30, 2018, we continued to build our infrastructure to prepare for future growth, including completing the relocation of the old Bozeman manufacturing facility into the new Bozeman building, the addition of key personnel to our operations, sales and marketing, and research and development teams, and the continued rollout of phase three of our ERP implementation project (European operations).
 The markets for sterilization and disinfection control products remain strong, as the disposable nature of these products makes them less sensitive to general economic conditions.
-We are working on several research and development projects that, if completed, may result in new products for both existing customers and new markets.
 Overall revenues increased 11 percent, while organic revenues increased four percent, for the three months ended June 30, 2018, resulting from organic increases of 90 percent, 10 percent, and one percent from the Cold Chain Packaging, Cold Chain Monitoring, and Instruments Divisions, respectively, partially offset by an organic decrease of four percent for the SDC Division.
+Cold Chain Monitoring revenues for the three months ended June 30, 2018 increased 10 percent primarily due to organic growth of 10 percent.
 Cold Chain Packaging revenues increased by 90 percent for the three months ended June 30, 2018.
-Sterilization and Disinfection Control gross profit margin percentage increased for the three months ended June 30, 2018 relative to the three months ended June 30, 2017 primarily as a result of a $291 expense in the prior year related to moving costs for the Bozeman facility.
-Excluding the impact of the moving costs in the three months ended June 30, 2017, gross margin percentage was essentially flat as compared to the prior year.
-Cold Chain Monitoring gross profit margin percentage increased for the three months ended June 30, 2018 primarily due to efficiency gains.
+
+
+item3.txt
+
 
 
 item4.txt
-Our management evaluated, with the participation of our Chief Executive Officer and Chief Financial Officer, the effectiveness of our internal control over financial reporting as of June 30, 2018 based on the framework in “Internal Control – Integrated Framework” issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in 2013.
+
 
 
 part2.txt
-Part II.
-Other Information 
-Legal Proceedings 
+“Commitments and Contingencies” within Item 1.
+Item 1A.
 
 

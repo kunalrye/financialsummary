@@ -1,22 +1,27 @@
+fls.txt
+
+
+
 item1.txt
 Noncontrolling interest amounts of $3.8 million and $3.5 million, net of tax, for the three months ended June 30, 2018 and 2017, respectively, and $11.7 million and $7.1 million, net of tax, for the six months ended June 30, 2018 and 2017, respectively, are included as a reduction within other (income) and expense in the Consolidated Statement of Earnings.
 In June 2016, the Financial Accounting Standards Board (FASB) issued guidance for credit impairment based on an expected loss model rather than an incurred loss model.
 The guidance requires lessees to recognize right-of-use assets and lease liabilities for most leases in the Consolidated Statement of Financial Position.
 The guidance makes some changes to lessor accounting, including the elimination of the use of third-party residual value guarantee insurance in the capital lease test, and overall aligns with the new revenue recognition guidance.
 The company will adopt the guidance as of the effective date.
-From a lessor perspective, in 2017, the use of third-party residual value guarantee insurance resulted in the company recognizing $452 million of sales-type lease revenue that would otherwise have been recognized over the lease period as operating lease revenue.
-Further, due to changes in lease termination guidance, when equipment is returned to the company prior to the end of the lease term, the carrying amounts of lease receivables, which remain outstanding relating to that equipment and still 
-In August 2017, the FASB issued guidance to simplify the application of hedge accounting in certain areas, better portray the economic results of an entitys risk management activities in its financial statements and make targeted improvements to presentation and disclosure requirements.
-The company adopted the guidance as of January 1, 2018, and it did not have a material impact in the consolidated financial results.
-The company adopted the guidance on the effective date.
+The company is currently planning on electing the package of practical expedients not to reassess prior conclusions related to contracts containing leases, lease classification and initial direct costs and is evaluating the other practical expedients available under the guidance.
 Certain equity investments are now measured at fair value with changes recognized in net income.
-The company adopted the guidance effective January 1, 2018 using the modified retrospective transition method.
 At adoption, $557 million was reclassified from notes and accounts receivable-trade and deferred income-current to prepaid expenses and other current assets to establish the opening balance for net contract assets.
 In-scope sales commission costs previously recorded in the Consolidated Statement of Earnings were capitalized in deferred costs in accordance with the transition guidance, in the amount of $737 million.
-Deferred income of $29 million was recorded for certain software licenses that will be recognized over time versus at a point in time under previous guidance.
+Additionally, net deferred taxes were reduced by $184 million in the Consolidated Statement of Financial Position, resulting in a cumulative-effect net increase to retained earnings of $524 million.
+material impact in the companys consolidated financial results for the three and six months ended June 30, 2018.
+The company expects revenue recognition for its broad portfolio of hardware, software, and services offerings to remain largely unchanged.
+The company adopted the guidance effective January 1, 2017, and it did not have a material impact in the consolidated financial results.
+In January 2017, the company had one transaction that generated a $582 million benefit to income tax expense, income from continuing operations and net income and a benefit to both basic and diluted earnings per share of $0.62 per share for the six months ended June 30, 2017.
+The guidance was effective and adopted by the company on January 1, 2017, and it did not have a material impact in the Consolidated Statement of Financial Position.
 
 
 item2.txt
+Financial results adjusted for currency are calculated by translating current period activity in local currency using the comparable prior year periods currency conversion rate.
 In the second quarter of 2018, the company reported $20.0 billion in revenue, $2.4 billion in income from continuing operations and operating (non-GAAP) earnings of $2.8 billion, resulting in diluted earnings per share from continuing operations of $2.61 as reported and $3.08 on an operating (non-GAAP) basis.
 The company also generated $2.3 billion in cash from operations and $1.9 billion in free cash flow in the second quarter of 2018 and delivered shareholder returns of $2.4 billion through gross common stock repurchases and dividends.
 Total consolidated revenue increased 3.7 percent as reported and 1.6 percent adjusted for currency, reflecting the companys highest constant currency growth in seven years.
@@ -26,11 +31,14 @@ The annual exit run rate for as-a-Service revenue increased to $11.1 billion in 
 Security grew 81 percent as reported (79 percent adjusted for currency) driven by strong demand for the pervasive encryption of IBM Z and growth in integrated software and services.
 Analytics revenue of $5.4 billion increased 7 percent as reported and 5 percent adjusted for currency.
 Mobile revenue increased 5 percent as reported and 3 percent adjusted for currency.
+Total expense and other (income) decreased 1.6 percent in the second quarter of 2018.
 Pre-tax income from continuing operations of $2.8 billion increased 13.6 percent and the pre-tax margin was 13.9 percent, an increase of 1.2 points year to year.
 The continuing operations effective tax rate was 13.5 percent compared to 4.5 percent in the second quarter of 2017.
-The prior year tax rate included discrete tax benefits in the second quarter of $170 million.
 Income from continuing operations of $2.4 billion increased 3.0 percent and the net income margin was 12.0 percent, a decrease of 0.1 points versus the second quarter of 2017.
-Net income of $2.4 billion increased 3.1 percent year to year.
+
+
+item4.txt
+
 
 
 part2.txt

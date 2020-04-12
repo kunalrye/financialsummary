@@ -1,26 +1,32 @@
+fls.txt
+
+
+
 item1.txt
 As of September 30, 2018 the $18.3 million of consideration for the Miles acquisition was included in other current liabilities of the Company's Condensed Consolidated Balance Sheet as it was not funded until October 2018.
 During the nine months ended September 30, 2018 there were 1,638 shares, totaling $147 thousand, used to satisfy exercise costs and the recipients' income tax obligations related to stock options exercised and restricted stock vesting.
+The Company is continuing to evaluate the classification of the 2017 and 2018 acquisitions that collectively make up the EbixCash Financial Exchanges, refer to Part I, Item I Business in our Form 10-K for the year ended December 31, 2017.
 Restricted Cash- As part of the Wdev Solucoes em Technologia SA ("Wdev") acquisition, upfront cash consideration is being held in an escrow account for the thirty-eight month period following the effective date of the acquisition to ensure that the acquired business achieves the minimum specified annual net revenue threshold, which if not achieved will result in said funds being returned to Ebix.
 As of September 30, 2018 there is $2.5 million included in other long-term assets of the Company's Condensed Consolidated Balance Sheet.
-Advertising—Advertising costs amounted to $6.2 million and $4.4 million in the first nine months of 2018 and 2017, respectively, and are included in sales and marketing expenses in the accompanying Condensed Consolidated Statements of Income.
 During the first nine months of 2017 reported sales and marketing expenses included $3.0 million of amortization of certain direct-response advertising costs associated with our medical education services, which have been capitalized in accordance with Accounting Standards Codification ("ASC") Topic 340.
 The Company was required to recognize a cumulative effective change to opening retained earnings in the year of adoption of the standard.
 The Company recorded a one-time $1.9 million adjustment to retained earnings on January 1, 2018 and is expensing all future costs from this date forward.
 Under the new guidance Subtopic 340-40, the Company's expense decreased by $625 thousand during the first nine months of 2018 from what would have been recorded under legacy US GAAP 340-20.
 •Contingent accrued earn-out business acquisition consideration liabilities for which fair values are measured as Level 3 instruments.
 These contingent consideration liabilities were recorded at fair value on the acquisition date and are re-measured quarterly based on the then assessed fair value and adjusted if necessary.
-The increases or decreases in the fair value of contingent consideration payable can result from changes in anticipated revenue levels and changes in assumed discount periods and rates.
+The Company applies these terms in its calculation and determination of the fair value of contingent earn out liabilities for purchased businesses as part of the related valuation and purchase price allocation exercise for the corresponding acquired assets and liabilities.
 Topic 606 outlines a single comprehensive model for companies to use in accounting for revenue arising from contracts with customers, and supersedes most current revenue recognition guidance, including industry-specific guidance.
 In March 2016, the FASB issued ASU 2016-08, Principal Versus Agent Considerations (Reporting Revenue Gross Versus Net), which amends the principal-versus-agent implementation guidance and in April 2016 the FASB issued ASU 2016-10, Identifying Performance Obligations and Licensing, which amends the guidance in those areas in the new revenue recognition standard.
+The Company derives its revenues primarily from subscription and transaction fees pertaining to services delivered over our exchanges or from our application service provider ("ASP") platforms, fees for risk compliance solution services, and fees for software development projects including associated fees for consulting, implementation, training, and project management provided to customers with installed systems and applications.
 The Company recognizes revenue using periodic reported actual hours worked as a percentage of total expected hours required to complete the project arrangement and applies the percentage to the total arrangement fee.
+The adoption of Topic 606 resulted in an increase to deferred revenue, which in turn generated an additional deferred tax asset that increased the Company’s net deferred tax asset position.
 
 
 item2.txt
-As used herein, the terms “Ebix,” “the Company,” “we,” “our” and “us” refer to Ebix, Inc., a Delaware corporation, and its consolidated subsidiaries as a combined entity, except where it is clear that the terms mean only Ebix, Inc. Ebix is a leading international supplier of on-demand infrastructure exchanges to the insurance, financial, and healthcare industries.
-With a "Phygital” strategy that combines 231,500 physical distribution outlets in many ASEAN countries to an Omni-channel online digital platform, the Company’s EbixCash Financial exchange portfolio encompasses leadership in areas of domestic and international money remittance, travel, pre-paid and gift cards, utility payments, etc., in emerging countries such as India.
+As used herein, the terms “Ebix,” “the Company,” “we,” “our” and “us” refer to Ebix, Inc., a Delaware corporation, and its consolidated subsidiaries as a combined entity, except where it is clear that the terms mean only Ebix, Inc. Safe Harbor for Forward-Looking Statements—This Form 10-Q and certain information incorporated herein by reference contains forward-looking statements and information within the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933, and Section 21E of the Securities Exchange Act of 1934.
 The Company derives its revenues primarily from subscription and transaction fees pertaining to services delivered over our exchanges or from our ASP platforms, fees for business process outsourcing services, and fees for software development projects including associated fees for consulting, implementation, training, and project management provided to customers with installed systems, e-governance solutions to governmental agencies in the health and education sectors, as well as foreign exchange, remittance (both inward and outward) and related services, including travel, from our new financial exchange.
 International revenue accounted for 62.4% and 43.3% of the Company’s total revenue for the three months ended September 30, 2018 and 2017, respectively.
+The Company is continuing to evaluate the classification of the 2017 and 2018 acquisitions that collectively make up the EbixCash Financial Exchanges, refer to Part I, Item I Business in our Form 10-K for the year ended December 31, 2017.
 During the three months ended September 30, 2018 our total operating revenues increased $35.8 million or 39%, to $128.6 million as compared to $92.8 million during the third quarter of 2017.
 With respect to business acquisitions completed during the years 2018 and 2017 on a pro forma basis, as disclosed in the pro forma financial information table in Note 3 of the Condensed Notes to the Condensed Consolidated Financial Statements, combined revenues decreased 8.49% for the three months ending September 30, 2018 versus the same periods in 2017.
 The 2018 and 2017 pro forma financial information assumes that all business acquisitions made during this period were made on January 1, 2017, whereas the Company's reported financial statements for three months ended September 30, 2018 only includes the revenues from these businesses since the effective date that they were acquired or consolidated by Ebix, being April 2017 for Itzcash, June 2017 for beBetter, September 2017 for YouFirst, October 2017 for Wall Street, November 2017 for Paul Merchants, November 2017 for Via, February 2018 for Transcorp, April 2018 for Centrum, April 2018 for Smartclass, July 2018 for Indus, July 2018 for Mercury, July 2018 for Leisure Corp and August 2018 for Miles.
@@ -28,19 +34,17 @@ Sales and marketing expenses increased $888 thousand or 23%, to $4.7 million in 
 Reported general and administrative expenses increased $13.3 million or 90% to $28.2 million in the third quarter of 2018 as compared to $14.9 million in the third quarter of 2017 primarily due to costs associated with operations of recent acquisitions of Centrum, SmartClass, Via, Mercury and Indus.
 Interest income decreased $272 thousand or 73% to $103 thousand in the third quarter of 2018 as compared to $375 thousand in the third quarter of 2017 primarily due to interest earned from our EbixCash Financial exchanges included in operating revenue in 2018.
 Interest expense increased primarily due to the increase in the average outstanding balance on our commercial banking credit facilities, which increased 86% to $618.1 million during Q3 2018 from $331.7 million during Q3 of 2017, as well as an increase in the underlying interest rate which increased to 4.63% for Q3 2018 versus 4.0% for Q3 2017.
-Net foreign currency exchange losses for the three months ended September 30, 2018 in the amount of $921 thousand consists of $846 thousand of losses realized upon the settlement of receivables or payables and re-measurement of cash balances denominated in currencies other than the functional currency of the respective operating division recording the instrument, and $75 thousand of unrealized losses pertaining to the re-measurement of outstanding receivables or payables denominated in currencies other than the functional currency of the respective operating division recording the instrument.
-The Company recorded income tax expense of $1.68 million (5.42%) during the three months ended September 30, 2018 which included discrete items for additions to the reserve for uncertain tax positions.
 
 
 item3.txt
-
+Such an adverse change in currency exchange rates would have resulted in reduction to pre-tax income of approximately $11.1 million and $5.1 million for the nine months ended September 30, 2018 and 2017, respectively.
 
 
 item4.txt
-We monitor and evaluate on an ongoing basis our disclosure controls and procedures in order to improve their overall effectiveness.
+
 
 
 part2.txt
-The exhibits filed herewith or incorporated by reference herein are listed in the Exhibit Index attached hereto.
+
 
 

@@ -1,42 +1,50 @@
+fls.txt
+
+
+
 item1.txt
 These condensed consolidated financial statements have been prepared by QUALCOMM Incorporated (collectively with its subsidiaries, the Company or Qualcomm) in accordance with accounting principles generally accepted in the United States of America (GAAP) for interim financial information and the instructions to Rule 10-01 of Regulation S-X.
 These condensed consolidated financial statements are unaudited and should be read in conjunction with the Company’s Annual Report on Form 10-K for the fiscal year ended September 24, 2017.
-The Company operates and reports using a 52-53 week fiscal year ending on the last Sunday in September.
 At December 24, 2017, total unrecognized compensation expense related to nonvested restricted stock units granted prior to that date was $1.5 billion, which is expected to be recognized over a weighted-average period of 2.2 years.
 At December 24, 2017, the Company had 28.8 million restricted stock units outstanding and 9.1 million stock options outstanding.
 The Company currently expects the adoption of this new guidance to most significantly impact its licensing business.
 Specifically, the Company expects a change in the timing of revenues recognized from sales-based royalties.
 The Company currently recognizes sales-based royalties as revenues in the period in which such royalties are reported by licensees, which is after the conclusion of the quarter in which the licensees’ sales occur and when all other revenue recognition criteria are met.
-Under the new guidance, the Company will be required to estimate and recognize sales-based royalties in the period in which the associated sales occur, resulting in an acceleration of revenue recognition compared to the current method.
-Upon adoption of the new guidance, licenses to use portions of the Company’s intellectual property portfolio will be considered one performance obligation, and license fees will be recognized as revenues on a straight-line basis over the term of the license agreement, which is similar to the recognition of license revenues under the current guidance.
-The Company currently accounts for customer incentive arrangements in its licensing and semiconductor businesses, including volume-related and other pricing rebates or cost reimbursements for marketing and other activities involving certain of the Company’s products and technologies, in part based on the maximum potential liability.
+Under the new guidance, the Company expects to estimate the amount of all customer incentives.
+Under the new guidance, credit losses for certain types of financial instruments will be estimated based on expected losses.
+The Company is in the process of determining the effects the adoption will have on its consolidated financial statements as well as whether to adopt the new guidance early.
+The new guidance will be effective for the Company starting in the first quarter of fiscal 2019 on a modified retrospective basis, and early adoption is permitted.
+The Company does not intend to adopt the new guidance early and is in the process of determining the effects the adoption will have on its consolidated financial statements.
+Other expenses in the three months ended December 24, 2017 was comprised of the $1.2 billion charge related to the European Commission (EC) fine (Note 6).
 
 
 item2.txt
 This information should be read in conjunction with the condensed consolidated financial statements and the notes thereto included in “Part I, Item 1” of this Quarterly Report and with “Management’s Discussion and Analysis of Financial Condition and Results of Operations” for the year ended September 24, 2017 contained in our 2017 Annual Report on Form 10-K.
 •We continue to invest significant resources toward advancements primarily in support of 4G- and 5G-based technologies as well as other technologies to extend the demand for our products and generate new or expanded licensing opportunities, including within adjacent industry segments outside traditional cellular industries, such as automotive, the Internet of Things (IoT) and networking.
 We develop and commercialize foundational technologies and products used in mobile devices and other wireless products, including network equipment, broadband gateway equipment and consumer electronics devices.
-We derive revenues principally from sales of integrated circuit products and licensing our intellectual property, including patents, software and other rights.
 Substantially all of our products and services businesses, including QCT, and substantially all of our engineering, research and development functions, are operated by Qualcomm Technologies, Inc.
 The dollar increase in research and development expenses was primarily attributable to an increase of $141 million in costs related to the development of integrated circuit technologies, including 5G technology and radio frequency front-end (RFFE) technologies from our RF360 Holdings joint venture, which was formed in the second quarter of fiscal 2017, and related software products, partially offset by a $30 million impairment charge on certain intangible assets recorded in the first quarter of fiscal 2017.
-The dollar increase in selling, general and administrative expenses was primarily attributable to increases of $60 million in costs related to litigation and other legal matters, primarily related to our licensing business, $45 million in bad debt expenses, $22 million in marketing expenses and $18 million in employee-related expenses, which included our RF360 Holdings joint venture.
+Other expenses in the first quarter of fiscal 2018 consisted of a $1.2 billion charge related to the European Commission fine.
+The increase in interest expense was primarily attributable to the issuance of an aggregate principal amount of $11.0 billion of unsecured floating- and fixed-rate notes in May 2017.
 We have preliminarily accounted for the effects of the Tax Legislation, which resulted in a charge of $5.9 billion to income tax expense in the first quarter of fiscal 2018, comprised of $5.3 billion related to the estimated Toll Charge and $562 million resulting from the estimated impact of remeasurement of U.S. deferred tax assets and liabilities that existed at the end of fiscal 2017 at a lower enacted corporate income tax rate.
+Our annual effective tax rate was also impacted by the $1.2 billion fine related to the EC investigation, which is not deductible for tax purposes and is attributable to a foreign jurisdiction.
+Tax benefits from foreign income taxed at rates lower than rates in the U.S. are expected to be approximately 20% in fiscal 2018, compared to 32% in fiscal 2017, primarily due to the lower U.S federal statutory income tax rate enacted by the Tax Legislation, partially offset by lower estimated U.S. revenues primarily related to decreased royalty revenues from Apple’s contract manufacturers.
+The annual effective tax rate of 18% for fiscal 2017 reflected the KFTC and TFTC fines (see “Notes to Condensed Consolidated Financial Statements, Note 6.
 The effective tax rate for the first quarter of fiscal 2018 was higher than the estimated annual effective tax rate primarily resulting from the estimated charge of $6.0 billion recorded to income tax expense in the first quarter of fiscal 2018 related to the effects of certain components of the Tax Legislation, as well as the $1.2 billion fine related to the EC investigation.
 The effective tax rate of 22% for the first quarter of fiscal 2017 reflected tax benefits from foreign income taxed at rates lower than rates in the U.S. of 15%, as well as the $868 million charge related to the KFTC fine.
 The following should be read in conjunction with the financial results for the first quarter of fiscal 2018 for each reportable segment included in this Quarterly Report in “Notes to Condensed Consolidated Financial Statements, Note 7.
-QCT EBT as a percentage of revenues increased primarily due to an increase in gross margin percentage and the favorable impact of higher revenues relative to operating expenses.
-The increase in QCT gross margin percentage was primarily due to lower average unit costs and favorable product mix, partially offset by lower average selling prices.
-QCT accounts receivable decreased by 29% in the first quarter of fiscal 2018 from $1.81 billion to $1.28 billion, primarily due to the timing of integrated circuit shipments and the collection of receivables related to integrated circuits.
-QTL results were negatively impacted by our continued dispute with Apple and its contract manufacturers (who are Qualcomm licensees), as well as the previously disclosed dispute with another licensee.
-We did not record any revenues in the first quarter of fiscal 2018 for royalties due on sales of Apple’s or the other licensee’s products.
-Revenues related to the products of Apple’s contract manufacturers and the other licensee in dispute comprised approximately $740 million in the first quarter of fiscal 2017.
+The increase in equipment and services revenues was primarily due to an increase in revenues related to RFFE products of $433 million, primarily due to revenues from our RF360 Holdings joint venture, which was formed in the second quarter of fiscal 2017, and an increase of $285 million related to higher MSM and accompanying PM unit shipments, primarily resulting from an increase in shipments to Apple.
+
+
+item3.txt
+
 
 
 item4.txt
-Evaluation of Disclosure Controls and Procedures.
+
 
 
 part2.txt
-Not applicable.
+
 
 

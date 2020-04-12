@@ -1,17 +1,22 @@
+fls.txt
+
+
+
 item1.txt
 The accompanying Condensed Consolidated Financial Statements include Belden Inc. and all of its subsidiaries (the Company, us, we, or our).
-The nine months ended September 30, 2018 and October 1, 2017 included 273 and 274 days, respectively.
-Effective January 1, 2018, we changed our organizational structure and, as a result, now are reporting two segments.
 During the financial closing process for the fourth quarter of 2017, we determined that certain consolidated financial statement amounts were not recorded correctly in prior interim periods of 2017.
 The errors primarily related to recognizing revenue prior to satisfying all of the delivery criteria in one business within our Enterprise segment.
 The impact of the errors in the three months ended October 1, 2017 was an overstatement of revenues and net income of $11.8 million and $2.6 million, respectively.
 The impact of the errors in the nine months ended October 1, 2017 was an overstatement of revenues and net income of $28.3 million and $6.9 million, respectively.
+As of and during the three and nine months ended September 30, 2018 and October 1, 2017, we utilized Level 1 inputs to determine the fair value of cash equivalents, and we utilized Level 2 and Level 3 inputs to determine the fair value of net assets acquired in business combinations (see Note 3).
+We did not have any transfers between Level 1 and Level 2 fair value measurements during the nine months ended September 30, 2018 and October 1, 2017.
 We classify cash on hand and deposits in banks, including commercial paper, money market accounts, and other investments with an original maturity of three months or less, that we hold from time to time, as cash and cash equivalents.
+As of September 30, 2018, we were party to standby letters of credit, bank guaranties, and surety bonds totaling $7.3 million, $3.2 million, and $2.3 million, respectively.
 In March 2018, a panel of three judges of the United States Court of Appeals for the Federal Circuit issued a Rule 36 Affirmance of the District Court's final judgment that Corning, among other things, willfully infringed the PPC universal compression patents at issue in the case, and that PPC should be awarded approximately $61.8 million, plus accrued interest.
 We received a pre-tax amount of approximately $62.1 million from Corning on July 19, 2018.
 We recorded the $62.1 million of cash received as a pre-tax gain from patent litigation during the three and nine months ended September 30, 2018.
 Prior to the third quarter of 2018, we had not recognized any amounts in our consolidated financial statements related to this matter.
-On September 27, 2018, Corning filed a petition for certiorari review by the U.S. Supreme Court of the District Court’s decision to exercise its discretion to award PPC $23.85 million in enhanced damages based on the totality of the evidence, including a number of factual findings regarding Corning’s willful infringement and egregious 
+On September 27, 2018, Corning filed a petition for certiorari review by the U.S. Supreme Court of the District Court’s decision to exercise its discretion to award PPC $23.85 million in enhanced damages based on the totality of the evidence, including a number of factual findings regarding Corning’s willful infringement and egregious
 In May 2014, the FASB issued Accounting Standards Update No. 2014-09, Revenue from Contracts with Customers (ASU 2014-09), which replaced most existing revenue recognition guidance in U.S. GAAP.
 The core principle of the ASU is that an entity should recognize revenue for the transfer of goods or services equal to the amount that it expects to be entitled to receive for those goods or services.
 ASU 2014-09 requires additional disclosure about the nature, amount, timing, and uncertainty of revenue and cash flows arising from customer contracts, including significant judgments and changes in judgments.
@@ -19,11 +24,14 @@ ASU 2014-09 requires additional disclosure about the nature, amount, timing, and
 
 item2.txt
 During the three and nine months ended September 30, 2018, approximately 48% and 49% of our consolidated revenues were to customers outside of the U.S, respectively.
-The results of both NT2 and SAM have been included in our Consolidated Financial Statements from the acquisition dates and are reported in the Enterprise Solutions segment.
-In March 2018, we issued €350.0 million ($431.3 million at issuance) aggregate principal amount of new senior subordinated notes due 2028 at an interest rate of 3.875%.
-During March and April 2018, we used the net proceeds of this offering to repurchase our outstanding $200.0 million 5.25% senior subordinated notes due 2024 and our outstanding €200.0 million 5.5% senior subordinated notes due 2023.
 We paid approximately $7.5 million of fees related to issuing the 2028 notes, and recognized a $23.0 million loss on debt extinguishment during the nine months ended September 30, 2018 for premiums paid to the bond holders to retire the 2024 and 2023 notes and for the unamortized debt issuance costs that we wrote-off.
-In March 2018, a panel of three judges of the United States Court of Appeals for the Federal Circuit issued a Rule 36 Affirmance of the District Court's final judgment that Corning, among other things, willfully infringed the PPC universal compression patents at issue in the case, and that PPC should be awarded approximately $61.8 million, plus accrued interest.
+We recorded the $62.1 million of cash received as a pre-tax gain from patent litigation during the three and nine months ended September 30, 2018.
+On September 27, 2018, Corning filed a petition for certiorari review by the U.S. Supreme Court of the District Court’s decision to exercise its discretion to award PPC $23.85 million in enhanced damages based on the totality of the evidence, including a number of factual findings regarding Corning’s willful infringement and egregious conduct.
+We recognized $7.1 million and $36.6 million of severance and other restructuring costs for this program during the three and nine months ended September 30, 2018, respectively.
+
+
+item3.txt
+
 
 
 item4.txt
@@ -31,12 +39,12 @@ item4.txt
 
 
 part2.txt
-In our opinion, the proceedings and actions in which we are involved should not, individually or in the aggregate, have a material adverse effect on our financial condition, operating results, or cash flows.
-The global markets in which we operate are highly competitive.
-Actions that may be taken by competitors, including pricing, business alliances, new product introductions, market penetration, and other actions, could have a negative effect on our revenues and profitability.
+Following is a discussion of some of the more significant risks that could materially impact our business, including certain updates since previously disclosed in our Quarterly Report on Form 10-Q for the quarter ended July 1, 2018, filed with the Securities and Exchange Commission (“SEC”) on August 6, 2018.
+There may be additional risks that impact our business that we currently do not recognize as, or that are not currently, material to our business.
+A challenging global economy could also make it difficult for our customers, our vendors, and us to accurately forecast and plan future business activities.
+For example, a strengthened U.S. dollar can result in relative price increases for our products for customers outside of the U.S., which can have a negative impact on our revenues and results of operations.
+Furthermore, customers’ ability to invest in capital expenditures, such as our products, can depend upon proceeds from commodities, such as oil and gas markets.
+A decline in energy prices, therefore, can have a negative impact on our revenues and results of operations.
 Moreover, some competitors that are highly leveraged both financially and operationally could become more aggressive in their pricing of products.
-Volatility of credit markets could adversely affect our business.
-Uncertainty in U.S. and global financial and equity markets could make it more expensive for us to conduct our operations and more difficult for our customers to buy our products.
-In order to meet the goals in our strategic plan, we must grow our business, both organically and through acquisitions.
 
 

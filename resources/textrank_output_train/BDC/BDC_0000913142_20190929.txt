@@ -1,31 +1,35 @@
+fls.txt
+
+
+
 item1.txt
-The accompanying Condensed Consolidated Financial Statements include Belden Inc. and all of its subsidiaries (the Company, us, we, or our).
 The nine months ended September 29, 2019 and September 30, 2018 included 272 and 273 days, respectively.
 As of and during the three and nine months ended September 29, 2019 and September 30, 2018, we utilized Level 1 inputs to determine the fair value of cash equivalents, and we utilized Level 2 and Level 3 inputs to determine the fair value of net assets acquired in business combinations (see Note 3).
 We did not have any transfers between Level 1 and Level 2 fair value measurements during the nine months ended September 29, 2019 and September 30, 2018.
 We classify cash on hand and deposits in banks, including commercial paper, money market accounts, and other investments with an original maturity of three months or less, that we hold from time to time, as cash and cash equivalents.
 As of September 29, 2019, we were party to standby letters of credit, bank guaranties, and surety bonds totaling $9.7 million, $3.9 million, and $3.3 million, respectively.
 The amendments in ASU 2018-07 expand the scope of Topic 718, Compensation - Stock Compensation, to include share-based payment transactions for acquiring goods and services from non-employees, and provide that non-employee share-based payment awards be measured at their grant-date fair value and the probability of satisfying performance conditions be taken into account when non-employee share-based payment awards contain such conditions.
+The following tables present our revenues disaggregated by geography, based on the location of the customer purchasing the product.
+The following tables present our revenues disaggregated by products, including software products, and support and services.
 For these arrangements, revenue is allocated to each performance obligation based on its relative selling price and recognized when or as each performance obligation is satisfied.
-Most of our performance obligations related to the sale of products are satisfied at a point in time when control of the product is transferred based on the shipping terms of the arrangement.
+Adjustments to revenue for performance obligations satisfied in prior periods were not significant during the three and nine months ended September 29, 2019 and September 30, 2018.
 As of September 29, 2019, total deferred revenue was $99.2 million, and of this amount, $86.5 million is expected to be recognized within the next twelve months, and the remaining $12.7 million is long-term and is expected to be recognized over a period greater than twelve months.
 (Opterna) on April 15, 2019 for a preliminary purchase price, net of cash acquired, of $51.7 million.
 Of the $51.7 million purchase price, $45.5 million and $0.4 million was paid on April 15, 2019 and September 25, 2019, respectively, with cash on hand.
 The acquisition included a potential earnout, which is based upon future Opterna financial targets through April 15, 2021.
-The maximum earnout consideration is $25.0 million, but based upon a third party valuation specialist using certain assumptions in a discounted cash flow model, the estimated fair value of the earnout included 
+The maximum earnout consideration is $25.0 million, but based upon a third party valuation specialist using certain assumptions in a discounted cash flow model, the estimated fair value of the earnout included
 The above purchase price allocation is preliminary, and is subject to revision as additional information about the fair value of individual assets and liabilities becomes available.
-The preliminary measurement of receivables, inventories, intangible assets, goodwill, deferred income taxes, other assets and liabilities, and noncontrolling interests are subject to change.
 A change in the estimated fair value of the net assets acquired or noncontrolling interests will change the amount of the purchase price allocable to goodwill.
 During the third quarter 2019, we recorded measurement-period adjustments that decreased goodwill by approximately $9.4 million primarily for changes in the fair value of the earnout.
-For purposes of the above allocation, we based our preliminary estimate of the fair values for the acquired inventory, intangible assets, and noncontrolling interests on valuation studies performed by a third party valuation firm.
+The preliminary fair value of acquired receivables is $5.3 million, which is equivalent to its gross contractual amount.
 
 
 item2.txt
-During the three and nine months ended September 29, 2019, approximately 48% of our consolidated revenues were to customers outside of the U.S. We completed the acquisitions of Opterna International Corp.
+During the three and nine months ended September 29, 2019, approximately 48% of our consolidated revenues were to customers outside of the U.S. Therefore, all references to the effect of copper prices or other commodity prices are estimates.
 We performed an interim impairment test on our Grass Valley reporting unit, which resulted in a total goodwill and other asset impairment charge of $342.1 million for the three and nine months ended September 29, 2019.
 We recognized $3.1 million and $5.6 million of severance and other restructuring costs for this program during the three and nine months ended September 29, 2019, respectively.
 We recognized $3.0 million of severance and other restructuring costs for this program during the nine months ended September 29, 2019.
-During the three and nine months ended September 29, 2019, dividends on the Preferred Stock were $1.0 million and $18.4 million, respectively.
+On July 15, 2019, all outstanding Preferred Stock was automatically converted into shares of Belden common stock at the conversion rate of 132.50, resulting in the issuance of approximately 6.9 million shares of Belden common stock.
 Gross profit decreased $25.5 million and $47.9 million in the three and nine months ended September 29, 2019, respectively, from the comparable periods of 2018.
 Gross profit for the three months ended September 29, 2019 decreased due to the decreases in revenue discussed above as well as unfavorable mix; partially offset by decreases in severance, restructuring, and acquisition integration costs of $4.0 million from the comparable period of 2018.
 Gross profit for the nine months ended September 29, 2019 decreased due to the decreases in revenue discussed above as well as unfavorable mix; partially offset by decreases in severance, restructuring, and acquisition integration costs of $19.7 million from the comparable period of 2018.
@@ -33,7 +37,11 @@ Selling, general and administrative expenses decreased $12.5 million and $31.0 m
 Improved productivity; a decline in severance, restructuring, and acquisition integration costs; and currency translation contributed $10.0 million, $3.0 million, and $1.2 million, respectively, to the decrease in selling, general and administrative expenses for the three months ended September 29, 2019 as compared to the year ago period; partially offset by the impact of acquisitions, which increased selling, general and administrative expenses by $1.7 million.
 
 
+item3.txt
+
+
+
 part2.txt
-SEC Investigation - As disclosed in our Current Report on Form 8-K filed with the SEC on December 3, 2018, we are fully cooperating with an SEC investigation related to the material weakness in internal controls over financial reporting as of December 31, 2017 disclosed in our 2017 Form 10-K.
+
 
 

@@ -1,15 +1,26 @@
+fls.txt
+The forward-looking information may include, among other information, statements concerning our outlook for fiscal year 2019, overall volume and pricing trends, cost reduction and acquisition strategies and their anticipated results, and expectations for research and development and capital expenditures.
+Forward-looking statements reflect management’s expectations and are inherently uncertain.
+
+
 item1.txt
+The consolidated financial statements of AVX Corporation and its subsidiaries (“AVX” or the “Company”) include all accounts of the Company and its subsidiaries.
+Certain information and footnote disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States have been omitted in accordance with the rules and regulations of the SEC for interim financial statements.
+These consolidated financial statements should be read in conjunction with the audited consolidated financial statements and accompanying notes included in our Annual Report on Form 10-K for the fiscal year ended March 31, 2018.
+Accordingly, this Quarterly Report on Form 10-Q should be read in conjunction with our Annual Report on Form 10-K for the fiscal year ended March 31, 2018.
+During the three and six month periods ended September 30, 2018, there were no significant changes to any critical accounting policies or to the methodology used in determining estimates including those related to investment securities, inventories, goodwill, intangible assets, property and equipment, and contingencies other than those discussed below and in Note 3 related to revenue recognition.
 We recognize revenue as performance obligations are satisfied, which is when the customer takes control of the products as they are shipped to or received by the customer in accordance with the terms of the agreement of sale.
 Substantially all of the Company’s receivables are collected within twelve months of the transfer of products to the customer and the Company expects this to continue going forward.
 The Company applies the practical expedient within ASC 606 to all of its contracts with payment terms less than or equal to twelve months and does not recognize a financing component in the determination of the transaction price.
 Based on the evaluation of our resale arrangements with Kyocera, including consideration of the primary indicators set forth in ASC 606, we record revenue related to products purchased and resold on a gross basis.
+The Company recognizes the estimated variable consideration to be received as revenue and records a related reduction to accounts receivable or as an accrued expense for the consideration not expected to be received, based upon its estimate of credits issued or products returned under the sales allowance programs described below.
+Sales revenue and cost of sales reported in the statement of operations are reduced to reflect estimated returns.
+The estimated value of the return to customer’s inventory is recorded as an asset.
+Stock rotation is a program whereby distributor customers are allowed to return, for credit, qualified inventory, semi-annually, equal to a certain percentage, primarily limited to 5% of the previous six months net sales.
+An asset is recorded for the estimated value of returned product.
 Ship-from-Stock and Debit (“ship and debit”) is a program designed to assist distributor customers in meeting competitive prices in the marketplace on sales to their end customers.
 Ship and debit programs require a request from the distributor for a pricing adjustment for a specific part for a sale to the distributor’s end customer from the distributor’s stock.
-Ship and debit authorizations may cover current and future distributor activity for a specific part for sale to their customer.
-At the time we record sales to the distributors, we provide an allowance for the variable consideration of the estimated future distributor activity related to such sales since it is probable that such sales to distributors will result in ship and debit activity.
-We record an estimated sales allowance based on sales during the period, credits issued to distributors, distributor inventory levels, historical trends, market conditions, pricing trends we see in our direct sales activity with original equipment manufacturers and other customers, and input from sales, marketing, and other key management personnel.
 In 2014, FASB issued ASU 2014-09, “Revenue from Contracts with Customers.” This guidance modifies how an entity will determine the measurement of revenue and timing of when it is recognized.
-The Company adopted this guidance effective April 1, 2018, using the modified retrospective method, with no material impact on our results of operations.
 In February 2016, FASB issued ASU 2016-02, “Leases.” This guidance changes the requirements for inclusion of certain right-of-use assets and the associated lease liabilities to be included in a statement of financial position.
 Regarding finance leases, lessees are required to 1) recognize a right-of-use asset and a lease liability, initially measured at the present value of the lease payments, in the statement of financial position, 2) recognize interest on the lease liability separate from the amortization of the right-of-use asset in the statement of comprehensive income, and 3) classify repayments of the principal portion of the lease liability within financing activities and payments of interest on the lease liability and variable lease payments within operating activities in the statement of cash flows.
 Regarding operating leases, lessees are required to 1) recognize a right-of-use asset and a lease liability, initially measured at the present value of the lease payments, in the statement of financial position, 2) recognize a single lease cost, calculated so that the cost of the lease is allocated over the lease term on a generally straight-line basis, and 3) classify all cash payments within operating activities in the statement of cash flows.
@@ -17,14 +28,8 @@ In August 2017, FASB issued ASU 2017-12, “Derivatives and Hedging.” The stan
 We used the acquisition method of accounting to record the below transactions in accordance with FASB Accounting Standards Codification Topic 805, “Business Combinations.” In accordance with the acquisition method, the purchase price is allocated to the assets acquired and liabilities assumed based on their estimated fair values with the excess being allocated to goodwill.
 The acquired intangible assets relate to the AB Electronics trade name, existing technology and customer relationships which are being amortized over one, eleven, and six years respectively.
 In the quarter ended September 30, 2018, immaterial measurement period adjustments were made to the allocation of the purchase price.
-The purchase of Ethertronics expands AVX’s extensive electronic product offering into the antenna technology market and will provide new and exciting growth opportunities for AVX going forward.
 The results of operations for AVX Antenna since the acquisition date are included in the accompanying consolidated statements of operations.
 The acquired intangible assets relate to the Ethertronics trade name, existing technology and customer relationships which are being amortized over ten, ten, and thirteen years, respectively.
 We recognized revenue of $31,806 and $63,747 from AVX Antenna in the three and six month periods ended September 30, 2018, respectively.
-Immaterial working capital and other measurement period adjustments were made to the allocation to the purchase price.
-Diluted earnings per share are computed by dividing net earnings by the sum of (a) the weighted average number of shares of common stock outstanding during the period and (b) the dilutive effect of potential common stock equivalents during the period.
-The table below represents the basic and diluted earnings per share and sets forth the weighted average number of shares of common stock outstanding and potential common stock equivalents for the three and six month periods ending September 30, 2017 and 2018.
-The funds in the non-qualified deferred compensation program are valued based on the number of shares in the funds using a price per share traded in an active market.
-If the cost of an investment exceeds its fair value, among other factors, we evaluate general market conditions, the duration and extent to which the fair value is less than cost, and whether or not we expect to recover the security's entire amortized cost.
 
 

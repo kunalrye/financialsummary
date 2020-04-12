@@ -4,32 +4,34 @@ fls.txt
 
 item1.txt
 The Company reports interim financial information for 13-week periods beginning on a Sunday and ending on a Saturday, except for the first fiscal quarter, which always begins on January 1, and the fourth fiscal quarter, which always ends on December 31.
-The ASU is the result of a project between the FASB and the International Accounting Standards Board to increase transparency and comparability among organizations by recognizing lease assets and lease liabilities on the balance sheet and disclosing key information about leasing arrangements.
 Upon adoption at January 1, 2019, the Company recognized right of use assets of $91,462 and lease liabilities of $95,784 on the consolidated balance sheet.
 The difference between the initial right of use asset and lease liability balances recognized upon adoption of ASC Topic 842 is primarily due to accrued lease incentive balances at December 31, 2018.
 On December 20, 2018, the Company received sale proceeds of $45,500 and concurrently leased-back its former manufacturing site in Santa Clara, California, under a short-term arrangement, to raze the buildings.
 Upon adoption of ASC Topic 842, the Company was required to reassess the accounting for these transactions.
-The Company recognized a cumulative-effect adjustment to retained earnings (accumulated deficit) of $23,013, to recognize the sale as of the date of adoption, and derecognized the land, building, and related deferred proceeds, which had been recorded in other accrued expenses.
 The Company recognizes right of use assets and lease liabilities for leases greater than twelve months in duration based on the contract consideration for lease components through the term of the lease and the applicable discount rate.
-The Company does not recognize right of use assets or lease liabilities for short-term leases and classifies the expense as short-term lease expense.
+Variable lease payments based on an index or rate are included in the right of use assets and lease liabilities based on the effective rates at lease commencement.
+The Company has elected to not separate contract consideration for lease and non-lease components for its building leases.
+In addition to the noncancellable period of a lease, the Company includes periods covered by extension options it is reasonably certain to exercise, termination options that it is reasonably certain not to exercise, and extension and termination options controlled by the lessor in its determination of the lease term.
 
 
 item2.txt
-In 2014, our Board of Directors instituted a quarterly dividend payment program and declared the first cash dividend in the history of Vishay.
+This Management's Discussion and Analysis ("MD&A") is intended to provide an understanding of Vishay's financial condition, results of operations and cash flows by focusing on changes in certain key measures from period to period.
 We have paid dividends each quarter since the first fiscal quarter of 2014, and increased the quarterly cash dividend by 26% to $0.085 per share in the second fiscal quarter of 2018.
 On May 8, 2019, we announced that the quarterly cash dividend was further increased by 12% to $0.095 per share.
-During 2018 we repatriated approximately $724.0 million of cash to the U.S., net of taxes, and further simplified our balance sheet by refinancing some of our debt.
 In June 2018, we used the net proceeds from issuing $600 million principal amount of new convertible senior notes to repurchase some of our outstanding convertible senior debentures, which had become less tax-efficient because of the TCJA.
-During the fourth quarter of 2018, we utilized repatriated cash to repurchase additional convertible senior debentures in open market and privately-negotiated transactions with holders.
 During the first quarter of 2019, we continued to repurchase convertible senior debentures in open market and privately-negotiated transactions with holders, further reducing the principal amount of outstanding convertible senior debentures to $21.1 million.
 We utilize several financial metrics, including net revenues, gross profit margin, segment operating income, end-of-period backlog, book-to-bill ratio, inventory turnover, change in average selling prices, net cash and short-term investments (debt), and free cash generation to evaluate the performance and assess the future direction of our business.
-We believe that supply, in general, caught up with market demand in the first fiscal quarter of 2019.
 Net revenues increased versus the prior year quarter, but decreased versus the prior fiscal quarter.
 Net revenues for the fiscal quarter ended March 30, 2019 were $745.2 million, compared to $775.9 million and $716.8 million for the fiscal quarters ended December 31, 2018 and March 31, 2018, respectively.
 The net earnings attributable to Vishay stockholders for the fiscal quarter ended March 30, 2019 were $75.5 million, or $0.52 per diluted share, compared to $102.4 million, or $0.69 per diluted share for the fiscal quarter ended December 31, 2018, and $62.4 million, or $0.39 per diluted share for the fiscal quarter ended March 31, 2018.
 We define adjusted net earnings as net earnings determined in accordance with GAAP adjusted for various items that management believes are not indicative of the intrinsic operating performance of our business.
 We define free cash as the cash flows generated from continuing operations less capital expenditures plus net proceeds from the sale of property and equipment.
 The reconciliations below include certain financial measures which are not recognized in accordance with GAAP, including adjusted net earnings, adjusted earnings per share, and free cash.
+Management believes that adjusted net earnings and adjusted earnings per share are meaningful because they provide insight with respect to our intrinsic operating results.
+Management believes that free cash is a meaningful measure of our ability to fund acquisitions, repay debt, and otherwise enhance stockholder value through stock repurchases or dividends.
+Although the term "free cash" is not defined in GAAP, each of the elements used to calculate free cash for the year-to-date period is presented as a line item on the face of our consolidated condensed statement of cash flows prepared in accordance with GAAP and the quarterly amounts are derived from the year-to-date GAAP statements as of the beginning and end of the respective quarter.
+Our results for the fiscal quarters ended March 30, 2019, December 31, 2018, and March 31, 2018 represent the effects of a strong business environment, our cost reduction programs, and our organic growth initiatives.
+We began to experience a normalization of demand in the fourth fiscal quarter of 2018, which continued in the first fiscal quarter of 2019 as supply, in general, caught up with demand.
 
 
 item3.txt
@@ -37,13 +39,11 @@ Item 3 of Part I of our Annual Report on Form 10-K for the year ended December 3
 
 
 item4.txt
-Item 4.
 31.1   Certification pursuant to Rule 13a-14(a) or 15d-14(a) under the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 - Dr. Gerald Paul, Chief Executive Officer.
 
 
 part2.txt
+Item 3 of Part I of our Annual Report on Form 10-K for the year ended December 31, 2018, filed with the SEC on February 15, 2019 describes certain of our legal proceedings.
 As previously reported, the Korean Ministry of Justice conducted a review of the conduct of Vishay Polytech Co., Ltd., a wholly owned subsidiary of the Company (“VPC”), at the request of the Korean Fair Trade Commission.
-At the conclusion of that review, the Seoul Central District Prosecutors’ Office issued a summary indictment of VPC, along with other respondents, for alleged violations of applicable antitrust laws.
-On March 4, 2019, the Seoul Central District Court issued a summary order finding that VPC had violated South Korea’s Monopoly Regulation and Fair Trade Law and imposed a penalty of approximately $44,000 against VPC.
 
 

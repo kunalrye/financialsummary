@@ -3,28 +3,29 @@ fls.txt
 
 
 item1.txt
+Certain information and disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States (“GAAP”) have been condensed or omitted in accordance with these accounting principles, rules and regulations.
 The information in this report should be read in conjunction with the Company’s audited consolidated financial statements and notes thereto included in the Annual Report on Form 10-K for the year ended December 31, 2017, filed with the SEC on March 1, 2018.
 In the opinion of management, the accompanying unaudited condensed consolidated financial statements reflect all adjustments (consisting only of normal recurring adjustments) necessary to present fairly the Company’s financial position, results of operations and cash flows for the interim periods presented.
 The financial statements contained in this Form 10-Q are not necessarily indicative of the results that may be expected for the year ending December 31, 2018 or for any other future periods.
 Except for the changes related to revenue recognition discussed in “Recently Adopted Accounting Pronouncements” and in Note 2 below, there have been no other changes to the Company’s significant accounting policies during the three and six months ended June 30, 2018 as compared to the significant accounting policies described in the Company’s audited consolidated financial statements included in the Annual Report on Form 10-K for the year ended December 31, 2017.
-The Company recorded a net increase to the opening balance of retained earnings of $0.4 million, net of tax, as of January 1, 2018 due to the cumulative effect of initially applying Topic 606, primarily related to the change in revenue recognition for three U.S.-based distributors.
+The standard’s core principle is that an entity will recognize revenue when it transfers promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services.
+Results for reporting periods beginning after January 1, 2018 are presented under Topic 606, while prior-period amounts have not been retrospectively adjusted and continue to be reported in accordance with Topic 605, Revenue Recognition.
 Prior to the adoption of Topic 606, revenue and costs related to these sales were deferred until the Company received notification from the distributors that the products had been sold to the end customers and the amount of price adjustments was fixed and finalized.
 Accordingly, effective January 1, 2018, the Company recognizes revenue at the time of shipment to the distributors, adjusted for an estimate of the price adjustments based on management’s review of historical data and other information available at the time.
-In February 2016, the FASB issued ASU No. 2016-02, Leases (Topic 842), which requires entities to recognize a right-of-use asset and a lease liability on the balance sheets for substantially all leases with a lease term greater than 12 months, including leases currently accounted for as operating leases.
+2016-02, Leases (Topic 842), which requires entities to recognize a right-of-use asset and a lease liability on the balance sheets for substantially all leases with a lease term greater than 12 months, including leases currently accounted for as operating leases.
 The Company is evaluating the impact of the adoption on its consolidated financial position, results of operations, cash flows and disclosures.
 The Company is evaluating the impact of the adoption on its consolidated financial position, results of operations, cash flows and disclosures.
 The Company generates revenue primarily from product sales, which include assembled and tested integrated circuits, as well as dies in wafer form.
 The Company also generates royalty revenue from licensing arrangements and revenue from wafer testing services performed for third parties, which have not been significant in all periods presented.
 The Company sells its products primarily through third-party distributors, value-added resellers, original equipment manufacturers, original design manufacturers and electronic manufacturing service providers.
 For the three months ended June 30, 2018 and 2017, approximately 86% and 88%, respectively, of the Company’s sales were made through distribution arrangements.
-For the six months ended June 30, 2018 and 2017, approximately 87% and 88%, respectively, of the Company’s sales were made through distribution arrangements.
-Purchase orders, which are governed by sales agreements or the Company's standard terms of sale, state the final terms for unit price, quantity, shipping and payment agreed by both parties.
 
 
 item2.txt
-Except for the changes related to revenue recognition discussed in Note 1 and Note 2 to Condensed Consolidated Financial Statements, there have been no other significant changes in our critical accounting policies and estimates used in the preparation of our financial statements during the three and six months ended June 30, 2018, as compared to those disclosed in the Annual Report on Form 10-K for the year ended December 31, 2017.
 Revenue for the three months ended June 30, 2018 was $139.8 million, an increase of $27.6 million, or 24.6%, from $112.2 million for the three months ended June 30, 2017.
 This increase was driven by higher sales in all of our end markets except for communications.
+Revenue from the consumer market for the three months ended June 30, 2018 increased $3.9 million, or 8.9%, from the same period in 2017.
+This increase was primarily driven by higher demand in home appliance and internet-of-things related products.
 
 
 item4.txt
@@ -32,15 +33,15 @@ item4.txt
 
 
 part2.txt
+In addition, the stock market often experiences substantial volatility that may be unrelated to the operating performance of particular companies.
 In recent years, global credit and financial markets experienced disruptions, and may experience disruptions in the future, including diminished liquidity and credit availability, declines in consumer confidence, declines in economic growth, increases in unemployment rates, and uncertainty about economic stability.
 The tightening of credit in financial markets may lead consumers and businesses to postpone spending, which may cause our customers to cancel, decrease or delay their existing and future orders with us.
 In addition, financial difficulties experienced by our suppliers or distributors could result in product delays, increased accounts receivable defaults and inventory challenges.
-These and other economic factors have had, and may in the future have, a material adverse effect on demand for our products and on our financial condition and operating results.
 Rising concern of international tariffs, including tariffs applied to goods traded between the United States and China, could materially and adversely affect our business and results of operations.
 The institution of trade tariffs both globally and between the U.S. and China specifically carries the risk of negatively affecting China’s overall economic condition, which could have a negative impact on us as we have significant operations in China.
 Furthermore, imposition of tariffs could cause a decrease in the sales of our products to customers located in China or other customers selling to Chinese end users, which would directly impact our business and operating results.
-Unfavorable changes in our operations, including any of the factors noted above, may have a material adverse effect on our quarterly or annual profitability.
-Industry consolidation may lead to increased competition and may harm our operating results.
-We expect this trend to continue as companies attempt to improve the leverage of growing research and development costs, strengthen or hold their market positions in an evolving industry, or become unable to continue operations unless they find an acquirer or consolidate with another company.
+In the past, our revenue increased significantly in certain years due to increased sales of certain of our products.
+Our success depends on products that are differentiated in the market, which result in gross margins that have historically been above industry averages.
+These conditions have caused significant variances in product demand and production capacity, as well as rapid erosion of average selling prices.
 
 

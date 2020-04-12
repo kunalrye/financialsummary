@@ -1,29 +1,30 @@
+fls.txt
+This Quarterly Report on Form 10-Q, including the documents incorporated herein by reference, contains forward-looking statements that anticipate results based on our estimates, assumptions and plans that are subject to uncertainty.
+
+
 item1.txt
+The consolidated balance sheet at December 31, 2018, has been derived from the audited consolidated financial statements at that date.
+The consolidated financial statements include the accounts of Blackbaud, Inc. and its wholly owned subsidiaries.
 ASU 2016-02 requires lessees to record most leases on their balance sheet but recognize expenses in the income statement in a manner similar to previous guidance.
 The way in which entities classify leases determines how to recognize lease-related revenue and expense.
 Additionally, we elected not to apply the recognition requirements of the new lease accounting standard to short-term leases.
 Adopting ASU 2016-02 had a material impact on our consolidated balance sheet as of January 1, 2019, as we recognized $121.6 million of lease liabilities and $113.4 million of right-of-use ("ROU") assets for those leases classified as operating leases.
-Except for the accounting policy added for leases below as a result of adopting ASU 2016-02, there have been no changes to our significant accounting policies described in our Annual Report on Form 10-K for the year ended December 31, 2018, filed with the SEC on February 20, 2019, that have had a material impact on our consolidated financial statements.
-Operating leases are included in operating lease ROU assets, accrued expense and other current liabilities, and operating lease liabilities, net of current portion in our consolidated balance sheet as of September 30, 2019.
 ROU assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments arising from the lease.
-Operating lease ROU assets and liabilities are recognized at the lease commencement date based on the present value of lease payments over the lease term.
 As most of our leases do not provide an implicit rate, we use our incremental borrowing rate based on the information available at commencement date in determining the present value of lease payments.
 The operating lease ROU asset also includes any initial direct costs and lease payments made and excludes lease incentives.
 Our lease terms may include options to extend or terminate the lease when it is reasonably certain that we will exercise that option.
 Lease expense for lease payments related to our operating leases is recognized on a straight-line basis over the lease term.
-We have lease agreements with lease and non-lease components, which are generally accounted for separately.
+We do not recognize short-term leases (those that, at the commencement date, have a lease term of 12 months or less) on our consolidated balance sheets.
 
 
 item2.txt
-Serving the entire social good community—nonprofits, foundations, companies, education institutions, healthcare organizations and individual change agents—we connect and empower organizations to increase their impact through cloud software, services, expertise and data intelligence.
 This year marks an important milestone in that process as the structural transformation in sales is now largely complete, enabling our account executives to focus on leading with total solution selling by vertical, driving more products per customer, higher ASPs and overall increased customer lifetime value.
-The increases in total revenue during the three and nine months ended September 30, 2019, when compared to the same periods in 2018, were primarily driven by growth in recurring revenue as we continue to see positive demand from customers across our portfolio of cloud-based solutions.
-Our acquisition of YourCause, which occurred on January 2, 2019, also contributed to the increases in recurring and total revenue.
+For example, we are now selling a portfolio of modern cloud solutions, which is driving a shift away from one-time services as we reduce the hours needed for implementation and integration of our solutions.
 As expected, one-time services and other revenue declined $5.0 million and $14.3 million, respectively, during the three and nine months ended September 30, 2019 due to our continued shift in focus towards selling cloud-based subscription solutions.
 In general, our cloud-based solutions include integrated analytics, training and payments services, and require less implementation services and little to no customization services.
 We are also selling more subscription-based contracts for retained services and services embedded in our renewable cloud-based solution contracts.
+As a result, we continue to expect one-time services and other revenue to decline.
 Income from operations decreased during the three and nine months ended September 30, 2019, when compared to the same periods in 2018.
-The positive impact of growth in total revenue driven by recurring subscriptions was offset primarily by investments we are making in our sales organization and innovation, which we expect to continue for the remainder of 2019.
 Contributing to the decreases in income from operations were increases in stock-based compensation of $4.1 million and $7.9 million, respectively, and hosting and data center costs of $1.0 million and $4.0 million, respectively.
 Increases in employee severance of $1.9 million, amortization of intangible assets from business combinations of $1.8 million and rent expense of $1.7 million, also negatively impacted income from operations during the nine months ended September 30, 2019.
 The increases in stock-based compensation expense were primarily driven by an increase in the grant date fair value of our annual equity awards granted to employees during the first quarter of 2019, when compared to the grant date fair value of the awards granted during the same period in 2018.
@@ -31,6 +32,8 @@ The increase in rent expense during the nine months ended September 30, 2019 was
 Our recurring revenue contracts are generally for a term of three years at contract inception with one to three-year renewals thereafter.
 We anticipate a continued decrease in maintenance contract renewals as we transition our solution portfolio and maintenance customers from a perpetual license-based model to a cloud-based subscription delivery model.
 In the long term, we also anticipate an increase in recurring subscription contract renewals as we continue focusing on innovation, quality and the integration of our cloud-based solutions, which we believe will provide value-adding capabilities to better address our customers' needs.
+Due primarily to these factors, we believe a recurring revenue customer retention measure that combines recurring subscription, maintenance and service customer contracts provides a better representation of our customers' overall behavior.
+For the twelve months ended September 30, 2019, approximately 92% of our customers with recurring revenue contracts were retained.
 
 
 item3.txt
@@ -38,6 +41,10 @@ item3.txt
 
 
 item4.txt
+
+
+
+part2.txt
 
 
 

@@ -8,23 +8,23 @@ Certain information and footnote disclosures normally included in financial stat
 These unaudited condensed consolidated financial statements and related notes should be read in conjunction with the Company's fiscal year 2018 audited financial statements included in the Company's Annual Report on Form 10-K for the fiscal year ended February 3, 2018.
 In the opinion of management, the financial statements include all adjustments, including normal recurring adjustments and other adjustments, that are considered necessary for fair presentation of the Company’s financial position and results of operations.
 These financial statements should also be read in conjunction with the Company’s critical accounting policies included in the Company’s Annual Report on Form 10-K for the year ended February 3, 2018 and those included in this Form 10-Q below.
+The Company’s fiscal year is the 52- or 53-week period ending on the Saturday closest to January 31.
+On July 6, 2018, the Company completed its acquisition of Cavium, Inc.
 The consolidated financial statements include the operating results of Cavium for the period from the date of acquisition to the Company's third quarter ended November 3, 2018.
 In May 2014, the Financial Accounting Standards Board (“FASB”) issued a new accounting standard on the recognition of revenue from contracts with customers that superseded nearly all existing revenue recognition guidance under GAAP.
 The new standard requires an entity to recognize revenue from the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services.
 The guidance addresses, in particular, contracts with more than one performance obligation, as well as the accounting for certain costs to obtain or fulfill a contract with a customer, and provides for additional disclosures with respect to revenue and cash flows arising from contracts with customers.
-The Company adopted the standard on a modified retrospective basis in the first quarter of fiscal year 2019, with the cumulative effect recognized in retained earnings at the date of adoption.
 See "Note 12 - Revenue" for additional information on the impact of the adoption of the new standard on the Company’s consolidated financial statements.
 In January 2016, the FASB issued an accounting standard update that changes the accounting for equity investments, financial liabilities under the fair value option, and the presentation and disclosure requirements for financial instruments.
-The Company adopted the standard in the first quarter of fiscal 2019.
 The adoption of this guidance did not have a significant impact on the Company's consolidated financial statements.
-The Company adopted the standard in the first quarter of fiscal 2019.
 The adoption of this guidance did not have an impact on the Company's consolidated financial statements.
+In October 2016, the FASB issued new guidance that simplifies the accounting for the income tax effects of intra-entity transfers and will require companies to recognize the income tax effects of intra-entity transfers of assets other than inventory when the transfer occurs.
 
 
 item2.txt
 Cavium's operating results from the acquisition date through our third quarter ended November 3, 2018 have been included in our consolidated financial statements.
-In the third quarter of fiscal 2019, our net revenue increased year over year by 38.1% from $616.3 million net revenue in the third quarter fiscal 2018 compared with $851.1 million in the third quarter of fiscal 2019.
 The increase was primarily due to a 57% increase in our networking product sales and 29% increase in our storage product sales, with sales benefiting from our acquisition of Cavium.
+This increase was partially offset by decreased sales of our other products, which decreased by 4% in relation to the three months ended October 28, 2017.
 
 
 item3.txt
@@ -37,14 +37,13 @@ item4.txt
 
 part2.txt
 Many of these risks and uncertainties are beyond our control, including business cycles and seasonal trends of the computing, infrastructure, semiconductor and related industries and end markets.
-If any of the possible adverse events described below actually occurs, we may be unable to conduct our business as currently planned and our financial condition and operating results could be harmed.
 Our acquisition of Cavium involves a number of risks, including, among others, associated with our use of a significant portion of our cash and our taking on significant indebtedness, other financial risks, integration risks, and risk associated with the reactions of customers, suppliers and employees.
 We used a significant portion of our cash and incurred substantial indebtedness in connection with the financing of our acquisition of Cavium (the "Cavium acquisition") that will reduce our liquidity and may (i) limit our flexibility in responding to other business opportunities and (ii) increase our vulnerability to adverse economic and industry conditions.
+Loss of key or skilled personnel could adversely impact product development or other aspects of the Company's business and operations.
 Although the Credit Agreement contains restriction on the incurrence of additional indebtedness and the indenture under which the Senior Notes were issued contains restrictions on creating liens and entering into certain sale-leaseback transactions, these restrictions are subject to a number of qualifications and exceptions, and the additional indebtedness, liens or sale-leaseback transactions incurred in compliance with these restrictions could be substantial.
-Any of the foregoing could materially and adversely affect our financial condition and results of operations.
 These restrictions may affect our ability to operate our business and may limit our ability to take advantage of potential business opportunities as they arise.
+The restrictions, among other things, restrict our ability and our subsidiaries’ ability to create or incur certain liens, incur or guarantee additional indebtedness, merge or consolidate with other companies, pay dividends, transfer or sell assets and make restricted payments.
+We do not know whether we will be granted waivers under, or amendments to, our Credit Agreement or to the Senior Notes if for any reason we are unable to meet these requirements, or whether we will be able to refinance our indebtedness on terms acceptable to us, or at all.
 Our ability to pay our expenses and satisfy our debt obligations, refinance our debt obligations and fund planned capital expenditures will depend on our future performance, which will be affected by general economic, financial competitive, legislative, regulatory and other factors beyond our control.
-If we are unable to generate sufficient cash flow from operations or to borrow sufficient funds in the future to service our debt, we may be required to sell assets, reduce capital expenditures, refinance all or a portion of our existing debt (including the Senior Notes) or obtain additional financing.
-In addition, a material default on our indebtedness could suspend our eligibility to register securities using certain registration statement forms under SEC guidelines that permit incorporation by reference of substantial information regarding us, potentially hindering our ability to raise capital through the issuance of our securities and increasing our costs of registration.
 
 

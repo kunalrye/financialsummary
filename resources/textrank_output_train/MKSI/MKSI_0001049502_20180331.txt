@@ -1,38 +1,46 @@
+fls.txt
+
+
+
 item1.txt
 (1)  Tax benefit was $112 and $1,831 for the three months ended March 31, 2018 and 2017, respectively.
 (2)  Tax benefit (expense) was $36 and $(86) for the three months ended March 31, 2018 and 2017, respectively.
 (3)  Tax benefit was $17 and $94 for the three months ended March 31, 2018 and 2017, respectively.
 (1)  Restricted cash at the beginning of the period was $119 and $5,287 for the three months ended March 31, 2018 and 2017, respectively.
 (2)  Restricted cash at the end of the period was $118 and $5,274 for the three months ended March 31, 2018 and 2017, respectively.
-In February 2018, the FASB issued ASU 2018-02, Income Statement  Reporting Comprehensive Income (Topic 220). The amendments in this standard allow a reclassification from accumulated other comprehensive income to retained earnings for stranded tax effects resulting from the Act. The provisions of this ASU are effective for annual periods beginning after December 15, 2018, including interim periods within those fiscal years.
-The Company does not expect adoption of this ASU to have a material impact on the Companys consolidated financial statements.
-In August 2017, the FASB issued ASU 2017-12, Derivatives and Hedging (Topic 815). This standard better aligns an entitys risk management activities and financial reporting for hedging relationships through changes to both the designation and measurement guidance for qualifying hedging relationships and the presentation of hedge results.
-The provisions of this ASU are effective for annual periods beginning after December 15, 2018, including interim periods within those fiscal years.
-The Company does not expect adoption of this ASU to have a material impact on the Companys consolidated financial statements.
-In March 2017, the FASB issued ASU 2017-07, Compensation-Retirement Benefits (Topic 715)-Improving the Presentation of Net Periodic Pension Cost and Net Periodic Postretirement Benefit Cost. This standard requires that an employer disaggregate the service cost component from the other components of net benefit cost.
-The provisions of this ASU are effective for annual periods beginning after December 31, 2017, including interim periods within those fiscal years.
+The interim financial data as of March 31, 2018, and for the three months ended March 31, 2018 are unaudited; however, in the opinion of MKS, the interim data includes all adjustments, consisting of normal recurring adjustments, necessary for a fair statement of the results for the interim periods.
+The unaudited condensed consolidated financial statements should be read in conjunction with the audited consolidated financial statements and notes thereto included in the MKS Annual Report on Form 10-K for the year ended December 31, 2017 filed with the Securities and Exchange Commission on February 28, 2018.
+In March 2018, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) 2018-05, Income Taxes (Topic 740). This standard is an amendment that adopts the language of Securities and Exchange Commission Staff Accounting Bulletin No. The provisions of this ASU were applied to the Companys December 31, 2017 financial statements.
+Until the Company completes its analysis and receives additional guidance, the Company is not able to determine if the impact of ASU 2018-05 is material to the Companys consolidated financial statements in any period.
+In May 2017, the FASB issued ASU 2017-09, Compensation-Stock Compensation (Topic 718)-Scope of Modification Accounting. This standard provides guidance about which changes to the terms or conditions of a share-based payment award require an entity to apply modification accounting in Topic 718.
 The Company adopted this ASU during the three month period ended March 31, 2018.
-In January 2017, the FASB issued ASU 2017-01, Business Combinations (Topic 805)-Clarifying the Definition of a Business. This standard clarifies the definition of a business with the objective of adding guidance to assist entities with evaluating whether transactions should be accounted for as acquisitions (or disposals) of assets or businesses.
-The provisions of this ASU are effective for annual periods beginning after December 15, 2017, including interim periods within those fiscal years.
+In March 2017, the FASB issued ASU 2017-07, Compensation-Retirement Benefits (Topic 715)-Improving the Presentation of Net Periodic Pension Cost and Net Periodic Postretirement Benefit Cost. This standard requires that an employer disaggregate the service cost component from the other components of net benefit cost.
+The Company adopted this ASU during the three month period ended March 31, 2018.
+The Company adopted this ASU during the three month period ended March 31, 2018.
 The Company adopted this ASU during the three month period ended March 31, 2018.
 In October 2016, the FASB issued ASU 2016-16, Income Taxes (Topic 740)-Intra-Entity Transfer of Assets Other Than Inventory. This standard requires that an entity recognize the income tax consequences of an intra-entity transfer of an asset other than inventory when the transfer occurs as opposed to when the assets have been sold to an outside party.
-The provisions of this ASU are effective for annual periods beginning after December 15, 2017, including interim periods within those fiscal years.
+The Company adopted this ASU during the three month period ended March 31, 2018.
+The Company adopted this ASU during the three month period ended March 31, 2018.
 
 
 item2.txt
 Approximately 57% our net revenues for both the three months ended March 31, 2018 and 2017, were from sales to semiconductor capital equipment manufacturers and semiconductor device manufacturers.
 Approximately 43% of our net revenues for both three months ended March 31, 2018 and 2017, were from other advanced manufacturing applications.
-A significant portion of our net revenues are from sales to customers in international markets.
 For both periods ended March 31, 2018 and 2017, international net revenues accounted for approximately 50% of our total net revenues.
 Long-lived assets located in the United States were $127.6 million and $124.7 million as of March 31, 2018 and December 31, 2017, respectively, excluding goodwill and intangibles, and long-term tax-related accounts.
 Long-lived assets located outside of the United States were $78.4 million and $78.5 million as of March 31, 2018 and December 31, 2017, respectively, excluding goodwill and intangibles, and long-term tax-related accounts.
 The reported results for the three months ended March 31, 2018 reflect the application of ASC 606 guidance while the reported results for 2017 were prepared under the guidance of ASC 605, Revenue Recognition (ASC 605).
+We have recorded a net increase to opening retained earnings of $1.8 million as of January 1, 2018 due to the cumulative impact of adopting ASC 606, with the impact primarily related to our service business and certain custom products.
+The impact to revenues for the quarter ended March 31, 2018 was immaterial as a result of applying ASC 606.
 Revenue under ASC 606 is recognized when or as obligations under the terms of a contract with our customer have been satisfied and control has transferred to the customer.
-The majority of our performance obligations, and associated revenue, are transferred to customers at a point in time, generally upon shipment of a product to the customer or receipt of the product by the customer and without significant judgments.
 Extended warranty, service contracts, and repair services, which are transferred to the customer over time, are recorded as revenue as the services are performed.
 
 
+item4.txt
+
+
+
 part2.txt
-Newport Corp., et al., Case No. A-16-733154-C, was filed in the District Court, Clark County, Nevada on behalf of a putative class of stockholders of Newport for claims related to the Merger Agreement between the Company, Newport, and Merger Sub. On March 25, 2016, a second putative class action complaint captioned Hubert C.
+A-16-733154-C, was filed in the District Court, Clark County, Nevada on behalf of a putative class of stockholders of Newport for claims related to the Merger Agreement between the Company, Newport, and Merger Sub. On March 25, 2016, a second putative class action complaint captioned Hubert C.
 
 

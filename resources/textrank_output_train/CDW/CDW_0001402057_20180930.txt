@@ -1,14 +1,17 @@
 fls.txt
+This ASU introduces a new forward-looking approach, based on expected losses, to estimate credit losses on certain types of financial instruments, including trade receivables.
 "Management's Discussion and Analysis of Financial Condition and Results of Operations" should be read in conjunction with the unaudited interim Consolidated Financial Statements and the related notes included elsewhere in this report and with the audited Consolidated Financial Statements and the related notes included in the Company's Annual Report on Form 10-K for the year ended December 31, 2017.
 
 
 item1.txt
 CDW Corporation ("Parent") is a Fortune 500 company with multi-national capabilities and a leading provider of integrated information technology ("IT") solutions to small, medium and large business, government, education and healthcare customers in the United States ("US"), the United Kingdom ("UK") and Canada.
 Throughout this report, the terms the "Company" and "CDW" refer to Parent and its 100% owned subsidiaries.
+The accompanying unaudited interim Consolidated Financial Statements as of September 30, 2018 and for the three and nine months ended September 30, 2018 and 2017 (the "Consolidated Financial Statements") have been prepared in conformity with accounting principles generally accepted in the United States of America ("GAAP") and the rules and regulations of the US Securities and Exchange Commission (the "SEC") for interim financial statements.
 Effective January 1, 2018, the Company adopted the requirements of Topic 606 utilizing the full retrospective method as discussed in Note 2 (Recent Accounting Pronouncements).
-Revenues from sales of hardware products are recognized on a gross basis as the Company is acting as a principal in these transactions, with the selling price to the customer recorded as Net sales and the acquisition cost of the product recorded as Cost of sales.
+Except as noted above for the adoption of Topic 606, there have been no material changes to the Company's significant accounting policies and estimates during the nine months ended September 30, 2018.
+The Company is the principal in the transaction and recognizes revenue for drop-shipment arrangements on a gross basis.
 The Company recognizes revenue from these transactions when control has passed to the customer, which is usually upon delivery of the product to the customer.
-These extended warranties are sold separately and provide the customer with a service in addition to assurance that the product will function as expected.
+For these transactions, the Company deems that control passes to the customer when the product is ready for delivery.
 The Company considers these service-type warranties to be separate performance obligations from the underlying product.
 For service-type warranties, the Company is arranging for those services to be provided by the third-party and therefore is acting as an agent in the transaction and records revenue on a net basis at the point of sale.
 Revenues from most software license sales are recognized as a single performance obligation on a gross basis as the Company is acting as a principal in these transactions at the point the software license is delivered to the customer.
@@ -16,34 +19,28 @@ The Company evaluates whether the software assurance is a separate performance o
 If the Company determines that the accompanying third-party delivered software assurance is critical or essential to the core functionality of the software license, the software license and the accompanying third-party delivered software assurance are recognized as a single performance obligation.
 The value of the product is primarily the accompanying support delivered by a third-party and therefore the Company is acting as an agent in these transactions and recognizes them on a net basis at the point the associated software license is delivered to the customer.
 For software licenses where the accompanying third-party delivered software assurance is not critical or essential to the core functionality, the software assurance is recognized as a separate performance obligation, with the associated revenue recognized on a net basis at the point the related software license is delivered to the customer.
-The Company sells cloud computing solutions, which include Software as a Service ("SaaS") and Infrastructure as a Service ("IaaS").
 
 
 item2.txt
 We believe that the most important of these measures and ratios include average daily sales, gross margin, operating margin, Net income, Non-GAAP income before income taxes, Non-GAAP net income, Net income per common share, Non-GAAP net income per diluted share, EBITDA, Adjusted EBITDA, Adjusted EBITDA margin, free cash flow, return on working capital, Cash and cash equivalents, net working capital, cash conversion cycle (defined to be days of sales outstanding in Accounts receivable plus days of supply in Inventory minus days of purchases outstanding in Accounts payable, based on a rolling three-month average), debt levels including available credit and leverage ratios, sales per coworker and coworker turnover.
+For further details regarding the Term Loan, see Long-Term Debt and Financing Arrangements within Management's Discussion and Analysis of Financial Condition and Results of Operations and Note 6 (Long-Term Debt) to the accompanying Consolidated Financial Statements.
 Total Net sales for the three months ended September 30, 2018 increased $440 million, or 11.2%, to $4,373 million, compared to $3,933 million for the three months ended September 30, 2017.
 See "Non-GAAP Financial Measure Reconciliations" below for additional information regarding constant currency Net sales growth.
 For the three months ended September 30, 2018, Net sales growth reflected balanced growth across transactions and solutions.
 Corporate segment Net sales for the three months ended September 30, 2018 increased $154 million, or 9.9%, compared to the three months ended September 30, 2017.
 Small Business segment Net sales for the three months ended September 30, 2018 increased by $35 million, or 11.3%, between periods.
+Net sales in Other, which is comprised of results from our UK and Canadian operations, for the three months ended September 30, 2018 increased $71 million, or 18.5%, compared to the three months ended September 30, 2017.
 Gross profit increased $72 million, or 11.1%, to $714 million for the three months ended September 30, 2018, compared to $642 million for the three months ended September 30, 2017.
 As a percentage of Net sales, Gross profit margin remained flat versus prior year at 16.3% for the three months ended September 30, 2018.
 Selling and administrative expenses increased $39 million, or 11.0%, to $391 million for the three months ended September 30, 2018, compared to $352 million for the three months ended September 30, 2017.
 The increase was driven by higher sales payroll costs, including sales commissions consistent with higher Gross profit dollars, higher coworker costs driven by attainment for performance-based compensation and strategic investments funded by tax reform.
-As a percentage of total Net sales, Selling and administrative expenses remained flat at 8.9% for the three months ended September 30, 2018.
-Income from operations was $275 million for the three months ended September 30, 2018, an increase of $31 million, or 12.6%, compared to $244 million for the three months ended September 30, 2017.
-
-
-item3.txt
-
 
 
 item4.txt
-Item 4.
+
 
 
 part2.txt
 Item 1.
-Legal Proceedings
 
 

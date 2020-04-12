@@ -1,5 +1,10 @@
+fls.txt
+
+
+
 item1.txt
-The information included in this Quarterly Report on Form 10-Q (“Report”) should be read in conjunction with “Management's Discussion and Analysis of Financial Condition and Results of Operations,” “Risk Factors,” “Quantitative and Qualitative Disclosures About Market Risk,” and the Consolidated Financial Statements and footnotes thereto included in the Company's Annual Report on Form 10-K for the year ended December 31, 2017 (the "Form 10-K").
+Accordingly, they do not include all of the information and footnotes required by U.S. GAAP for complete financial statements.
+The results of operations for the three months ended March 31, 2018, are not necessarily indicative of the results that may be expected for the year ending December 31, 2018, or any future period.
 Except for the change in certain policies upon adoption of the accounting standards described below, there have been no material changes to the Company's significant accounting policies, compared to the accounting policies described in Note 2, Significant Accounting Policies, in Notes to Consolidated Financial Statements in Item 8 of Part II of the Form 10-K.
 Revenue is recognized when promised goods or services are transferred to customers in an amount that reflects the consideration to which the Company expects to be entitled in exchange for those goods or services by following a five-step process, (1) identify the contract with a customer, (2) identify the performance obligations in the contract, (3) determine the transaction price, (4) allocate the transaction price, and (5) recognize revenue when or as the Company satisfies a performance obligation, as further described below.
 Product performance obligations include hardware and software licenses and service performance obligations include maintenance, software post-contract support, training, and professional services.
@@ -8,20 +13,17 @@ Fixed consideration includes amounts to be contractually billed to the customer 
 The Company generally invoices customers for hardware, software licenses and related maintenance arrangements at time of delivery, and professional services either upfront or upon meeting certain milestones.
 The Company’s contracts with customers typically do not include significant financing components as the period between the transfer of performance obligations and timing of payment are generally within one year.
 For contracts that contain multiple performance obligations, the Company allocates the transaction price to the performance obligations on a relative standalone selling price basis.
-Standalone selling prices are based on multiple factors including, but not limited to historical discounting trends for products and 
+Recognize revenue when or as the Company satisfies a performance obligation.
 Certain software licenses combined with post-contract support are recognized over time on a ratable basis over the term of the license.
+Revenue for maintenance and software post-contract support is recognized over time on a ratable basis over the contract term.
 Sales commissions earned by the Company’s sales force are considered incremental and recoverable costs of obtaining a contract with a customer.
-Amortization expense is included in sales and marketing expenses in the accompanying Condensed Consolidated Statements of Operations.
-For available-for-sale debt securities that have unrealized losses, the Company assesses impairment by evaluating various factors, including whether (i) it has the intention to sell any of these investments and (ii) whether it is more likely than not that it will be required to sell any of these investments before recovery of the entire amortized cost basis.
-The Company anticipates that it will recover the entire amortized cost basis of such available-for-sale debt securities and has determined that no other-than-temporary impairments associated with credit losses were required to be recognized during the three months ended March 31, 2018 and March 31, 2017.
-During the three months ended March 31, 2018 and March 31, 2017, there were no material gross realized gains or losses from available-for-sale debt securities.
+These costs are deferred and then amortized over a period of benefit which is typically over the term of the customer contracts as initial commission rates and renewal rates are the same.
 
 
 item2.txt
+To aid in understanding our operating results for the periods covered by this Report, we have provided an executive overview, which includes a summary of our business and market environment along with a financial results and key performance metrics overview.
 Juniper designs, develops, and sells products and services for high-performance networks to enable customers to build scalable, reliable, secure and cost-effective networks for their businesses, while achieving agility, efficiency and value through automation.
 We are focused on and continue to see significant opportunities from the implementation of cloud architectures, such as large public and private data centers, as well as distributed cloud infrastructure which resides in multiple, distributed data centers in order to place applications or services closer to end users, such as enabling security and "network-as-a-service."
-We believe the network needs for our customers in our Service Provider, Cloud and Enterprise verticals are converging, as these customers recognize the need for high performance networks and leveraging the cloud for improved agility and greater levels of operating efficiency.
-In routing, we believe that certain large Cloud customers are transitioning their wide area networks from scale-up to a scale-out architecture as they continue to add capacity.
 
 
 item4.txt
@@ -29,15 +31,16 @@ item4.txt
 
 
 part2.txt
-We expect our product and service gross margins to vary, both in the near-term and in the long-term, and the gross margins we have achieved in recent years may not be sustainable and may be adversely affected in the future by numerous factors, some of which have occurred and may occur in the future, including customer, vertical, product and geographic mix shifts, an increase or decrease in our software sales or services we provide, increased price competition in one or more of the markets in which we compete, changes in the actions of our competitors or their pricing strategies, which may be difficult to predict and respond to, modifications to our pricing strategy in order to gain footprint in certain markets or with certain customers, currency fluctuations that impact our costs or the cost of our products and services to our customers, increases in material, labor, logistics, warranty costs, or inventory carrying costs, excess product component or obsolescence charges from our contract manufacturers, issues with manufacturing or component quality or efficiencies, increased costs due to changes in component pricing or charges incurred due to inaccurately forecasting product demand, warranty related issues, or our introduction of new products and enhancements or entry into new markets with different pricing and cost structures.
 For example, in fiscal year 2017, our margins decreased as compared to fiscal year 2016, primarily due to lower product net revenues and product mix, resulting from the year-over-year decline in routing revenues, our customers' architectural shifts, and higher costs of certain memory components.
-Failure to sustain or improve our gross margins reduces our profitability and may have a material adverse effect on our business and stock price.
 Further, we will continue to remain diligent in our long-term financial objective to increase revenue and operating margins and manage our operating expenses as a percentage of revenue.
 A limited number of our customers comprise a material portion of our revenues and any changes in the way they purchase products and services from us could affect our business.
-Any decrease in revenues from our customers or partners could have an adverse effect on our net revenues and operating results.
+A material portion of our net revenues depend on sales to a limited number of customers and distribution partners, particularly in our Service Provider and Cloud verticals.
 A substantial portion of our business and revenues depends on the growth of secure IP infrastructure and on the deployment of our products by customers that depend on the continued growth of IP services.
 As a result of changes in the economy, capital spending or the building of network capacity in excess of demand, all of which have in the past particularly affected telecommunications service providers, spending on IP infrastructure can vary, which could have a material adverse effect on our business, financial condition, and results of operations.
 For example, in recent quarters, our switching and routing results were adversely affected by spending delays from our largest Cloud customers, who we believe are in the process of implementing a networking architectural shift.
-Such delays in purchases can make it more difficult to predict revenues from customers, can cause fluctuations in the level of spending by customers and, even where our products are ultimately selected, can have a material adverse effect on our business, financial condition, and results of operations.
+Our ability to successfully offer our products and services in a rapidly evolving market requires an effective planning, forecasting, and management process to enable us to effectively scale and adjust our business and business models in response to fluctuating market opportunities and conditions.
+Further, a number of other small public and private companies have products or have announced plans for new products to address the same challenges and markets that our products address.
+A customer's decision to purchase certain of our products, particularly new products, involves a significant commitment of its resources and a lengthy evaluation and product qualification process.
+In particular, customers making critical decisions regarding the design and implementation of large network deployments may engage in very lengthy procurement processes that may delay or impact expected future orders.
 
 

@@ -1,5 +1,6 @@
 fls.txt
-
+“Management’s Discussion and Analysis of Financial Condition and Results of Operations” included in our Fiscal 2017-2018 Update 8-K.
+Except for the historical information contained herein, the discussions in this MD&A contain forward-looking statements that involve risks and uncertainties.
 
 
 item1.txt
@@ -8,25 +9,26 @@ Reclassifications include certain direct selling and bid and proposal costs from
 This standard supersedes nearly all revenue recognition guidance under GAAP and International Financial Reporting Standards and supersedes some cost guidance for construction-type and production-type contracts.
 The guidance in this standard is principles-based, and, consequently, entities are required to use more judgment and make more estimates than under prior guidance, including identifying contract performance obligations, estimating variable consideration to include in the contract price and allocating the transaction price to separate performance obligations.
 We elected to apply the practical expedient related to backlog disclosures for prior reporting periods and the practical expedient related to evaluating the effects of contract modifications that occurred prior to the earliest period presented.
-Retrospective application of this standard resulted in the recognition of a cumulative-effect adjustment of $15 million to reduce the opening balance of retained earnings at July 2, 2016.
 This standard requires, among other things, the recognition of right-of-use assets and liabilities on the balance sheet for most lease arrangements and disclosure of certain information about leasing arrangements.
 Companies may elect to use the modified retrospective approach for leases that exist or are entered into after the beginning of the earliest comparative period in the financial statements or to initially apply this standard at the adoption date and recognize a cumulative-effect adjustment to the opening balance of retained earnings in the period of adoption.
 This standard is effective for fiscal years, and interim reporting periods within those years, beginning after December 15, 2018, which for us is our fiscal 2020.
-Although we are continuing to evaluate the impact to our consolidated balance sheet of recognizing right-of-use assets and lease liabilities for the majority of our current lease obligations, which could be material, we do not expect this standard to have a material impact on our results of operations or cash flows.
 During the two quarters ended December 28, 2018, we had options or other share-based compensation outstanding under two shareholder-approved employee stock incentive plans (“SIPs”), the Harris Corporation 2005 Equity Incentive Plan (As Amended and Restated Effective August 27, 2010) and the Harris Corporation 2015 Equity Incentive Plan (the “2015 EIP”).
 The compensation cost related to our share-based awards that was charged against income was $15 million and $29 million for the quarter and two quarters ended December 28, 2018, respectively, and $13 million and $24 million for the quarter and two quarters ended December 29, 2017, respectively.
+Such charges include termination benefits, contract termination costs and costs to consolidate facilities or relocate employees.
+Receivables sold pursuant to the RSA meet the requirements for sales accounting under ASC 860, Transfers and Servicing, and, accordingly, are derecognized from our Condensed Consolidated Balance Sheet (Unaudited) at the time of sale.
+Impairment losses related to receivables from contracts with customers were not material during the quarter or two quarters ended December 28, 2018 or the quarter or two quarters ended December 29, 2017.
+Contract assets include unbilled amounts typically resulting from revenue recognized exceeding amounts billed to customers for contracts utilizing the percentage of completion (“POC”) cost-to-cost revenue recognition method.
 
 
 item2.txt
 Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+The following Management’s Discussion and Analysis (“MD&A”) is intended to assist in an understanding of our financial condition and results of operations.
+“Management’s Discussion and Analysis of Financial Condition and Results of Operations” included in our Fiscal 2017-2018 Update 8-K.
 Reclassifications include certain direct selling and bid and proposal costs from the “Cost of product sales and services” line item to the “Engineering, selling and administrative expenses” line item in our Condensed Consolidated Statement of Income (Unaudited) and in the Notes.
 The increases in segment operating income and segment operating income as a percentage of revenue (“operating margin percentage”) in the second quarter of fiscal 2019 compared with the second quarter of fiscal 2018 reflected the combined effects of the items discussed above regarding this segment.
+The increase in segment gross margin, decrease in segment gross margin percentage, increase in segment ESA expenses and decrease in segment ESA percentage for the first two quarters of fiscal 2019 compared with the first two quarters of fiscal 2018 were due to the same reasons as noted above regarding this segment for the second quarters of fiscal 2019 and 2018.
 The increases in segment operating income and operating margin percentage in the first two quarters of fiscal 2019 compared with the first two quarters of fiscal 2018 reflected the combined effects of the items discussed above regarding this segment for the first two quarters of fiscal 2019 and 2018.
 The increases in segment operating income and segment operating margin percentage in the second quarter of fiscal 2019 compared with the second quarter of fiscal 2018 reflected the combined effects of the items discussed above regarding this segment.
-The increases in segment operating income and segment operating margin percentage in the first two quarters of fiscal 2019 compared with the first two quarters of fiscal 2018 reflected the combined effects of the items discussed above regarding this segment for the first two quarters of fiscal 2019 and 2018.
-The increases in segment operating income and segment operating margin percentage in the second quarter of fiscal 2019 compared with the second quarter of fiscal 2018 reflected the combined effects of the items discussed above regarding this segment.
-The increase in segment operating income in the first two quarters of fiscal 2019 compared with the first two quarters of fiscal 2018 and comparability of segment operating margin percentage reflected the combined effects of the items discussed above regarding this segment for the first two quarters of fiscal 2019 and 2018.
-transaction and integration costs and the timing of other expense accruals in the second quarter of fiscal 2019, partially offset by a $12 million adjustment for deferred compensation in the second quarter of fiscal 2018.
 
 
 item3.txt
@@ -42,7 +44,5 @@ As described in Note R — Legal Proceedings and Contingencies in the Notes, in 
 The complaints in the lawsuits contain substantially similar allegations contending, among other things, that the registration statement on Form S-4 in support of the pending merger misstates or fails to disclose certain allegedly material information in violation of federal securities laws.
 The complaint in the Kent lawsuit further alleges that the Harris Parties are liable for these violations as “controlling persons” of L3 within the meaning of federal securities laws.
 Additional lawsuits in connection with the merger may be filed in the future.
-Although the ultimate resolution of these lawsuits cannot be predicted with certainty, and an adverse ruling in any such lawsuit may cause the merger to be delayed or not to be completed, which could cause us not to realize some or all of the anticipated benefits of the merger, we believe that these lawsuits are without merit and intend to defend vigorously against them and any other lawsuits challenging the pending merger.
-Therefore, at this time, we do not believe the ultimate resolution of these lawsuits will have a material adverse effect on us or the merger.
 
 

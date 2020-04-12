@@ -1,24 +1,29 @@
+fls.txt
+Such statements are subject to certain risks, uncertainties and assumptions.
+
+
 item1.txt
 The unaudited consolidated financial statements of Encore Wire Corporation (the “Company”) have been prepared in accordance with U.S. generally accepted accounting principles (“GAAP”) for interim information and the instructions to Form 10-Q and Rule 10-01 of Regulation S-X.
 Accordingly, they do not include all of the information and footnotes required by U.S. GAAP for complete annual financial statements.
-These financial statements should be read in conjunction with the audited consolidated financial statements and notes thereto included in the Company’s Annual Report on Form 10-K for the year ended December 31, 2017.
-Amounts billed and due from our customers are classified as accounts receivables on the balance sheet and require payment on a short-term basis through standard payment terms.
 The Financial Accounting Standards Board (the “FASB”) Accounting Standards Codification (“ASC”) is the sole source of authoritative U.S. GAAP other than Securities and Exchange Commission ("SEC") issued rules and regulations that apply only to SEC registrants.
-In December 2017, the SEC staff issued Staff Accounting Bulletin No. 118, “Income Tax Accounting Implications of the Tax Cuts and Jobs Act (SAB 118),” which allows the Company to record provisional amounts during a measurement period not to extend beyond one year of the enactment date.
-Since the 2017 Tax Act was passed late in the fourth quarter of 2017, and ongoing guidance and accounting interpretation is expected over the next twelve months, management considers the deferred tax re-measurements and other items to be incomplete due to the forthcoming guidance and the ongoing analysis of final year-end data and tax positions.
-The Company expects to complete its analysis within the measurement period in accordance with SAB 118.
+In December 2017, the SEC staff issued Staff Accounting Bulletin No. The Company expects to complete its analysis within the measurement period in accordance with SAB 118.
 In May 2014, the FASB issued ASU No. 2014-09, Revenue from Contracts with Customers (ASC Topic 606), which replaces numerous requirements in U.S. GAAP, including industry-specific requirements, and provides companies with a single revenue recognition model for recognizing revenue from contracts with customers.
-On January 1, 2018, we adopted the requirements of ASC Topic 606 and all the related amendments to all of our contracts using the modified retrospective method.
+Upon completing our implementation assessment of Topic ASC 606, we concluded that no adjustment was required to the opening balance of retained earnings at the date of initial application.
 The comparative information has also not been restated and continues to be reported under the accounting standards in effect for those periods.
-In February 2016, the FASB issued ASU No. 2016-02, “Leases (Topic 842).” Under the new guidance, a lessee will be required to recognize a right to use asset and a lease liability for all leases with terms of twelve months or longer.
 The Company is evaluating the effect that ASU 2016-02 will have on its consolidated financial statements and related disclosures.
 During the first three quarters of every year, LIFO calculations are based on the inventory levels and costs at that time.
+Accordingly, interim LIFO balances will fluctuate depending on those inventory levels and costs.
+During the first quarter of 2018, the Company liquidated a portion of the LIFO inventory layer in the aluminum wire pool established in prior years.
+This liquidation had an insignificant effect on the net income of the Company.
+During the first quarter of 2017, the Company did not liquidate any LIFO inventory layers established in prior years.
 
 
 item2.txt
-Net sales were $291.4 million in the first quarter of 2018 compared to $279.4 million in the first quarter of 2017.
+Price competition for electrical wire and cable is intense, and the Company sells its products in accordance with prevailing market prices.
+Copper, a commodity product, is the principal raw material used by the Company in manufacturing its products.
+Copper accounted for approximately 69.7%, 65.2%, and 72.1% of the Company’s cost of goods sold during fiscal 2017, 2016 and 2015, respectively.
+The acquisition of copper cathode by copper ETFs may materially decrease or interrupt the availability of copper for immediate delivery in the United States, which could materially increase the Company’s cost of copper.
 This 4.3% increase in net sales is primarily the result of a 6.4% increase in copper wire sales, driven by a 15.6% increase in the average selling price of copper wire offset by a 7.9% decrease in copper wire unit volume shipped.
-Fluctuations in sales prices are primarily a result of changing copper and other raw material prices and product price competition.
 The average cost per pound of raw copper purchased increased 18.3% in the first quarter of 2018 compared to the first quarter of 2017 and was the principal driver of the increased average sales price of copper wire.
 Cost of goods sold was $253.9 million, or 87.1% of net sales, in the first quarter of 2018, compared to $240.2 million, or 86.0% of net sales, in the first quarter of 2017.
 The decrease in gross profit margin percentage was driven by multiple factors, including a 7.9% decline in copper wire unit sales, which was more than offset by the increase of the copper wire spread.
@@ -30,12 +35,10 @@ As permitted by U.S. generally accepted accounting principles, the Company maint
 
 
 item4.txt
-The Company maintains controls and procedures designed to ensure that information required to be disclosed by it in the reports it files with or submits to the Securities and Exchange Commission (the “SEC”) is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms and to ensure that information required to be disclosed by the Company in such reports is accumulated and communicated to the Company’s management, including the Chief Executive and Chief Financial Officers, as appropriate, to allow timely decisions regarding required disclosure.
+
 
 
 part2.txt
-Legal Proceedings.
 For information on the Company’s legal proceedings, see Note 8 to the Company’s consolidated financial statements included in Item 1 to this report and incorporated herein by reference.
-Note 7 to the Company’s consolidated financial statements included in Item 1 to this report is hereby incorporated herein by reference.
 
 

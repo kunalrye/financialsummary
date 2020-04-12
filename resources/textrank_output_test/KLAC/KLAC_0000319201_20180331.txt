@@ -3,29 +3,29 @@ fls.txt
 
 
 item1.txt
+The condensed consolidated financial statements have been prepared by the Company pursuant to the rules and regulations of the U.S. Securities and Exchange Commission (“SEC”).
+Certain information and footnote disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States of America have been condensed or omitted pursuant to such rules and regulations.
+In the opinion of management, the unaudited interim financial statements reflect all adjustments (consisting only of normal, recurring adjustments) necessary for a fair statement of the financial position, results of operations, comprehensive income (loss), and cash flows for the periods indicated.
+These financial statements and notes, however, should be read in conjunction with Item 8, “Financial Statements and Supplementary Data” included in the Company’s Annual Report on Form 10-K for the fiscal year ended June 30, 2017, filed with the SEC on August 4, 2017.
 The results of operations for the three and nine months ended March 31, 2018 are not necessarily indicative of the results that may be expected for any other interim period or for the full fiscal year ending June 30, 2018.
-The reclassifications had no effect on the prior year’s Condensed Consolidated Statements of Operations, Comprehensive Income and Cash Flows.
+Proposed Merger with Orbotech, Ltd. On March 18, 2018, the Company entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Orbotech, Ltd.
 •When the customer fab has previously accepted the same tool, with the same specifications, and when the Company can objectively demonstrate that the tool meets all of the required acceptance criteria.
 In circumstances in which the Company recognizes revenue prior to installation, the portion of revenue associated with installation is deferred based on estimated fair value, and that revenue is recognized upon completion of the installation.
 The Company has multiple element revenue arrangements in cases where certain elements of a sales arrangement are not delivered and accepted in one reporting period.
-To determine the relative fair value of each element in a revenue arrangement, the Company allocates arrangement consideration based on the selling price hierarchy.
 For substantially all of the arrangements with multiple deliverables pertaining to products and services, the Company uses vendor-specific objective evidence (“VSOE”) or third-party evidence (“TPE”) to allocate the selling price to each deliverable.
 The Company determines TPE based on historical prices charged for products and services when sold on a stand-alone basis.
 When the Company is unable to establish relative selling price using VSOE or TPE, the Company uses estimated selling price (“ESP”) in its allocation of arrangement consideration.
 The objective of ESP is to determine the price at which the Company would transact a sale if the product or service were sold on a stand-alone basis.
 The Company regularly reviews relative selling prices and maintains internal controls over the establishment and updates of these estimates.
 The Company estimates the value of the trade-in right and reduces the revenue recognized on the initial sale.
-The Company enters into volume purchase agreements with some of its customers.
-The Company accrues the estimated credits earned by its customers for such incentives, and in situations when the credit levels vary depending upon sales volume, the Company updates its accrual based on the amount that the Company estimates will be purchased pursuant to the volume purchase agreements.
-Spare parts revenue is recognized when the parts have been shipped, risk of loss has passed to the customer and collection of the resulting receivable is reasonably assured.
 
 
 item2.txt
+Such forward-looking statements include, among others, forecasts of the future results of our operations, including profitability; orders for our products and capital equipment generally; sales of semiconductors; the investments by our customers in advanced technologies and new materials; the allocation of capital spending by our customers (and, in particular, the percentage of spending that our customers allocate to process control); growth of revenue in the semiconductor industry, the semiconductor capital equipment industry and our business; technological trends in the semiconductor industry; future developments or trends in the global capital and financial markets; our future product offerings and product features; the success and market acceptance of new products; timing of shipment of backlog; our future product shipments and product and service revenues; our future gross margins; our future research and development expenses and selling, general and administrative expenses; our ability to successfully maintain cost discipline; international sales and operations; our ability to maintain or improve our existing competitive position; success of our product offerings; creation and funding of programs for research and development; attraction and retention of employees; results of our investment in leading edge technologies; the effects of hedging transactions; the effect of the sale of trade receivables and promissory notes from customers; our future effective income tax rate; our recognition of tax benefits; future payments of dividends to our stockholders; the completion of any acquisitions of third parties, or the technology or assets thereof; benefits received from any acquisitions and development of acquired technologies; sufficiency of our existing cash balance, investments, cash generated from operations and the unfunded portion of our revolving line of credit under a Credit Agreement (the “Credit Agreement”) to meet our operating and working capital requirements, including debt service and payment thereof; future dividends, and stock repurchases; our compliance with the financial covenants under the Credit Agreement; the adoption of new accounting pronouncements; the tax liabilities resulting from the enactment of the Tax Cuts and Jobs Act; and our repayment of our outstanding indebtedness.
+Our broad portfolio of inspection and metrology products, and related service, software and other offerings primarily supports integrated circuit (“IC” or “chip”) manufacturers throughout the entire semiconductor fabrication process, from research and development to final volume production.
+We provide leading-edge equipment, software and support that enable IC manufacturers to identify, resolve and manage significant advanced technology manufacturing process challenges and obtain higher finished product yields at lower overall cost.
+Our products, services and expertise are used by our customers to measure, detect, analyze and resolve critical product defects that arise in that environment in order to control nanometric level manufacturing processes.
 Our revenues are driven largely by our customers’ spending on capital equipment and related maintenance services necessary to support key transitions in their underlying product technologies, or to increase their production volumes in response to market demand or expansion plans.
-All three of these markets are characterized by rapid technological changes and sudden shifts in end-user demand, which influence the level and pattern of our customers’ spending on our products and services.
-Although capital spending in all three semiconductor markets has historically been very cyclical, the demand for more advanced and lower cost chips used in a growing number of consumer electronics, communications, data processing, and industrial and automotive products has resulted over the long term in a favorable demand environment for our process control and yield management solutions, particularly in the foundry and logic markets, which have higher levels of process control adoption than the memory market.
-As we are a supplier to the global semiconductor and semiconductor-related industries, our customer base continues to become more highly concentrated over time, thereby increasing the potential impact of a sudden change in capital spending by a major customer on our revenues and profitability.
-As our customer base becomes increasingly more concentrated, large orders from a relatively limited number of customers account for a substantial portion of our sales, which potentially exposes us to more volatility for revenues and earnings.
 
 
 item3.txt
@@ -33,17 +33,17 @@ item3.txt
 
 
 item4.txt
-The Company conducted an evaluation of the effectiveness of the design and operation of its disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the “Exchange Act”)) (“Disclosure Controls”) as of the end of the period covered by this Quarterly Report on Form 10-Q (this “Report”) required by Exchange Act Rules 13a-15(b) or 15d-15(b).
+
 
 
 part2.txt
 Ongoing changes in the technology industry, as well as the semiconductor industry in particular, could expose our business to significant risks.
-Many of the risks associated with operating in these industries are comparable to the risks faced by all technology companies, such as the uncertainty of future growth rates in the industries that we serve, pricing trends in the end-markets for consumer electronics and other products (which place a growing emphasis on our customers’ cost of ownership), changes in our customers’ capital spending patterns and, in general, an environment of constant change and development, including decreasing product and component dimensions; use of new materials; and increasingly complex device structures, applications and process steps.
-If we fail to appropriately adjust our cost structure and operations to adapt to any of these trends, or, with respect to technological advances, if we do not timely develop new technologies and products that successfully anticipate and address these changes, we could experience a material adverse effect on our business, financial condition and operating results.
 •the entry by some semiconductor manufacturers into collaboration or sharing arrangements for capacity, cost or risk with other manufacturers, as well as increased outsourcing of their manufacturing activities, and greater focus only on specific markets or applications, whether in response to adverse market conditions or other market pressures.
 •The mix and type of customers, and sales to any single customer, may vary significantly from quarter to quarter and from year to year, which exposes our business and operating results to increased volatility tied to individual customers.
-This concentration increases the impact that future business or technology changes within the foundry industry may have on our business, financial condition and operating results.
 Many of our large customers have more aggressive policies regarding engaging alternative, second-source suppliers for the products we offer and, in addition, may seek and, on occasion, receive pricing, payment, intellectual property-related or other commercial terms that may have an adverse impact on our business.
 •Certain customers have undergone significant ownership changes, created alliances with other companies, experienced management changes or have outsourced manufacturing activities, any of which may result in additional complexities in managing customer relationships and transactions.
+Any future change in ownership or management of our existing customers may result in similar challenges, including the possibility of the successor entity or new management deciding to select a competitor’s products.
+•The highly concentrated business environment also increases our exposure to risks related to the financial condition of each of our customers.
+For example, as a result of the challenging economic environment during fiscal year 2009, we were (and in some cases continue to be) exposed to additional risks related to the continued financial viability of certain of our customers.
 
 

@@ -1,25 +1,19 @@
 fls.txt
-
+Investors should refer to the Company’s Form 10-K for the year ended December 31, 2017 (the “2017 Form 10-K”) for a discussion of factors that could cause events to differ from those suggested by the forward-looking statements, including factors set forth in the sections entitled “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations”.
 
 
 item1.txt
-Risk Factors
+There have been no material changes from the risk factors previously disclosed under Item 1A.
 
 
 item2.txt
+Except as otherwise indicated or unless the context otherwise requires, (a) the terms “EVERTEC,” “we,” “us,” “our,” “our Company” and “the Company” refer to EVERTEC, Inc. and its subsidiaries on a consolidated basis, (b) the term “Holdings” refers to EVERTEC Intermediate Holdings, LLC, but not any of its subsidiaries and (c) the term “EVERTEC Group” refers to EVERTEC Group, LLC and its predecessor entities and their subsidiaries on a consolidated basis, including the operations of its predecessor entities prior to the Merger (as defined below).
 EVERTEC is a leading full-service transaction processing business in Latin America and the Caribbean, providing a broad range of merchant acquiring, payment services and business process management services.
 We manage a system of electronic payment networks that process more than two billion transactions annually, and offer a comprehensive suite of services for core bank processing, cash processing and technology outsourcing.
-We serve a diversified customer base of leading financial institutions, merchants, corporations and government agencies with “mission-critical” technology solutions that enable them to issue, process and accept transactions securely.
-•Our ability to capture and analyze data across the transaction processing value chain and use that data to provide value-added services that are differentiated from those offered by pure-play vendors that serve only one portion of the transaction processing value chain (such as only merchant acquiring or payment services).
 Our main operating subsidiary, EVERTEC Group, LLC (formerly known as EVERTEC, LLC and EVERTEC, Inc., hereinafter “EVERTEC Group”), was organized in Puerto Rico in 1988.
 On April 17, 2012, EVERTEC Group was converted from a Puerto Rico corporation to a Puerto Rico limited liability company (the “Conversion”) for the purpose of improving its consolidated tax efficiency by taking advantage of changes to the Puerto Rico Internal Revenue Code, as amended (the “PR Code”), that permit limited liability companies to be treated as partnerships that are pass-through entities for Puerto Rico tax purposes.
-Prior to the Merger on September 30, 2010, EVERTEC Group was 100% owned by Popular, the largest financial institution in the Caribbean, and operated substantially as an independent entity within Popular.
-In connection with, and upon consummation of the Merger, EVERTEC Group entered into a 15-year Master Services Agreement (the “MSA”), and several related agreements with Popular.
-We believe that the penetration of electronic payments in the markets in which we operate is significantly lower relative to the U.S. market, and that this ongoing shift will continue to generate substantial growth opportunities for our business.
-We believe that the unbanked and underbanked population in our markets will continue to shrink, and therefore drive incremental penetration and growth of electronic payments in Puerto Rico and other Latin American regions.
 powers over Puerto Rico’s budget, laws, financial plans and regulations, including the power to approve restructuring agreements with creditors, file petitions for restructuring and reform the electronic system for the tax collection.
-In addition, PROMESA imposes an automatic stay on all litigation against Puerto Rico and its instrumentalities, as well as any other judicial or administrative actions or proceedings to enforce or collect claims against the Puerto Rico government.
-As the solution to the Puerto Rican government’s debt crisis remains unclear, we continue to carefully monitor our receivables with the government as well as monitor general economic trends to understand the impact the crisis has on the economy of Puerto Rico and our card payment volumes.
+In addition to the macroeconomic trends described above, Management currently estimates that we will continue to experience a revenue attrition in Latin America of approximately $2 million to $4 million for previously disclosed migrations anticipated in 2018.
 Total revenues in the second quarter of 2018 increased by $9.8 million or 10% to $113.3 million.
 Revenue growth in the quarter reflected the impact of the acquisition of PayGroup as well as elevated sales volumes in Puerto Rico driven by post-hurricane recovery activity, federal relief and benefit programs and insurance proceeds.
 Cost of revenues amounted to $49.1 million, an increase of $6.1 million or 14% when compared with the prior year period.
@@ -27,6 +21,15 @@ The increase is primarily driven by an increase in salaries and benefits in conn
 Selling, general and administrative expenses in the second quarter of 2018 increased by $3.3 million or 22% to $17.8 million when compared with the second quarter of 2017.
 The increase is primarily related to an increase in share based compensation expenses coupled with an increase in salaries and benefits as a result of the PayGroup acquisition and an increase in professional fees in connection with due diligence for a potential transaction which the Company decided not to pursue.
 Depreciation and amortization expense amounted to $15.7 million, relatively flat when compared with the prior year period.
+Non-operating expenses increased by $1.7 million to $7.4 million when compared with the prior year period.
+The increase is mainly related to a $1.4 million decrease in Other (expense) income due to a decrease in foreign exchange gains coupled with an increase in interest expense of $0.3 million.
+Income tax expense amounted to $3.1 million a decrease of $1.0 million when compared with the prior year period.
+The decrease is primarily related to prior year income tax expense recognized in connection with a one-time dividend declared to repatriate foreign earnings in order to fund the acquisition of PayGroup.
+Total revenues for the six months ended June 30, 2018 amounted to $223.6 million, an increase of $18.8 million or 9%.
+The increase in revenues was primarily driven by added revenues from the acquisition of PayGroup as well as strong sales volumes in Puerto Rico related to post-hurricanes recovery.
+Cost of revenues amounted to $96.6 million, an increase of $9.3 million or 11% when compared with the prior year period.
+The increase is primarily driven by an increase in salaries and benefits in connection with the PayGroup acquisition and higher equipment maintenance expenses.
+Selling, general and administrative expenses in the six months ended June 30, 2018 increased by $5.9 million or 23% to $31.3 million when compared with the same period in 2017.
 
 
 item3.txt
@@ -35,14 +38,11 @@ A 100 basis point increase in interest rates over our floor(s) on our debt balan
 
 
 item4.txt
-Item 4.
-Mine Safety Disclosures
+Act”).
 
 
 part2.txt
-Legal Proceedings
-Unregistered Sales of Equity Securities and Use of Proceeds
-Defaults Upon Senior Securities
-Exhibits
+Item 1.
+Item 1A.
 
 

@@ -1,29 +1,33 @@
+fls.txt
+
+
+
 item1.txt
 Certain information and footnote disclosures normally included in financial statements prepared in accordance with generally accepted accounting principles in the United States ("GAAP") have been condensed or omitted pursuant to such rules and regulations.
 The July 28, 2018 Consolidated Balance Sheet was derived from audited financial statements, but does not include all disclosures required by accounting principles generally accepted in the United States.
 These Consolidated Financial Statements should be read in conjunction with the Consolidated Financial Statements and the notes thereto included in our Annual Report on Form 10-K for the fiscal year ended July 28, 2018.
 The share of earnings attributable to the noncontrolling interests are not presented separately in the Consolidated Statements of Operations as these amounts are not material for any of the fiscal periods presented.
 In the opinion of management, all normal recurring adjustments necessary to present fairly the consolidated balance sheet as of October 27, 2018; the results of operations and the statements of comprehensive income (loss) for the three months ended October 27, 2018 and October 28, 2017; the statements of cash flows and equity for the three months ended October 27, 2018 and October 28, 2017, as applicable, have been made.
-The results of operations for the three months ended October 27, 2018 are not necessarily indicative of the operating results for the full fiscal year or any future periods.
 Revenue Recognition In May 2014, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Codification ("ASC") 606, Revenue from Contracts with Customers, a new accounting standard related to revenue recognition.
 The underlying principle of ASC 606 is to recognize revenue when a customer obtains control of promised goods or services at an amount that reflects the consideration that is expected to be received in exchange for those goods or services.
-It also requires increased disclosures including the nature, amount, timing, and uncertainty of revenues and cash flows related to contracts with customers.
 ASC 606 primarily impacts our revenue recognition for software arrangements and sales to two-tier distributors.
 In addition to the above revenue recognition timing impacts, ASC 606 requires incremental contract acquisition costs (such as sales commissions) for customer contracts to be capitalized and amortized on a systematic basis that is consistent with the transfer to the customer of the goods or services to which the assets relates.
 We enter into contracts with customers that can include various combinations of products and services which are generally distinct and accounted for as separate performance obligations.
 We determine whether arrangements are distinct based on whether the customer can benefit from the product or service on its own or together with other resources that are readily available and whether our commitment to transfer the product or service to the customer is separately identifiable from other obligations in the contract.
 We refer to our term software licenses, security software licenses, SaaS, and associated service arrangements as subscription offers.
 We recognize revenue upon transfer of control of promised goods or services in a contract with a customer in an amount that reflects the consideration we expect to receive in exchange for those products or services.
+Transfer of control occurs once the customer has the contractual right to use the product, generally upon shipment or once delivery and risk of loss has transferred to the customer.
+Transfer of control can also occur over time for software maintenance and services as the customer receives the benefit over the contract term.
 
 
 item2.txt
 Across networking, security, collaboration, applications and the cloud, our evolving intent-based technologies are constantly learning and adapting to provide customers with a highly secure, intelligent platform for their digital business.
+See Note 2 to the Consolidated Financial Statements for impact of this adoption on our operating results for the first quarter of fiscal 2019.
 In the first quarter of fiscal 2019, we saw broad-based growth across the business and delivered solid revenue growth, margins and operating cash flow.
 Our product revenue reflected solid growth in Infrastructure Platforms, Applications and Security, and we continued to make progress in the transition of our business model to increased software and subscriptions.
+Within total revenue, product revenue increased by 9% and service revenue increased by 3%.
+Total gross margin increased by 1.1 percentage points, driven primarily by productivity improvements and the $122 million legal and indemnification settlement charge recorded in the first quarter of fiscal 2018, partially offset by unfavorable impacts from pricing.
 In terms of our geographic segments, revenue from the Americas increased $401 million, EMEA revenue increased by $315 million, and revenue in our APJC segment increased by $219 million.
-The “BRICM” countries experienced product revenue growth of 24% in the aggregate, driven by increased product revenue in the emerging countries of Mexico, India, Russia and Brazil of 64%, 55%, 23% and 1%, respectively, while product revenue in China was flat.
-From a customer market standpoint, we experienced solid product revenue growth in the enterprise and service provider markets and, to a lesser extent, in the public sector and commercial markets.
-The product revenue increase of 9% was driven by a 9% product revenue increase in Infrastructure Platforms and solid product revenue growth in Applications and Security, which grew by 18% and 11% respectively.
 
 
 item3.txt
@@ -35,11 +39,12 @@ item4.txt
 
 
 part2.txt
+The descriptions below include any material changes to and supersede the description of the risk factors affecting our business previously disclosed in “Part I, Item 1A.
 Instability in the global credit markets, the impact of uncertainty regarding global central bank monetary policy, the instability in the geopolitical environment in many parts of the world including as a result of the recent United Kingdom “Brexit” referendum to withdraw from the European Union, the current economic challenges in China, including global economic ramifications of Chinese economic difficulties, and other disruptions may continue to put pressure on global economic conditions.
-If global economic and market conditions, or economic conditions in key markets, remain uncertain or deteriorate further, we may experience material impacts on our business, operating results, and financial condition.
 Our operating results in one or more segments may also be affected by uncertain or changing economic conditions particularly germane to that segment or to particular customer markets within that segment.
 For example, emerging countries in the aggregate experienced a decline in product orders in the first quarter of fiscal 2018, in fiscal 2017 and in certain prior periods.
 In addition, reports of certain intelligence gathering methods of the U.S. government could affect customers’ perception of the products of IT companies which design and manufacture products in the United States.
 Impairment of that trust, or foreign regulatory actions taken in response to reports of certain intelligence gathering methods of the U.S. government, could affect the demand for our products from customers outside of the United States and could have an adverse effect on our operating results.
+As a result of a variety of factors discussed in this report, our revenue for a particular quarter is difficult to predict, especially in light of a challenging and inconsistent global macroeconomic environment and related market uncertainty.
 
 

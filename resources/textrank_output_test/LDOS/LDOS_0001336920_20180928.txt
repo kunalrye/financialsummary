@@ -1,6 +1,13 @@
+fls.txt
+
+
+
 item1.txt
+The Company consolidates the financial results for MSA into its unaudited condensed consolidated financial statements.
+The consolidated balances of the Company’s VIE are not material to the Company’s unaudited condensed consolidated financial statements for the periods presented.
+These unaudited condensed consolidated financial statements should be read in conjunction with the consolidated financial statements and notes thereto included in the Company's Annual Report on Form 10-K filed on February 23, 2018.
+Effective the beginning of fiscal 2018, the Company established a new CAS structure and revised its disclosure statements accordingly to reflect the related cost accounting practice changes.
 In applying the revenue principles, an entity is required to identify the contract(s) with a customer, identify the performance obligations, determine the transaction price, allocate the transaction price to the performance obligations and recognize revenue when the performance obligation is satisfied (i.e., either over time or point in time).
-ASC 606 further requires that companies disclose sufficient information to enable users of financial statements to understand the nature, amount, timing and uncertainty of revenue and cash flows arising from contracts with customers.
 ASC 606 provided companies an option of two transition methods, the full retrospective method, in which case the standard would be applied to each prior reporting period presented and the cumulative effect of applying the standard would be recognized at the earliest period shown, or the modified retrospective method, in which case the cumulative effect of applying the standard would be recognized at the date of initial application.
 Effective December 30, 2017 (the beginning of fiscal 2018), the Company adopted the requirements of ASC 606 using the modified retrospective method.
 As a result of the adoption the Company recorded a $1 million decrease to its beginning accumulated deficit as the cumulative impact of adoption of the new revenue standard.
@@ -8,20 +15,18 @@ The primary impact was on certain units-of-delivery contracts, as the Company pr
 The adoption of ASC 606 did not have a significant impact on the Company's revenue recognition policy as revenues on substantially all of the Company's contracts continue to be recognized over time.
 In adopting ASC 606, the Company elected to use certain practical expedients permitted by the standard including using the portfolio approach where contracts with similar characteristics were assessed collectively to evaluate risk over the impact of ASC 606.
 The Company also elected to adopt the right-to-invoice practical expedient on certain cost-reimbursable contracts where the Company recognizes revenues as it is contractually able to invoice the customer based on the control transferred to the customer.
-The ASU is effective for public companies for annual reporting periods beginning after December 15, 2018, and should be applied on a modified retrospective basis.
 The Company early adopted the provisions of ASU 2017-12 using the modified retrospective method during the quarter ended March 30, 2018, and recorded a $3 million increase to accumulated other comprehensive income and a corresponding increase to beginning accumulated deficit for the cumulative ineffectiveness gains related to the cash flow hedges.
-The Company early adopted the provisions of ASU 2018-02 during the quarter ended March 30, 2018 (applied in the period of adoption), and recorded a $6 million increase to accumulated other comprehensive income and a corresponding increase to beginning accumulated deficit to reflect the changes in the U.S. federal corporate income tax rate as a result of the Tax Act. As a result of the adoption of ASU 2018-02, the Company's policy to release income tax effects in accumulated other comprehensive income is consistent with the underlying book method.
+The Company early adopted the provisions of ASU 2018-02 during the quarter ended March 30, 2018 (applied in the period of adoption), and recorded a $6 million increase to accumulated other comprehensive income and a corresponding increase to beginning accumulated deficit to reflect the changes in the U.S. federal corporate income tax rate as a result of the Tax Act. In February 2016, the FASB issued ASU 2016-02, which supersedes the current lease guidance under Leases (Topic 840) and makes several changes, such as requiring an entity to recognize a right-of-use asset and corresponding lease obligation on the balance sheet, classified as financing or operating, as appropriate.
 The update is effective for public companies for annual and interim reporting periods beginning after December 15, 2018, and should be adopted under the modified retrospective approach.
 The Company plans to adopt the new lease accounting standards in fiscal 2019 using the proposed optional transition method and is currently in the process of reviewing lease and other service based contracts, implementing a new lease accounting and administration software solution, establishing new processes and internal controls.
-The Company has elected to adopt certain practical expediencies provided under ASC 842, including the option to not apply lease recognition for short-term leases, reassessment of whether expired or existing contracts contain leases, reassessment of lease classification for expired or existing leases, applying single discount rate to a portfolio of leased assets with similar durations, reassessing initial direct costs and combining lease and non-lease components in revenue arrangements.
+The Company's revenues from contracts with customers are from offerings including cybersecurity; data analytics; enterprise IT modernization; operations and logistics; sensors, collection and phenomenology; software development; and systems engineering, primarily with the U.S. government and its agencies.
 Most of the Company's contracts are comprised of multiple promises including the design and build of software-based systems, integration of hardware and software solutions, running and maintaining of IT infrastructure and procurement services.
-In all cases, the Company assesses if the multiple promises should be accounted for as separate performance obligations or combined into a single performance obligation.
 
 
 item2.txt
 During the three and nine months ended September 28, 2018, we generated approximately 85% of our total revenues from contracts with the U.S. government.
-On March 23, 2018, Congress passed and the President signed into law the Omnibus Appropriations Bill thereby funding the federal government through the end of the 2018 government fiscal year ("GFY").
 In September 2018, Congress passed and the President signed a second consolidated appropriations bill funding the Departments of Defense, Labor and Health and Human Services for the full GFY 2019.
+Sales to customers in international markets represented approximately 9% of total revenues for both the three and nine months ended September 28, 2018.
 We incurred integration costs of $4 million and $26 million during the three and nine months ended September 28, 2018, respectively, and $21 million and $55 million during the three and nine months ended September 29, 2017, respectively.
 The increase in revenues in constant currency(1) for the three months ended September 28, 2018, was 3.2%, as compared to an actual increase in revenues of 2.9%.
 The decrease in revenues in constant currency for the nine months ended September 28, 2018, was 1.6%, as compared to an actual decrease in revenues of 1.4%.
@@ -34,7 +39,7 @@ item3.txt
 
 
 item4.txt
-Item 4.
+Controls and Procedures.
 
 
 part2.txt

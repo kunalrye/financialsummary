@@ -1,32 +1,37 @@
+fls.txt
+
+
+
 item1.txt
-The reserves for the Company’s Cloud Services segment are typically driven by the volume of credit card declines and past due invoices and are based on historical experience as well as an evaluation of current market conditions.
 j2 Global recognizes revenue when persuasive evidence of an arrangement exists, services have been provided, the sales price is fixed and determinable and collection is probable.
 j2 Global recognizes revenue when the Company satisfies its obligation by transferring control of the goods or services to its customers in an amount that reflects the consideration to which the Company expects to be entitled in exchange for those goods or services (see Note 3 - Revenues).
+The Company accounts for its investments in debt securities in accordance with ASC Topic No. Debt investments are typically comprised of corporate debt securities.
 Trading securities are those investments that the Company intends to sell within a few hours or days and are carried at fair value, with unrealized gains and losses included in investment income.
-Available-for-sale securities are carried at fair value with unrealized gains and losses included in other comprehensive income.
 Held-to-maturity securities are those investments which the Company has the ability and intent to hold until maturity and are recorded at amortized cost.
-The Company accounts for its investments in equity securities in accordance with ASC Topic No. 321, Investments - Equity Securities (“ASC 321”) which requires the accounting for equity investments (other than those accounted for using the equity method of accounting) generally be measured at fair value for equity securities with readily determinable fair values.
+321, Investments - Equity Securities (“ASC 321”) which requires the accounting for equity investments (other than those accounted for using the equity method of accounting) generally be measured at fair value for equity securities with readily determinable fair values.
 For equity securities without a readily determinable fair value that are not accounted for by the equity method, the Company measures the equity security using cost, less impairment, if any, and plus or minus observable price changes arising from orderly transactions in the same or similar investment from the same issuer.
+As a result, the Company has concluded that it will not consolidate OCV, as it is not the primary beneficiary of the OCV Fund, and will account for this investment under the equity-method of accounting.
 The Company recognizes its equity in the net earnings or losses relating to the investment in OCV on a one-quarter lag due to the timing and availability of financial information from OCV.
-If the Company becomes aware of a significant decline in value, the loss will be recorded in the period in which the Company identifies the decline.
-j2 Global complies with the provisions of the Financial Accounting Standards Board (“FASB”) ASC Topic No. 820, Fair Value Measurements and Disclosures (“ASC 820”), in measuring fair value and in disclosing fair value measurements.
-ASC 820 provides a framework for measuring fair value and expands the disclosures required for fair value measurements of financial and non-financial assets and liabilities.
 As of September 30, 2018, the carrying value of cash and cash equivalents, accounts receivable, interest receivable, accounts payable, accrued expenses, interest payable, customer deposits and long-term debt are reflected in the financial statements at cost.
 With the exception of certain investments and long-term debt, cost approximates fair value due to the short-term nature of such instruments.
 The fair value of the Company’s outstanding debt was determined using the quoted market prices of available debt instruments with similar terms and maturities.
 As of the same dates, the carrying value of other long-term liabilities approximated fair value as the related interest rates approximate rates currently available to j2 Global.
 The Company has capitalized certain internal use software and website development costs which are included in property and equipment.
+j2 Global measures the contingent earn-out liabilities in connection with acquisitions at fair value on a recurring basis using significant unobservable inputs classified within Level 3 of the fair value hierarchy (see Note 6 - Fair Value Measurements).
+The Company may use various valuation techniques depending on the terms and conditions of the contingent consideration including a Monte-Carlo simulation.
+Revenues are no longer generated in 2018 from certain marketing and production services as a result of the sale of certain Digital Media assets during 2017.
+The Company records revenue on a gross basis with respect to revenue generated (i) by the Company serving online display and video advertising across its owned and operated web properties, on third-party sites or on unaffiliated advertising networks, (ii) through the Company’s lead-generation business and (iii) through the Company’s subscriptions.
 
 
 item2.txt
+Through our Cloud Services segment, we provide cloud services to consumers and businesses and license our intellectual property (“IP”) to third parties.
+Our Digital Media segment specializes in the technology, gaming, lifestyle and healthcare markets offering content, tools and services to consumers and businesses.
 Our Cloud Services segment generates revenues primarily from customer subscription and usage fees and from IP licensing fees.
-We anticipate that the stable revenue trend in our Cloud Services segment combined with the improving revenue and profits in our Digital Media segment will result in overall improved revenue and profits for j2 Global on a consolidated basis, excluding the impact of any future acquisitions which can vary dramatically from period to period.
-Digital Media revenues is primarily derived from advertising revenues and subscription to services and information revenues consisting of fees paid for generating business leads, and licensing and sale of editorial content and trademarks.
-Our revenues in 2018 have increased over the comparable three and nine month periods of 2017 primarily due to a combination of acquisitions and organic growth within both the Digital Media and Cloud Services segments.
-Cost of revenues is primarily comprised of costs associated with data and voice transmission, numbers, editorial and production costs, network operations, customer service, online processing fees and equipment depreciation.
-The increase in cost of revenues for the three and nine months ended September 30, 2018 was primarily due to an increase in costs associated with businesses acquired in and subsequent to the third quarter 2017 that resulted in additional editorial and production, network operations, and online processing fees.
-Our sales and marketing costs consist primarily of internet-based advertising, sales and marketing, personnel costs and other business development-related expenses.
-Advertising cost for the three months ended September 30, 2018 was $36.3 million (primarily consists of $24.4 million of third-party advertising costs and $10.2 million of personnel costs) compared to 2017 of $35.7 million (primarily consists of $24.1 million of third-party advertising costs and $10.4 million of personnel costs).
+Our Digital Media segment generates revenues from advertising and sponsorships, subscription and usage fees, performance marketing and licensing fees.
+Our Cloud Services segment is driven primarily by subscription revenues that are relatively higher margin, stable and predictable from quarter to quarter with some seasonal weakness in the fourth quarter.
+The Cloud Services segment also includes the results of our IP licensing business, which can vary dramatically in both revenues and profitability from period to period.
+Our Digital Media segment is driven primarily by advertising revenues, has relatively higher sales and marketing expense and has seasonal strength in the fourth quarter.
+During the three months ended September 30, 2018, there were no significant changes in our critical accounting policies and estimates.
 
 
 item3.txt
@@ -34,11 +39,10 @@ Our exposure to market risk for changes in interest rates relates primarily to o
 
 
 item4.txt
-Item 4.Controls and Procedures
+Item 6.Exhibits
 
 
 part2.txt
-Item 5.Other Information
-31.2Rule 13a-14(a) Certification of Principal Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+Item 1A.
 
 

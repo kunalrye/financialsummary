@@ -1,34 +1,37 @@
+fls.txt
+
+
+
 item1.txt
+The accompanying unaudited condensed consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States of America, or U.S. GAAP, for interim financial information and with the instructions to Form 10-Q and Article 10 of Securities and Exchange Commission, or SEC, Regulation S-X.
+The January 28, 2018 consolidated balance sheet was derived from our audited consolidated financial statements included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018, as filed with the SEC, but does not include all disclosures required by U.S. GAAP.
+In the opinion of management, all adjustments, consisting only of normal recurring adjustments except as otherwise noted, considered necessary for a fair statement of results of operations and financial position have been included.
+The following information should be read in conjunction with the audited consolidated financial statements and notes thereto included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
 Except for the accounting policy for revenue recognition, which was updated as a result of adopting a new accounting standard related to revenue recognition, there have been no material changes to our significant accounting policies in Note 1 - Organization and Summary of Significant Accounting Policies, of the Notes to the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
-Revenue from product sales is recognized upon transfer of control of promised products to customers in an amount that reflects the consideration we expect to receive in exchange for those products.
-Revenue is recognized net of allowances for returns, customer programs and any taxes collected from customers.
 For products sold with a right of return, we record a reduction to revenue by establishing a sales return allowance for estimated product returns at the time revenue is recognized, based primarily on historical return rates.
-However, if product returns for a fiscal period are anticipated to exceed historical return rates, we may determine that additional sales return allowances are required to properly reflect our estimated exposure for product returns.
-Our customer programs involve rebates, which are designed to serve as sales incentives to resellers of our products in various target markets, and marketing development funds, or MDFs, which represent monies paid to our partners that are earmarked for market segment development and are designed to support our partners’ activities while also promoting NVIDIA products.
-We account for customer programs as a reduction to revenue and accrue for potential rebates and MDFs based on the amount we expect to be claimed by customers.
 As a result, we recognize the revenue from the license and the revenue from the development services as a single performance obligation over the period in which the development services are performed.
-For such arrangements, we allocate revenue to the software license and PCS on a relative standalone selling price basis by maximizing the use of observable inputs to determine the standalone selling price for each performance obligation.
-Revenue from software licenses is recognized up front when the software is made available to the customer.
 Our condensed consolidated financial statements include the accounts of NVIDIA Corporation and our wholly-owned subsidiaries.
 The Financial Accounting Standards Board, or FASB, issued an accounting standards update that creates a single source of revenue guidance under U.S. GAAP for all companies, in all industries.
 Refer to Note 2 of these Notes to Condensed Consolidated Financial Statements for additional information.
 In January 2016, the FASB issued an accounting standards update to amend certain aspects of recognition, measurement, presentation, and disclosure of financial instruments.
-We adopted this guidance in the first quarter of fiscal year 2019 and applied it prospectively.
+The adoption of this guidance did not have a significant impact on our consolidated financial statements.
+In February 2016 and July 2018, the FASB issued accounting standards updates regarding the accounting for leases by which we will begin recognizing lease assets and liabilities on the balance sheet for lease terms of more than 12 months.
+We are evaluating the impact of adopting the new lease accounting standards on our consolidated financial statements, systems and processes in conjunction with our review of lease agreements.
+We expect the adoption of this accounting guidance to result in an increase in lease assets and a corresponding increase in lease liabilities on our Consolidated Balance Sheets.
 
 
 item2.txt
+Selected Financial Data” of our Annual Report on Form 10-K for the fiscal year ended January 28, 2018 and “Item 1A.
 Revenue for the second quarter of fiscal year 2019 increased 40% year over year and decreased 3% sequentially.
 Each of our market platforms - gaming, professional visualization, datacenter, and automotive - produced sequential and year-over-year growth.
-GPU business revenue was $2.66 billion, up 40% from a year earlier and down 4% sequentially, led by gaming, professional visualization, and datacenter, offsetting a substantial decline in cryptocurrency GPUs. Gaming revenue was $1.80 billion, up 52% from a year ago and up 5% sequentially.
+GPU business revenue was $2.66 billion, up 40% from a year earlier and down 4% sequentially, led by gaming, professional visualization, and datacenter, offsetting a substantial decline in cryptocurrency GPUs. Gaming GPU growth was fueled by Pascal-based GPUs for desktops and by high-performance notebooks based on our Max-Q technology.
 Professional visualization revenue was $281 million, up 20% from a year earlier and up 12% sequentially.
 Datacenter revenue was $760 million, up 83% from a year ago and up 8% sequentially, led by strong sales of our Volta architecture products, including NVIDIA Tesla V100 and DGX systems.
 OEM and IP revenue was $116 million, down 54% from a year ago and down 70% sequentially, driven by lower demand for GPUs for cryptocurrency mining.
 Tegra Processor business revenue - which includes Automotive, SOC modules for the Nintendo Switch gaming console, and other embedded Tegra platforms - was $467 million, up 40% from a year ago and up 6% sequentially.
 Automotive revenue of $161 million was up 13% from a year earlier and up 11% sequentially, incorporating infotainment modules, production DRIVE PX platforms, and development agreements with automotive companies.
+Gross margin for the second quarter of fiscal year 2019 was 63.3%.
 Income from operations for the second quarter of fiscal year 2019 was $1.16 billion, up 68% from a year earlier and down 11% sequentially.
-Net income and net income per diluted share for the second quarter of fiscal year 2019 were $1.10 billion and $1.76, respectively, up 89% and 91%, respectively, from a year earlier, fueled by strong revenue growth and improved gross and operating margins.
-During the first half of fiscal year 2019, we returned $837 million to shareholders through a combination of $655 million in share repurchases and $182 million in cash dividends.
-For fiscal year 2019, we intend to return $1.25 billion to shareholders through ongoing quarterly cash dividends and share repurchases.
 
 
 item3.txt

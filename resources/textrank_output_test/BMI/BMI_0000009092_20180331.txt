@@ -1,20 +1,21 @@
 item1.txt
 (the “Company” or “Badger Meter”) contain all adjustments (consisting only of normal recurring accruals except as otherwise discussed) necessary to present fairly the Company’s consolidated condensed financial position at March 31, 2018, results of operations for the three-month periods ended March 31, 2018 and 2017, comprehensive income for the three-month periods ended March 31, 2018 and 2017, and cash flows for the three-month periods ended March 31, 2018 and 2017.
-The Company maintains a non-contributory defined benefit pension plan that covers substantially all U.S. employees who were employed at December 31, 2011.
+The consolidated condensed balance sheet at December 31, 2017 was derived from amounts included in the Company’s Annual Report on Form 10-K for the year ended December 31, 2017.
 The Company plans to terminate the pension plan in 2018, but there will be no accounting recognition until the final disposition of assets occurs.
+The Company additionally has a postretirement healthcare benefit plan that provides medical benefits for certain U.S. retirees and eligible dependents hired prior to November 1, 2004.
 The Company disclosed in its financial statements for the year ended December 31, 2017 that it was not required to make a minimum contribution to the defined benefit pension plan for the 2018 calendar year.
 The Company also disclosed in its financial statements for the year ended December 31, 2017 that it estimated it would pay $0.4 million in other postretirement benefits in 2018 based on actuarial estimates.
-The Company continues to believe that its estimated payments for the full year are reasonable.
 The total purchase consideration for the Carolina Meter assets was $6.2 million, which included $2.0 million in cash and settlement of $4.2 million of pre-existing Company receivables.
 The Company's preliminary allocation of the purchase price at December 31, 2017 included $0.6 million of receivables, $0.3 million of inventory, $3.3 million of intangibles and $2.0 million of goodwill.
 As of March 31, 2018, the Company had not completed its analysis for estimating the fair value of the assets acquired.
+The Carolina Meter acquisition was accounted for under the purchase method, and accordingly, the results of operations were included in the Company's financial statements from the date of acquisition.
 The purchase price included $5.4 million in payments that are anticipated to be made in 2018 which are recorded in payables and other current liabilities on the Consolidated Balance Sheets at March 31, 2018.
 The Company's preliminary allocation of the purchase price included approximately $0.3 million in receivables, $0.6 million in inventory, $0.2 million in property, plant and equipment, $10.9 million of intangibles and $16.1 million of goodwill.
 The Company also assumed $4.9 million of liabilities as part of the acquisition.
 As of March 31, 2018, the Company has completed its analysis for estimating the fair value of the assets acquired with no additional adjustments.
-A future change in circumstances with respect to specific matters or with respect to sites formerly or currently owned or operated by the Company, off-site disposal locations used by the Company, and property owned by third parties that is near such sites, could result in future costs to the Company and such amounts could be material.
-The Company believes these items would be available from other sources, but that the loss of certain suppliers would result in a higher cost of materials, delivery delays, short-term increases in inventory and higher quality control costs in the short term.
+The D-Flow acquisition was accounted for under the purchase method, and accordingly, the results of operations were included in the Company's financial statements from the date of acquisition.
 For the three months ended March 31, 2018 and 2017, the Company recognized a discrete tax benefit related to the excess tax benefits from stock-based compensation of $0.3 million and $0.2 million, respectively.
+On December 22, 2017, Staff Accounting Bulletin No. For the three months ended March 31, 2018, the Company did not update the provisional amount of transition tax recorded as of December 31, 2017, as there was no new information that would materially impact the Company’s consolidated financial statements.
 
 
 item2.txt
@@ -22,15 +23,13 @@ Municipal water, the largest category by sales volume, includes mechanical and u
 The key market for the Company’s municipal water meter products is North America, primarily the United States, because most of the Company's meters are designed and manufactured to conform to standards promulgated by the American Water Works Association.
 The majority of water meters sold by the Company continue to be mechanical in nature.
 In recent years, the Company has made inroads in selling ultrasonic water meters.
-The development of smaller diameter ultrasonic water meters combined with advanced radio technology now provides the Company with the opportunity to sell into other geographical markets, for example Europe, the Middle East and South America.
 In the municipal water category, sales of water meters and related technologies and services are also commonly referred to as residential or commercial water meter sales, the latter referring to larger sizes of water meters.
+Meters equipped with radio technology (endpoints) receive flow measurement data from encoder registers attached to the water meter, which is encrypted and transmitted via radio frequency to a receiver that collects and formats the data appropriately for water utility billing systems.
 The Company’s BEACON AMA Managed Solution is the latest in metering technology.
-The Company’s net sales and corresponding net earnings depend on unit volume and product mix, with the Company generally earning higher margins on meters equipped with radio technology.
-The Company’s proprietary radio products generally 
+BEACON AMA combines the BEACON analytical software suite with proven ORION technologies using two-way fixed and cellular networks in a managed solution, improving utilities’ visibility of their water consumption and eliminating the need for costly utility-managed infrastructure.
 Water meter replacement and the adoption and deployment of new technology comprise the majority of water meter product sales, including radio products.
-Over the last decade, there has been a growing trend in the conversion from manually read water meters to radio technology.
 This conversion rate is accelerating and contributes to an increased water meter and radio solutions base of business.
 The Company estimates that approximately 55% to 60% of water meters installed in the United States have been converted to a radio solutions technology.
-The Company’s strategy is to fulfill customers’ metering expectations and requirements with its proprietary meter reading systems or other systems available through its alliance partners in the marketplace.
+Flow instrumentation products serve flow measurement and control applications across a broad industrial spectrum, occasionally leveraging the same technologies used in the municipal water category.
 
 

@@ -1,32 +1,38 @@
+fls.txt
+
+
+
 item1.txt
+This guidance will be effective for fiscal years and interim periods within those years beginning after December 15, 2019, which is effective for the Company as of the first quarter of our fiscal year ending December 31, 2020.
 The Company enters into contractual obligations to sell perpetual software licenses, installation, conversion, training, hardware and software application support and hardware maintenance services to acute care and post-acute care community hospitals.
 Revenue for support and maintenance services is recognized based on SSP, which is the renewal price, ratably over the life of the contract, which is generally three to five years.
 •Subscriptions to third party content revenue is recognized as a separate performance obligation ratably over the subscription term based on SSP, which is cost plus a reasonable margin.
 Revenue is recognized on a monthly basis as the SaaS service is provided to the client over the contract term.
 Revenue from professional IT services is recognized as the services are performed based on SSP.
-Deferred revenue represents amounts invoiced to clients for which the services under contract have not been completed and revenue has not been recognized, including annual renewals of certain software subscriptions and customer deposits for implementations to be performed at a later date.
+Payment is due monthly as services are performed.
+The deferred revenue recorded during the six months ended June 30, 2019 is comprised primarily of the annual renewals of certain software subscriptions billed during the first quarter of each year and deposits collected for future EHR installations.
+The deferred revenue recognized as revenue during the six months ended June 30, 2019 and 2018 is comprised primarily of the periodic recognition of annual renewals that were deferred until earned and deposits for future EHR installations that were deferred until earned.
 Disclosures regarding remaining performance obligations are not considered material as the overwhelming majority of the Company's remaining performance obligations either (a) are related to contracts with an expected duration of one year or less, or (b) exhibit revenue recognition in the amount to which the Company has the right to invoice.
 Consideration for the acquisition included cash (net of cash of the acquired entity) of $10.8 million (inclusive of seller's transaction expenses), plus a contingent earnout payment of up to $14.0 million tied to Get Real Health's earnings before interest, tax, depreciation, and amortization ("EBITDA") (subject to certain pro-forma adjustments) for 2019.
-Pro forma net income (loss) was calculated by adjusting the results for the applicable period to reflect (i) the additional amortization that would have been charged assuming the fair value adjustments to intangible assets had been applied on January 1, 2018 and (ii) adjustments to amortized revenue during fiscal 2019 and 2018 as a result of the acquisition date valuation of assumed deferred revenue.
-The Company presents basic and diluted earnings per share ("EPS") data for its common stock.
-Basic EPS is calculated by dividing the net income attributable to stockholders of the Company by the weighted average number of shares of common stock outstanding during the period.
-Diluted EPS is determined by adjusting the net income attributable to stockholders of the Company and the weighted average number of shares of common stock outstanding during the period for the effects of all dilutive potential common shares, including awards under stock-based compensation arrangements.
 
 
 item2.txt
 Through much of our history, our strategy has been to achieve meaningful long-term revenue growth through sales of healthcare IT systems and related services to existing and new clients within our target market.
-Prospectively, our ability to continue to realize long-term revenue growth is largely dependent on our ability to sell new and additional products and services to our existing customer base, including cross-selling opportunities presented between our operating segments, Acute Care EHR, Post-acute Care EHR, and TruBridge.
-As a result, retention of existing EHR customers is a key component of our long-term growth strategy by protecting this base of potential cross-sell customers, while at the same time serving as a leading indicator of our market position and stability of revenues and cash flows.
 Additionally, as we consider the long-term growth prospects of our business, we are seeking to further stabilize our revenues and cash flows and leverage TruBridge services as a growth agent in light of a relatively mature EHR marketplace.
-Once a hospital has installed our solutions, we continue to provide support services to the customer on a continuing basis and make available to the customer our broad portfolio of business management, consulting, and managed IT services, all of which contribute to recurring revenue growth.
 The provision of these recurring revenue services typically requires fewer resources than the initial system installation, resulting in increased overall gross margins and operating margins.
-For those clients not seeking a financing arrangement, the payment schedule of the typical contract is structured to provide for a scheduling deposit due at contract signing, with the remainder of the contracted fees due at various stages of the installation process (delivery of hardware, installation of software and commencement of training, and satisfactory completion of a monthly accounting cycle or end-of-month operation by each respective application, as applicable).
 During 2018, total financing receivables increased by $7.8 million, which had a significant impact on operating cash flow.
-Second, competitor financing options, primarily through accounts receivable management collections and cloud EHR arrangements, have applied pressure to reduce initial customer capital investment requirements for new EHR installations, leading to the offering of long-term lease options.
 Unlike our perpetual license arrangements under which the related revenue is recognized effectively upon installation, the SaaS arrangements result in revenue being recognized monthly as the services are provided over the term of the arrangement.
 As a result, the effect of this trend on the Company's financial statements is reduced system sales revenues during the period of installation in exchange for increased recurring periodic revenues (reflected in system sales and support revenues) over the term of the SaaS arrangement.
 In addition, during the first six months of 2019, we incurred approximately $0.4 million of pre-tax acquisition costs in connection with the acquisition of Get Real Health.
 During the six months ended June 30, 2019, we generated revenues of $135.3 million from the sale of our products and services, compared to $138.8 million during the six months ended June 30, 2018, a decrease of 3% that is primarily attributed to fewer MU3 installations as the MU3 deadline approaches partially offset by continued TruBridge client growth.
+Our net income for the six months ended June 30, 2019 increased by $0.8 million to $5.1 million from the six months ended June 30, 2018 as a result of a lower effective tax rate.
+Net cash provided by operating activities increased by $9.6 million to $17.5 million during the six months ended June 30, 2019, primarily due to more advantageous changes in working capital, most notably as it relates to accounts receivable and financing receivables.
+Total revenues for the three months ended June 30, 2019 decreased by $1.7 million, or 3%, compared to the three months ended June 30, 2018.
+Recurring system sales and support revenues decreased by $1.5 million, or 4%, compared to the second quarter of 2018.
+Non-recurring system sales and support revenues decreased by $1.6 million, or 17%, primarily due to a $1.9 million decrease in Acute Care EHR non-recurring revenues.
+We installed our Acute Care EHR solutions at six new hospital clients during the second quarter of 2019 (three of which were under a SaaS arrangement, resulting in revenue being recognized ratably over the contract term) compared to three new hospital clients during the second quarter of 2018 (one under a SaaS arrangement).
+Additionally, the impending 2019 year-end deadline for compliance with the related Promoting Interoperability (“PI”, formerly “Meaningful Use”) program from CMS resulted in a $2.7 million decrease in related MU3 installation revenues, which were partially offset by robust sales of other add-on applications.
+TruBridge revenues increased 5%, or $1.4 million, compared to the second quarter of 2018.
 
 
 item3.txt
@@ -34,12 +40,10 @@ item3.txt
 
 
 item4.txt
-Item 5.Other Information.
-Item 6.Exhibits.
+Even disclosure controls and procedures determined to be effective can only provide reasonable assurance that their objectives are achieved.
 
 
 part2.txt
 Item 1A.Risk Factors.
-Item 5.Other Information.
 
 

@@ -1,5 +1,10 @@
+fls.txt
+
+
+
 item1.txt
-The information included in this Quarterly Report on Form 10-Q (“Report”) should be read in conjunction with “Management's Discussion and Analysis of Financial Condition and Results of Operations,” “Risk Factors,” “Quantitative and Qualitative Disclosures About Market Risk,” and the Consolidated Financial Statements and footnotes thereto included in the Company's Annual Report on Form 10-K for the year ended December 31, 2018 (the "Form 10-K").
+Accordingly, they do not include all of the information and footnotes required by U.S. GAAP for complete financial statements.
+The results of operations for the three months ended March 31, 2019 are not necessarily indicative of the results that may be expected for the year ending December 31, 2019, or any future period.
 Except for the change in certain policies upon adoption of the accounting standards described below, there have been no material changes to the Company's significant accounting policies, compared to the accounting policies described in Note 2, Significant Accounting Policies, in Notes to Consolidated Financial Statements in Item 8 of Part II of the Form 10-K.
 The adoption of the standard had no impact on the Company's Condensed Consolidated Statements of Operations and Condensed Consolidated Statements of Cash Flows or debt-covenant compliance under its current agreements.
 Operating leases are included in operating lease ROU assets, other accrued liabilities, and operating lease liabilities on the Company's Condensed Consolidated Balance Sheets.
@@ -9,18 +14,16 @@ The Company's lease terms are the noncancelable period including any rent-free p
 At lease inception, and in subsequent periods as necessary, the Company estimates the lease term based on its assessment of extension and termination options that are reasonably certain to be exercised.
 In addition, the Company does not recognize ROU assets and lease liabilities for short-term leases, which have a lease term of twelve months or less and do not include an option to purchase the underlying asset that the Company is reasonably certain to exercise.
 For available-for-sale debt securities that have unrealized losses, the Company assesses impairment by evaluating various factors, including whether (i) it has the intention to sell any of these investments and (ii) whether it is more likely than not that it will be required to sell any of these investments before recovery of the entire amortized cost basis.
+As of March 31, 2019, the Company had 382 investments in unrealized loss positions.
 The Company anticipates that it will recover the entire amortized cost basis of such available-for-sale debt securities and has determined that no other-than-temporary impairments associated with credit losses were required to be recognized during the three months ended March 31, 2019 and March 31, 2018.
 During the three months ended March 31, 2019 and March 31, 2018, there were no material gross realized gains or losses from available-for-sale debt securities.
 As of March 31, 2019, the carrying value of restricted cash and investments was $55.3 million, of which $28.8 million was included in prepaid expenses and other current assets and $26.5 million was included in other long-term assets on the Condensed Consolidated Balance Sheet.
-All of the Company's privately-held debt and redeemable preferred stock securities are classified as Level 3 assets due to the lack of observable inputs to determine fair value.
-The Company estimates the fair value of its privately-held debt and redeemable preferred stock securities on a recurring basis using an analysis of the financial condition and near-term prospects of the investee, including recent financing activities and the investee's capital structure.
-During the three months ended March 31, 2019, there were no significant activities related to privately-held debt and redeemable preferred stock securities.
 
 
 item2.txt
+To aid in understanding our operating results for the periods covered by this Report, we have provided an executive overview, which includes a summary of our business and market environment along with a financial results and key performance metrics overview.
 Juniper designs, develops, and sells products and services for high-performance networks to enable customers to build scalable, reliable, secure and cost-effective networks for their businesses, while achieving agility and improved operating efficiency through automation.
 Further, our intent is to expand our software business by introducing new software solutions to our product portfolio that simplify the operation of networks, and allow our customers across our key verticals flexibility in consumption and deployment.
-We believe our software revenues as a percentage of total revenues will increase over time as we introduce new software product offerings and business models designed to better monetize the value of our software offerings.
 
 
 item4.txt
@@ -28,15 +31,16 @@ item4.txt
 
 
 part2.txt
-We expect our product and service gross margins to vary, both in the near-term and in the long-term, and may be adversely affected in the future by numerous factors, some of which have occurred and may occur in the future, including customer, vertical, product and geographic mix shifts, an increase or decrease in our software sales or services we provide, increased price competition in one or more of the markets in which we compete, changes in the actions of our competitors or their pricing strategies, which may be difficult to predict and respond to, modifications to our pricing strategy in order to gain footprint in certain markets or with certain customers, currency fluctuations that impact our costs or the cost of our products and services to our customers, increases in material, labor, logistics, warranty costs, or inventory carrying costs, excess product component or obsolescence charges from our contract manufacturers, issues with manufacturing or component availability, quality or efficiencies, increased costs due to changes in component pricing or charges incurred due to inaccurately forecasting product demand, warranty related issues, or our introduction of new products and enhancements or entry into new markets with different pricing and cost structures.
 In fiscal year 2017, our margins decreased as compared to fiscal year 2016, primarily due to lower product net revenues and product mix, resulting from the year-over-year decline in routing revenues, our customers' architectural shifts, and higher costs of certain memory components.
-Failure to sustain or improve our gross margins reduces our profitability and may have a material adverse effect on our business and stock price.
 Further, while we will continue to remain diligent in our long-term financial objective to increase revenue and operating margins and manage our operating expenses as a percentage of revenue.
 A limited number of our customers comprise a material portion of our revenues and any changes in the way they purchase products and services from us could affect our business.
-Any decrease in revenues from our customers or partners could have an adverse effect on our net revenues and operating results.
-Fluctuating economic conditions make it difficult to predict revenues and gross margin for a particular period and a shortfall in revenues or increase in costs of production may harm our operating results.
+A material portion of our net revenues, across each customer vertical, depends on sales to a limited number of customers and distribution partners.
+Economic weakness or uncertainty, customer financial difficulties, and constrained spending on network expansion and enterprise infrastructure have in the past resulted in, and may in the future result in, decreased revenues and earnings.
 Our ability to successfully offer our products and services in a rapidly evolving market requires an effective planning, forecasting, and management process to enable us to effectively scale and adjust our business and business models in response to fluctuating market opportunities and conditions.
-We face intense competition that could reduce our revenues and adversely affect our business and financial results.
-The introduction of new software products and services is part of our intended strategy to expand our software business, and certain software revenues may be recognized periodically over the term of the relevant use period or subscription period.
+Further, a number of other small public and private companies have products or have announced plans for new products to address the same challenges and markets that our products address.
+A customer's decision to purchase certain of our products, particularly new products, involves a significant commitment of its resources and a lengthy evaluation and product qualification process.
+In particular, customers making critical decisions regarding the design and implementation of large network deployments may engage in very lengthy procurement processes that may delay or impact expected future orders.
+Throughout the sales cycle, we may spend considerable time educating and providing information to prospective customers regarding the use and benefits of our products.
+Timing of deployment can vary widely and depends on the skill set of the customer, the size of the network deployment, the complexity of the customer's network environment, and the degree of hardware and operating system configuration necessary to deploy the products.
 
 

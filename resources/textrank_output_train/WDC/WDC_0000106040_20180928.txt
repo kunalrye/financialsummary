@@ -6,32 +6,32 @@ item1.txt
 The accounting policies followed by the Company are set forth in Part II, Item 8, Note 1, Organization and Basis of Presentation, of the Notes to Consolidated Financial Statements included in the Company’s Annual Report on Form 10‑K for the fiscal year ended June 29, 2018.
 Certain information and footnote disclosures normally included in the Consolidated Financial Statements prepared in accordance with accounting principles generally accepted in the United States (“U.S. GAAP”) have been condensed or omitted pursuant to the rules and regulations of the Securities and Exchange Commission (“SEC”).
 These Condensed Consolidated Financial Statements should be read in conjunction with the Consolidated Financial Statements and the notes thereto included in the Company’s Annual Report on Form 10‑K for the fiscal year ended June 29, 2018.
+Company management has made estimates and assumptions relating to the reporting of certain assets and liabilities in conformity with U.S. GAAP.
 This standard did not have a material impact on the Company’s Condensed Consolidated Financial Statements upon adoption or for the three months ended September 28, 2018.
-Topic 606 outlines a comprehensive five-step revenue recognition model based on the principle that an entity should recognize revenue when control of the promised goods or services is transferred to customers at an amount that reflects the consideration to which the Company expects to be entitled in exchange for those goods or services.
+In May 2014, the FASB issued ASU No. Topic 606 outlines a comprehensive five-step revenue recognition model based on the principle that an entity should recognize revenue when control of the promised goods or services is transferred to customers at an amount that reflects the consideration to which the Company expects to be entitled in exchange for those goods or services.
 Topic 606 also requires more detailed disclosures to enable users of financial statements to understand the nature, amount, timing, and uncertainty of revenue and cash flows arising from contracts with customers.
-The Company adopted Topic 606 effective June 30, 2018, using the modified retrospective method to all contracts that were not completed contracts as of the beginning of the fiscal year.
 Results for reporting periods beginning with fiscal year 2019 are presented under Topic 606, while prior period information presented on the financial statements or elsewhere in this Quarterly Report on Form 10-Q is reported under the Company’s historic accounting policies under Topic 605 in effect for that period and is not adjusted to reflect the retrospective effect of the adoption of Topic 606.
 The cumulative effect of adopting Topic 606 was a post-tax increase to the opening retained earnings of $56 million as of June 30, 2018, which was primarily related to our license and royalty revenue arrangements.
 These arrangements had no remaining performance obligation but were previously recognized under Topic 605 when they were reported to the Company by its licensees, which was generally one quarter in arrears from the licensees’ sales of the licensed products.
 Adoption of the standard did not have a material impact on the Company’s financial position, results of operations, and cash flows, as of or for the three-month period ended September 28, 2018, and the Company expects that the impact of the adoption of the new standard will not be material to its results of operations prospectively.
 The Company offers a broad range of data storage products that include Client Devices, Data Center Devices and Solutions, and Client Solutions.
-The Company also generates license and royalty revenues related to its IP patent licenses which are not material.
 The Company recognizes revenue when it satisfies a performance obligation by transferring control over a product or service to the customer.
+The transaction price to be recognized as revenue is adjusted for variable consideration, such as sales incentives, and excludes amounts collected on behalf of third parties, including taxes imposed by governmental authorities.
 The Company’s performance obligations are typically not constrained based on the Company’s history with similar transactions and that uncertainties are resolved in a fairly short period of time.
 
 
 item2.txt
+You should read this information in conjunction with the unaudited Condensed  Consolidated Financial Statements and the notes thereto included in this Quarterly Report on Form 10-Q, and the audited Consolidated Financial Statements and notes thereto and Part II, Item 8, contained in our Annual Report on Form 10‑K for the fiscal year ended June 29, 2018.
 The favorable demand environment for flash-based products during the last several quarters has begun to normalize as technology conversions are maturing and manufacturing yields are improving, thus increasing flash supply relative to demand.
 As a result, average selling price per gigabyte of flash-based products has declined.
-We are obligated to purchase half of Flash Ventures’ flash-based memory wafer supply or pay for half of Flash Ventures’ fixed costs regardless of the output we choose to purchase.
 
 
 item3.txt
-Borrowings under our revolving credit facility and our term loan A-1 due 2023 bear interest at a rate per annum, at our option, of either an adjusted London Interbank Offered Rate (“LIBOR”) (subject to a 0.0% floor) plus an applicable margin varying from 1.125% to 2.000% or a base rate plus an applicable margin varying from 0.125% to 1.000%, in each case depending on our corporate credit ratings.
+
 
 
 item4.txt
-Item 5.Other Information 
+
 
 
 part2.txt
@@ -40,10 +40,10 @@ part2.txt
 We rely substantially on our business ventures with Toshiba Memory Corporation (“TMC”) for the supply of flash-based memory and the development of flash-based technology, which subjects us to risks and uncertainties that could harm our business, financial condition and operating results.
 We are dependent on our ventures with TMC to develop and manufacture flash-based memory products for our flash-based memory supply, and therefore our business, financial condition and operating results are dependent on the continued success of Flash Ventures.
 We partner with TMC on the development of flash-based technology, including the next technology transitions of flash-based memory, as well as other non-volatile memory technology in support of Flash Ventures.
-Flash Ventures is subject to various risks that could harm the value of our investments, our revenue and costs, our future rate of spending, our technology plans and our future growth opportunities.
 Substantially all of our flash-based memory is supplied by Flash Ventures, which limits our ability to respond to market demand and supply changes.
 Over-investment could result in excess supply, which could cause significant decreases in our product prices, significant excess, obsolete inventory or inventory write-downs or under-utilization charges, and the potential impairment of our investments in Flash Ventures.
-On the other hand, if we or TMC under-invest in captive memory capacity or technology transitions, if we grow capacity more slowly than the rest of the industry, if our technology transitions do not occur on the timeline that we expect, if we encounter unanticipated difficulties in implementing these transitions, or if we implement technology transitions more slowly than our competitors, we may not have enough captive supply of the right type of memory or at all to meet demand on a timely and cost effective basis and we may lose opportunities for revenue, gross margin and market share as a result.
 If our flash-based memory supply is limited, we may make strategic decisions with respect to the allocation of our supply among our products and customers, and these strategic allocation decisions may result in less favorable gross margin or damage certain customer relationships.
+If we are unable to extend our partnership with TMC to the Kitakami facility on favorable terms, our future supply of captive flash-based memory could be adversely impacted, which could adversely affect our long-term business and financial results.
+Demand for our devices, software and solutions that we offer to our customers, which we refer to in this Item 1A as our “products”, depends in large part on the demand for systems (including personal computers (“PCs”) and mobile devices) manufactured by our customers and on storage upgrades to existing systems.
 
 

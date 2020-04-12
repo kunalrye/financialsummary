@@ -1,42 +1,42 @@
 fls.txt
 This Quarterly Report on Form 10-Q contains or incorporates forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.
+These statements include, but are not limited to, statements about our future financial performance and business plans, the adequacy of our liquidity and capital resources, the continued payment of quarterly dividends, and the timing of revenue recognition and are described more completely in Part I of our Annual Report on Form 10-K for the year ended December 31, 2017.
 
 
 item1.txt
+On January 1, 2018 the Company adopted the ASC 606 revenue recognition standard and has adjusted prior periods to conform.
+On January 1, 2018 the Company adopted the ASC 606 revenue recognition standard and has adjusted prior periods to conform.
+On January 1, 2018 the Company adopted the ASC 606 revenue recognition standard and has adjusted prior periods to conform.
+On January 1, 2018 the Company adopted the ASC 606 revenue recognition standard and has adjusted prior periods to conform.
 On January 1, 2018 the Company adopted Accounting Standards Update (ASU) No. 2014-09, Revenue from Contracts with Customers (Topic 606) using the full retrospective method which required each prior reporting period presented be adjusted to reflect the application of this ASU.
-In February 2016, the FASB issued ASU No. 2016-02, Leases (Topic 842), which requires lessees to record most leases on their balance sheets, recognizing a lease liability for the obligation to make lease payments and a right-of-use asset for the right to use the underlying asset for the lease term.
-The Company expects that most of its operating lease commitments will be subject to this ASU and recognized as operating lease liabilities and right-of-use assets upon adoption with no material impact to its results of operations and cash flows.
-Perpetual licenses with extended payment terms and term licenses - Revenue from perpetual licenses with extended payment terms and term licenses is now recognized when control is transferred to the client, the point in time when the client can use and benefit from the license.
+In June 2016, the Financial Accounting Standards Board (FASB) issued ASU No. 2016-13, Financial InstrumentsCredit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments, which requires measurement and recognition of expected credit losses for financial assets measured at amortized cost, including accounts receivable, upon initial recognition of that financial asset using a forward-looking expected loss model, rather than an incurred loss model for credit losses.
+On January 1, 2018 the Company adopted the ASC 606 revenue recognition standard and has adjusted prior periods to conform.
 Previously, the Company recognized revenue over the term of the agreements as payments became due or earlier if prepaid.
 Any unrecognized license revenue from these arrangements is recognized in the period that control transfers or as a cumulative adjustment to retained earnings as of December 31, 2015.
 Unbilled receivables in the Companys unaudited condensed consolidated balance sheets increased significantly upon adoption due to the revenue from term licenses being recognized prior to amounts billed, or prepaid by, clients and perpetual licenses with extended payment terms.
-Allocation of future credits and significant discounts - Perpetual or term licenses delivered are a separate performance obligation which now requires us to allocate any future credits and discounts to the performance obligations in the arrangement based upon their relative stand-alone selling prices.
+This change primarily impacts the Companys contracts related to multi-year cloud offerings, maintenance on term and perpetual licenses, and those long-term term and perpetual licenses with client usage rights that increase over time.
 Includes cash, cash equivalents, marketable securities, income taxes receivable, other current assets, property and equipment, intangible assets, goodwill, and other long-term assets (as reflected in the consolidated balance sheets in the Annual Report on Form 10-K for the year ended December 31, 2017).
+Adoption of ASC 606 and ASC 340-40 had no impact on total cash from or used in operating, financing, or investing activities in the Companys unaudited condensed consolidated statements of cash flows for the six months ended June 30, 2017.
 (2) Included in other long-term assets in the unaudited condensed consolidated balance sheets.
+Contract assets and deferred revenue are presented net at the contract level for each reporting period.
 Contract assets are amounts under client contracts where revenue recognized exceeds the amount billed to the client and the right to payment is subject to conditions other than the passage of time, such as the completion of a related performance obligation.
-The change in deferred revenue in the six months ended June 30, 2018, was primarily due to new billings in advance of revenue recognition and $168.2 million of revenue recognized, excluding the impact of the netting of contract assets and deferred revenue, during the period that was included in deferred revenue at December 31, 2017.
-Fair value is an exit price, representing the amount that would be received from the sale of an asset or paid to transfer a liability in an orderly transaction between market participants based on assumptions that market participants would use in pricing an asset or liability.
-The Companys marketable securities, which are classified within Level 2 of the fair value hierarchy are valued based on a market approach using quoted prices, when available, or matrix pricing compiled by third party pricing vendors, using observable market inputs such as interest rates, yield curves, and credit risk.
-The Companys investments in privately-held companies are classified within Level 3 of the fair value hierarchy and are valued using model-based techniques, including option pricing models and discounted cash flow models.
-If applicable, the Company will recognize transfers into and out of levels within the fair value hierarchy at the end of the reporting period in which the actual event or change in circumstance occurs.
 
 
 item2.txt
 We develop, market, license, and support software applications for customer engagement and digital process automation, in addition to licensing our Pega Platform application development product for clients that wish to build and extend their own applications.
+Our license revenue is primarily derived from sales of our applications and Pega Platform.
+Our cloud revenue is derived from our hosted software applications and Pega Platform environments.
 Our consulting revenue is primarily related to new license implementations.
 The change in ACV measures the growth and predictability of future cash flows from committed term, cloud, and maintenance arrangements as of the end of the particular reporting period.
 Unaudited Condensed Consolidated Financial Statements of this Quarterly Reporting on Form 10-Q for the three months ended June 30, 2018.
+Judgment is required to determine whether each product and service is considered to be a distinct performance obligation that should be accounted for separately under the contract.
+However, the selling price of our software licenses and cloud performance obligations are highly variable.
 Thus, we estimate stand-alone selling price for software licenses and cloud performance obligations using the residual approach, determined based on total transaction price minus the stand-alone selling price of other performance obligations promised in the contract.
-Revenue for cloud arrangements is recognized over the service period of the cloud contract, as compared to license arrangements, which is generally recognized at the contract effective date.
-The decrease in term license revenue in the six months ended June 30, 2018 was primarily due to $35.3 million in revenue recognized in the three months ended March 31, 2017 from a large term license renewal.
-The increases in maintenance revenue were primarily due to the continued growth in the aggregate value of the installed base of our software and strong renewal rates significantly in excess of 90%.
-The increases in consulting and training revenue were primarily due to higher billable hours driven by an increase in the number of projects during the three and six months ended June 30, 2018.
-The increase in total gross profit in the three months ended June 30, 2018 was primarily due to a large term license recognized in revenue in the three months ended June 30, 2018.
-The increases in maintenance gross profit percent in the three and six months ended June 30, 2018 were driven by decreases of $0.7 million and $1 million, respectively, in compensation and benefits due to decreased headcount and a decrease in client support expenses as we transferred resources to provide dedicated support to our growing cloud business.
+We analyze various factors including, but not limited to, the selling price of undelivered services when sold on a stand-alone basis, our pricing policies, and contractual terms and conditions to help us make such judgments about revenue recognition.
 
 
 item3.txt
-However, the operating expenses of our foreign operations are also primarily denominated in foreign currencies, which partially offset our foreign currency exposure.
+Our market risk exposure is primarily related to fluctuations in foreign exchange rates.
 
 
 item4.txt
@@ -44,6 +44,6 @@ item4.txt
 
 
 part2.txt
-ITEM 1A.
+We encourage you to carefully consider the risk factors identified in Item 1A.
 
 
