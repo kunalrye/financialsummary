@@ -1,11 +1,11 @@
-absl
+absl-py
 tensorflow_hub
 numpy
 nltk
 scikit-learn
 bert-serving-client
-functools
+# functools
 temp
 jupyter
 sumy
-
+tabulate
