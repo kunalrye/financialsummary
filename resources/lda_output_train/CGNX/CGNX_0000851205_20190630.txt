@@ -1,0 +1,41 @@
+fls.txt
+Certain statements made in this report, as well as oral statements made by the Company from time to time, constitute forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended.
+
+
+item1.txt
+As permitted by the rules of the Securities and Exchange Commission applicable to Quarterly Reports on Form 10-Q, these notes are condensed and do not contain all disclosures required by generally accepted accounting principles (GAAP).
+As a result of the adoption of ASC 842 "Leases," Cognex Corporation (the "Company") has provided new disclosures related to leases in this Quarterly Report on Form 10-Q.
+The Company determines whether a contract contains a lease by assessing whether there is an identified asset and whether the contract conveys the right to control the use of the identified asset for a period of time in exchange for consideration.
+The Company has control of the asset if it has the right to direct the use of the asset and obtains substantially all of the economic benefits from the use of the asset throughout the period of use.
+In the determination of the lease term, the Company considers the existence of extension or termination options and the probability of those options being exercised.
+Lease contracts may include lease components and non-lease components, such as common area maintenance and utilities for property leases.
+As a practical expedient, the Company accounts for the non-lease components together with the lease components as a single lease component for all of its leases.
+The Company’s incremental borrowing rate is the rate of interest that the Company would have to pay to borrow an amount equal to the lease payments over a similar term, which is the three-month London Interbank Offered Rate (LIBOR) plus a 2.5% credit risk spread.
+ASU 2016-13 applies to all reporting entities holding financial assets that are not accounted for at fair value through net income (debt securities).
+The amendments in this ASU eliminate the probable initial recognition threshold to recognize a credit loss under current U.S. GAAP and, instead, reflect an entity’s current estimate of all expected credit losses.
+The amendments in this ASU require that credit losses on available-for-sale debt securities be presented as an allowance rather than as a write-down and an entity will be able to record reversals of credit losses in current period net income.
+The amendments do not require an accounting change for securities held at a discount; the discount continues to be amortized to maturity.
+This ASU should be applied on a modified retrospective basis through a cumulative-effect adjustment directly to retained earnings as of the beginning of the period of adoption, and, in the period of adoption, the entity is required to provide disclosures about the change in accounting principle.
+The amendments in this ASU align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software.
+Accordingly, the amendments in this ASU require an entity in a hosting arrangement that is a service contract to follow the guidance in Subtopic 350-40 to determine which implementation costs to capitalize as an asset related to the service contract and which costs to expense.
+In addition, it requires the presentation of the expenses related to the capitalized implementation costs in the same line item in the statement of income as the fees associated with the hosting element of the arrangement and the classification of the payments for the capitalized implementation costs in the statement of cash flows in the same manner as the payments made for the fees associated with the hosting element.
+The Company’s money market instruments are reported at fair value based upon the daily market price for identical assets in active markets, and are therefore classified as Level 1.
+Management is responsible for estimating the fair value of these financial assets and liabilities, and in doing so, considers valuations provided by a large, third-party pricing service.
+
+
+item2.txt
+Certain statements made in this report, as well as oral statements made by the Company from time to time, constitute forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended.
+In addition to product revenue derived from the sale of machine vision products, the Company also generates revenue by providing maintenance and support, consulting, and training services to its customers; however, service revenue accounted for less than 10% of total revenue for all periods presented.
+Cognex machine vision is primarily used to automate manufacturing and distribution processes in a variety of industries where the technology is widely recognized as an important component of automated production and quality assurance.
+Virtually every manufacturer can achieve better quality and manufacturing efficiency by using machine vision, and therefore, Cognex products are used by a broad base of customers across a variety of industries, including consumer electronics, automotive, consumer products, food and beverage, pharmaceuticals, and medical devices.
+Cognex products are also used to automate distribution processes in the logistics industry for applications in retail distribution and ecommerce to scan, track, and sort goods through distribution centers.
+Operating expenses in the second quarter of 2019 increased by 3% over the second quarter of 2018 due principally to the impact of headcount additions to support our future growth plans.
+Operating income was 26% of revenue in the second quarter of 2019 compared to 30% of revenue in the second quarter of 2018; net income was 24% of revenue in the second quarter of 2019 compared to 27% of revenue in the second quarter of 2018; and net income per diluted share was $0.28 in the second quarter of 2019 compared to $0.32 in the second quarter of 2018.
+Results on a constant-currency basis are not in accordance with accounting principles generally accepted in the United States of America (U.S. GAAP) and should be considered in addition to, and not as a substitute for, results prepared in accordance with U.S. GAAP.
+Changes in foreign currency exchange rates accounted for a decrease in revenue of approximately 3 percentage points in both periods, as sales denominated in Euros and Chinese Yuan were translated to U.S.
+
+
+part2.txt
+Various claims and legal proceedings generally incidental to the normal course of business are pending or threatened on behalf of or against the Company.
+
+

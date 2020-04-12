@@ -1,0 +1,50 @@
+fls.txt
+
+
+
+item1.txt
+The July 28, 2018 Consolidated Balance Sheet was derived from audited financial statements, but does not include all disclosures required by accounting principles generally accepted in the United States.
+In the opinion of management, all normal recurring adjustments necessary to present fairly the consolidated balance sheet as of October 27, 2018; the results of operations and the statements of comprehensive income (loss) for the three months ended October 27, 2018 and October 28, 2017; the statements of cash flows and equity for the three months ended October 27, 2018 and October 28, 2017, as applicable, have been made.
+The underlying principle of ASC 606 is to recognize revenue when a customer obtains control of promised goods or services at an amount that reflects the consideration that is expected to be received in exchange for those goods or services.
+ASC 606 primarily impacts our revenue recognition for software arrangements and sales to two-tier distributors.
+We classify our hardware, perpetual software licenses, and software-as-a-service (SaaS) as distinct performance obligations.
+Term software licenses represent multiple obligations, which include software licenses and software maintenance.
+We refer to our term software licenses, security software licenses, SaaS, and associated service arrangements as subscription offers.
+We recognize revenue upon transfer of control of promised goods or services in a contract with a customer in an amount that reflects the consideration we expect to receive in exchange for those products or services.
+Transfer of control can also occur over time for software maintenance and services as the customer receives the benefit over the contract term.
+Our hardware and perpetual software licenses are distinct performance obligations where revenue is recognized upfront upon transfer of control.
+Term software licenses include multiple performance obligations where the term licenses are recognized upfront upon transfer of control, with the associated software maintenance revenue recognized ratably over the contract term as services and software updates are provided.
+SaaS arrangements have one distinct performance obligation which is satisfied over time with revenue recognized ratably over the contract term as the customer consumes the services.
+Revenue is allocated among these performance obligations in a manner that reflects the consideration that we expect to be entitled to for the promised goods or services based on standalone selling prices (SSP).
+The best evidence of SSP is the observable price of a product or service when we sell the goods separately in similar circumstances and to similar customers.
+In instances where SSP is not directly observable, we determine SSP using information that may include market conditions and other observable inputs.
+
+
+item2.txt
+Cisco designs and sells a broad range of technologies that have been powering the Internet since 1984.
+Across networking, security, collaboration, applications and the cloud, our evolving intent-based technologies are constantly learning and adapting to provide customers with a highly secure, intelligent platform for their digital business.
+Our product revenue reflected solid growth in Infrastructure Platforms, Applications and Security, and we continued to make progress in the transition of our business model to increased software and subscriptions.
+Notwithstanding the first quarter fiscal 2019 results, we continue to operate in a challenging and highly competitive environment.
+While the overall environment remains uncertain, we continue to aggressively invest in priority areas with the objective of driving profitable growth over the long term.
+Within total revenue, product revenue increased by 9% and service revenue increased by 3%.
+General and administrative expenses decreased due to a benefit from the $400 million litigation settlement with Arista.
+
+
+item3.txt
+At any time, a sharp rise in market interest rates could have a material adverse impact on the fair value of our available-for-sale debt investment portfolio.
+
+
+item4.txt
+
+
+
+part2.txt
+Instability in the global credit markets, the impact of uncertainty regarding global central bank monetary policy, the instability in the geopolitical environment in many parts of the world including as a result of the recent United Kingdom “Brexit” referendum to withdraw from the European Union, the current economic challenges in China, including global economic ramifications of Chinese economic difficulties, and other disruptions may continue to put pressure on global economic conditions.
+Our operating results in one or more segments may also be affected by uncertain or changing economic conditions particularly germane to that segment or to particular customer markets within that segment.
+For example, emerging countries in the aggregate experienced a decline in product orders in the first quarter of fiscal 2018, in fiscal 2017 and in certain prior periods.
+Impairment of that trust, or foreign regulatory actions taken in response to reports of certain intelligence gathering methods of the U.S. government, could affect the demand for our products from customers outside of the United States and could have an adverse effect on our operating results.
+We have experienced periods of time during which shipments have exceeded net bookings or manufacturing issues have delayed shipments, leading to nonlinearity in shipping patterns.
+In addition to making it difficult to predict revenue for a particular period, nonlinearity in shipping can increase costs, because irregular shipment patterns result in periods of underutilized capacity and periods in which overtime expenses may be incurred, as well as in potential additional inventory management-related costs.
+The timing of such orders is difficult to predict, and the timing of revenue recognition from such orders may affect period to period changes in revenue.
+
+
