@@ -1,0 +1,11 @@
+absl
+tensorflow_hub
+numpy
+nltk
+scikit-learn
+bert-serving-client
+functools
+temp
+jupyter
+sumy
+
