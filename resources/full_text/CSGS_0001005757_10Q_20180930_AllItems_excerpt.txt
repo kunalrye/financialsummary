@@ -1,0 +1,719 @@
+
+UNITED STATES  
+
+SECURITIES AND EXCHANGE COMMISSION  
+
+
+
+
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934  
+
+For the quarterly period ended September 30, 2018 
+
+OR  
+
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934  
+
+For the transition period from   to    
+
+Commission file number 0-27512  
+
+CSG SYSTEMS INTERNATIONAL, INC.  
+
+
+
+6175 S. Willow Drive, 10th Floor 
+
+Greenwood Village, Colorado 80111  
+
+
+
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  
+
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).  
+
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.  
+
+
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  
+
+
+
+CSG SYSTEMS INTERNATIONAL, INC.  
+
+FORM 10-Q for the Quarter Ended September 30, 2018 
+
+INDEX  
+
+
+
+CSG SYSTEMS INTERNATIONAL, INC. 
+
+CONDENSED CONSOLIDATED BALANCE SHEETS - UNAUDITED  
+
+
+
+The accompanying notes are an integral part of these condensed consolidated financial statements. 
+
+
+CSG SYSTEMS INTERNATIONAL, INC.  
+
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME - UNAUDITED  
+
+
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.  
+
+
+CSG SYSTEMS INTERNATIONAL, INC.  
+
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME - UNAUDITED  
+
+
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.  
+
+
+CSG SYSTEMS INTERNATIONAL, INC.  
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS - UNAUDITED  
+
+
+
+The accompanying notes are an integral part of these condensed consolidated financial statements.  
+
+
+CSG SYSTEMS INTERNATIONAL, INC.  
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)  
+
+
+
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES  
+
+Use of Estimates in Preparation of Financial Statements. The preparation of the accompanying Financial Statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of our Financial Statements, and the reported amounts of revenues and expenses during the reporting periods. Actual results could differ from those estimates.   
+
+Revenue. We adopted Topic 606 Revenue from Contracts with Customers (“ASC 606”) as of January 1, 2018 using the cumulative effect method and have applied ASC 606 to all contracts with clients that had not been completed as of the date of initial application. In conjunction with the adoption of ASC 606, we recorded a cumulative adjustment increasing beginning retained earnings (net of tax) by approximately $7 million, primarily related to contracts that we were previously required to defer revenue as we did not have vendor specific objective evidence (“VSOE”) of fair value for certain undelivered elements. Since we adopted ASC 606 using the cumulative effect method, comparative information in our Financial Statements has not been adjusted and continues to be as previously reported.  
+
+
+
+
+See Note 3 for further discussion related to the reclassification of our client contracts and client contract costs. 
+
+
+
+
+
+Adjustments are primarily related to software license products and related maintenance contracted as part of our cloud solutions contracts that were not capable of being distinct as a separate performance obligation under ASC 606 and are included in cloud solutions services in the quarter and nine months ended September 30, 2018. Costs associated with these products were also reclassified to cost of cloud solution services in the quarter and nine months ended September 30, 2018. 
+
+
+
+As a result of adopting ASC 606, we have changed our accounting policies for revenue recognition as discussed in more detail below. 
+
+In summary, our revenue from client contracts is primarily related to our cloud and related solutions and, to a lesser degree, software and service and related maintenance arrangements, and is measured based on consideration specified within each of our contracts, excluding sales incentives and amounts collected on behalf of third parties, if any. We account for various products and services separately if they are distinct. A product or service, or group of products or services, is distinct if it is separately identifiable from other items in the context of the contract and if our client can benefit from the product or service on their own or with other resources that are readily available to that client. We recognize revenue when we satisfy our performance obligations by transferring control of a particular product or service, or group of products or services, to our clients, as described in more detail below. Taxes assessed on our products and services based on governmental authorities at the time of invoicing are excluded from our revenue. 
+
+Cloud and Related Solutions.  
+
+
+
+
+
+
+For managed services contracts, the total contract consideration is typically a fixed fee, but these contracts may also have variable fee components. The fees for these services typically are billed to our clients on a monthly basis. Unless managed services are included with a software license contract (as discussed further below), there is generally only one performance obligation and revenue is recognized for these arrangements on a ratable basis as the services are performed.  
+
+Fees related to set-up or implementation activities for both cloud-based solution and managed services contracts are deferred and recognized ratably over the related service period to which the activities relate. 
+
+
+Prior to the adoption of ASC 606, we recognized revenue related to our cloud and related solutions contracts on a monthly basis as we provided the services. The adoption of ASC 606 did not result in any significant changes to the timing of revenue recognition related to these contracts. 
+
+Software and Services.  
+
+
+For our software arrangements, the total contract consideration is allocated between the separate performance obligations based on stand-alone selling prices for software licenses, cost plus applicable margin for services and established pricing for maintenance. The initial sale of software products generally requires significant production, modification or customization, such that the delivery of the software license and the related professional services required to implement the software represent one combined performance obligation that is satisfied over time based of hours worked (hours-based method). We are using hours worked on the project as the measure to determine progress toward completion as we believe it is the most appropriate metric to measure such progress. The software and services fees are generally billed to our clients on a milestone or date basis. 
+
+
+In certain instances, we sell software license volume upgrades, which provide our clients the right to use our software to process higher transaction volume levels. In these instances, we analyze the contract to determine if the volume upgrade is a separate performance obligation and if so, we recognize the value associated with the software license as revenue on the effective date of the volume upgrade.  
+
+A portion of our professional services revenues are contracted separately (e.g., business consulting services, etc.). Such contracts can either be on a fixed-price or time-and-materials basis. Revenues from fixed-price, professional service contracts are recognized using an hours-based method, as these professional services represent a performance obligation that is satisfied over time. Revenues from professional services contracts billed on a time-and-materials basis are recognized as the services are performed. 
+
+
+Prior to the adoption of ASC 606, we recognized revenue for our software arrangements under the guidelines of contract accounting as our software products required significant production, modification or customization and if we had VSOE of fair value for undelivered elements (e.g., maintenance), which we generally had, we would allocate a portion of the total arrangement fee to the undelivered element based on its VSOE of fair value, and the balance of the arrangement fee was recognized using the percentage-of-completion (“POC”) method of accounting.  
+
+Maintenance 
+
+Our maintenance revenue relates primarily to support of our software once it has been implemented. Maintenance revenues are recognized ratably over the software maintenance period as services are provided. Our maintenance consists primarily of client and product support, technical updates (e.g., bug fixes, etc.), and unspecified upgrades or enhancements to our software products. If specified upgrades or enhancements are offered in a contract, which is rare, they are accounted for as a separate performance obligation. Maintenance can be invoiced to our clients on a monthly, quarterly or annual basis. 
+
+Transaction Price Allocated to the Remaining Performance Obligations 
+
+
+We have not disclosed transaction price allocation to remaining performance obligations or an explanation thereof of comparable amounts as of December 31, 2017 (a transitional practical expedient allowed under ASC 606).  
+
+Disaggregation of Revenue 
+
+
+
+Billed and Unbilled Accounts Receivable. Billed accounts receivable represents our unconditional rights to consideration. Once invoiced, our payment terms are generally between 30-60 days, and rarely do we have contracts with financing arrangements. Unbilled accounts receivable represents our rights to consideration for work completed but not billed. Unbilled accounts receivable is transferred to billed accounts receivable when the rights become unconditional which is generally at the time of invoicing.  
+
+
+
+
+Deferred Revenue. Deferred revenue represents consideration received from clients in advance of services being performed.  
+
+
+
+Cash and Cash Equivalents.  We consider all highly liquid investments with original maturities of three months or less at the date of the purchase to be cash equivalents. As of September 30, 2018 and December 31, 2017, our cash equivalents consist primarily of institutional money market funds, commercial paper, and time deposits held at major banks.  
+
+As of September 30, 2018 and December 31, 2017, we had $3.0 million and $4.2 million, respectively, of restricted cash that serves to collateralize outstanding letters of credit. This restricted cash is included in cash and cash equivalents in our Condensed Consolidated Balance Sheets (“Balance Sheets” or “Balance Sheet”).  
+
+Short-term Investments and Other Financial Instruments. Our financial instruments as of September 30, 2018 and December 31, 2017 include cash and cash equivalents, short-term investments, accounts receivable, accounts payable, and debt. Because of their short maturities, the carrying amounts of cash equivalents, accounts receivable, and accounts payable approximate their fair value.  
+
+Our short-term investments and certain of our cash equivalents are considered “available-for-sale” and are reported at fair value in our Balance Sheets, with unrealized gains and losses, net of the related income tax effect, excluded from earnings and reported in a separate component of stockholders’ equity. Realized and unrealized gains and losses were not material in any period presented.  
+
+
+Our short-term investments as of September 30, 2018 and December 31, 2017 were $2.1 million and $139.1 million, respectively. The significant decrease in our short-term investments between periods is due primarily to the acquisition of Business Ink in February 2018 for approximately $70 million and positioning of cash as of September 30, 2018 for the acquisition of Forte Payment Systems, Inc., which closed on October 1, 2018 for a purchase price of approximately $85 million, (approximately $80 million, net of cash acquired), less approximately $13 million in cash subject to certain tax filings (see Note 5). 
+
+
+
+
+Valuation inputs used to measure the fair values of our money market funds and corporate equity securities were derived from quoted market prices. The fair values of all other financial instruments are based upon pricing provided by third-party pricing services. These prices were derived from observable market inputs.  
+
+
+
+The fair value for our credit agreement was estimated using a discounted cash flow methodology, while the fair value for our convertible debt was estimated based upon quoted market prices or recent sales activity, both of which are considered Level 2 inputs. See Note 4 for additional discussion regarding an amendment to our Credit Agreement.  
+
+Equity Method Investment. On July 30, 2018, we made a $2 million investment for a 4% noncontrolling financial interest in a payment technology and services company that enables omni-channel digital payments in Latin America. We are accounting for this investment using the equity method in accordance with Topic 323 Investments – Equity Method and Joint Ventures. Accordingly, we recorded an initial investment of $2.8 million which includes direct costs of acquiring the investment. We will record our share of earnings and losses in the investment on a one-quarter lag basis which will result in an adjustment to our initial investment during the quarter-ending December 31, 2018. 
+
+Other Accounting Pronouncements Adopted. In October 2016, the FASB issued ASU 2016-16, Income Taxes (Topic 740) Intra-Entity Transfers of Assets Other Than Inventory. This ASU requires entities to recognize at the transaction date the income tax consequences of intercompany asset transfers. This ASU is effective in annual and interim periods in fiscal years beginning after December 15, 2017, with early adoption permitted, and requires a modified retrospective transition method. We adopted this ASU in January 2018 and the adoption of this standard did not have a material impact on our Financial Statements. 
+
+Accounting Pronouncement Issued But Not Yet Effective.  In February 2016, the FASB issued ASU 2016-02, Leases (Topic 842). This ASU requires lessees to recognize a lease liability and a right-to-use asset for all leases, including operating leases, with a term greater than twelve months on its balance sheet. This ASU is effective in annual and interim periods in fiscal years beginning after December 15, 2018, with early adoption permitted. An entity may choose to adopt this ASU either retrospectively or prospectively as of the start of the first period for which it applies the standard (the effective date method).  
+
+In 2018, we started the process of evaluating the impact this ASU on our accounting policies, business processes, and financial statements. We have formed a project team and started the process of lease identification, review, and data extraction for purposes of calculating the transition adjustment to be recorded on the effective date. In conjunction with these efforts, we are updating our policies to align with the new accounting guidance and our processes to ensure we properly account for new, existing, and modifications to leases subsequent to the adoption of the ASU. We continue to believe the adoption of this standard will have a material impact on our consolidated balance sheet. We currently intend to adopt the ASU in the first quarter of 2019, utilizing the effective date method of transition. 
+
+
+
+
+
+See Note 5 for discussion regarding the Business Ink acquisition. 
+
+
+
+Other intangible assets as of September 30, 2018 include assets acquired in the Business Ink business acquisition (see Note 5). 
+
+
+
+
+
+
+
+
+Client contract incentives consist principally of incentives provided to new or existing clients to convert their customer accounts to, or retain their customer’s account on, our outsourced solutions and are amortized ratably over the contract period to include renewal periods if applicable, which as of September 30, 2018, have termination dates that range from 2019 to 2025. The amortization of client contract incentives is reflected as a reduction in cloud and related solutions revenue in our Income Statement. 
+
+
+
+
+Capitalized commission fees are incremental commissions paid as a result of obtaining a customer contract. These fees are amortized over the contract period based on the transfer of goods or services to which the assets relate, which as of September 30, 2018, range from 2019 to 2025, and are included in selling, general and administrative expenses in our Income Statement. Incremental commission fees incurred as a result of obtaining a customer contract are expensed when incurred if the amortization period of the asset that we otherwise would have recognized is one year or less (a practical expedient allowed under ASC 606).  
+
+
+
+
+
+Credit Agreement  
+
+2018 Credit Agreement. On March 5, 2018, we entered into a new $350 million credit agreement (the “2018 Credit Agreement”) with a consortium of banks to replace the 2015 Credit Agreement.  
+
+
+
+
+During the nine months ended September 30, 2018, we made $3.8 million of principal repayments on our 2018 Credit Agreement. As of September 30, 2018, our interest rate on the 2018 Term Loan is 3.89% (adjusted LIBOR plus 1.50% per annum), effective through December 30, 2018, and our commitment fee on the 2018 Revolver is 0.20%. As of September 30, 2018, we had no borrowings outstanding on our 2018 Revolver and had the entire $200.0 million available to us.  
+
+In conjunction with the closing of the 2018 Credit Agreement, we incurred financing costs of $1.5 million. When combined with the remaining deferred financing costs of the 2015 Credit Agreement, financing costs of $2.8 million have been deferred and are being amortized to interest expense using the effective interest method over the related term of the 2018 Credit Agreement. Additionally, as certain lenders from the 2015 Credit Agreement chose not to participate in the 2018 Credit Agreement syndication group, we wrote-off $0.8 million of unamortized debt issuance costs and recognized a loss on extinguishment of that debt. 
+
+Convertible Notes  
+
+
+The 2016 Convertible Notes will be convertible at the option of the note holders upon the satisfaction of specified conditions and during certain periods. During the period from, and including, December 15, 2021 to the close of business on the business day immediately preceding March 15, 2022 and on or after December 15, 2035, holders may convert all or any portion of their 2016 Convertible Notes at the conversion rate then in effect at any time regardless of these conditions.  
+
+As a result of us increasing our quarterly dividend in September 2018 (see Note 10), the previous conversion rate for the 2016 Convertible Notes of 17.5057 shares of our common stock per $1,000 principal amount of the 2016 Convertible Notes, which is equivalent to an initial conversion price of approximately $57.12 per share of our common stock, has been adjusted to 17.5173 shares of our common stock per $1,000 principal amount of the 2016 Convertible Notes, which is equivalent to an initial conversion price of approximately $57.09 per share of our common stock. 
+
+
+Holders may require us to repurchase the 2016 Convertible Notes for cash on each of March 15, 2022, March 15, 2026, and March 15, 2031, or upon the occurrence of a fundamental change (as defined in the 2016 Convertible Notes Indenture) in each case at a purchase price equal to the principal amount thereof plus accrued and unpaid interest.  
+
+We may not redeem the 2016 Convertible Notes prior to March 20, 2020. On or after March 20, 2020, we may redeem for cash all or part of the 2016 Convertible Notes if the last reported sale price of our common stock has been at least 130% of the conversion price then in effect for at least 20 trading days (whether or not consecutive) during any 30 consecutive trading day period (including the last trading day of such period) ending on, and including, the trading day immediately preceding the date on which we provide notice of redemption. On or after March 15, 2022, we may redeem for cash all or part of the 2016 Convertible Notes regardless of the sales price condition described in the preceding sentence. In each case, the redemption price will equal the principal amount of the 2016 Convertible Notes to be redeemed, plus accrued and unpaid interest.  
+
+As of September 30, 2018, none of the conversion features have been achieved, and thus, the 2016 Convertible Notes are not convertible by the holders. 
+
+
+Business Ink 
+
+On February 28, 2018, we acquired Business Ink for approximately $70 million in cash. Business Ink is a company based in Austin, Texas, with facilities in multiple locations. Business Ink provides outsourced, customized business communications services to the telecommunications, healthcare, financial services, utilities and government sectors across statements, email, mobile messaging and more. The acquisition extends the scale of our operations and platform capabilities, expands our customer base into new verticals, and further solidifies our customer communications footprint. 
+
+
+
+The above estimated fair values of assets acquired and liabilities assumed are considered provisional and are based on the information that was available as of the date of the Business Ink acquisition to estimate the fair value of assets acquired and liabilities assumed. We believe that information provides a reasonable basis for estimating the fair values of assets acquired and liabilities assumed, but we are waiting for additional information necessary to finalize those fair values. Thus, the provisional measurements of fair value set forth above are subject to change. During the nine-months ended September 30, 2018, we made certain adjustments, primarily to increase the value of the acquired client contracts by $4.3 million. As a result of these adjustments, the amount allocated to goodwill decreased by $0.2 million and $4.7 million during the three and nine-months ended September 30, 2018, respectively. We expect to finalize the valuation and complete the purchase price allocation as soon as practicable, but not later than one year from the acquisition date. 
+
+The Business Ink goodwill has been assigned to our one reportable segment. The estimated lives assigned to the acquired client contracts and the acquired software assets range from approximately four months to fifteen years (weighted-average life of thirteen years), and four years, respectively. Amortization expense related to these acquired intangible assets is recognized based upon the pattern in which the economic benefits of the acquired intangible assets are expected to be received. The Business Ink goodwill and acquired intangible assets are deductible for income tax purposes. 
+
+The results of operations of Business Ink are included in the accompanying Condensed Consolidated Statements of Income for the period subsequent to the acquisition date. Pro forma information on our historical results of operations to reflect the acquisition of Business Ink is not presented as Business Ink’s results of operations during prior periods are not significant to our results of operations. 
+
+
+Forte Payment Systems, Inc. 
+
+On October 1, 2018, we acquired Forte Payment Systems, Inc. (“Forte”), a leading provider of advanced payment solutions headquartered in Allen, Texas. The acquisition of Forte accelerates our ability to offer a comprehensive suite of next generation payment solutions that enables service providers to provide a differentiated customer experience, while also strengthening our position in the revenue management and payments sector and allowing us to grow our footprint into new verticals. We acquired 100% of the equity of Forte for a purchase price of approximately $85 million, (approximately $80 million, net of cash acquired), and held back approximately $13 million in cash subject to certain tax filings. The purchase agreement includes provisions for $18.8 million of potential future earn-out payments over a four-year measurement period. The earn-out payments are tied to performance-based goals and a defined service period by the eligible recipients.  
+
+The results of Forte will be included in our results of operations for the period subsequent to the acquisition date. We have not completed the valuation analysis and calculations necessary to finalize the required purchase price allocations. In addition to goodwill, the final purchase price allocation may include allocations to intangible assets such as trademarks and trade names, developed technology, noncompetition agreements, and customer-related assets. 
+
+6. RESTRUCTURING AND REORGANIZATION CHARGES 
+
+During the third quarters of 2018 and 2017, we recorded restructuring and reorganization charges of $2.8 million and $1.6 million, respectively, and for the nine months ended September 30, 2018 and 2017, we recorded restructuring and reorganization charges of $7.0 million and $4.6 million, respectively.  
+
+
+•  
+
+We reduced our workforce by approximately 70 employees as a result of organizational changes made to pursue global opportunities and efficiencies. As a result, we incurred restructuring charges related to involuntary terminations of $3.5 million.  
+
+•  
+
+We closed one of our print facilities. As a result, we incurred restructuring charges related to involuntary terminations and the impairment of assets of $2.1 million. 
+
+
+
+
+
+
+The effective income tax rate for the quarter and nine months ended September 30, 2018 reflects the impact of the U.S. Tax Cut and Jobs Act (the “Tax Reform Act”) that was passed into legislation in December 2017. The Tax Reform Act reduces the U.S. maximum rate of income taxation from 35% to 21% applicable to taxable years beginning after December 31, 2017. In December 2017, the SEC issued Staff Accounting Bulletin No. 118, Income Tax Accounting Implications of the Tax Cuts and Jobs Act (“SAB 118”), which allows us to record provisional amounts during a measurement period not to extend beyond one year of the enactment date. As of September 30, 2018, we have not completed our accounting for the tax effects of the enactment of the Tax Reform Act; however, in  
+
+
+
+During the third quarter of 2018, our estimated full-year 2018 effective income tax rate was reduced from 29% to 27% primarily due to a change in the estimate of research and development credits. The lower effective tax rate for the third quarter of 2018 reflects the full year-to-date impact of this reduction.  
+
+
+8. COMMITMENTS, GUARANTEES AND CONTINGENCIES  
+
+Warranties. We generally warrant that our solutions and related offerings will conform to published specifications, or to specifications provided in an individual client arrangement, as applicable. The typical warranty period is 90 days from the date of acceptance of the solution or offering. For certain service offerings we provide a warranty for the duration of the services provided. We generally warrant that services will be performed in a professional and workmanlike manner. The typical remedy for breach of warranty is to correct or replace any defective deliverable, and if not possible or practical, we will accept the return of the defective deliverable and refund the amount paid under the client arrangement that is allocable to the defective deliverable. Our contracts also generally contain limitation of damages provisions in an effort to reduce our exposure to monetary damages arising from breach of warranty claims. Historically, we have incurred minimal warranty costs, and as a result, do not maintain a warranty reserve.  
+
+
+Claims for Company Non-performance. Our arrangements with our clients typically cap our liability for breach to a specified amount of the direct damages incurred by the client resulting from the breach. From time-to-time, these arrangements may also include provisions for possible liquidated damages or other financial remedies for our non-performance, or in the case of certain of our outsourced customer care and billing solutions, provisions for damages related to service level performance requirements. The service level performance requirements typically relate to system availability and timeliness of service delivery. Historically, we have not incurred significant costs associated with service level performance within our client contracts, and as a result, do not include estimates for potential credits or refunds related to service level performance in our contract consideration at the onset of the contract, but instead, account for credits or refunds as an adjustment to the transaction price of the contract as those events occur.  
+
+
+Legal Proceedings. From time-to-time, we are involved in litigation relating to claims arising out of our operations in the normal course of business. We are not presently a party to any material pending or threatened legal proceedings. 
+
+
+9. EARNINGS PER COMMON SHARE  
+
+Basic and diluted earnings per common share (“EPS”) amounts are presented on the face of the accompanying Income Statements. 
+
+
+
+The Convertible Notes have a dilutive effect only in those quarterly periods in which our average stock price exceeds the current effective conversion price (see Note 4).  
+
+The Stock Warrants have a dilutive effect only in those quarterly periods in which our average stock price exceeds the exercise price of $26.68 per warrant (under the treasury stock method), and are not subject to performance vesting conditions (see Note 10).  
+
+Potentially dilutive common shares related to non-participating unvested restricted stock excluded from the computation of diluted EPS, as the effect was antidilutive, were not material in any period presented.  
+
+10. STOCKHOLDERS’ EQUITY AND EQUITY COMPENSATION PLANS  
+
+Stock Repurchase Program. We currently have a stock repurchase program, approved by our Board, authorizing us to repurchase our common stock from time-to-time as market and business conditions warrant (the “Stock Repurchase Program”). During the nine months ended September 30, 2018 and 2017, we repurchased 0.4 million shares of our common stock for $16.9 million (weighted-average price of $42.71 per share) and 0.4 million shares of our common stock for $15.6  million (weighted-average price of $40.54  per share), respectively, under a SEC Rule 10b5-1 Plan.  
+
+As of September 30, 2018, the total remaining number of shares available for repurchase under the Stock Repurchase Program totaled 5.8 million shares.  
+
+Stock Repurchases for Tax Withholdings. In addition to the above-mentioned stock repurchases, during the nine months ended September 30, 2018 and 2017, we repurchased and then cancelled 0.2 million shares of common stock for $7.2 million and 0.2 million shares of common stock for $9.4 million, respectively, in connection with minimum tax withholding requirements resulting from the vesting of restricted common stock under our stock incentive plans.  
+
+Stock Incentive Plan. In May 2018, our stockholders approved an increase of 2.7 million shares authorized for issuance under the 2005 Stock Incentive Plan, from 18.7 million shares to 21.4 million shares. 
+
+Cash Dividends. During the third quarter of 2018, the Board approved a quarterly cash dividend of $0.21 per share of common stock, totaling $7.0 million. During the third quarter of 2017, the Board approved a quarterly cash dividend of $0.1975 per share of common stock, totaling $6.7 million. Dividends declared for the nine months ended September 30, 2018 and 2017 totaled $21.2 million and $20.0 million, respectively.  
+
+Warrants. In 2014, in conjunction with the execution of an amendment to our current agreement with Comcast, we issued stock warrants (the “Warrant Agreement”) for the right to purchase up to approximately 2.9 million shares of our common stock (the “Stock Warrants”) as an additional incentive for Comcast to convert customer accounts onto our Advanced Convergent Platform based on various milestones. The Stock Warrants have a 10-year term and an exercise price of $26.68 per warrant.  
+
+Upon vesting, the Stock Warrants are recorded as a client contract incentive asset with the corresponding offset to stockholders’ equity. The client contract incentive asset related to the Stock Warrants is amortized as a reduction in cloud and related solutions revenues over the remaining term of the Comcast amended agreement. As of September 30, 2018 and December 31, 2017, we recorded a client contract incentive asset related to these Stock Warrants of $25.1 million as of both periods and have recorded accumulated amortization related to these Stock Warrants of $17.1 million and $9.2 million, respectively. The remaining unvested  
+
+
+Stock Warrants will be accounted for as client contract incentive assets in the period the performance conditions necessary for vesting have been met.  
+
+As of September 30, 2018, approximately 1.4 million Stock Warrants remain issued, of which 0.4 million were vested.  
+
+
+
+Included in the awards granted during the nine months ended September 30, 2018 are performance-based awards for 0.1 million restricted common stock shares issued to members of executive management and certain key employees, which vest in the first quarter of 2020 upon meeting certain pre-established financial performance objectives related to 2019 performance. The performance-based awards become fully vested upon a change in control, as defined, and the subsequent involuntary termination of employment.  
+
+The other restricted common stock shares granted during the nine months ended September 30, 2018 are primarily time-based awards, which vest annually over four years with no restrictions other than the passage of time. Certain shares of the restricted common stock become fully vested upon a change in control, as defined, and the subsequent involuntary termination of employment.  
+
+We recorded stock-based compensation expense for the third quarters of 2018 and 2017 of $4.6 million and $5.0 million, respectively, and for the nine months ended September 30, 2018 and 2017 of $14.8 million and $16.7 million, respectively.
+
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations  
+
+
+Forward-Looking Statements 
+
+This report contains a number of forward-looking statements relative to our future plans and our expectations concerning our business and the industries we serve. These forward-looking statements are based on assumptions about a number of important factors, and involve risks and uncertainties that could cause actual results to differ materially from estimates contained in the forward-looking statements. Some of the risks that are foreseen by management are outlined within Part II Item 1A. Risk Factors of this report and in Part I Item 1A. Risk Factors of our 2017 10-K. Readers are strongly encouraged to review those sections closely in conjunction with MD&A.  
+
+Company Overview 
+
+We are one of the world’s largest and most established revenue management and digital monetization providers, primarily serving some of the most well-known communications, information, and content companies around the globe. We help our clients simplify the complexity of a rapidly changing business landscape, bringing more than thirty-five years of experience supporting the world’s most respected service providers. We make their hardest decisions simpler and smarter as they work to evolve their businesses from a single-product offering to highly complex and competitive multi-product offerings, while also requiring increasingly differentiated, real-time, and personalized experiences for their customers.  
+
+We offer revenue management, customer experience, and digital monetization solutions for every stage of the customer lifecycle so service providers can deliver an outstanding customer experience that adapts to their customers’ rapidly changing demands. Our solutions are built on proven public and private cloud platforms, with out-of-the-box and managed service models that adapt to fit their unique business needs and enable the transformative change required to create personalized experiences that drive loyalty and retention. 
+
+
+We generate approximately 65% of our revenues from the North American cable and satellite markets, approximately 20% of our revenues from global wireline and wireless communication providers, and the remainder from a variety of other verticals, such as financial services, healthcare, logistics, and transportation. Additionally, during the nine months ended September 30, 2018 we generated approximately 85% of our revenues from the Americas region, approximately 10% of our revenues from the Europe, Middle East and Africa region, and approximately 5% of our revenues from the Asia Pacific region. 
+
+
+Key Impact of U.S. Tax Cuts and Jobs Act  
+
+On December 22, 2017, the U.S. Tax Cuts and Jobs Act (the “Tax Reform Act”) was passed into legislation. The Tax Reform Act amends the Internal Revenue Code, reducing the corporate income tax rate, changing or eliminating certain income tax deductions and credits and provides sweeping change to how U.S. companies are taxed on their international operations. The Tax Reform Act is generally effective for tax years beginning after December 31, 2017; however, certain provisions of the Tax Reform Act had effective dates beginning in 2017.  
+
+The Tax Reform Act reduces the U.S. maximum rate of income taxation from 35% to 21% applicable to taxable years beginning January 1, 2018. We currently expect our effective income tax rate for the full year 2018 to be approximately 27%.  
+
+See Note 7 to our 2017 10-K for additional impacts of the Tax Reform Act. 
+
+
+Impact of New Revenue Accounting Pronouncement 
+
+As discussed in Note 2 to our Financial Statements, in January 2018 we adopted ASC 606, a single comprehensive model which supersedes nearly all existing revenue recognition guidance under U.S. GAAP, utilizing the cumulative effect approach. Under the new guidance, revenue is recognized when promised goods or services are transferred to customers in an amount that reflects the consideration that is expected to be received for those goods or services.  
+
+In conjunction with the adoption of ASC 606, we recorded a cumulative adjustment increasing beginning retained earnings (net of tax) by approximately $7 million, primarily related to contracts that we were required to defer revenue as we did not have VSOE for certain undelivered elements. We do not anticipate ASC 606 will have a material impact on our revenues in 2018 and beyond, as the new revenue accounting rules under ASC 606 are fairly consistent with our current policies and guidelines based on the nature of our client contracts.  
+
+
+•  
+
+Certain deferred contract costs that had been included in our client contracts and other current and non-current assets on our Balance Sheet were reclassified and presented separately as a non-current client contract asset, net of related amortization.  
+
+•  
+
+Certain revenues and related costs previously recorded as software and services or maintenance on our Income Statement are now being classified as cloud and related solutions.  
+
+•  
+
+Investments in client contracts on our Consolidated Statement of Cash Flows have been reclassified to operating activities from investing activities.  
+
+Since we adopted ASC 606 using the cumulative effect method, prior period comparative information in our Financial Statements have not been adjusted and continue to be as previously reported. 
+
+Refer to Note 2 for further detail and discussion regarding the adoption of ASC 606.  
+
+Acquisition Activity 
+
+Business Ink 
+
+As discussed in Note 5 to our Financial Statements, on February 28, 2018 we acquired Business Ink, a multi-channel communications company based in Austin, Texas, for approximately $70 million, excluding acquisition-related expenses. For the third quarter and nine months ended September 30, 2018, Business Ink contributed cloud and related solutions revenues of $13.9 million and $34.9 million, respectively, and was slightly dilutive to our year-to-date operating results when factoring in acquired amortization expense.  
+
+Forte Payment Systems, Inc. 
+
+As discussed in Note 5 to our Financial Statements, on October 1, 2018, we acquired Forte, a leading provider of advanced payment solutions headquartered in Allen, Texas. We acquired Forte for a purchase price of approximately $85 million ($80 million, net of cash acquired), and held back approximately $13 million in cash subject to certain tax filings. This represents a purchase price approximately equal to Forte’s 2018 projected revenues. In addition, the stock purchase agreement includes provisions for $18.8 million of potential future earn-out payments over a four-year measurement period. At this time, for the remainder of 2018 we expect that Forte will contribute approximately $20 million of revenues and be dilutive to our U.S. GAAP operating results, due to acquisition amortization and acquisition-related costs.  
+
+As we have not completed the valuation analysis and calculations necessary to finalize the required purchase price allocations, which may include allocations to goodwill and other intangible assets such as trademarks and trade names, developed technology, noncompetition agreements, and customer-related assets, the expected impact of the Forte acquisition is based on estimates for the amortization of acquired intangible assets. Because of the inherent uncertainties in making such estimates, the actual impact of Forte on our financial performance for 2018 and beyond may vary from our current expectations as we work through our integration efforts and complete the Forte purchase accounting. We undertake no duty to update or revise any forward-looking statements, whether as a result of new information, future events, or otherwise. 
+
+
+Management Overview of Quarterly Results 
+
+
+
+
+Stock-based compensation included in the table above excludes amounts that have been recorded in restructuring and reorganization charges. 
+
+Revenues. Our revenues for the third quarter of 2018 were $213.1 million, a 7% increase when compared to revenues of $199.2 million for the third quarter of 2017, with the increase mainly attributed to the acquisition of Business Ink on February 28, 2018. 
+
+Operating Results. Operating income for the third quarter of 2018 was $25.7 million, or a 12.0% operating margin percentage, compared to $28.4 million, or a 14.2% operating margin percentage for the third quarter of 2017, with the decrease in operating margin percentage reflective of costs associated with the integration of Business Ink and the continuation of planned investments aimed at generating future long-term growth in our business. 
+
+Diluted EPS. Diluted EPS for the third quarter of 2018 was $0.49 compared to $0.44 for the third quarter of 2017, with the increase primarily attributed to a lower effective income tax rate resulting primarily from the Tax Reform Act enacted in December 2017. 
+
+Cash and Cash Flows. As of September 30, 2018, we had cash, cash equivalents and short-term investments of $199.3 million, as compared to $186.4 million as of June 30, 2018 and $261.4 million as of as of December 31, 2017. Our cash flows from operating activities for the quarter ended September 30, 2018 were $47.1 million. See the Liquidity section below for further discussion of our cash flows. 
+
+Significant Client Relationships  
+
+Client Concentration. A large percentage of our historical revenues have been generated from our largest clients, which are Comcast, Charter Corporation Inc. (“Charter”), and DISH Network Corporation (“DISH”).  
+
+
+
+
+
+
+See our 2017 10-K for additional discussion of our business relationships and contractual terms with Comcast, Charter, and DISH. 
+
+
+
+Critical Accounting Policies  
+
+The preparation of our Financial Statements in conformity with U.S. GAAP requires us to select appropriate accounting policies, and to make judgments and estimates affecting the application of those accounting policies. In applying our accounting policies, different business conditions or the use of different assumptions may result in materially different amounts reported in our Financial Statements. 
+
+
+Results of Operations 
+
+
+
+
+
+
+
+
+
+
+
+The components of total expenses are discussed in more detail below. 
+
+Cost of Revenues. See our 2017 10-K for a description of the types of costs that are included in the individual line items for cost of revenues. 
+
+
+
+
+
+Variability in quarterly revenues and operating results are inherent characteristics of companies that sell software licenses and perform professional services. Our quarterly revenues for software licenses and professional services may fluctuate, depending on various factors, including the timing of executed contracts and revenue recognition, and the delivery of contracted solutions. However, the costs associated with software and professional services revenues are not subject to the same degree of variability (e.g., these costs are generally fixed in nature within a relatively short period of time), and thus, fluctuations in our cost of software and services as a percentage of our software and services revenues will likely occur between periods.  
+
+
+
+
+
+
+
+
+Loss on Extinguishment of Debt. In March 2018, we refinanced our 2015 Credit Agreement (see Note 4 to our Financial Statements). As a result, we incurred a loss of $0.8 million related to the write-off of unamortized debt issuance costs. 
+
+
+
+
+
+
+ Liquidity  
+
+Cash and Liquidity 
+
+As of September 30, 2018, our principal sources of liquidity included cash, cash equivalents and short-term investments of $199.3 million, as compared to $186.4 million as of June 30, 2018 and $261.4 million as of as of December 31, 2017. We generally invest our excess cash balances in low-risk, short-term investments to limit our exposure to market and credit risks.  
+
+During the first quarter of 2018, we refinanced our 2015 Credit Agreement primarily to extend the term of the loan from February 2020 to March 2023 and obtain a reduction in the interest rate and other fees. The 2018 Credit Agreement increased our liquidity and capital resources position by approximately $30 million.  
+
+As part of our 2018 Credit Agreement, we have a $200 million senior secured revolving loan facility with a syndicate of financial institutions that expires in March 2023. As of September 30, 2018, there were no borrowings outstanding on the 2018 Revolver. The 2018 Credit Agreement contains customary affirmative covenants and financial covenants. As of September 30, 2018, and the date of this filing, we believe that we are in compliance with the provisions of the 2018 Credit Agreement.  
+
+
+
+Our short-term investments as of September 30, 2018 and December 31, 2017 were $2.1 million and $139.1 million, respectively. The significant decrease in our short-term investments between periods is due primarily to the acquisition of Business Ink in February 2018 for approximately $70 million and positioning of cash as of September 30, 2018 for the acquisition of Forte, which closed on October 1, 2018 for a purchase price of approximately $85 million (approximately $80 million, net of cash acquired), less approximately $13 million in cash subject to certain tax filings (see Note 5 to our Financial Statements for additional discussion of our acquisitions). 
+
+We generally have ready access to substantially all of our cash, cash equivalents, and short-term investment balances, but may face limitations on moving cash out of certain foreign jurisdictions due to currency controls. As of September 30, 2018, we had $3.0 million of cash restricted as to use primarily to collateralize outstanding letters of credit. 
+
+Cash Flows from Operating Activities  
+
+
+
+
+
+Cash flows from operating activities for the first quarters of 2018 and 2017 reflect the negative impacts of the payment of the 2017 and 2016 year-end accrued employee incentive compensation in the first quarter subsequent to the year-end accrual for these items.  
+
+Cash flows from operating activities for the second quarter of 2018 was negatively impacted primarily by the increase in the accounts receivable balance mainly related to the timing of a recurring payment from a significant client that was delayed and received subsequent to quarter-end.  
+
+We believe the above table illustrates our ability to generate recurring quarterly cash flows from our operations, and the importance of managing our working capital items. Variations in our net cash provided by operating activities are generally related to the changes in our operating assets and liabilities (related mostly to fluctuations in timing at quarter-end of client payments and changes in accrued expenses), and generally over longer periods of time, do not significantly impact our cash flows from operations. 
+
+
+Billed Trade Accounts Receivable 
+
+Management of our billed accounts receivable is one of the primary factors in maintaining consistently strong quarterly cash flows from operating activities. Our billed trade accounts receivable balance includes significant billings for several non-revenue items (primarily postage, sales tax, and deferred revenue items). As a result, we evaluate our performance in collecting our accounts receivable through our calculation of days billings outstanding (“DBO”) rather than a typical days sales outstanding (“DSO”) calculation.  
+
+
+
+The increase in gross and net billed accounts receivable during 2018 is due to the addition of Business Ink’s accounts receivable and the timing around certain recurring client payments (from different clients) that were delayed at the end of the second and  
+
+
+third quarter. As these monthly payments were received subsequent to each quarter-end, they do not raise any collectability concerns. All other changes in our gross and net billed accounts receivable reflect the normal fluctuations in the timing of client payments at quarter-end, as evidenced by our relatively consistent DBO metric over the past several quarters. As of September 30, 2018, approximately 95% of our billed accounts receivable balance is less than 60 days past due.  
+
+
+Other Current and Non-Current Assets 
+
+Other current and non-current assets increased $10.3 million to $49.6 million as of September 30, 2018, from $39.3 million as of December 31, 2017, due primarily to the timing of payments of various prepaid items, mainly, prepaid software and hardware maintenance fees.  
+
+Additionally, as illustrated in Note 2 to our Financial Statements, as a result of the application of ASC 606, an additional $10.2 million of client contract costs are now being included in operating activities as changes in other current and non-current assets for the nine months ended September 30, 2018. Prior to the adoption of ASC 606, these were included with investments in client contracts and included in investing activities. 
+
+ Cash Flows from Investing Activities 
+
+
+
+
+
+
+As a result of the application of ASC 606, $7.3 million of investments in client contracts have been included in operating activities for the nine months ended September 30, 2018. Prior to the adoption of ASC 606, investments in client contracts were included in investing activities. 
+
+ Cash Flows from Financing Activities  
+
+Our financing activities typically consist of activities associated with our common stock and our long-term debt.  
+
+Cash Dividends Paid on Common Stock. During the nine months ended September 30, 2018 and 2017, the Board approved dividend payments totaling $21.2 million and $20.0 million, respectively. During the nine months ended September 30, 2018 and 2017, we paid dividends of $21.2 million and $20.4 million, respectively (with the additional amounts attributed to dividends for incentive shares paid upon vesting).  
+
+
+Repurchase of Common Stock. During the nine months ended September 30, 2018 and 2017, we repurchased 0.4 million shares of our common stock in each period under the guidelines of our Stock Repurchase Program for $16.8 million and $15.6 million, respectively.  
+
+Outside of our Stock Repurchase Program, during the nine months ended September 30, 2018 and 2017, we repurchased from our employees and then cancelled 0.2 million shares of our common stock in each period for $7.2 million and $9.4 million, respectively, in connection with minimum tax withholding requirements resulting from the vesting of restricted common stock under our stock incentive plans. 
+
+Long-term Debt. During the first quarter of 2018, we refinanced our 2015 Credit Agreement and as a result, we repaid the outstanding principal balance of $120.0 million and borrowed $150.0 million under the 2018 Credit Agreement, resulting in a net increase of available cash of $30.0 million. As part of the refinancing, we paid $1.5 million of deferred financing costs.  
+
+
+Additionally, during the nine months ended September 30, 2018 and 2017, we made principal repayments of $3.8 million and $11.3 million, respectively. 
+
+See Note 4 to our Financial Statements for additional discussion of our long-term debt. 
+
+Capital Resources  
+
+
+Current Sources of Capital Resources.  
+
+•  
+
+
+•  
+
+Operating Cash Flows. As described in the Liquidity section above, we believe we have the ability to generate strong cash flows to fund our operating activities and act as a source of funds for our capital resource needs.  
+
+•  
+
+Long-Term Debt\Revolving Credit Facility. In March 2018, we refinanced our 2015 Credit Agreement and as a result, we repaid the outstanding term loan principal balance of $120.0 million and borrowed $150.0 million, resulting in a net increase in cash of $30 million (the 2018 Credit Agreement). The 2018 Credit Agreement also includes a $200 million revolving loan facility (2018 Revolver). As of September 30, 2018, we had no borrowing outstanding on our 2018 Revolver and had the entire $200 million available to us. Our long-term debt obligations are discussed in more detail in Note 4 to our Financial Statements. 
+
+
+•  
+
+Common Stock Repurchases. We have made repurchases of our common stock in the past under our Stock Repurchase Program. As of September 30, 2018, we had 5.8 million shares authorized for repurchase remaining under our Stock Repurchase Program. Our 2018 Credit Agreement places certain limitations on our ability to repurchase our common stock.  
+
+In September 2018, we announced an increase in our planned share repurchases of up to $150 million under our Stock Repurchase Program over the next three years. Under our Stock Repurchase Program, we may repurchase shares in the open market or in privately negotiated transactions, including through an accelerated stock repurchase plan or under a SEC Rule 10b5-1 plan. The actual timing and amount of the share repurchases will be dependent on then current market conditions and other business-related factors over the next three years. 
+
+During the nine months ended September 30, 2018, we repurchased 0.4 million shares of our common stock for $16.9 million (weighted-average price of $42.71 per share).  
+
+
+Outside of our Stock Repurchase Program, during the nine months ended September 30, 2018, we repurchased from our employees and then cancelled 0.2 million shares of our common stock for $7.2 million in connection with minimum tax withholding requirements resulting from the vesting of restricted common stock under our stock incentive plans. 
+
+Our common stock repurchases are discussed in more detail in Note 10 to our Financial Statements. 
+
+•  
+
+Cash Dividends. During the nine months ended September 30, 2018, the Board declared dividends totaling $21.2 million. Going forward, we expect to pay cash dividends each year in March, June, September, and December, with the amount and timing subject to the Board’s approval. 
+
+•  
+
+Acquisitions. In February 2018, we acquired Business Ink, a privately-held multi-channel business communications company based in Austin, Texas for approximately $70 million. The acquisition was funded from currently available cash.  
+
+On October 1, 2018, we acquired Forte, a leading provider of advanced payment solutions headquartered in Allen, Texas for a purchase price of approximately $85 million, (approximately $80 million, net of cash acquired), and held back approximately $13 million in cash subject to certain tax filings. The purchase agreement includes provisions for $18.8 million of potential future earn-out payments over a four-year measurement period. The earn-out payments are tied to performance-based goals and continued employment by the eligible recipients. The acquisition was funded from currently available cash. 
+
+
+•  
+
+Equity Method Investment. On July 30, 2018, we made an investment of $2.8 million for a 4% noncontrolling financial interest in a payment technology and services company that enables omni-channel digital payments in Latin America. See Note 2 to our Financial Statements for additional discussion. 
+
+•  
+
+Capital Expenditures. During the nine months ended September 30, 2018, we spent $44.0 million on capital expenditures. As of September 30, 2018, we had committed to purchase approximately $9 million of equipment.  
+
+•  
+
+Stock Warrants. We have issued Stock Warrants with an exercise price of $26.68 per warrant to Comcast as an incentive for Comcast to convert new customer accounts to ACP. Once vested, Comcast may exercise the Stock Warrants and elect either physical delivery of common shares or net share settlement (cashless exercise). Alternatively, the exercise of the Stock Warrants may be settled with cash based solely on our approval, or if Comcast were to beneficially own or control in excess of 19.99% of our common stock or voting of the Company. As of September 30, 2018, approximately 1.4 million Stock Warrants are outstanding, of which 0.4 million are vested. 
+
+The Stock Warrants are discussed in more detail in Note 10 to our Financial Statements.  
+
+•  
+
+
+
+During the next twelve months, there are no scheduled conversion triggers on our 2016 Convertible Notes. As a result, we expect our required debt service cash outlay during the next twelve months for the 2016 Convertible Notes to be limited to interest payments of $9.8 million. 
+
+
+Our 2018 Credit Agreement mandatory repayments and the cash interest expense (based upon current interest rates) for the next twelve months is $7.5 million, and $6.1 million, respectively. We have the ability to make prepayments on our 2018 Credit Agreement without penalty.  
+
+Our long-term debt obligations are discussed in more detail in Note 4 to our Financial Statements.  
+
+In summary, we expect to continue to have material needs for capital resources going forward, as noted above. We believe that our current cash, cash equivalents and short-term investments balances and our 2018 Revolver, together with cash expected to be generated in the future from our current operating activities, will be sufficient to meet our anticipated capital resource requirements for  
+
+
+at least the next twelve months. We also believe we could obtain additional capital through other debt sources which may be available to us if deemed appropriate. 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+
+Market risk is the potential loss arising from adverse changes in market rates and prices. As of September 30, 2018, we are exposed to various market risks, including changes in interest rates, fluctuations and changes in the market value of our cash equivalents and short-term investments, and changes in foreign currency exchange rates. We have not historically entered into derivatives or other financial instruments for trading or speculative purposes.  
+
+Interest Rate Risk  
+
+Long-Term Debt. The interest rate on our 2016 Convertible Notes is fixed, and thus, as it relates to our convertible debt borrowings, we are not exposed to changes in interest rates.  
+
+The interest rates under our 2018 Credit Agreement are based upon an adjusted LIBOR rate plus an applicable margin, or an alternate base rate plus an applicable margin. See Note 4 to our Financial Statements for further details of our long-term debt.  
+
+A hypothetical adverse change of 10% in the September 30, 2018 adjusted LIBOR rate would not have had a material impact upon our results of operations.  
+
+Market Risk 
+
+Cash Equivalents and Short-term Investments. Our cash and cash equivalents as of September 30, 2018 and December 31, 2017 were $197.2 million and $122.3 million, respectively. Certain of our cash balances are “swept” into overnight money market accounts on a daily basis, and at times, any excess funds are invested in low-risk, somewhat longer term, cash equivalent instruments and short-term investments. Our cash equivalents are invested primarily in institutional money market funds, commercial paper, and time deposits held at major banks. We have minimal market risk for our cash and cash equivalents due to the relatively short maturities of the instruments.  
+
+
+Long-Term Debt. The fair value of our convertible debt is exposed to market risk. We do not carry our convertible debt at fair value but present the fair value for disclosure purposes (see Note 2 to our Financial Statements). Generally, the fair value of our convertible debt is impacted by changes in interest rates and changes in the price and volatility of our common stock. As of September 30, 2018, the fair value of the 2016 Convertible Notes was estimated at $242.7 million, using quoted market prices.  
+
+Foreign Currency Exchange Rate Risk  
+
+Due to foreign operations around the world, our balance sheet and income statement are exposed to foreign currency exchange risk due to the fluctuations in the value of currencies in which we conduct business. While we attempt to maximize natural hedges by incurring expenses in the same currency in which we contract revenue, the related expenses for that revenue could be in one or more differing currencies than the revenue stream.  
+
+During the nine months ended September 30, 2018, we generated approximately 87% of our revenues in U.S. dollars. We expect that, in the foreseeable future, we will continue to generate a very large percentage of our revenues in U.S. dollars.  
+
+
+
+
+A hypothetical adverse change of 10% in the September 30, 2018 exchange rates would not have had a material impact upon our results of operations based on the monetary assets and liabilities as of September 30, 2018.  
+
+Item 4. Controls and Procedures  
+
+
+As required by Rule 13a-15(b), our management, including the Chief Executive Officer (“CEO”) and Chief Financial Officer (“CFO”), conducted an evaluation as of the end of the period covered by this report of the effectiveness of our disclosure controls and procedures as defined in Rule 13a-15(e). Based on that evaluation, the CEO and CFO concluded that our disclosure controls and procedures were effective as of the end of the period covered by this report.  
+
+ (b) Internal Control Over Financial Reporting  
+
+As required by Rule 13a-15(d), our management, including the CEO and CFO, also conducted an evaluation of our internal control over financial reporting, as defined by Rule 13a-15(f), to determine whether any changes occurred during the quarter covered by this report that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. Based on that evaluation, the CEO and CFO concluded that there has been no such change during the quarter covered by this report. 
+
+
+CSG SYSTEMS INTERNATIONAL, INC. 
+
+PART II. OTHER INFORMATION  
+
+Item 1. Legal Proceedings  
+
+From time-to-time, we are involved in litigation relating to claims arising out of our operations in the normal course of business. We are not presently a party to any material pending or threatened legal proceedings.  
+
+Item 1A. Risk Factors  
+
+A discussion of our risk factors can be found in Item 1A. Risk Factors in our 2017 Form 10-K. There were no material changes to the risk factors disclosed in our 2017 Form 10-K during the third quarter of 2018. 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds  
+
+The following table presents information with respect to purchases of our common stock made during the third quarter of 2018 by CSG Systems International, Inc. or any “affiliated purchaser” of CSG Systems International, Inc., as defined in Rule 10b-18(a)(3) under the Exchange Act. 
+
+
+
+The total number of shares purchased that are not part of the Stock Repurchase Program represents shares purchased and cancelled in connection with stock incentive plans. 
+
+
+See Note 10 to our Financial Statements for additional information regarding our share repurchases. 
+
+Item 3. Defaults Upon Senior Securities  
+
+None  
+
+Item 4. Mine Safety Disclosures  
+
+None  
+
+Item 5. Other Information  
+
+None  
+
+Item 6. Exhibits  
+
+The Exhibits filed or incorporated by reference herewith are as specified in the Exhibit Index.  
+
+
+CSG SYSTEMS INTERNATIONAL, INC.  
+
+INDEX TO EXHIBITS  
+
+
+
+Portions of the exhibit have been omitted pursuant to an application for confidential treatment, and the omitted portions have been filed separately with the Commission.  
+
+
+SIGNATURES  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.  
+
+
+

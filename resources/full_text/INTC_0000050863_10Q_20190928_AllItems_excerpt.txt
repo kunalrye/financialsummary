@@ -1,0 +1,653 @@
+
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+
+
+
+
+ ☑QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+  For the quarterly period endedSeptember 28, 2019
+
+Or
+
+
+  For the transition period from   to  
+
+Commission File Number 000-06217 
+
+INTEL CORPORATION 
+
+
+
+
+
+
+
+
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☑ No ¨
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☑ No ¨
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+
+As of September 28, 2019, the registrant had outstanding 4,350 million shares of common stock. 
+THE ORGANIZATION OF OUR QUARTERLY REPORT ON FORM 10-Q
+
+The order and presentation of content in our Quarterly Report on Form 10-Q (Form 10-Q) differs from the traditional U.S. Securities and Exchange Commission (SEC) Form 10-Q format. We believe that our format improves readability and better presents how we organize and manage our business. See "Form 10-Q Cross-Reference Index" within Other Key Information for a cross-reference index to the traditional SEC Form 10-Q format. 
+
+The preparation of our consolidated condensed financial statements is in conformity with U.S. generally accepted accounting principles (GAAP). We have included key metrics that we use to measure our business, some of which are non-GAAP measures. See these "Non-GAAP Financial Measures" within Other Key Information. 
+
+FORWARD-LOOKING STATEMENTS
+
+This Quarterly Report on Form 10-Q contains forward-looking statements that involve a number of risks and uncertainties. Words such as "anticipates," "expects," "intends," "goals," "plans," "believes," "seeks," "estimates," "continues," "may," "will," "would," "should," "could," and variations of such words and similar expressions are intended to identify such forward-looking statements. In addition, any statements that refer to projections of our future financial performance, our anticipated growth and trends in our businesses, projected growth of markets relevant to our businesses, future products and technology and the expected availability and benefits of such products and technology, expected timing and impact of acquisitions, divestitures, and other significant transactions, expected completion of restructuring activities, uncertain events or assumptions, and other characterizations of future events or circumstances are forward-looking statements. Such statements are based on management's expectations as of the date of this filing and involve many risks and uncertainties that could cause our actual results to differ materially from those expressed or implied in our forward-looking statements. Such risks and uncertainties include those described throughout this report and our Annual Report on Form 10-K for the year ended December 29, 2018, particularly the "Risk Factors" sections of such reports. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. Readers are urged to carefully review and consider the various disclosures made in this Form 10-Q and in other documents we file from time to time with the SEC that disclose risks and uncertainties that may affect our business. Unless specifically indicated otherwise, the forward-looking statements in this Form 10-Q do not reflect the potential impact of any divestitures, mergers, acquisitions, or other business combinations that had not been completed as of the date of this filing. In addition, the forward-looking statements in this Form 10-Q are made as of the date of this filing, including expectations based on third-party information and projections that management believes to be reputable, and Intel does not undertake, and expressly disclaims any duty, to update such statements, whether as a result of new information, new developments, or otherwise, except to the extent that disclosure may be required by law.
+
+INTEL UNIQUE TERMS
+
+
+PLATFORM PRODUCTS A microprocessor (processor or central processing unit (CPU)) and chipset, a stand-alone System-on-Chip (SoC), or a multichip package, based on Intel® architecture. Platform products, or platforms, are primarily used in solutions sold through the Client Computing Group (CCG), Data Center Group (DCG), and Internet of Things Group (IOTG) segments.
+
+ADJACENT PRODUCTS All of our non-platform products for CCG, DCG, and IOTG, such as modem, Ethernet and silicon photonics, as well as Mobileye, Non-Volatile Memory Solutions Group (NSG), and Programmable Solutions Group (PSG) products. Combined with our platform products, adjacent products form comprehensive platform solutions to meet customer needs.
+
+PC-CENTRIC BUSINESS Our CCG business, including both platform and adjacent products.
+
+DATA-CENTRIC BUSINESSES Our DCG, Internet of Things (IOTG and Mobileye), NSG, PSG, and all other businesses.
+
+
+
+A QUARTER IN REVIEW
+
+Third quarter revenue was $19.2 billion as our data-centric businesses grew 6% year over year, offset by the PC-centric business decline of 5%. Data-centric revenue was up compared to a year ago, driven by a strong mix of high-performance Intel® Xeon® processors in our DCG business and growth across all businesses. Our PC-centric business was down on lower year over year platform volume, partially offset by a strong mix of higher performance products as the commercial segment of the PC market remained strong. Lower platform unit sales and margin compression on memory products resulted in lower gross margins and operating income, which was partially offset by platform ASP strength and lower investments in modem. In the first nine months we generated $23.3 billion of cash flow from operations and returned $14.3 billion to stockholders, including $4.2 billion in dividends and $10.1 billion in buybacks. 
+
+
+
+
+•We experienced growth across all data-centric businesses. DCG grew across all segments, with the cloud and enterprise and government market segments returning to growth. NSG grew with NAND and Intel® Optane™ bit growth, partially offset by lower NAND market pricing. Demand for edge compute drove double digit revenue growth for Mobileye and high single digit growth for IOTG. 
+
+•PC-centric decline was driven by lower product shipments compared to Q3 2018, when internal inventory was drawn on to meet demand, partially offset by adjacencies growth and ASP strength. We continued to be supply constrained in Q3, particularly at the value-end of the market, as higher than expected PC demand strength continues to outpace our supply despite capacity additions we have made this year. 
+
+•In July, we signed an agreement to divest the majority of our smartphone modem business, including certain employees, intellectual property, equipment and leases. The transaction enables us to increase the focus of our 5G efforts on the broader opportunity to modernize network and edge infrastructure, and is expected to close in the fourth quarter of 2019.
+
+1 See "Non-GAAP Financial Measures" within Other Key Information.
+
+ A QUARTER IN REVIEW 2
+CONSOLIDATED CONDENSED STATEMENTS OF INCOME 
+
+
+See accompanying notes. 
+
+ FINANCIAL STATEMENTS Consolidated Condensed Statements of Income3
+CONSOLIDATED CONDENSED STATEMENTS OF COMPREHENSIVE INCOME
+
+
+See accompanying notes. 
+
+ FINANCIAL STATEMENTS Consolidated Condensed Statements of Comprehensive Income4
+CONSOLIDATED CONDENSED BALANCE SHEETS 
+
+
+See accompanying notes.
+
+ FINANCIAL STATEMENTS Consolidated Condensed Balance Sheets5
+CONSOLIDATED CONDENSED STATEMENTS OF CASH FLOWS
+
+
+See accompanying notes.
+
+ FINANCIAL STATEMENTS Consolidated Condensed Statements of Cash Flows6
+CONSOLIDATED CONDENSED STATEMENTS OF STOCKHOLDERS' EQUITY
+
+
+See accompanying notes.
+
+ FINANCIAL STATEMENTS Consolidated Condensed Statements of Stockholders' Equity7
+NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS 
+
+
+
+We have made estimates and judgments affecting the amounts reported in our consolidated condensed financial statements and the accompanying notes. The actual results that we experience may differ materially from our estimates. The interim financial information is unaudited, and reflects all normal adjustments that are, in our opinion, necessary to provide a fair statement of results for the interim periods presented. This report should be read in conjunction with the consolidated financial statements in our 2018 Form 10-K. 
+
+
+We assess the adoption impacts of recently issued accounting standards by the Financial Accounting Standards Board on our financial statements and below describe impacts from newly adopted standards, as well as material updates to our previous assessments, if any, from our 2018 Form 10-K. 
+
+ACCOUNTING STANDARDS ADOPTED
+
+Leases
+
+
+
+
+
+We recognized leased assets in other long-term assets of $652 million and corresponding accrued liabilities of $174 million, and other long-term liabilities of $399 million as of September 28, 2019. Our leases have remaining lease terms of 1 to 9 years, some of which may include options to extend the leases for up to 39 years. The weighted average remaining lease term was 4.8 years, and the weighted average discount rate was 3.4% as of September 28, 2019. 
+
+
+
+ FINANCIAL STATEMENTS Notes to Financial Statements8
+
+
+
+
+•Client Computing Group (CCG)
+
+•Data Center Group (DCG)
+
+•Internet of Things Group (IOTG)
+
+•Mobileye 
+
+•Non-Volatile Memory Solutions Group (NSG)
+
+•Programmable Solutions Group (PSG)
+
+•All Other
+
+We offer platform products that incorporate various components and technologies, including a microprocessor and chipset, a stand-alone SoC, or a multichip package. A platform product may be enhanced by additional hardware, software, and services offered by Intel. Platform products are used in various form factors across our CCG, DCG, and IOTG operating segments. We derive a substantial majority of our revenue from platform products, which are our principal products and considered as one class of product. 
+
+CCG and DCG are our reportable operating segments. IOTG, Mobileye, NSG, and PSG do not meet the quantitative thresholds to qualify as reportable operating segments; however, we have elected to disclose the results of these non-reportable operating segments. Our Internet of Things portfolio, presented as Internet of Things, is comprised of IOTG and Mobileye operating segments. 
+
+
+•results of operations from non-reportable segments not otherwise presented;
+
+•historical results of operations from divested businesses; 
+
+•results of operations of start-up businesses that support our initiatives, including our foundry business;  
+
+•amounts included within restructuring and other charges;  
+
+•a portion of employee benefits, compensation, and other expenses not allocated to the operating segments; and 
+
+•acquisition-related costs, including amortization and any impairment of acquisition-related intangibles and goodwill. 
+
+The Chief Operating Decision Maker (CODM), which is our Chief Executive Officer (CEO), does not evaluate operating segments using discrete asset information. Operating segments do not record inter-segment revenue. We do not allocate gains and losses from equity investments, interest and other income, or taxes to operating segments. Although the CODM uses operating income to evaluate the segments, operating costs included in one segment may benefit other segments. Except for these differences, the accounting policies for segment reporting are the same as for Intel as a whole.
+
+ FINANCIAL STATEMENTS Notes to Financial Statements9
+
+
+ FINANCIAL STATEMENTS Notes to Financial Statements10
+
+
+1 Includes our tablet and service provider revenue.
+
+
+Includes all of our non-platform products for CCG, DCG, and IOTG such as modem, Ethernet, and silicon photonics, as well as Mobileye, NSG, and PSG products.
+
+Planned divestiture of smartphone modem business
+
+On July 25, 2019, we signed a definitive agreement to sell the majority of our smartphone modem business. We will continue to meet current customer commitments for our existing 4G smartphone modem product line. We expect to close the transaction, which will include certain employees, intellectual property, equipment and leases, in the fourth quarter of 2019. $235 million net assets of the modem business are classified as held for sale. We expect to record a gain on divestiture of approximately $500 million, net of tax. 
+
+
+We computed basic earnings per share of common stock based on the weighted average number of shares of common stock outstanding during the period. We computed diluted earnings per share of common stock based on the weighted average number of shares of common stock outstanding plus potentially dilutive shares of common stock outstanding during the period. 
+
+
+Potentially dilutive shares of common stock from employee equity incentive plans are determined by applying the treasury stock method to the assumed exercise of outstanding stock options, the assumed vesting of outstanding restricted stock units (RSUs), and the assumed issuance of common stock under the stock purchase plan. Our 3.25% junior subordinated convertible debentures due 2039 (2009 debentures) require settlement of the principal amount of the debt in cash upon conversion. Since the conversion premium is paid in cash or stock at our option, we determined the potentially dilutive shares of common stock by applying the treasury stock method. We included our 2009 debentures in the calculation of diluted earnings per share of common stock in all periods presented because the average market price was above the conversion price.
+
+Securities which would have been anti-dilutive are insignificant and are excluded from the computation of diluted earnings per share in all periods presented.
+
+ FINANCIAL STATEMENTS Notes to Financial Statements11
+
+
+Contract liabilities are primarily related to partial prepayments received from customers on long-term supply agreements towards future NSG product delivery. The timing and amount of future anticipated revenues may vary from our expectations due to changes in supply, demand, and market pricing.
+
+As new prepaid supply agreements are entered into and performance obligations are negotiated, this component of the contract liability balance will increase, and as customers purchase product and utilize their prepaid balances, the balance will decrease. The short-term portion of prepayments from supply agreements is reported on the consolidated condensed balance sheets within other accrued liabilities.
+
+
+
+
+INVENTORIES
+
+
+INTEREST AND OTHER, NET
+
+
+
+Interest expense in the preceding table is net of $122 million of interest capitalized in the third quarter of 2019 and $366 million in the first nine months of 2019 ($142 million in the third quarter of 2018 and $381 million in the first nine months of 2018).
+
+In the second quarter of 2018, we completed the divestiture of Wind River, and recognized a pre-tax gain of $494 million.
+
+ FINANCIAL STATEMENTS Notes to Financial Statements12
+
+A restructuring program was approved in the second quarter of 2019 to align our workforce with the planned exit of the smartphone modem business. We expect these actions to be substantially complete in the second quarter of 2020. 
+
+
+
+
+DEBT INVESTMENTS
+
+Trading Assets
+
+Net losses related to trading assets still held at the reporting date were $75 million in the third quarter of 2019 and net gains were $21 million in the first nine months of 2019 ($4 million of net losses in the third quarter of 2018 and $169 million of net losses in the first nine months of 2018). Net gains on the related derivatives were $81 million in the third quarter of 2019 and net losses were $7 million in the first nine months of 2019 (net losses of $11 million in the third quarter of 2018 and net gains of $159 million in the first nine months of 2018). 
+
+Available-for-Sale Debt Investments
+
+
+Government debt includes instruments such as non-U.S. government bonds and U.S. agency securities. Financial institution instruments include instruments issued or managed by financial institutions in various forms such as commercial paper, fixed and floating rate bonds, money market fund deposits, and time deposits. Substantially all time deposits were issued by institutions outside the U.S. as of September 28, 2019 and December 29, 2018.
+
+
+
+ FINANCIAL STATEMENTS Notes to Financial Statements13
+EQUITY INVESTMENTS
+
+
+
+
+1 Sale of equity investments and other includes realized gains (losses) on sales of non-marketable equity investments, our share of equity method investee gains (losses) and distributions, and initial fair value adjustments recorded upon a security becoming marketable. 
+
+
+
+IM Flash Technologies, LLC
+
+IM Flash Technologies, LLC (IMFT) was formed in 2006 by Micron Technology, Inc. (Micron) and Intel to jointly develop NAND flash memory and 3D XPoint™ technology products. IMFT is an unconsolidated variable interest entity and all costs of IMFT are passed on to Micron and Intel through sale of products or services in proportional share of ownership. As of September 28, 2019, we own a 49% interest in IMFT. Our portion of IMFT costs was approximately $140 million in the third quarter of 2019 and approximately $496 million in the first nine months of 2019 (approximately $97 million in the third quarter of 2018 and $324 million in the first nine months of 2018).
+
+IMFT depends on Micron and Intel for any additional cash needs to be provided in the form of cash calls or member debt financing (MDF). Extensions of MDF may be converted to a capital contribution at the lender's request, or may be repaid upon availability of funds. During the first nine months of 2019, IMFT repaid $432 million of MDF to Intel. The carrying balance of our equity method investment in IMFT as of September 28, 2019 is $1.1 billion. 
+
+In January 2019, Micron exercised its right to call our interest in IMFT. The sale of our non-controlling interest in IMFT to Micron is expected to close on October 31, 2019. We will continue to purchase product manufactured at the IMFT facility for a period of up to one year following the close date. 
+
+ASML Holding N.V.
+
+As of December 29, 2018, Intel owned $1.1 billion in ASML Holding N.V. (ASML). We have fully sold our equity investment in ASML.
+
+ FINANCIAL STATEMENTS Notes to Financial Statements14
+
+In the first nine months of 2019, we settled conversion requests for our 2009 debentures totaling $590 million in principal, resulting in a cumulative loss of $148 million recorded in interest and other, net. In the first nine months of 2018, we settled conversion requests for our 2009 debentures totaling $793 million in principal, resulting in a cumulative loss of $211 million. 
+
+During the first nine months of 2019, we received proceeds of $648 million in aggregate from the sale of bonds issued by the Industrial Development Authority of the City of Chandler, Arizona (the Arizona bonds) and the State of Oregon Business Development Commission (the Oregon bonds). The bonds are our unsecured general obligations in accordance with loan agreements we entered into with the Industrial Development Authority of the City of Chandler, Arizona and the State of Oregon Business Development Commission. The bonds mature in 2049 and carry an interest rate of 5.0%. The Arizona bonds and the Oregon bonds are subject to mandatory tender in June 2024 and March 2022, respectively, at which time we can re-market the bonds as either fixed-rate bonds for a specified period or as variable-rate bonds until another fixed-rate period is selected or until their final maturity date.
+
+ FINANCIAL STATEMENTS Notes to Financial Statements15
+
+
+ASSETS AND LIABILITIES MEASURED AND RECORDED AT FAIR VALUE ON A RECURRING BASIS
+
+
+1 Level 1 investments consist of money market funds. Level 2 investments consist primarily of commercial paper, certificates of deposit, time deposits, and notes and bonds issued by financial institutions.
+
+2 Level 2 investments consist primarily of U.S. agency notes and non-U.S. government debt.
+
+
+The fair value of our loans receivable for which we elected the fair value option did not significantly differ from the contractual principal balance based on the contractual currency.
+
+ FINANCIAL STATEMENTS Notes to Financial Statements16
+ASSETS MEASURED AND RECORDED AT FAIR VALUE ON A NON-RECURRING BASIS
+
+Our non-marketable equity securities, equity method investments, and certain non-financial assets, such as intangible assets and property, plant and equipment, are recorded at fair value only if an impairment or observable price adjustment is recognized in the current period. If an observable price adjustment or impairment is recognized on our non-marketable equity securities during the period, we classify these assets as Level 3 within the fair value hierarchy based on the nature of the fair value inputs. 
+
+FINANCIAL INSTRUMENTS NOT RECORDED AT FAIR VALUE ON A RECURRING BASIS
+
+Financial instruments not recorded at fair value on a recurring basis include non-marketable equity securities (that have not been re-measured or impaired in the current period), equity method investments, grants receivable, loans receivable, reverse repurchase agreements, and our short-term and long-term debt.
+
+As of September 28, 2019, the aggregate carrying value of grants receivable, loans receivable, and reverse repurchase agreements was $1.3 billion (the aggregate carrying amount as of December 29, 2018 was $833 million). The estimated fair value of these financial instruments approximates their carrying value and is categorized as Level 2 within the fair value hierarchy based on the nature of the fair value inputs.
+
+As of September 28, 2019, the fair value of short and long-term debt (excluding drafts payable) was $30.3 billion (the fair value as of December 29, 2018 was $27.1 billion). These liabilities are classified as Level 2 within the fair value hierarchy based on the nature of the fair value inputs. 
+
+
+
+VOLUME OF DERIVATIVE ACTIVITY
+
+
+
+FAIR VALUE OF DERIVATIVE INSTRUMENTS 
+
+
+1 Derivative assets are recorded as other assets, current and non-current.
+
+2 Derivative liabilities are recorded as other liabilities, current and non-current.
+
+
+The majority of these instruments mature within 12 months.
+
+ FINANCIAL STATEMENTS Notes to Financial Statements17
+AMOUNTS OFFSET IN THE CONSOLIDATED CONDENSED BALANCE SHEETS
+
+
+
+
+We obtain and secure available collateral from counterparties against obligations, including securities lending transactions and reverse repurchase agreements, when we deem it appropriate.
+
+DERIVATIVES IN CASH FLOW HEDGING RELATIONSHIPS
+
+The before-tax net gains or losses attributed to the effective portion of cash flow hedges, recognized in other comprehensive income (loss), were $203 million net losses in the third quarter of 2019 and $52 million net losses in the first nine months of 2019 ($69 million net losses in the third quarter of 2018 and $203 million net losses in the first nine months of 2018). Substantially all of our cash flow hedges were foreign currency contracts for all periods presented.
+
+During the first nine months of 2019 and 2018, the amounts excluded from effectiveness testing were insignificant. 
+
+ FINANCIAL STATEMENTS Notes to Financial Statements18
+DERIVATIVES IN FAIR VALUE HEDGING RELATIONSHIPS
+
+
+
+
+
+
+DERIVATIVES NOT DESIGNATED AS HEDGING INSTRUMENTS
+
+
+
+
+LEGAL PROCEEDINGS
+
+We are a party to various legal proceedings, including those noted in this section. Although management at present believes that the ultimate outcome of these proceedings, individually and in the aggregate, will not materially harm our financial position, results of operations, cash flows, or overall trends, legal proceedings and related government investigations are subject to inherent uncertainties, and unfavorable rulings or other events could occur. Unfavorable resolutions could include substantial monetary damages. In addition, in matters for which injunctive relief or other conduct remedies are sought, unfavorable resolutions could include an injunction or other order prohibiting us from selling one or more products at all or in particular ways, precluding particular business practices, or requiring other remedies. An unfavorable outcome may result in a material adverse impact on our business, results of operations, financial position, and overall trends. We might also conclude that settling one or more such matters is in the best interests of our stockholders, employees, and customers, and any such settlement could include substantial payments. Except as specifically described below, we have not concluded that settlement of any of the legal proceedings noted in this section is appropriate at this time.
+
+ FINANCIAL STATEMENTS Notes to Financial Statements19
+European Commission Competition Matter
+
+In 2001, the European Commission (EC) commenced an investigation regarding claims by Advanced Micro Devices, Inc. (AMD) that we used unfair business practices to persuade customers to buy our microprocessors. We received numerous requests for information and documents from the EC and we responded to each of those requests. The EC issued a Statement of Objections in July 2007 and held a hearing on that Statement in March 2008. The EC issued a Supplemental Statement of Objections in July 2008. In May 2009, the EC issued a decision finding that we had violated Article 82 of the EC Treaty and Article 54 of the European Economic Area Agreement. In general, the EC found that we violated Article 82 (later renumbered as Article 102 by a new treaty) by offering alleged "conditional rebates and payments" that required our customers to purchase all or most of their x86 microprocessors from us. The EC also found that we violated Article 82 by making alleged "payments to prevent sales of specific rival products." The EC imposed a fine in the amount of €1.1 billion ($1.4 billion as of May 2009), which we subsequently paid during the third quarter of 2009, and ordered us to "immediately bring to an end the infringement referred to in" the EC decision.
+
+The EC decision contained no specific direction on whether or how we should modify our business practices. Instead, the decision stated that we should "cease and desist" from further conduct that, in the EC's opinion, would violate applicable law. We took steps, which are subject to the EC's ongoing review, to comply with that decision pending appeal. We had discussions with the EC to better understand the decision and to explain changes to our business practices.
+
+We appealed the EC decision to the Court of First Instance (which has been renamed the General Court) in July 2009. The hearing of our appeal took place in July 2012. In June 2014, the General Court rejected our appeal in its entirety. In August 2014, we filed an appeal with the European Court of Justice. In November 2014, Intervener Association for Competitive Technologies filed comments in support of Intel’s grounds of appeal. The EC and interveners filed briefs in November 2014, we filed a reply in February 2015, and the EC filed a rejoinder in April 2015. The Court of Justice held oral argument in June 2016. In October 2016, Advocate General Wahl, an advisor to the Court of Justice, issued a non-binding advisory opinion that favored Intel on a number of grounds. The Court of Justice issued its decision in September 2017, setting aside the judgment of the General Court and sending the case back to the General Court to examine whether the rebates at issue were capable of restricting competition. The General Court has appointed a panel of five judges to consider our appeal of the EC’s 2009 decision in light of the Court of Justice’s clarifications of the law. In November 2017, the parties filed initial “Observations” about the Court of Justice’s decision and the appeal, and were invited by the General Court to offer supplemental comments to each other’s “Observations,” which the parties submitted in March 2018. Responses to other questions posed by the General Court were filed in May and June 2018. We anticipate that the General Court will schedule oral argument for early 2020. Pending the final decision in this matter, the fine paid by Intel has been placed by the EC in commercial bank accounts where it accrues interest.
+
+McAfee, Inc. Shareholder Litigation
+
+On August 19, 2010, we announced that we had agreed to acquire all of the common stock of McAfee, Inc. (McAfee) for $48.00 per share. Four McAfee shareholders filed putative class-action lawsuits in Santa Clara County, California Superior Court challenging the proposed transaction. The cases were ordered consolidated in September 2010. Plaintiffs filed an amended complaint that named former McAfee board members, McAfee, and Intel as defendants, and alleged that the McAfee board members breached their fiduciary duties and that McAfee and Intel aided and abetted those breaches of duty. The complaint requested rescission of the merger agreement, such other equitable relief as the court may deem proper, and an award of damages in an unspecified amount. In June 2012, the plaintiffs’ damages expert asserted that the value of a McAfee share for the purposes of assessing damages should be $62.08.
+
+In January 2012, the court certified the action as a class action, appointed the Central Pension Laborers’ Fund to act as the class representative, and scheduled trial to begin in January 2013. In March 2012, defendants filed a petition with the California Court of Appeal for a writ of mandate to reverse the class certification order; the petition was denied in June 2012. In March 2012, at defendants’ request, the court held that plaintiffs were not entitled to a jury trial and ordered a bench trial. In April 2012, plaintiffs filed a petition with the California Court of Appeal for a writ of mandate to reverse that order, which the court of appeal denied in July 2012. In August 2012, defendants filed a motion for summary judgment. The trial court granted that motion in November 2012 and entered final judgment in the case in February 2013. In April 2013, plaintiffs appealed the final judgment. The California Court of Appeal heard oral argument in October 2017, and in November 2017, affirmed the judgment as to McAfee's nine outside directors, reversed the judgment as to former McAfee director and chief executive officer David DeWalt, Intel, and McAfee, and affirmed the trial court's ruling that the plaintiffs are not entitled to a jury trial. At a June 2018 case management conference following remand, the Superior Court set an October hearing date for any additional summary judgment motions that may be filed, and set trial to begin in December 2018. In July 2018, plaintiffs filed a motion for leave to amend the complaint, which the court denied in September 2018. Also, in July 2018, McAfee and Intel filed a motion for summary judgment on the aiding and abetting claims asserted against them; in October 2018, the court granted the motion as to McAfee and denied the motion as to Intel. 
+
+The parties agreed in principle to settle the case in late October 2018, and finalized the settlement agreement in March 2019. The court granted plaintiffs' motion for preliminary approval of the settlement in May 2019, and granted plaintiffs' motion for final approval of the settlement in October 2019. The settlement requires an aggregate payment by defendants of $12 million. Intel’s contribution to the settlement is immaterial to its financial statements. 
+
+ FINANCIAL STATEMENTS Notes to Financial Statements20
+Litigation Related to Security Vulnerabilities
+
+In June 2017, a Google research team notified us and other companies that it had identified security vulnerabilities (now commonly referred to as “Spectre” and “Meltdown”) that affect many types of microprocessors, including our products. As is standard when findings like these are presented, we worked together with other companies in the industry to verify the research and develop and validate software and firmware updates for impacted technologies. On January 3, 2018, information on the security vulnerabilities was publicly reported, before software and firmware updates to address the vulnerabilities were made widely available. Numerous lawsuits have been filed against Intel and, in certain cases, our current and former executives and directors, in U.S. federal and state courts and in certain courts in other countries relating to the Spectre and Meltdown security vulnerabilities, as well as another variant of these vulnerabilities (“Foreshadow”) that has since been identified.
+
+
+In addition to these lawsuits, Intel stockholders have filed multiple shareholder derivative lawsuits since January 2018 against certain current and former members of our Board of Directors and certain current and former officers, alleging that the defendants breached their duties to Intel in connection with the disclosure of the security vulnerabilities and the failure to take action in relation to alleged insider trading. The complaints seek to recover damages from the defendants on behalf of Intel. Some of the derivative actions were filed in the U.S. District Court for the Northern District of California and were consolidated, and the others were filed in the Superior Court of the State of California in San Mateo County and were consolidated. The federal court granted defendants' motion to dismiss the consolidated complaint in the federal action in August 2018 on the ground that plaintiffs failed to plead facts sufficient to show they were excused from making a pre-lawsuit demand on the Board. The federal court granted plaintiffs leave to amend their complaint, but subsequently dismissed the cases without prejudice in January 2019 at plaintiffs' request. In August 2018, the California Superior Court granted defendants' motion to dismiss the consolidated complaint in the state court action on the ground that plaintiffs failed to plead facts sufficient to show they were excused from making a pre-lawsuit demand on the Board, but granted plaintiffs leave to amend. In July 2019, the California Superior Court dismissed plaintiffs' amended complaint on the same grounds as the previous complaint, but again granted plaintiffs leave to amend. Defendants' motion to dismiss plaintiffs' second amended complaint is scheduled for hearing in November 2019. 
+
+ FINANCIAL STATEMENTS Notes to Financial Statements21
+
+Third quarter revenue was $19.2 billion as our data-centric businesses grew 6% year over year, offset by the PC-centric business decline of 5%. Data-centric revenue was up compared to a year ago, driven by a strong mix of high-performance Intel® Xeon® processors in our DCG business and growth across all businesses. Our PC-centric business was down on lower year over year platform volume, partially offset by a strong mix of higher performance products as the commercial segment of the PC market remained strong. Lower platform unit sales and margin compression on memory products resulted in lower gross margins and operating income, which was partially offset by platform ASP strength and lower investments in modem. In the first nine months we generated $23.3 billion of cash flow from operations and returned $14.3 billion to stockholders, including $4.2 billion in dividends and $10.1 billion in buybacks. For key highlights of the results of our operations, see "A Quarter in Review." 
+
+
+REVENUE
+
+ SEGMENT REVENUE WALKS $B 
+
+ Q3 2019 vs. Q3 2018 YTD 2019 vs. YTD 2018 
+
+Q3 2019 vs. Q3 2018 
+
+Our Q3 2019 revenue was $19.2 billion, flat from Q3 2018. Compared to a year ago, our data-centric businesses were collectively up 6% as platform ASPs increased due to richer core mix and NAND bit growth, partially offset by NSG ASP decline due to lower NAND market pricing. Revenue for our PC-centric business decreased by 5% year over year, primarily driven by platform volume decline compared to Q3 2018, when internal inventory was drawn on to meet demand, offset by ASP strength in our commercial market segment.
+
+YTD 2019 vs. YTD 2018 
+
+Our YTD 2019 revenue was $51.8 billion, down $435 million, or 1% from YTD 2018. Our data-centric businesses were collectively down 2% as demand from enterprise and government data center customers weakened in the first half of 2019 and NSG ASPs declined due to lower NAND market pricing. Revenue for our PC-centric business was flat YTD 2019 compared to YTD 2018.
+
+GROSS MARGIN
+
+We derived most of our overall gross margin dollars from the sale of platform products in the CCG and DCG operating segments. Our overall gross margin dollars in Q3 2019 decreased by $1.1 billion, or 8.6% compared to Q3 2018.
+
+GROSS MARGIN $B
+
+
+
+OPERATING EXPENSES
+
+
+ RESEARCH AND DEVELOPMENT $B MARKETING, GENERAL AND ADMINISTRATIVE $B
+
+
+RESEARCH AND DEVELOPMENT
+
+Q3 2019 – Q3 2018 
+
+
+-Ramp down of 5G smartphone modem business
+
+-Profit dependent compensation due to a decrease in net income
+
++Investments in data-centric businesses
+
+YTD 2019 – YTD 2018 
+
+
+-Ramp down of 5G smartphone modem business and other projects
+
+-Corporate spending efficiencies
+
+-Profit dependent compensation due to a decrease in net income
+
++Investments in data-centric businesses
+
++Investments in process technology 
+
+MARKETING, GENERAL AND ADMINISTRATIVE
+
+Q3 2019 – Q3 2018 
+
+
+-Corporate spending efficiencies 
+
+-Profit dependent compensation due to a decrease in net income
+
+YTD 2019 – YTD 2018
+
+
+-Corporate spending efficiencies 
+
+-Profit dependent compensation due to a decrease in net income
+
+-Lack of expenses due to the Wind River Divestiture
+
+CLIENT COMPUTING GROUP (CCG)
+
+CCG is our largest business unit. The PC market remains a critical facet of our business, providing an important source of intellectual property, scale, and cash flow. CCG is dedicated to delivering client computing end-user solutions, focusing on higher growth segments of 2-in-1, thin-and-light, commercial, and gaming, as well as growing adjacencies such as WiFi and Thunderbolt™ technology. CCG is the human edge in a data-centric world. We deploy platforms that connect people to data and analytics, allowing each person to focus, create, and connect in ways that unlock their individual potential. We continued to be supply constrained in Q3, particularly at the value-end of the market, as higher than expected PC demand strength continues to outpace our supply despite capacity additions we have made this year. 
+
+We will be exiting the 5G smartphone modem business, while continuing to meet current customer commitments for our existing 4G modem product lines. We continue to pursue opportunities for 4G and 5G modems in PCs, as well as Internet of Things and other data-centric devices.
+
+ CCG REVENUE $B CCG OPERATING INCOME $B
+
+ ■ Platform■ Adjacent
+
+REVENUE SUMMARY
+
+Our revenue in Q3 2019 was down 5% compared to Q3 2018, and flat YTD 2019 compared to YTD 2018. Q3 revenue decreased year over year driven by platform volume decline compared to Q3 2018, when internal inventory was drawn on to meet demand, offset by ASP strength from richer commercial segment mix and modem growth. Revenue was flat year to date compared to 2018, as the decline in platform volume was mostly offset by ASP strength from richer commercial segment mix and modem growth. 
+
+
+OPERATING INCOME SUMMARY
+
+Operating income in Q3 2019 decreased 5% from Q3 2018, with an operating margin of 44%. Operating income YTD 2019 increased 5% from YTD 2018, with an operating margin of 41%. 
+
+
+DATA CENTER GROUP (DCG)
+
+DCG develops workload-optimized platforms for compute, storage, and network functions. Customers include cloud service providers, enterprise and government, and communications service providers. DCG is fueled by demand in key workloads like artificial intelligence and network function virtualization across key market segments. 
+
+ DCG REVENUE $B DCG OPERATING INCOME $B
+
+ ■ Platform■ Adjacent
+
+REVENUE SUMMARY
+
+DCG delivered record revenue in Q3 2019, up 4% compared to Q3 2018 primarily driven by platform ASP strength partially offset by a decline in platform volume. In Q3 2019, revenue in the enterprise and government market segment was up 1%, cloud service providers market segment was up 3%, and the communication service providers market segment was up 11% year over year. Revenue was down 4% YTD 2019 compared to YTD 2018 as customers worked through inventory and the total addressable market (TAM) contracted in the enterprise and government market segment in the first half of 2019, partially offset by platform ASP strength and adjacencies growth. 
+
+
+OPERATING INCOME SUMMARY
+
+Operating income in Q3 2019 increased 1% from Q3 2018, with an operating margin of 49%. Operating income YTD 2019 decreased 20% from YTD 2018, with an operating margin of 42%. 
+
+
+INTERNET OF THINGS 
+
+As more intelligence is moving to the edge, more industries want to harness the power of data to create business value, innovate, and grow. We are using our architecture, accelerators, and software assets, combined with scale and partners, to develop a growing Internet of Things portfolio. Our Internet of Things portfolio is comprised of our Internet of Things Group (IOTG) and Mobileye businesses. 
+
+IOTG develops high-performance compute for targeted verticals and embedded markets. Our customers include retailers, manufacturers, health care providers, energy companies, automakers, and governments. We facilitate our customers creating, storing, and processing data generated by connected devices to accelerate business transformations. 
+
+Mobileye is the global leader in the development of computer vision and machine learning-based sensing, data analysis, localization, mapping, and driving policy technology for advanced driver assistance systems (ADAS) and autonomous driving. Mobileye’s ADAS products form the building blocks for higher levels of autonomy that are being pursued by the automotive industry. Our customers and strategic partners include major U.S. and global Tier 1 automotive system integrators.
+
+ INTERNET OF THINGS REVENUE $B INTERNET OF THINGS OPERATING INCOME $B 
+
+
+REVENUE AND OPERATING INCOME SUMMARY
+
+Q3 2019 vs. Q3 2018
+
+IOTG delivered record net revenue of $1.0 billion, up $86 million, due to higher platform unit sales and higher ASPs from richer core mix. Operating income was $309 million, down $12 million driven by higher period charges offset by higher platform revenue. 
+
+Mobileye recognized record net revenue of $229 million, up $38 million due to increasing adoption of ADAS. Operating income was $67 million, up $15 million. 
+
+YTD 2019 vs. YTD 2018
+
+IOTG net revenue was $2.9 billion, up $262 million, due to $230 million higher ASPs from richer core mix and $90 million higher platform unit sales, partially offset by lower revenue from our divestiture of Wind River in Q2 2018, which negatively impacted the revenue comparison by approximately $153 million in the first half of 2019. After adjusting for the Wind River divestiture, IOTG revenue grew 17%. Operating income was $854 million, up $63 million, primarily driven by higher platform revenue from richer core mix. 
+
+Mobileye net revenue was $639 million, up $124 million due to increasing adoption of ADAS. Operating income was $188 million, up $82 million.
+
+NON-VOLATILE MEMORY SOLUTIONS GROUP (NSG)
+
+NSG's core offerings include Intel® Optane™ and Intel® 3D NAND Technology, driving innovation in SSDs and next-generation memory and storage products. Our customers include enterprise and cloud-based data centers, and users of business and consumer desktops and laptops. We are ramping 64-layer (64L) triple-level cell (TLC) and quad-level cell (QLC) NAND technologies, and Intel® Optane™ technology in innovative new form factors and densities to address the challenges our customers face in a rapidly evolving technological landscape.  
+
+ NSG REVENUE $B NSG OPERATING INCOME $B
+
+REVENUE AND OPERATING INCOME SUMMARY
+
+Q3 2019 vs. Q3 2018
+
+NSG recognized record net revenue of $1.3 billion, up $209 million from Q3 2018, driven by $1.7 billion higher volume due to an increase in demand for NAND products offset by a $1.5 billion impact from lower ASP due to lower NAND market pricing. NSG had an operating loss of $499 million in Q3 2019, down $659 million from a Q3 2018 operating profit of $160 million. While we continued to see the ramp at Fab 68 drive cost improvements, the decline in ASP and the absence of $160 million in government grants recognized in Q3 2018 more than offset the improved unit cost, resulting in lower gross margins. 
+
+YTD 2019 vs. YTD 2018 
+
+Net revenue was $3.1 billion, down $55 million, driven by a $3.2 billion impact from lower ASP due to lower NAND market pricing, offset by $3.1 billion higher volume due to an increase in demand for NAND products. NSG had an operating loss of $1.1 billion, down $1.1 billion from a Q3 YTD 2018 operating profit of $14 million. While we continued to see the ramp at Fab 68 drive cost improvements, the decline in ASP and the absence of $160 million in government grants recognized in Q3 2018 more than offset the improved unit cost, resulting in lower gross margins. 
+
+PROGRAMMABLE SOLUTIONS GROUP (PSG)
+
+PSG offers programmable semiconductors, primarily field-programmable gate array (FPGAs) and related products, for a broad range of market segments, including communications, data center, industrial, and military. PSG collaborates with the other Intel businesses to deliver FPGA acceleration in tandem with Intel microprocessors. This "better together" integration broadens the use of FPGAs and combines the benefits of both technologies to allow more flexibility for systems to operate with increased efficiency and higher performance.  
+
+ PSG REVENUE $B PSG OPERATING INCOME $B
+
+REVENUE AND OPERATING INCOME SUMMARY
+
+Q3 2019 vs. Q3 2018
+
+
+YTD 2019 vs. YTD 2018 
+
+Revenue was $1.5 billion, down $29 million, driven by a decline in our cloud and enterprise market segment, offset by strength in wireless and advanced products (28nm, 20nm, and 14nm process technologies). Operating income was $233 million, down $71 million. 
+
+GAINS (LOSSES) ON EQUITY INVESTMENTS AND INTEREST AND OTHER, NET
+
+
+Gains (losses) on equity investments, net
+
+We recognized a net gain during Q3 2019 of $318 million due to ongoing mark-to-market gains of $114 million, primarily related to Cloudera, Inc. (Cloudera), and observable price adjustments of $84 million. We recognized a net gain during the first nine months of 2019 primarily due to dividends of $515 million from McAfee and ongoing mark-to-market gains from ASML Holdings N.V. (ASML), partially offset by ongoing mark-to-market losses from Cloudera. We have fully sold our equity investment in ASML.
+
+We recognized a net loss during Q3 2018 primarily due to an impairment charge of $290 million from our equity method investment in IM Flash Technologies, LLC (IMFT). We recognized a net gain during the first nine months of 2018 primarily due to ongoing mark-to-market gains of $379 million on our marketable equity securities, primarily related to our interests in ASML and Cloudera, partially offset by the IMFT impairment charge. 
+
+Interest and other, net
+
+For the nine months ended September 28, 2019, we paid $1.5 billion to satisfy conversion obligations for $590 million of our $2.0 billion 3.25% junior subordinated convertible debentures due 2039 (2009 debentures) and recognized a loss of $148 million in interest and other, net and $990 million as a reduction in stockholders' equity related to the conversion feature. For the nine months ended September 29, 2018, we paid $1.9 billion to satisfy conversion obligations for $793 million of our 2009 debentures and recognized a loss of $211 million in interest and other, net and $1.3 billion as a reduction in stockholders' equity related to the conversion feature.
+
+We recognized a net gain for the first nine months of 2018 primarily due to a $494 million gain on the divestiture of Wind River in Q2 2018. 
+
+PROVISION FOR TAXES
+
+
+The increase in effective tax rate was primarily driven by one-time benefits that occurred in the first nine months of 2018.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+
+
+Cash generated by operations is our primary source of liquidity. We maintain a diverse investment portfolio that we continually analyze based on issuer, industry, and country. When assessing our sources of liquidity, we include investments as shown in the preceding table. Substantially all of our investments in debt instruments and financing receivables are in investment-grade securities.
+
+Other potential sources of liquidity include our commercial paper program and our automatic shelf registration statement on file with the SEC, pursuant to which we may offer an unspecified amount of debt, equity, and other securities. Under our commercial paper program, we have an ongoing authorization from our Board of Directors to borrow up to $10.0 billion. As of September 28, 2019, $1.3 billion of commercial paper remained outstanding.
+
+We believe we have sufficient financial resources to meet our business requirements in the next 12 months, including capital expenditures for worldwide manufacturing and assembly and test; working capital requirements; and potential acquisitions, strategic investments, dividends, and common stock repurchases.
+
+ CASH FROM OPERATIONS $B CAPITAL EXPENDITURES $B CASH TO STOCKHOLDERS $B
+
+    ■ Dividends ■ Buybacks
+
+
+Operating Activities
+
+Cash provided by operating activities is net income adjusted for certain non-cash items and changes in assets and liabilities.
+
+For the first nine months of 2019 compared to the first nine months of 2018, the $725 million increase in cash provided by operations was primarily attributable to changes in working capital. Cash flow related to working capital was up due to changes in income tax and other asset and liability balances offset by customer utilization of prepaid supply agreement payments and continued inventory build.
+
+Investing Activities
+
+Investing cash flows consist primarily of capital expenditures; investment purchases, sales, maturities, and disposals; and proceeds from divestitures and cash used for acquisitions.
+
+Cash used for investing activities was higher in the first nine months of 2019 compared to the first nine months of 2018 primarily due to a lower use of cash from our net trading assets, lower proceeds from divestitures, and increased capital expenditures. The increase was partially offset by a higher source of cash from available-for-sale debt investments, net.
+
+Financing Activities
+
+Financing cash flows consist primarily of repurchases of common stock, payment of dividends to stockholders, issuance and repayment of short-term and long-term debt, and proceeds from the sale of shares of common stock through employee equity incentive plans.
+
+Cash used for financing activities was lower in the first nine months of 2019 compared to the first nine months of 2018 due to collateral received for our fair value hedges associated with our senior notes and lower debt conversions and repayments. The decrease was partially offset by increased repurchases of common stock as well as lower issuance of commercial paper. 
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+
+OTHER KEY INFORMATION
+
+RISK FACTORS
+
+The risks described in "Risk Factors" within "Other Key Information" in our 2018 Form 10-K and our Quarterly Report on Form 10-Q for the quarter ended June 29, 2019 (Q2 2019 Form 10-Q) could materially and adversely affect our business, financial condition, and results of operations, and the trading price of our common stock could decline. These risk factors do not identify all risks that we face—our operations could also be affected by factors that are not presently known to us or that we currently consider to be immaterial to our operations. Due to risks and uncertainties, known and unknown, our past financial results may not be a reliable indicator of future performance and historical trends should not be used to anticipate results or trends in future periods. The Risk Factors section in our 2018 Form 10-K, as updated by our Q2 2019 Form 10-Q, remains current in all material respects.
+
+CONTROLS AND PROCEDURES
+
+Evaluation of Disclosure Controls and Procedures
+
+Based on management’s evaluation (with the participation of our principal executive officer and principal financial officer), as of the end of the period covered by this report, our principal executive officer and principal financial officer have concluded that our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the Exchange Act)), are effective to provide reasonable assurance that information required to be disclosed by us in reports that we file or submit under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in SEC rules and forms, and is accumulated and communicated to management, including our principal executive officer and principal financial officer, as appropriate, to allow timely decisions regarding required disclosure.
+
+Changes in Internal Control Over Financial Reporting
+
+There were no changes to our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) that occurred during the quarter ended September 28, 2019 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+Inherent Limitations on Effectiveness of Controls
+
+Our management, including the principal executive officer and principal financial officer, does not expect that our disclosure controls and procedures or our internal control over financial reporting will prevent or detect all errors and all fraud. A control system, no matter how well-designed and operated, can provide only reasonable, not absolute, assurance that the control system’s objectives will be met. The design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Further, because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that misstatements due to error or fraud will not occur or that all control issues and instances of fraud, if any, have been detected.
+
+NON-GAAP FINANCIAL MEASURES
+
+In addition to disclosing financial results in accordance with GAAP, this document contains references to the non-GAAP financial measures below. We believe these non-GAAP financial measures provide investors with useful supplemental information about the financial performance of our business, enable comparison of financial results between periods where certain items may vary independent of business performance, and allow for greater transparency with respect to key metrics used by management in operating our business and measuring our performance. 
+
+Our non-GAAP financial measures reflect adjustments based on one or more of the following items, as well as the related income tax effects where applicable. Income tax effects have been calculated using an appropriate tax rate for each adjustment. These non-GAAP financial measures should not be considered a substitute for, or superior to, financial measures calculated in accordance with GAAP, and the financial results calculated in accordance with GAAP and reconciliations from these results should be carefully evaluated. 
+
+Amortization of acquisition-related intangible assets 
+
+Amortization of acquisition-related intangible assets consists of amortization of intangible assets such as developed technology, brands, and customer relationships acquired in connection with business combinations. We record charges related to the amortization of these intangibles within both cost of sales and operating expenses in our GAAP financial statements. Amortization charges for our acquisition-related intangible assets are inconsistent in size and are significantly impacted by the timing and valuation of our acquisitions, rather than our core operations. Consequently, our non-GAAP adjustments exclude these charges to facilitate an evaluation of our current operating performance and comparisons to our past operating performance. 
+
+ OTHER KEY INFORMATION 35
+Restructuring and other charges 
+
+Restructuring charges are costs associated with a formal restructuring plan and are primarily related to employee severance and benefit arrangements. Other charges include asset impairments, pension charges, and costs associated with the exit of the 5G smartphone modem business. We exclude restructuring and other charges, including any adjustments to charges recorded in prior periods, for purposes of calculating certain non-GAAP measures. We believe that these costs do not reflect our current operating performance. Consequently, our non-GAAP adjustments exclude these charges to facilitate an evaluation of our current operating performance and comparisons to our past operating performance. 
+
+Ongoing mark-to-market on marketable equity securities 
+
+We exclude gains and losses resulting from ongoing mark-to-market adjustments of our marketable equity securities, after the initial mark-to-market adjustment is recorded upon a security becoming marketable, when calculating certain non-GAAP measures, as we do not believe this volatility correlates to our core operational performance. Consequently, our non-GAAP earnings per share figures exclude these impacts to facilitate an evaluation of our current operating performance and comparisons to our past operating performance. 
+
+Tax Reform adjustment 
+
+During 2018, we made adjustments to our U.S. Tax Cuts and Jobs Act (Tax Reform) provisional tax estimates that we recorded in Q4 2017. We exclude these provisional tax adjustments when calculating certain non-GAAP measures. We believe excluding these adjustments facilitates a better evaluation of our current operating performance and comparisons to past operating performance. 
+
+
+
+
+ OTHER KEY INFORMATION 36
+ISSUER PURCHASES OF EQUITY SECURITIES
+
+We have an ongoing authorization, originally approved by our Board of Directors in 2005 and subsequently amended, to repurchase shares of our common stock in open market or negotiated transactions. As of September 28, 2019, we were authorized to repurchase up to $90.0 billion, of which $7.2 billion remained available. Our Board of Directors subsequently approved a $20.0 billion increase in the authorization limit in October 2019. 
+
+
+
+We issue Restricted Stock Units (RSUs) as part of our equity incentive plans. In our consolidated condensed financial statements, we treat shares of common stock withheld for tax purposes on behalf of our employees in connection with the vesting of RSUs as common stock repurchases because they reduce the number of shares that would have been issued upon vesting. These withheld shares of common stock are not considered common stock repurchases under our authorized common stock repurchase program and accordingly are not included in the common stock repurchase totals in the preceding table.
+
+ OTHER KEY INFORMATION 37
+EXHIBITS
+
+
+ OTHER KEY INFORMATION 38
+FORM 10-Q CROSS-REFERENCE INDEX
+
+
+
+
+ OTHER KEY INFORMATION 39
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+

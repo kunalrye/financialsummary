@@ -1,0 +1,541 @@
+Document   
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+
+
+x QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended July 28, 2018
+
+or
+
+o TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+
+Daktronics, Inc. 
+
+
+
+
+
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes x No ¨
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and "emerging growth company" in Rule 12b-2 of the Exchange Act. 
+
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ¨ No x
+
+The number of shares of the registrant’s common stock outstanding as of August 20, 2018 was 44,588,625.
+
+DAKTRONICS, INC. AND SUBSIDIARIES
+
+
+For the Quarter Ended July 28, 2018
+PART I. FINANCIAL INFORMATION
+
+Item 1. FINANCIAL STATEMENTS
+
+
+
+
+
+
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+Note 1. Basis of Presentation
+
+Daktronics, Inc. and its subsidiaries (the “Company”, “Daktronics”, “we”, “our”, or “us”) are the world's industry leader in designing and manufacturing electronic scoreboards, programmable display systems and large screen video displays for sporting, commercial and transportation applications.
+
+In the opinion of management, the accompanying unaudited condensed consolidated financial statements contain all adjustments (consisting of normal recurring adjustments) necessary to fairly present our financial position, results of operations and cash flows for the periods presented. The preparation of financial statements in conformity with generally accepted accounting principles in the United States ("GAAP") requires management to make estimates and assumptions affecting the reported amounts therein. Due to the inherent uncertainty involved in making estimates, actual results in future periods may differ from those estimates.
+
+Certain information and footnote disclosures normally included in financial statements prepared in accordance with GAAP have been condensed or omitted. The balance sheet at April 28, 2018, has been derived from the audited financial statements at that date, but it does not include all the information and footnotes required by GAAP for complete financial statements. These financial statements should be read in conjunction with our financial statements and notes thereto for the year ended April 28, 2018, which are contained in our Annual Report on Form 10-K previously filed with the Securities and Exchange Commission ("SEC"). The results of operations for the interim periods presented are not necessarily indicative of results that may be expected for any other interim period or for the full fiscal year. 
+
+Certain prior year amounts in the condensed consolidated balance sheet have been reclassified to conform to the current year's presentation due to the adoption of Accounting Standards Update ("ASU") 2014-09, Revenue from Contracts with Customers (Topic 606). Billings in excess of costs and estimated earnings, customer deposits, and deferred revenue are combined to present contract liabilities. Costs and estimated earnings in excess of billings now represent contract assets. These reclassifications had no effect on reported net income, comprehensive income, cash flows, total assets or total liabilities.
+
+Daktronics, Inc. operates on a 52- or 53-week fiscal year, with our fiscal year ending on the Saturday closest to April 30 of each year. When April 30 falls on a Wednesday, the fiscal year ends on the preceding Saturday. Within each fiscal year, each quarter is comprised of 13-week periods following the beginning of each fiscal year. In each 53-week year, an additional week is added to the first quarter, and each of the last three quarters is comprised of a 13-week period. The three months ended July 28, 2018 and July 29, 2017, contained operating results for 13 weeks.
+
+
+
+Recent Accounting Pronouncements
+
+New Accounting Standards Adopted
+
+In October 2016, the Financial Accounting Standards Board ("FASB") issued ASU 2016-16, Income Taxes (Topic 740) Intra-Entity Transfers of Assets Other than Inventory, which is intended to improve the accounting for the income tax consequences of intra-entity transfers of assets other than inventory. Current GAAP prohibits the recognition of current and deferred income taxes for an intra-entity asset transfer until the asset has been sold to an outside party, which is an exception to the principle of comprehensive recognition of current and deferred income taxes in GAAP. This update eliminates the exception by requiring entities to recognize the income tax consequences of an intra-entity transfer of an asset other than inventory when the transfer occurs. We have adopted ASU 2016-16 during the first quarter of fiscal 2019. The adoption of ASU 2016-16 did not have an impact on our condensed consolidated financial statements.
+
+In May 2014, the FASB issued ASU 2014-09, Revenue from Contracts with Customers (Topic 606). Subsequently, the FASB also issued ASUs 2016-08, 2016-10, 2016-12, and 2016-20 to give further guidance to revenue recognition matters. ASU 2014-09 and related guidance supersedes revenue recognition requirements under FASB Accounting Standards Codification ("ASC") Topic 605 and related industry specific revenue recognition guidance. This new standard defines a comprehensive revenue recognition model, requiring a company to recognize revenue from the transfer of goods or services to customers in an amount that reflects the consideration that the entity expects to receive in exchange for those goods or services. It defines a five-step process to achieve this core principle and allows companies to use more judgment and make more estimates than under current guidance and requires additional disclosures about the nature, amount, timing, and uncertainty of revenue and cash flows arising from the customer contracts. It provides guidance on transition requirements.
+
+We have adopted ASU 2014-09 and its related guidance under the modified retrospective method during the first quarter of fiscal 2019 by applying the guidance to all open contracts at the adoption date. We have completed our evaluation of our revenue arrangements under the new standard and have assessed that the adoption did not materially change the timing or amount of revenue recognized, primarily based upon our assessment of "point in time" and "over time" revenue recognition. No adjustment to beginning retained earnings was recorded, and we have made additional disclosures related to revenue from contracts with customers as required by the new standard upon adoption. See "Note 4. Revenue Recognition" for more information.
+
+New Accounting Standards Not Yet Adopted
+
+
+In January 2017, the FASB issued ASU 2017-04, Intangibles-Goodwill and Other (Topic 350), which simplifies the subsequent measurement of goodwill by removing the second step of the two-step impairment test. The amendment requires an entity to perform its annual or interim goodwill impairment test by comparing the fair value of a reporting unit with its carrying amount. A goodwill impairment will be the amount by which a reporting unit’s carrying value exceeds its fair value, not to exceed the carrying amount of goodwill. ASU 2017-04 is effective for interim and annual periods beginning after December 15, 2019 and will require adoption on a prospective basis. We are currently evaluating the effect that adopting ASU 2017-04 will have on our condensed consolidated financial statements and related disclosures.
+
+In June 2016, the FASB issued ASU 2016-13, Measurement of Credit Losses on Financial Instruments, which provides guidance regarding the measurement and recognition of credit impairment for certain financial assets. ASU 2016-13 is effective for interim and annual periods beginning after December 15, 2019, with early adoption permitted, and will require adoption on a modified retrospective basis. We are currently evaluating the effect that adopting ASU 2016-13 will have on our condensed consolidated financial statements and related disclosures.
+
+In February 2016, the FASB issued ASU 2016-02, Leases (Topic 842), which sets out the principles for the recognition, measurement, presentation and disclosure of leases for both parties to a contract (that is, lessees and lessors). ASU 2016-02 requires lessees to apply a dual approach, classifying leases as either finance or operating leases based on the principle of whether or not the lease is effectively a financed purchase of the leased asset by the lessee. This classification will determine whether the lease expense is recognized based on an effective interest method or on a straight-line basis over the term of the lease. A lessee is also required to record a right-of-use asset and a lease liability for all leases with a term greater than 12 months regardless of their classification. ASU 2016-02 requires lessors to account for leases using an approach that is substantially equivalent to existing guidance for sales-type leases, direct financing leases and operating leases. In July 2018, the FASB issued ASU 2018-10, Codification Improvements to Topic 842 (Leases), and ASU 2018-11, Leases (Topic 842), Targeted Improvements, which provide (i) narrow amendments to clarify how to apply certain aspects of the new lease standard, (ii) entities with an additional transition method to adopt the new standard, and (ii) lessors with a practical expedient for separating components of a contract. All ASUs are effective for interim and annual periods beginning after December 15, 2018, with early adoption permitted, and will require adoption on a modified retrospective basis. We are currently evaluating the effect that adopting these ASUs will have on our condensed consolidated financial statements and related disclosures.
+
+Note 2. Investments in Affiliates
+
+Investments in affiliates over which we have significant influence are accounted for under the equity method of accounting. Investments in affiliates over which we do not have the ability to exert significant influence over the affiliate's operating and financing activities are accounted for under the cost method of accounting. We have evaluated our relationships with our affiliates and have determined that these entities are not variable interest entities. 
+
+The aggregate amount of investments accounted for under the equity method was $3,939 and $3,647 at July 28, 2018 and April 28, 2018, respectively. The equity method requires us to report our share of losses up to our equity investment amount. Cash paid for investments in affiliates is included in the "Purchases of equity investment" line item in our condensed consolidated statements of cash flows. Our proportional share of the respective affiliates' earnings or losses is included in the "Other (expense) income, net" line item in our condensed consolidated statements of operations. For the three months ended July 28, 2018 and July 29, 2017, our share of the losses of our affiliates was $134 and $85, respectively.
+
+The aggregate amount of investments accounted for under the cost method was $42 at July 28, 2018 and April 28, 2018, respectively. There have not been any identified events or changes in circumstances that may have a significant adverse effect on their fair value, and it is not practical to estimate their fair value.
+
+Note 3. Earnings Per Share ("EPS")
+
+Basic EPS is computed by dividing income attributable to common shareholders by the weighted average number of common shares outstanding for the period. Diluted EPS reflects the potential dilution which may occur if securities or other obligations to issue common stock were exercised or converted into common stock or resulted in the issuance of common stock which share in our earnings.
+
+
+
+Options outstanding to purchase 1,798 shares of common stock with a weighted average exercise price of $10.46 for the three months ended July 28, 2018 and 1,580 shares of common stock with a weighted average exercise price of $12.48 for the three months ended July 29, 2017 were not included in the computation of diluted earnings per share because the effects would be anti-dilutive.
+
+Note 4. Revenue Recognition 
+
+
+Net sales are reported net of estimated sales returns and discounts, include compensation from customers for shipping and handling, and exclude sales taxes.
+
+We often contract some or all equipment and services to our customers under the terms of a bundled (performance obligation(s)) sales arrangement. Delivery of these performance obligations can be transferred over time or at a single point in time. At contract inception, we evaluate for material distinct goods and services using professional judgment. We conclude we have separate performance obligations for items capable of being distinct in the eyes of the customer and if the item is distinct within the context of the contract. For those warranties that extend beyond typical terms and include other services ("service-type warranty"), we account for them as a separate performance obligation. When separate performance obligations are identified, we allocate the consideration to the individual performance obligation based on the best evidence and method we judge as faithfully depicting the value of the performance obligation. We primarily use the cost plus a margin approach to allocate the consideration.
+
+
+providing legal basis, (b) additional costs caused by unforeseen circumstances, (c) evidence supporting the claim, and (d) historical evidence and patterns of customers.
+
+
+
+We account for these types of contracts as a combined single performance obligation with no segmentation between types of products and services. A single performance obligation is most appropriate in our judgment when the substantial part of our promise to customers is to integrate and incorporate individual goods and services into a combined output or system; often times the system is customized or significantly modified to the customers' desired configurations and location, and the interrelated goods and services provide utility to the customers as a package. 
+
+Revenue for uniquely configured (custom) or integrated systems are recognized over time as performance obligations are satisfied due to the continuous transfer of control to the customer. This transfer of control is evidenced either by the customer directing the work in process as demonstrated by contractual termination clauses or by our right to payment for work performed to date that does not have an alternative use to us. Sales and profits are recognized over time following the cost-to-cost input method (percentage-of-completion) measured by the percentage of costs incurred to date as compared to estimated total costs for each contract. The cost-to-cost input method is the most faithful depiction of our performance because it measures the value of the contract transferred to the customer. Costs to perform include direct and indirect costs for contract design, production, integration, installation, and assurance-type warranty reserve. Direct costs include material and components; manufacturing, project management, and engineering labor; and subcontracting expenses. Indirect costs include allocated charges for such items as facilities and equipment depreciation and general overhead. Provisions of estimated losses on uncompleted contracts are made in the period when such losses are capable of being estimated. Pre-contract costs are expensed as incurred unless they are expected to be recovered.
+
+
+Contract modifications to existing contracts with customers are evaluated in accordance with the five-step revenue model. We treat contract modifications as a separate contract and new performance obligations when the additional goods or services are distinct and do not add to the unique configuration or are outside the integrated system and when the consideration reflects standalone selling prices. If the additional goods or services offered under the modification enhance the uniquely configured or integrated systems, revenue is allocated to the existing contracts' performance obligation. Modifications may cause changes in the timing of revenue recognition depending on the allocation to various performance obligations.
+
+The time between contract order and project completion is typically less than 12 months but may extend longer depending on the amount of custom work and customers’ delivery needs.
+
+
+customer at a point in time. For service-type or other performance obligations, we recognize revenue over time, which is the most faithful depiction of the customer obtaining control and benefits from the work performed.
+
+
+
+
+
+Disaggregation of revenue
+
+
+
+
+See "Note 5. Segment Reporting" for a disaggregation of revenue by geography.
+
+Contract Balances
+
+Contract assets represent revenue recognized in excess of amounts billed and include unbilled receivables. Unbilled receivables, which represent an unconditional right to payment subject only to the passage of time, are reclassified to accounts receivable when they are billed under the contract terms. Contract liabilities represent amounts billed to the clients in excess of revenue recognized to date.
+
+We adjust the contract price for the effects of a significant financing component if we expect, at contract inception, that the period between when we transfer goods and services to a customer will exceed one year from the time the customer pays. See "Note 10. Receivables" for amounts recorded in long-term receivables.
+
+
+
+The increase in our contract assets and contract liabilities from April 28, 2018 to July 28, 2018 was due to the timing of billing schedules and revenue recognition, which can vary significantly depending on the contractual payment terms and the seasonality of the sports markets.
+
+During the three months ended July 28, 2018, we recognized revenue of $23,805 related to our contract liabilities as of April 28, 2018.
+
+Remaining performance obligations
+
+As of July 28, 2018, the aggregate amount of the transaction price allocated to the remaining performance obligations, which we also refer to as backlog, was $223,751. We expect approximately $190,219 of our remaining performance obligations to be recognized over the next 12 months with the remainder recognized thereafter. Remaining performance obligations related to product and service agreements are $176,819 and $46,932, respectively. Although remaining performance obligations reflects business that is considered to be legally binding, cancellations, deferrals or scope adjustments may occur. Any known project cancellations, revisions to project scope and cost, foreign currency exchange fluctuations and project deferrals are reflected in the balance as appropriate.
+
+Note 5. Segment Reporting
+
+
+Our Commercial business unit primarily consists of sales of our integrated video display systems, digital billboards, Galaxy® and Fuelight™ product lines, and dynamic messaging systems to resellers (primarily sign companies), Out-of-Home ("OOH") companies, national retailers, quick-serve restaurants, casinos, commercial building owners, and petroleum retailers. Our Live Events business unit primarily consists of sales of integrated scoring and video display systems to college and professional sports facilities and convention centers and sales of our mobile display technology to video rental organizations and other live events type venues. Our High School Park and Recreation business unit primarily consists of sales of scoring systems, Galaxy® displays and video display systems to primary and secondary education facilities and resellers (primarily sign companies). Our Transportation business unit primarily consists of sales of intelligent transportation systems dynamic messaging signs for road management, mass transit, and aviation applications and other electronic signage for advertising and way-finding needs, which includes our Vanguard® and Galaxy® product lines and other intelligent transportation systems dynamic message signs, to governmental transportation departments, transportation industry contractors, airlines and other transportation related customers. Our International business unit consists of sales of all product lines outside the United States and Canada. In our International business unit, we focus on product lines related to integrated scoring and video display systems for sports and commercial applications, OOH advertising products, architectural lighting, and transportation related products. 
+
+We evaluate segment performance based on operating results through contribution margin, which is comprised of gross profit less selling expense. Gross profit is net sales less cost of sales. Cost of sales consists primarily of inventory and components, consumables, salaries, other employee-related costs, facilities-related costs for manufacturing locations, machinery and equipment maintenance and depreciation, site sub-contractors, warranty costs, enterprise resource and service management systems, inventory obsolescence and write-downs, inventory procurement and handling costs, and other manufacturing, installation, and service delivery expenses. Selling expenses consist primarily of salaries, other employee-related costs, travel and entertainment expenses, facilities-related costs for sales and service offices, bad debt expenses, third-party commissions and expenditures for marketing efforts, including the costs of collateral materials, conventions and trade shows, product demonstrations, customer relationship management systems, and supplies. Contribution margin excludes general and administration expense, product design and development expense, non-operating income and expense and income tax expense. Some expenses or services are not directly allocable to a sale or segment or the resources and related expenses are shared across business segment areas. These expenses are allocated using estimates and allocation methodologies based on some financial measures and professional judgment. Shared or unabsorbed manufacturing costs are allocated to the business unit benefiting most from that manufacturing location's production capabilities. Shared or unabsorbed costs of domestic field sales and services infrastructure, including most field administrative staff, are allocated to the Commercial, Live Events, High School Park and Recreation, and Transportation business units based on cost of sales. Shared manufacturing, buildings and utilities, and procurement costs are allocated based on payroll dollars, square footage and various other financial measures. Assets are not allocated to the segments. Depreciation and amortization are allocated to each segment based on various financial measures; however, some depreciation and amortization are corporate in nature and remain unallocated. Our segments follow the same accounting policies as those described in Note 1 of our Annual Report on Form 10-K for the fiscal year ended April 28, 2018.
+
+We do not maintain information on sales by products; therefore, disclosure of such information is not practical.
+
+
+
+
+
+
+We have numerous customers worldwide for sales of our products and services, and no customers accounted for 10% or more of net sales; therefore, we are not economically dependent on a limited number of customers for the sale of our products and services except with respect to our dependence on two major digital billboard customers in our Commercial business unit. 
+
+We have numerous raw material and component suppliers, and no supplier accounts for 10% or more of our cost of sales; however, we have a number of single-source suppliers that could limit our supply or cause delays in obtaining raw material and components needed in manufacturing.
+
+Note 6. Marketable Securities
+
+We have a cash management program which provides for the investment of cash balances not used in current operations. We classify our investments in marketable securities as available-for-sale in accordance with the provisions of ASC 320, Investments – Debt and Equity Securities. Marketable securities classified as available-for-sale are reported at fair value with unrealized gains or losses, net of tax, reported in accumulated other comprehensive loss on the condensed consolidated balance sheets. As it relates to fixed income marketable securities, it is not likely we will be required to sell any of these investments before recovery of the entire amortized cost basis. In addition, as of July 28, 2018, we anticipate we will recover the entire amortized cost basis of such fixed income securities, and we have determined no other-than-temporary impairments associated with credit losses were required to be recognized. The cost of securities sold is based on the specific identification method. Where quoted market prices are not available, we use the market price of similar types of securities traded in the market to estimate fair value. 
+
+
+
+Realized gains or losses on investments are recorded in our condensed consolidated statements of operations as "Other (expense) income, net." Upon the sale of a security classified as available-for-sale, the security’s specific unrealized gain (loss) is reclassified out of accumulated other comprehensive loss into earnings based on the specific identification method. In the three months ended July 28, 2018 and July 29, 2017, the reclassifications from accumulated other comprehensive loss to net earnings were immaterial. 
+
+
+
+Note 7. Business Combinations
+
+AJT Systems, Inc. Acquisition
+
+We acquired the net assets of AJT Systems, Inc. ("AJT"), a Florida-based company, on June 21, 2018. The results of its operations have been included in our condensed consolidated financial statements since the date of acquisition. We have not made pro forma disclosures because the results of its operations are not material to our condensed consolidated financial statements.
+
+AJT is a developer of real-time live to air graphics rendering and video server systems for the broadcast TV industry. This acquisition will allow our organization to grow and strengthen our solution offerings to the market. This acquisition was primarily funded with cash on hand.
+
+
+
+
+We perform an analysis of goodwill on an annual basis, and it is tested for impairment more frequently if events or changes in circumstances indicate that an asset might be impaired. We perform our annual analysis during our third quarter of each fiscal year, based on the goodwill amount as of the first business day of our third fiscal quarter. The result of the analysis indicated no goodwill impairment existed for our third quarter in fiscal 2018, which began on October 29, 2017.
+
+In conducting our impairment testing, we compare the fair value of each of our business units to the related carrying value of the allocated assets. We utilize the income approach based on discounted projected cash flows to estimate the fair value of each unit. The projected cash flows use many estimates including market conditions, expected market demand and our ability to grow or maintain market share, gross profit, and expected expenditures for capital and operating expenses. Assets shared or not directly attributed to a reportable segment's activities are allocated to the reportable segment based on sales and other measures. 
+
+
+
+
+
+Accounts receivable are reported net of an allowance for doubtful accounts of $2,177 and $2,151 at July 28, 2018 and April 28, 2018, respectively. Included in accounts receivable as of July 28, 2018 and April 28, 2018 was $1,190 and $964, respectively, of retainage on construction-type contracts, all of which is expected to be collected within one year.
+
+In connection with certain sales transactions, we have entered into sales contracts with installment payments exceeding 12 months and sales-type leases. The present value of these contracts and leases are recorded as a receivable as the revenue is recognized in accordance with GAAP, and profit is recognized to the extent the present value is in excess of cost. We generally retain a security interest in the equipment or in the cash flow generated by the equipment until the contract is paid. The present value of long-term contracts and lease receivables, including accrued interest and current maturities, was $2,987 and $3,393 as of July 28, 2018 and April 28, 2018, respectively. Contract and lease receivables bearing annual interest rates of 4.8 to 9.0 percent are due in varying annual installments through 2024. The face amount of long-term receivables was $3,267 as of July 28, 2018 and $3,733 as of April 28, 2018.
+
+Note 11. Commitments and Contingencies
+
+
+As of July 28, 2018 and April 28, 2018, we recorded a liability and related other receivable of $1,612 and $1,904 for a net claim from a customer against work performed by one of our subcontractors during installation which damaged our customer's property. The amount recorded is for probable and reasonably estimated cost to remediate the damage. Our subcontractor has full insurance for such matters, we have claims to a performance bond as additional collateral, and we carry insurance to cover such matters. In the opinion of management, the ultimate liability of this claim is not expected to have a material effect on our financial position, liquidity or capital resources.
+
+As of July 28, 2018 and April 28, 2018, a customer was withholding $2,224 of payment claiming we did not perform to the customer's specifications. We believe we have performed to the agreed-upon written specifications, have strong contractual documentation to support our position, and a customer with wherewithal to pay. We believe that we will ultimately prevail in collections. Although our assessment of the loss is remote, a number of factors could change the outcome.
+
+We did not believe there was a reasonable probability that any material loss for other various claims or legal actions, including reviews, inspections or other legal proceedings, if any, would be incurred. Accordingly, no material accrual or disclosure of a potential range of loss has been made related to these matters. We do not expect the ultimate liability of these unresolved legal proceedings to have a material effect on our financial position, liquidity or capital resources.
+
+
+those claims, our accrued warranty obligation is adjusted accordingly. For service-type warranty contracts, we allocate revenue to this performance obligation and recognize the revenue over time and costs as incurred.
+
+We disclosed a warranty issue in Note 18 of our Annual Report on Form 10-K for the fiscal year ended April 28, 2018 regarding a mechanical device failure within a module for displays. During the three months ended July 28, 2018 and July 29, 2017, we recognized warranty expense for probable and reasonably estimated costs to remediate this issue of $596 and $783, respectively. As of July 28, 2018, we had $1,314 remaining in accrued warranty obligations for the estimate of probable future claims related to this issue. Although many of our contractual warranty arrangements are nearing expiration for products with this issue, we may incur additional discretionary costs to maintain customer relationships or for higher than expected failure rates. Accordingly, it is possible that the ultimate cost to resolve this matter may increase and be materially different from the amount of the current estimate and accrual.
+
+
+
+
+
+
+
+
+
+Note 12. Income Taxes
+
+Our effective tax rate varies from the federal statutory rate primarily due to state and local taxes, research and development tax credit, and the base erosion anti-abuse tax. We recorded an effective tax rate benefit of 13.1 percent in the first quarter of 2019 as compared to an effective tax rate expense of 29.7 percent for the first quarter of fiscal 2018. The decrease in the effective tax rate is primarily due to projected tax credits in excess of our projected tax liability in conjunction with the decrease in the federal statutory tax rate pursuant to the U.S. Tax Cuts and Jobs Act (the "Tax Act"). 
+
+We are subject to U.S. federal income tax as well as income taxes of multiple state and foreign jurisdictions. Due to various factors and operating in multiple state and foreign jurisdictions, our effective tax is subject to fluctuation. As a result of the expiration of statutes of limitations, our fiscal years 2015, 2016, 2017, and 2018 are the remaining years open under statutes of limitations for federal and state income tax examinations. Certain subsidiaries are also subject to income tax in several foreign jurisdictions which have open tax years varying by jurisdiction beginning in fiscal 2008.
+
+As of July 28, 2018, we had $3,336 of unrecognized tax benefits which would reduce our effective tax rate if recognized.
+
+Pursuant to Tax Act, the SEC staff issued Staff Accounting Bulletin No. 118, Income Tax Accounting Implications of the Tax Act (SAB 118), which allows us to record provisional amounts during a measurement period not to extend beyond one year from the enactment date. The accounting for the deemed repatriation tax is provisional and incomplete due to continued guidance from the U.S. tax authority and our ongoing analysis of final year-end data and tax positions. This provisional estimate was included in our condensed consolidated financial statements as of July 28, 2018 and April 28, 2018. We did not make any measurement period adjustments during the first quarter of 2019. We expect to complete the analysis within the measurement period in accordance with SAB 118. Also, we have determined that we will recognize the Global Intangible Low Taxed Income (GILTI) as a period cost if, and when, incurred. As of July 28, 2018, undistributed earnings of our foreign subsidiaries were considered to have been reinvested indefinitely.
+
+Note 13. Fair Value Measurement
+
+ASC 820, Fair Value Measurement, defines fair value as the price that would be received to sell an asset or paid to transfer a liability (an exit price) in an orderly transaction between market participants at the measurement date. It also establishes a fair value hierarchy which requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. The fair value hierarchy within ASC 820 distinguishes between the following three levels of inputs which may be utilized when measuring fair value.
+
+Level 1 - Quoted prices in active markets for identical assets or liabilities.
+
+Level 2 - Observable inputs other than quoted prices included within Level 1 for the assets or liabilities, either directly or indirectly (for example, quoted market prices for similar assets and liabilities in active markets or quoted market prices for identical assets or liabilities in markets not considered to be active, inputs other than quoted prices that are observable for the asset or liability, or market-corroborated input).
+
+Level 3 - Unobservable inputs supported by little or no market activity based on our own assumptions used to measure assets and liabilities.
+
+The fair values for fixed-rate long-term receivables are estimated using a discounted cash flow analysis based on interest rates currently being offered for contracts with similar terms to customers with similar credit quality. The carrying amounts reported on our condensed consolidated balance sheets for long-term receivables approximate fair value and have been categorized as a Level 2 fair value measurement. Fair values for fixed-rate long-term marketing obligations are estimated using a discounted cash flow calculation applying interest rates currently being offered for debt with similar terms and underlying collateral. The total carrying value of long-term marketing obligations as reported on our condensed consolidated balance sheets within other long-term obligations approximates fair value and has been categorized as a Level 2 fair value measurement.
+
+The following table sets forth by Level within the fair value hierarchy our financial assets and liabilities that were accounted for at fair value on a recurring basis at July 28, 2018 and April 28, 2018 according to the valuation techniques we used to determine their fair values. There have been no transfers of assets or liabilities among the fair value hierarchies presented.
+
+
+
+
+The following methods and assumptions were used to estimate the fair value of each class of financial instrument. There have been no changes in the valuation techniques used by us to value our financial instruments.
+
+
+
+
+
+
+was measured based on valuations observed in less active markets than Level 1 investments. The contractual maturities of these investments vary from one month to three years.
+
+
+
+
+
+
+Note 14. Derivative Financial Instruments
+
+We utilize derivative financial instruments to manage the economic impact of fluctuations in currency exchange rates on those transactions denominated in currencies other than our functional currency, which is the U.S. dollar. We enter into currency forward contracts to manage these economic risks. We account for all derivatives on the condensed consolidated balance sheets within accounts receivable or accounts payable measured at fair value, and changes in fair values are recognized in earnings unless specific hedge accounting criteria are met for cash flow or net investment hedges. As of July 28, 2018 and April 28, 2018, we had not designated any of our derivative instruments as accounting hedges, and thus we recorded the changes in fair value in "Other (expense) income, net" in the condensed consolidated statements of operations.
+
+
+
+As of July 28, 2018, there was an asset and liability of $145 and $69, respectively, and as of April 28, 2018, there was an asset and liability of $41 and $236, respectively, representing the fair value of foreign currency exchange forward contracts, which were determined using Level 2 inputs from a third-party bank.
+
+Item 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+FORWARD-LOOKING STATEMENTS
+
+This Quarterly Report on Form 10-Q (including exhibits and any information incorporated by reference herein) contains both historical and forward-looking statements that involve risks, uncertainties and assumptions. The statements contained in this Report that are not purely historical are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21B of the Securities Exchange Act of 1934, as amended, including statements regarding our expectations, beliefs, intentions and strategies for the future. These statements appear in a number of places in this Report and include all statements that are not historical statements of fact regarding the intent, belief or current expectations with respect to, among other things: (i.) our competition; (ii.) our financing plans; (iii.) trends affecting our financial condition or results of operations; (iv.) our growth strategy and operating strategy; (v.) the declaration and payment of dividends; (vi.) the timing and magnitude of future contracts; (vii.) raw material shortages and lead times; (viii.) fluctuations in margins; (ix.) the seasonality of our business; (x.) the introduction of new products and technology; (xi.) the amount and frequency of warranty claims; (xii.) our ability to manage the impact that new or adjusted tariffs may have on the cost of raw materials and components and our ability to sell product internationally; and (xii.) the timing and magnitude of any acquisitions or dispositions. The words “may,” “would,” “could,” “should,” “will,” “expect,” “estimate,” “anticipate,” “believe,” “intend,” “plan” and similar expressions and variations thereof are intended to identify forward-looking statements. Investors are cautioned that any such forward-looking statements are not guarantees of future performance and involve risks and uncertainties, many of which are beyond our ability to control, and that actual results may differ materially from those projected in the forward-looking statements as a result of various factors discussed herein, including those discussed in our filings with the Securities and Exchange Commission, including our Annual Report on Form 10-K for the fiscal year ended April 28, 2018 in the section entitled “Item 1A. Risk Factors” and "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations," and those factors discussed in detail in our other filings with the Securities and Exchange Commission.
+
+The following discussion and analysis of financial condition and results of operations are based upon our condensed consolidated financial statements, which have been prepared in accordance with generally accepted accounting principles in the United States ("GAAP"). This discussion should be read in conjunction with the accompanying Condensed Consolidated Financial Statements and Notes to the Condensed Consolidated Financial Statements included in this Report. The preparation of these condensed financial statements requires us to make estimates and judgments affecting the reported amounts of assets, liabilities, revenues and expenses and related disclosure of contingent assets and liabilities. On a regular basis, we evaluate our estimates, including those related to total costs on long-term construction-type contracts, costs to be incurred for product warranties and extended maintenance contracts, bad debts, excess and obsolete inventory, income taxes, share-based compensation, goodwill impairment and contingencies. Our estimates are based on historical experience and on various other assumptions believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities not readily apparent from other sources. Actual results may differ from these estimates.
+
+OVERVIEW
+
+We design, manufacture and sell a wide range of display systems to customers throughout the world. We focus our sales and marketing efforts on markets, geographical regions and products. Our five business segments consist of four domestic business units and the International business unit. The four domestic business units consist of Commercial, Live Events, High School Park and Recreation, and Transportation, all of which include the geographic territories of the United States and Canada. Disclosures related to our business segments are provided in "Note 5. Segment Reporting" of the Notes to the Condensed Consolidated Financial Statements included elsewhere in this Report. 
+
+Our net sales and profitability historically have fluctuated due to the impact of uniquely configured orders, such as display systems for professional sports facilities, colleges and universities, and spectacular projects in the commercial area, as well as the seasonality of the sports market. Uniquely configured orders can include several displays, controllers, and subcontracted structure builds, each of which can occur on varied schedules per the customer's needs. Outdoor installations sales can be impacted by outdoor weather conditions and the construction season. Our third fiscal quarter tends to be a slower quarter because it includes two holidays and generally less outdoor construction work occurs. 
+
+Our gross margins on uniquely configured orders tend to fluctuate more than limited configured orders. Uniquely configured orders involving competitive bidding and substantial subcontract work for product installation generally have lower gross margins. Although we follow the over time method of recognizing revenues for uniquely configured orders, we nevertheless have experienced fluctuations in operating results and expect our future results of operations will be subject to similar fluctuations.
+
+Our remaining performance obligations ("backlog") consist of contractually binding sales agreements or purchase orders for integrated electronic display systems and related products and excludes extended service agreements and service only orders. Orders are included 
+
+in backlog when we are in receipt of an executed contract and any required deposits or security. As a result, certain orders for which we have received binding letters of intent or contracts will not be included in backlog until all required contractual documents and deposits are received. Backlog can fluctuate due to large order bookings and the timing and seasonality of net sales. Because order backlog fluctuates and may be subject to extended delivery schedules, orders may be canceled, and orders have varied estimated profitability, our backlog is not necessarily indicative of future net sales or net income.
+
+GENERAL
+
+Our mission is to be the world leader at informing and entertaining audiences through dynamic audio-visual communication systems. We measure our success through estimated market share based on estimated market demand for digital displays and generating profits over the long-term. Our success is contingent on the depth and quality of our products, including related control systems, the depth of our service offerings and our technology serving these market demands. These qualities are important for our long-term success because our products have finite lifetimes, and we strive to win replacement business from existing customers.
+
+Increases in user adoption, the acceptance of a variety of digital solutions, and the decline of digital solution pricing over the years has increased the size of the global market. With this positive demand, strong competition exists across all of our business units, which causes margin constraints. Projects with multimillion-dollar revenue potential also attract competition, which generally reduces profitability.
+
+We organize around customer segments and geographic regions as further described in "Note 5. Segment Reporting" of the Notes to the Condensed Consolidated Financial Statements included elsewhere in this Report. Each business segment also has unique key growth drivers and challenges. 
+
+
+•Standard display product market growth due to market adoption and lower product costs, which drive marketplace expansion. Standard display products are used to attract or communicate with customers and potential customers of retail, commercial, and other establishments. Pricing and economic conditions are the principal factors that impact our success in this business unit. We utilize a reseller network to distribute our standard products.
+
+•National accounts standard display market opportunities due to customers' desire to communicate their message, advertising and content consistently across the country. Increased demand is possible from retailers, quick serve restaurants, petroleum businesses, and other nationwide organizations. 
+
+•Increasing interest in spectaculars, which include very large and sometimes highly customized displays as part of entertainment venues such as casinos, shopping centers, cruise ships and Times Square type locations.
+
+•Dynamic messaging systems demand growth due to market adoption and marketplace expansion. 
+
+•The use of architectural lighting products for commercial buildings, which real estate owners use to add accents or effects to an entire side or circumference of a building to communicate messages or to decorate the building.
+
+•The continued deployment of digital billboards as Out-of-Home ("OOH") companies continue developing new sites and replacing digital billboards which are reaching end of life. This is dependent on there being no adverse changes in the digital billboard regulatory environment restricting future deployments of billboards, as well as maintaining our current market share of the business concentrated in a few large OOH companies.
+
+•Replacement cycles within each of these areas. 
+
+
+•Facilities spending more on larger display systems to enhance the game-day and event experience for attendees.
+
+•Lower product costs, driving an expansion of the marketplace.
+
+•Our product and service offerings, which remain the most integrated and comprehensive offerings in the industry.
+
+•The competitive nature of sports teams, which strive to out-perform their competitors with display systems.
+
+•The desire for high-definition video displays, which typically drives larger displays or higher resolution displays, both of which increase the average transaction size.
+
+•Dynamic messaging systems needs throughout a sports facility.
+
+•Replacement cycles within each of these areas. 
+
+
+•Increased demand for video systems in high schools as school districts realize the revenue generating potential of these displays versus traditional scoreboards.
+
+•Increased demand for different types of displays and dynamic messaging systems, such as message centers at schools to communicate to students, parents and the broader community.
+
+•The use of more sophisticated displays in school athletic facilities, such as large integrated video systems.
+
+
+
+Each of our business units is impacted by adverse economic conditions in different ways and to different degrees. The effects of an adverse economy are generally less severe on our sports related business as compared to our other businesses, although in severe economic downturns, the sports business also can be seriously impacted. Our Commercial and International business units are highly dependent on economic conditions in general.
+
+The cost to manufacture and the selling prices of our products have decreased over time and are expected to continue to decrease in the future. As a result, each year we must sell more product to generate the same or greater level of net sales as in previous fiscal years. This price decline has been significant as a result of increased competition across all business units.
+
+Our Annual Report discloses Risk Factors we face including exposure to geopolitical, economic, and social changes. For fiscal year 2019, while we remain optimistic about long-term growth in the digital display industry, the U.S. Administrative trade actions, including tariffs and sanctions, and related reactions and responses outside the U.S. is very dynamic. This environment has created volatility, such as increases in pricing and demand of aluminum, electrical, and other components we use in the production of our products. We also expect some of the measures being contemplated by various governments will create market reactions, possibly having significant financial impact in future quarters. 
+
+RESULTS OF OPERATIONS
+
+COMPARISON OF THE THREE MONTHS ENDED JULY 28, 2018 AND JULY 29, 2017 
+
+Net Sales
+
+
+
+The increase in orders for the three months ended July 28, 2018 compared to the same period one year ago was the net result of volatility in order timing of large custom projects in the spectacular niche. Orders in the on-premise niche and OOH niche remained relatively flat year over year. 
+
+
+Orders decreased for the three months ended July 28, 2018 compared to the same period one year ago due to the decreased number of projects in professional sports and college and universities venues and due to an order cancellation. During the first quarter of fiscal 2018, we were awarded seven projects each valued at over $2 million as compared to only two projects each valued at over $2 million in the first quarter of fiscal 2019.
+
+
+Orders increased for the three months ended July 28, 2018 compared to the same period one year ago due to overall strong market demand and an increase in projects for larger video systems.
+
+
+Orders for the three months ended July 28, 2018 compared to the same period one year ago increased primarily due to variability caused by large order timing. 
+
+
+Orders increased for the three months ended July 28, 2018 compared to the same period one year ago primarily due to increased demand for global OOH niche customers and professional sports stadiums and the related variability of timing caused by large projects.
+
+Product Order Backlog
+
+The product order backlog as of July 28, 2018 was $177 million as compared to $184 million as of July 29, 2017 and $171 million at the end of the fourth quarter of fiscal 2018. Historically, our product order backlog varies due to the seasonality of our business, the timing of large projects, and customer delivery schedules for these orders. The product order backlog as of July 28, 2018 increased from July 29, 2017 in our Commercial, High School Park and Recreation, Transportation and International business units and decreased in our Live Event business unit.
+
+Gross Profit
+
+
+Gross profit is net sales less cost of sales. Cost of sales consists primarily of inventory, consumables, salaries, other employee-related costs, facilities-related costs for manufacturing locations, machinery and equipment maintenance and depreciation, site sub-contractors, warranty costs, and other service delivery expenses.
+
+
+
+
+
+
+
+Contribution Margin
+
+
+Contribution margin is comprised of gross profit less selling expenses. Selling expenses consist primarily of salaries, other employee-related costs, travel and entertainment expenses, facilities-related costs for sales and service offices, bad debt expenses, third-party commissions and expenditures for marketing efforts, including the costs of collateral materials, conventions and trade shows, product demonstrations, customer relationship management systems, and supplies. 
+
+
+Selling expense in our Commercial, Live Events, High School Park and Recreation, and Transportation business units for the first quarter of fiscal 2019 remained relatively flat compared to the same quarter a year ago. Selling expense in our International business unit increased in the first quarter of fiscal 2019 compared to the same quarter a year ago due to third-party commissions and increased personnel expenses.
+
+Other Operating Expenses
+
+
+General and administrative expenses consist primarily of salaries, other employee-related costs, professional fees, shareholder relations costs, facilities and equipment-related costs for administrative departments, training costs, and the costs of supplies. 
+
+General and administrative expenses in the first quarter of fiscal 2019 decreased as compared to the same period one year ago primarily due to decreases in professional fees and information technology software and hardware expenses. 
+
+Product design and development expenses consist primarily of salaries, other employee-related costs, professional services, facilities costs and equipment-related costs and supplies. Product design and development investments in the near term are focused on developing or improving our video technology over a wide range of pixel pitches for both indoor and outdoor applications. These new or improved technologies are focused on varied pixel density for image quality and use, expanded product line offerings for our various markets and geographies, improved quality and reliability, and improved cost points. We plan to make continued investments in our software and controller capabilities throughout our various product offerings. Through all design efforts, we focus on standardizing display components and control systems for both single site and network displays. 
+
+Our costs for product design and development represent an allocated amount of costs based on time charges, professional services, materials costs and the overhead of our engineering departments. Generally, a significant portion of our engineering time is spent on product design and development, while the rest is allocated to large contract work and included in cost of sales. 
+
+Product design and development expenses in the first quarter of fiscal 2019 increased as compared to the same period one year ago primarily due to increased labor costs and professional services assigned to product design and development projects relating to our strategy to accelerate the deployment of products and solutions to our markets. To deliver value to our customers and serve the markets' expectations, we expect similar level of expenditures for new or enhanced customer solutions for the remainder of fiscal 2019 as compared to fiscal 2018. 
+
+Other Income and Expenses 
+
+
+
+The change in interest income, net for the first quarter of fiscal 2019 compared to the same period one year ago was primarily due to the change in investment levels caused by the volatility of working capital needs and changes in investing and financing activities.
+
+
+Income Taxes
+
+Our effective tax rate benefit was 13.1 percent for the first quarter of fiscal 2019 as compared to an effective tax rate expense of 29.7 percent for the first quarter of fiscal 2018. Our effective tax rate decreased primarily as a result of the U.S. Tax Cuts and Jobs Act, which decreased the United States federal corporate tax rate from 35 percent to 21 percent, as well as the impact of projected tax credits in excess of our projected tax liability.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+
+
+Net cash used in operating activities was $10.3 million for the first three months of fiscal 2019 compared to net cash used in operating activities of $4.9 million in the first three months of fiscal 2018. The $5.4 million decrease in cash from operating activities from the first three months of fiscal 2018 to the first three months of fiscal 2019 was the net result of changes in net operating assets and liabilities of $1.4 million, a $0.1 million gain on the sale of property, equipment and other assets, $0.1 million in deferred income taxes, and a $3.9 million decrease in net income, adjusted by an increase of $0.1 million in other non-cash items, net.
+
+
+
+Overall, changes in operating assets and liabilities can be impacted by the timing of cash flows on large orders, which can cause significant short-term and seasonal fluctuations in inventory, accounts receivables, accounts payable, contract assets and liabilities, and various other operating assets and liabilities. Variability in contract assets and liabilities relates to the timing of billings on construction-type contracts and revenue recognition, which can vary significantly depending on contractual payment terms and build and installation schedules. Balances are also impacted by the seasonality of the sports markets. 
+
+
+
+
+Working capital was $132.9 million and $132.8 million at July 28, 2018 and April 28, 2018, respectively. The changes in working capital, particularly changes in accounts receivable, accounts payable, inventory, and contract assets and liabilities, and the seasonality of the sports market can have a significant impact on the amount of net cash provided by operating activities largely due to the timing of payments and receipts. We have historically financed working capital needs through a combination of cash flow from operations and borrowings under bank credit agreements.
+
+We have used and expect to continue to use cash balances to meet our short-term working capital requirements. On large product orders, the time between order acceptance and project completion may extend up to and exceed 12 months depending on the amount of custom work and a customer’s delivery needs. We often receive down payments or progress payments on these product orders. To the extent these payments are not sufficient to fund the costs and other expenses associated with these orders, we use working capital and bank borrowings to finance these cash requirements.
+
+On November 15, 2016, we entered into a credit agreement and a related revolving note with a U.S. bank. The agreement and note have a maturity date of November 15, 2019. The revolving amount of the agreement and note is $35.0 million, including up to $15.0 million for commercial and standby letters of credits. The interest rate ranges from LIBOR plus 145 basis points to LIBOR plus 195 basis points depending on the ratio of our interest-bearing debt to EBITDA. EBITDA is defined as net income before deductions for interest expense, income taxes, depreciation and amortization, all as determined in accordance with GAAP. The effective interest rate was 3.5 percent at July 28, 2018. We are assessed a loan fee equal to 0.125 percent per annum on any unused portion of the loan. As of July 28, 2018, there were no advances to us under the loan portion of the line of credit, and the balance of letters of credit outstanding was approximately $11.5 million.
+
+
+•A minimum fixed charge coverage ratio of at least 2 to 1 at the end of any fiscal year. The ratio is equal to (a) EBITDA minus the sum of dividends or other distributions (unless the bank approves), share repurchases, a maintenance capital expenditure reserve in the amount of $6.0 million, and income tax to (b) all principal and interest payments with respect to indebtedness, excluding principal payments on the line of credit; and 
+
+•A ratio of funded debt, excluding any marketing obligations, to EBITDA of less than 1 to 1 at the end of any fiscal quarter.
+
+On November 15, 2016, we entered into an amended and restated loan agreement and a continuing and unlimited guaranty agreement with another U.S. bank which supports our credit needs outside of the United States. The loan and guaranty have a maturity date of November 15, 2019. The revolving amount of the loan is $20.0 million. We intend to use the borrowings under the agreement to support credit needs for general corporate purposes outside the United States. This credit agreement is unsecured. It contains the same covenants as the credit agreement on the line of credit and contains an inter creditor agreement whereby the debt has a cross default provision with the primary credit agreement. Total credit allowed between the two credit agreements is limited to $55.0 million. The interest rate is equal to LIBOR plus 1.5 percent. As of July 28, 2018, there were no advances outstanding under the loan agreement and approximately $1.2 million in bank guarantees under this line of credit. 
+
+As of July 28, 2018, we were in compliance with all applicable bank loan covenants.
+
+
+
+Although we expect to continue to pay dividends for the foreseeable future, the nature and amounts of dividends will be reviewed regularly and declared by the Board at its discretion.
+
+We are sometimes required to obtain performance bonds for display installations, and we have a bonding line available through a surety company for an aggregate of $150.0 million in bonded work outstanding. If we were unable to complete the work and our customer would call upon the bond for payment, the surety company would subrogate its loss to Daktronics. At July 28, 2018, we had $14.8 million of bonded work outstanding against this line.
+
+Our business growth and profitability improvement strategies depend on investments in capital expenditures. We are projecting capital expenditures to be less than $20.0 million for fiscal 2019 for purchases of manufacturing equipment for new or enhanced product production, expanded capacity, investments in quality and reliability equipment, and continued information infrastructure investments. 
+
+We believe our working capital available from all sources will be adequate to meet the cash requirements of our operations in the foreseeable future. If our growth extends beyond current expectations, profitability does not continue, or if we make any strategic investments, we may need to increase our credit facilities or seek other means of financing. We anticipate we will be able to obtain any needed funds under commercially reasonable terms from our current lenders or other sources, although this availability cannot be guaranteed.
+
+Off-Balance Sheet Arrangements and Contractual Obligations
+
+There has been no material change in our off-balance sheet arrangements and contractual obligations since the fiscal year ended April 28, 2018. For additional information, see our Annual Report on Form 10-K for the fiscal year ended April 28, 2018.
+
+Significant Accounting Policies and Estimates
+
+We describe our significant accounting policies in "Note 1. Nature of Business and Summary of Significant Accounting Policies" of the Notes to Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended April 28, 2018. We discuss our critical accounting estimates in "Part II, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations" in our Annual Report on Form 10-K for the fiscal year ended April 28, 2018. In the first quarter of fiscal 2019, we adopted new revenue recognition guidance, as described in "Note 1. Basis of Presentation" of the Notes to the Condensed Consolidated Financial Statements included elsewhere in this Report. There have been no other significant changes in our significant accounting policies or critical accounting estimates since the end of fiscal 2018.
+
+New Accounting Pronouncements
+
+For a summary of recently issued accounting pronouncements and the effects of those pronouncements on our financial results, refer to "Note 1. Basis of Presentation" of the Notes to the Condensed Consolidated Financial Statements included elsewhere in this Report.
+
+Item 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Foreign Currency Exchange Rate Risk
+
+Our results of operations could be affected by factors such as changes in foreign currency rates or weak economic conditions in foreign markets. We derive net sales in U.S. dollars and other currencies including Canadian dollars, Euros, Chinese renminbi, British pounds, Australian dollars, Brazilian reais or other currencies. For the three months ended July 28, 2018, 21.1 percent of net sales were derived in currencies other than U.S. dollars. We have expenses in currencies other than U.S. dollars relating to our sales, service, and manufacturing operations. The cost of raw materials derived from international sources can be impacted by fluctuations in foreign currency. We have foreign currency cash accounts to operate our global business. These accounts are also impacted by changes in foreign currency rates. As of July 28, 2018, we had $7.6 million denominated in currencies other than the U.S. dollar.
+
+If we believe currency risk in any foreign location or specific sales or purchase transaction is significant, we utilize foreign exchange hedging contracts to manage our exposure to the currency fluctuations. The notional amount of the foreign currency agreements as of July 28, 2018 was $11.3 million, and all contracts mature within 14 months. These contracts are marked to market each balance sheet date and are not designated as hedges. See "Note 14. Derivative Financial Instruments" of the Notes to our Condensed Consolidated Financial Statements included elsewhere in this Report for further details. 
+
+Over the long term, net sales to international markets are expected to increase as a percentage of total net sales and, consequently, a greater portion of our business could be denominated in foreign currencies. As a result, operating results may become more subject to fluctuations based upon changes in the exchange rates of certain currencies in relation to the U.S. dollar. To the extent we engage in international sales denominated in U.S. dollars, an increase in the value of the U.S. dollar relative to foreign currencies could make our products less competitive in international markets. This effect is also impacted by sources of raw materials from international sources and costs of our sales, service, and manufacturing locations outside the U.S. We estimate that a 10 percent change in all foreign exchange rates would impact our reported income before taxes by approximately $1.0 million. This sensitivity analysis disregards the possibilities that rates can move in opposite directions and that losses from one geographic area may be offset by gains from another geographic area. 
+
+We will continue to monitor and minimize our exposure to currency fluctuations and, when appropriate, use financial hedging techniques to minimize the effect of these fluctuations. However, exchange rate fluctuations as well as differing economic conditions, changes in political climates, and other rules and regulations could adversely affect our ability to effectively hedge exchange rate fluctuations in the future.
+
+Interest Rate Risks
+
+Our exposure to market rate risk for changes in interest rates relates primarily to our marketing obligations and long-term accounts receivable. As of July 28, 2018, our outstanding marketing obligations were $0.4 million, all of which were in fixed rate obligations. 
+
+In connection with the sale of certain display systems, we have entered into various types of financing with customers. The aggregate amounts due from customers include an imputed interest element. The majority of these financings carry fixed rates of interest. As of July 28, 2018, our outstanding long-term receivables were $3.0 million. Each 25 basis point increase in interest rates would have an associated immaterial annual opportunity cost.
+
+The following table provides maturities and weighted average interest rates on our financial instruments sensitive to changes in interest rates.
+
+
+Of our $15.9 million in cash balances at July 28, 2018, $8.3 million were denominated in U.S. dollars, of which $4.4 million was held by our foreign subsidiaries. At July 28, 2018, we had an additional $7.6 million in cash balances denominated in foreign currencies, of which $6.2 million were maintained in accounts of our foreign subsidiaries. A portion of the cash held in foreign accounts is used to collateralize outstanding bank guarantees issued by our foreign subsidiaries.
+
+Commodity Risk
+
+
+Item 4. CONTROLS AND PROCEDURES
+
+We carried out an evaluation, under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of our “disclosure controls and procedures,” as that term is defined in Rule 13a-15(e) and Rule 15d-15(e) under the Securities Exchange Act of 1934, as of July 28, 2018, which is the end of the period covered by this Report. Based upon that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that as of July 28, 2018, our disclosure controls and procedures were effective.
+
+Based on the evaluation described in the foregoing paragraph, our Chief Executive Officer and Chief Financial Officer concluded that during the quarter ended July 28, 2018, there was no change in our internal control over financial reporting which has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+
+PART II. OTHER INFORMATION
+
+Item 1. LEGAL PROCEEDINGS
+
+Not applicable.
+
+Item 1A. RISK FACTORS
+
+The discussion of our business and operations included in this Quarterly Report on Form 10-Q should be read together with the risk factors described in Item 1A. of our Annual Report on Form 10-K for the fiscal year ended April 28, 2018. They describe various risks and uncertainties to which we are or may become subject. These risks and uncertainties, together with other factors described elsewhere in this Report, have the potential to affect our business, financial condition, results of operations, cash flows, strategies or prospects in a material and adverse manner. New risks may emerge at any time, and we cannot predict those risks or estimate the extent to which they may affect our financial condition or financial results.
+
+Item 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+
+Share Repurchases
+
+During the three months ended July 28, 2018, we did not repurchase any shares of our common stock.
+
+Item 3. DEFAULTS UPON SENIOR SECURITIES
+
+Not applicable.
+
+Item 4. MINE SAFETY DISCLOSURES
+
+Not applicable.
+
+Item 5. OTHER INFORMATION
+
+Not applicable.
+
+Item 6. EXHIBITS
+
+A list of exhibits required to be filed as part of this report is set forth in the Index of Exhibits, which immediately precedes such exhibits, and is incorporated herein by reference.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this Report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+
+Index to Exhibits
+
+Certain of the following exhibits are incorporated by reference from prior filings. The form with which each exhibit was filed and the date of filing are as indicated below; the reports described below are filed as Commission File No. 0-23246 unless otherwise indicated.
+
+

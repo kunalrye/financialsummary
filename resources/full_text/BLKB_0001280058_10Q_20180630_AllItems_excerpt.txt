@@ -1,0 +1,862 @@
+
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+
+
+þQUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended June 30, 2018
+
+or
+
+¨TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from  to  .
+
+
+Blackbaud, Inc.
+
+
+
+
+
+Charleston, South Carolina 29492
+
+
+
+
+2000 Daniel Island Drive
+
+Charleston, South Carolina 29492
+
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+
+YES þ  NO ¨
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (Section 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).
+
+YES þ NO  ¨
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+Indicate by check mark whether registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+
+YES ¨ NO þ
+
+The number of shares of the registrant’s Common Stock outstanding as of July 25, 2018 was 48,584,111.
+
+Second Quarter 2018 Form 10-Q1
+Blackbaud, Inc.
+
+ CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS
+
+This Quarterly Report on Form 10-Q, including the documents incorporated herein by reference, contains forward-looking statements that anticipate results based on our estimates, assumptions and plans that are subject to uncertainty. These "forward-looking statements" are made subject to the safe-harbor provisions of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Forward-looking statements consist of, among other things, trend analyses, statements regarding future events, future financial performance, our anticipated growth, the effect of general economic and market conditions, our business strategy and our plan to build and grow our business, our operating results, our ability to successfully integrate acquired businesses and technologies, the effect of foreign currency exchange rate and interest rate fluctuations on our financial results, the impact of expensing stock-based compensation, the sufficiency of our capital resources, our ability to meet our ongoing debt and obligations as they become due, and potential litigation involving us, all of which are based on current expectations, estimates, and forecasts, and the beliefs and assumptions of our management. Words such as “believes,” “seeks,” “expects,” “may,” “might,” “should,” “intends,” “could,” “would,” “likely,” “will,” “targets,” “plans,” “anticipates,” “aims,” “projects,” “estimates” or any variations of such words and similar expressions are also intended to identify such forward-looking statements. These forward-looking statements are subject to risks, uncertainties and assumptions that are difficult to predict. Accordingly, they should not be viewed as assurances of future performance, and actual results may differ materially and adversely from those expressed in any forward-looking statements.
+
+Important factors that could cause actual results to differ materially from our expectations expressed in forward-looking statements include, but are not limited to, those summarized under “Item 1A. Risk factors” and elsewhere in this report, in our Annual Report on Form 10-K for the year ended December 31, 2017 and in our other SEC filings. Forward-looking statements represent our management's beliefs and assumptions only as of the date of this Quarterly Report on Form 10-Q. We undertake no obligation to update or revise any forward-looking statements, or to update the reasons actual results could differ materially from those anticipated in any forward-looking statement, whether as a result of new information, future events or otherwise.
+
+2Second Quarter 2018 Form 10-Q
+
+ PART I. FINANCIAL INFORMATION
+
+ITEM 1. FINANCIAL STATEMENTS
+
+
+Second Quarter 2018 Form 10-Q3
+
+
+4Second Quarter 2018 Form 10-Q
+
+
+
+
+Second Quarter 2018 Form 10-Q5
+
+
+6Second Quarter 2018 Form 10-Q
+Blackbaud, Inc.
+
+Notes to consolidated financial statements
+
+
+
+We are the world’s leading cloud software company powering social good. Serving the entire social good community—nonprofits, foundations, companies, education institutions, healthcare organizations and individual change agents—we connect and empower organizations to increase their impact through cloud software, services, expertise and data intelligence. Our portfolio is tailored to the unique needs of vertical markets, with solutions for fundraising and CRM, marketing, advocacy, peer-to-peer fundraising, corporate social responsibility, school management, ticketing, grantmaking, financial management, payment processing and analytics. Serving the industry for more than three decades, we are headquartered in Charleston, South Carolina and have operations in the United States, Australia, Canada and the United Kingdom. As of June 30, 2018, we had over 40,000 customers.
+
+2. Basis of Presentation
+
+Unaudited interim consolidated financial statements
+
+The accompanying interim consolidated financial statements have been prepared pursuant to the rules and regulations of the United States Securities and Exchange Commission ("SEC") for interim financial reporting. These consolidated statements are unaudited and, in the opinion of management, include all adjustments (consisting of normal recurring adjustments and accruals) necessary to state fairly the consolidated balance sheets, consolidated statements of comprehensive income, consolidated statements of cash flows and consolidated statement of stockholders’ equity, for the periods presented in accordance with accounting principles generally accepted in the United States ("GAAP"). The consolidated balance sheet at December 31, 2017, has been derived from the audited consolidated financial statements at that date. Operating results and cash flows for the six months ended June 30, 2018 are not necessarily indicative of the results that may be expected for the fiscal year ending December 31, 2018, or any other future period. Certain information and footnote disclosures normally included in annual financial statements prepared in accordance with GAAP have been omitted in accordance with the rules and regulations for interim reporting of the SEC. These interim consolidated financial statements should be read in conjunction with the consolidated financial statements and notes thereto included in our Annual Report on Form 10-K for the year ended December 31, 2017, and other forms filed with the SEC from time to time.
+
+Reclassifications
+
+Our revenue from "subscriptions" and "maintenance" and a portion of our "services and other" revenue have been combined within "recurring" revenue beginning in 2018. In order to provide comparability between periods presented, those amounts of revenue have been combined within "recurring" revenue in the previously reported consolidated statements of comprehensive income to conform to presentation of the current period. Similarly, "cost of subscriptions" and "cost of maintenance" and a portion of "cost of services and other" have been combined within "cost of recurring" in the previously reported consolidated statements of comprehensive income to conform to presentation of the current period. "Services and other" revenue has been renamed as "one-time services and other" and consists of revenue that did not meet the description of "recurring" revenue in the consolidated statements of comprehensive income. "Cost of services and other" has been renamed as "cost of one-time services and other" and consists of costs that did not meet the description of those related to "recurring" revenue in the consolidated statements of comprehensive income.
+
+Basis of consolidation
+
+The consolidated financial statements include the accounts of Blackbaud, Inc. and its wholly-owned subsidiaries. All intercompany balances and transactions have been eliminated in consolidation.
+
+Second Quarter 2018 Form 10-Q7
+Blackbaud, Inc.
+
+Notes to consolidated financial statements (continued)
+
+
+Reportable segment
+
+We report our operating results and financial information in one operating and reportable segment. Our chief operating decision maker uses consolidated financial information to make operating decisions, assess financial performance and allocate resources. Our chief operating decision maker is our chief executive officer ("CEO").
+
+Recently adopted accounting pronouncements
+
+In May 2014, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") 2014-09, Revenue from Contracts with Customers (Topic 606) ("ASU 2014-09"), which outlines a single comprehensive model for entities to use in accounting for revenue arising from contracts with customers. ASU 2014-09 replaces most previous revenue recognition guidance in GAAP and requires the recognition of revenue when promised goods or services are transferred to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. The standard also provides guidance on the recognition of costs related to obtaining and fulfilling customer contracts. 
+
+We adopted ASU 2014-09 as of January 1, 2018 utilizing the full retrospective method of transition, which requires that the standard be applied to all periods presented. The impact of adopting ASU 2014-09 on our total revenues for 2017 and 2016 was not material. The primary impacts of adopting ASU 2014-09 relate to the deferral of incremental commission and other costs of obtaining contracts with customers and the increase to the amortization period for those costs. Previously, we deferred only direct and incremental commission costs to obtain a contract and amortized those costs over the contract term, generally three years, as the revenue was recognized. Under the new standard, we defer all incremental commission and related fringe benefit costs to obtain a contract and amortize these costs in a manner that aligns with the expected period of benefit. We utilized the 'portfolio approach' practical expedient in ASC 606-10-10-4, which allows entities to apply the guidance to a portfolio of contracts with similar characteristics because the effects on the financial statements of this approach would not differ materially from applying the guidance to individual contracts. Using the 'portfolio approach' and taking into consideration our customer contracts, our technology and other factors, we determined the expected period of benefit to be five years. We do not generally pay commissions for contract renewals.
+
+Select adjusted unaudited financial statement information, which reflects our adoption of ASU 2014-09 is set forth below.
+
+
+8Second Quarter 2018 Form 10-Q
+Blackbaud, Inc.
+
+Notes to consolidated financial statements (continued)
+
+
+
+
+Our adoption of ASU 2014-09 had no impact on our net cash provided by or used in operating, investing or financing activities for any of the periods reported. 
+
+Except for the accounting policies for revenue recognition and deferred commissions (herein referred to as "costs of obtaining contracts") that were updated as a result of adopting ASU 2014-09, there have been no changes to our significant accounting policies described in the Annual Report on Form 10-K for the year ended December 31, 2017, filed with the SEC on February 20, 2018, that have had a material impact on our consolidated financial statements.
+
+
+Summary of significant accounting policies
+
+Revenue Recognition
+
+
+
+•Identification of the contract, or contracts, with a customer;
+
+•Identification of the performance obligations in the contract;
+
+•Determination of the transaction price;
+
+•Allocation of the transaction price to the performance obligations in the contract; and
+
+•Recognition of revenue when, or as, we satisfy a performance obligation.
+
+Second Quarter 2018 Form 10-Q9
+Blackbaud, Inc.
+
+Notes to consolidated financial statements (continued)
+
+
+Recurring
+
+Recurring revenue represents stand-ready performance obligations in which we are making our solutions or services available to our customers continuously over time or the value of the contract renews. Therefore, recurring revenue is generally recognized over time on a ratable basis over the contract term, beginning on the date that the solution or service is made available to the customer. Our recurring revenue contracts are generally for a term of three years at contract inception with one to three-year renewals thereafter, billed annually in advance and non-cancelable.
+
+Recurring revenue is comprised of fees for the use of our subscription-based software solutions, which includes providing access to cloud-based solutions, hosting services, online training programs, subscription-based analytic services, such as donor acquisitions and data enrichment, and payment services. Recurring revenue also includes fees from maintenance services for our on-premises solutions, services included in our renewable subscription contracts, subscription-based contracts for professional services and variable transaction revenue associated with the use of our solutions.
+
+Our payment services are offered with the assistance of third-party vendors. In general, when we are the principal in a transaction based on the factors identified in ASC 606-10-55-36 through 55-40, we record the revenue and related costs on a gross basis. Otherwise, we net the cost of revenue associated with the service against the gross revenue (amount billed to the customer) and record the net amount as revenue. For payment and transaction services, we have the right to invoice the customer in an amount that directly corresponds with the value to the customer of our performance to date. Therefore, we recognize revenue for these services over time based on the amount billable to the customer in accordance with the 'as invoiced' practical expedient in ASC 606-10-55-18.
+
+One-time services and other
+
+One-time services and other revenue primarily consists of fees for one-time consulting, analytic and onsite training services. 
+
+We generally bill consulting services based on hourly rates plus reimbursable travel-related expenses. Fixed price consulting engagements are generally billed as milestones towards completion are reached. Revenue for all consulting services is recognized over time as the services are performed.
+
+We generally recognize analytic services revenue from donor prospect research engagements, the sale of lists of potential donors, data enrichment engagements and benchmarking studies at a point in time (upon delivery).
+
+In certain cases, we sell training at a fixed rate for each specific class at a per attendee price or at a packaged price for several attendees, and recognize the related revenue upon the customer attending and completing training. 
+
+Contracts with multiple performance obligations
+
+Some of our contracts with customers contain multiple performance obligations. For these contracts, we account for individual performance obligations separately if they are distinct. The transaction price is allocated to the separate performance obligations on a relative standalone selling price basis. Standalone selling prices of our solutions and services are typically estimated based on observable transactions when the solutions or services are sold on a standalone basis.
+
+Costs of obtaining contracts, contract assets and deferred revenue
+
+We pay sales commissions at the time contracts with customers are signed or shortly thereafter, depending on the size and duration of the sales contract. Sales commissions and related fringe benefits earned by our sales force are considered incremental and recoverable costs of obtaining a contract with a customer. These costs are deferred and then amortized in a manner that aligns with the expected period of benefit, which we have determined to be five years. We determined the period of benefit by taking into consideration our customer contracts, including renewals, retention, our technology and other factors. We do not generally pay commissions for contract renewals. The related amortization expense is included in sales, marketing and customer success expense in our consolidated statements of comprehensive income.
+
+Amounts recognized as revenue in excess of amounts billed are recorded as contract assets within prepaid expenses and other current assets on our consolidated balance sheets. To the extent that our customers are billed for our solutions and services in advance of us satisfying the related performance obligations, we record such amounts in deferred revenue.
+
+10Second Quarter 2018 Form 10-Q
+Blackbaud, Inc.
+
+Notes to consolidated financial statements (continued)
+
+
+Recently issued accounting pronouncements
+
+In February 2016, the FASB issued ASU 2016-02, Leases (Topic 842) ("ASU 2016-02"). ASU 2016-02 will require lessees to record most leases on their balance sheets but recognize expenses in the income statement in a manner similar to current guidance. The updated guidance also eliminates certain real estate-specific provisions and changes the guidance on sale-leaseback transactions, initial direct costs and lease executory costs for all entities. For lessors, the standard modifies the classification criteria and the accounting for sales-type and direct financing leases. All entities will classify leases to determine how to recognize lease-related revenue and expense. Classification will continue to affect amounts that lessors record on the balance sheet. ASU 2016-02 is effective for annual periods beginning after December 15, 2018, and interim periods within those years. Early adoption is permitted. Upon adoption, entities will be required to use a modified retrospective approach. The modified retrospective approach includes a number of optional practical expedients that entities may elect to apply. We expect ASU 2016-02 will impact our consolidated financial statements and related disclosures. We are currently evaluating the extent of the impact and expect that most of our lease commitments will be subject to the updated guidance and recognized as lease liabilities and right-of-use assets on our consolidated balance sheets upon adoption.
+
+
+Reeher acquisition
+
+On April 30, 2018, we acquired all of the outstanding equity securities, including all voting equity interests, of Reeher LLC, a Minnesota limited liability company (“Reeher”), pursuant to a securities purchase agreement. The acquisition expands our fundraising performance management capabilities and is intended to drive more effective fundraising and greater social good outcomes for our customers. We acquired the equity securities for an aggregate purchase price of $41.3 million in cash, subject to certain adjustments set forth in the securities purchase agreement. The purchase price and related expenses were funded primarily through borrowings under the 2017 Credit Facility (as defined below). As a result of the acquisition, Reeher has become a wholly-owned subsidiary of ours. The operating results of Reeher have been included in our consolidated financial statements from the date of acquisition. During the three and six months ended June 30, 2018, we incurred insignificant acquisition-related expenses associated with the acquisition, which were recorded in general and administrative expense.
+
+The fair values assigned to the assets acquired and liabilities assumed in the table below are based on our best estimates and assumptions as of the reporting date and are considered preliminary pending finalization. The estimates and assumptions are subject to change as we obtain additional information during the measurement period, which may be up to one year from the acquisition date. The assets and liabilities, pending finalization, include the valuation of intangible assets as well as the assumed deferred revenue and deferred income tax balances.
+
+
+The estimated fair value of accounts receivable acquired approximates the contractual value of $1.1 million and $11.8 million of the goodwill arising in the acquisition is deductible for income tax purposes. The estimated goodwill recognized is attributable primarily to the opportunities for expected synergies from combining the operations and assembled workforce of Reeher.
+
+Second Quarter 2018 Form 10-Q11
+Blackbaud, Inc.
+
+Notes to consolidated financial statements (continued)
+
+
+
+
+The estimated fair values of the intangible assets were based on variations of the income approach, which estimates fair value based upon the present value of cash flows that the assets are expected to generate, and which included the relief-from-royalty method, incremental cash flow method, including the comparative (with and without) method and multi-period excess earnings method, depending on the intangible asset being valued. The method of amortization of identifiable finite-lived intangible assets is based on the expected pattern in which the estimated economic benefits of the respective assets are consumed or otherwise used up. Customer relationships and acquired technology are being amortized on an accelerated basis. Marketing assets and non-compete agreements are being amortized on a straight-line basis.
+
+We determined that the impact of this acquisition was not material to our consolidated financial statements; therefore, revenue and earnings since the acquisition date and pro forma information are not required or presented.
+
+
+
+
+5. Earnings Per Share
+
+We compute basic earnings per share by dividing net income available to common stockholders by the weighted average number of common shares outstanding during the period. Diluted earnings per share is computed by dividing net income available to common stockholders by the weighted average number of common shares and dilutive potential common shares outstanding during the period. Diluted earnings per share reflect the assumed exercise, settlement and vesting of all dilutive securities using the “treasury stock method” except when the effect is anti-dilutive. Potentially dilutive securities consist of shares issuable upon the exercise of stock options, settlement of stock appreciation rights and vesting of restricted stock awards and units.
+
+12Second Quarter 2018 Form 10-Q
+Blackbaud, Inc.
+
+Notes to consolidated financial statements (continued)
+
+
+
+
+6. Fair Value Measurements
+
+
+•Level 1 - Quoted prices for identical assets or liabilities in active markets; 
+
+•Level 2 - Quoted prices for similar assets and liabilities in active markets, quoted prices for identical or similar assets in markets that are not active, and model-derived valuations in which all significant inputs and significant value drivers are observable in active markets; and
+
+•Level 3 - Valuations derived from valuation techniques in which one or more significant inputs are unobservable.
+
+Second Quarter 2018 Form 10-Q13
+Blackbaud, Inc.
+
+Notes to consolidated financial statements (continued)
+
+
+Recurring fair value measurements
+
+
+
+Our derivative instruments within the scope of ASC 815, Derivatives and Hedging, are required to be recorded at fair value. Our derivative instruments that are recorded at fair value include interest rate swaps.
+
+The fair value of our interest rate swaps was based on model-driven valuations using LIBOR rates, which are observable at commonly quoted intervals. Accordingly, our interest rate swaps are classified within Level 2 of the fair value hierarchy.
+
+We believe the carrying amounts of our cash and cash equivalents, restricted cash due to customers, accounts receivable, trade accounts payable, accrued expenses and other current liabilities and due to customers approximate their fair values at June 30, 2018 and December 31, 2017, due to the immediate or short-term maturity of these instruments.
+
+We believe the carrying amount of our debt approximates its fair value at June 30, 2018 and December 31, 2017, as the debt bears interest rates that approximate market value. As LIBOR rates are observable at commonly quoted intervals, our debt is classified within Level 2 of the fair value hierarchy.
+
+We did not transfer any assets or liabilities among the levels within the fair value hierarchy during the six months ended June 30, 2018. Additionally, we did not hold any Level 3 assets or liabilities during the six months ended June 30, 2018.
+
+Non-recurring fair value measurements
+
+Assets and liabilities that are measured at fair value on a non-recurring basis include intangible assets and goodwill, which are recognized at fair value during the period in which an acquisition is completed, from updated estimates and assumptions during the measurement period, or when they are considered to be impaired. These non-recurring fair value measurements, primarily for intangible assets acquired, are based on Level 3 unobservable inputs. In the event of an impairment, we determine the fair value of the goodwill and intangible assets using a discounted cash flow approach, which contains significant unobservable inputs and, therefore, is considered a Level 3 fair value measurement. The unobservable inputs in the analysis generally include future cash flow projections and a discount rate.
+
+There were no non-recurring fair value adjustments to intangible assets and goodwill during the six months ended June 30, 2018, except for an insignificant business combination accounting adjustment to the initial fair value estimates of the assets acquired and liabilities assumed at the acquisition date from updated information obtained during the measurement period. See Note 4 to these consolidated financial statements for additional details. The measurement period of a business combination may be up to one year from the acquisition date. We record any measurement period adjustments to the fair value of assets acquired and liabilities assumed, with the corresponding offset to goodwill.
+
+14Second Quarter 2018 Form 10-Q
+Blackbaud, Inc.
+
+Notes to consolidated financial statements (continued)
+
+
+7. Consolidated Financial Statement Details
+
+Prepaid expenses and other assets
+
+
+
+Accrued expenses and other liabilities
+
+
+Other income, net 
+
+
+Second Quarter 2018 Form 10-Q15
+Blackbaud, Inc.
+
+Notes to consolidated financial statements (continued)
+
+
+
+The following table summarizes our debt balances and the related weighted average effective interest rates, which includes the effect of interest rate swap agreements.
+
+
+
+
+
+Cash flow hedges
+
+We generally use derivative instruments to manage our variable interest rate risk. In July 2017, we entered into an interest rate swap agreement (the "July 2017 Swap Agreement"), which effectively converts portions of our variable rate debt under our credit facility to a fixed rate for the term of the July 2017 Swap Agreement. The notional value of the July 2017 Swap Agreement was $150.0 million with an effective date beginning in July 2017 through July 2021. We designated the July 2017 Swap Agreement as a cash flow hedge at the inception of the contract.
+
+In February 2018, we entered into an additional interest rate swap agreement (the "February 2018 Swap Agreement"), which effectively converts portions of our variable rate debt under our credit facility to a fixed rate for the term of the February 2018 Swap Agreement. The notional value of the February 2018 Swap Agreement was $50.0 million with an effective date beginning in February 2018 through June 2021. We designated the February 2018 Swap Agreement as a cash flow hedge at the inception of the contract.
+
+16Second Quarter 2018 Form 10-Q
+Blackbaud, Inc.
+
+Notes to consolidated financial statements (continued)
+
+
+Undesignated contracts
+
+In June 2017, we entered into a foreign currency option contract to hedge our exposure to currency fluctuations in connection with our acquisition of JustGiving because the purchase price was denominated in British Pounds. The notional value of the instrument was £100.0 million with an effective date beginning in June 2017 and maturing in September 2017. We settled the foreign currency option contract in September 2017. We did not designate the foreign currency option contract as a cash flow hedge for accounting purposes since it involved a business combination. As such, changes in the fair value of this derivative were recognized in earnings. The insignificant premium paid for this option is shown within cash flows from investing activities in our consolidated statements of cash flows.
+
+
+
+
+
+Our policy requires that derivatives used for hedging purposes be designated and effective as a hedge of the identified risk exposure at the inception of the contract. Accumulated other comprehensive income (loss) includes unrealized gains or losses from the change in fair value measurement of our derivative instruments each reporting period and the related income tax expense or benefit. Changes in the fair value measurements of the derivative instruments and the related income tax expense or benefit are reflected as adjustments to accumulated other comprehensive income (loss) until the actual hedged expense is incurred or until the hedge is terminated at which point the unrealized gain (loss) is reclassified from accumulated other comprehensive income (loss) to current earnings. The estimated accumulated other comprehensive income as of June 30, 2018 that is expected to be reclassified into earnings within the next twelve months is $0.7 million. There were no ineffective portions of our interest rate swap derivatives during the six months ended June 30, 2018 and 2017. See Note 13 to these consolidated financial statements for a summary of the changes in accumulated other comprehensive income (loss) by component.
+
+
+
+Second Quarter 2018 Form 10-Q17
+Blackbaud, Inc.
+
+Notes to consolidated financial statements (continued)
+
+
+10. Commitments and Contingencies 
+
+Leases
+
+Total rent expense was $5.0 million and $4.1 million for the three months ended June 30, 2018 and 2017, respectively, and $9.0 million and $8.1 million, respectively, for the six months ended June 30, 2018 and 2017.
+
+Other commitments
+
+The term loans under the 2017 Credit Facility require periodic principal payments. The balance of the term loans and any amounts drawn on the revolving credit loans are due upon maturity of the 2017 Credit Facility in June 2022.
+
+We have contractual obligations for third-party technology used in our solutions and for other services we purchase as part of our normal operations. In certain cases, these arrangements require a minimum annual purchase commitment by us. As of June 30, 2018, the remaining aggregate minimum purchase commitment under these arrangements was approximately $48.2 million through 2023.
+
+Solution and service indemnifications
+
+In the ordinary course of business, we provide certain indemnifications of varying scope to customers against claims of intellectual property infringement made by third parties arising from the use of our solutions or services. If we determine that it is probable that a loss has been incurred related to solution or service indemnifications, any such loss that could be reasonably estimated would be recognized. We have not identified any losses and, accordingly, we have not recorded a liability related to these indemnifications.
+
+Legal proceedings
+
+We are subject to legal proceedings and claims that arise in the ordinary course of business. We make a provision for a loss contingency when it is both probable that a liability has been incurred and the amount of the loss can be reasonably estimated. These provisions are reviewed at least quarterly and adjusted to reflect the impacts of negotiations, settlements, rulings, advice of legal counsel and other information and events pertaining to a particular case. Unless otherwise specifically disclosed in this note, we have determined as of June 30, 2018, that no provision for liability nor disclosure is required related to any claim against us because (a) there is not a reasonable possibility that a loss exceeding amounts already recognized (if any) may be incurred with respect to such claim; (b) a reasonably possible loss or range of loss cannot be estimated; or (c) such estimate is immaterial.
+
+All legal costs associated with litigation are expensed as incurred. Litigation is inherently unpredictable. However, we believe that we have valid defenses with respect to the legal matters pending against us. It is possible, nevertheless, that our consolidated financial position, results of operations or cash flows could be negatively affected in any particular period by an unfavorable resolution of one or more of such proceedings, claims or investigations.
+
+18Second Quarter 2018 Form 10-Q
+Blackbaud, Inc.
+
+Notes to consolidated financial statements (continued)
+
+
+
+
+
+The decreases in our effective income tax rates during the three and six months ended June 30, 2018, when compared to the same periods in 2017, were primarily due to the impact of the discrete benefit to income tax expense relating to stock-based compensation items, calculated prior to the impact of the U.S. federal corporate tax rate change as a result of the Tax Act. This favorable impact was attributable to an increase in the market price for shares of our common stock, as reported by the Nasdaq Stock Market LLC ("Nasdaq"), as well as an increase in the number of stock awards that vested and were exercised. Most of our equity awards are granted during our first quarter and vest in subsequent years during the same quarter. This discrete benefit to income tax expense relating to stock-based compensation during the three and six months ended June 30, 2018 was reduced as a result of the decrease in the U.S. corporate tax rate.
+
+The decreases in our effective income tax rates during the three and six months ended June 30, 2018, as compared to the same periods in 2017, were also attributable to the impact of the lower U.S. federal corporate tax rate on pre-tax income.
+
+In December 2017, the Tax Act was signed into law making significant changes to the Internal Revenue Code. Changes include, but are not limited to, a corporate tax rate decrease from 35% to 21% effective for tax years beginning after December 31, 2017, the transition of U.S. international taxation from a worldwide tax system to a territorial system, and a one-time transition tax on the mandatory deemed repatriation of cumulative foreign earnings as of December 31, 2017. 
+
+On December 22, 2017, Staff Accounting Bulletin No. 118 (“SAB 118”) was issued to address the application of U.S. GAAP in situations when a registrant does not have the necessary information available, prepared or analyzed (including computations) in reasonable detail to complete the accounting for certain income tax effects of the Tax Act. For the three and six months ended June 30, 2018, the Company obtained additional information affecting the provisional amount calculated for the transition tax as of December 31, 2017; however, the Company determined that the transition tax is still insignificant.
+
+The Tax Act eliminates the exceptions for performance-based compensation and CFO compensation from the 162(m) calculation. A transition rule allows for the grandfathering of performance-based compensation pursuant to a written binding contract in effect as of November 2, 2017. While there is negative discretion inherent in our performance-based compensation plans, it is our position that the intent is for historic contracts to be written and binding. As a result, we have not adjusted the ending estimated deferred tax assets for the performance-based stock compensation or the bonus accrual in our 2018 tax provision.
+
+Our estimates of the impact of the Tax Act may change due to a number of additional considerations including, but not limited to, the issuance of additional regulations or guidance and our ongoing analysis of the new law. Any subsequent adjustment to these amounts will be recorded to tax expense when the analysis is complete.
+
+Second Quarter 2018 Form 10-Q19
+Blackbaud, Inc.
+
+Notes to consolidated financial statements (continued)
+
+
+
+
+
+
+Dividends
+
+Our Board of Directors has adopted a dividend policy, which provides for the distribution to stockholders of a portion of cash generated by us that is in excess of operational needs and capital expenditures. The 2017 Credit Facility limits the amount of dividends payable and certain state laws restrict the amount of dividends distributed.
+
+In February 2018, our Board of Directors approved an annual dividend rate of $0.48 per share to be made in quarterly payments. Dividend payments are not guaranteed and our Board of Directors may decide, in its absolute discretion, at any time and for any reason, not to declare and pay further dividends. The following table provides information with respect to quarterly dividends of $0.12 per share paid on common stock during the six months ended June 30, 2018.
+
+
+On July 30, 2018, our Board of Directors declared a third quarter dividend of $0.12 per share payable on September 14, 2018 to stockholders of record on August 28, 2018.
+
+20Second Quarter 2018 Form 10-Q
+Blackbaud, Inc.
+
+Notes to consolidated financial statements (continued)
+
+
+Changes in accumulated other comprehensive income (loss) by component
+
+
+
+
+The prior period financial information presented below has been adjusted to reflect our adoption of ASU 2014-09.
+
+Transaction price allocated to the remaining performance obligations
+
+As of June 30, 2018, approximately $731 million of revenue is expected to be recognized from remaining performance obligations. We expect to recognize revenue on approximately 60% of these remaining performance obligations over the next 12 months, with the remainder recognized thereafter.
+
+We applied the practical expedient in ASC 606-10-50-14 and have excluded the value of unsatisfied performance obligations for (i) contracts with an original expected length of one year or less (one-time services); and (ii) contracts for which we recognize revenue at the amount to which we have the right to invoice for services performed (payment services and usage).
+
+We also applied the practical expedient in ASC 606-10-65-1-(f)(3), whereby the transaction price allocated to the remaining performance obligations, or an explanation of when we expect to recognize that amount as revenue for all reporting periods presented before the date of the initial application, is not disclosed.
+
+Second Quarter 2018 Form 10-Q21
+Blackbaud, Inc.
+
+Notes to consolidated financial statements (continued)
+
+
+Contract balances
+
+
+
+Contract assets increased during the six months ended June 30, 2018 primarily as a result of incremental revenue recognized in excess of amounts billed. The increase in deferred revenue during the six months ended June 30, 2018 was primarily due to new subscription sales of our cloud-based solutions and a seasonal increase in customer contract renewals. Historically, due to the timing of customer budget cycles, we have an increase in customer contract renewals in our second quarter as compared to our fourth quarter. The amount of revenue recognized during the six months ended June 30, 2018 that was included in the deferred revenue balance at the beginning of the period was approximately $217 million. The amount of revenue recognized during the six months ended June 30, 2018 from performance obligations satisfied in prior periods was insignificant.
+
+Disaggregation of revenue
+
+
+
+
+•The GMG focuses on sales to all K-12 private schools, faith-based and arts and cultural organizations, as well as emerging and mid-sized prospects in North America;
+
+
+•The IMG focuses on sales to all prospects and customers outside of North America.
+
+
+
+22Second Quarter 2018 Form 10-Q
+Blackbaud, Inc.
+
+Notes to consolidated financial statements (continued)
+
+
+
+During 2017, in an effort to further our organizational objectives including, improved operating efficiency, customer outcomes and employee satisfaction, we initiated a multi-year plan to consolidate and relocate some of our existing offices to highly modern and more collaborative workspaces with short-term financial commitments. These workspaces are also more centrally located for our employees and closer to our customers and prospects. Restructuring costs incurred to date and expected to be incurred consist primarily of costs to terminate existing lease agreements, contractual lease payments, net of estimated sublease income, upon vacating space as part of the plan, as well as insignificant costs to relocate affected employees and write-off leasehold improvement assets that we will no longer use. We currently expect to incur before-tax restructuring costs associated with these activities of between $6.0 million and $8.0 million, with a significant portion of the remaining costs expected to be incurred through 2019. We also expect to incur employee severance costs related to the plan; however, these costs cannot be reasonably estimated at this time.
+
+
+
+
+
+Second Quarter 2018 Form 10-Q23
+Blackbaud, Inc.
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our consolidated financial statements and related notes included elsewhere in this Quarterly Report on Form 10-Q. The following discussion and analysis presents financial information denominated in millions of dollars which can lead to differences from rounding when compared to similar information contained in the consolidated financial statements and related notes which are primarily denominated in thousands of dollars.
+
+Executive Summary
+
+We are the world’s leading cloud software company powering social good. Serving the entire social good community—nonprofits, foundations, companies, education institutions, healthcare organizations and individual change agents—we connect and empower organizations to increase their impact through cloud software, services, expertise, and data intelligence. Our portfolio is tailored to the unique needs of vertical markets, with solutions for fundraising and CRM, marketing, advocacy, peer-to-peer fundraising, corporate social responsibility, school management, ticketing, grantmaking, financial management, payment processing and analytics. Serving the industry for more than three decades, we are headquartered in Charleston, South Carolina and have operations in the United States, Australia, Canada and the United Kingdom. As of June 30, 2018, we had over 40,000 customers.
+
+
+
+Four-Point Growth Strategy
+
+1.Deliver Integrated and Open Solutions in the Cloud
+
+We will continue to transition our business to predominantly serve customers through a subscription-based cloud delivery model, enabling lower cost of entry, greater scalability and lower total cost of ownership to our customers. There is a concerted effort underway to optimize our portfolio of solutions and integrate powerful capabilities — such as built in data, analytics, artificial intelligence, payment processing and tailored user-specific experiences — to bring even greater value and performance to our customers.
+
+We achieved a significant milestone on this strategy by recently announcing our new comprehensive Cloud Solution for Faith Communities with the introduction of Blackbaud Church Management™. This next generation cloud offering brings our proven strengths in fundraising and relationship management, financial management, marketing and payments together with completely new Blackbaud Church Management capabilities, giving church leaders the ability to track gifts and tithing, assimilate new members, directly communicate with their congregations via multi-channel communication, enable members to make online and mobile contributions, manage small groups of volunteers, implement secure child check-in, conduct background checks, provide bulk tax statements and manage facilities. We expect the general release of Blackbaud Church Management in mid-2019.
+
+
+We are making investments to increase the effectiveness of our sales organization, with a focus on enabling our sales teams with the processes and tools to accelerate our revenue growth and improve productivity.
+
+Selling integrated cloud-solutions that are purpose-built for organizations, such as our cloud for K-12 private schools, is a key competitive differentiator for our sales teams. Our sales account executives now lead with a total-solution 
+
+24Second Quarter 2018 Form 10-Q
+Blackbaud, Inc.
+
+selling strategy by vertical, focused on recurring revenue and driving more products per customer, higher ASP's, and increased customer retention over the long-term. We believe that attaching training, analytics, and payments to a deal improves the cloud experience, drives customer outcomes, improves retention, and increases customer lifetime value. 
+
+We continue to develop and acquire solutions that create value for our customers. We recently released new fundraising benchmarking capabilities in Raisers Edge NXT™ that complement the existing set of SKY Reporting™ tools and leverage Blackbaud's proprietary data, giving our customers the ability to compare their performance in key fundraising metrics against their peers. These capabilities not only provide customers with performance insight but also quantify the value of improving their performance and refer them to specific tools inside of the Raiser's Edge NXT to drive growth.
+
+Our focus has been on driving improved productivity within our existing salesforce through common procedures, training, key operating metrics, compensation plans, and reporting. We have made solid gains on our productivity measures and established a productive and scalable direct sales model, which is why we now expect to increase our sales account executive hiring in the second half of 2018.
+
+3.Expand TAM into Near Adjacencies through Acquisitions and Product Investments
+
+We continue to evaluate compelling opportunities to acquire companies and acquire or build technologies and services. We are guided by our strategic acquisition criteria for considering attractive assets that expand our total addressable market ("TAM"), provide entry into new and near adjacencies, accelerate our shift to the cloud, accelerate revenue growth, are accretive to margins and present synergistic opportunities.
+
+We have been executing this strategy for several years and have expanded our TAM by roughly $2 billion through acquired businesses. During the second quarter of 2018, we acquired Reeher, expanding our fundraising performance management capabilities with the intent to drive more effective fundraising and greater social good outcomes for our customers.
+
+With the introduction of our cloud solution for faith communities, including the new church management applications, we are now in a position to organically build as an option and not just acquire incremental TAM. We are focused on integrating JustGiving and Reeher's operations and we remain active in the evaluation of future opportunities to expand our TAM through acquisitions and internal product development.
+
+
+We are focused on operational efficiency to strengthen the business and deliver improved profitability. We continue driving towards a more scalable operating model that creates efficiency and consistency in how we execute through infrastructure investments, productivity initiatives and organizational re-alignments. 
+
+In 2018, we've been executing a cohesive workplace strategy to better align our organizational objectives with our geographically diverse workforce. During the second quarter of 2018, we moved into our new global headquarters and the employee feedback has been overwhelmingly positive. The eco-friendly facility is dynamic and collaborative offering leading-edge technology that connects our global workforce. The new facility is also home to the new Blackbaud Innovation Center, a high-tech meeting space where customers, partners, community leaders and influencers across the industry can convene to turn action into impact.
+
+During 2017, in an effort to further our organizational objectives including, improved operating efficiency, customer outcomes and employee satisfaction, we initiated a multi-year plan to consolidate and relocate some of our existing offices outside of Charleston, South Carolina to highly modern and more collaborative workspaces with short-term financial commitments. These workspaces are also more centrally located for our employees and closer to our customers and prospects. Restructuring costs incurred to date and expected to be incurred consist primarily of costs to terminate existing lease agreements as well as contractual lease payments, net of estimated sublease income, upon vacating space as part of the plan. We currently expect to incur before-tax restructuring costs associated with these activities of between $6.0 million and $8.0 million, with a significant portion of the remaining costs expected to be incurred through 2019. We also expect to incur employee severance costs related to the plan; however, these costs cannot be reasonably estimated at this time. We have incurred cumulative before-tax restructuring costs of $5.3 million related to this plan as of June 30, 2018. These restructuring activities are currently expected to result in future annual before-tax savings of between $3.0 million and $4.0 million beginning in 2020.
+
+Second Quarter 2018 Form 10-Q25
+Blackbaud, Inc.
+
+
+The increases in total revenue during the three and six months ended June 30, 2018, when compared to the same periods in 2017, were primarily driven by growth in recurring revenue as we continue to see strong demand from customers across our portfolio of cloud-based solutions. The inclusion of JustGiving and Reeher also contributed to the increases in recurring and total revenue. One-time services and other revenue declined during the three and six months ended June 30, 2018 due to our continued shift in focus towards selling cloud-based subscription solutions. In general, our cloud-based solutions include integrated analytic, training and payments services, and require less implementation services and little to no customization services. As a result, we expect one-time services and other revenue to continue to be negatively impacted. In addition, we have also used promotions and discounts for our consulting services as incentives to accelerate the migration of our existing customer base from on-premises solutions toward our cloud-based subscriptions.
+
+
+Income from operations decreased during the three months ended June 30, 2018, when compared to the same period in 2017. The positive impact of growth in total revenue driven by recurring subscriptions was offset primarily by investments we are making in our sales organization, which we expect will increase in the second half of 2018, and customer success program and, to a lesser extent, increases in restructuring costs of $3.7 million, stock-based compensation expense of $3.0 million, net acquisition-related expenses and integration costs of $1.6 million and amortization of intangible assets from business combinations of $1.1 million.
+
+Customer retention
+
+Our recurring revenue contracts are generally for a term of three years at contract inception with one to three-year renewals thereafter. We anticipate a continued decrease in maintenance contract renewals as we transition our solution portfolio and maintenance customers from a perpetual license-based model to a cloud-based subscription delivery model. In the long term, we also anticipate an increase in recurring subscription contract renewals as we continue focusing on innovation, quality and the integration of our cloud-based solutions, which we believe will provide value-adding capabilities to better address our customers' needs. Due primarily to these factors, we believe a recurring revenue customer retention measure that combines recurring subscription, maintenance and service customer contracts provides an accurate representation of our customers' overall behavior. For the twelve months ended June 30, 2018, approximately 93% of our customers with recurring revenue contracts were retained. This customer retention rate is relatively unchanged from our rate for the full year ended December 31, 2017. In the near term, our recurring revenue customer retention rate may modestly decrease driven by our efforts to rationalize our portfolio of solutions and migrate customers from legacy solutions towards our next generation cloud-based solutions.
+
+Balance sheet and cash flow
+
+At June 30, 2018, our cash and cash equivalents were $29.2 million and the carrying amount of our debt under the 2017 Credit Facility was $478.7 million. Our net leverage ratio was 2.23 to 1.00. 
+
+26Second Quarter 2018 Form 10-Q
+Blackbaud, Inc.
+
+During the six months ended June 30, 2018, we generated $66.4 million in cash flow from operations, had a net increase in our borrowings of $41.4 million, primarily for the acquisition of Reeher, returned $11.7 million to stockholders by way of dividends and had aggregate cash outlays of $25.9 million for purchases of property and equipment and capitalized software development costs.
+
+Results of Operations
+
+Comparison of the three and six months ended June 30, 2018 and 2017 
+
+We have included the results of operations of Reeher in our consolidated results of operations from the date of acquisition. We determined that the Reeher acquisition was not a material business combination; therefore, revenue and earnings since the acquisition date are not required or presented.
+
+Reclassifications
+
+Our revenue from "subscriptions" and "maintenance" and a portion of our "services and other" revenue have been combined within "recurring" revenue beginning in 2018. In order to provide comparability between periods presented, those amounts of revenue have been combined within "recurring" revenue in the previously reported consolidated statements of comprehensive income to conform to presentation of the current period. Similarly, "cost of subscriptions" and "cost of maintenance" and a portion of "cost of services and other" have been combined within "cost of recurring" in the previously reported consolidated statements of comprehensive income to conform to presentation of the current period. "Services and other" revenue has been renamed as "one-time services and other" and consists of revenue that did not meet the description of "recurring" revenue in the consolidated statements of comprehensive income. "Cost of services and other" has been renamed as "cost of one-time services and other" and consists of costs that did not meet the description of those related to "recurring" revenue in the consolidated statements of comprehensive income.
+
+Adoption of New Revenue Accounting Standard
+
+On January 1, 2018, we adopted ASU 2014-09, using the full retrospective method of transition, which requires that the standard be applied to all periods presented. The impacts of adoption are reflected in the financial information herein. For additional details, see Note 2 to our consolidated financial statements in this report.
+
+Second Quarter 2018 Form 10-Q27
+Blackbaud, Inc.
+
+Operating results
+
+
+
+Recurring revenue is comprised of fees for the use of our subscription-based software solutions, which includes providing access to cloud-based solutions, hosting services, online training programs, subscription-based analytic services, such as donor acquisitions and data enrichment, and payment services. Recurring revenue also includes fees from maintenance services for our on-premises solutions, services included in our renewable subscription contracts, subscription-based contracts for professional services and variable transaction revenue associated with the use of our solutions.
+
+Cost of recurring revenue is primarily comprised of compensation costs for customer support and production IT personnel, third-party contractor expenses, third-party royalty and data expenses, hosting expenses, allocated depreciation, facilities and IT support costs, amortization of intangible assets from business combinations, amortization of software development costs, transaction-based costs related to payments services including remittances of amounts due to third-parties and other costs incurred in providing support and recurring services to our customers.
+
+We continue to experience growth in sales of our cloud-based solutions as we meet the demand of our customers that increasingly prefer cloud-based subscription offerings with integrated analytic, training and payment services. Recurring subscription contracts are typically for a term of three years at contract inception with one to three-year renewals thereafter. We intend to continue focusing on innovation, quality and integration of our cloud-based solutions, which we believe will drive future revenue growth.
+
+The increases in recurring revenue during the three and six months ended June 30, 2018, when compared to the same periods in 2017, were primarily due to strong demand across our portfolio of cloud-based solutions as revenue from subscriptions increased $31.6 million and $57.8 million, respectively. The inclusion of JustGiving and Reeher also contributed to the increases in recurring revenue and are expected to remain modest in the near term due to U.K. market conditions and our acquisition-related integration efforts. The favorable impacts from subscriptions were partially offset by decreases in maintenance revenue of $5.2 million and $10.7 million, respectively, during the three and six months ended June 30, 2018, when compared to the same periods in 2017.
+
+The increases in cost of recurring revenue during the three and six months ended June 30, 2018, when compared to the same periods in 2017, were primarily due to increases in transaction-based costs related to the payment services integrated in our cloud-based solutions of $4.5 million and $6.5 million, respectively, and compensation costs of $3.6 million and $8.8 million, respectively, driven by resource additions that are directly related to generating recurring revenue as well as the inclusion of JustGiving and Reeher.
+
+The increase in recurring gross margin for the six months ended June 30, 2018, when compared to the same period in 2017, was primarily the result of the positive economics of new and migrating customers to our next generation cloud-based solutions, a one-time third-party refund related to our integrated payment services and accretive recent business acquisitions, as growth in recurring revenue outpaced the growth in related costs.
+
+28Second Quarter 2018 Form 10-Q
+Blackbaud, Inc.
+
+
+
+One-time services and other revenue is comprised of fees for one-time consulting, analytic and onsite training services, as well as revenue from the sale of our software sold under perpetual license arrangements, fees from user conferences and third-party software referral fees.
+
+Cost of one-time services and other is primarily comprised of compensation costs for professional services and onsite training personnel, other costs incurred in providing onsite customer training, third-party contractor expenses, data expense incurred to perform one-time analytic services, third-party software royalties, costs of user conferences, allocated depreciation, facilities and IT support costs and amortization of intangible assets from business combinations.
+
+One-time services and other revenue decreased during the three and six months ended June 30, 2018, when compared to the same periods in 2017, primarily due to decreases in one-time consulting revenue of $1.7 million and $2.7 million, respectively, analytics revenue of $1.3 million and $1.9 million, respectively, and license fees revenue of $0.9 million and $0.7 million, respectively. We expect that the ongoing shift in our go-to-market strategy towards cloud-based subscription offerings, which generally include integrated analytics and require less implementation and customization services, will continue to negatively impact one-time services and other revenue. In addition, we have also used promotions and discounts for our consulting services as incentives to accelerate the migration of our existing customer base from on-premises solutions toward our cloud-based subscriptions.
+
+Cost of one-time services and other decreased during the three and six months ended June 30, 2018, when compared to the same periods in 2017, primarily due to decreases in compensation costs, which is in line with the ongoing shift in our go-to-market strategy as discussed above. Productivity gains also contributed to the decreases in cost of one-time services and other.
+
+One-time services and other gross margin decreased during the three and six months ended June 30, 2018, when compared to the same periods in 2017, as the declines in higher margin analytics and license fees revenue associated with the shift in our go-to-market strategy outpaced the reductions in costs of one-time services and other discussed above. This is a trend we expect to continue in the near term as we complete the transition of our solution portfolio to a cloud-based subscription delivery model.
+
+Second Quarter 2018 Form 10-Q29
+Blackbaud, Inc.
+
+Operating expenses
+
+
+Sales, marketing, and customer success expense includes compensation costs, variable-sales commissions, travel-related expenses, advertising and marketing materials, public relations costs, variable reseller commissions and allocated depreciation, facilities and IT support costs.
+
+We continue to make investments to drive sales effectiveness, which is a component of our four-point growth strategy to accelerate revenue growth. We also continue investing in our customer success organization to drive customer outcomes, loyalty, retention, and referrals. The increases in sales, marketing and customer success expense during the three and six months ended June 30, 2018, when compared to the same periods in 2017, were primarily due to increases in compensation costs of $2.8 million and $4.6 million, respectively, commissions expense of $1.7 million and $2.9 million, respectively, and advertising and marketing costs of $0.8 million and $1.8 million, respectively. Compensation costs increased primarily due to incremental headcount associated with the inclusion of JustGiving and Reeher, as well as annual merit-based salary increases. We intend to make additional investments to increase our direct sales force beginning in the second half of 2018. The increase in commission expense was primarily driven by an increase in commissionable sales. Advertising and marketing costs increased as a result of our inclusion of JustGiving.
+
+
+Research and development expense includes compensation costs for engineering and product management personnel, third-party contractor expenses, software development tools and other expenses related to developing new solutions, upgrading and enhancing existing solutions, and allocated depreciation, facilities and IT support costs.
+
+We continue to make investments to deliver integrated and open solutions in the cloud, which is a component of our four-point growth strategy to accelerate revenue growth. The increases in research and development expense during the three and six months ended June 30, 2018, when compared to the same periods in 2017, were primarily due to increases in compensation costs of $1.9 million and $3.8 million, respectively, and third-party contractor expenses of $1.8 million and $3.2 million, respectively. The increases in compensation costs were primarily associated with the inclusion of JustGiving's and Reeher's engineering resources, as well as annual merit-based salary increases. The incremental third-party contractor expenses were intended to help drive our solution development efforts.
+
+30Second Quarter 2018 Form 10-Q
+Blackbaud, Inc.
+
+
+General and administrative expense consists primarily of compensation costs for general corporate functions, including senior management, finance, accounting, legal, human resources and corporate development, third-party professional fees, insurance, allocated depreciation, facilities and IT support costs, acquisition-related expenses and other administrative expenses.
+
+The increases in general and administrative expense in dollars and as a percentage of total revenue during the three and six months ended June 30, 2018, when compared to the same periods in 2017, were primarily due to increases in compensation costs of $2.1 million and $5.2 million, respectively, third-party contractor expenses of $1.8 million and $2.3 million, respectively, and acquisition-related integration costs of $2.2 million and $2.4 million, respectively. The increases in compensation costs were driven by a combination of higher stock-based compensation, salaries and employee benefits, primarily related to the inclusion of JustGiving personnel. The increases in third-party contractor expenses and acquisition-related integration costs were also primarily related to the inclusion of JustGiving.
+
+Restructuring
+
+During 2017, in an effort to further our organizational objectives including, improved operating efficiency, customer outcomes and employee satisfaction, we initiated a multi-year plan to consolidate and relocate some of our existing offices to highly modern and more collaborative workspaces with short-term financial commitments. These workspaces are also more centrally located for our employees and closer to our customers and prospects. Restructuring costs incurred to date and expected to be incurred consist primarily of costs to terminate existing lease agreements, contractual lease payments, net of estimated sublease income, upon vacating space as part of the plan, as well as insignificant costs to relocate affected employees and write-off leasehold improvement assets that we will no longer use. We currently expect to incur before-tax restructuring costs associated with these activities of between $6.0 million and $8.0 million, with a significant portion of the remaining costs expected to be incurred through 2019. We also expect to incur employee severance costs related to the plan; however, these costs cannot be reasonably estimated at this time. These restructuring activities are currently expected to result in improved operating efficiencies and future annual before-tax savings of between $3.0 million and $4.0 million beginning in 2020. 
+
+
+
+
+
+Second Quarter 2018 Form 10-Q31
+Blackbaud, Inc.
+
+
+Interest expense increased during the three and six months ended June 30, 2018, when compared to the same periods in 2017, primarily due to increases in our average daily borrowings related to our acquisitions of JustGiving in October 2017 and Reeher in April 2018. Also contributing to the increases in interest expense during the three and six months ended June 30, 2018 were modest increases in our weighted average effective interest rates.
+
+Deferred revenue
+
+
+
+
+To the extent that our customers are billed for our solutions and services in advance of delivery, we record such amounts in deferred revenue. Our recurring revenue contracts are generally for a term of three years at contract inception with one to three-year renewals thereafter, billed annually in advance and non-cancelable. We generally invoice our customers with recurring revenue contracts in annual cycles 30 days prior to the end of the contract term.
+
+Deferred revenue from recurring revenue contracts increased during the six months ended June 30, 2018, primarily due to new subscription sales of our cloud-based solutions and a seasonal increase in customer contract renewals. Historically, due to the timing of customer budget cycles, we have an increase in customer contract renewals in our second quarter as compared to our fourth quarter. Deferred revenue from one-time services and other decreased during the six months ended June 30, 2018, primarily due to the ongoing shift in our go-to-market strategy towards cloud-based subscription offerings, which generally include integrated analytics and require less implementation and customization services.
+
+We have acquired businesses whose net tangible assets include deferred revenue. In accordance with GAAP reporting requirements, we recorded write-downs of deferred revenue from customer arrangements predating the acquisition to fair value, which resulted in lower recorded deferred revenue as of the acquisition date than the actual amounts paid in advance for solutions and services under those customer arrangements. Therefore, our deferred revenue after an acquisition will not reflect the full amount of deferred revenue that would have been reported if the acquired deferred revenue was not written down to fair value. Further explanation of this impact is included below under the caption "Non-GAAP financial measures".
+
+32Second Quarter 2018 Form 10-Q
+Blackbaud, Inc.
+
+
+The decreases in our effective income tax rates during the three and six months ended June 30, 2018, when compared to the same periods in 2017, were primarily due to the impact of the discrete benefit to income tax expense relating to stock-based compensation items, calculated prior to the impact of the U.S. federal corporate tax rate change as a result of the Tax Act. This favorable impact was attributable to an increase in the market price for shares of our common stock, as reported by the Nasdaq Stock Market LLC ("Nasdaq"), as well as an increase in the number of stock awards that vested and were exercised. Most of our equity awards are granted during our first quarter and vest in subsequent years during the same quarter. This discrete benefit to income tax expense relating to stock-based compensation during the three and six months ended June 30, 2018 was reduced as a result of the decrease in the U.S. corporate tax rate.
+
+The decreases in our effective income tax rates during the three and six months ended June 30, 2018, as compared to the same periods in 2017, were also attributable to the impact of the lower U.S. federal corporate tax rate on pre-tax income.
+
+In December 2017, the Tax Act was signed into law making significant changes to the Internal Revenue Code. Changes include, but are not limited to, a corporate tax rate decrease from 35% to 21% effective for tax years beginning after December 31, 2017, the transition of U.S. international taxation from a worldwide tax system to a territorial system, and a one-time transition tax on the mandatory deemed repatriation of cumulative foreign earnings as of December 31, 2017. 
+
+On December 22, 2017, Staff Accounting Bulletin No. 118 (“SAB 118”) was issued to address the application of U.S. GAAP in situations when a registrant does not have the necessary information available, prepared or analyzed (including computations) in reasonable detail to complete the accounting for certain income tax effects of the Tax Act. For the three and six months ended June 30, 2018, the Company obtained additional information affecting the provisional amount calculated for the transition tax as of December 31, 2017; however, the Company determined that the transition tax is still insignificant.
+
+The Tax Act eliminates the exceptions for performance-based compensation and CFO compensation from the 162(m) calculation. A transition rule allows for the grandfathering of performance-based compensation pursuant to a written binding contract in effect as of November 2, 2017. While there is negative discretion inherent in our performance-based compensation plans, it is our position that the intent is for historic contracts to be written and binding. As a result, we have not adjusted the ending estimated deferred tax assets for the performance-based stock compensation or the bonus accrual in our 2018 tax provision.
+
+Our estimates of the impact of the Tax Act may change due to a number of additional considerations including, but not limited to, the issuance of additional regulations or guidance and our ongoing analysis of the new law. Any subsequent adjustment to these amounts will be recorded to tax expense when the analysis is complete.
+
+Second Quarter 2018 Form 10-Q33
+Blackbaud, Inc.
+
+Non-GAAP financial measures
+
+The operating results analyzed below are presented on a non-GAAP basis. We use non-GAAP revenue, non-GAAP gross profit, non-GAAP gross margin, non-GAAP income from operations, non-GAAP operating margin, non-GAAP net income and non-GAAP diluted earnings per share internally in analyzing our operational performance. Accordingly, we believe these non-GAAP measures are useful to investors, as a supplement to GAAP measures, in evaluating our ongoing operational performance. While we believe these non-GAAP measures provide useful supplemental information, non-GAAP financial measures should not be considered in isolation from, or as a substitute for, financial information prepared in accordance with GAAP. In addition, these non-GAAP financial measures may not be completely comparable to similarly titled measures of other companies due to potential differences in the exact method of calculation between companies.
+
+We have acquired businesses whose net tangible assets include deferred revenue. In accordance with GAAP reporting requirements, we recorded write-downs of deferred revenue under arrangements predating the acquisition to fair value, which resulted in lower recognized revenue than the contributed purchase price until the related obligations to provide services under such arrangements are fulfilled. Therefore, our GAAP revenues after the acquisitions will not reflect the full amount of revenue that would have been reported if the acquired deferred revenue was not written down to fair value. The non-GAAP measures described below reverse the acquisition-related deferred revenue write-downs so that the full amount of revenue booked by the acquired companies is included, which we believe provides a more accurate representation of a revenue run-rate in a given period and, therefore, will provide more meaningful comparative results in future periods. 
+
+The non-GAAP financial measures discussed below exclude the impact of certain transactions because we believe they are not directly related to our operating performance in any particular period, but are for our long-term benefit over multiple periods. We believe that these non-GAAP financial measures reflect our ongoing business in a manner that allows for meaningful period-to-period comparisons and analysis of trends in our business.
+
+
+
+34Second Quarter 2018 Form 10-Q
+Blackbaud, Inc.
+
+
+
+The increases in non-GAAP income from operations during the three and six months ended June 30, 2018, when compared to the same periods in 2017, were primarily due to growth in recurring revenue that outpaced the related costs, partially offset by investments we are making in our sales organization, customer success program and solution development efforts, which are discussed above.
+
+Non-GAAP free cash flow is defined as operating cash flow less capital expenditures, including costs required to be capitalized for software development, and capital expenditures for property and equipment.
+
+Second Quarter 2018 Form 10-Q35
+Blackbaud, Inc.
+
+
+Non-GAAP organic revenue growth
+
+In addition, we discuss non-GAAP organic revenue growth, non-GAAP organic revenue growth on a constant currency basis and non-GAAP organic recurring revenue growth, in analyzing our performance. We believe that these non-GAAP measures are useful to investors, as a supplement to GAAP measures, for evaluating the periodic growth of our business on a consistent basis. Each of these measures of non-GAAP organic revenue growth excludes incremental acquisition-related revenue attributable to companies acquired in the current fiscal year. For companies, if any, acquired in the immediately preceding fiscal year, each of these non-GAAP organic revenue growth measures reflects presentation of full year incremental non-GAAP revenue derived from such companies as if they were combined throughout the prior period, and they include the non-GAAP revenue attributable to those companies, as if there were no acquisition-related write-downs of acquired deferred revenue to fair value as required by GAAP. In addition, each of these non-GAAP organic revenue growth measures excludes prior period revenue associated with divested businesses. The exclusion of the prior period revenue is to present the results of the divested businesses within the results of the combined company for the same period of time in both the prior and current periods. We believe this presentation provides a more comparable representation of our current business’ organic revenue growth and revenue run-rate. 
+
+
+
+
+
+36Second Quarter 2018 Form 10-Q
+Blackbaud, Inc.
+
+Seasonality
+
+Our revenues normally fluctuate as a result of certain seasonal variations in our business. Our transaction revenue has historically been at its lowest in the first quarter due to the timing of customer fundraising initiatives and events. Our revenue from payment services has historically increased during the fourth quarter due to year-end giving. Our revenue from professional services has historically been lower in the first quarter when many of those services commence and in the fourth quarter due to the holiday season. As a result of these and other factors, our total revenue has historically been lower in the first quarter than in the remainder of our fiscal year, with the third and fourth quarters historically achieving the highest total revenues. Our expenses, however, do not vary significantly as a result of these factors, but do fluctuate on a quarterly basis due to varying timing of expenditures. Our cash flow from operations normally fluctuates quarterly due to the combination of the timing of customer contract renewals including renewals associated with customers of acquired companies, delivery of professional services and occurrence of customer events, the payment of bonuses, as well as merit-based salary increases, among other factors. Historically, due to lower revenues in our first quarter, combined with the payment of bonuses from the prior year in our first quarter, our cash flow from operations has been lowest in our first quarter, and due to the timing of customer contract renewals, many of which take place at or near the beginning of our third quarter, our cash flow from operations has been lower in our second quarter as compared to our third and fourth quarters. Partially offsetting these favorable drivers of cash flow from operations in our third and fourth quarters are merit-based salary increases, which are generally effective in April each year. In addition, deferred revenues can vary on a seasonal basis for the same reasons. These patterns may change as a result of the continued shift to online giving, growth in volume of transactions for which we process payments, or as a result of acquisitions, new market opportunities, new solution introductions or other factors. Our cash flow from financing is negatively impacted in our first quarter when most of our equity awards vest, as we pay taxes on behalf of our employees related to the settlement or exercise of equity awards.
+
+Liquidity and Capital Resources
+
+
+
+
+
+
+Second Quarter 2018 Form 10-Q37
+Blackbaud, Inc.
+
+At June 30, 2018, our total cash and cash equivalents balance included approximately $16.9 million of cash that was held by operations outside the U.S. While these funds may not be needed to fund our U.S. operations for at least the next twelve months, if we need these funds, we may be required to accrue and pay taxes to repatriate the funds. We currently do not intend nor anticipate a need to repatriate our cash held outside the U.S.
+
+Operating cash flow
+
+
+Working capital changes are composed of changes in accounts receivable, prepaid expenses and other assets, trade accounts payable, accrued expenses and other liabilities, and deferred revenue. Cash flow from operations associated with working capital increased $2.6 million during the six months ended June 30, 2018, when compared to the same period in 2017, primarily due to an increase in the collection of customer account balances, partially offset by the timing of vendor payments.
+
+Investing cash flow
+
+Net cash used in investing activities of $71.2 million increased by $1.7 million during the six months ended June 30, 2018, when compared to the same period in 2017. 
+
+During the six months ended June 30, 2018, we used net cash of $45.3 million, primarily for our acquisition of Reeher, while we made a similar investment during the same period in 2017 with our acquisition of AcademicWorks. We used $16.4 million for software development costs, which was up $2.7 million from cash spent during the same period in 2017. The increase in cash outlays for software development costs was primarily driven by development activities related to our next generation cloud-based solutions, and development activities for Blackbaud SKY, our modern cloud platform.
+
+We also spent $9.6 million of cash for purchases of property and equipment during the six months ended June 30, 2018, which was up $3.9 million from cash spent during the same period in 2017. The increase in cash outlays for property and equipment was primarily driven by leasehold improvements for our new global headquarters in Charleston, South Carolina.
+
+Financing cash flow
+
+During the six months ended June 30, 2018, we had a net increase in borrowings of $41.4 million, which was primarily used to finance the acquisition of Reeher. 
+
+We paid $25.2 million to satisfy tax obligations of employees upon settlement or exercise of equity awards during the six months ended June 30, 2018 compared to $16.6 million during the same period in 2017. The amount of taxes paid by us on the behalf of employees related to the settlement or exercise of equity awards varies from period to period based upon the timing of grants and vesting, employee exercise decisions, as well as the market price for shares of our common stock at the time of settlement. Most of our equity awards currently vest in our first quarter. In addition, during the six months ended June 30, 2018, we paid dividends of $11.7 million, which was relatively consistent with the comparable period of 2017.
+
+Cash used in financing activities associated with changes in restricted cash due to customers increased $223.6 million during the six months ended June 30, 2018 when compared to the same period in 2017, as the amount of restricted cash held and payable by us to customers as of December 31, 2017 was significantly larger than at the same date in 2016.
+
+
+We have drawn on our credit facility from time to time to help us meet financial needs, such as financing for business acquisitions. At June 30, 2018, our available borrowing capacity under the 2017 Credit Facility was $207.7 million. The 2017 Credit Facility matures in June 2022.
+
+38Second Quarter 2018 Form 10-Q
+Blackbaud, Inc.
+
+At June 30, 2018, the carrying amount of our debt under the 2017 Credit Facility was $478.7 million. Our average daily borrowings during the three and six months ended June 30, 2018 were $487.5 million and $467.6 million, respectively.
+
+
+
+
+Commitments and contingencies
+
+
+
+
+
+
+The term loan under the 2017 Credit Facility and our other debt require periodic principal payments. The balance of the term loans and any amounts drawn on the revolving credit loans are due upon maturity of the 2017 Credit Facility in June 2022.
+
+The total liability for uncertain tax positions as of June 30, 2018 and December 31, 2017, was $5.3 million and $5.2 million, respectively. Our accrued interest and penalties related to tax positions taken on our tax returns was $0.9 million and $0.8 million as of June 30, 2018 and December 31, 2017, respectively.
+
+In February 2018, our Board of Directors approved our annual dividend rate of $0.48 per share to be made in quarterly payments. Dividends at this annual rate would aggregate to $23.5 million assuming 49.0 million shares of common stock are outstanding, although dividends are not guaranteed and our Board of Directors may decide, in its absolute discretion, to change or suspend dividend payments at any time for any reason. Our ability to continue to declare and pay dividends quarterly this year and beyond might be restricted by, among other things, the terms of the 2017 Credit Facility, general economic conditions and our ability to generate adequate operating cash flow.
+
+Second Quarter 2018 Form 10-Q39
+Blackbaud, Inc.
+
+On July 30, 2018, our Board of Directors declared a third quarter dividend of $0.12 per share payable on September 14, 2018 to stockholders of record on August 28, 2018.
+
+Off-Balance Sheet Arrangements
+
+As of June 30, 2018, we did not have any off-balance sheet arrangements as defined in Item 303(a)(4)(ii) of Regulation S-K promulgated by the SEC, that have or are reasonably likely to have, a current or future effect on our financial condition, changes in our financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that is material to investors.
+
+Foreign Currency Exchange Rates
+
+Approximately 15% of our total revenue for the six months ended June 30, 2018 was generated from operations outside the United States. We do not have significant operations in countries in which the economy is considered to be highly inflationary. Our consolidated financial statements are denominated in U.S. dollars and, accordingly, changes in the exchange rate between foreign currencies and the U.S. dollar will affect the translation of our subsidiaries’ financial results into U.S. dollars for purposes of reporting our consolidated financial results. The accumulated currency translation adjustment, recorded within accumulated other comprehensive loss as a component of stockholders’ equity, was a loss of $3.8 million as of June 30, 2018 and a loss of $1.4 million as of December 31, 2017.
+
+The vast majority of our contracts are entered into by our U.S. or U.K. entities. The contracts entered into by the U.S. entity are almost always denominated in U.S. dollars or Canadian dollars, and contracts entered into by our U.K., Australian and Irish subsidiaries are generally denominated in British Pounds, Australian dollars and Euros, respectively. Historically, as the U.S. dollar weakened, foreign currency translation resulted in an increase in our revenues and expenses denominated in non-U.S. currencies. Conversely, as the U.S. dollar strengthened, foreign currency translation resulted in a decrease in our revenue and expenses denominated in non-U.S. currencies. During the six months ended June 30, 2018, foreign translation resulted in an increase in our revenues and expenses denominated in non-U.S. currencies. Though we have exposure to fluctuations in currency exchange rates, primarily those between the U.S. dollar and both the British Pound and Canadian dollar, the impact has generally not been material to our consolidated results of operations or financial position. For the six months ended June 30, 2018, the fluctuation in foreign currency exchange rates increased our total revenue by $3.8 million and our income from operations by $0.9 million. We will continue monitoring such exposure and take action as appropriate. To determine the impacts on revenue (or income from operations) from fluctuations in currency exchange rates, current period revenues (or income from operations) from entities reporting in foreign currencies were translated into U.S. dollars using the comparable prior year period's weighted average foreign currency exchange rates. These impacts are non-GAAP financial information and are not in accordance with, or an alternative to, information prepared in accordance with GAAP.
+
+Critical Accounting Policies and Estimates
+
+Our discussion and analysis of financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with GAAP. The preparation of these financial statements requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements, as well as the reported amounts of revenues and expenses during the reporting periods. On an ongoing basis, we reconsider and evaluate our estimates and assumptions.
+
+We base our estimates on historical experience, current trends and various other assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results could materially differ from any of our estimates under different assumptions or conditions.
+
+Except for our accounting policies for revenue recognition and deferred commissions (herein referred to as "costs of obtaining contracts") that were updated as a result of adopting ASU 2014-09, there have been no significant changes in our critical accounting policies and estimates during the six months ended June 30, 2018 as compared to those disclosed 
+
+40Second Quarter 2018 Form 10-Q
+Blackbaud, Inc.
+
+in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” included in our Annual Report on Form 10-K for the fiscal year ended December 31, 2017.
+
+Revenue Recognition  
+
+DescriptionJudgments and Uncertainties
+
+Effect if Actual Results Differ
+
+ From Assumptions
+
+See Note 2 to our consolidated financial statements in this report for a complete discussion of our revenue recognition policies.
+
+Revenues are recognized when control of our services is transferred to our customers, in an amount that reflects the consideration we expect to be entitled to in exchange for those services.
+
+
+
+
+
+
+
+Our revenue recognition accounting methodology contains uncertainties because it requires us to make significant estimates and assumptions, and to apply judgment.
+
+For example, for arrangements that have multiple performance obligations, we must exercise judgment and use estimates in order to (1) determine whether performance obligations are distinct and should be accounted for separately; (2) determine the standalone selling price of each performance obligation; (3) allocate the transaction price among the various performance obligations on a relative standalone selling price basis; and (4) determine whether revenue for each performance obligation should be recognized at a point in time or over time. 
+
+In addition, we exercise judgment in certain transactions when determining whether we should recognize revenue based on the gross amount billed to a customer (as a principal) or the net amount retained (as an agent). These judgments are based on our determination of whether or not we control the service before it is transferred to the customer.
+
+If we were to change any of these judgments or estimates, it could cause a material increase or decrease in the amount of revenue or deferred revenue that we report in a particular period.
+
+Costs of Obtaining Contracts  
+
+DescriptionJudgments and Uncertainties
+
+Effect if Actual Results Differ
+
+ From Assumptions
+
+We pay sales commissions at the time contracts with customers are signed or shortly thereafter, depending on the size and duration of the sales contract. Sales commissions and related fringe benefits earned by our sales force are considered incremental and recoverable costs of obtaining a contract with a customer. These costs are deferred and then amortized in a manner that aligns with the expected period of benefit, which we have determined to be five years. We do not generally pay commissions for contract renewals. The related amortization expense is included in sales, marketing and customer success expense in our consolidated statements of comprehensive income.
+
+Our accounting methodology for determining the period over which we amortize costs of obtaining contracts with customers contains uncertainties because it requires us to make significant estimates and assumptions, and to apply judgment.
+
+For example, we must exercise judgment and use estimates in order to determine the expected period of benefit of our sales commissions. We take into consideration our customer contracts, including renewals, retention, our technology and other factors.If we were to change any of these judgments or estimates, it could cause a material increase or decrease in the amount of assets, operating expenses or income that we report in a particular period.
+
+Recently Issued Accounting Pronouncements
+
+For a discussion of the impact that recently issued accounting pronouncements are expected to have on our financial position and results of operations when adopted in the future, see Note 2 of our consolidated financial statements in this report.
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+We have market rate sensitivity for interest rates and foreign currency exchange rates.
+
+Second Quarter 2018 Form 10-Q41
+Blackbaud, Inc.
+
+Interest Rate Risk
+
+Our variable rate debt is our primary financial instrument with market risk exposure for changing interest rates. We manage our variable rate interest rate risk through a combination of short-term and long-term borrowings and the use of derivative instruments entered into for hedging purposes. Due to the nature of our debt, the materiality of the fair values of the derivative instruments and the highly liquid, short-term nature and level of our cash and cash equivalents as of June 30, 2018, we believe there is no material risk of exposure to changing interest rates for those positions. There were no significant changes in how we manage interest rate risk between December 31, 2017 and June 30, 2018. 
+
+Foreign Currency Risk
+
+For a discussion of our exposure to foreign currency exchange rate fluctuations, see “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Foreign Currency Exchange Rates” in this report.
+
+ITEM 4. CONTROLS AND PROCEDURES
+
+Evaluation of Disclosure Controls and Procedures
+
+Disclosure controls and procedures (as defined in Securities Exchange Act Rule 13a-15(e) and 15d-15(e)) are designed only to provide reasonable assurance that they will meet their objectives. As of the end of the period covered by this report, we carried out an evaluation, under the supervision and with the participation of our management, including our Chief Executive Officer (principal executive officer) and Chief Financial Officer (principal financial and accounting officer), of the effectiveness of our disclosure controls and procedures (as defined in Rule 13a-15(e) and 15d-15(e)) pursuant to Securities Exchange Act Rule 13a-15(b). Based upon that evaluation, our Chief Executive Officer and Chief Financial Officer have concluded that our disclosure controls and procedures are effective to provide the reasonable assurance discussed above.
+
+Changes in Internal Control Over Financial Reporting
+
+No changes in internal control over financial reporting occurred during the most recent fiscal quarter ended June 30, 2018 with respect to our operations, which have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. As discussed in Note 2 to our consolidated financial statements in this report, we adopted ASU 2014-09 effective January 1, 2018. We implemented internal controls to ensure we adequately evaluated our contracts and properly assessed the impact of the new standard on our financial statements. There were no significant changes to our internal control over financial reporting due to the adoption of ASU 2014-09.
+
+42Second Quarter 2018 Form 10-Q
+Blackbaud, Inc.
+
+ PART II. OTHER INFORMATION
+
+ITEM 1A. RISK FACTORS
+
+Our operations and financial results are subject to various risks and uncertainties, including those described in Part I, Item IA, "Risk factors" in our Annual Report on Form 10-K for the year ended December 31, 2017, which could adversely affect our business, financial condition, results of operations, cash flows, and the trading price of our stock. There have been no material changes to our risk factors since our Annual Report on Form 10-K for the year ended December 31, 2017.
+
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+
+Issuer Purchases of Equity Securities
+
+The following table provides information about shares of common stock acquired or repurchased during the three months ended June 30, 2018. All of these acquisitions were of common stock withheld by us to satisfy tax obligations of employees due upon exercise of stock appreciation rights and vesting of restricted stock awards and units. The level of acquisition activity varies from period to period based upon the timing of grants and vesting as well as employee exercise decisions.
+
+
+
+Second Quarter 2018 Form 10-Q43
+Blackbaud, Inc.
+
+ITEM 6. EXHIBITS
+
+
+
+
+44Second Quarter 2018 Form 10-Q
+Blackbaud, Inc.
+
+ SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this Report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+
+Second Quarter 2018 Form 10-Q45

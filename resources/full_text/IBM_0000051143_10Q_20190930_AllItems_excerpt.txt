@@ -1,0 +1,1915 @@
+
+​
+
+​
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+
+​
+
+FORM 10 - Q
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 or 15(d)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+FOR THE QUARTER ENDED SEPTEMBER 30, 2019
+
+​
+
+
+
+​
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+
+
+
+
+
+
+
+​
+
+
+​
+
+
+​
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+
+​
+
+
+​
+
+
+​
+
+The registrant had 885,637,454 shares of common stock outstanding at September 30, 2019.
+
+​
+
+​
+
+​
+
+​
+
+​
+Index
+
+
+​
+
+​
+
+​
+
+Part I - Financial Information
+
+​
+
+Item 1. Consolidated Financial Statements:
+
+​
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+
+AND SUBSIDIARY COMPANIES
+
+CONSOLIDATED STATEMENT OF EARNINGS
+
+
+
+
+​
+
+
+
+​
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+
+AND SUBSIDIARY COMPANIES
+
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+
+
+
+​
+
+
+
+​
+
+​
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+
+AND SUBSIDIARY COMPANIES
+
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+
+
+​
+
+ASSETS
+
+
+
+
+
+​
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+
+AND SUBSIDIARY COMPANIES
+
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION – (CONTINUED)
+
+
+​
+
+LIABILITIES AND EQUITY
+
+
+
+
+
+​
+
+​
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+
+AND SUBSIDIARY COMPANIES
+
+CONSOLIDATED STATEMENT OF CASH FLOWS
+
+
+
+​
+
+
+
+​
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+
+AND SUBSIDIARY COMPANIES
+
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+
+
+
+​
+
+
+​
+
+
+
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+
+AND SUBSIDIARY COMPANIES
+
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY – (CONTINUED)
+
+
+
+​
+
+
+
+
+
+​
+
+Notes to Consolidated Financial Statements
+
+
+The accompanying Consolidated Financial Statements and footnotes of the International Business Machines Corporation (IBM or the company) have been prepared in accordance with accounting principles generally accepted in the United States of America (GAAP). The financial statements and footnotes are unaudited. In the opinion of the company’s management, these statements include all adjustments, which are only of a normal recurring nature, necessary to present a fair statement of the company’s results of operations, financial position and cash flows.
+
+
+In the first quarter of 2019, the company made a number of changes to its organizational structure and management system. These changes impacted the company’s reportable segments, but did not impact the company’s Consolidated Financial Statements. Refer to note 8, “Segments,” for additional information on the company’s reportable segments. The periods presented in this Form 10-Q are reported on a comparable basis. The company provided recast historical segment information reflecting these changes in a Form 8-K dated April 4, 2019.
+
+
+Noncontrolling interest amounts of $7.1 million and $6.2 million, net of tax, for the three months ended September 30, 2019 and 2018, respectively, and $19.0 million and $17.9 million, net of tax, for the nine months ended September 30, 2019 and 2018, respectively, are included as a reduction within other (income) and expense in the Consolidated Statement of Earnings.
+
+Interim results are not necessarily indicative of financial results for a full year. The information included in this Form 10-Q should be read in conjunction with the company’s 2018 Annual Report.
+
+Within the financial statements and tables presented, certain columns and rows may not add due to the use of rounded numbers for disclosure purposes. Percentages presented are calculated from the underlying whole-dollar amounts. Certain prior period amounts have been reclassified to conform to the current period presentation. Specifically, revenues for post-contract support provided for perpetual (one-time charge) software licenses were reclassified from Services Revenue to Sales Revenue and Services Costs to Sales Costs within the Consolidated Statement of Earnings. The revenue amounts reclassified were $0.5 billion, $1.0 billion and $1.6 billion for the three months ended September 30, 2018, nine months ended September 30, 2019 and nine months ended September 30, 2018, respectively. The cost amounts reclassified were $0.1 billion, $0.2 billion and $0.3 billion. This reclassification had no impact on total revenue, total cost, net income, financial position or cash flows for any periods presented. Other immaterial reclassifications have been annotated where applicable.
+
+
+New Standards to be Implemented
+
+
+Notes to Consolidated Financial Statements — (continued)
+
+company expects to early adopt changes to the disclosure requirements for defined benefit plans in the fourth quarter of 2019. As the guidance is a change to disclosures only, the company does not expect the guidance to have a material impact in the consolidated financial results.
+
+In January 2017, the FASB issued guidance that simplifies the goodwill impairment test by removing Step 2. The guidance also changes the requirements for reporting units with zero or negative carrying amounts and requires additional disclosures for these reporting units. The guidance is effective January 1, 2020 and early adoption is permitted. The company will adopt the guidance on a prospective basis as of the effective date. The guidance is not expected to have a material impact in the consolidated financial results.
+
+In June 2016, with amendments in 2018 and 2019, the FASB issued guidance for credit impairment based on an expected loss model rather than an incurred loss model. The guidance requires the consideration of all available relevant information when estimating expected credit losses, including past events, current conditions and forecasts and their implications for expected credit losses. The new guidance expands the scope of financial instruments subject to impairment, including off-balance sheet commitments and residual value. The guidance is effective January 1, 2020 with one-year early adoption permitted. The company will adopt the guidance as of the effective date. A cross-functional team was established to evaluate the impact of the guidance on the financial instruments portfolio. All of the changes to systems, processes and policies are on track for completion before the effective date. The guidance is not expected to have a material impact in the consolidated financial results.
+
+Standards Implemented
+
+The FASB issued guidance in February 2016, with amendments in 2018 and 2019, which changed the accounting for leases. The guidance requires lessees to recognize right-of-use (ROU) assets and lease liabilities for most leases in the Consolidated Statement of Financial Position. The guidance also made some changes to lessor accounting, including elimination of the use of third-party residual value guarantee insurance in the lease classification test, and overall aligns with the new revenue recognition guidance. The guidance requires qualitative and quantitative disclosures to assess the amount, timing and uncertainty of cash flows arising from leases. The company adopted the guidance effective January 1, 2019, using the transition option whereby prior comparative periods were not retrospectively presented in the Consolidated Financial Statements. The company elected the package of practical expedients not to reassess prior conclusions related to contracts containing leases, lease classification and initial direct costs (IDCs) and the lessee practical expedient to combine lease and nonlease components for all asset classes. The company made a policy election to not recognize ROU assets and lease liabilities for short-term leases for all asset classes. The guidance had a material impact on the Consolidated Statement of Financial Position as of the effective date. As a lessee, at adoption, the company recognized operating and financing ROU assets of $4.8 billion and $0.2 billion, respectively, and operating and financing lease liabilities of $5.1 billion and $0.2 billion, respectively. The transition adjustment recognized in retained earnings on January 1, 2019 was not material. From a lessor perspective, the changes in lease termination guidance and removal of third-party residual value guarantee insurance in the lease classification test did not have a material impact in the consolidated financial results. Refer to note 5, “Leases,” for additional information, including further discussion on the impact of adoption.
+
+In August 2018, the FASB issued guidance on a customer’s accounting for implementation costs incurred in cloud-computing arrangements that are hosted by a vendor. Certain types of implementation costs should be capitalized and amortized over the term of the hosting arrangement. The guidance is effective January 1, 2020 and early adoption is permitted. The company adopted the guidance on January 1, 2019 on a prospective basis. The guidance did not have a material impact in the consolidated financial results.
+
+
+Notes to Consolidated Financial Statements — (continued)
+
+releases income tax effects from AOCI once the reason the tax effects were established cease to exist (e.g., when available-for-sale debt securities are sold or if a pension plan is liquidated). This guidance allows for the reclassification of stranded tax effects as a result of the change in tax rates from U.S. tax reform to be recorded upon adoption of the guidance rather than at the actual cessation date. At adoption on January 1, 2018, $2.4 billion was reclassified from AOCI to retained earnings, primarily comprised of amounts relating to retirement-related benefit plans.
+
+In August 2017, the FASB issued guidance to simplify the application of hedge accounting in certain areas, better portray the economic results of an entity’s risk management activities in its financial statements and make targeted improvements to presentation and disclosure requirements. The guidance was effective January 1, 2019 with early adoption permitted. The company adopted the guidance as of January 1, 2018, and it did not have a material impact in the consolidated financial results.
+
+
+In January 2016, the FASB issued guidance which addresses aspects of recognition, measurement, presentation and disclosure of financial instruments. The guidance was effective January 1, 2018 and early adoption was not permitted except for limited provisions. The company adopted the guidance on the effective date. The guidance required certain equity investments to be measured at fair value with changes recognized in net income. The amendment also simplified the impairment test of equity investments that lack readily determinable fair value. The guidance did not have a material impact in the consolidated financial results.
+
+The FASB issued guidance on the recognition of revenue from contracts with customers in May 2014 with amendments in 2015 and 2016. Revenue recognition depicts the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. The guidance also requires specific disclosures relating to revenue recognition. The company adopted the guidance effective January 1, 2018 using the modified retrospective transition method. At adoption, $557 million was reclassified from notes and accounts receivable-trade and deferred income-current to prepaid expenses and other current assets to establish the opening balance for net contract assets. In-scope sales commission costs previously recorded in the Consolidated Statement of Earnings were capitalized in deferred costs in accordance with the transition guidance, in the amount of $737 million. Deferred income of $29 million was recorded for certain software licenses that will be recognized over time versus at point in time under previous guidance. Additionally, net deferred taxes were reduced by $184 million in the Consolidated Statement of Financial Position, resulting in a cumulative-effect net increase to retained earnings of $524 million. In the fourth quarter of 2018, the company recognized an additional impact to net deferred taxes and retained earnings of $56 million, resulting in a total net increase to retained earnings of $580 million. The decrease to net deferred taxes was the result of the company’s election to include Global Intangible Low-Taxed Income (GILTI) in measuring deferred taxes. The revenue guidance did not have a material impact in the company’s consolidated financial results. Refer to note 3, “Revenue Recognition,” for additional information.
+
+In March 2016, the FASB issued guidance which changed the accounting for share-based payment transactions, including the income tax consequences, classification of awards as either equity or liabilities and classification in the Consolidated Statement of Cash Flows. The guidance was effective and adopted by the company on January 1, 2017, and it did not have a material impact on the Consolidated Statement of Financial Position. The ongoing impact of the guidance could result in increased volatility in the provision for income taxes and earnings per share in the Consolidated Statement of Earnings, depending on the company’s share price at exercise or vesting of share-based awards compared to grant date, however these impacts are not expected to be material. These impacts are recorded on a prospective basis. 
+
+Notes to Consolidated Financial Statements — (continued)
+
+The company continues to estimate forfeitures in conjunction with measuring stock-based compensation cost. The guidance also requires cash payments on behalf of employees for shares directly withheld for taxes to be presented as financing outflows in the Consolidated Statement of Cash Flows. The FASB also issued guidance in May 2017 and June 2018, which relates to the accounting for modifications of share-based payment awards and accounting for share-based payments issued to non-employees, respectively. The company adopted the guidance for modifications in the second quarter of 2017, and guidance for non-employees’ payments in the second quarter of 2018. The guidance had no impact in the consolidated financial results.
+
+​
+
+​
+
+
+Disaggregation of Revenue
+
+
+
+
+
+​
+
+Notes to Consolidated Financial Statements — (continued)
+
+
+
+
+​
+
+Revenue by Geography
+
+
+​
+
+​
+
+Notes to Consolidated Financial Statements — (continued)
+
+
+
+
+
+​
+
+​
+
+​
+
+​
+
+Notes to Consolidated Financial Statements — (continued)
+
+
+
+
+
+​
+
+Revenue by Geography
+
+
+​
+
+Remaining Performance Obligations
+
+The remaining performance obligation (RPO) disclosure provides the aggregate amount of the transaction price yet to be recognized as of the end of the reporting period and an explanation as to when the company expects to recognize these amounts in revenue. It is intended to be a statement of overall work under contract that has not yet been performed and does not include contracts in which the customer is not committed, such as certain as-a-Service, governmental, term software license and services offerings. The customer is not considered committed when they are able to terminate for convenience without payment of a substantive penalty. The disclosure includes estimates of variable consideration, except when the variable consideration is a sales-based or usage-based royalty promised in exchange for a license of intellectual property. Additionally, as a practical expedient, the company does not include contracts that have an original duration of one year or less. Remaining performance obligation estimates are subject to change and are affected by several factors, including terminations, changes in the scope of contracts, periodic revalidations, adjustment for revenue that has not materialized and adjustments for currency. 
+
+Notes to Consolidated Financial Statements — (continued)
+
+
+
+Revenue Recognized for Performance Obligations Satisfied (or Partially Satisfied) in Prior Periods
+
+For the three and nine months ending September 30, 2019, revenue was reduced by $42 million and $33 million, respectively, for performance obligations satisfied (or partially satisfied) in previous periods mainly due to changes in estimates on percentage-of-completion based contracts. 
+
+For the three and nine months ending September 30, 2018, revenue was reduced by $25 million and $50 million, respectively, for performance obligations satisfied (or partially satisfied) in previous periods mainly due to changes in estimates on percentage-of-completion based contracts.
+
+​
+
+Reconciliation of Contract Balances
+
+
+
+
+The amount of revenue recognized during the three and nine months ended September 30, 2019 that was included within the deferred income balance at June 30, 2019 and December 31, 2018 was $3.6 billion and $7.7 billion, respectively, and was primarily related to services and software. 
+
+The amount of revenue recognized during the three and nine months ended September 30, 2018 that was included within the deferred income balance at June 30, 2018 and January 1, 2018 was $3.8 billion and $8.0 billion, respectively, and was primarily related to services and software.
+
+Notes to Consolidated Financial Statements — (continued)
+
+
+Fair Value Measurements
+
+
+●Level 1—Quoted prices (unadjusted) in active markets for identical assets or liabilities that can be accessed at the measurement date;
+
+●Level 2—Inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly or indirectly; and
+
+●Level 3—Unobservable inputs for the asset or liability.
+
+The guidance requires the use of observable market data if such data is available without undue cost and effort.
+
+When available, the company uses unadjusted quoted market prices in active markets to measure the fair value and classifies such items as Level 1. If quoted market prices are not available, fair value is based upon internally developed models that use current market-based or independently sourced market parameters such as interest rates and currency rates. Items valued using internally generated models are classified according to the lowest level input or value driver that is significant to the valuation.
+
+The determination of fair value considers various factors including interest rate yield curves and time value underlying the financial instruments. For derivatives and debt securities, the company uses a discounted cash flow analysis using discount rates commensurate with the duration of the instrument.
+
+
+●Counterparty credit risk adjustments are applied to financial instruments, taking into account the actual credit risk of a counterparty as observed in the credit default swap market to determine the true fair value of such an instrument.
+
+●Credit risk adjustments are applied to reflect the company’s own credit risk when valuing all liabilities measured at fair value. The methodology is consistent with that applied in developing counterparty credit risk adjustments, but incorporates the company’s own credit risk as observed in the credit default swap market.
+
+As an example, the fair value of derivatives is derived utilizing a discounted cash flow model that uses observable market inputs such as known notional value amounts, yield curves, spot and forward exchange rates as well as discount rates. These inputs relate to liquid, heavily traded currencies with active markets which are available for the full term of the derivative.
+
+Certain assets that are measured at fair value on a recurring basis can be subject to nonrecurring fair value measurements. These assets include available-for-sale debt securities that are deemed to be other-than-temporarily impaired. In the event of an other-than-temporary impairment of a debt security, fair value is measured using a model described above.
+
+Notes to Consolidated Financial Statements — (continued)
+
+Certain non-financial assets such as property, plant and equipment, operating right-of-use assets, land, goodwill and intangible assets are also subject to nonrecurring fair value measurements if they are deemed to be impaired. The impairment models used for non-financial assets depend on the type of asset. There were no material impairments of non-financial assets for the nine months ended September 30, 2019 and 2018, respectively.
+
+Accounting guidance permits the measurement of eligible financial assets, financial liabilities and firm commitments at fair value, on an instrument-by-instrument basis, that are otherwise not permitted to be accounted for at fair value under other accounting standards. This election is irrevocable. The company has not applied the fair value option to any eligible assets or liabilities.
+
+The following tables present the company’s financial assets and financial liabilities that are measured at fair value on a recurring basis at September 30, 2019 and December 31, 2018. 
+
+
+
+
+
+
+​
+
+​
+
+Notes to Consolidated Financial Statements — (continued)
+
+
+
+
+
+
+​
+
+​
+
+Financial Assets and Liabilities Not Measured at Fair Value
+
+Short-Term Receivables and Payables
+
+Notes and other accounts receivable and other investments are financial assets with carrying values that approximate fair value. Accounts payable, other accrued expenses and short-term debt (excluding the current portion of long-term debt and including short-term finance lease liabilities) are financial liabilities with carrying values that approximate fair value. If measured at fair value in the financial statements, these financial instruments would be classified as Level 3 in the fair value hierarchy, except for short-term debt which would be classified as Level 2.
+
+Loans and Long-Term Receivables
+
+Fair values are based on discounted future cash flows using current interest rates offered for similar loans to clients with similar credit ratings for the same remaining maturities. At September 30, 2019 and December 31, 2018, the difference between the carrying amount and estimated fair value for loans and long-term receivables was immaterial. If measured at fair value in the financial statements, these financial instruments would be classified as Level 3 in the fair value hierarchy.
+
+Long-Term Debt
+
+Fair value of publicly-traded long-term debt is based on quoted market prices for the identical liability when traded as an asset in an active market. For other long-term debt (including long-term finance lease liabilities) for which a quoted market price is not available, an expected present value technique that uses rates currently available to the company for debt with similar terms and remaining maturities is used to estimate fair value. The carrying amount of long-term debt was $57,797 million and $35,605 million, and the estimated fair value was $62,398 million and $36,599 million at September 30, 2019 and December 31, 2018, respectively. If measured at fair value in the financial statements, long-term debt (including the current portion) would be classified as Level 2 in the fair value hierarchy.
+
+Notes to Consolidated Financial Statements — (continued)
+
+Available-for-Sale Debt Securities
+
+
+The contractual maturities of substantially all available-for-sale debt securities are less than one year at September 30, 2019.
+
+Derivative Financial Instruments
+
+The company operates in multiple functional currencies and is a significant lender and borrower in the global markets. In the normal course of business, the company is exposed to the impact of interest rate changes and foreign currency fluctuations, and to a lesser extent equity and commodity price changes and client credit risk. The company limits these risks by following established risk management policies and procedures, including the use of derivatives, and, where cost effective, financing with debt in the currencies in which assets are denominated. For interest rate exposures, derivatives are used to better align rate movements between the interest rates associated with the company’s lease and other financial assets and the interest rates associated with its financing debt. Derivatives are also used to manage the related cost of debt. For foreign currency exposures, derivatives are used to better manage the cash flow volatility arising from foreign exchange rate fluctuations.
+
+As a result of the use of derivative instruments, the company is exposed to the risk that counterparties to derivative contracts will fail to meet their contractual obligations. To mitigate the counterparty credit risk, the company has a policy of only entering into contracts with carefully selected major financial institutions based upon their overall credit profile. The company’s established policies and procedures for mitigating credit risk on principal transactions include reviewing and establishing limits for credit exposure and continually assessing the creditworthiness of counterparties. The right of set-off that exists under certain of these arrangements enables the legal entities of the company subject to the arrangement to net amounts due to and from the counterparty reducing the maximum loss from credit risk in the event of counterparty default.
+
+The company is also a party to collateral security arrangements with most of its major derivative counterparties. These arrangements require the company to hold or post collateral (cash or U.S. Treasury securities) when the derivative fair values exceed contractually established thresholds. Posting thresholds can be fixed or can vary based on credit default swap pricing or credit ratings received from the major credit agencies. The aggregate fair value of all derivative instruments under these collateralized arrangements that were in a liability position at September 30, 2019 and December 31, 2018 was $737 million and $74 million, respectively, for which $116 million of collateral was posted by the company and reduced the position at September 30, 2019, and for which no collateral was posted at December 31, 2018. Full collateralization of these agreements would be required in the event that the company’s credit rating falls below investment grade or if its credit default swap spread exceeds 250 basis points, as applicable, pursuant to the terms of the collateral security arrangements. The aggregate fair value of derivative instruments in asset positions at September 30, 2019 and December 31, 2018 was $536 million and $731 million, respectively. This amount represents the maximum exposure to loss at the reporting date if the counterparties failed to perform as contracted. This exposure was reduced by $316 million and $267 million at September 30, 2019 and December 31, 2018, respectively, of liabilities included in master netting arrangements with those counterparties. Additionally, at December 31, 2018, this exposure was reduced by $70 million of cash collateral received from counterparties. No collateral was received at September 30, 2019. There were no non-cash collateral balances received from counterparties in U.S. Treasury securities at September 30, 2019 and December 31, 2018. At September 30, 2019 and December 31, 2018, the net exposure related to derivative assets recorded in the Consolidated Statement of Financial Position was $220 million and $395 million, respectively. At September 30, 2019 and December 31, 2018, the net position related to derivative liabilities recorded in the Consolidated Statement of Financial Position was $641 million and $116 million, respectively.
+
+Notes to Consolidated Financial Statements — (continued)
+
+In the Consolidated Statement of Financial Position, the company does not offset derivative assets against liabilities in master netting arrangements nor does it offset receivables or payables recognized upon payment or receipt of cash collateral against the fair values of the related derivative instruments. The amount recognized in other receivables for the right to reclaim cash collateral was $116 million at September 30, 2019. No amount was recognized in other receivables at December 31, 2018 for the right to reclaim cash collateral. The amount recognized in accounts payable for the obligation to return cash collateral was $70 million at December 31, 2018. No amount was recognized in accounts payable for the obligation to return cash collateral at September 30, 2019. The company restricts the use of cash collateral received to rehypothecation, and therefore reports it in restricted cash in the Consolidated Statement of Financial Position. No amount was rehypothecated at September 30, 2019 and December 31, 2018. 
+
+The company may employ derivative instruments to hedge the volatility in stockholders’ equity resulting from changes in currency exchange rates of significant foreign subsidiaries of the company with respect to the U.S. dollar. These instruments, designated as net investment hedges, expose the company to liquidity risk as the derivatives have an immediate cash flow impact upon maturity which is not offset by a cash flow from the translation of the underlying hedged equity. The company monitors this cash loss potential on an ongoing basis and may discontinue some of these hedging relationships by de-designating or terminating the derivative instrument in order to manage the liquidity risk. Although not designated as accounting hedges, the company may utilize derivatives to offset the changes in the fair value of the de-designated instruments from the date of de-designation until maturity.
+
+In its hedging programs, the company may use forward contracts, futures contracts, interest-rate swaps, cross-currency swaps, equity swaps, and options depending upon the underlying exposure. The company is not a party to leveraged derivative instruments.
+
+A brief description of the major hedging programs, categorized by underlying risk, follows.
+
+Interest Rate Risk
+
+Fixed and Variable Rate Borrowings
+
+The company issues debt in the global capital markets to fund its operations and financing business. Access to cost-effective financing can result in interest rate mismatches with the underlying assets. To manage these mismatches and to reduce overall interest cost, the company may use interest-rate swaps to convert specific fixed-rate debt issuances into variable-rate debt (i.e., fair value hedges) and to convert specific variable-rate debt issuances into fixed-rate debt (i.e., cash flow hedges). At September 30, 2019 and December 31, 2018, the total notional amount of the company’s interest-rate swaps was $4.7 billion and $7.6 billion, respectively. The weighted-average remaining maturity of these instruments at September 30, 2019 and December 31, 2018 was approximately 2.7 years and 3.5 years, respectively. These interest-rate contracts were accounted for as fair value hedges. The company did not have any cash flow hedges relating to this program outstanding at September 30, 2019 and December 31, 2018.
+
+Forecasted Debt Issuance
+
+The company is exposed to interest rate volatility on future debt issuances. To manage this risk, the company may use instruments such as forward starting interest-rate swaps to lock in the rate on the interest payments related to the forecasted debt issuances. On May 15, 2019, the company issued an aggregate of $20 billion of indebtedness (see note 13, “Borrowings,” for additional information). Following the receipt of the net proceeds from this debt offering, the company terminated $5.5 billion of forward starting interest-rate swaps. These instruments were designated and accounted for as cash flow hedges for a portion of this issuance and hedged exposure to the variability in future cash flows over a maximum of 30 years. These swaps were the only instruments outstanding under this program at December 31, 2018, and there were no instruments outstanding at September 30, 2019. 
+
+In connection with cash flow hedges of forecasted interest payments related to the company's borrowings, the company recorded net losses of $196 million and net losses of $35 million (before taxes) at September 30, 2019 and 
+
+Notes to Consolidated Financial Statements — (continued)
+
+December 31, 2018, respectively, in AOCI. The company estimates that $18 million (before taxes) of the deferred net losses on derivatives in AOCI at September 30, 2019 will be reclassified to net income within the next 12 months, providing an offsetting economic impact against the underlying interest payments.
+
+Foreign Exchange Risk
+
+Long-Term Investments in Foreign Subsidiaries (Net Investment)
+
+A large portion of the company’s foreign currency denominated debt portfolio is designated as a hedge of net investment in foreign subsidiaries to reduce the volatility in stockholders’ equity caused by changes in foreign currency exchange rates in the functional currency of major foreign subsidiaries with respect to the U.S. dollar. The company also uses cross-currency swaps and foreign exchange forward contracts for this risk management purpose. At September 30, 2019 and December 31, 2018, the total notional amount of derivative instruments designated as net investment hedges was $11.4 billion and $6.4 billion, respectively. At September 30, 2019 and December 31, 2018, the weighted-average remaining maturity of these instruments was approximately 0.2 years at both periods.
+
+Anticipated Royalties and Cost Transactions
+
+The company’s operations generate significant nonfunctional currency, third-party vendor payments and intercompany payments for royalties and goods and services among the company’s non-U.S. subsidiaries and with the company. In anticipation of these foreign currency cash flows and in view of the volatility of the currency markets, the company selectively employs foreign exchange forward contracts to manage its currency risk. These forward contracts are accounted for as cash flow hedges. The maximum length of time over which the company has hedged its exposure to the variability in future cash flows is four years. At September 30, 2019 and December 31, 2018, the total notional amount of forward contracts designated as cash flow hedges of forecasted royalty and cost transactions was $9.9 billion and $9.8 billion, respectively. At September 30, 2019 and December 31, 2018, the weighted-average remaining maturity of these instruments was approximately 0.7 years and 0.8 years, respectively.
+
+At September 30, 2019 and December 31, 2018, in connection with cash flow hedges of anticipated royalties and cost transactions, the company recorded net gains of $337 million and net gains of $342 million (before taxes), respectively, in AOCI. The company estimates that $266 million (before taxes) of deferred net gains on derivatives in AOCI at September 30, 2019 will be reclassified to net income within the next 12 months, providing an offsetting economic impact against the underlying anticipated transactions.
+
+Foreign Currency Denominated Borrowings
+
+The company is exposed to exchange rate volatility on foreign currency denominated debt. To manage this risk, the company employs cross-currency swaps to convert fixed-rate foreign currency denominated debt to fixed-rate debt denominated in the functional currency of the borrowing entity. These swaps are accounted for as cash flow hedges. The maximum length of time over which the company has hedged its exposure to the variability in future cash flows is approximately 12 years. At September 30, 2019 and December 31, 2018, the total notional amount of cross-currency swaps designated as cash flow hedges of foreign currency denominated debt was $12.2 billion and $6.5 billion, respectively.
+
+At September 30, 2019 and December 31, 2018, in connection with cash flow hedges of foreign currency denominated borrowings, the company recorded net losses of $138 million and net gains of $75 million (before taxes), respectively, in AOCI. The company estimates that $278 million (before taxes) of deferred net gains on derivatives in AOCI at September 30, 2019 will be reclassified to net income within the next 12 months, providing an offsetting economic impact against the underlying exposure.
+
+Notes to Consolidated Financial Statements — (continued)
+
+
+The company uses its Global Treasury Centers to manage the cash of its subsidiaries. These centers principally use currency swaps to convert cash flows in a cost-effective manner. In addition, the company uses foreign exchange forward contracts to economically hedge, on a net basis, the foreign currency exposure of a portion of the company’s nonfunctional currency assets and liabilities. The terms of these forward and swap contracts are generally less than one year. The changes in the fair values of these contracts and of the underlying hedged exposures are generally offsetting and are recorded in other (income) and expense in the Consolidated Statement of Earnings. At September 30, 2019 and December 31, 2018, the total notional amount of derivative instruments in economic hedges of foreign currency exposure was $8.2 billion and $5.2 billion, respectively.
+
+Equity Risk Management
+
+
+Other Risks
+
+The company may hold warrants to purchase shares of common stock in connection with various investments that are deemed derivatives because they contain net share or net cash settlement provisions. The company records the changes in the fair value of these warrants in other (income) and expense in the Consolidated Statement of Earnings. The company did not have any warrants qualifying as derivatives outstanding at September 30, 2019 and December 31, 2018.
+
+The company is exposed to a potential loss if a client fails to pay amounts due under contractual terms. The company may utilize credit default swaps to economically hedge its credit exposures. The swaps are recorded at fair value with gains and losses reported in other (income) and expense in the Consolidated Statement of Earnings. The company did not have any derivative instruments relating to this program outstanding at September 30, 2019 and December 31, 2018.
+
+The company is exposed to market volatility on certain investment securities. The company may utilize options or forwards to economically hedge its market exposure. The derivatives are recorded at fair value with gains and losses reported in other (income) and expense in the Consolidated Statement of Earnings. At September 30, 2019 and December 31, 2018, the company did not have any derivative instruments relating to this program outstanding. 
+
+The following tables provide a quantitative summary of the derivative and non-derivative instrument-related risk management activity at September 30, 2019 and December 31, 2018, as well as for the three and nine months ended September 30, 2019 and 2018, respectively.
+
+Notes to Consolidated Financial Statements — (continued)
+
+Fair Values of Derivative Instruments in the Consolidated Statement of Financial Position
+
+
+
+
+
+
+
+Notes to Consolidated Financial Statements — (continued)
+
+The Effect of Derivative Instruments in the Consolidated Statement of Earnings
+
+
+
+
+Notes to Consolidated Financial Statements — (continued)
+
+
+
+
+
+
+
+
+
+
+
+Notes to Consolidated Financial Statements — (continued)
+
+
+
+
+
+
+
+
+
+​
+
+For the three and nine months ending September 30, 2019 and 2018, there were no material gains or losses excluded from the assessment of hedge effectiveness (for fair value or cash flow hedges), or associated with an underlying exposure that did not or was not expected to occur (for cash flow hedges); nor are there any anticipated in the normal course of business.
+
+
+The company conducts business as both a lessee and a lessor. In its ordinary course of business, the company enters into leases as a lessee for property, plant and equipment. The company is also the lessor of certain equipment, mainly through its Global Financing segment.
+
+Notes to Consolidated Financial Statements — (continued)
+
+When procuring goods or services, or upon entering into a contract with its clients, the company determines whether an arrangement contains a lease at its inception. As part of that evaluation, the company considers whether there is an implicitly or explicitly identified asset in the arrangement and whether the company, as the lessee, or the client, if the company is the lessor, has the right to control that asset.
+
+The company determines whether there is a right to control the use of the asset by assessing its rights, as the lessee, or the client’s rights, if the company is the lessor, to obtain substantially all of the economic benefits from the use of the identified asset and the right to direct the use of the identified asset. If there is either an explicit or embedded lease within a contract, the company determines the classification of the lease (e.g., finance, operating, sales-type lease) at the lease commencement date.
+
+Accounting for leases as a lessee
+
+Effective January 1, 2019, when the company is the lessee, all leases with a term of more than 12 months are recognized as ROU assets and associated lease liabilities in the Consolidated Statement of Financial Position. The lease liabilities are measured at the lease commencement date and determined using the present value of the lease payments not yet paid and the company's incremental borrowing rate, which approximates the rate at which the company would borrow, on a secured basis, in the country where the lease was executed. The interest rate implicit in the lease is generally not determinable in transactions where the company is the lessee. The ROU asset equals the lease liability adjusted for any IDCs, prepaid rent and lease incentives. Fixed and in-substance fixed payments are included in the recognition of ROU assets and lease liabilities, however, variable lease payments, other than those based on a rate or index, are recognized in the Consolidated Statement of Earnings in the period in which the obligation for those payments is incurred. The company’s variable lease payments generally relate to payments tied to various indexes, non-lease components and payments above a contractual minimum fixed payment.
+
+ROU assets represent the company’s right to control the underlying assets under lease, and the lease liability is the obligation to make the lease payments related to the underlying assets under lease. Operating leases are included in operating right-of-use assets – net, current operating lease liabilities and operating lease liabilities in the Consolidated Statement of Financial Position. Finance leases are included in property, plant and equipment, short-term debt and long-term debt in the Consolidated Statement of Financial Position. At September 30, 2019, the total amount of ROU assets and lease liabilities for finance leases recognized in the Consolidated Statement of Financial Position in property, plant and equipment, short-term debt and long-term debt was $140 million, $34 million and $121 million, respectively.
+
+Finance lease ROU assets are generally amortized on a straight-line basis over the lease term with the interest expense on the lease liability recorded using the interest method. The amortization and interest expense are recorded separately in the Consolidated Statement of Earnings. For operating leases, the amortization of the ROU asset and the interest expense on the lease liability are not separately recorded; rather, the lease cost is recognized on a straight-line basis over the lease term as a single-line item in the Consolidated Statement of Earnings, unless the ROU asset is impaired. The company has elected to not recognize leases with a lease term of less than 12 months in the Consolidated Statement of Financial Position, including those acquired in a business combination, and lease costs for those short-term leases are recognized on a straight-line basis over the lease term in the Consolidated Statement of Earnings.
+
+
+Notes to Consolidated Financial Statements — (continued)
+
+
+
+​
+
+There were no net gains recorded on sale and leaseback transactions for the three months ended September 30, 2019 and the company recorded $41 million of net gains for the nine months ended September 30, 2019.
+
+
+
+
+
+
+​
+
+Notes to Consolidated Financial Statements — (continued)
+
+
+
+Prior to the adoption of the new lease guidance on January 1, 2019, ROU assets and lease liabilities for operating leases were not recognized in the Consolidated Statement of Financial Position. The company elected the practical expedient to not provide comparable presentation in the Consolidated Statement of Financial Position for periods prior to adoption. Rental expense, including amounts charged to inventories and fixed assets, and excluding amounts previously reserved, was $1,944 million for the year ended December 31, 2018. Rental expense in agreements with rent holidays and scheduled rent increases was previously recognized on a straight-line basis over the lease term. Contingent rentals were included in the determination of rental expense as accruable.
+
+
+​
+
+The difference between the company’s total lease commitments as reported at December 31, 2018 compared to the January 1, 2019 ROU asset balance in the Consolidated Statement of Financial Position is primarily due to the required use of a discount factor (imputed interest) under the new lease guidance and certain amounts that are not included in the ROU asset under the new lease guidance (e.g., tenant incentives and vacant space).
+
+Accounting for leases as a lessor
+
+The company typically enters into leases as an alternative means of realizing value from equipment that it would otherwise sell. Assets under lease include new and used IBM equipment and certain OEM products. IBM equipment generally consists of IBM Z, Power Systems and Storage Systems products.
+
+Lease payments due to IBM are typically fixed and paid in equal installments over the lease term. The majority of the company’s leases do not contain variable payments that are dependent on an index or a rate. Variable lease payments that do not depend on an index or a rate (e.g., property taxes), that are paid directly by the company and are reimbursed by the client, are recorded as revenue, along with the related cost, in the period in which collection of these payments is probable. Payments that are made directly by the client to a third party, including certain property taxes and insurance, are not considered part of variable payments and therefore are not recorded by the company. The company has made a policy election to exclude from consideration in contracts all collections from sales and other similar taxes.
+
+Notes to Consolidated Financial Statements — (continued)
+
+The company’s payment terms for leases are typically unconditional. Therefore, in an instance when the client requests to terminate the lease prior to the end of the lease term, the client would typically be required to pay the remaining lease payments in full. At the end of the lease term, the company allows the client to either return the equipment, purchase the equipment at the then-current fair market value or at a pre-stated purchase price or renew the lease based on mutually agreed upon terms. 
+
+When lease arrangements include multiple performance obligations, the company allocates the consideration in the contract between the lease components and the non-lease components on a relative standalone selling price basis.
+
+
+
+​
+
+Sales-Type and Direct Financing Leases 
+
+If a lease is classified as a sales-type or direct financing lease, the carrying amount of the asset is derecognized from inventory and a net investment in the lease is recorded. For a sales-type lease, the net investment in the lease is measured at commencement date as the sum of the lease receivable and the estimated residual value of the equipment less unearned income and allowance for credit losses. At September 30, 2019, the unguaranteed residual value of sales-type and direct financing leases was $565 million. For further information on the company’s net investment in leases, including residual values, refer to note 6, “Financing Receivables.” Any selling profit or loss arising from a sales-type lease is recorded at lease commencement. Selling profit or loss is presented on a gross basis when the company enters into a lease to realize value from a product that it would otherwise sell in its ordinary course of business, whereas in transactions where the company enters into a lease for the purpose of generating revenue by providing financing, the selling profit or loss is presented on a net basis. Under a sales-type lease, initial direct costs are expensed at lease commencement. Over the term of the lease, the company recognizes finance income on the net investment in the lease and any variable lease payments, which are not included in the net investment in the lease.
+
+Notes to Consolidated Financial Statements — (continued)
+
+For a direct financing lease, the investment in the lease is measured similarly to a sales-type lease, however, the net investment in the lease is reduced by any selling profit. In a direct financing lease, the selling profit and initial direct costs are deferred at commencement and recognized over the lease term. The company rarely enters into direct financing leases.
+
+The estimated residual value represents the estimated fair value of the equipment under lease at the end of the lease. Estimating residual value is a risk unique to financing activities, and management of this risk is dependent upon the ability to accurately project future equipment values. The company has insight into product plans and cycles for the IBM products under lease. The company estimates the future fair value of leased equipment by using historical models, analyzing the current market for new and used equipment and obtaining forward-looking product information such as marketing plans and technology innovations.
+
+The company optimizes the recovery of residual values by extending lease arrangements with, or selling leased equipment to existing clients. The company has historically managed residual value risk both through insight into its own product cycles and monitoring of OEM IT product announcements. The company periodically reassesses the realizable value of its lease residual values. Anticipated decreases in specific future residual values that are considered to be other-than-temporary are recognized immediately upon identification and are recorded as an adjustment to the residual value estimate. For sales-type and direct financing leases, this reduction lowers the recorded net investment and is recognized as a loss charged to finance income in the period in which the estimate is changed, as well as an adjustment to unearned income to reduce future-period financing income. For the three and nine months ended September 30, 2019 and September 30, 2018, respectively, impairment of residual values was immaterial.
+
+
+
+Operating Leases
+
+Equipment provided to clients under an operating lease is carried at cost within property, plant and equipment in the Consolidated Statement of Financial Position and depreciated over the lease term using the straight-line method, generally ranging from one to six years. The depreciable basis is the original cost of the equipment less the estimated residual value of the equipment at the end of the lease term. At September 30, 2019, the unguaranteed residual value of operating leases was $88 million.
+
+At commencement of an operating lease, IDCs are deferred. As lease payments are made, the company records sales revenue over the lease term. IDCs are amortized over the lease term on the same basis as lease income is recorded.
+
+Notes to Consolidated Financial Statements — (continued)
+
+
+​
+
+Assets under operating leases are tested for impairment whenever events or changes in circumstances indicate that the carrying amount may not be recoverable. The impairment test is based on undiscounted cash flows, and, if impaired, the asset is written down to fair value based on either discounted cash flows or appraised values. There were no material impairment losses incurred during the three and nine months ended September 30, 2019 for assets under operating leases. These assets are included in property, plant and equipment ꟷ net in the Consolidated Statement of Financial Position.
+
+
+Financing receivables primarily consist of client loan and installment payment receivables (loans), investment in sales-type and direct financing leases and commercial financing receivables. Client loan and installment payment receivables (loans) are provided primarily to clients to finance the purchase of hardware, software and services. Payment terms on these financing arrangements are generally for terms up to seven years. Client loans and installment payment financing contracts are priced independently at competitive market rates. Investment in sales-type and direct financing leases relates principally to the company’s Systems products and are for terms ranging generally from two to six years. Commercial financing receivables relate primarily to inventory and accounts receivable financing for dealers and remarketers of IBM and OEM products. Payment terms for inventory and accounts receivable financing generally range from 30 to 90 days.
+
+ Beginning in the second quarter of 2019 and continuing throughout the year, the company is winding down the portion of its commercial financing operations which provides short-term working capital solutions for OEM information technology suppliers, distributors and resellers, which has resulted in a significant reduction of commercial financing receivables. This wind down is consistent with IBM’s capital allocation strategy and high-value focus. IBM Global Financing will continue to provide differentiated end-to-end financing solutions, including commercial financing in support of IBM partner relationships.
+
+Notes to Consolidated Financial Statements — (continued)
+
+
+
+
+​
+
+The company utilizes certain of its financing receivables as collateral for nonrecourse borrowings. Financing receivables pledged as collateral for borrowings were $939 million and $710 million at September 30, 2019 and December 31, 2018, respectively.
+
+The company did not have any financing receivables held for sale as of September 30, 2019 and December 31, 2018. 
+
+Notes to Consolidated Financial Statements — (continued)
+
+Financing Receivables by Portfolio Segment
+
+
+
+
+Write-offs of lease receivables and loan receivables were $11 million and $12 million, respectively, for the nine months ended September 30, 2019. Provision for credit losses recorded for lease receivables and loan receivables were a release of $3 million and $2 million, respectively, for the nine months ended September 30, 2019.
+
+The average recorded investment of impaired leases and loans for Americas, EMEA and Asia Pacific were $141 million, $48 million and $46 million, respectively, for the three months ended September 30, 2019 and $143 million, $56 million and $76 million, respectively, for the three months ended September 30, 2018. Both interest income recognized and interest income recognized on a cash basis on impaired leases and loans were immaterial for the three months ended September 30, 2019 and 2018.
+
+The average recorded investment of impaired leases and loans for Americas, EMEA and Asia Pacific were $144 million, $49 million and $48 million, respectively, for the nine months ended September 30, 2019 and $136 million, $56 million and $79 million, respectively, for the nine months ended September 30, 2018. Both interest income recognized 
+
+Notes to Consolidated Financial Statements — (continued)
+
+and interest income recognized on a cash basis on impaired leases and loans were immaterial for the nine months ended September 30, 2019 and 2018.
+
+
+
+Write-offs of lease receivables and loan receivables were $15 million and $20 million, respectively, for the year ended December 31, 2018. Provisions for credit losses recorded for lease receivables and loan receivables were $14 million and $2 million, respectively, for the year ended December 31, 2018.
+
+When determining the allowances, financing receivables are evaluated either on an individual or a collective basis. For individually evaluated receivables, the company determines the expected cash flow for the receivable and calculates an estimate of the potential loss and the probability of loss. For those accounts in which the loss is probable, the company records a specific reserve. The company considers any receivable with an individually evaluated reserve as an impaired receivable.
+
+
+Past Due Financing Receivables
+
+The company considers a client’s financing receivable balance past due when any installment is aged over 90 days. The following table summarizes information about the recorded investment in lease and loan financing receivables, 
+
+Notes to Consolidated Financial Statements — (continued)
+
+including recorded investments aged over 90 days and still accruing, billed invoices aged over 90 days and still accruing, and recorded investment not accruing.
+
+
+
+
+
+​
+
+Credit Quality Indicators
+
+The company’s credit quality indicators, which are based on rating agency data, publicly available information and information provided by customers, are reviewed periodically based on the relative level of risk. The resulting indicators are a numerical rating system that maps to Moody’s Investors Service credit ratings as shown below. The company uses information provided by Moody’s, where available, as one of many inputs in its determination of customer credit ratings.
+
+The following tables present the recorded investment net of allowance for credit losses for each class of receivables, by credit quality indicator, at September 30, 2019 and December 31, 2018. Receivables with a credit quality indicator 
+
+Notes to Consolidated Financial Statements — (continued)
+
+ranging from Aaa to Baa3 are considered investment grade. All others are considered non-investment grade. The credit quality indicators do not reflect mitigation actions that the company takes to transfer credit risk to third parties.
+
+
+
+​
+
+Troubled Debt Restructurings
+
+The company did not have any significant troubled debt restructurings during the nine months ended September 30, 2019 or for the year ended December 31, 2018.
+
+
+Stock-based compensation cost is measured at grant date, based on the fair value of the award, and is recognized over the employee requisite service period. The following table presents total stock-based compensation cost included in income from continuing operations.
+
+
+​
+
+Notes to Consolidated Financial Statements — (continued)
+
+Pre-tax stock-based compensation cost for the three months ended September 30, 2019 increased $91 million compared to the corresponding period in the prior year. This was primarily due to increases related to issuances and conversions of stock-based compensation for Red Hat ($79 million) and restricted stock units ($10 million).
+
+Pre-tax stock-based compensation cost for the nine months ended September 30, 2019 increased $98 million compared to the corresponding period in the prior year. This was primarily due to increases related to issuances and conversions of stock-based compensation for Red Hat ($79 million) and restricted stock units ($25 million).
+
+As of September 30, 2019, the total unrecognized compensation cost of $1.4 billion related to non-vested awards was expected to be recognized over a weighted-average period of approximately 2.5 years.
+
+There was no significant capitalized stock-based compensation cost at September 30, 2019 and 2018.
+
+
+
+​
+
+Notes to Consolidated Financial Statements — (continued)
+
+SEGMENT INFORMATION
+
+​
+
+
+
+
+
+
+​
+
+Notes to Consolidated Financial Statements — (continued)
+
+SEGMENT INFORMATION
+
+​
+
+
+
+​
+
+
+
+
+​
+
+​
+
+Notes to Consolidated Financial Statements — (continued)
+
+
+Reclassifications and Taxes Related to Items of Other Comprehensive Income
+
+
+
+Notes to Consolidated Financial Statements — (continued)
+
+
+
+
+Notes to Consolidated Financial Statements — (continued)
+
+Reclassifications and Taxes Related to Items of Other Comprehensive Income
+
+
+
+Notes to Consolidated Financial Statements — (continued)
+
+Reclassifications and Taxes Related to Items of Other Comprehensive Income
+
+
+
+
+​
+
+
+
+Notes to Consolidated Financial Statements — (continued)
+
+
+
+
+​
+
+Stock Repurchases
+
+​
+
+The Board of Directors authorizes the company to repurchase IBM common stock. At September 30, 2019, $2,008 million of Board common stock repurchase authorization was available. The company suspended its share repurchase program effective with the close of the Red Hat acquisition in order to focus on reducing debt related to the acquisition. 
+
+​
+
+
+The company offers defined benefit pension plans, defined contribution pension plans, as well as nonpension postretirement plans primarily consisting of retiree medical benefits. The following tables provide the pre-tax cost for all retirement-related plans.
+
+
+
+​
+
+
+Notes to Consolidated Financial Statements — (continued)
+
+
+
+
+
+
+​
+
+As of 2019, substantially all the plan participants in the U.S. Qualified IBM Personal Pension Plan (PPP) are considered inactive. As required by U.S. GAAP, this resulted in a change in the amortization period of unrecognized actuarial losses to the average remaining life expectancy of inactive plan participants, which was 18 years as of December 31, 2018. Recognized actuarial losses decreased $242 million and $725 million for the three and nine months ended September 30, 2019, respectively, compared to the corresponding periods in the prior year, primarily driven by the change in the amortization period. There was no impact to funded status, retiree benefit payments or funding requirements of the U.S. Qualified PPP as a result of this change.
+
+In 2019, the company expects to contribute approximately $300 million to its non-U.S. defined benefit and multi-employer plans, the largest of which will be contributed to the defined benefit pension plans in Japan, Spain and Belgium. This amount generally represents the legally mandated minimum contribution. Total net contributions to the non-U.S. plans in the first nine months of 2019 were $159 million, of which $95 million was in cash and $65 million in U.S. Treasury securities. Total contributions to the non-U.S. plans in the first nine months of 2018 were $275 million, of which $117 million was in cash and $157 million in U.S. Treasury securities. The contribution of U.S. Treasury securities is considered a non-cash transaction in the Consolidated Statement of Cash Flows.
+
+Notes to Consolidated Financial Statements — (continued)
+
+The following tables provide the components of the cost for the company’s nonpension postretirement plans.
+
+Cost of Nonpension Postretirement Plans
+
+
+
+
+
+​
+
+The company contributed $357 million in U.S. Treasury securities to the U.S. nonpension postretirement benefit and active employee medical trusts during the nine months ended September 30, 2019, and $275 million in U.S. Treasury securities during the nine months ended September 30, 2018. The contribution of U.S. Treasury securities is considered a non-cash transaction in the Consolidated Statement of Cash Flows.
+
+
+Acquisitions
+
+The company accounts for business combinations using the acquisition method and accordingly, the identifiable assets acquired, the liabilities assumed and any noncontrolling interest in the acquiree are recorded at their acquisition date fair values. Significant judgments and use of estimates are required when performing valuations. For example, the company uses judgments when estimating the fair value of intangible assets using a discounted cash flow model; which involves the use of significant estimates and assumptions with respect to revenue growth rates, customer attrition rate and discount rates.
+
+​
+
+Notes to Consolidated Financial Statements — (continued)
+
+Red Hat - On July 9, 2019, the company completed the acquisition of all of the outstanding shares of Red Hat. Red Hat’s portfolio of open-source technologies, innovative cloud development platform and developer community, combined with IBM’s innovative hybrid cloud technology, industry expertise and commitment to data, trust and security, will deliver the hybrid multicloud capabilities required to address the next chapter of cloud implementations as well as accelerate the company’s growth. Red Hat’s business model is based upon open-source software, which is an alternative to proprietary software in relation to the development and licensing of commercial software code. For Red Hat’s open-source software subscriptions, no revenue is recognized upfront from the licensing of the code itself, but rather, is recognized over time throughout the contract term as control of the promised product or service is transferred to the customer.
+
+​
+
+On the acquisition date, Red Hat shareholders received $190 per share in cash, representing a total equity value of approximately $34 billion. The company funded the transaction through a combination of cash on hand and proceeds from debt issuances. Refer to note 13, “Borrowings” for additional details on the financing of the transaction.
+
+
+​
+
+The following table reflects the preliminary purchase price allocation as of the acquisition date.
+
+
+
+
+
+​
+
+The goodwill generated is primarily attributable to the assembled workforce of Red Hat and the increased synergies expected to be achieved from the integration of Red Hat products into the company’s various integrated solutions, neither of which qualify as an amortizable intangible asset.
+
+​
+
+The overall weighted-average useful life of the identified amortizable intangible assets acquired is 10.9 years. These identified intangible assets will be amortized on a straight-line basis over their useful lives, which approximates the 
+
+Notes to Consolidated Financial Statements — (continued)
+
+
+​
+
+The valuation of the assets acquired and liabilities assumed is preliminary and subject to revision as more detailed analyses are completed. If additional information about the fair value of assets acquired and liabilities assumed becomes available, the company may further revise the preliminary purchase price allocation as soon as practical, but no later than one year from the acquisition date. Any such revisions or changes may be material.
+
+​
+
+
+​
+
+
+​
+
+The Consolidated Statement of Earnings includes revenue and a pre-tax loss attributable to Red Hat since the date of acquisition for both the three and nine months ended September 30, 2019 of $371 million and $981 million, respectively. The pre-tax loss is primarily driven by the deferred revenue fair value adjustment, retention expenses, intangible asset amortization and deal fees. It excludes interest expense.
+
+​
+
+
+​
+
+ The unaudited pro forma financial information presented below does not purport to represent the actual results of operations that IBM and Red Hat would have achieved had the companies been combined during the periods presented and is not intended to project the future results of operations that the combined company may achieve after the acquisition. Historical fiscal periods are not aligned under this presentation. The unaudited pro forma financial information does not reflect any potential cost savings, operating efficiencies, long-term debt pay down estimates, suspension of IBM’s share repurchase program, financial synergies or other strategic benefits that may be realized as a result of the acquisition and also does not reflect any restructuring costs to achieve those benefits.
+
+
+​
+
+Notes to Consolidated Financial Statements — (continued)
+
+Divestitures
+
+
+ The transaction closed on June 30, 2019. The company received cash of $812 million at closing and $40 million of the contingent consideration in the third quarter of 2019. The company expects to receive an additional $813 million (net of any additional contingent consideration) within 12 months of closing. The outstanding contingent consideration is expected to be earned within 24 months of the closing. The company recognized a pre-tax gain on the sale of $556 million on June 30, 2019, which was recorded in other (income) and expense in the Consolidated Statement of Earnings. Due to changes in transaction estimates, the company recognized an additional pre-tax gain of $72 million in the third quarter of 2019. The total gain on sale may change in the future due to contingent consideration or changes in other transaction estimates, however, material changes are not expected.
+
+​
+
+Select IBM Marketing Platform and Commerce Offerings – On April 4, 2019, IBM and Centerbridge Partners, L.P. (Centerbridge) announced a definitive agreement, in which Centerbridge would acquire select marketing platform and commerce offerings from IBM, including Customer Experience Analytics, Content Hub and Marketing Assistant, among others. The transaction included commercial software and services offerings. In addition, the company started providing Centerbridge with transition services including IT, supply chain management, and other services. Upon closing, Centerbridge announced that this business would be re-branded under the name Acoustic. The closing completed for the U.S. on June 30, 2019. The company expects a subsequent closing for the remaining countries to occur within 12 months of the U.S. closing. The timing of the subsequent closing is subject to change as more information becomes available. The company received a net cash payment of $240 million on June 30, 2019 and expects to receive an additional $150 million within 36 months of the U.S. closing.
+
+ ​
+
+The company recognized an immaterial pre-tax gain on the sale on June 30, 2019. The amount of the pre-tax gain for the remaining countries will not be determinable until the valuation of the final balance sheet transferred is completed, however, it is not expected to be material.
+
+​
+
+Seterus – On January 3, 2019, IBM and Mr. Cooper Group announced a definitive agreement, in which Mr. Cooper Group acquired IBM’s Seterus home mortgage servicing platform business. The transaction closed in the first quarter of 2019. The financial terms related to this transaction were not material.
+
+The above three divested businesses are reported in other – divested businesses. Refer to note 8, “Segments,” for additional information. 
+
+
+
+Notes to Consolidated Financial Statements — (continued)
+
+
+Intangible Assets
+
+ The following table details the company's intangible asset balances by major asset class.
+
+
+
+
+
+The aggregate intangible amortization expense was $614 million and $1,224 million for the third quarter and first nine months of 2019, respectively, versus $348 million and $1,031 million for the third quarter and first nine months of 2018, respectively. In the first nine months of 2019, the company retired $543 million of fully amortized intangible assets, impacting both the gross carrying amount and accumulated amortization by this amount. In addition, in the first nine months of 2019, the company divested select intangible assets with a gross carrying amount of $317 million and $253 million of accumulated amortization.
+
+​
+
+Notes to Consolidated Financial Statements — (continued)
+
+
+
+​
+
+Goodwill
+
+
+
+
+
+
+
+
+​
+
+There were no goodwill impairment losses recorded during the first nine months of 2019 or full year 2018 and the company has no accumulated impairment losses.
+
+​
+
+Purchase price adjustments recorded in the first nine months of 2019 and full year 2018 were related to acquisitions that were still subject to the measurement period that ends at the earlier of 12 months from the acquisition date or when 
+
+Notes to Consolidated Financial Statements — (continued)
+
+information becomes available. Net purchase price adjustments recorded during the first nine months of 2019 and full year 2018 were not material.
+
+
+Short-Term Debt
+
+
+​
+
+The weighted-average interest rate for commercial paper at September 30, 2019 and December 31, 2018 was 1.9 percent and 2.5 percent, respectively. The weighted-average interest rate for short-term loans was 2.5 percent and 4.3 percent at September 30, 2019 and December 31, 2018, respectively.
+
+Notes to Consolidated Financial Statements — (continued)
+
+Long-Term Debt
+
+
+
+
+There are no debt securities issued and outstanding by IBM International Group Capital LLC, which is an indirect, 100 percent owned finance subsidiary of IBM, the parent. Any debt securities issued by IBM International Group Capital LLC would be fully and unconditionally guaranteed by the parent.
+
+The company’s indenture governing its debt securities and its various credit facilities each contain significant covenants which obligate the company to promptly pay principal and interest, limit the aggregate amount of secured indebtedness and sale and leaseback transactions to 10 percent of the company’s consolidated net tangible assets, and 
+
+Notes to Consolidated Financial Statements — (continued)
+
+restrict the company’s ability to merge or consolidate unless certain conditions are met. The credit facilities also include a covenant on the company’s consolidated net interest expense ratio, which cannot be less than 2.20 to 1.0, as well as a cross default provision with respect to other defaulted indebtedness of at least $500 million. 
+
+The company is in compliance with all of its significant debt covenants and provides periodic certifications to its lenders. The failure to comply with its debt covenants could constitute an event of default with respect to the debt to which such provisions apply. If certain events of default were to occur, the principal and interest on the debt to which such event of default applied would become immediately due and payable. 
+
+
+​
+
+Additionally, the long-term debt table above includes Euro bonds that were issued in the first quarter of 2019 to partially finance the acquisition of Red Hat upon closing. 
+
+​
+
+
+
+​
+
+Interest on Debt
+
+
+​
+
+Lines of Credit
+
+On July 18, 2019, the company extended the maturity date of its existing $10.25 billion Five-Year Credit Agreement. In addition, the company and IBM Credit LLC entered into a new $2.5 billion 364-day Credit Agreement to replace the existing $2.5 billion 364-day Credit Agreement, and also extended the maturity date of the existing $2.5 billion Three-Year Credit Agreement. The new maturity dates for the Three-Year and Five-Year Credit Agreements are July 20, 2022 and July 20, 2024, respectively. Each of the facility sizes remain unchanged. As of September 30, 2019, there were no borrowings by the company, or its subsidiaries, under the Credit Facilities.
+
+​
+
+Notes to Consolidated Financial Statements — (continued)
+
+
+As a company with a substantial employee population and with clients in more than 175 countries, IBM is involved, either as plaintiff or defendant, in a variety of ongoing claims, demands, suits, investigations, tax matters and proceedings that arise from time to time in the ordinary course of its business. The company is a leader in the information technology industry and, as such, has been and will continue to be subject to claims challenging its IP rights and associated products and offerings, including claims of copyright and patent infringement and violations of trade secrets and other IP rights. In addition, the company enforces its own IP against infringement, through license negotiations, lawsuits or otherwise. Also, as is typical for companies of IBM’s scope and scale, the company is party to actions and proceedings in various jurisdictions involving a wide range of labor and employment issues (including matters related to contested employment decisions, country-specific labor and employment laws, and the company’s pension, retirement and other benefit plans), as well as actions with respect to contracts, product liability, securities, foreign operations, competition law and environmental matters. These actions may be commenced by a number of different parties, including competitors, clients, current or former employees, government and regulatory agencies, stockholders and representatives of the locations in which the company does business. Some of the actions to which the company is party may involve particularly complex technical issues, and some actions may raise novel questions under the laws of the various jurisdictions in which these matters arise.
+
+The company records a provision with respect to a claim, suit, investigation or proceeding when it is probable that a liability has been incurred and the amount of the loss can be reasonably estimated. Any recorded liabilities, including any changes to such liabilities for the quarter ended September 30, 2019 were not material to the Consolidated Financial Statements.
+
+In accordance with the relevant accounting guidance, the company provides disclosures of matters for which the likelihood of material loss is at least reasonably possible. In addition, the company also discloses matters based on its consideration of other matters and qualitative factors, including the experience of other companies in the industry, and investor, customer and employee relations considerations.
+
+
+
+Notes to Consolidated Financial Statements — (continued)
+
+The following is a summary of the more significant legal matters involving the company.
+
+
+On May 13, 2010, IBM and the State of Indiana (acting on behalf of the Indiana Family and Social Services Administration) sued one another in a dispute over a 2006 contract regarding the modernization of social service program processing in Indiana. After six weeks of trial, on July 18, 2012, the Indiana Superior Court in Marion County rejected the State’s claims in their entirety and awarded IBM $52 million plus interest and costs. On February 13, 2014, the Indiana Court of Appeals reversed portions of the trial judge’s findings, found IBM in material breach, and ordered the case remanded to the trial judge to determine the State’s damages, if any. The Indiana Court of Appeals also affirmed approximately $50 million of the trial court’s award of damages to IBM. On March 22, 2016, the Indiana Supreme Court affirmed the outcome of the Indiana Court of Appeals and remanded the case to the Indiana Superior Court. On August 7, 2017, the Indiana Superior Court awarded the State $128 million, which it then offset against IBM’s previously affirmed award of $50 million, resulting in a $78 million award to the State, plus interest. On September 28, 2018, the Indiana Court of Appeals affirmed the Superior Court’s $78 million award to the State, but reversed the Superior Court by awarding IBM interest on its previously affirmed $50 million award. On June 26, 2019, the Indiana Supreme Court reversed the Court of Appeals regarding the time at which the award of interest to IBM began to run, but otherwise affirmed the Superior Court’s and the Court of Appeals’ awards. The sole matter remaining is the determination of the parties’ respective interest awards.
+
+​
+
+On March 9, 2017, the Commonwealth of Pennsylvania’s Department of Labor and Industry sued IBM in Pennsylvania state court regarding a 2006 contract for the development of a custom software system to manage the Commonwealth’s unemployment insurance benefits programs. The matter is pending in a Pennsylvania court.
+
+In December 2017, CIS General Insurance Limited (CISGIL) sued IBM UK regarding a contract entered into by IBM UK and CISGIL in 2015 to implement and operate an IT insurance platform. The contract was terminated by IBM UK in July 2017 for non-payment by CISGIL. CISGIL alleges wrongful termination, breach of contract and breach of warranty. The matter is pending in the London High Court with trial scheduled for 2020.
+
+​
+
+Following the 2017 final judgment of the Appeal Court in London holding that IBM UK acted lawfully in 2010 in closing its UK defined benefit plans to future accruals for most participants and in implementing a new retirement policy, the Employment Tribunal in Southampton UK is expected to address approximately 290 individual actions alleging constructive dismissal and age discrimination brought against IBM UK in 2010 by employees who left the company at that time. The individual actions were previously stayed. The parties have an agreement to settle substantially all of the cases.
+
+In May 2015, a putative class action was commenced in the United States District Court for the Southern District of New York related to the company’s October 2014 announcement that it was divesting its global commercial semiconductor technology business, alleging violations of the Employee Retirement Income Security Act (ERISA). Management’s Retirement Plans Committee and three current or former IBM executives are named as defendants. On 
+
+Notes to Consolidated Financial Statements — (continued)
+
+September 29, 2017, the Court granted the defendants’ motion to dismiss the first amended complaint. On December 10, 2018, the Second Circuit Court of Appeals reversed the District Court order. On June 3, 2019, the Supreme Court of the United States granted defendants’ request to hear the case.
+
+The company is party to, or otherwise involved in, proceedings brought by U.S. federal or state environmental agencies under the Comprehensive Environmental Response, Compensation and Liability Act (CERCLA), known as “Superfund,” or laws similar to CERCLA. Such statutes require potentially responsible parties to participate in remediation activities regardless of fault or ownership of sites. The company is also conducting environmental investigations, assessments or remediations at or in the vicinity of several current or former operating sites globally pursuant to permits, administrative orders or agreements with country, state or local environmental agencies, and is involved in lawsuits and claims concerning certain current or former operating sites.
+
+The company is also subject to ongoing tax examinations and governmental assessments in various jurisdictions. Along with many other U.S. companies doing business in Brazil, the company is involved in various challenges with Brazilian tax authorities regarding non-income tax assessments and non-income tax litigation matters. The total potential amount related to all these matters for all applicable years is approximately $900 million. The company believes it will prevail on these matters and that this amount is not a meaningful indicator of liability.
+
+
+The company’s extended lines of credit to third-party entities include unused amounts of $3,060 million and $7,368 million at September 30, 2019 and December 31, 2018, respectively. A portion of these amounts was available to the company’s business partners to support their working capital needs. The decrease reflects the company’s wind down of its OEM IT commercial financing operations. In addition, the company has committed to provide future financing to its clients in connection with client purchase agreements for approximately $5,003 million and $4,432 million at September 30, 2019 and December 31, 2018, respectively.
+
+The company has applied the guidance requiring a guarantor to disclose certain types of guarantees, even if the likelihood of requiring the guarantor’s performance is remote. The following is a description of arrangements in which the company is the guarantor.
+
+
+It is not possible to predict the maximum potential amount of future payments under these or similar agreements due to the conditional nature of the company’s obligations and the unique facts and circumstances involved in each particular agreement. Historically, payments made by the company under these agreements have not had a material effect on the company’s business, financial condition or results of operations. 
+
+In addition, the company guarantees certain loans and financial commitments. The maximum potential future payment under these financial guarantees was $23 million and $26 million at September 30, 2019 and December 31, 2018, respectively. The fair value of the guarantees recognized in the Consolidated Statement of Financial Position is not material.
+
+Notes to Consolidated Financial Statements — (continued)
+
+Changes in the company’s warranty liability for standard warranties and deferred income for extended warranty are presented in the following tables.
+
+
+​
+
+
+
+Notes to Consolidated Financial Statements — (continued)
+
+
+The following tables provide the computation of basic and diluted earnings per share of common stock for the three and nine months ended September 30, 2019 and 2018.
+
+
+​
+
+Stock options to purchase 761,659 shares and 388,335 shares were outstanding as of September 30, 2019 and 2018, respectively, but were not included in the computation of diluted earnings per share because the options' exercise price during the respective period was greater than the average market price of the common shares, and, therefore, the effect would have been antidilutive.
+
+​
+
+Notes to Consolidated Financial Statements — (continued)
+
+
+​
+
+Stock options to purchase 886,899 shares and 264,628 shares (average of first, second and third quarter share amounts) were outstanding as of September 30, 2019 and 2018, respectively, but were not included in the computation of diluted earnings per share because the options' exercise price during the respective period was greater than the average market price of the common shares, and, therefore, the effect would have been antidilutive.
+
+
+​
+
+On October 29, 2019, the company announced that the Board of Directors approved a quarterly dividend of $1.62 per common share. The dividend is payable December 10, 2019 to shareholders of record on November 8, 2019.
+
+​
+
+​
+
+​
+
+Item 2.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+
+OF RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+
+FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2019
+
+Snapshot
+
+
+
+
+
+nm - not meaningful
+
+
+
+Effective with the first quarter of 2019, the company made a number of changes to its organizational structure and management system. As a result of these changes, the company revised its reportable segments. There was no change to the company’s Consolidated Financial Statements. Refer to note 8, “Segments” for additional information on the company’s reportable segments. The periods presented in this Form 10-Q are reported on a comparable basis. The company provided recast historical segment information reflecting these changes in a Form 8-K dated April 4, 2019.
+
+
+The references to “adjusted for currency” or “at constant currency” in the Management Discussion do not include operational impacts that could result from fluctuations in foreign currency rates. When the company refers to growth rates at constant currency or adjusts such growth rates for currency, it is done so that certain financial results can be viewed without the impact of fluctuations in foreign currency exchange rates, thereby facilitating period-to-period comparisons of its business performance. Financial results adjusted for currency are calculated by translating current period activity in local currency using the comparable prior year period’s currency conversion rate. This approach is 
+
+Management Discussion – (continued)
+
+used for countries where the functional currency is the local currency. Generally, when the dollar either strengthens or weakens against other currencies, the growth at constant currency rates or adjusting for currency will be higher or lower than growth reported at actual exchange rates. Refer to “Currency Rate Fluctuations” for additional information.
+
+
+​
+
+ To provide better transparency on the recurring performance of the ongoing business, the company provides revenue growth rates excluding divested businesses and at constant currency. These divested businesses are included in the company’s Other segment.
+
+​
+
+
+
+Overall, the company believes that supplementally providing investors with a view of operating earnings as described above provides increased transparency and clarity into both the operational results of the business and the performance of the company’s pension plans; improves visibility to management decisions and their impacts on operational performance; enables better comparison to peer companies; and allows the company to provide a long-term strategic view of the business going forward. The company’s reportable segment financial results reflect pre-tax operating earnings from continuing operations, consistent with the company’s management and measurement system. In addition, these non-GAAP measures provide a perspective consistent with areas of interest the company routinely receives from investors and analysts. 
+
+Management Discussion – (continued)
+
+
+
+ Refer to page 102 for a more detailed reconciliation of net income to operating earnings.
+
+
+nm - not meaningful
+
+
+
+​
+
+
+​
+
+ Total cloud revenue of $5.0 billion in the third quarter of 2019 grew 11 percent as reported and 12 percent adjusted for currency. Over the trailing 12 months, total cloud revenue was $20.0 billion, up 5 percent (8 percent adjusted for currency) year to year.
+
+​
+
+Management Discussion – (continued)
+
+
+ Total consolidated gross margin of 46.2 percent decreased 0.7 points year to year, primarily due to acquisition- related activity for Red Hat (including the deferred revenue adjustment, amortization of intangibles and retention costs) and from the businesses divested in the second quarter, partially offset by improvements in operating leverage. Operating (non-GAAP) gross margin of 47.4 percent was flat versus the prior year, primarily driven by the same factors as above, excluding the amortization of intangibles. 
+
+ ​
+
+ Total expense and other (income) increased 17.3 percent in the third quarter of 2019 versus the prior year primarily driven by higher spending including Red Hat, investments in software and systems innovation, and lower intellectual income (IP) income, partially offset by lower non-operating retirement-related costs and divested businesses. Total operating (non-GAAP) expense and other (income) increased 15.9 percent year to year, driven primarily by the higher spending described above. 
+
+​
+
+ Pre-tax income from continuing operations of $1.5 billion decreased 49.2 percent and the pre-tax margin was 8.4 percent, a decrease of 7.5 points versus the prior-year period. This decline was primarily driven by the purchase accounting deferred revenue adjustment (lower revenue without an equivalent adjustment to cost and expense) and the acquisition-related activity. The continuing operations effective tax rate for the third quarter of 2019 was (9.9) percent, a decrease of 20.1 points compared to the third quarter of 2018. The year-to-year decrease was primarily driven by a benefit from the realization of a tax only capital loss in a subsidiary (10.7 points), an increase in tax benefits attributable to audit activity (4.3 points), as well as a benefit due to the mix of geographic income year to year (5.0 points), primarily driven by Red Hat. Net income of $1.7 billion decreased 37.9 percent and the net income margin was 9.3 percent, a decrease of 5.1 points year to year.
+
+ ​
+
+ Operating (non-GAAP) pre-tax income from continuing operations of $2.4 billion decreased 33.4 percent year to year and the operating (non-GAAP) pre-tax margin from continuing operations decreased 5.9 points to 13.3 percent. The operating (non-GAAP) tax rate for the third quarter of 2019 was 0.1 percent, a decrease of 12.7 points compared to the third quarter of 2018. The change in the operating (non-GAAP) tax rate was primarily driven by the same factors mentioned above. Operating (non-GAAP) income from continuing operations of $2.4 billion decreased 23.6 percent with an operating (non-GAAP) income margin from continuing operations of 13.3 percent, down 3.4 points year to year.
+
+​
+
+ Diluted earnings per share from continuing operations of $1.87 in the third quarter of 2019 decreased 36.4 percent and operating (non-GAAP) diluted earnings per share of $2.68 decreased 21.6 percent versus the third quarter of 2018. In the third quarter of 2019, the company repurchased 0.8 million shares of its common stock at a cost of $0.1 billion and had $2.0 billion remaining in the current share repurchase authorization at September 30, 2019. The company suspended its share repurchase program at the time of the Red Hat closing.
+
+ The company generated $3.6 billion in cash flow provided by operating activities, a decrease of $0.6 billion compared to the third quarter of 2018. In the third quarter of 2019, investing activities were a net use of cash of $30.4 billion compared to $3.0 billion in the prior year, primarily driven by cash used for the Red Hat acquisition. Financing activities were a use of cash of $8.2 billion in the third quarter of 2019 compared to $0.4 billion in the prior year. The $7.7 billion increase in financing cash outflows year to year was driven by net cash related to debt transactions. In the third quarter of 2019, there was a net payment of debt of $6.6 billion versus $1.6 billion of net issuances in the prior year. 
+
+​
+
+ The company expects GAAP earnings per share from continuing operations of at least $10.58 and continues to expect operating (non-GAAP) earnings of at least $12.80 per diluted share for 2019. The company continues to expect free cash flow to be approximately $12 billion in 2019. Refer to the Liquidity and Capital Resources section for additional information on this non-GAAP measure. Refer to the Looking Forward section for additional information on the company’s expectations. 
+
+​
+
+Management Discussion – (continued)
+
+
+
+ (1.7) percent adjusted for currency.
+
+
+ 2019 results were impacted by Red Hat purchase accounting and acquisition-related activity.
+
+​
+
+
+
+ Refer to page 103 for a more detailed reconciliation of net income to operating earnings.
+
+
+ 2019 results were impacted by Red Hat purchase accounting and acquisition-related activity. 
+
+nm - not meaningful
+
+
+ In the first nine months of 2019, the company reported $55.4 billion in revenue, $5.8 billion in income from continuing operations and operating (non-GAAP) earnings of $7.2 billion, resulting in diluted earnings per share from continuing operations of $6.46 as reported and $8.10 on an operating (non-GAAP) basis. The company also generated $11.3 billion in cash from operations, $5.9 billion in free cash flow and delivered shareholder returns of $5.6 billion in dividends and gross common stock repurchases.
+
+​
+
+Management Discussion – (continued)
+
+
+​
+
+
+ The consolidated gross margin of 45.9 percent increased 0.5 points year to year, and the operating (non-GAAP) gross margin of 46.5 percent increased 0.6 points versus the prior year. The improved margins in the first nine months of 2019 reflect the actions the company has taken to focus on higher value and portfolio optimization while also driving productivity and operational efficiency, partially offset by impacts from the Red Hat acquisition.
+
+​
+
+ Total expense and other (income) decreased 0.7 percent in the first nine months of 2019 compared to the prior year. The year-to-year performance was driven by lower non-operating retirement-related costs (4 points), the impact of currency (4 points) and gains from divestitures (3 points), partially offset by higher spending including Red Hat (6 points), amortization of acquired intangible assets and other non-operating activity related to the Red Hat acquisition (3 points) and a decrease in IP income (2 points). Total operating (non-GAAP) expense and other (income) increased 0.7 percent year to year, driven primarily by the same factors excluding the non-operating retirement-related costs and the amortization of acquired intangible assets and other non-operating activity related to the Red Hat acquisition.
+
+​
+
+ Pre-tax income from continuing operations of $6.2 billion decreased 10.6 percent and the pre-tax margin was 11.1 percent, a decrease of 0.8 points versus 2018. Similar to the three months ended September 30, 2019, the nine month period was also impacted by the deferred revenue purchase accounting adjustment and Red Hat acquisition-related activity. The continuing operations effective tax rate for the first nine months of 2019 was 6.6 percent, an increase of 4.6 points compared to the first nine months of 2018. The year-to-year change was primarily driven by a reduced benefit related to audit activity compared to the prior year. Net income of $5.8 billion decreased 15.0 percent and the net income margin was 10.4 percent, down 1.3 points year to year. Operating (non-GAAP) pre-tax income from continuing operations of $7.8 billion decreased 10.4 percent year to year and the operating (non-GAAP) pre-tax margin from continuing operations decreased 1.0 point to 14.1 percent. The operating (non-GAAP) tax rate for the first nine months of 2019 was 7.4 percent, an increase of 2.0 points compared to the first nine months of 2018. The change in the operating (non-GAAP) tax rate was primarily driven by the same factors mentioned above. Operating (non-GAAP) income from continuing operations of $7.2 billion decreased 12.3 percent with an operating (non-GAAP) income margin from continuing operations of 13.1 percent, down 1.2 points year to year.
+
+​
+
+ Diluted earnings per share from continuing operations of $6.46 in the first nine months of 2019 decreased 12.2 percent and operating (non-GAAP) diluted earnings per share of $8.10 decreased 9.6 percent versus the first nine months of 2018. In the first nine months of 2019, the company repurchased 10.0 million shares of its common stock at a cost of $1.3 billion. 
+
+ At September 30, 2019, the balance sheet remained strong with the flexibility to support the business. Cash, restricted cash and marketable securities at quarter end were $11.0 billion, a decrease of $1.3 billion from December 31, 
+
+Management Discussion – (continued)
+
+2018. Although debt balances have increased since year-end 2018 driven by new issuances to finance the acquisition of Red Hat, the company reduced debt by $6.7 billion since June 30, 2019. 
+
+​
+
+
+
+​
+
+●Increases in goodwill of $21.7 billion and intangible assets of $12.5 billion primarily associated with the acquisition of Red Hat; and
+
+​
+
+●An increase in operating right-of-use assets of $4.9 billion resulting from the adoption of the new leasing standard on January 1, 2019; partially offset by
+
+​
+
+●A decrease in financing receivables of $11.5 billion primarily due to the wind down of OEM IT commercial financing operations.
+
+​
+
+
+​
+
+●An increase in total debt of $20.5 billion primarily driven by new issuances to finance the Red Hat acquisition; and
+
+​
+
+●An increase in operating lease liabilities of $5.2 billion resulting from the adoption of the new leasing standard.
+
+​
+
+
+​
+
+●Increases from net income of $5.8 billion and retirement related plans of $1.1 billion; partially offset by
+
+​
+
+●Decreases from dividends of $4.3 billion and gross share repurchases of $1.3 billion. 
+
+​
+
+ The company generated $11.3 billion in cash flow provided by operating activities, an increase of $0.2 billion compared to the first nine months of 2018, driven primarily by an increase in cash provided by financing receivables ($0.8 billion). In the first nine months of 2019, investing activities were a net use of cash of $27.1 billion compared to $5.4 billion in the prior year. The year-to-year increase was driven by an increase in cash used for acquisitions ($32.5 billion); partially offset by an increase in cash provided by non-operating finance receivables ($5.7 billion) and a decrease in cash used for net purchases of marketable securities and other investments ($3.1 billion). In the first nine months of 2019, financing activities were a source of cash of $14.7 billion compared to a use of cash of $5.9 billion in the first nine months of 2018. The $20.6 billion increase in financing cash flows year to year was driven by an increase in net cash sourced from debt transactions ($19.6 billion) primarily driven by a higher level of issuances to finance the Red Hat acquisition. 
+
+Third Quarter and First Nine Months in Review
+
+Results of Continuing Operations 
+
+Segment Details 
+
+The following is an analysis of the third quarter and first nine months of 2019 versus the third quarter and first nine months of 2018 reportable segment external revenue and gross margin results. Segment pre-tax income includes 
+
+Management Discussion – (continued)
+
+
+
+Recast to reflect segment changes.
+
+
+2019 results were impacted by Red Hat purchase accounting and acquisition-related activity.
+
+nm - not meaningful
+
+Management Discussion – (continued)
+
+
+
+nm - not meaningful
+
+
+
+
+
+
+
+Management Discussion – (continued)
+
+
+​
+
+Cognitive Applications includes software that addresses vertical and domain-specific solutions, increasingly infused with AI. This includes areas such as health, financial services, Internet of Things (IoT) solutions, The Weather Company and security software and services. In the third quarter, Cognitive Applications revenue of $1,383 million grew 4.5 percent as reported (6 percent adjusted for currency) compared to the prior year, driven by double-digit growth in Security software and services, and in industry verticals such as the Internet of Things (IoT). The Security performance included continued strong results in threat management software and services offerings. Within IoT, there was good performance across the portfolio as the business continued to invest in new offerings and industry-specifc solutions.
+
+
+​
+
+Transaction Processing Platforms includes software that supports client mission critical on-premise workloads, including transaction processing software as well as analytics and integration software running on IBM operating systems. In the third quarter, Transaction Processing Platforms revenue of $1,589 million decreased 4.8 percent as reported (4 percent adjusted for currency) compared to the prior year. Although much of this business is annuity-based, the year-to-year decline in the third quarter revenue reflects the timing of larger transactions that are tied to client buying cycles.
+
+
+
+ Recast to reflect segment changes.
+
+
+Management Discussion – (continued)
+
+
+
+
+​
+
+
+In the third quarter, pre-tax income of $1,283 million decreased 37.4 percent compared to the prior year. The pre-tax margin decreased 14.2 points to 21.5 percent in the third quarter, driven primarily by the purchase accounting impacts from the Red Hat acquisition. For the first nine months of the year, pre-tax income of $5,052 million decreased 12.3 percent compared to the prior year and the pre-tax margin decreased 4.0 points to 27.9 percent. The year-to-year margin decline in the first nine months of 2019 as compared to the same period in 2018 reflects the acquisition of Red Hat, ongoing investments in key strategic areas and a lower impact of IP partnership agreements in the first nine months of 2019.
+
+
+
+
+Global Business Services revenue of $4,117 million increased 1.0 percent as reported and 2 percent adjusted for currency in the third quarter of 2019 compared to the prior year, driven primarily by strong performance in Consulting. For the first nine months of the year, Global Business Services revenue of $12,391 million increased 0.5 percent as reported and 3 percent adjusted for currency. This growth demonstrates GBS’ ability to bring together deep industry 
+
+Management Discussion – (continued)
+
+expertise and technology to provide clients a holistic approach to de-risk and orchestrate their digital transformation journey.
+
+
+​
+
+Application Management revenue of $1,897 million declined 1.0 percent as reported, but was flat adjusted for currency compared to the third-quarter 2018, driven primarily by growth in application modernization offerings. Cloud application offerings help clients to implement cloud-centric architectures to modernize and automate their application portfolio. As the company has been standardizing on Red Hat OpenShift as the preferred development platform, there was early progress in synergies in the quarter.
+
+​
+
+Global Process Services third-quarter revenue of $247 million decreased 5.1 percent as reported and 3 percent adjusted for currency.
+
+​
+
+
+
+
+GBS third-quarter gross profit margin of 31.1 percent grew 1.1 points on a year-to-year basis, driven by the continued mix shift to higher-value offerings, the yield from delivery improvement, productivity, and utilization initiatives and a currency benefit from leveraging the global delivery resource model. Pre-tax income increased to $573 million and pre-tax margin of 13.7 percent was flat year to year in the third quarter of 2019 compared to the prior year. For the first nine months of the year, pre-tax income of $1,188 million increased 11.7 percent and the pre-tax margin increased 1.0 points to 9.4 percent. The pre-tax margin for the first nine months of 2019 included a lower level of workforce rebalancing charges year to year.
+
+Management Discussion – (continued)
+
+
+
+
+ Global Technology Services revenue of $6,700 million declined 5.6 percent as reported (4 percent adjusted for currency) in the third quarter of 2019 compared to the prior year. There was continued growth in services that help clients move and manage workloads. However, performance in the segment reflects lower in-period revenue from client business volumes in certain markets and some multi-national clients. Although these lower volumes impact near-term revenue and profit, the business had good long-term signings and a solid pipeline of future deals that will deliver productivity to clients. For the first nine months of the year, Global Technology Services revenue of $20,412 million declined 6.6 percent as reported (4 percent adjusted for currency).
+
+
+Management Discussion – (continued)
+
+
+
+
+Global Technology Services gross profit margin decreased 1.2 points to 35.8 percent in the third quarter of 2019. Margin decline was primarily driven by the lower in-period client business volumes in the quarter. The business has not yet realized the cost benefits of workforce actions taken in the second-quarter 2019, but continues to scale its Agile services delivery model and is accelerating its use of AI and automation in delivery operations, including leveraging Red Hat’s Ansible platform, which is expected to increase delivery productivity. Third-quarter pre-tax income decreased to $490 million and pre-tax margin decreased 1.2 points to 7.0 percent, reflecting the decline in gross profit margin. For the first nine months of the year, pre-tax income of $1,000 million decreased 11.0 percent and pre-tax margin of 4.7 percent declined 0.3 points year to year, reflecting a higher level of workforce rebalancing charges year to year.
+
+
+​
+
+The estimated total services backlog at September 30, 2019 was $107.6 billion, a decrease of 4.7 percent as reported (2 percent adjusted for currency). 
+
+
+Management Discussion – (continued)
+
+and are affected by several factors, including terminations, changes in the scope of contracts, periodic revalidations, adjustments for revenue not materialized and adjustments for currency.
+
+Services signings are management’s initial estimate of the value of a client’s commitment under a services contract. There are no third-party standards or requirements governing the calculation of signings. The calculation used by management involves estimates and judgments to gauge the extent of a client’s commitment, including the type and duration of the agreement, and the presence of termination charges or wind-down costs.
+
+
+
+
+​
+
+
+​
+
+Management Discussion – (continued)
+
+
+​
+
+Systems revenue of $1,481 million decreased 14.7 percent as reported (14 percent adjusted for currency) in the third quarter of 2019 compared to the prior year. Systems Hardware revenue of $1,117 million decreased 16.6 percent as reported (16 percent adjusted for currency). The decline was across the product portfolio, but primarily reflects the back end of the z14 mainframe product cycle. The business continues to invest to bring new innovation across the platforms, and introduced the next generation of IBM Z and high-end storage in mid-September. Operating Systems Software revenue of $364 million decreased 8.1 percent as reported (7 percent adjusted for currency) compared to the prior year. For the first nine months of 2019, Systems revenue of $4,562 million decreased 15.7 percent as reported (14 percent adjusted for currency) compared to the first nine months of 2018, driven primarily by IBM Z and Storage Systems. Operating Systems Software revenue decreased 1.7 percent as reported, but increased 1 percent adjusted for currency.
+
+IBM Z revenue declined 20.6 percent as reported (20 percent adjusted for currency) year to year, reflecting the end of the z14 product cycle in the current period compared to solid growth in the third-quarter 2018. The new z15 mainframe began to ship in the last week of the quarter with a good start to the cycle. The z15 mainframe’s capabilities extend the platform’s differentiation with encryption everywhere, cloud native (with the introduction of Red Hat OpenShift) and instant recovery. The z15 will offer clients improved productivity, security and efficiency.
+
+​
+
+Power Systems revenue decreased 27.5 percent as reported (27 percent adjusted for currency) year to year, as a result of strong performance in the third-quarter 2018 due to the introduction of mid-range and high-end POWER9 products and the roll-out of supercomputers to the U.S. Department of Energy labs.
+
+​
+
+Storage Systems revenue decreased 5.5 percent as reported (4 percent adjusted for currency), reflecting improvement in year-to-year performance compared to recent quarters, driven by the high-end products and growth in All Flash Array. In mid-September 2019, the company introduced the next generation, high-end storage system DS8900 which delivers comprehensive next-level cyber security, data availability and system resiliency, specifically designed for mission-critical hybrid multicloud environments.
+
+In the third quarter, Operating Systems Software revenue of $364 million decreased 8.1 percent as reported (7 percent adjusted for currency) compared to the prior year. The decline was driven by a decrease in Power Systems and IBM Z operating system software. 
+
+Management Discussion – (continued)
+
+
+
+nm - not meaningful
+
+​
+
+Systems gross profit margin of 52.6 percent was flat in the third quarter of 2019 compared to the prior year, with margin expansion in Power Systems and Storage Systems. Systems Hardware margin of 42.8 percent was flat year to year. For the first nine months of 2019, Systems gross profit margin increased 1.7 points to 51.1 percent compared to the prior year, driven by actions taken in 2018 to better position the systems cost structure over the longer term. Systems Hardware gross profit margin was flat year to year, with margin improvement in Storage Systems, offset by declines in IBM Z and Power Systems.
+
+​
+
+In the third quarter of 2019, pre-tax income of $39 million declined 81.3 percent and pre-tax margin decreased 8.6 points year to year to 2.3 percent. The pre-tax margin was impacted by portfolio mix, the z14 product cycle and investments made to bring new hardware innovation to market. For the first nine months of 2019, Systems had a pre-tax loss of $101 million compared to pre-tax income of $352 million in the first nine months of the prior year. Pre-tax margin decreased 7.9 points year to year to (2.0) percent, primarily due to the same factors as the third quarter.
+
+Global Financing
+
+Global Financing is a reportable segment that is measured as a stand-alone entity. Global Financing facilitates IBM clients’ acquisition of information technology systems, software and services by providing financing solutions in the areas where the company has the expertise, while generating strong returns on equity. Global Financing also optimizes the recovery of residual values by selling assets sourced from end of lease, leasing used equipment to new clients, or extending lease arrangements with current clients. Sales of equipment include equipment returned at the end of a lease, 
+
+Management Discussion – (continued)
+
+surplus internal equipment and used equipment purchased externally. Residual value is a risk unique to the financing business and management of this risk is dependent upon the ability to accurately project future equipment values at lease inception. Global Financing has insight into product plans and cycles for the IBM products under lease. Based upon this product information, Global Financing continually monitors projections of future equipment values and compares them with the residual values reflected in the portfolio.
+
+
+
+​
+
+In the third quarter, Global Financing total revenue of $645 million declined 11.2 percent compared to the prior year. Internal revenue decreased 10.6 percent, driven by a decrease in internal financing (down 21.7 percent to $86 million) and internal used equipment sales (down 5.2 percent to $216 million). External revenue decreased 11.7 percent (11 percent adjusted for currency), due to a decrease in external financing (down 14.6 percent to $261 million) and external used equipment sales (down 1.0 percent to $81 million).
+
+The decrease in total revenue in the first nine months of 2019 compared to the same period of 2018 was due to a decrease in internal revenue of 28.7 percent, driven by a decrease in internal used equipment sales (down 36.0 percent to $593 million) and internal financing (down 7.4 percent to $291 million). External revenue decreased 7.4 percent (5 percent adjusted for currency), driven by a decline in external used equipment sales (down 19.9 percent to $216 million) and external financing (down 3.7 percent to $884 million). 
+
+The decrease in internal financing revenue in the third quarter and the first nine months of 2019 compared to the same periods in 2018 was primarily due to lower average asset balances, partially offset by higher asset yields. The decrease in external financing revenue in the third quarter and the first nine months of 2019 compared to the same periods in 2018 reflects the company’s wind down of the OEM IT commercial financing operations. 
+
+Total sales of used equipment represented 46.1 percent of Global Financing’s revenue in the third quarter of 2019 compared to 42.7 percent in the third quarter of 2018. The increase was due to declines in internal and external financing revenue. Total sales of used equipment represented 40.8 percent of Global Financing’s revenue in the first nine months of 2019 compared to 49.2 percent in the first nine months of 2018. The decrease was due to lower volumes of both internal and external used equipment sales. The gross profit margin on used sales was 56.6 percent and 50.9 percent in the third quarter of 2019 and 2018, respectively, and 54.4 percent and 56.6 percent in the first nine months of 2019 and 2018, respectively. 
+
+Global Financing pre-tax income decreased 10.8 percent to $275 million in the third quarter of 2019 compared to the same period in 2018, due to lower gross profit of $45 million, partially offset by a decrease in expense of $12 
+
+Management Discussion – (continued)
+
+million. Pre-tax income decreased 23.0 percent to $803 million in the first nine months of 2019, compared to the same period in 2018, due to lower gross profit of $344 million, partially offset by a decrease in expense of $104 million, which was driven by a decline in IBM shared expenses in line with the segment’s performance, a lower provision for credit losses and a gain from the sale of certain commercial financing capabilities in the first quarter of 2019.
+
+Global Financing return on equity was 32.4 percent for the three months ended September 30, 2019, compared to 27.5 percent for the three months ended September 30, 2018. The increase was due to a lower average equity balance. Return on equity was 23.0 percent for the nine months ended September 30, 2019, compared to 30.5 percent for the nine months ended September 30, 2018. The decrease was driven by a decline in net income, which included higher tax expense in the first quarter of 2019 due to additional guidance issued by the U.S. Treasury regarding the U.S. tax reform repatriation tax. Refer to page 101 for the details of the after-tax income and return on equity calculation.
+
+Geographic Revenue
+
+
+
+​
+
+Total revenue of $18,028 million decreased 3.9 percent as reported and 3 percent adjusted for currency in the third quarter compared to the prior year. Americas revenue of $8,514 million decreased 3.8 percent as reported and 3 percent adjusted for currency. EMEA revenue of $5,477 million decreased 6.0 percent as reported and 2 percent adjusted for currency. Asia Pacific revenue of $4,036 million decreased 1.0 percent as reported and 2 percent adjusted for currency.
+
+​
+
+Within Americas, the U.S. decreased 5.6 percent compared to the prior year. Canada increased 7.7 percent as reported and 9 percent adjusted for currency. Latin America decreased 1.2 percent as reported, but increased 2 percent adjusted for currency, with Brazil flat as reported and up 1 percent adjusted for currency.
+
+​
+
+In EMEA, Germany decreased 11.9 percent as reported (8 percent adjusted for currency), the U.K. declined 8.7 percent as reported (3 percent adjusted for currency) and France decreased 7.8 percent as reported (3 percent adjusted for currency). Italy decreased 3.1 percent as reported, but increased 2 percent adjusted for currency. The Middle East and Africa region decreased 6.0 percent as reported (5 percent adjusted for currency).
+
+​
+
+Within Asia Pacific, Japan increased 6.4 percent as reported (2 percent adjusted for currency) compared to the prior year. China decreased 17.0 percent as reported (15 percent adjusted for currency), Australia decreased 14.2 percent as reported (8 percent adjusted for currency), and India decreased 2.9 percent as reported (3 percent adjusted for currency).
+
+​
+
+Management Discussion – (continued)
+
+Total revenue of $55,370 million decreased 4.3 percent as reported and 2 percent adjusted for currency in the first nine months of 2019 compared to the prior year. Americas revenue of $25,813 million decreased 3.6 percent as reported and 3 percent adjusted for currency. EMEA revenue of $17,354 million decreased 5.7 percent as reported and was flat adjusted for currency. Asia Pacific revenue of $12,203 million decreased 3.5 percent as reported and 2 percent adjusted for currency.
+
+​
+
+Within Americas, the U.S. decreased 4.4 percent compared to the prior year. Canada increased 4.0 percent as reported and 7 percent adjusted for currency. Latin America decreased 4.8 percent as reported, but increased 1 percent adjusted for currency, with Brazil down 10.0 percent as reported and 5 percent adjusted for currency.
+
+​
+
+In EMEA, Germany declined 9.6 percent as reported (4 percent adjusted for currency) and France decreased 8.9 percent as reported (3 percent adjusted for currency). The U.K. decreased 3.1 percent as reported, but increased 3 percent adjusted for currency. Italy declined 2.8 percent as reported, but increased 3 percent adjusted for currency. The Middle East and Africa region decreased 5.5 percent as reported and 3 percent adjusted for currency.
+
+​
+
+Within Asia Pacific, Japan increased 3.4 percent as reported (3 percent adjusted for currency) compared to the prior year. China decreased 14.1 percent as reported (11 percent adjusted for currency), Australia declined 15.7 percent as reported (9 percent adjusted for currency), and India decreased 9.1 percent as reported (5 percent adjusted for currency).
+
+Expense
+
+
+
+
+
+nm - not meaningful
+
+​
+
+
+Management Discussion – (continued)
+
+
+​
+
+ Total expense and other (income) increased 17.3 percent in the third quarter of 2019 versus the prior year primarily driven by higher spending including Red Hat, investments in software and systems innovation, and lower IP income, partially offset by lower non-operating retirement-related costs and divested businesses. Total operating (non-GAAP) expense and other (income) increased 15.9 percent year to year, driven primarily by the higher spending described above. 
+
+​
+
+For additional information regarding total expense and other (income) for both expense presentations, see the following analyses by category.
+
+​
+
+
+
+nm — not meaningful
+
+
+Management Discussion – (continued)
+
+●Higher spending (8 points) driven by Red Hat spending (10 points); and
+
+●Higher acquisition-related charges and amortization of acquired intangible assets associated with the Red Hat transaction (8 points); partially offset by
+
+●The effects of currency (2 points).
+
+Operating (non-GAAP) expense increased 7.6 percent year to year primarily driven by the same factors excluding the acquisition-related charges and amortization of acquired intangible assets associated with the Red Hat transaction.
+
+
+●Higher spending (4 points) driven by Red Hat spending (3 points); and
+
+●Higher acquisition-related charges and amortization of acquired intangible assets associated with the Red Hat transaction (2 points); partially offset by
+
+●The effects of currency (2 points).
+
+Operating (non-GAAP) expense increased 0.8 percent year to year, primarily driven by the same factors excluding the acquisition-related charges and amortization of acquired intangible assets associated with the Red Hat transaction. 
+
+Bad debt expense decreased $6 million year to year in the first nine months of 2019. The receivables provision coverage was 1.9 percent at September 30, 2019, an increase of 30 basis points from December 31, 2018 and unchanged from September 30, 2018.
+
+
+
+nm — not meaningful
+
+Management Discussion – (continued)
+
+
+
+●Higher spending (21 points) including Red Hat spending (16 points); and
+
+●Higher acquisition-related charges associated with the Red Hat transaction (4 points); partially offset by
+
+●The effects of currency (1 point).
+
+ Operating (non-GAAP) expense increased 19.8 percent year to year primarily driven by the same factors excluding acquisition-related charges associated with the Red Hat transaction.
+
+
+●Higher spending (9 points) including investment in the z15 and Red Hat spending in the third quarter (5 points); and
+
+●Higher acquisition-related charges associated with the Red Hat transaction (1 point); partially offset by
+
+●The effects of currency (1 point).
+
+Operating (non-GAAP) expense increased 7.9 percent year to year primarily driven by the same factors excluding acquisition-related charges associated with the Red Hat transaction.
+
+
+
+​
+
+ Licensing of intellectual property including royalty-based fees decreased 53.6 percent and 54.5 percent year to year in the third quarter and first nine months of 2019, respectively. This was primarily due to a decline in new partnership agreements compared to the third quarter and first nine months of 2018. The timing and amount of licensing, sales or other transfers of IP may vary significantly from period to period depending upon the timing of licensing agreements, economic conditions, industry consolidation and the timing of new patents and know-how development. 
+
+Management Discussion – (continued)
+
+
+
+nm - not meaningful
+
+
+●Lower non-operating retirement-related costs ($244 million). Refer to “Retirement-Related Plans” for additional information; and
+
+●Higher gains reflected in other from divestitures ($72 million). 
+
+Operating (non-GAAP) other (income) and expense was $166 million of income in the third quarter of 2019 and increased $51 million compared to the prior-year period. The year-to-year change was driven primarily by the higher gains from divestitures described above. 
+
+Management Discussion – (continued)
+
+
+●Lower non-operating retirement-related costs ($766 million). Refer to “Retirement-Related Plans” for additional information; 
+
+●Higher gains reflected in other from divestitures ($650 million); and
+
+●Net exchange gains (including derivative instruments) in the current year versus net exchange losses (including derivative instruments) in the prior year ($340 million). The company’s hedging programs help mitigate currency impacts in the Consolidated Statement of Earnings.
+
+Operating (non-GAAP) other (income) and expense was $1,118 million of income in the first nine months of 2019 compared to income of $219 million in the prior year. The year-to-year change was driven primarily by the dynamics described above, excluding the lower non-operating retirement-related costs.
+
+
+
+nm - not meaningful
+
+​
+
+Interest expense increased $241 million and $460 million year to year in the third quarter and first nine months of 2019, respectively. Interest expense is presented in cost of financing in the Consolidated Statement of Earnings if the related external borrowings are to support the Global Financing external business. Overall interest expense (excluding capitalized interest) for the third quarter and first nine months of 2019 was $572 million and $1,473 million, respectively, an increase of $188 million and $376 million versus the comparable prior-year periods, primarily driven by a higher average debt balance and higher average interest rates in the current year as the company issued debt to finance the Red Hat acquisition. 
+
+Operating (non-GAAP) interest expense increased $217 million and $232 million year to year in the third quarter and first nine months of 2019, respectively, and excludes the Red Hat pre-closing debt financing costs. Interest expense, post-Red Hat closing is included in operating (non-GAAP) interest expense.
+
+Management Discussion – (continued)
+
+Retirement-Related Plans
+
+
+​
+
+
+​
+
+ Total pre-tax retirement-related plan cost decreased by $242 million compared to the third quarter of 2018, driven by a decrease in recognized actuarial losses ($276 million), primarily due to the change in the amortization period in the U.S. Qualified Personal Pension Plan and higher expected return on plan assets ($35 million), partially offset by higher interest costs ($44 million). Total cost for the first nine months of 2019 decreased $803 million versus the first nine months of 2018, driven by a decrease in recognized actuarial losses ($846 million) primarily due to the amortization period change and higher expected return on plan assets ($92 million); partially offset by higher interest costs ($120 million). 
+
+​
+
+ As described in the “Operating (non-GAAP) Earnings” section, the company characterizes certain retirement-related costs as operating and others as non-operating. Utilizing this characterization, operating retirement-related costs in the 
+
+Management Discussion – (continued)
+
+third quarter of 2019 were $367 million, an increase of $2 million compared to the third quarter of 2018. Non-operating costs of $145 million in the third quarter of 2019 decreased $244 million year to year, driven primarily by lower recognized actuarial losses ($276 million) and a higher expected return on plan assets ($35 million), partially offset by higher interest costs ($44 million). For the first nine months of 2019, operating retirement-related costs were $1,078 million, a decrease of $38 million and non-operating costs were $419 million, a decrease of $766 million compared to the prior year, driven primarily by the same factors as above. 
+
+​
+
+Taxes
+
+The continuing operations effective tax rate for the third quarter of 2019 was (9.9) percent, a decrease of 20.1 points compared to the third quarter of 2018. The continuing operations effective tax rate for the first nine months of 2019 was 6.6 percent, an increase of 4.6 points compared to the first nine months of 2018. The operating (non-GAAP) tax rate for the third quarter of 2019 was 0.1 percent, a decrease of 12.7 points compared to the third quarter of 2018. The operating (non-GAAP) tax rate for the first nine months of 2019 was 7.4 percent, an increase of 2.0 points compared to the first nine months of 2018.
+
+The decrease in the continuing operations effective tax rate in the third quarter of 2019 was primarily driven by a benefit from the realization of a tax only capital loss in a subsidiary (10.7 points), an increase in tax benefits attributable to audit activity (4.3 points), as well as a benefit due to the mix of geographic income year to year (5.0 points), primarily driven by Red Hat. The change in the continuing operations tax rate for the first nine months of 2019 compared to 2018 was primarily driven by reduced benefit related to audit activity (4.6 points). The change in the operating (non-GAAP) tax rate was primarily driven by the same factors.
+
+
+The amount of unrecognized tax benefits at September 30, 2019 is $6,899 million which can be reduced by $600 million of offsetting tax benefits associated with timing adjustments, U.S. tax credits, potential transfer pricing adjustments, and state income taxes. The net amount of $6,299 million, if recognized, would favorably affect the company’s effective tax rate.
+
+Earnings Per Share
+
+Basic earnings per share is computed on the basis of the weighted-average number of shares of common stock outstanding during the period. Diluted earnings per share is computed on the basis of the weighted-average number of shares of common stock outstanding plus the effect of dilutive potential common shares outstanding during the period using the treasury stock method. Dilutive potential common shares include outstanding stock options and stock awards.
+
+Management Discussion – (continued)
+
+
+
+​
+
+Actual shares outstanding at September 30, 2019 were 885.6 million. The weighted-average number of common shares outstanding assuming dilution during the third quarter and first nine months of 2019 were 22.4 million (2.4 percent) and 27.5 million (3.0 percent) shares lower than the same periods of 2018. The decreases were primarily the result of the common stock repurchase program. 
+
+Financial Position
+
+Dynamics
+
+At September 30, 2019, the balance sheet remained strong with flexibility to support the business. Cash, restricted cash and marketable securities at quarter end were $10,957 million. The company continues to manage the investment portfolio to meet its capital preservation and liquidity objectives. Total debt of $66,327 million at September 30, 2019 increased $20,515 million from December 31, 2018, driven by new debt issuances of $26,263 million to primarily fund the Red Hat acquisition; partially offset by debt maturities of $5,376 million. Within total debt, $23,078 million is in support of the Global Financing business. In the first nine months of 2019, the company generated $11,319 million in net cash from operations, compared to $11,128 million in the first nine months of 2018. The company has consistently generated strong cash flows from operations and continues to have access to additional sources of liquidity through the capital markets and its credit facilities. The strong free cash flow generated by the company, portfolio actions taken and the suspension of share repurchases position IBM to return to its target leverage ratios within a couple of years. Through disciplined financial management, the company reduced debt by $6,712 million since June 30, 2019.
+
+The assets and debt associated with the Global Financing business are a significant part of the company’s financial position. At September 30, 2019 those balances reflect the wind down of its OEM IT commercial financing operations. The financial position amounts appearing on pages 5 and 6 are the consolidated amounts including Global Financing.
+
+Management Discussion – (continued)
+
+
+
+
+
+
+At September 30, 2019, substantially all client and commercial financing assets were IT related assets, and approximately 60 percent of the total external portfolio was with investment grade clients with no direct exposure to consumers, an increase of 6 points year to year. This investment grade percentage is based on the credit ratings of the companies in the portfolio.
+
+The company has a long-standing practice of taking mitigating actions, in certain circumstances, to transfer credit risk to third parties, including credit insurance, financial guarantees, non-recourse borrowings, transfers of receivables recorded as true sales in accordance with accounting guidance or sales of equipment under operating lease. Adjusting for the mitigation actions, the investment grade content would increase to 67 percent, a decrease of 3 points year to year.
+
+
+​
+
+
+
+●A decline in receivables of $9,604 million ($9,213 million adjusted for currency) driven by a decline in financing receivables of $10,058 million primarily due to the wind down of OEM IT commercial financing; partially offset by an increase in other receivables of $1,133 million primarily related to divestitures; and
+
+●A decrease of $1,265 million ($917 million adjusted for currency) in cash, restricted cash, and marketable securities.
+
+Management Discussion – (continued)
+
+
+●A decrease in accounts payable of $2,515 million ($2,464 million adjusted for currency) reflecting declines from seasonally higher year-end balances and the wind down of OEM IT commercial financing; and
+
+●A decrease in short-term debt of $1,677 million ($1,655 million adjusted for currency) due to maturities of $5,368 million; partially offset by reclassifications of $3,319 million from long-term debt to reflect upcoming maturities and debt issuances of $331 million; partially offset by
+
+●An increase in operating lease liabilities of $1,377 million ($1,399 million adjusted for currency) as a result of the adoption of the new leasing standard on January 1, 2019.
+
+Receivables and Allowances
+
+
+
+
+
+The total IBM receivables provision coverage was 1.9 percent at September 30, 2019, an increase of 30 basis points compared to December 31, 2018. The increase was primarily driven by the overall decline in gross financing receivables. The majority of the write-offs during the nine months ended September 30, 2019 related to receivables which had been previously reserved.
+
+Global Financing Receivables and Allowances
+
+
+
+The percentage of Global Financing receivables reserved increased from 0.9 percent at December 31, 2018, to 1.3 percent at September 30, 2019. The increase was primarily driven by the overall decline in gross receivables. Unallocated reserves decreased 30 percent from $72 million at December 31, 2018, to $50 million at September 30, 2019. Specific reserves decreased 6 percent from $220 million at December 31, 2018, to $207 million at September 30, 2019.
+
+Management Discussion – (continued)
+
+
+
+
+
+Global Financing’s bad debt expense was a release of $1 million for the three months ended September 30, 2019, compared to a release of $6 million for the same period in 2018.
+
+Global Financing’s bad debt expense was a release of $6 million for the nine months ended September 30, 2019, compared to an addition of $18 million for the same period in 2018, due to lower specific reserves and a higher unallocated reserve release in 2019.
+
+
+​
+
+
+●A net increase in goodwill and net intangible assets of $34,211 million ($34,634 million adjusted for currency) due to the acquisition of Red Hat; and
+
+●An increase in operating right-of-use assets of $4,901 million ($4,991 million adjusted for currency) as a result of the adoption of the new leasing standard on January 1, 2019; partially offset by
+
+●A decrease in long-term financing receivables of $1,408 million ($1,337 million adjusted for currency) as a result of reductions from seasonally higher year-end balances.
+
+
+●Issuances of $25,932 million primarily to finance the Red Hat acquisition; partially offset by
+
+●Reclassifications to short-term debt of $3,319 million to reflect upcoming maturities.
+
+
+●An increase in long-term operating lease liabilities of $3,790 million ($3,861 million adjusted for currency) as a result of the adoption of the new leasing standard on January 1, 2019; and
+
+●An increase in other liabilities of $3,390 million ($3,459 million adjusted for currency) primarily driven by an increase in deferred tax liabilities due to the acquisition of Red Hat; partially offset by
+
+●A decrease in retirement and postretirement plans of $1,076 million ($667 million adjusted for currency).
+
+Management Discussion – (continued)
+
+Debt
+
+
+​
+
+Total debt of $66,327 million increased $20,515 million from December 31, 2018, driven by new debt issuances of $26,263 million; partially offset by debt maturities of $5,376 million. 
+
+Non-Global Financing debt of $43,249 million increased $28,664 million from December 31, 2018 primarily driven by issuances to fund the Red Hat acquisition.
+
+Global Financing debt of $23,078 million decreased $8,148 million from December 31, 2018, primarily due to the wind down of OEM IT commercial financing operations.
+
+ Global Financing provides financing predominantly for the company’s external client assets, as well as for assets under contract by other IBM units. These assets, primarily for Global Technology Services, generate long-term, stable revenue streams similar to the Global Financing asset portfolio. Based on their attributes, these Global Technology Services assets are leveraged with the balance of the Global Financing asset base.
+
+The debt used to fund Global Financing assets is composed of intercompany loans and external debt. Total debt changes generally correspond with the level of client and commercial financing receivables, the level of cash and cash equivalents, the change in intercompany and external payables and the change in intercompany investment from IBM. The terms of the intercompany loans are set by the company to substantially match the term, currency and interest rate variability underlying the financing receivable and are based on arm’s-length pricing. The Global Financing debt-to-equity ratio remained at 9.0 to 1 at September 30, 2019.
+
+As previously stated, the company measures Global Financing as a stand-alone entity, and accordingly, interest expense relating to debt supporting Global Financing’s external client and internal business is included in the “Global Financing Results of Operations” and in note 8, “Segments.” In the company’s Consolidated Statement of Earnings, the external debt-related interest expense supporting Global Financing’s internal financing to the company is reclassified from cost of financing to interest expense.
+
+Equity
+
+Total equity increased $1,166 million from December 31, 2018, primarily due to increases from net income ($5,761 million) and retirement-related plans ($1,095 million); partially offset by decreases from dividends paid ($4,269 million) and an increase in treasury stock ($1,404 million) primarily due to share repurchases.
+
+Management Discussion – (continued)
+
+Cash Flow
+
+
+​
+
+
+●An increase of $838 million in cash provided by financing receivables; partially offset by
+
+●Performance-related declines within net income and Red Hat acquisition-related impacts.
+
+
+●An increase in net cash used for acquisitions of $32,507 million; partially offset by
+
+●An increase of $5,719 million in cash provided by net non-operating finance receivables primarily driven by the wind down of OEM IT commercial financing operations; and
+
+●A decrease in cash used for net purchases of marketable securities and other investments of $3,051 million; and
+
+●A decrease in cash used for net capital expenditures of $1,114 million; and
+
+●An increase in cash provided by divestitures of $927 million.
+
+
+●An increase in net cash sourced from debt transactions of $19,620 million primarily driven by net issuances used to fund the Red Hat acquisition; and 
+
+●A decrease in cash used for gross common share repurchases of $1,032 million.
+
+Looking Forward
+
+The company is focused on chapter 2 of cloud, which will shift mission-critical work to the cloud and optimize everything from supply chains to core banking systems. To address this opportunity, enterprises need to be able to move and manage data, services, and workflows across multiple clouds and on-premises. They also need to be able to address security concerns, data protection and protocols, availability, and cloud management. This requires a hybrid, multi-cloud, open approach. On July 9, 2019, IBM closed the acquisition of Red Hat, which will significantly change the cloud 
+
+Management Discussion – (continued)
+
+landscape and accelerate the company’s high value business model. Together, IBM and Red Hat will drive innovation and shift clients’ mission-critical workloads to the cloud by offering a next-generation hybrid, multi-cloud platform built on open source technologies. The acquisition of Red Hat positions IBM to be the leading hybrid cloud provider. 
+
+Consistent with the acquisition of a highly profitable software business, non-cash purchase accounting adjustments will result in the Red Hat acquisition being dilutive to full-year 2019 earnings per share expectations. In an acquisition, U.S. GAAP requires the company to record all assets acquired and liabilities assumed at the acquisition date fair value. This includes the acquired deferred revenue balance. This resulted in a non-cash adjustment of $2.2 billion to the acquired deferred revenue balance and will result in a reduction to reported revenue post-closing. The level of adjustment reflects the high margin profile of Red Hat’s business, and deferred revenue is expected to be replenished over the subsequent two to three years, given Red Hat’s high renewal rates and a stable and growing client base. 
+
+Red Hat is expected to be free cash flow accretive to IBM in the first twelve months, with nominal dilution in second-half 2019. The company also remains on track to achieve free cash flow of approximately $12 billion in 2019. Combined with the additional software and services profits, and net of incremental interest to finance the transaction and other acquisition-related charges, Red Hat is expected to add $0.5 billion and $1 billion to IBM’s free cash flow in 2020 and 2021, respectively.
+
+
+
+​
+
+ For full-year 2019, the company expects the GAAP effective tax rate to be approximately 8 to 9 percent, including an estimate for potential discrete tax events (discretes). The company updated its operating (non-GAAP) tax rate expectations at the August 2nd investor briefing. The company expects its operating (non-GAAP) tax rate for 2019 to be approximately 9 to 10 percent, including an estimate of potential discretes. Discretes by their nature are difficult to estimate and the actual impacts will be recorded as the discrete events occur. The rates will change year to year based on discrete tax events, such as the settlement of income tax audits and changes in tax laws, as well as recurring factors including the geographic mix of income before taxes, state and local taxes and the effects of various global income tax strategies. The GAAP effective tax rate could also be affected by adjustments to the previously recorded charges for U.S. tax reform attributable to any changes in law, new regulations and guidance, audit adjustments, among others.
+
+​
+
+The Red Hat acquisition was funded through a combination of cash and debt, with the incremental debt issued in the first half of 2019. The company will continue with a disciplined financial policy and is committed to maintaining strong investment grade credit ratings. The company is targeting a leverage profile consistent with a mid to high single A credit rating within a couple years, while maintaining its solid and growing dividend. IBM suspended its share repurchase 
+
+Management Discussion – (continued)
+
+program at the close of the acquisition to direct its free cash flow towards reducing debt levels. The combination of these actions provides the company with the flexibility to invest in the business going forward.
+
+Beginning in the second quarter of 2019 and continuing throughout the year, IBM’s Global Financing business is winding down the portion of its commercial financing operations, which provides short-term working capital solutions for OEM information technology suppliers, distributors and resellers. This is consistent with IBM’s capital allocation strategy and high-value focus. IBM Global Financing will continue to provide differentiated end-to-end financing solutions, including commercial financing in support of IBM partner relationships. The wind down of this activity is expected to reduce IBM’s revenue, with a nominal impact to profit, however it does not change the company’s earnings per share and free cash flow expectations for 2019.
+
+Beginning in 2019, within the IBM U.S. Qualified Personal Pension Plan, substantially all the plan participants are now considered inactive, which, as required by U.S. GAAP, resulted in a change in the amortization period of unrecognized actuarial losses, from the average remaining service period of active plan participants to the average remaining life expectancy of inactive plan participants. These periods are approximately 6 years and 18 years, respectively. As a result of this change, there will be a reduction to 2019 amortization expense of approximately $900 million. Actuarial loss amortization is reported within non-operating pension costs. There will be no impact to 2019 operating (non-GAAP) retirement-related costs, funded status, retiree benefit payments or funding requirements of the U.S. Qualified Personal Pension Plan. However, there will be an impact to free cash flow realization.
+
+The company expects 2019 pre-tax retirement-related plan cost to be approximately $2.0 billion, a decrease of approximately $1 billion compared to 2018. This estimate reflects current pension plan assumptions at December 31, 2018. Within total retirement-related plan cost, operating retirement-related plan cost is expected to be approximately $1.5 billion, approximately flat versus 2018. Non-operating retirement-related plan cost is expected to be approximately $0.6 billion, a decrease of approximately $1 billion compared to 2018, primarily driven by lower actuarial loss amortization resulting from the change in amortization period for the U.S. plan. Contributions for all retirement-related plans are expected to be approximately $2.2 billion in 2019, a decrease of approximately $100 million compared to 2018.
+
+Currency Rate Fluctuations
+
+Changes in the relative values of non-U.S. currencies to the U.S. dollar (USD) affect the company’s financial results and financial position. At September 30, 2019, currency changes resulted in assets and liabilities denominated in local currencies being translated into fewer dollars than at year-end 2018. The company uses financial hedging instruments to limit specific currency risks related to financing transactions and other foreign currency-based transactions.
+
+During periods of sustained movements in currency, the marketplace and competition adjust to the changing rates. For example, when pricing offerings in the marketplace, the company may use some of the advantage from a weakening U.S. dollar to improve its position competitively, and price more aggressively to win the business, essentially passing on a portion of the currency advantage to its customers. Competition will frequently take the same action. Consequently, the company believes that some of the currency-based changes in cost impact the prices charged to clients. The company also maintains currency hedging programs for cash management purposes which temporarily mitigate, but do not eliminate, the volatility of currency impacts on the company’s financial results.
+
+The company translates revenue, cost and expense in its non-U.S. operations at current exchange rates in the reported period. References to “adjusted for currency” or “constant currency” reflect adjustments based upon a simple mathematical formula. However, this constant currency methodology that the company utilizes to disclose this information does not incorporate any operational actions that management could take to mitigate fluctuating currency rates. Currency movements impacted the company’s year-to-year revenue and earnings per share growth in the first nine months of 2019. Based on the currency rate movements in the first nine months of 2019, total revenue decreased 4.3 percent as reported and 1.7 percent at constant currency versus the first nine months of 2018. On an income from continuing operations before income tax basis, these translation impacts mitigated by the net impact of hedging activities 
+
+Management Discussion – (continued)
+
+resulted in a theoretical maximum (assuming no pricing or sourcing actions) increase of approximately $240 million in the first nine months of 2019 on an as-reported basis and an increase of approximately $210 million on an operating (non-GAAP) basis. The same mathematical exercise resulted in an increase of approximately $200 million in the first nine months of 2018 on an as-reported basis and an increase of approximately $225 million on an operating (non-GAAP) basis. The company views these amounts as a theoretical maximum impact to its as-reported financial results. Considering the operational responses mentioned above, movements of exchange rates, and the nature and timing of hedging instruments, it is difficult to predict future currency impacts on any particular period, but the company believes it could be substantially less than the theoretical maximum given the competitive pressure in the marketplace.
+
+For non-U.S. subsidiaries and branches that operate in U.S. dollars or whose economic environment is highly inflationary, translation adjustments are reflected in results of operations. Generally, the company manages currency risk in these entities by linking prices and contracts to U.S. dollars.
+
+Liquidity and Capital Resources
+
+In the company’s 2018 Annual Report, on pages 60 to 62, there is a discussion of the company’s liquidity including two tables that present three years of data. The table presented on page 60 includes net cash from operating activities, cash, restricted cash and short-term marketable securities, and the size of the company’s global credit facilities for each of the past three years. For the nine months ended, or as of, as applicable, September 30, 2019, those amounts are $11.3 billion of net cash from operating activities, $11.0 billion of cash, restricted cash and short-term marketable securities and $15.3 billion in global credit facilities, respectively.
+
+
+​
+
+On July 9, 2019, the company closed the acquisition of Red Hat for cash consideration of $34.8 billion. The transaction was funded through a combination of cash on hand and proceeds from debt issuances. In order to reduce this debt and return to target leverage ratios within a couple of years, the company suspended its share repurchase program at the time of the Red Hat acquisition closing. Refer to note 13, “Borrowings,” for additional details of financing this transaction. In the third-quarter 2019, the company reduced debt by $6.7 billion.
+
+ After closing the transaction, Moody’s, as expected, downgraded IBM and IBM Credit LLC’s long-term debt rating from A1 to A2 and improved its outlook to stable. The commercial paper rating from Moody’s remains unchanged. Standard and Poor’s ratings remain unchanged. Additionally, Fitch affirmed its rating before withdrawing coverage on IBM for commercial reasons. 
+
+​
+
+IBM will continue with a disciplined financial policy and is committed to maintaining strong investment grade credit ratings. The company does not have “ratings trigger” provisions in its debt covenants or documentation, which would allow the holders to declare an event of default and seek to accelerate payments thereunder in the event of a change in credit rating. The company’s contractual agreements governing derivative instruments contain standard market clauses which can trigger the termination of the agreement if the company’s credit rating were to fall below investment grade. At September 30, 2019, the fair value of those instruments that were in a liability position was $1,074 million, before any applicable netting, and this position is subject to fluctuations in fair value period to period based on the level of the company’s outstanding instruments and market conditions. The company has no other contractual arrangements 
+
+Management Discussion – (continued)
+
+that, in the event of a change in credit rating, would result in a material adverse effect on its financial position or liquidity.
+
+In July 2017, the UK's Financial Conduct Authority, which regulates the London Interbank Offered Rate (LIBOR), announced that it intends to phase out LIBOR by the end of 2021. Various central bank committees and working groups continue to discuss replacement of benchmark rates, the process for amending existing LIBOR-based contracts, and the potential economic impacts of different alternatives. The Alternative Reference Rates Committee has identified the Secured Overnight Financing Rate (SOFR) as its preferred alternative rate for USD LIBOR. SOFR is a measure of the cost of borrowing cash overnight, collateralized by U.S. Treasury securities, and is based on directly observable U.S. Treasury-backed repurchase transactions. The company is evaluating the potential impact of the replacement of the LIBOR benchmark interest rate, including risk management, internal operational readiness and monitoring the FASB standard-setting process to address financial reporting issues that might arise in connection with transition from LIBOR to a new benchmark rate.
+
+The company prepares its Consolidated Statement of Cash Flows in accordance with applicable accounting standards for cash flow presentation on page 7 of this Form 10-Q and highlights causes and events underlying sources and uses of cash in that format on page 96. For the purpose of running its business, the company manages, monitors and analyzes cash flows in a different manner.
+
+Management uses free cash flow as a measure to evaluate its operating results, plan share repurchase levels, strategic investments and assess its ability and need to incur and service debt. The entire free cash flow amount is not necessarily available for discretionary expenditures. The company defines free cash flow as net cash from operating activities less the change in Global Financing receivables and net capital expenditures, including the investment in software. A key objective of the Global Financing business is to generate strong returns on equity, and increasing receivables is the basis for growth. Accordingly, management considers Global Financing receivables as a profit-generating investment, not as working capital that should be minimized for efficiency. Therefore, management includes presentations of both free cash flow and net cash from operating activities that exclude the effect of Global Financing receivables. Free cash flow guidance is derived using an estimate of profit, working capital and operational cash outflows. As previously noted, the company views Global Financing receivables as a profit-generating investment which it seeks to maximize and therefore it is not considered when formulating guidance for free cash flow. As a result the company does not estimate a GAAP Net Cash from Operations expectation metric.
+
+
+​
+
+Management Discussion – (continued)
+
+In the first nine months of 2019, the company generated free cash flow of $5.9 billion, an increase of $0.5 billion versus the prior year. The company made cash payments net of cash received of $32.6 billion to acquire Red Hat while also continuing to return value to shareholders including $4.3 billion in dividends and $1.4 billion in gross common stock repurchases.
+
+Events that could temporarily change the historical cash flow dynamics discussed previously and in the company’s 2018 Annual Report include significant changes in operating results, material changes in geographic sources of cash, unexpected adverse impacts from litigation, future pension funding requirements, periods of severe downturn in the capital markets or the timing of tax payments. Whether any litigation has such an adverse impact will depend on a number of variables, which are more completely described in note 14, “Contingencies,” in this Form 10-Q. With respect to pension funding, the company expects to make legally mandated pension plan contributions to certain non-U.S. defined benefit plans of approximately $300 million in 2019. Contributions related to all retirement-related plans are expected to be approximately $2.2 billion in 2019. Financial market performance could increase the legally mandated minimum contributions in certain non-U.S. countries that require more frequent remeasurement of the funded status. The company is not quantifying any further impact from pension funding because it is not possible to predict future movements in the capital markets or pension plan funding regulations.
+
+In 2019, the company is not legally required to make any contributions to the U.S. defined benefit pension plans.
+
+The company’s cash flows are sufficient to fund its current operations and obligations, including investing and financing activities such as dividends and debt service. When additional requirements arise, the company has several liquidity options available. These options may include the ability to borrow additional funds at reasonable interest rates and utilizing its committed global credit facilities.
+
+
+
+
+Management Discussion – (continued)
+
+GAAP Reconciliation
+
+
+
+
+
+
+​
+
+Management Discussion – (continued)
+
+
+
+
+
+
+​
+
+​
+
+Management Discussion – (continued)
+
+Forward-Looking and Cautionary Statements
+
+Except for the historical information and discussions contained herein, statements contained in this Form 10-Q may constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements are based on the company’s current assumptions regarding future business and financial performance. These statements involve a number of risks, uncertainties and other factors that could cause actual results to differ materially, including, but not limited to, the following: a downturn in economic environment and client spending budgets; the company’s failure to meet growth and productivity objectives; a failure of the company’s innovation initiatives; damage to the company’s reputation; risks from investing in growth opportunities; failure of the company’s intellectual property portfolio to prevent competitive offerings and the failure of the company to obtain necessary licenses; cybersecurity and data privacy considerations; fluctuations in financial results; impact of local legal, economic, political and health conditions; adverse effects from environmental matters, tax matters and the company’s pension plans; ineffective internal controls; the company’s use of accounting estimates; the company’s ability to attract and retain key employees and its reliance on critical skills; impacts of relationships with critical suppliers; product quality issues; impacts of business with government clients; currency fluctuations and customer financing risks; impact of changes in market liquidity conditions and customer credit risk on receivables; reliance on third party distribution channels and ecosystems; the company’s ability to successfully manage acquisitions, alliances and dispositions, including integration challenges, failure to achieve objectives, the assumption of liabilities, and higher debt levels; legal proceedings and investigatory risks; risk factors related to IBM securities; and other risks, uncertainties and factors discussed in the company’s Form 10-Qs, Form 10-K and in the company’s other filings with the U.S. Securities and Exchange Commission or in materials incorporated therein by reference. Any forward-looking statement in this Form 10-Q speaks only as of the date on which it is made. Except as required by law, the company assumes no obligation to update or revise any forward-looking statements.
+
+Item 4. Controls and Procedures
+
+The company’s management evaluated, with the participation of the Chief Executive Officer and Chief Financial Officer, the effectiveness of the company’s disclosure controls and procedures as of the end of the period covered by this report. Based on that evaluation, the Chief Executive Officer and Chief Financial Officer have concluded that the company’s disclosure controls and procedures were effective as of the end of the period covered by this report. There has been no change in the company’s internal control over financial reporting that occurred during the quarter covered by this report that has materially affected, or is reasonably likely to materially affect, the company’s internal control over financial reporting.
+
+​
+
+​
+
+Part II — Other Information
+
+Item 1. Legal Proceedings
+
+Refer to note 14, “Contingencies,” in this Form 10-Q.
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds and Issuer Repurchases of Equity Securities
+
+
+
+The company’s acquisition of Red Hat on July 9, 2019 was funded through a combination of debt and cash, with incremental debt issued earlier this year. The company suspended its share repurchase program at the time of closing. At September 30, 2019 there was approximately $2.0 billion in authorized funds remaining for purchases under this program.
+
+Item 5. Other Information
+
+ On September 24, 2019, the company announced that F. William McNabb III had been elected to the IBM Board of Directors, effective October 29, 2019. As a result, Article III, Section 2 of the company’s By-Laws was amended to increase the number of directors to thirteen, effective October 29, 2019. The full text of IBM’s By-Laws, as amended effective October 29, 2019, is included as Exhibit 3.2 to this report.
+
+​
+
+​
+
+​
+
+​
+
+​
+
+Item 6. Exhibits[DATA_TABLE_REMOVED]
+
+​
+
+​
+
+​
+
+SIGNATURE
+
+
+​
+
+​
+
+​
+
+​
+
