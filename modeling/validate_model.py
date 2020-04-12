@@ -3,7 +3,10 @@ Assesses the performance of a model by for each file in our validation set, comp
 between our manually generated file and
 """
 from difflib import SequenceMatcher
+from tabulate import tabulate
+from statistics import mean, median, stdev
 import os
+from collections import defaultdict
 
 MODEL_LIST = ["lda", "textrank", "lsa"]
 VALIDATION_SET_PATH = "../resources/validation_set"
@@ -94,10 +97,54 @@ def run_assessment():
 
 
 
+def tabulate_results(results):
+    # [<filename>, model1score, model2score,...]
+    rows = []
+    # list of model names
+    headers = ["test filename"]
+    flag = 0
+
+    # dict that for each model, tracks the scores in a list
+    per_model = defaultdict(list)
+
+    # iterate over each file
+    for fname, file_dict in results.items():
+
+        model_scores = []
+        # creates a list of model scores in alphabetical order based on model name
+        for model_name in sorted(file_dict):
+            model_scores.append(file_dict[model_name])
+            per_model[model_name].append(file_dict[model_name])
+            if not flag:
+                headers.append(model_name)
+        model_scores.insert(0, fname)
+        rows.append(model_scores)
+        flag = 1
+
+    means = ["mean"]
+    medians = ["median"]
+    stdevs = ["stdev"]
+    for model_name in sorted(per_model):
+        means.append(mean(per_model[model_name]))
+        medians.append(median(per_model[model_name]))
+        stdevs.append(stdev(per_model[model_name]))
+
+    rows.append(["-" for i in range(len(means))]) # spacing
+    rows.append(means)
+    rows.append(medians)
+    rows.append(stdevs)
+    table = tabulate(rows, headers)
+    print(table)
+
+
 
 if __name__ == "__main__":
     results = run_assessment()
     for fname, model_scores in results.items():
         print(fname, model_scores)
+    tabulate_results(results)
+
+
+
 
 

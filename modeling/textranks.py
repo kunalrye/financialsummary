@@ -13,6 +13,6 @@ def textrank_summarize(doc, num_sents):
     return summarized_section.splitlines()
 
 
-# summarize_train_docs(textrank_summarize, "textrank", True)
-# summarize_test_docs(textrank_summarize, "textrank", True)
-summarize_company_docs("CDW", textrank_summarize, "textrank")
+summarize_train_docs(textrank_summarize, "textrank", True)
+summarize_test_docs(textrank_summarize, "textrank", True)
+# summarize_company_docs("CDW", textrank_summarize, "textrank")

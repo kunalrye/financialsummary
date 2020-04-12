@@ -105,7 +105,7 @@ def do_lda(doc_text, NUM_SENTS):
 
 ## Example Code
 if __name__ == '__main__':
-    summarize_train_docs(do_lda, "lda")
-    summarize_test_docs(do_lda, "lda")
+    summarize_train_docs(do_lda, "lda", True)
+    summarize_test_docs(do_lda, "lda", True)
 
 
