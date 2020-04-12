@@ -15,6 +15,9 @@ from typing import Callable, List
 import math
 import sys
 
+
+
+
 def by_key(item):
     # for iterating by sorted value so that sections are in alphabetical order
     return item[0]
@@ -51,6 +54,7 @@ def summarize_sections(full_doc_name, in_comp_dirpath, out_comp_dirpath, cluster
                 doc = open(os.path.join(in_comp_dirpath, filename),'r',encoding='utf-8').read()
                 if len(doc.splitlines()) == 0 or len(doc) == 0:
                     continue
+
 
                 summarized_lines = model_func(doc, math.ceil(len(doc.splitlines()) / 2))  # rank half the doc sentences, we'll cut down later
                 if not summarized_lines or len(summarized_lines) == 0:  # don't include empty summaries
@@ -158,5 +162,6 @@ def summarize_docs_for_company(company: str, model_func: Callable[[str, int], Li
                     # the first time we see a section from a 10Q, we just process all sections of the 10Q at once
                     processed.add(full_doc_name)
                     print("processed " + full_doc_name)
+
 
 

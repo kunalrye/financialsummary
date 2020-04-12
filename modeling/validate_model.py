@@ -70,10 +70,10 @@ def assess_models(annotated_fname, manual_set):
 
         # get the set of sentences that this model generated
         if os.path.exists(os.path.join(train_folder, comp_ticker, annotated_fname)):
-            generated_file = open(os.path.join(train_folder, comp_ticker, annotated_fname))
+            generated_file = open(os.path.join(train_folder, comp_ticker, annotated_fname),encoding='utf-8')
         elif os.path.exists(os.path.join(test_folder, comp_ticker, annotated_fname)):
             # it's in the test directory
-            generated_file = open(os.path.join(test_folder, comp_ticker, annotated_fname))
+            generated_file = open(os.path.join(test_folder, comp_ticker, annotated_fname),encoding='utf-8')
         else:
             print("this shouldn't happen lmao")
             continue
@@ -90,7 +90,7 @@ def run_assessment():
     ## loop through each manually annotated file
     for root, dirs, files in os.walk(VALIDATION_SET_PATH):
         for fname in files:
-            annotated_file = open(os.path.join(VALIDATION_SET_PATH, fname)).read()
+            annotated_file = open(os.path.join(VALIDATION_SET_PATH, fname),encoding='utf-8').read()
             manual_set = set(annotated_file.splitlines())
             results[fname] = assess_models(fname, manual_set)
     return results
