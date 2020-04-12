@@ -1,20 +1,11 @@
 # financialsummary
 A Rice University D2K Lab Project
 
-# Running Our Project
-Ensure that python 3.2 or newer is installed
-Run `pip install -r requirements.txt` from the project root. Ensure that `pip` is tied to the desired python 3 installation (NOT to the python 2 installation). 
-If running code from an IDE, ensure that the IDE appends the project root to the system path. (Most IDEs already do this)
- 
-
-
-The .py files contain many helper functions called by other py files. However, many of the .py
-files contain small-use case examples under an `if __name__ == "__main__"` block. 
-
 # Installation
-## To download dependecies:
-* Install required packages through the requirements.txt file
+* Ensure that python 3.2 or newer is installed
+* If running code from an IDE, ensure that the IDE appends the project root to the system path. (Most IDEs already do this)
 * Run `pip install -r requirements.txt` while in your repo directory to automatically install all project dependencies
+ * Ensure that `pip` is tied to the desired python 3 installation (NOT to the python 2 installation). 
 
 # About:
 financialsummary is a repo dedicated to identification of key information in quarterly reports.
@@ -31,7 +22,12 @@ and extracts the most important sentences to form a summary.
 ### Initial Data Pull:
 Prior to storing our data in the resources folder, we used https://github.com/alions7000/SEC-EDGAR-text to pull the data to text files.
 
-## Code Reproducibility Testing
+
+## Other Notes 
+The .py files contain many helper functions called by other py files. However, many of the .py
+files contain small-use case examples under an `if __name__ == "__main__"` block. 
+
+### Code Reproducibility Testing
 To test code reproducability, we created a blank virtual machine running Ubuntu 18.04 LTS and installed python 3.7 and the supporting packages according to the following procedure: 
 * Use virtual box to [run an Ubuntu 18.04 running the command  LTS virtual machine] (https://www.imore.com/how-use-linux-your-mac-using-virtual-machine)
     * A disk size of 20GB should be sufficient for all project requirements, and we recommend running with at least 3 virtual cores
