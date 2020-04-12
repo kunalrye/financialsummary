@@ -1,0 +1,49 @@
+fls.txt
+
+
+
+item1.txt
+The accompanying consolidated financial statements of FLIR Systems, Inc. and its consolidated subsidiaries (the “Company”) are unaudited and have been prepared pursuant to the rules and regulations of the Securities and Exchange Commission.
+In the opinion of management, these statements have been prepared on the same basis as the audited consolidated financial statements and include all adjustments, consisting of only normal recurring adjustments, necessary for a fair presentation of the Company’s consolidated financial position and results of operations for the interim periods.
+These consolidated financial statements should be read in conjunction with the Company’s audited consolidated financial statements and the notes thereto included in the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2018.
+The most significant impact was the recognition, on a discounted basis, of right-of-use (ROU) assets totaling approximately $31.9 million and lease liabilities totaling approximately $34.2 million under non-cancelable operating leases as of January 1, 2019 and the related new required disclosures.
+The standard did not have an impact on the Company's consolidated income statements or consolidated statements of cash flows.
+For additional disclosures required under the new standard, see Note 9, "Leases" of the Notes to the Consolidated Financial Statements.
+The standard did not have a material impact on the Company's consolidated financial statements or disclosures.
+2018-15, “Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract” (“ASU 2018-15”).
+The standard did not have a material impact on the Company’s consolidated financial statements.
+Revenue is recognized upon transfer of control of promised products or services to customers in an amount that reflects the consideration the Company expects to receive in exchange for those products or services.
+The Company regularly enters into contracts that can include various combinations of products and services, which are generally capable of being distinct and accounted for as separate performance obligations.
+However, for certain contracts that include highly customized components, if performance does not create an asset with an alternative use and termination for convenience clauses provide an enforceable right to payment for performance completed to date, revenue is recognized over time as the performance obligation is satisfied.
+Revenue is recognized net of allowances for returns and net of taxes collected from customers which are subsequently remitted to governmental authorities.
+The Company's products are sold with warranty provisions that require it to remedy deficiencies in quality or performance of the Company's products over a specified period of time, generally twelve to twenty-four months, at no cost to its customers.
+Warranty liabilities are established at the time that revenue is recognized at levels that represent the Company's estimate of the costs that will be incurred to fulfill those warranty requirements.
+Provisions for estimated losses on sales or related receivables are recorded when identified.
+
+
+item2.txt
+Consolidated revenue for the three months ended June 30, 2019, increased by 6.5 percent year over year, from $452.7 million in the second quarter of 2018 to $482.0 million in the second quarter of 2019.
+Consolidated revenue for the six months ended June 30, 2019 increased by 3.9 percent year over year, from $892.3 million in the first six months of 2018 to $926.7 million in the first six months of 2019.
+Increases in revenues for the sixth month period were primarily driven by increases in our Government and Defense business unit as noted above, partially offset by declines in our Commercial business unit as a result of the divestiture of the Consumer and Small and Medium-sized ("SMB") Security businesses as announced in February 2018 and volume declines in the Maritime and Outdoor and Tactical Systems ("OTS") businesses.
+Cost of goods sold for the three and six months ended June 30, 2019 were $248.4 million and $459.5 million compared to cost of goods sold for the three and six months ended June 30, 2018 of $220.2 million and $441.9 million.
+month period is primarily driven by the Government and Defense business unit for the same reasons noted for the three month period, partially offset by declines in our Commercial business unit as a result of the divestiture of the Consumer and SMB Security businesses in the first quarter of 2018 and volume declines in the Maritime and OTS businesses.
+
+
+item3.txt
+
+
+
+item4.txt
+
+
+
+part2.txt
+The Company is subject to legal proceedings, claims and litigation arising in the ordinary course of its business.
+Additionally, we cannot be certain or give any assurance that any actions taken to reduce known risks and uncertainties will be effective.
+We derive significant revenue from contracts or subcontracts funded by United States government agencies.
+A significant reduction in the purchase of our products by these agencies or contractors for these agencies would have a material adverse effect on our business.
+The funding of contracts awarded to us depends on the overall United States government budget and appropriations process, which is beyond our control.
+Substantial uncertainty exists in the spending levels and priorities of the United States government, particularly with respect to military expenditures.
+Continued and further reductions in military spending could have a material adverse effect on our results from operations.
+
+

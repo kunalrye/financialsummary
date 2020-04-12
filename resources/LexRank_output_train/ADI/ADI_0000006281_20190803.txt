@@ -1,0 +1,46 @@
+fls.txt
+
+
+
+item1.txt
+In the opinion of management, the information furnished in the accompanying condensed consolidated financial statements reflects all normal recurring adjustments that are necessary to fairly state the results for these interim periods and should be read in conjunction with Analog Devices, Inc.’s (the Company) Annual Report on Form 10-K for the fiscal year ended November 3, 2018 (fiscal 2018) and related notes.
+The results of operations for the interim periods shown in this report are not necessarily indicative of the results that may be expected for the fiscal year ending November 2, 2019 (fiscal 2019) or any future period.
+The Company has a 52-53 week fiscal year that ends on the Saturday closest to the last day in October.
+Fiscal 2019 is a 52-week fiscal year and fiscal 2018 was a 53-week fiscal year.
+As further discussed in Note 2, Revenue Recognition and Note 13, New Accounting Pronouncements, the Company adopted the Financial Accounting Standards Board (FASB) Accounting Standards Update (ASU) 2014-09, Revenue from Contracts with Customers (ASU 2014-09), in the first quarter of fiscal 2019.
+As a result of the adoption of ASU 2014-09, the Company changed its accounting policy for revenue recognition and recognizes revenue from product sales to its customers and distributors when title passes, which is generally upon shipment.
+Prior to the adoption of ASU 2014-09, revenue and the related cost of sales on shipments to certain distributors were deferred until the distributor resold the products to their end customers.
+See Note 2, Revenue Recognition, in these Notes to Condensed Consolidated Financial Statements for the details of the Company’s revenue recognition policies.
+The adoption of ASU 2014-09 impacted the Company’s condensed consolidated statements of income and balance sheets but did not impact its condensed consolidated statements of cash flows, with the exceptions of net income and reclassifications within adjustments to reconcile net income to cash provided by operations, and did not impact the condensed consolidated statement of shareholders' equity, with the exceptions of retained earnings and net income.
+As shown in the tables below, pursuant to the guidance in ASU 2014-09, the Company restated its historical financial results to be consistent with the standard.
+See Note 13, New Accounting Pronouncements, and Note 12, Income Taxes, in these Notes to Condensed Consolidated Financial Statements for more information on the adoption of ASU 2016-16.
+Revenue from contracts with the United States government, government prime contractors and certain commercial customers is recorded over time using either units delivered or costs incurred as the measurement basis for progress toward completion.
+Changes in contract performance, estimated gross margin, including the impact of final contract settlements, and estimated losses are recognized in the period in which the changes or losses are determined.
+As of August 3, 2019, the Company had repurchased a total of approximately 152.9 million shares of its common stock for approximately $5.9 billion under the Company's share repurchase program.
+The Company estimates $2.1 million, net of tax, of losses of forward foreign currency derivative instruments included in OCI will be reclassified into earnings within the next 12 months.
+As of August 3, 2019, the Company held 8 investment securities, 6 of which were in an unrealized loss position with immaterial gross unrealized losses and an aggregate fair value of $30.0 million.
+
+
+item2.txt
+The fiscal year ending November 2, 2019 (fiscal 2019) is a 52-week year and the fiscal year ended November 3, 2018 (fiscal 2018) was a 53-week year.
+The following tables summarize revenue by end market for the three- and nine-month periods ended August 3, 2019 and August 4, 2018.
+Automotive end market revenues decreased in the three-month period ended August 3, 2019, as compared to the same period of the prior fiscal year, primarily as a result of a broad-based decrease in demand for our products.
+Industrial end market revenues decreased in the nine-month period ended August 3, 2019, as compared to the same period of the prior fiscal year, primarily as a result of a decrease in demand for products sold into the automation and memory test sectors of this end market and one less week of operations in the first nine months of fiscal 2019, as compared to the first nine months of fiscal 2018, partially offset by an increase in demand for products sold into the aerospace and defense sector of this end market.
+Automotive end market revenues decreased in the nine-month period ended August 3, 2019, as compared to the same period of the prior fiscal year, primarily as a result of a broad-based decrease in demand for our products and one less week of operations in the first nine months of fiscal 2019, as compared to the first nine months of fiscal 2018.
+
+
+item3.txt
+
+
+
+part2.txt
+Significant disruption to global credit and financial markets may also adversely affect our ability to access external financing sources on acceptable terms.
+In addition, financial difficulties experienced by our suppliers, distributors or customers could result in product delays, increased accounts receivable defaults and inventory challenges.
+As a result of these and other factors, we may experience material fluctuations in future revenue, gross margins, operating results, net income and earnings per share on a quarterly or annual basis.
+While we expect to continue to expand our business and operations in China, our success in the Chinese markets may be adversely affected by China’s continuously evolving policies, laws and regulations, including those relating to trade, taxation, import and export tariffs or restrictions, currency controls, antitrust, cybersecurity and data protection, the environment, indigenous innovation and the promotion of a domestic semiconductor industry, and intellectual property rights and enforcement and protection of those rights.
+In addition, changes in the political environment, governmental policies, international trade policies and relations, or U.S.-China relations could result in revisions to laws or regulations or their interpretation and enforcement, exposure of our proprietary intellectual property, increased taxation, trade sanctions, the imposition of import duties or tariffs, restrictions on imports or exports, currency revaluations, or retaliatory actions, which could have an adverse effect on our business plans and operating results.
+As we intend to reinvest substantially all of our foreign earnings indefinitely, certain cash held outside the United States may not be available for repatriation as dividends to the United States in the future.
+We require a substantial amount of cash in the United States for operating requirements, stock repurchases, cash dividends and acquisitions.
+Despite our efforts to protect our intellectual property, it is possible that competitors or other unauthorized third parties may obtain, copy, reverse engineer, use or disclose our technologies, products and processes.
+
+
