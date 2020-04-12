@@ -117,7 +117,11 @@ def tabulate_results(results):
             per_model[model_name].append(file_dict[model_name])
             if not flag:
                 headers.append(model_name)
+
+        ## find the model name with the highest score for that file
+        max_model_name = sorted(file_dict)[model_scores.index(max(model_scores))]
         model_scores.insert(0, fname)
+        model_scores.append(max_model_name)
         rows.append(model_scores)
         flag = 1
 
@@ -129,10 +133,12 @@ def tabulate_results(results):
         medians.append(median(per_model[model_name]))
         stdevs.append(stdev(per_model[model_name]))
 
-    rows.append(["-" for i in range(len(means))]) # spacing
+
+    rows.append(["- " for i in range(len(means))]) # spacing
     rows.append(means)
     rows.append(medians)
     rows.append(stdevs)
+    headers.append("file's best model")
     table = tabulate(rows, headers)
     print(table)
 
