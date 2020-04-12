@@ -8,6 +8,17 @@ A Rice University D2K Lab Project
  * Ensure that `pip` is tied to the desired python 3 installation (NOT to the python 2 installation). 
 * Run the financialsummary.ipynb file
 
+# Pipeline Overview
+### Exploration
+A collection of mostly jupyter notebooks to create exploratory graphs and visualizations of both the filtered and unfiltered versions of the text data. 
+
+ex. `legal_similarity.ipynb` creates a similarity heatmap between sentences in an Apple 10Q and a set of legal statements 
+
+### Wrangling
+Code to pull 10Qs from the SEC Edgar repo, and parse each into their component sections.
+
+
+
 # About:
 financialsummary is a repo dedicated to identification of key information in quarterly reports.
 Specifically, financialsummary analyzes 10-Q reports from various companies in the Information Technology sector,
