@@ -2,8 +2,11 @@
 A Rice University D2K Lab Project
 
 # Running Our Project
-If running code from an IDE, ensure that the run configuration has set the working directory to be the root of the project. 
-All paths in the code are specified from the project root. 
+Ensure that python 3.2 or newer is installed
+Run `pip install -r requirements.txt` from the project root. Ensure that `pip` is tied to the desired python 3 installation (NOT to the python 2 installation). 
+If running code from an IDE, ensure that the IDE appends the project root to the system path. (Most IDEs already do this)
+ 
+
 
 The .py files contain many helper functions called by other py files. However, many of the .py
 files contain small-use case examples under an `if __name__ == "__main__"` block. 
@@ -29,7 +32,7 @@ and extracts the most important sentences to form a summary.
 Prior to storing our data in the resources folder, we used https://github.com/alions7000/SEC-EDGAR-text to pull the data to text files.
 
 ## Code Reproducibility Testing
-To test code reproducability, we created a blank ivirtual machine running Ubuntu 18.04 LTS and installed python 3.7 and the supporting packages according to the following procedure: 
+To test code reproducability, we created a blank virtual machine running Ubuntu 18.04 LTS and installed python 3.7 and the supporting packages according to the following procedure: 
 * Use virtual box to [run an Ubuntu 18.04 running the command  LTS virtual machine] (https://www.imore.com/how-use-linux-your-mac-using-virtual-machine)
     * A disk size of 20GB should be sufficient for all project requirements, and we recommend running with at least 3 virtual cores
 * Python 3.6 should already come with Ubuntu 18.04, and can be invoked using `python3`. However, if for some reason it is not already installed, it can be installed by running `sudo apt install python3.7`, though you will need to manually add this installation to your path. 
