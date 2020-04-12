@@ -4,11 +4,14 @@ numpy
 nltk
 scikit-learn
 bert-serving-client
+gensim
 # functools
 temp
 jupyter
 nltk
+spacy
 sumy
+summa
 seaborn
 tabulate
 tensorflow
