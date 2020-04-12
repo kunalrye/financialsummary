@@ -352,6 +352,5 @@ def separate_item(directory, tokenized):
     return None
 
 
-separate_item("../resources/full_text", False)
 #######################################################################################################################
 
