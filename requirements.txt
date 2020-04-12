@@ -7,6 +7,8 @@ bert-serving-client
 # functools
 temp
 jupyter
+nltk
 sumy
 seaborn
 tabulate
+tensorflow
