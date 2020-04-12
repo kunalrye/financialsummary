@@ -8,6 +8,9 @@ from tempfile import mkstemp
 from shutil import move, copymode
 from os import fdopen, remove
 import re
+from nltk import tokenize
+import nltk.data
+from nltk.tokenize import sent_tokenize
 
 
 def ilen(iterable):
@@ -80,53 +83,53 @@ def replace(directory):
     return None
 
 
-# def separate_document(directory):
-#     """
-#     separates document by any header in the file
-#     :param directory: directory containing the text files
-#     :return:nested dict
-#     """
-#
-#     full_dict = {}
-#     for subdir, dirs, files in os.walk(directory):
-#         for filename in files:
-#             if filename.endswith('.txt'):
-#                 name_path = os.path.join(subdir, filename)
-#                 filename_list = filename.rsplit('_')
-#                 # print(filename_list)
-#                 file_key = filename_list[0] + "_" + filename_list[1] + "_" + filename_list[3]
-#                 with open(name_path) as f:
-#                     my_list = f.readlines()
-#                     list2 = list(filter(('\n').__ne__, my_list))
-#                     my_list = list2
-#                     headers = []
-#                     content = []
-#                     doc_structure = {}
-#                     # check percent of capital letters in a sentence, if most are capitalized, it is a header
-#                     for x in my_list:
-#                         # throw out all "\n" characters from the list, and find all content sections
-#                         capitals = sum(map(str.isupper, x))
-#                         str_len = len(x.split())
-#                         capital_factor = capitals/str_len
-#                         if 15 <= len(x) <= 100 and (capital_factor > 0.5):
-#                             # using length does not solve for all cases effectively
-#                             headers.append(x)
-#                         elif len(x) > 100:
-#                             content.append(x)
-#                         else:
-#                             continue
-#                     # Determine the position of the content relative to the header and map to dictionary
-#                     for x in my_list:
-#                         for y in headers:
-#                             if y in my_list and (my_list.index(y) != my_list.index(my_list[-1])):
-#                                 header_idx = my_list.index(y)
-#                                 content_idx = header_idx + 1
-#                                 doc_structure[y] = my_list[content_idx]
-#                             elif y in my_list and (my_list.index(y) == my_list[-1]):
-#                                 pass
-#                     full_dict[file_key] = doc_structure
-#                     f.close()
-#     return full_dict
+def separate_document(directory):
+    """
+    separates document by any header in the file, replaced by separate_item
+    :param directory: directory containing the text files
+    :return:nested dict
+    """
+
+    full_dict = {}
+    for subdir, dirs, files in os.walk(directory):
+        for filename in files:
+            if filename.endswith('.txt'):
+                name_path = os.path.join(subdir, filename)
+                filename_list = filename.rsplit('_')
+                # print(filename_list)
+                file_key = filename_list[0] + "_" + filename_list[1] + "_" + filename_list[3]
+                with open(name_path) as f:
+                    my_list = f.readlines()
+                    list2 = list(filter(('\n').__ne__, my_list))
+                    my_list = list2
+                    headers = []
+                    content = []
+                    doc_structure = {}
+                    # check percent of capital letters in a sentence, if most are capitalized, it is a header
+                    for x in my_list:
+                        # throw out all "\n" characters from the list, and find all content sections
+                        capitals = sum(map(str.isupper, x))
+                        str_len = len(x.split())
+                        capital_factor = capitals/str_len
+                        if 15 <= len(x) <= 100 and (capital_factor > 0.5):
+                            # using length does not solve for all cases effectively
+                            headers.append(x)
+                        elif len(x) > 100:
+                            content.append(x)
+                        else:
+                            continue
+                    # Determine the position of the content relative to the header and map to dictionary
+                    for x in my_list:
+                        for y in headers:
+                            if y in my_list and (my_list.index(y) != my_list.index(my_list[-1])):
+                                header_idx = my_list.index(y)
+                                content_idx = header_idx + 1
+                                doc_structure[y] = my_list[content_idx]
+                            elif y in my_list and (my_list.index(y) == my_list[-1]):
+                                pass
+                    full_dict[file_key] = doc_structure
+                    f.close()
+    return full_dict
 
 
 def item_one(new_path, file_key, data):
@@ -276,10 +279,39 @@ def forward_looking(new_path, file_key, data):
     outF.close()
 
 
-def separate_item(directory):
+def post_item_tokenize(directory):
+    """
+    Parse all the files and clean any remaining symbols and small phrases out
+    :param directory: filepath for files
+    :return: None
+    """
+    # Create temp file
+    for subdir, dirs, files in os.walk(directory):
+        for filename in files:
+            file_path = os.path.join(subdir, filename)
+            fh, abs_path = mkstemp()
+            with fdopen(fh, 'w') as new_file:
+                with open(file_path, encoding='utf-8', errors='ignore') as old_file:
+                    data = old_file.readlines()
+                    for line in data:
+                        line = sent_tokenize(line)
+                        for sentence in line:
+                            new_file.write(sentence + '\n')
+            # Copy the file permissions from the old file to the new file
+            copymode(file_path, abs_path)
+            # Remove original file
+            remove(file_path)
+            # Move new file
+            move(abs_path, file_path)
+
+    return None
+
+
+def separate_item(directory, tokenized):
     """
     separates document by items from the file, and saves file with ending filename being the item number
     :param directory: directory containing the text files
+    :param tokenized: boolean whether or not you would like the files to be tokenized in the output
     :return: None
     """
 
@@ -295,24 +327,31 @@ def separate_item(directory):
                 filename_list = filename.rsplit('_')
                 file_key = str(filename_list[0] + "_" + filename_list[1] + "_" + filename_list[3])
                 data = open(name_path).readlines()
+                # data2 = []
+                # for line in data:
+                #     if len(line) > 3:
+                #         if (not (line[0] == "(" or \
+                #                  sum(1 for c in line if c.isupper()) / len(line) > .5 or \
+                #                  "|" in line or "see accompanying notes" in line.lower())) and ("." in line):
+                #             data2.append(line)
                 item_one(new_path, file_key, data)
                 item_two(new_path, file_key, data)
                 item_three(new_path, file_key, data)
                 item_four(new_path,file_key, data)
                 part_two(new_path, file_key, data)
                 forward_looking(new_path, file_key, data)
+
+                print(company + "completed separating into sections")
+
+                if tokenized:
+                    items = str((os.path.join(subdir) + "/itemized/"))
+                    post_item_tokenize(items)
+                else:
+                    continue
+
     return None
-
-
-# def remove_header_lines(directory):
-#     """
-#     removes the header lines from files that have been passed through replace and separate_item
-#     :param directory: directory containing itemized files
-#     :return: 
-#     """
-
 
 
 #######################################################################################################################
 # replace("/Users/kunal/Dropbox/10Q_all_companies/full_text/")
-# separate_item("/Users/kunal/Dropbox/10Q_all_companies/full_text/")
+separate_item("/Users/kunal/Dropbox/10Q_all_companies/full_text/")
