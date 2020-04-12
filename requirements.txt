@@ -8,4 +8,5 @@ bert-serving-client
 temp
 jupyter
 sumy
+seaborn
 tabulate
