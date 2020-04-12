@@ -8,8 +8,6 @@ All paths in the code are specified from the project root.
 The .py files contain many helper functions called by other py files. However, many of the .py
 files contain small-use case examples under an `if __name__ == "__main__"` block. 
 
-The github also has an `xbrl` branch that contains some in-progress work on using xbrl instead of html files 
-
 # About:
 financialsummary is a repo dedicated to identification of key information in quarterly reports.
 Specifically, financialsummary analyzes 10-Q reports from various companies in the Information Technology sector,
@@ -24,8 +22,8 @@ and extracts the most important sentences to form a summary.
 
 # Installation
 ## To download dependecies:
-* Install the pipenv package via `pipenv install`
-* Run `pipenv install` while in your repo directory to automatically install all project dependencies
+* Install required packages through the requirements.txt file
+* Run `pip install -r requirements.txt` while in your repo directory to automatically install all project dependencies
 
 ## BERT Usage: 
 Much of the initial code to run bert was taken from the following link.
