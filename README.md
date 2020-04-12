@@ -6,6 +6,7 @@ A Rice University D2K Lab Project
 * If running code from an IDE, ensure that the IDE appends the project root to the system path. (Most IDEs already do this)
 * Run `pip install -r requirements.txt` while in your repo directory to automatically install all project dependencies
  * Ensure that `pip` is tied to the desired python 3 installation (NOT to the python 2 installation). 
+* Run the financialsummary.ipynb file
 
 # About:
 financialsummary is a repo dedicated to identification of key information in quarterly reports.
