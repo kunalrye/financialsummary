@@ -1,6 +1,6 @@
 # Resources
 ## Folders
-The following folders consist of intermediate files for convenience.\
+The following folders consist of intermediate files for convenience. \
 **full_text**: raw text from the 10-Qs, pulled using SEC-EDGAR-text (https://github.com/alions7000/SEC-EDGAR-text/tree/master/src) \
 **figures**: contains all image files of figures used in presentation \
 **itemized**: Tokenized and section separated 10-Q reports using sep_sections.py \
@@ -18,7 +18,7 @@ The following folders consist of intermediate files for convenience.\
 **links.txt** contains the links to the html pages of the 10Qs for the companies in \
 **10q_commpname** list of companies whose 10Qs we are extracting \
 **forward_looking.txt** contains forward looking statements for legal filter removal \
-**test_companies.txt & train_companies.txt** contains the companies for test and train \
+**test_companies.txt & train_companies.txt** contains the companies for test and train 
 
 
  
