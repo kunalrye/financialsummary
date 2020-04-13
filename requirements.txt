@@ -16,3 +16,4 @@ spacy==2.2.4
 sumy==0.8.1
 summa==1.2.0
 
+# add some commentary on what each package is required for
