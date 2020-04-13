@@ -5,7 +5,7 @@ A Rice University D2K Lab Project - DSCI 400
 * Ensure that Python 3.2 or newer is installed
 * If running code from an IDE, ensure that the IDE appends the project root to the system path. (Most IDEs already do this)
 * Run `pip install -r requirements.txt` while in your repo directory to automatically install all project dependencies
- * Ensure that `pip` is tied to the desired python 3 installation (NOT to the python 2 installation). 
+ * Ensure that `pip` is tied to the desired Python 3 installation (NOT to the Python 2 installation). 
 * Run the financialsummary.ipynb file
 
 # About:
@@ -28,12 +28,12 @@ Files that can be directly run are highlighted in the Pipeline Overview section.
 * Wrangling: Gathers 10-Q data and performs basic parsing
 
 ## Pipeline Overview
-1) Exploration: each .ipynb file explores an aspect of the corpus. For example, `ue_similarity.ipynb` compares the sentences across a company's 10Qs to each other to see if there is sentence-level correlation between the 10Qs of the same company. 
-2) Wrangling: `sep_sections.py` will pull 10Qs from the SEC EDGAR API and parse each 10Q into individual sections. 
+1) Exploration: each .ipynb file explores an aspect of the corpus. For example, `ue_similarity.ipynb` compares the sentences across a company's 10-Qs to each other to see if there is sentence-level correlation between the 10-Qs of the same company. 
+2) Wrangling: `sep_sections.py` will pull 10-Qs from the SEC EDGAR API and parse each 10-Q into individual sections. 
 3) Preprocessing: `legal_filter.py` will pass each individual section through the legal filter, which compares sentences to a set of legal statements and removes the most similar sentences from the sections (i.e. the legal boilerplate)
 4) Modeling: We use various unsupervised summarization models, such as LDA, TextRank, and K-Means clustering 
    * Each model will have its own file, such as `textranks.py`. Inside the file, a "model" function is defined that runs the model over a string (the function signature is described in modeling/README.md)
-   * The file calls a summarizer function with the "model" function as an argument. The summarizer function will apply the "model" function to every 10Q section in the corpus, and concatenate the sections of each 10Q together to form a summary for each individual 10Q. 
+   * The file calls a summarizer function with the "model" function as an argument. The summarizer function will apply the "model" function to every 10-Q section in the corpus, and concatenate the sections of each 10-Q together to form a summary for each individual 10-Q. 
    * Finally, `validate_model.py` will compute the Jaccard index between the computer-generated summary and our manual summary for a set of validation documents. It outputs a table of the results for each model. 
 
 
