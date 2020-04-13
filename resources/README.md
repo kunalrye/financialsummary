@@ -18,7 +18,8 @@ The following folders consist of intermediate files for convenience. \
 **links.txt** contains the links to the html pages of the 10Qs for the companies in \
 **10q_commpname** list of companies whose 10Qs we are extracting \
 **forward_looking.txt** contains forward looking statements for legal filter removal \
-**test_companies.txt & train_companies.txt** contains the companies for test and train 
+**test_companies.txt & train_companies.txt** contains the companies for test and train \
+**ALLTEXT.txt** contains all the manual extraction text in one file of the validation set 
 
 
  
