@@ -1,0 +1,41 @@
+fls.txt
+Certain statements made in this report, as well as oral statements made by the Company from time to time, constitute forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended.
+
+
+item1.txt
+As a result of the adoption of ASC 842 "Leases," Cognex Corporation (the "Company") has provided new disclosures related to leases in this Quarterly Report on Form 10-Q.
+The Company determines whether a contract contains a lease by assessing whether there is an identified asset and whether the contract conveys the right to control the use of the identified asset for a period of time in exchange for consideration.
+The Company has control of the asset if it has the right to direct the use of the asset and obtains substantially all of the economic benefits from the use of the asset throughout the period of use.
+As a practical expedient, the Company does not recognize a lease asset or lease liability for leases with a lease term of 12 months or less.
+In the determination of the lease term, the Company considers the existence of extension or termination options and the probability of those options being exercised.
+The lease liability equals the present value of the future cash payments discounted using the Company's incremental borrowing rate.
+The Company’s incremental borrowing rate is the rate of interest that the Company would have to pay to borrow an amount equal to the lease payments over a similar term, which is the three-month London Interbank Offered Rate (LIBOR) plus a 2.5% credit risk spread.
+The lease liability is reduced by the cash payment less the interest each period.
+ASU 2016-13 applies to all reporting entities holding financial assets that are not accounted for at fair value through net income (debt securities).
+The amendments in this ASU require that credit losses on available-for-sale debt securities be presented as an allowance rather than as a write-down and an entity will be able to record reversals of credit losses in current period net income.
+The amendments in this ASU shorten the amortization period for certain callable debt securities held at a premium.
+The amendments in this ASU more closely align the amortization period of premiums and discounts to expectations incorporated in market pricing on the underlying securities.
+Accordingly, the amendments in this ASU require an entity in a hosting arrangement that is a service contract to follow the guidance in Subtopic 350-40 to determine which implementation costs to capitalize as an asset related to the service contract and which costs to expense.
+The Company’s money market instruments are reported at fair value based upon the daily market price for identical assets in active markets, and are therefore classified as Level 1.
+The Company did not record an other-than-temporary impairment of these financial assets during the three-month or six-month periods ended June 30, 2019 and July 1, 2018.
+The Company's contingent consideration liabilities are reported at fair value based upon probability-adjusted present values of the consideration expected to be paid using significant inputs that are not observable in the market and are therefore classified as Level 3.
+The Company did not record an impairment charge related to these assets during the three-month or six-month periods ended June 30, 2019 and July 1, 2018.
+Treasury bills consist of debt securities issued by the U.S. government; asset-backed securities consist of debt securities collateralized by pools of receivables or loans with credit enhancement; corporate bonds consist of debt securities issued by both domestic and foreign companies; agency bonds consist of domestic or foreign obligations of government agencies and government sponsored enterprises that have government backing; sovereign bonds consist of direct debt issued by foreign governments; and municipal bonds consist of debt securities issued by state and local government entities.
+
+
+item2.txt
+In addition to product revenue derived from the sale of machine vision products, the Company also generates revenue by providing maintenance and support, consulting, and training services to its customers; however, service revenue accounted for less than 10% of total revenue for all periods presented.
+Constant-currency information compares results between periods as if exchange rates had remained constant period-over-period.
+Revenue decreased by $12,217,000, or 6%, for the three-month period and decreased by $8,300,000, or 2%, for the six-month period.
+Changes in foreign currency exchange rates accounted for a decrease in revenue of approximately 3 percentage points in both periods, as sales denominated in Euros and Chinese Yuan were translated to U.S. Excluding the impact of changes in foreign currency exchange rates, constant-currency revenue decreased by 3% for the three-month period and increased by 1% for the six-month period.
+Sales to customers based in Europe decreased by 16% for the three-month period and 6% for the six-month period, with changes in foreign currency exchange rates accounting for approximately 6 percentage points of the decrease in both periods.
+On a constant-currency basis, sales to customers based in Europe decreased by 10% for the three-month period and were relatively flat for the six-month period.
+Sales to customers based in Greater China decreased by 13% for the three-month period and 14% for the six-month period, with changes in foreign currency exchange rates accounting for approximately 6 percentage points of the decrease in both periods.
+On a constant-currency basis, sales to customers based in Greater China decreased by 7% for the three-month period and 8% for the six-month period.
+Sales to customers based in other regions in Asia decreased by 7% for the three-month period and 6% for the six-month period.
+
+
+part2.txt
+Various claims and legal proceedings generally incidental to the normal course of business are pending or threatened on behalf of or against the Company.
+
+

@@ -1,0 +1,49 @@
+fls.txt
+In June 2016, the FASB issued a new accounting standard to replace the incurred loss impairment methodology under current GAAP with a methodology that reflects expected credit losses and requires consideration of a broader range of reasonable and supportable information to inform credit loss estimates.
+
+
+item1.txt
+The accompanying unaudited condensed consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States of America, or U.S. GAAP, for interim financial information and with the instructions to Form 10-Q and Article 10 of Securities and Exchange Commission, or SEC, Regulation S-X.
+The January 27, 2019 consolidated balance sheet was derived from our audited consolidated financial statements included in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019, as filed with the SEC, but does not include all disclosures required by U.S. GAAP.
+In the opinion of management, all adjustments, consisting only of normal recurring adjustments considered necessary for a fair statement of results of operations and financial position have been included.
+Except for adopting a new accounting standard related to leases, there have been no material changes to our significant accounting policies in Note 1 - Organization and Summary of Significant Accounting Policies, of the Notes to the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019.
+Operating leases with lease terms of more than 12 months are included in operating lease assets, accrued and other current liabilities, and long-term operating lease liabilities on our consolidated balance sheet.
+Operating lease assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments over the lease term.
+Operating lease assets and liabilities are recognized based on the present value of the remaining lease payments discounted using our incremental borrowing rate.
+Operating lease assets also include initial direct costs incurred and prepaid lease payments, minus any lease incentives.
+We combine the lease and non-lease components in determining the operating lease assets and liabilities.
+Refer to Note 3 of these Notes to Condensed Consolidated Financial Statements for additional information.
+We operate on a 52- or 53-week year, ending on the last Sunday in January.
+Our condensed consolidated financial statements include the accounts of NVIDIA Corporation and our wholly-owned subsidiaries.
+The Financial Accounting Standards Board, or FASB, issued an accounting standards update regarding the accounting for leases under which lease assets and liabilities are recognized on the balance sheet.
+
+
+item2.txt
+GPU business revenue was $2.56 billion, down 8% from a year earlier and up 22% sequentially.
+Tegra Processor business revenue - which includes Automotive, SOC modules for gaming platforms, and embedded edge AI platforms - was $449 million, up 10% from a year ago and down 5% sequentially.
+The year-on-year decrease reflects lower sales of GeForce desktop GPUs from the prior year which included the launch of Turing-based GeForce GPUs, partially offset by growth in GeForce notebook GPUs and SOC modules for gaming platforms.
+Professional Visualization revenue was $324 million, up 6% from a year earlier and up 11% sequentially.
+The year-on-year and sequential growth reflect strength in mobile workstation products.
+Data Center revenue was $726 million, down 8% from a year ago and up 11% sequentially.
+Automotive revenue of $162 million was down 6% from a year earlier and down 22% sequentially.
+The year-on-year decrease reflects lower revenue from legacy infotainment modules and autonomous vehicle solutions, partially offset by growth in AI cockpit solutions.
+OEM and Other revenue was $143 million, down 3% from a year ago and up 29% sequentially.
+The sequential increase was primarily due to growth in entry-level GPUs for notebooks PCs. Gross margin for the third quarter of fiscal year 2020 was 63.6%, up 320 basis points from a year earlier and up 380 basis points sequentially.
+The year-on-year and sequential increases are primarily driven by improved margins on GeForce GPUs for gaming reflecting the sale of previously written-off components and lower component costs.
+The sequential increase also reflects higher average selling prices for GeForce GPUs. Income from operations for the third quarter of fiscal year 2020 was $927 million, down 12% from a year earlier and up 62% sequentially.
+
+
+item3.txt
+
+
+
+item4.txt
+
+
+
+part2.txt
+Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019 for a prior discussion of our legal proceedings.
+Refer to the description of the risk factors associated with our business previously disclosed in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 27, 2019.
+Other than the risk factors listed below, there have been no material changes from the risk factors previously described under Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 27, 2019 and Item 1A of our Quarterly Report on Form 10-Q for the quarter ended April 28, 2019.
+
+

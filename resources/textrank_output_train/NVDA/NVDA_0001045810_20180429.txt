@@ -1,0 +1,50 @@
+fls.txt
+Forward-looking statements are based on our management’s beliefs and assumptions and on information currently available to our management.
+
+
+item1.txt
+The accompanying unaudited condensed consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States of America, or U.S. GAAP, for interim financial information and with the instructions to Form 10-Q and Article 10 of Securities and Exchange Commission, or SEC, Regulation S-X.
+The January 28, 2018 consolidated balance sheet was derived from our audited consolidated financial statements included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018, as filed with the SEC, but does not include all disclosures required by U.S. GAAP.
+In the opinion of management, all adjustments, consisting only of normal recurring adjustments except as otherwise noted, considered necessary for a fair statement of results of operations and financial position have been included.
+The following information should be read in conjunction with the audited consolidated financial statements and notes thereto included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
+Except for the accounting policy for revenue recognition, which was updated as a result of adopting a new accounting standard related to revenue recognition, there have been no material changes to our significant accounting policies in Note 1 - Organization and Summary of Significant Accounting Policies, of the Notes to the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
+For products sold with a right of return, we record a reduction to revenue by establishing a sales return allowance for estimated product returns at the time revenue is recognized, based primarily on historical return rates.
+We operate on a 52- or 53-week year, ending on the last Sunday in January.
+Our condensed consolidated financial statements include the accounts of NVIDIA Corporation and our wholly-owned subsidiaries.
+The Financial Accounting Standards Board, or FASB, issued an accounting standards update that creates a single source of revenue guidance under U.S. GAAP for all companies, in all industries.
+Refer to Note 2 of these Notes to Condensed Consolidated Financial Statements for additional information.
+In January 2016, the FASB issued an accounting standards update to amend certain aspects of recognition, measurement, presentation, and disclosure of financial instruments.
+In February 2016, the FASB issued an accounting standards update regarding the accounting for leases by which we will begin recognizing lease assets and liabilities on the balance sheet for lease terms of more than 12 months.
+The update will be effective for us beginning in the first quarter of fiscal year 2020.
+The impact of applying the new standard on our consolidated financial statements for the quarter ended April 29, 2018 was not significant.
+Revenue related to remaining performance obligations represents the amount of contracted license and development arrangements and PCS that has not been recognized.
+Refer to Note 15 of these Notes to Condensed Consolidated Financial Statements for additional information, including disaggregated revenue disclosures.
+
+
+item2.txt
+Selected Financial Data” of our Annual Report on Form 10-K for the fiscal year ended January 28, 2018 and “Item 1A.
+Revenue for the first quarter of fiscal year 2019 increased 66% year over year and 10% sequentially.
+GPU business revenue was $2.77 billion, up 77% from a year earlier and up 12% sequentially, led by gaming and datacenter.
+Datacenter revenue was $701 million, up 71% from a year ago and up 16% sequentially, led by strong sales of our Volta architecture, including NVIDIA Tesla V100, new DGX systems, and HPC design wins.
+Professional visualization revenue was $251 million, up 22% from a year earlier and down 1% sequentially.
+Tegra processor business revenue, which includes SOC modules for the Nintendo Switch gaming console, was $442 million, up 33% from a year ago and down 2% sequentially.
+Also included was Automotive revenue of $145 million, which was up 4% from a year earlier and up 10% sequentially, incorporating infotainment modules, production DRIVE PX platforms, and development agreements with automotive companies.
+We adopted the new accounting standard for revenue recognition in the first quarter of fiscal year 2019 using the modified retrospective approach.
+The impact of adopting the new revenue standard was not significant to our consolidated financial statements in the first quarter.
+Gross margin for the first quarter of fiscal year 2019 was 64.5%, increasing from the prior year and the previous quarter due to strong growth in datacenter revenue and the mix within our GeForce gaming GPUs. Income from operations for the first quarter of fiscal year 2019 was $1.29 billion, up 134% from a year earlier and up 21% sequentially.
+Net income and net income per diluted share for the first quarter of fiscal year 2019 were $1.24 billion and $1.98, respectively, up 145% and 151%, respectively, from a year earlier, fueled by strong revenue growth and improved gross and operating margins.
+
+
+item3.txt
+
+
+
+item4.txt
+
+
+
+part2.txt
+Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018 for a prior discussion of our legal proceedings.
+Refer to the description of the risk factors associated with our business previously disclosed in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
+
+

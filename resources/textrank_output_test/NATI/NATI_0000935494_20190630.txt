@@ -1,0 +1,50 @@
+fls.txt
+
+
+
+item1.txt
+The accompanying unaudited consolidated financial statements should be read in conjunction with the consolidated financial statements and notes thereto for the year ended December 31, 2018, included in our annual report on Form 10-K, filed with the Securities and Exchange Commission.
+In our opinion, the accompanying consolidated financial statements reflect all adjustments (consisting only of normal recurring items) considered necessary to present fairly our financial position at June 30, 2019 and December 31, 2018, the results of our operations and comprehensive income for three and six months ended June 30, 2019 and 2018, the cash flows for the six months ended June 30, 2019 and 2018 and the statement of stockholder's equity for the three and six months ended June 30, 2019.
+Leases will be classified as finance or operating, with classification affecting the pattern and classification of expense recognition in the income statement.
+Consequently, financial information will not be updated and the disclosures required under the new standard will not be provided for earlier periods.
+Upon adoption, we recognized lease liabilities of approximately $52 million, with corresponding ROU assets of the same amount, based on the present value of the remaining minimum rental payments under current leasing standards for our existing operating leases.
+Additionally, we also reclassified approximately $19 million from "Property, plant and equipment, net" to "Operating lease right-of-use assets" related to prepaid leasehold land.
+This means, for those leases that qualify, we will not recognize ROU assets or lease liabilities, and this includes not recognizing ROU assets or lease liabilities for existing short-term leases of those assets in transition.
+We will be required to use a forward-looking expected credit loss model for accounts receivables and other financial instruments.
+This ASU requires instruments measured at amortized cost to be presented at the net amount expected to be collected.
+Additionally, in the first quarter of 2019, we granted performance-based restricted stock units to certain executives under our 2015 Equity Incentive Plan ("PRSUs").
+There were no other significant changes in our accounting policies during the six months ended June 30, 2019 compared to the significant accounting policies described in our Annual Report on Form 10-K for the year ended December 31, 2018.
+Stock-based compensation costs are based on the fair value on the date of grant for all restricted stock units ("RSUs") and on the date of enrollment for the employee stock purchase plan.
+PRSUs are RSU awards that vest based on a market condition, currently our stockholder return relative to the total stockholder return of the companies included in the Russell 2000 Index at the end of a three-year performance period.
+Up to 200% of the full target number of shares subject to each PRSU award are eligible to be earned after the completion of the three-year performance period based on our total stockholder return relative to the total stockholder return of the Russell 2000 Index at the end of the performance period.
+The fair values of rights under employee stock purchase plans are estimated using the Black-Scholes option-pricing model.
+The determination of fair value of the PRSUs is affected by our stock price and a number of assumptions including the expected volatility, expected dividend yield and the risk-free interest rate.
+
+
+item2.txt
+To maintain a high level of customer satisfaction we strive to offer innovative, modular and integrated products through a global sales and support network.
+In this time of intense global competition, we believe that it is crucial that we continue to offer products with high quality and reliability, and that our products provide cost-effective solutions for our customers.
+We distribute and sell our software and hardware products primarily through a direct sales organization.
+Sales outside of the Americas accounted for approximately 61% and 62% of our net sales during the three months ended June 30, 2019 and 2018, respectively, and approximately 61% and 62% of our net sales during the six months ended June 30, 2019 and 2018, respectively.
+We believe that our long-term growth and success depend on delivering high quality software and hardware products on a timely basis.
+For the three months ended June 30, 2019, the average of the Global PMI was 49.9 and the average of the new order element of the Global PMI was 49.5.
+
+
+item3.txt
+
+
+
+item4.txt
+
+
+
+part2.txt
+Uncertainty about global and regional economic conditions poses a risk to us as businesses may decrease or postpone spending in response to events such as the impending Brexit, continued trade tensions and restrictions between the U.S. and other parts of the world, financial market volatility, tariffs or other trade restrictions, government austerity programs, government regulatory actions, negative financial news, geopolitical instability, declines in income or asset values, or other factors.
+Moreover, there can be no assurance that our international sales will continue at existing levels or grow in accordance with our efforts to increase foreign market penetration.
+In many foreign countries, particularly in those with developing economies, it is common to engage in business practices that are prohibited by U.S. regulations applicable to us such as the Foreign Corrupt Practices Act. Although we have policies and procedures designed to ensure compliance with these laws, there can be no assurance that all of our employees, contractors and agents, including those based in or from countries where practices which violate such U.S. laws may be customary, will not take actions in violation of our policies.
+Any violation of foreign or U.S. laws by our employees, contractors or agents, even if such violation is prohibited by our policies, could have a material adverse effect on our business.
+The application of these various regulations depends on the classification of our products which can change over time as such regulations are modified or interpreted.
+As a result, even if we are currently in compliance with applicable regulations, there can be no assurance that we will not have to incur additional costs or take additional compliance actions in the future.
+Failure to comply with these regulations could result in fines or termination of import and export privileges, which could have a material adverse effect on our operating results.
+
+

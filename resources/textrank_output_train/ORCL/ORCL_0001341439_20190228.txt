@@ -1,0 +1,45 @@
+fls.txt
+This Quarterly Report on Form 10-Q contains statements that are not historical in nature, are predictive in nature, or that depend upon or refer to future events or conditions or otherwise contain forward-looking statements within the meaning of Section 21 of the Securities Exchange Act of 1934, as amended, and the Private Securities Litigation Reform Act of 1995.
+
+
+item1.txt
+We believe that all necessary adjustments, which consisted only of normal recurring items, have been included in the accompanying financial statements to present fairly the results of the interim periods.
+The comparability of our operating results in the third quarter and first nine months of fiscal 2019 compared to the corresponding prior year periods was impacted by the U.S. Tax Cuts and Jobs Act of 2017 (the Tax Act), which was effective for us starting in our third quarter of fiscal 2018.
+The net expense related to the enactment of the Tax Act has been accounted for during the third quarter and first nine months of fiscal 2018 based on provisional estimates pursuant to SEC Staff Accounting Bulletin No. We recorded a tax benefit of $376 million and $529 million, respectively, during the three and nine months ended February 28, 2019, respectively, in accordance with SAB 118 related to adjustments in our estimates of the one-time transition tax on certain foreign subsidiary earnings.
+License support contracts provide customers with rights to unspecified software product upgrades, maintenance releases and patches released during the term of the support period and include internet access to technical content, as well as internet and telephone access to technical support personnel.
+Substantially all of our customers renew their license support contracts annually.
+Cloud services revenues include revenues from Oracle Cloud Software-as-a-Service (SaaS) and Infrastructure-as-a-Service (IaaS) offerings (collectively, Oracle Cloud Services), which deliver applications and infrastructure technologies, respectively, via cloud-based deployment models that we develop functionality for, provide unspecified updates and enhancements for, host, manage and support and that customers access by entering into a subscription agreement with us for a stated period.
+Our IaaS offerings also include Oracle Managed Cloud Services, which are designed to provide comprehensive software and hardware management, maintenance and security services for customer cloud-based, on-premise or other IT infrastructure for a fee for a stated term.
+Cloud license and on-premise license revenues primarily represent amounts earned from granting customers licenses to use our database, middleware, application and industry-specific software products which our customers use for cloud-based, on-premise and other IT environments.
+Revenues from the sale of hardware products represent amounts earned primarily from the sale of our Oracle Engineered Systems, computer servers, storage, and industry-specific hardware.
+Our hardware support offerings generally provide customers with software updates for the software components that are essential to the functionality of the hardware products purchased and can also include product repairs, maintenance services and technical support services.
+Hardware support contracts are generally priced as a percentage of the net hardware products fees.
+Our advanced customer support services are offered as standalone arrangements or as a part of arrangements to customers buying other products and services.
+We offer these advanced customer support services to Oracle customers to enable increased performance and higher availability of their products and services.
+Education services include instructor-led, media-based and internet-based training in the use of our cloud, software and hardware products.
+We record an unbilled receivable, which is included within accounts receivable on our condensed consolidated balance sheets, when revenue is recognized prior to invoicing.
+We record deferred revenues on our condensed consolidated balance sheets when revenues are recognized subsequent to cash collection for an invoice.
+Invoices for cloud license and on-premise licenses and hardware products are generally issued when the license is made available for customer use or upon delivery to the customer of the hardware product.
+
+
+item2.txt
+Our cloud and license line of business, which represented 82% of our total revenues on a trailing 4-quarter basis, markets, sells and delivers a broad spectrum of applications and infrastructure technologies through our cloud and license offerings.
+cloud services revenues, which includes revenues from Oracle Cloud Software-as-a-Service (SaaS) and Infrastructure-as-a-Service (IaaS) offerings (collectively, Oracle Cloud Services), which provide customers access to applications and infrastructure technologies via cloud-based deployment models that Oracle develops, provides unspecified updates and enhancements for, hosts, manages and supports and that customers access by entering into a subscription agreement with us for a stated period.
+The majority of our Oracle Cloud Services arrangements are billed in advance of the cloud services being performed; have durations of one to three years; are generally renewed; and are generally recognized as revenues ratably over the contractual period of the cloud contract or, in the case of usage model contracts, as the cloud services are consumed.
+Cloud license and on-premise license revenues include revenues from the licensing of our software products including Oracle Applications, Oracle Database, Oracle Middleware and Java, among others, which our customers deploy within cloud-based, on-premise and other IT environments.
+Our cloud license and on-premise license transactions are generally perpetual in nature and are generally recognized upfront at the point in time when the software is made available to the customer to download and use.
+Revenues from usage-based royalty arrangements for distinct cloud licenses and on-premise licenses are recognized at the point in time when the software end user usage occurs.
+The timing of a few large license transactions can substantially affect our quarterly license revenues due to the point in time revenue recognition of license transactions, which is different than the typical revenue recognition pattern for our cloud services and license support revenues in which revenues are generally recognized ratably over the contractual terms.
+In recent periods, customer demand has increased for our Oracle Cloud Services.
+To address customer demand and enable customer choice, we have introduced certain programs for customers to pivot their applications and infrastructure licenses and the related license support to the Oracle Cloud for new deployments and to migrate to and expand with the Oracle Cloud for their existing workloads.
+Our cloud and license business’ revenues growth is affected by the strength of general economic and business conditions; governmental budgetary constraints; the strategy for and competitive position of our offerings; our acquisitions; the continued renewal of our cloud services and license support customer contracts by the customer contract base; substantially all customers continuing to purchase license support contracts in connection with their license purchases; the pricing of license support contracts sold in connection with the sales of licenses; the pricing, amount and volume of licenses and cloud services sold; and foreign currency rate fluctuations.
+
+
+item3.txt
+
+
+
+part2.txt
+The material set forth in Note 9 (pertaining to information regarding contingencies related to our income taxes) and Note 12 (pertaining to information regarding legal contingencies) of Notes to Condensed Consolidated Financial Statements in Part I, Item 1 of this Quarterly Report on Form 10-Q is incorporated herein by reference.
+
+

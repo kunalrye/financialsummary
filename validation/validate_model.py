@@ -12,7 +12,7 @@ from validation.precision_recall import compute_jaccard_index
 
 
 
-MODEL_LIST = ["lda", "textrank", "lsa", "LexRank"]
+MODEL_LIST = ["lda", "textrank", "lsa", "textrank", "Lunh", "SumBasic"]
 VALIDATION_SET_PATH = "resources/validation_set"
 
 
@@ -71,7 +71,16 @@ def run_assessment():
 
 
 def tabulate_results(results):
-    # [<filename>, model1score, model2score,...]
+    """
+    Formats the results of a validation run into a table
+    :param results: dictionary containing the results of a validation run. Key is the annotated filename, which maps
+            to an inner dictionary where the key is the model name, and the value is the validation metric score
+            of that model on the annotated filename
+
+            Will take the form {"filename": {"model_name": metric_score, "model_name2": metric_score}, "filename2": ...}
+    :return: nothing, prints the table to stdout
+    """
+    # takes the form [<filename>, model1score, model2score,...]
     rows = []
     # list of model names
     headers = ["test filename"]
@@ -98,6 +107,7 @@ def tabulate_results(results):
         rows.append(model_scores)
         flag = 1
 
+    ## create the mean, median, stdev rows that tally the columns
     means = ["mean"]
     medians = ["median"]
     stdevs = ["stdev"]
@@ -106,7 +116,7 @@ def tabulate_results(results):
         medians.append(median(per_model[model_name]))
         stdevs.append(stdev(per_model[model_name]))
 
-
+    # spacing between data table and summary statistics
     rows.append(["- " for i in range(len(means))]) # spacing
     rows.append(means)
     rows.append(medians)

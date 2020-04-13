@@ -1,0 +1,44 @@
+fls.txt
+The Company does not expect the adoption of this standard will have a material effect on its financial position or results of operations.
+This Quarterly Report on Form 10-Q contains or incorporates forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.
+These statements include, but are not limited to, statements about our future financial performance and business plans, the adequacy of our liquidity and capital resources, the continued payment of quarterly dividends, the timing of revenue recognition, and are described more completely in Part I of our Annual Report on Form 10-K for the year ended December 31, 2018.
+
+
+item1.txt
+2016-13, “Financial Instruments - Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments,” which requires measurement and recognition of expected credit losses for financial assets measured at amortized cost, including accounts receivable, upon initial recognition of that financial asset using a forward-looking expected loss model, rather than an incurred loss model.
+Results for reporting periods beginning on or after January 1, 2019 are presented under ASC 842, while prior period amounts were not adjusted and continue to be reported in accordance with the Company’s historic accounting under ASC 840 “Leases”.
+Contract assets are amounts under client contracts where revenue recognized exceeds the amount billed to the client and the right to payment is subject to conditions other than the passage of time, such as the completion of a related performance obligation.
+Contract assets and deferred revenue are netted at the contract level for each reporting period.
+The change in deferred revenue in the six months ended June 30, 2019 was primarily due to $135.8 million of revenue recognized, excluding the impact of netting contract assets and deferred revenue at the contract level, during the period that was included in deferred revenue at December 31, 2018, partially offset by new billings in advance of revenue recognition.
+The Company recognizes an asset for the incremental costs of obtaining a client contract, which primarily relate to sales commissions.
+The Company expects to benefit from those costs for more than one year, as the Company generally only pays sales commissions on the initial contract, and not any subsequent contract renewals.
+Deferred costs are amortized on a straight-line basis over the benefit period, which is on average 5 years.
+The Company records its cash equivalents, marketable securities, and investments in privately-held companies at fair value on a recurring basis.
+The Company’s investments in privately-held companies are classified within Level 3 of the fair value hierarchy.
+If applicable, the Company will recognize transfers into and out of levels within the fair value hierarchy at the end of the reporting period in which the actual event or change in circumstance occurs.
+
+
+item2.txt
+The change in ACV measures the growth and predictability of future cash flows from Pega Cloud and Client Cloud committed arrangements as of the end of the particular reporting period.
+Revenue from cloud arrangements is generally recognized over the service period, while revenue from term and perpetual license arrangements is generally recognized upfront when the license rights become effective.
+The increases in cloud revenue in the three and six months ended June 30, 2019 reflect the shift in client preferences to cloud arrangements from other types of arrangements.
+The decreases in term license revenue in the three and six months ended June 30, 2019 were due to revenue recognized from several large, multi-year term license contracts in the three and six months ended June 30, 2018 and reflect the shift in client preferences in favor of our cloud offerings.
+The decreases are also attributable to revenue recognized from term license contracts in the six months ended June 30, 2019 with multi-year committed maintenance periods, which resulted in a greater portion of the contract value being allocated to maintenance.
+The increases in maintenance revenue in the three and six months ended June 30, 2019 were primarily due to the continued growth in the aggregate value of the installed base of our software and strong renewal rates in excess of 90%.
+The increase in perpetual license revenue in the three months ended June 30, 2019 was primarily due to revenue recognized from a large perpetual license contract in the second quarter of 2019.
+The decrease in perpetual license revenue in the six months ended June 30, 2019 reflects the shift in client preferences in favor of our cloud offerings instead of our perpetual license arrangements.
+The decreases in consulting revenue in the three and six months ended June 30, 2019 were primarily due to a decrease in billable hours.
+The increase in total gross profit in the three months ended June 30, 2019 was primarily due to an increase in cloud revenue reflecting the shift in client preferences to cloud arrangements from other types of arrangements, and an increase in maintenance revenue due to the continued growth in the aggregate value of the installed base of our software and strong renewal rates in excess of 90%.
+The decrease in total gross profit in the six months ended June 30, 2019 was primarily due to a decrease in term and perpetual license revenue reflecting the shift in client preferences toward our cloud offerings and a decrease in consulting revenue due to a decrease in billable hours.
+The increase in total gross profit percent in the three months ended June 30, 2019 was driven by an increase in higher margin maintenance revenue.
+The decrease in total gross profit percent in the six months ended June 30, 2019 was driven by the shift in client preferences in favor of cloud arrangements, which are lower margin than our term and perpetual license revenue streams.
+
+
+item4.txt
+
+
+
+part2.txt
+“Risk Factors” of our Annual Report on Form 10-K for the year ended December 31, 2018.
+
+
