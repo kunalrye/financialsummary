@@ -1,8 +1,8 @@
 # financialsummary
-A Rice University D2K Lab Project
+A Rice University D2K Lab Project - DSCI 400
 
 # Installation
-* Ensure that python 3.2 or newer is installed
+* Ensure that Python 3.2 or newer is installed
 * If running code from an IDE, ensure that the IDE appends the project root to the system path. (Most IDEs already do this)
 * Run `pip install -r requirements.txt` while in your repo directory to automatically install all project dependencies
  * Ensure that `pip` is tied to the desired python 3 installation (NOT to the python 2 installation). 
