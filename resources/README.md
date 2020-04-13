@@ -4,7 +4,7 @@ The following folders consist of intermediate files for convenience. \
 **full_text**: raw text from the 10-Qs, pulled using SEC-EDGAR-text (https://github.com/alions7000/SEC-EDGAR-text/tree/master/src) \
 **figures**: contains all image files of figures used in presentation \
 **itemized**: Tokenized and section separated 10-Q reports using sep_sections.py \
-**lda_output_test**: contains LDA output files for test subset \ 
+**lda_output_test**: contains LDA output files for test subset\
 **lda_output_train**: LDA output files for train subset \
 **legal_filter_test**: output of files from legalfilter.py, input being itemized of test subset \
 **legal_filter_train**: output of files from legalfilter.py, input being itemized of train subset \
