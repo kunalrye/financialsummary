@@ -1,0 +1,50 @@
+fls.txt
+Forward-looking statements are based on our management’s beliefs and assumptions and on information currently available to our management.
+
+
+item1.txt
+The accompanying unaudited condensed consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States of America, or U.S. GAAP, for interim financial information and with the instructions to Form 10-Q and Article 10 of Securities and Exchange Commission, or SEC, Regulation S-X.
+The January 28, 2018 consolidated balance sheet was derived from our audited consolidated financial statements included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018, as filed with the SEC, but does not include all disclosures required by U.S. GAAP.
+The following information should be read in conjunction with the audited consolidated financial statements and notes thereto included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
+Except for the accounting policy for revenue recognition, which was updated as a result of adopting a new accounting standard related to revenue recognition, there have been no material changes to our significant accounting policies in Note 1 - Organization and Summary of Significant Accounting Policies, of the Notes to the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
+For products sold with a right of return, we record a reduction to revenue by establishing a sales return allowance for estimated product returns at the time revenue is recognized, based primarily on historical return rates.
+Our customer programs primarily involve rebates, which are designed to serve as sales incentives to resellers of our products in various target markets, and marketing development funds, or MDFs, which represent monies paid to our partners that are earmarked for market segment development and are designed to support our partners’ activities while also promoting NVIDIA products.
+As a result, we recognize the revenue from the license and the revenue from the development services as a single performance obligation over the period in which the development services are performed.
+For such arrangements, we allocate revenue to the software license and PCS on a relative standalone selling price basis by maximizing the use of observable inputs to determine the standalone selling price for each performance obligation.
+The Financial Accounting Standards Board, or FASB, issued an accounting standards update that creates a single source of revenue guidance under U.S. GAAP for all companies, in all industries.
+In February 2016, the FASB issued an accounting standards update regarding the accounting for leases by which we will begin recognizing lease assets and liabilities on the balance sheet for lease terms of more than 12 months.
+We expect the adoption of this accounting guidance to result in an increase in lease assets and a corresponding increase in lease liabilities on our Consolidated Balance Sheets.
+The impact of applying the new standard on our consolidated financial statements for the quarter ended April 29, 2018 was not significant.
+Revenue related to remaining performance obligations represents the amount of contracted license and development arrangements and PCS that has not been recognized.
+Of the total fair value of equity awards granted during the first quarters of fiscal years 2019 and 2018, we estimated that the stock-based compensation expense related to equity awards that are not expected to vest was $18 million and $27 million, respectively.
+The Convertible Notes have a dilutive impact on net income per share if our average stock price for the reporting period exceeds the adjusted conversion price of $20.0296 per share.
+The warrants associated with our Convertible Notes, or the Warrants, outstanding are also included in the calculation of diluted net income per share.
+
+
+item2.txt
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the “safe harbor” created by those sections.
+While our GPU and CUDA architecture is unified, our GPU product brands are aimed at specialized markets including GeForce for gamers; Quadro for designers; Tesla and DGX for AI data scientists and big data researchers; and GRID for cloud-based visual computing users.
+GPU business revenue was $2.77 billion, up 77% from a year earlier and up 12% sequentially, led by gaming and datacenter.
+Datacenter revenue was $701 million, up 71% from a year ago and up 16% sequentially, led by strong sales of our Volta architecture, including NVIDIA Tesla V100, new DGX systems, and HPC design wins.
+Also included was Automotive revenue of $145 million, which was up 4% from a year earlier and up 10% sequentially, incorporating infotainment modules, production DRIVE PX platforms, and development agreements with automotive companies.
+The impact of adopting the new revenue standard was not significant to our consolidated financial statements in the first quarter.
+Gross margin for the first quarter of fiscal year 2019 was 64.5%, increasing from the prior year and the previous quarter due to strong growth in datacenter revenue and the mix within our GeForce gaming GPUs.
+Income from operations for the first quarter of fiscal year 2019 was $1.29 billion, up 134% from a year earlier and up 21% sequentially.
+Net income and net income per diluted share for the first quarter of fiscal year 2019 were $1.24 billion and $1.98, respectively, up 145% and 151%, respectively, from a year earlier, fueled by strong revenue growth and improved gross and operating margins.
+During the first quarter of fiscal year 2019, we returned to shareholders $655 million in share repurchases and $91 million in cash dividends.
+For fiscal year 2019, we intend to return $1.25 billion to shareholders through ongoing quarterly cash dividends and share repurchases.
+
+
+item3.txt
+
+
+
+item4.txt
+
+
+
+part2.txt
+Refer to Part I, Item 1, Note 13 of the Notes to Condensed Consolidated Financial Statements for a discussion of significant developments in our legal proceedings since January 28, 2018.
+Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018 for a prior discussion of our legal proceedings.
+
+

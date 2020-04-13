@@ -1,0 +1,50 @@
+fls.txt
+
+
+
+item1.txt
+Certain information and footnote disclosures normally included in financial statements prepared in accordance with generally accepted accounting principles in the United States ("GAAP") have been condensed or omitted pursuant to such rules and regulations.
+The July 28, 2018 Consolidated Balance Sheet was derived from audited financial statements, but does not include all disclosures required by accounting principles generally accepted in the United States.
+ASC 606 supersedes nearly all U.S. GAAP on revenue recognition and eliminated industry-specific guidance.
+The underlying principle of ASC 606 is to recognize revenue when a customer obtains control of promised goods or services at an amount that reflects the consideration that is expected to be received in exchange for those goods or services.
+We have implemented new accounting policies, systems, processes, and internal controls necessary to support the requirements of ASC 606.
+ASC 606 primarily impacts our revenue recognition for software arrangements and sales to two-tier distributors.
+We enter into contracts with customers that can include various combinations of products and services which are generally distinct and accounted for as separate performance obligations.
+As a result, our contracts may contain multiple performance obligations.
+We classify our hardware, perpetual software licenses, and software-as-a-service (SaaS) as distinct performance obligations.
+We recognize revenue upon transfer of control of promised goods or services in a contract with a customer in an amount that reflects the consideration we expect to receive in exchange for those products or services.
+Our hardware and perpetual software licenses are distinct performance obligations where revenue is recognized upfront upon transfer of control.
+Term software licenses include multiple performance obligations where the term licenses are recognized upfront upon transfer of control, with the associated software maintenance revenue recognized ratably over the contract term as services and software updates are provided.
+Revenue is allocated among these performance obligations in a manner that reflects the consideration that we expect to be entitled to for the promised goods or services based on standalone selling prices (SSP).
+SSP is estimated for each distinct performance obligation and judgment may be required in their determination.
+In instances where SSP is not directly observable, we determine SSP using information that may include market conditions and other observable inputs.
+
+
+item2.txt
+See Note 2 to the Consolidated Financial Statements for impact of this adoption on our operating results for the third quarter and first nine months of fiscal 2019.
+In the third quarter of fiscal 2019, we had strong performance across the business and delivered strong revenue growth, margins and operating cash flow.
+Notwithstanding the third quarter fiscal 2019 results, we continue to operate in a challenging and highly competitive environment.
+The “BRICM” countries experienced a product revenue decline of 15% in the aggregate, driven by decreased product revenue in the emerging countries of Russia, China, India, Mexico and Brazil of 25%, 21%, 10%, 6% and 5%, respectively.
+From a customer market standpoint, we experienced product revenue growth in the public sector, enterprise and commercial markets, partially offset by a product revenue decline in the service provider market.
+General and administrative expenses decreased due to a benefit from the $400 million litigation settlement with Arista in the first quarter of fiscal 2019.
+The net loss and net loss per share in the prior year period were driven by the one-time transition tax on accumulated earnings of foreign subsidiaries, foreign withholding taxes, and re-measurement of net deferred tax assets and liabilities recorded during the first nine months of fiscal 2018 as related to the Tax Cuts and Jobs Act.
+
+
+item3.txt
+At any time, a sharp rise in market interest rates could have a material adverse impact on the fair value of our available-for-sale debt investment portfolio.
+
+
+item4.txt
+
+
+
+part2.txt
+Risk Factors” of our Annual Report on Form 10-K for the fiscal year ended July 28, 2018.
+The global macroeconomic environment has been challenging and inconsistent.
+The timing of such orders is difficult to predict, and the timing of revenue recognition from such orders may affect period to period changes in revenue.
+Changes in service gross margin may result from various factors such as changes in the mix between technical support services and advanced services, as well as the timing of technical support service contract initiations and renewals and the addition of personnel and other resources to support higher levels of service business in future periods.
+Such slowdowns may continue or recur in future periods.
+Orders from this industry could decline for many reasons other than the competitiveness of our products and services within their respective markets.
+Finally, service provider customers typically have longer implementation cycles; require a broader range of services, including design services; demand that vendors take on a larger share of risks; often require acceptance provisions, which can lead to a delay in revenue recognition; and expect financing from vendors.
+
+

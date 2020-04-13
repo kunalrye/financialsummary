@@ -1,0 +1,47 @@
+fls.txt
+
+
+
+item1.txt
+Incorporated in 1984 and headquartered in Mountain View, California, we sell our products and services primarily in the United States.
+We have included all adjustments, consisting only of normal recurring items, which we considered necessary for a fair presentation of our financial results for the interim periods presented.
+Funds held for customers represent cash held on behalf of our customers that is invested in cash and cash equivalents and investment-grade available-for-sale debt securities.
+The purchases, sales and maturities of the investments for our funds held for customers are presented in investing activities in the condensed consolidated statements of cash flows.
+These unaudited condensed consolidated financial statements and accompanying notes should be read together with the audited consolidated financial statements in Part II, Item 8 of our Annual Report on Form 10-K for the fiscal year ended July 31, 2019.
+Our Consumer and Strategic Partner offerings have a significant and distinct seasonal pattern as sales and revenue from our income tax preparation products and services are heavily concentrated in the period from November through April.
+We describe our significant accounting policies in Note 1 to the financial statements in Part II, Item 8 of our Annual Report on Form 10-K for the fiscal year ended July 31, 2019.
+Our leases generally do not have a readily determinable implicit rate, therefore we use our incremental borrowing rate at the commencement date in determining the present value of future payments.
+We measure ROU assets based on the corresponding lease liabilities adjusted for any initial direct costs and prepaid lease payments made to the lessor before or at the commencement date, net of lease incentives.
+Variable lease payments are not included in the calculation of the ROU asset and lease liability and are recognized as lease expense is incurred.
+These judgments and estimates include identifying performance obligations, determining if the performance obligations are distinct, determining the standalone sales price (SSP) and timing of revenue recognition for each distinct performance obligation, and estimating variable consideration to be included in the transaction price.
+We use estimates in determining the collectibility of accounts receivable and notes receivable, the appropriate levels of various accruals including accruals for litigation contingencies, the discount rate used to calculate lease liabilities, the amount of our worldwide tax provision, and the realizability of deferred tax assets.
+We also use estimates in determining the remaining economic lives and fair values of acquired intangible assets, property and equipment, and other long-lived assets.
+Dilutive potential common shares consist of the shares issuable upon the exercise of stock options and upon the vesting of restricted stock units (RSUs) under the treasury stock method.
+We include stock options with combined exercise prices and unrecognized compensation expense that are less than the average market price for our common stock, and RSUs with unrecognized compensation expense that is less than the average market price for our common stock, in the calculation of diluted net income per share.
+We exclude stock options with combined exercise prices and unrecognized compensation expense that are greater than the average market price for our common stock, and RSUs with unrecognized compensation expense that is greater than the average market price for our common stock, from the calculation of diluted net income per share because their effect is anti-dilutive.
+
+
+item2.txt
+We adopted the new lease standard effective August 1, 2019 under the modified retrospective approach applied at the beginning of the period of adoption.
+For more than three decades, our values have inspired us to innovate and reimagine ways to save people time and money, eliminate drudgery and inspire confidence.
+As part of our strategy, we also develop relationships with key partners that enable us to scale our service to consumers, small businesses and the self-employed globally, including financial institutions, enterprise platforms, educational institutions and accountants.
+These shifts are creating a more dynamic and highly competitive environment where customer expectations are shifting around the world as more services become digitized and the array of choices continues to increase.
+As we offer more online services, the ongoing operation and availability of our platforms and systems and those of our external service providers is becoming increasingly important.
+
+
+item4.txt
+
+
+
+part2.txt
+Our competitors may introduce superior products and services, reduce prices, have greater technical, marketing and other resources, have greater name recognition, have larger installed bases of customers, have well-established relationships with our current and potential customers, advertise aggressively or beat us to market with new products and services.
+In addition, we may face competition from existing companies, with large established consumer user-bases and broad-based platforms, who may change or expand the focus of their business strategies and marketing to target our customers, including small businesses and tax customers.
+In addition, other providers of free offerings may provide features that we do not offer and customers who have formerly paid for Intuit’s products and services may elect to use our competitors’ free offerings instead.
+Our consumer tax business also faces significant potential competition from the public sector, where we face the risk of federal and state taxing authorities proposing revenue raising strategies that involve developing and providing government tax software or other government return preparation systems at public expense.
+Recently, we have become the subject of certain legal proceedings and regulatory inquiries relating to the provision and marketing of the product that we offer under the IRS Free File Program.
+If the Free File Program were to be terminated and the IRS were to enter the software development and return preparation space, the federal government would become a publicly funded direct competitor of the U.S. tax services industry and of Intuit.
+We must continue to innovate and develop new products and features to meet changing customer needs and attract and retain talented software developers.
+Our consumer and professional tax businesses depend significantly on revenue from customers who return each year to use our updated tax preparation and filing software and services.
+In addition, as we continue to introduce and expand our new business models, including offerings that are free to end users, our customers may not perceive value in the additional benefits and services we offer beyond our free offering and may choose not to pay for those additional benefits or we may be unsuccessful in increasing customer adoption of these offerings or our risk profile may change, resulting in loss of revenue.
+
+

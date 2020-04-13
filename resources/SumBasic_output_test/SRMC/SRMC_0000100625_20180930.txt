@@ -1,0 +1,45 @@
+fls.txt
+Such statements reflect our current views and assumptions and are not guarantees of future performance.
+
+
+item1.txt
+The accompanying unaudited interim condensed financial statements have been prepared by Sierra Monitor Corporation (the “Company”, “Sierra Monitor”, “we” or “us”), pursuant to the rules and regulations of the Securities and Exchange Commission (the “SEC”).
+The Company’s FieldServer family of protocol gateways, routers, and network explorers targets facility automation requirements, and is used by original equipment manufacturers (“OEMs”) and system integrators to enable local and remote monitoring and control of assets and facilities.
+The FieldServer family of products works with the SMC Cloud portal; a cloud-based service that registers and manages FieldServer products, provides secure remote access to the local web-based applications that run on FieldServer products, and integrates with third-party applications over REST APIs.
+With more than 200,000 installed gateways supporting over 140 protocols such as BACnet, LonWorks, MODBUS, and XML in commercial and industrial facilities, FieldServer is the industry’s leading multi-protocol gateway brand and is delivered in a variety of form factors appropriate to the asset being interfaced.
+In addition to bridging data protocols between various assets or devices within a facility, the embedded software includes value-added “fog” or “local application” software for monitoring, logging, alarming, and trending local field data.
+The Company’s solutions are also sold to telecommunication companies and their suppliers to manage environmental and security conditions such as temperature, gas, and smoke in remote structures such as local DSL distribution nodes and buildings at cell tower sites.
+In May 2014, the Financial Accounting Standards Board (“FASB”) issued ASU 2014-09, “Revenue from Contracts with Customers” (Topic 606).
+The majority of the impact has been on sales returns and the impact has been deemed immaterial.
+Gas Detection and Environment Control Products are sold as off-the-shelf products with prices fixed at the time of order.
+Additionally, international customers and customers who have developed a history of payment problems are generally required to prepay or pay through a letter-of-credit.
+Gas detection and environment control services consist of field service orders (technical support) and training, which are provided separately from product orders.
+Such services are provided to current and prior customers, and, as noted above, creditworthiness has generally already been assessed.
+
+
+item2.txt
+This Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”).
+For the nine-month period ended September 30, 2018, sales of our instrumentation products were approximately $8,116,000 compared to approximately $6,906,000 in the same period in 2017 representing an 18% increase.
+Box products provide a platform for delivery and operation of our software for integration with building automation systems and are generally sold to building automation integrators.
+For the nine-month periods ended September 30, 2018 and September 2017, general and administrative expenses were approximately $2,917,000, or 17% of net sales, and approximately $2,356,000, or 16% of net sales, respectively.
+General and administrative expenses have increased 36% in the three-month period and increased 24% in the nine-month reporting periods ended September 30, 2018 compared to the same periods in 2017, primarily due to increased salary expenses and outsourced professionals.
+In the three-month period ended September 30, 2018, our income from operations was approximately $321,000 compared to income from operations of approximately $369,000 for the three-month period ended September 30, 2017.
+The loss in the nine-month period of 2017 was due to non-recurring expenses.
+We maintain a line of credit with our commercial bank in the maximum amount of $2,000,000.
+We believe that our present resources, including cash and accounts receivable, are sufficient to fund our anticipated level of operations through at least December 2019.
+In May 2014, the Financial Accounting Standards Board (“FASB”) issued ASU 2014-09, “Revenue from Contracts with Customers” (Topic 606).
+ASC 606 requires the recognition of revenue when promised goods or services are transferred to customers in an amount that reflects the considerations to which the entity expects to be entitled to in exchange for those goods or services.
+The majority of the impact has been on sales returns and the impact has been deemed immaterial.
+The Company’s revenue arrangements consist of multiple performance obligations including hardware, software, and services.
+Determining the stand-alone selling price (“SSP”) and allocation of consideration from an arrangement to the individual performance obligations, and the appropriate timing of revenue recognition are significant judgments with respect to these arrangements.
+Gas Detection and Environment Control Products are sold as off-the-shelf products with prices fixed at the time of order.
+
+
+item4.txt
+Based upon that evaluation, Mr. Brown and Ms. Allen concluded that, as of September 30, 2018, our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) of the Exchange Act) were effective.
+
+
+part2.txt
+The Company’s risk factors have not changed materially since December 31, 2017.
+
+
