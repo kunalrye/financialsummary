@@ -13,6 +13,13 @@ financialsummary is a repo dedicated to identification of key information in qua
 Specifically, financialsummary analyzes 10-Q reports from various companies in the Information Technology sector,
 and extracts the most important sentences to form a summary.
 
+# Running Code
+The entire text-to-summary pipline can be run by running `financialsummary.ipynb`, located at the root of the repo. 
+Files that can be directly run are highlighted in the Pipeline Overview section. 
+
+*Note, all paths originate from the root of the project, so all files must be run with the working directory set to the root of the project.* 
+
+
 # Repo Overview:
 * Exploration: Data exploration, such as TFIDF, Sentiment analysis etc.
 * Modeling: Methods to visualize the data, includes newsgraph and textrank
@@ -21,8 +28,6 @@ and extracts the most important sentences to form a summary.
 * Wrangling: Gathers 10-Q data and performs basic parsing
 
 ## Pipeline Overview
-The entire text-to-summary pipline can be run by running `financialsummary.ipynb`, located at the root of the repo. 
-
 1) Exploration: each .ipynb file explores an aspect of the corpus. For example, `ue_similarity.ipynb` compares the sentences across a company's 10Qs to each other to see if there is sentence-level correlation between the 10Qs of the same company. 
 2) Wrangling: `sep_sections.py` will pull 10Qs from the SEC EDGAR API and parse each 10Q into individual sections. 
 3) Preprocessing: `legal_filter.py` will pass each individual section through the legal filter, which compares sentences to a set of legal statements and removes the most similar sentences from the sections (i.e. the legal boilerplate)
