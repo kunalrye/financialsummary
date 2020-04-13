@@ -1,6 +1,6 @@
 # Exploration
 
-The following Python and Jupyter notebooks serve to visualize and project our data in a variety of manners. Some of the strategies we employed were 
+The following Python files and Jupyter notebooks serve to visualize and project our data in a variety of manners. Some examples of the strategies we employed were cosine similarity to target repetitive jargon and lemmatized text to more accurately tokenize text files.
 
  * `legal_similarity.ipynb` uses cosine similarity to visualize a heatmap between a company's 10-Q and a set of cautionary statements
  * `off_diagonal_exploration.ipynb` calculates and creates histogram of the sentence similarity scores along off diagonals
