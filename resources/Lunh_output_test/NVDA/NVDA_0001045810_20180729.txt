@@ -1,0 +1,46 @@
+item1.txt
+Except for the accounting policy for revenue recognition, which was updated as a result of adopting a new accounting standard related to revenue recognition, there have been no material changes to our significant accounting policies in Note 1 - Organization and Summary of Significant Accounting Policies, of the Notes to the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
+For products sold with a right of return, we record a reduction to revenue by establishing a sales return allowance for estimated product returns at the time revenue is recognized, based primarily on historical return rates.
+Our customer programs involve rebates, which are designed to serve as sales incentives to resellers of our products in various target markets, and marketing development funds, or MDFs, which represent monies paid to our partners that are earmarked for market segment development and are designed to support our partners’ activities while also promoting NVIDIA products.
+As a result, we recognize the revenue from the license and the revenue from the development services as a single performance obligation over the period in which the development services are performed.
+For such arrangements, we allocate revenue to the software license and PCS on a relative standalone selling price basis by maximizing the use of observable inputs to determine the standalone selling price for each performance obligation.
+In February 2016 and July 2018, the FASB issued accounting standards updates regarding the accounting for leases by which we will begin recognizing lease assets and liabilities on the balance sheet for lease terms of more than 12 months.
+We expect the adoption of this accounting guidance to result in an increase in lease assets and a corresponding increase in lease liabilities on our Consolidated Balance Sheets.
+On January 29, 2018, we adopted the new revenue accounting standard using the modified retrospective method and applied it to contracts that were not completed as of that date.
+As of July 29, 2018, the amount of our remaining performance obligations that have not been recognized as revenue was $235 million, of which we expect to recognize approximately 50% as revenue over the next twelve months and the remainder thereafter.
+Of the total fair value of equity awards granted during the second quarter and first half of fiscal year 2019, we estimated that the stock-based compensation expense related to equity awards that are not expected to vest was $12 million and $31 million, respectively.
+Of the total fair value of equity awards granted during the second quarter and first half of fiscal year 2018, we estimated that the stock-based compensation expense related to equity awards that are not expected to vest was $10 million and $39 million, respectively.
+We recognized income tax expense of $79 million and $146 million for the second quarter and first half of fiscal year 2019, respectively, and $101 million and $130 million for the second quarter and first half of fiscal year 2018, respectively.
+Income tax expense as a percentage of income before income tax for the second quarter and first half of fiscal year 2019 was 6.7% and 5.9%, respectively, and 14.8% and 10.7% for the second quarter and first half of fiscal year 2018, respectively.
+The decrease in our effective tax rate for the second quarter and first half of fiscal year 2019 as compared to the same periods in the prior fiscal year was primarily due to a decrease in the U.S. statutory tax rate from 35% to 21% as a result of U.S. tax reform, partially offset by a decrease in the impact of tax benefits from stock-based compensation.
+Amortization expense associated with intangible assets was $6 million and $17 million for the second quarter and first half of fiscal year 2019, respectively, and $14 million and $29 million for the second quarter and first half of fiscal year 2018, respectively.
+
+
+item2.txt
+Datacenter revenue was $760 million, up 83% from a year ago and up 8% sequentially, led by strong sales of our Volta architecture products, including NVIDIA Tesla V100 and DGX systems.
+Net income and net income per diluted share for the second quarter of fiscal year 2019 were $1.10 billion and $1.76, respectively, up 89% and 91%, respectively, from a year earlier, fueled by strong revenue growth and improved gross and operating margins.
+In August 2018, we unveiled our first Turing-based GPUs -- NVIDIA Quadro RTX 8000, RTX 6000 and RTX 5000 -- which we believe will revolutionize the work of millions of designers and artists; and introduced the NVIDIA RTX Server, a ray-tracing global illumination rendering server for render farms.
+This increase was due primarily to 50% growth in sales of GeForce GPU products for gaming, driven by Pascal-based GPUs for desktops and by high-performance notebooks based on our Max-Q technology.
+This increase was due primarily to almost 60% growth in sales of GeForce GPU products for gaming, driven by Pascal-based GPUs for desktops and by high-performance notebooks based on our Max-Q technology.
+Our PC OEM revenue increased by almost 50% due primarily to sales of GPU products targeted for use in cryptocurrency mining in the first quarter of fiscal year 2019.
+This was driven by an increase of over 75% in revenue from SOC modules for gaming platforms and development services, and an increase of 13% in automotive revenue, primarily from DRIVE PX platforms and development agreements with automotive companies, as well as from infotainment modules.
+This was driven by an increase of over 80% in revenue from SOC modules for gaming platforms and development services, and an increase of 9% in automotive revenue, primarily from DRIVE PX platforms and development agreements with automotive companies, as well as from infotainment modules.
+As a result, the overall net effect on our gross margin was an unfavorable impact of 0.3% and 0.2% for the second quarter of fiscal years 2019 and 2018, respectively.
+As a result, the overall net effect on our gross margin was an unfavorable impact of 0.6% for the first half of fiscal year 2019 and a favorable impact of 0.2% for the first half of fiscal year 2018.
+The gross margin of our GPU business increased during the second quarter and first half of fiscal year 2019 compared to the second quarter and first half of fiscal year 2018, primarily due to strong sales of high-end GeForce gaming GPUs and revenue growth in Datacenter.
+The gross margin of our Tegra Processor business was flat during the second quarter of fiscal year 2019 compared to the second quarter of fiscal year 2018.
+
+
+item3.txt
+
+
+
+item4.txt
+
+
+
+part2.txt
+Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018 for a prior discussion of our legal proceedings.
+Refer to the description of the risk factors associated with our business previously disclosed in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
+
+

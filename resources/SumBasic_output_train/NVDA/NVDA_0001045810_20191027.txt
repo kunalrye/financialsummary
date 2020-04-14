@@ -1,0 +1,49 @@
+fls.txt
+In June 2016, the FASB issued a new accounting standard to replace the incurred loss impairment methodology under current GAAP with a methodology that reflects expected credit losses and requires consideration of a broader range of reasonable and supportable information to inform credit loss estimates.
+
+
+item1.txt
+In the opinion of management, all adjustments, consisting only of normal recurring adjustments considered necessary for a fair statement of results of operations and financial position have been included.
+The results for the interim periods presented are not necessarily indicative of the results expected for any future period.
+We determine if an arrangement is or contains a lease at inception.
+Operating lease assets also include initial direct costs incurred and prepaid lease payments, minus any lease incentives.
+Our lease terms include options to extend or terminate the lease when it is reasonably certain that we will exercise that option.
+All intercompany balances and transactions have been eliminated in consolidation.
+other contingencies.
+The Financial Accounting Standards Board, or FASB, issued an accounting standards update regarding the accounting for leases under which lease assets and liabilities are recognized on the balance sheet.
+We will be required to use a forward-looking expected credit loss model for accounts receivable and other financial instruments, including available-for-sale debt securities.
+We expect to adopt the standard using the modified retrospective transition method beginning in the first quarter of fiscal year 2021.
+Note 2 - Acquisition of Mellanox Technologies, Ltd. On March 10, 2019, we entered into an Agreement and Plan of Merger, or the Merger Agreement, with Mellanox Technologies Ltd., or Mellanox, pursuant to which we will acquire all of the issued and outstanding common shares of Mellanox for $125 per share in cash, representing a total enterprise value of approximately $6.9 billion as of the date of the Merger Agreement.
+In June 2019, Mellanox shareholders approved the acquisition.
+The closing of the acquisition is subject to approval by regulatory agencies.
+
+
+item2.txt
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the “safe harbor” created by those sections.
+All references to “NVIDIA,” “we,” “us,” “our” or the “Company” mean NVIDIA Corporation and its subsidiaries.
+Selected Financial Data” of our Annual Report on Form 10-K for the fiscal year ended January 27, 2019 and “Item 1A.
+We have extended our focus in recent years to the revolutionary field of AI.
+Fueled by the sustained demand for better 3D graphics and the scale of the gaming market, NVIDIA has evolved the GPU into a computer brain at the intersection of virtual reality, high performance computing, or HPC, and artificial intelligence, or AI.
+Our GPU product brands are aimed at specialized markets including GeForce for gamers; Quadro for designers; Tesla and DGX for AI data scientists and big data researchers; and GRID for cloud-based visual computing users.
+Our Tegra brand integrates an entire computer onto a single chip, and incorporates GPUs and multi-core CPUs to drive supercomputing for autonomous robots, drones, and cars, as well as for consoles and mobile gaming and entertainment devices.
+Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998.
+Professional Visualization revenue was $324 million, up 6% from a year earlier and up 11% sequentially.
+Data Center revenue was $726 million, down 8% from a year ago and up 11% sequentially.
+The sequential increase was driven by hyperscale demand.
+The sequential decrease reflects a large non-recurring development services agreement closed in the prior quarter.
+
+
+item3.txt
+
+
+
+item4.txt
+
+
+
+part2.txt
+Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019 for a prior discussion of our legal proceedings.
+Refer to the description of the risk factors associated with our business previously disclosed in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 27, 2019.
+Our worldwide operations could be disrupted by earthquakes, telecommunications failures, power or water shortages, outages at cloud service providers, tsunamis, floods, hurricanes, typhoons, fires, extreme weather conditions, cyber-attacks, terrorist attacks, medical epidemics or pandemics and other natural or man-made disasters, catastrophic events or climate change.
+
+

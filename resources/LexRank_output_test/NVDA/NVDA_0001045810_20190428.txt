@@ -1,0 +1,46 @@
+item1.txt
+Except for the accounting policy for leases, which was updated as a result of adopting a new accounting standard related to leases, there have been no material changes to our significant accounting policies in Note 1 - Organization and Summary of Significant Accounting Policies, of the Notes to the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019.
+Operating leases with lease terms of more than 12 months are included in operating lease assets, accrued and other current liabilities, and long-term operating lease liabilities on our consolidated balance sheet.
+Operating lease assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments over the lease term.
+Operating lease assets and liabilities are recognized based on the present value of the remaining lease payments discounted using our incremental borrowing rate.
+Lease expense is recognized on a straight-line basis over the lease term.
+We will be required to use a forward-looking expected credit loss model for accounts receivable and other financial instruments, including available-for-sale debt securities.
+The standard will be effective for us beginning in the first quarter of fiscal year 2021, with early adoption permitted.
+Note 2 - Merger Agreement with Mellanox Technologies, Ltd. On March 10, 2019, we entered into an Agreement and Plan of Merger, or the Merger Agreement, with Mellanox Technologies Ltd, or Mellanox, pursuant to which we will acquire all of the issued and outstanding common shares of Mellanox for $125 per share in cash, representing a total enterprise value of approximately $6.9 billion as of the date of the Merger Agreement.
+The cumulative-effect adjustment upon adoption of the new lease accounting standard resulted in the recognition of $470 million of operating lease assets and $500 million of operating lease liabilities on our Consolidated Balance Sheet.
+Operating lease expense for the first quarter of fiscal years 2020 and 2019 was $27 million and $16 million, respectively.
+Short-term and variable lease expenses for the first quarter of fiscal year 2020 were not significant.
+There were no significant transfers between Levels 1 and 2 financial assets and liabilities for the first quarter of fiscal year 2020.
+Gains or losses on the contracts are recorded in accumulated other comprehensive income or loss and reclassified to operating expense when the related operating expenses are recognized in earnings or ineffectiveness should occur.
+The fair value of the contracts was not significant as of April 28, 2019 and January 27, 2019.
+
+
+item2.txt
+Revenue for the first quarter of fiscal year 2020 decreased 31% year over year and increased 1% sequentially.
+GPU business revenue was $2.02 billion, down 27% from a year earlier and up 2% sequentially.
+The year-on-year decrease primarily reflects a decline in shipments of gaming GPUs and SOC modules for gaming platforms.
+Income from operations for the first quarter of fiscal year 2020 was $358 million, down 72% from a year earlier and up 22% sequentially.
+Net income and net income per diluted share for the first quarter of fiscal year 2020 were $394 million and $0.64, respectively, both down 68% from a year earlier.
+In the first quarter of fiscal year 2020, we returned $97 million in quarterly cash dividends.
+For our data center platform, we introduced the NVIDIA CUDA-X AI platform for accelerating data science; announced availability of NVIDIA T4 Tensor Core GPUs from leading OEMs and Amazon Web Services; partnered with global system builders to create powerful data-science workstations integrating NVIDIA Quadro RTX GPUs and NVIDIA CUDA-X AI; and launched beta access to NVIDIA Quadro Virtual Workstation software in the Alibaba Cloud Marketplace.
+GPU business revenue decreased by 27% in the first quarter of fiscal year 2020 compared to the first quarter of fiscal year 2019, which reflects declines in gaming GPU and data center revenue, as well as the absence of $289 million of revenue from cryptocurrency mining processors.
+Tegra Processor business revenue decreased by 55% for the first quarter of fiscal year 2020 compared to the first quarter of fiscal year 2019.
+The gross margin of our GPU business decreased during the first quarter of fiscal year 2020 compared to the first quarter of fiscal year 2019, primarily due to lower gaming GPU margins and mix shifts across the portfolio.
+The gross margin of our Tegra Processor business decreased during the first quarter of fiscal year 2020 compared to the first quarter of fiscal year 2019, primarily due to mix shifts.
+As of April 28, 2019, we had $7.80 billion in cash, cash equivalents and marketable securities, an increase of $380 million from the end of fiscal year 2019.
+Cash provided by operating activities decreased in the first quarter of fiscal year 2020 compared to the first quarter of fiscal year 2019, due to lower net income, partially offset by changes in working capital.
+
+
+item3.txt
+
+
+
+item4.txt
+
+
+
+part2.txt
+Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019 for a prior discussion of our legal proceedings.
+As of April 28, 2019, we were authorized to repurchase additional shares of our common stock up to $7.24 billion through December 2022.
+
+
