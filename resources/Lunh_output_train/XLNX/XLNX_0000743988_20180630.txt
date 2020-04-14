@@ -1,0 +1,49 @@
+fls.txt
+
+
+
+item1.txt
+The accompanying interim condensed consolidated financial statements have been prepared in conformity with United States (U.S.) generally accepted accounting principles (GAAP) for interim financial information and the instructions to Form 10-Q and Article 10 of Regulation S-X, and should be read in conjunction with the Xilinx, Inc. (Xilinx or the Company) consolidated financial statements filed with the U.S. Securities and Exchange Commission (SEC) on Form 10-K for the fiscal year ended March 31, 2018.
+The interim financial statements are unaudited, but reflect all adjustments which are, in the opinion of management, of a normal, recurring nature necessary to provide a fair statement of results for the interim periods presented.
+The results of operations for the interim periods shown in this report are not necessarily indicative of the results that may be expected for the fiscal year ending March 30, 2019 or any future period.
+Note 2.Recent Accounting Changes and Accounting Pronouncements In April 2014, the Financial Accounting Standards Board (FASB) issued the authoritative guidance, as amended, that outlines a new revenue recognition standard that replaces virtually all existing U.S. GAAP guidance on contracts with customers and the related other assets and deferred costs.
+The authoritative guidance provides a five-step process for recognizing revenue that depicts the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled, in exchange for those goods or services.
+Revenue from sales to the Company's distributors is recognized upon shipment of the product to the distributors (sell-in) and is reduced by estimated allowances for distributor price adjustments and rights of return.
+Previously, revenue was recognized upon reported resale of the product by the distributors to their customers (sell-through) as reduced by actual allowances for distributor price adjustments.
+Revenue from software license agreements, software license renewals, and other contracts are recognized at point of sales, whereas previously these were deferred and recognized over the contractual term before the implementation of the authoritative guidance.
+In January 2016, the FASB issued final authoritative guidance regarding how companies measure equity investments that do not result in consolidation and are not accounted for under the equity method and how they present changes in the fair value of financial liabilities measured under the fair value option that are attributable to their own credit.
+The Company adopted this authoritative guidance on April 1, 2018 and recorded the balance of the unrealized losses of $11.0 million as of the end of fiscal 2018 from its investment in debt mutual funds and equity securities to retained earnings, less the related deferred taxes of $2.6 million.
+As a result, a reporting entity would recognize the tax expense from the sale of an asset in the seller’s tax jurisdiction when the transfer occurs, even though the pre-tax effects of that transaction are eliminated in consolidation.
+The authoritative guidance is effective for public business entities in fiscal years beginning after December 15, 2017 and requires the adoption be applied on a modified retrospective basis through a cumulative-effect adjustment to retained earnings.
+The new authoritative guidance requires the recognition of assets and liabilities arising from lease transactions on the balance sheet and will also require significant additional disclosures about the amount, timing and uncertainty of cash flows from leases.
+Accordingly, a lessee will recognize a lease asset for its right to use the underlying asset and a lease liability for the corresponding lease obligation.
+The new authoritative guidance is effective for public business entities for fiscal years beginning after December 15, 2018, and interim periods within those fiscal years, which for Xilinx would be the first quarter of fiscal 2020.
+Net revenues from Avnet accounted for 51% and 41% of the Company’s worldwide net revenues in the first quarter of fiscal 2019 and 2018, respectively.
+
+
+item2.txt
+The most recent modification was made on April 3, 2016, which was the beginning of our fiscal 2017, whereby we reclassified our product categories to be consistent with how these categories are analyzed and reviewed internally.
+Specifically, we are grouping the products manufactured at the 28 nanometer (nm), 20nm and 16nm nodes into a category named Advanced Products while all other products are grouped in a category named Core Products.
+Net revenues from Advanced Products increased in the first three months of fiscal 2019 compared to the comparable prior year period.
+Net revenues from Core Products increased in the first three months of fiscal 2019 from the comparable prior year period.
+
+
+item3.txt
+Item 3.Quantitative and Qualitative Disclosures About Market Risk Our exposure to interest rate risk relates to certain types of investments, which consist of fixed income securities with a fair value of approximately $2.93 billion as of June 30, 2018, and to our interest rate swap contracts in relation to the issuance of the 2024 Notes (as our interest rate swap contracts carry a variable interest rate based on LIBOR plus a spread).
+
+
+item4.txt
+
+
+
+part2.txt
+We rely on independent foundries for the manufacture of all of our products and a manufacturing problem or insufficient foundry capacity could adversely affect our operations.
+Terms with respect to the volume and timing of wafer production and the pricing of wafers produced by the semiconductor foundries are determined through periodic negotiations with these wafer foundries, which usually result in short-term agreements that do not provide for long-term supply or allocation commitments.
+Therefore, the foundries, particularly TSMC who manufactures our newest products, must be able to transition to advanced manufacturing process technologies and increased wafer sizes, produce wafers at acceptable yields and deliver them in a timely manner.
+Furthermore, we cannot guarantee that the foundries that supply our wafers will offer us competitive pricing terms or other commercial terms important to our business.
+We cannot guarantee that our foundries will not experience manufacturing problems, including delays in the realization of advanced manufacturing process technologies or difficulties due to limitations of new and existing process technologies.
+For example, we may experience supply shortages due to the difficulties foundries may encounter if they must rapidly increase their production capacities from low utilization levels to high utilization levels because of an unexpected increase in demand.
+Furthermore, we cannot guarantee that the foundries will be able to manufacture sufficient quantities of our products or that they will continue to manufacture a given product for the full life of the product.
+We could also experience supply shortages due to very strong demand for our products, or a surge in demand for semiconductors in general, which may lead to tightening of foundry capacity across the industry.
+
+

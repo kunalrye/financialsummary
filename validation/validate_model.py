@@ -1,46 +1,19 @@
 """
-Assesses the performance of a model by for each file in our validation set, computing the jaccard index
-between our manually generated file and
+Assesses the performance of our models
+
+To be included in the model assessment, the model name must be included in the MODEL_LIST, and it must have corresponding
+<model_name>_train_output and <model_name>_test_output folders in the resource directory
 """
-from difflib import SequenceMatcher
 from tabulate import tabulate
 from statistics import mean, median, stdev
 import os
 from collections import defaultdict
+from validation.precision_recall import compute_jaccard_index
 
-MODEL_LIST = ["lda", "textrank", "lsa", "LexRank"]
+
+
+MODEL_LIST = ["lda", "textrank", "lsa", "textrank", "Lunh", "SumBasic"]
 VALIDATION_SET_PATH = "resources/validation_set"
-
-
-def set_contains(s, ele):
-    for i in s:
-
-        if i and ele and (ele in i or i in ele or SequenceMatcher(i,ele).ratio() > 0.97):
-            print(i)
-            print(ele)
-            return True
-    return False
-
-
-
-def intersection(a, b):
-    """
-    Our own implementation of set intersection since the sentences might not be exact maches
-    :return:
-    """
-    intersect = set()
-    for i in a:
-        if set_contains(b, i):
-            intersect.add(i)
-    return intersect
-
-
-
-def compute_jaccard_index(manual_set, generated_set):
-    # intersect = manual_set.intersection(generated_set)
-    intersect = intersection(manual_set, generated_set)
-    ## jaccard index score between the validation file and the corresponding model file
-    return float(len(intersect)) / (len(manual_set) + len(generated_set) - len(intersect))
 
 
 def assess_models(annotated_fname, manual_set):
@@ -98,7 +71,16 @@ def run_assessment():
 
 
 def tabulate_results(results):
-    # [<filename>, model1score, model2score,...]
+    """
+    Formats the results of a validation run into a table
+    :param results: dictionary containing the results of a validation run. Key is the annotated filename, which maps
+            to an inner dictionary where the key is the model name, and the value is the validation metric score
+            of that model on the annotated filename
+
+            Will take the form {"filename": {"model_name": metric_score, "model_name2": metric_score}, "filename2": ...}
+    :return: nothing, prints the table to stdout
+    """
+    # takes the form [<filename>, model1score, model2score,...]
     rows = []
     # list of model names
     headers = ["test filename"]
@@ -125,6 +107,7 @@ def tabulate_results(results):
         rows.append(model_scores)
         flag = 1
 
+    ## create the mean, median, stdev rows that tally the columns
     means = ["mean"]
     medians = ["median"]
     stdevs = ["stdev"]
@@ -133,7 +116,7 @@ def tabulate_results(results):
         medians.append(median(per_model[model_name]))
         stdevs.append(stdev(per_model[model_name]))
 
-
+    # spacing between data table and summary statistics
     rows.append(["- " for i in range(len(means))]) # spacing
     rows.append(means)
     rows.append(medians)
