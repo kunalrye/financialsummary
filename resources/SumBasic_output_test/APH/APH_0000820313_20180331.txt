@@ -1,4 +1,5 @@
 fls.txt
+<<<<<<< HEAD
 A further description of these uncertainties and other risks can be found in the Company’s Annual Report on Form 10-K for the year ended December 31, 2017, Quarterly Reports on Form 10-Q and the Company’s other reports filed with the Securities and Exchange Commission.
 
 
@@ -36,11 +37,58 @@ Item 3.
 item4.txt
 Item 4.
 Other Information None.
+=======
+Forward-looking statements by their nature address matters that are, to different degrees, uncertain, such as statements about expected earnings, revenues, growth, liquidity or other financial matters.
+
+
+item1.txt
+All material intercompany balances and transactions have been eliminated in consolidation.
+The condensed consolidated financial statements included herein are unaudited.
+In the opinion of management, all adjustments, consisting of normal recurring adjustments, necessary for a fair presentation in conformity with accounting principles generally accepted in the United States of America have been included.
+In May 2014, the Financial Accounting Standards Board (the “FASB”) issued Accounting Standards Update (“ASU”) No.
+2014-09, Revenue from Contracts with Customers (Topic 606) (“ASU 2014-09”, and collectively with its related subsequent amendments, “Topic 606”).
+Topic 606 supersedes previous revenue recognition guidance and requires entities to recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for such goods or services.
+For a nominal portion of our contracts where the accounting did change, the adoption of Topic 606 resulted in an increase to the opening balance of retained earnings of approximately $3.2 as of January 1, 2018.
+For these such contracts, we now recognize revenue over time as control of the goods transfers, rather than when the goods are delivered, and title, risk and reward of ownership are passed to the customer, as under previous guidance.
+Refer to Note 3 herein for further discussion regarding revenue recognition and related policies.
+For leases with a term of twelve months or less, ASU 2016‑02 permits an entity to make an accounting policy election to recognize such leases as lease expense, generally on a straight-line basis over the lease term.
+Entities are required to adopt ASU 2016-02 using a modified retrospective approach, which requires prior periods to be presented under this new standard with various practical expedients allowed.
+The Company has begun evaluating ASU 2016‑02, including the review of the necessary changes to our existing processes and controls and the implementation of a new system that will facilitate the adoption of this new standard, in order to determine its impact on our consolidated financial statements and related disclosures.
+The stranded tax effects result from the remeasurement of net deferred tax positions that were originally recorded in comprehensive income but whose remeasurement was reflected in the income statement in 2017.
+ASU 2018-02 only applies to the effects of the Tax Act and is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2018, with early adoption permitted.
+Prior to the adoption of Topic 606, the Company’s revenue recognition policy was in accordance with ASC Topic 605, Revenue Recognition.
+Effective January 1, 2018, the Company adopted Topic 606 using the modified retrospective transition method, resulting in accounting policy changes surrounding revenue recognition which replace certain related policies discussed under Critical Accounting Policies and Estimates (in Item 7) and Summary of Significant Accounting Policies (in Note 1) of the Company’s 2017 Annual Report.
+For each contract, the promise to transfer the control of the products, each of which is individually distinct, is considered to be the identified performance obligation.
+Although products are almost always sold at fixed prices, in determining the transaction price, we evaluate whether the price is subject to refund (due to returns) or adjustment (due to volume discounts, rebates, or price concessions) to determine the net consideration we expect to be entitled to.
+We allocate the transaction price to each distinct product based on its relative standalone selling price.
+Taxes assessed by governmental authorities and collected from the customer are not included in the transaction price.
+Based on the respective contract terms, most of our contracts’ revenues are recognized either (i) upon shipment based on free on board (“FOB”) shipping point, (ii) when the product arrives at its destination or (iii) when the products are pulled from consignment inventory.
+For the contracts recognized over time, we typically record revenue using the input method, based on the materials and labor costs incurred to date relative to the contract’s total estimated costs.
+This method reasonably depicts when and as control of the goods transfers to the customer, since it measures our progress in producing the goods which is generally commensurate with this transfer of control.
+The Company maintains a reserve for unprocessed and estimated future price adjustment claims and returns as a refund liability.
+Similarly, sales returns and allowances are recorded based on historical return rates, as a reduction to revenue with a corresponding reduction to cost of sales for the estimated cost of inventory that is expected to be returned.
+These reserves were not significant upon the adoption of Topic 606 nor were they significant in the Condensed Consolidated Balance Sheet as of March 31, 2018.
+
+
+item2.txt
+
+
+
+item3.txt
+The Company may borrow under its Revolving Credit Facility and Commercial Paper Program.
+
+
+item4.txt
+The Company’s management, with the participation of the Company’s Chief Executive Officer and Chief Financial Officer, has evaluated the effectiveness of the design and operation of our disclosure controls and procedures, pursuant to Rules 13a-15(e) or 15d-15(e) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), as of the end of the period covered by this report.
+>>>>>>> origin/master
 
 
 part2.txt
 Item 1.
+<<<<<<< HEAD
 Legal Proceedings Item 2.
 Mine Safety Disclosures None.
+=======
+>>>>>>> origin/master
 
 

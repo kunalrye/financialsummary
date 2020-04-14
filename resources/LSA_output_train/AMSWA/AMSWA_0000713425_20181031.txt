@@ -43,6 +43,10 @@ Our principal executive officer and principal financial officer, with the assist
 
 
 part2.txt
+<<<<<<< HEAD
 Item 1.
+=======
+Item 1A.
+>>>>>>> origin/master
 
 
