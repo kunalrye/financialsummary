@@ -27,7 +27,8 @@ class TopicCoverageValidation:
 
         self.dictionary = corpora.Dictionary(all_tokens)
         self.NUM_TOPICS = 15
-        self.ldamodel = LdaModel.load('modeling/alltext15.gensim')
+        self.ldamodel = LdaModel.load('validation/alltext15.gensim')
+        self.manual_vecs = self.get_manual_topic_vectors()
 
 
 
@@ -63,16 +64,23 @@ class TopicCoverageValidation:
         :param ldamodel:
         :return: the length 15 topic vector
         """
+        # compute the topic vector for this document
         doc_topics = np.zeros(15)
-
+        if not doc_sents:
+            return 0.0
         for line in doc_sents:
             new_doc = prepare_text_for_lda(line)
+            if not new_doc:
+                continue
             new_doc_bow = self.dictionary.doc2bow(new_doc)
             tmax = np.argmax([two for one, two in self.ldamodel.get_document_topics(new_doc_bow)])
             sent_topic = self.ldamodel.get_document_topics(new_doc_bow)[tmax][0]
             doc_topics[sent_topic] += 1
         doc_topics = doc_topics / np.linalg.norm(doc_topics)
-        return doc_topics
+
+        # compare this document's topic vector with each one of the manually generated topic vectors, and choose the highest score
+        best_score = max([np.dot(doc_topics, v) for v in self.manual_vecs])
+        return best_score
 
 
     # def plot_topic_vecs(self):
