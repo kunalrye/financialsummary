@@ -9,6 +9,7 @@ from statistics import mean, median, stdev
 import os
 from collections import defaultdict
 from validation.precision_recall import compute_jaccard_index
+from validation.topic_coverage import TopicCoverageValidation
 
 
 
@@ -16,18 +17,24 @@ MODEL_LIST = ["lda", "textrank", "lsa", "textrank", "Lunh", "SumBasic"]
 VALIDATION_SET_PATH = "resources/validation_set"
 
 
+global topic_validator 
+
+
 def assess_models(annotated_fname, manual_set):
     """
     Assess a given manual set of lines
     :param manual_set: a set of sentences that we want the model to extract from the corresponding file
     :param annotated_fname: the filename holding the contents of the manual set
-    :return:
+    :return: two dictionaries: the first maps a validation filename to the jaccard scores for each model
+                                the second maps a validation filename to the topic vector for each model
     """
     model_results = {}
+    topic_results = {}
 
     ## get a list of all directories in the resource directory
     d = "resources"
     subdirs = [os.path.join(d, o) for o in os.listdir(d) if os.path.isdir(os.path.join(d, o))]
+
 
     for model in MODEL_LIST:
         try:
@@ -54,19 +61,29 @@ def assess_models(annotated_fname, manual_set):
         generated_set = set(generated_file.read().splitlines())
         jac_idx = compute_jaccard_index(manual_set, generated_set)
         model_results[model] = jac_idx
-    return model_results
+
+        # compute the topic scores for this model
+        topic_results[model] = topic_validator.compute_topic_scores(generated_set)
+
+
+    return model_results, topic_results
 
 
 
 def run_assessment():
     results = {}
+    topic_results = {}
+
+
     ## loop through each manually annotated file
     for root, dirs, files in os.walk(VALIDATION_SET_PATH):
         for fname in files:
             annotated_file = open(os.path.join(VALIDATION_SET_PATH, fname),encoding='utf-8').read()
             manual_set = set(annotated_file.splitlines())
-            results[fname] = assess_models(fname, manual_set)
-    return results
+            model_results, model_topics = assess_models(fname, manual_set)
+            results[fname] = model_results
+            topic_results[fname] = model_topics
+    return results, topic_results
 
 
 
@@ -128,13 +145,12 @@ def tabulate_results(results):
 
 
 if __name__ == "__main__":
-    results = run_assessment()
-    for fname, model_scores in results.items():
-        print(fname, model_scores)
-    print("\n\n")
+    topic_validator = TopicCoverageValidation()
+    results, topic_results = run_assessment()
+
     tabulate_results(results)
 
+    tabulate_results(topic_results)
 
 
-
-
+    
