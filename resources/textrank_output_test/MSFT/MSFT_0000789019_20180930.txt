@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 The information included in this Form 10-Q should be read in conjunction with information included in the Microsoft Corporation fiscal year 2018 Form 10-K filed with the U.S. Securities and Exchange Commission on August 3, 2018.
 We have recast certain prior period amounts related to investments, derivatives, and fair value measurements to conform to the current period presentation based on our adoption of the new accounting standard for financial instruments.
 We have also recast prior period commercial cloud revenue to include the commercial portion of LinkedIn to provide a comparable view of our commercial cloud business performance.
@@ -12,36 +7,11 @@ Changes in fair value, excluding other-than-temporary impairments, are recorded 
 Debt investments are impaired when a decline in fair value is judged to be other-than-temporary.
 Fair value is calculated based on publicly available market information or other estimates determined by management.
 If the cost of an investment exceeds its fair value, we evaluate, among other factors, general market conditions, credit quality of debt instrument issuers, and the duration and extent to which the fair value is less than cost.
-Once a decline in fair value is determined to be other-than-temporary, an impairment charge is recorded in other income (expense), net and a new cost basis in the investment is established.
-Equity investments without readily determinable fair values are measured using the equity method, or measured at cost with adjustments for observable changes in price or impairments (referred to as the measurement alternative).
-We perform a qualitative assessment on a quarterly basis and recognize an impairment if there are sufficient indicators that the fair value of the investment is less than carrying value.
-Derivative instruments are recognized as either assets or liabilities and are measured at fair value.
-For derivative instruments designated as fair value hedges, gains and losses are recognized in other income (expense), net with offsetting gains and losses on the hedged items.
-For options designated as fair value hedges, changes in the time value are excluded from the assessment of hedge effectiveness and recognized in other income (expense), net.
-
-
-item2.txt
-We generate revenue by licensing and supporting an array of software products; offering a wide range of cloud-based and other services to people and businesses; designing, manufacturing, and selling devices; and delivering relevant online advertising to a global audience.
+Once a decline in fair value is determined to be other-than-temporary, an impairment charge is recorded in other income (expense), net and a new cost basis in the investment is established.We generate revenue by licensing and supporting an array of software products; offering a wide range of cloud-based and other services to people and businesses; designing, manufacturing, and selling devices; and delivering relevant online advertising to a global audience.
 Server products and cloud services revenue increased 28%, driven by Azure revenue growth of 76%.
 Windows Commercial revenue increased 12%, driven by an increased volume of multi-year agreements.
-Windows original equipment manufacturer licensing (“Windows OEM”) revenue increased 3%, driven by OEM Pro revenue growth of 8%.
-Gaming revenue increased 44%, with Xbox software and services revenue growth of 36%, mainly from third-party title strength.
-The markets for software, devices, and cloud-based services are dynamic and highly competitive.
-
-
-item3.txt
-
-
-
-part2.txt
-Our competitors range in size from diversified global companies with significant research and development resources to small, specialized firms whose narrower product lines may let them be more effective in deploying technical, marketing, and financial resources.
+Windows original equipment manufacturer licensing (“Windows OEM”) revenue increased 3%, driven by OEM Pro revenue growth of 8%.Our competitors range in size from diversified global companies with significant research and development resources to small, specialized firms whose narrower product lines may let them be more effective in deploying technical, marketing, and financial resources.
 Barriers to entry in many of our businesses are low and many of the areas in which we compete evolve rapidly with changing and disruptive technologies, shifting user needs, and frequent introductions of new products and services.
 Our ability to remain competitive depends on our success in making innovative products, devices, and services that appeal to businesses and consumers.
 A competing vertically-integrated model, in which a single firm controls the software and hardware elements of a product and related services, has succeeded with some consumer products such as personal computers, tablets, phones, gaming consoles, and wearables.
 Competitors pursuing this model also earn revenue from services integrated with the hardware and software platform, including applications and content sold through their integrated marketplaces.
-We also offer some vertically-integrated hardware and software products and services.
-We face significant competition from competing platforms developed for new devices and form factors such as smartphones and tablet computers.
-Even if many users view these devices as complementary to a personal computer, the prevalence of these devices may make it more difficult to attract application developers to our PC operating system platforms.
-In addition, some of our devices compete with products made by our original equipment manufacturer (“OEM”) partners, which may affect their commitment to our platform.
-
-

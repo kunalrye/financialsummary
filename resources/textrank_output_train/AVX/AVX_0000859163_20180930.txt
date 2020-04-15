@@ -1,9 +1,3 @@
-fls.txt
-The forward-looking information may include, among other information, statements concerning our outlook for fiscal year 2019, overall volume and pricing trends, cost reduction and acquisition strategies and their anticipated results, and expectations for research and development and capital expenditures.
-Forward-looking statements reflect management’s expectations and are inherently uncertain.
-
-
-item1.txt
 The consolidated financial statements of AVX Corporation and its subsidiaries (“AVX” or the “Company”) include all accounts of the Company and its subsidiaries.
 Certain information and footnote disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States have been omitted in accordance with the rules and regulations of the SEC for interim financial statements.
 These consolidated financial statements should be read in conjunction with the audited consolidated financial statements and accompanying notes included in our Annual Report on Form 10-K for the fiscal year ended March 31, 2018.
@@ -20,16 +14,3 @@ Stock rotation is a program whereby distributor customers are allowed to return,
 An asset is recorded for the estimated value of returned product.
 Ship-from-Stock and Debit (“ship and debit”) is a program designed to assist distributor customers in meeting competitive prices in the marketplace on sales to their end customers.
 Ship and debit programs require a request from the distributor for a pricing adjustment for a specific part for a sale to the distributor’s end customer from the distributor’s stock.
-In 2014, FASB issued ASU 2014-09, “Revenue from Contracts with Customers.” This guidance modifies how an entity will determine the measurement of revenue and timing of when it is recognized.
-In February 2016, FASB issued ASU 2016-02, “Leases.” This guidance changes the requirements for inclusion of certain right-of-use assets and the associated lease liabilities to be included in a statement of financial position.
-Regarding finance leases, lessees are required to 1) recognize a right-of-use asset and a lease liability, initially measured at the present value of the lease payments, in the statement of financial position, 2) recognize interest on the lease liability separate from the amortization of the right-of-use asset in the statement of comprehensive income, and 3) classify repayments of the principal portion of the lease liability within financing activities and payments of interest on the lease liability and variable lease payments within operating activities in the statement of cash flows.
-Regarding operating leases, lessees are required to 1) recognize a right-of-use asset and a lease liability, initially measured at the present value of the lease payments, in the statement of financial position, 2) recognize a single lease cost, calculated so that the cost of the lease is allocated over the lease term on a generally straight-line basis, and 3) classify all cash payments within operating activities in the statement of cash flows.
-In August 2017, FASB issued ASU 2017-12, “Derivatives and Hedging.” The standard aims to align the designation and measurement guidance for qualifying hedging relationships and the presentation of hedge results for cash flow and fair value hedge accounting with risk management activities.
-We used the acquisition method of accounting to record the below transactions in accordance with FASB Accounting Standards Codification Topic 805, “Business Combinations.” In accordance with the acquisition method, the purchase price is allocated to the assets acquired and liabilities assumed based on their estimated fair values with the excess being allocated to goodwill.
-The acquired intangible assets relate to the AB Electronics trade name, existing technology and customer relationships which are being amortized over one, eleven, and six years respectively.
-In the quarter ended September 30, 2018, immaterial measurement period adjustments were made to the allocation of the purchase price.
-The results of operations for AVX Antenna since the acquisition date are included in the accompanying consolidated statements of operations.
-The acquired intangible assets relate to the Ethertronics trade name, existing technology and customer relationships which are being amortized over ten, ten, and thirteen years, respectively.
-We recognized revenue of $31,806 and $63,747 from AVX Antenna in the three and six month periods ended September 30, 2018, respectively.
-
-

@@ -1,8 +1,3 @@
-fls.txt
-The following Management’s Discussion and Analysis of Financial Condition and Results of Operations contains, in addition to historical information, forward-looking statements that involve risks and uncertainties.
-
-
-item1.txt
 In the opinion of the Company’s management, all adjustments that are of a normal recurring nature, considered necessary for fair presentation, have been included in the accompanying condensed consolidated financial statements.
 For further information, refer to the consolidated financial statements and notes thereto included in the Company’s annual report on Form 10-K filed with the Securities Exchange Commission for the year ended December 31, 2017.
 Effective January 1, 2018 we adopted the requirements of Accounting Standards Update, or ASU, No. 2014-09 Revenue from Contracts with customers, or Accounting Standard Codification (“ASC”) 606 using the full retrospective method, as discussed in detail in Note 5.
@@ -10,16 +5,7 @@ Earnings per share for the six and three months ended June 30, 2017 were recalcu
 In 2017 the Company determined it should be reporting earnings per share using the two-class method in accordance with ASC 260-10-45-60, which treats unvested restricted shares granted under our 2012 Stock-Based Compensation Plan that are entitled to receive non-forfeitable dividends as participating securities.
 While the Company has determined the impact of applying the two-class method does not have a material impact on previously issued financial statements, it is appropriate to recalculate and restate amounts presented on a comparative and consistent basis with current period results.
 The amendments in this updated guidance clarify that an entity should apply modification accounting in response to a change in the terms and conditions of an entity’s share-based payment awards unless three newly specified criteria are met.
-The new guidance was effective for the Company on a prospective basis beginning on January 1, 2018 and did not impact the Company’s Consolidated Financial Statements as it is not the Company’s practice to change either the terms or conditions of stock-based payment awards once they are granted.
-The Company is currently assessing the impact this ASU will have on its consolidated financial statements.
-During the six months ended June 30, 2018, the Company has not recognized any material changes to the provisional amounts recorded in our 2017 Annual Report on Form 10-K in connection with the 2017 Tax Act. The net sales from our foreign operations for the second quarter of 2018 were $4.5 million as compared to $4.7 million in the second quarter of 2017.
-Effective January 1, 2018, we adopted ASC 606 using the full retrospective method, which requires us to restate our historical financial information to reflect the adoption as of the earliest reporting period presented.
-The most significant impact of adopting the standard relates to the determination of whether the Company is acting as a principal or an agent in the sale of third party security software and software that is highly interdependent with support, as well as maintenance, support and other services.
-Historically, under the transfer of risk and rewards model of revenue recognition, the Company has accounted for primarily all of its sales on a gross basis.
-
-
-item2.txt
-Total dividends paid and shares repurchased were $0.8 and $0.9 million for the quarter ended June 30, 2018, respectively, and $0.8 million and $0.7 million for the quarter ended June 30, 2017, respectively.
+The new guidance was effective for the Company on a prospective basis beginning on January 1, 2018 and did not impact the Company’s Consolidated Financial Statements as it is not the Company’s practice to change either the terms or conditions of stock-based payment awards once they are granted.Total dividends paid and shares repurchased were $0.8 and $0.9 million for the quarter ended June 30, 2018, respectively, and $0.8 million and $0.7 million for the quarter ended June 30, 2017, respectively.
 On an on-going basis, the Company evaluates its estimates, including those related to product returns, bad debts, inventories, intangible assets, income taxes, stock-based compensation, contingencies and litigation.
 The Company believes the following critical accounting policies used in the preparation of its consolidated financial statements affect its more significant judgments and estimates.
 The Company makes estimates regarding performance obligations inherent in the products and services it sells including, whether ongoing maintenance obligations performed by third party vendors are distinct from the related software licenses, and allocation of sales prices among distinct performance obligations.
@@ -28,22 +14,3 @@ The net proceeds from such sales are included in the operating section of the st
 In the event the Company were to determine that it would not be able to realize all or part of its net deferred tax assets in the future, an adjustment to the deferred tax assets would be charged to income in the period such determination was made.
 The Company is currently assessing the potential impact of adopting ASU 2016-02 on its consolidated financial statements.
 The Company is currently evaluating the potential effects of adopting the provisions of ASU No. 2016-13 on its consolidated financial statements, particularly its recognition for accounts receivable.
-The adoption of this guidance did not have a material impact on the Company’s consolidated financial statements.
-The Company is continuing to evaluate the impact of the adoption of this guidance on its consolidated financial statements.
-The new guidance was effective for the Company on a prospective basis beginning on January 1, 2018 and did not impact the Company’s Consolidated Financial Statements as it is not the Company’s practice to change either the terms or conditions of stock-based payment awards once they are granted.
-The Company is currently assessing the impact this ASU will have on its consolidated financial statements.
-During the six months ended June 30, 2018, the Company has not recognized any material changes to the provisional amounts recorded in our 2017 Annual Report on Form 10-K in connection with the 2017 Tax Act. We believe that the most important of these measures and ratios include net sales, gross margin, adjusted gross billings, gross profit as a percentage of gross billings, net income as a percentage of net sales, net income as a percentage of gross billings, and net income excluding separation expenses, net of taxes.
-
-
-item3.txt
-
-
-
-item4.txt
-As required by Rule 13a-15(b) under the Exchange Act, our management carried out an evaluation of the effectiveness of the design and operation of the Company’s “disclosure controls and procedures”, as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, as of the end of the period covered by this report.
-
-
-part2.txt
-(1)    Includes 61,416 shares surrendered to the Company by employees to satisfy individual tax withholding obligations upon vesting of previously issued shares of Restricted Stock.
-
-

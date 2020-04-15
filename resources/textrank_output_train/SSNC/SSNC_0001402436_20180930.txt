@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 These accounting principles were applied on a basis consistent with those of the audited Consolidated Financial Statements contained in the Company’s Annual Report on Form 10-K for the year ended December 31, 2017, filed with the Securities and Exchange Commission (the “SEC”) on February 28, 2018 (the “2017 Form 10-K”).
 In the opinion of the Company, the accompanying unaudited Condensed Consolidated Financial Statements contain all adjustments (consisting of only normal recurring adjustments, except as noted elsewhere in the notes to the Condensed Consolidated Financial Statements) necessary for a fair statement of its financial position as of September 30, 2018, the results of its operations for the three and nine months ended September 30, 2018 and 2017, and its cash flows for the nine months ended September 30, 2018 and 2017.
 ASU 2016-15 is effective for the Company for its first quarter of fiscal 2018 and the guidance requires application using a retrospective method.
@@ -12,37 +7,10 @@ ASU 2016-01 requires equity investments, except those accounted for under the eq
 Equity securities that do not have readily determinable fair values may be measured at estimated fair value or cost less impairment, if any, adjusted for subsequent observable price changes, with changes in the carrying value recognized in net income.
 A qualitative assessment for impairment is required for equity investments without readily determinable fair values.
 The Company adopted ASU 2016-01 as of January 1, 2018, which did not have a material impact on the Company’s financial position, results of operations or cash flows.
-ASU 2016-13 requires companies to measure credit losses utilizing a methodology that reflects expected credit losses and requires a consideration of a broader range of reasonable and supportable information to inform credit loss estimates.
-The Company is currently evaluating the impact of the pending adoption of ASU 2016-13 on the Company’s Condensed Consolidated Financial Statements.
-The Company’s analysis of its real estate joint ventures for all periods presented indicate that none qualified as a VIE and, accordingly, they have not been consolidated.
-The Company holds client funds on behalf of transfer agency clients and pharmacy processing clients in connection with providing its data processing services.
-Client funds obligations represent funds owed to full service mutual fund transfer agency clients for cash balances invested overnight, and the Company’s contractual obligations to satisfy client pharmacy claim obligations that are recorded on the balance sheet when incurred, generally after the Company has processed a claim on behalf of its pharmacy clients.
-Under the equity method, the Company recognizes income or losses from its pro-rata share of these unconsolidated affiliates’ net income or loss, which changes the carrying value of the investment of the unconsolidated affiliate.
-
-
-item2.txt
-Under the equity method, we recognize income or losses from our pro-rata share of these unconsolidated affiliates’ net income or loss, which changes the carrying value of the investment of the unconsolidated affiliate.
+ASU 2016-13 requires companies to measure credit losses utilizing a methodology that reflects expected credit losses and requires a consideration of a broader range of reasonable and supportable information to inform credit loss estimates.Under the equity method, we recognize income or losses from our pro-rata share of these unconsolidated affiliates’ net income or loss, which changes the carrying value of the investment of the unconsolidated affiliate.
 Investments in non-marketable equity securities that do not have readily determinable fair values and do not qualify for the practical expedient to measure the investment using a net asset value per share are recorded using the measurement alternative in ASU 2016-01.
 We have certain investments in unconsolidated affiliates accounted for under the equity method of accounting in which our carrying value exceeds the proportionate share of net assets of the unconsolidated affiliate.
 Acquisition of DST Systems, Inc. In connection with this acquisition, we entered into an amended and restated credit agreement (“Credit Agreement”) pursuant to which we borrowed an aggregate of approximately $7.4 billion (approximately $524.5 million of which was rolled over from our existing credit facility).
 We funded the acquisition with a combination of cash and $875.0 million in incremental term loan debt.
 Our revenues increased $574.2 million, or 137.3%, primarily due to our acquisitions, which included CommonWealth Fund Services Ltd.
-Software-enabled services revenues increased $545.2 million, or 193.3%, primarily due to the acquisitions, which added revenues of $534.7 million, as well as from a continued increase in demand for our fund administration services and services for advisory and wealth managers.
-million, or 21.3%, primarily due to the acquisitions, which added revenues of $28.4 million.
-Additionally, revenues increased due to increased demand for our software-enabled services and the favorable impact from foreign currency translation, which added $3.1 million.
-Software-enabled services revenues increased $1,032.6 million, or 124.2%, primarily due to the acquisitions, which added revenues of $991.1 million, as well as from a continued increase in demand for our fund administration services and services for advisory and wealth managers.
-License, maintenance and related revenues increased $40.6 million, or 10.0%, primarily due to the acquisitions, which added revenues of $48.4 million and the favorable impact from foreign currency translation of $0.8 million, partially offset by a decrease in professional services revenues.
-
-
-item3.txt
-We derive service revenues from investment earnings related to cash balances maintained in bank accounts on which we are the agent for clients.
-
-
-item4.txt
-
-
-
-part2.txt
-The information regarding certain legal proceedings in which we are involved as set forth in Note 12 – Commitments and Contingencies of the Notes to the Condensed Consolidated Financial Statements (Part I, Item 1 of this Quarterly Report on Form 10-Q) is incorporated by reference into this Item 1.
-
-
+Software-enabled services revenues increased $545.2 million, or 193.3%, primarily due to the acquisitions, which added revenues of $534.7 million, as well as from a continued increase in demand for our fund administration services and services for advisory and wealth managers.We derive service revenues from investment earnings related to cash balances maintained in bank accounts on which we are the agent for clients.

@@ -1,8 +1,3 @@
-fls.txt
-Certain statements made in this report, as well as oral statements made by the Company from time to time, constitute forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended.
-
-
-item1.txt
 As a result of the adoption of ASC 842 "Leases," Cognex Corporation (the "Company") has provided new disclosures related to leases in this Quarterly Report on Form 10-Q.
 At inception of a contract, the Company determines whether that contract is or contains a lease.
 The Company determines whether a contract contains a lease by assessing whether there is an identified asset and whether the contract conveys the right to control the use of the identified asset for a period of time in exchange for consideration.
@@ -14,29 +9,9 @@ The Company’s incremental borrowing rate is the rate of interest that the Comp
 The amortization of the lease asset is calculated as the straight-line lease expense less the accretion of the interest on the lease liability each period.
 The lease liability is reduced by the cash payment less the interest each period.
 ASU 2016-13 applies to all reporting entities holding financial assets that are not accounted for at fair value through net income (debt securities).
-The amendments in this ASU require that credit losses on available-for-sale debt securities be presented as an allowance rather than as a write-down and an entity will be able to record reversals of credit losses in current period net income.
-The amendments in this ASU shorten the amortization period for certain callable debt securities held at a premium.
-The amendments in this ASU more closely align the amortization period of premiums and discounts to expectations incorporated in market pricing on the underlying securities.
-Accordingly, the amendments in this ASU require an entity in a hosting arrangement that is a service contract to follow the guidance in Subtopic 350-40 to determine which implementation costs to capitalize as an asset related to the service contract and which costs to expense.
-The Company’s money market instruments are reported at fair value based upon the daily market price for identical assets in active markets, and are therefore classified as Level 1.
-The Company did not record an other-than-temporary impairment of these financial assets during the three-month or nine-month periods ended September 29, 2019 and September 30, 2018.
-The Company's contingent consideration liabilities are reported at fair value based upon probability-adjusted present values of the consideration expected to be paid using significant inputs that are not observable in the market and are therefore classified as Level 3.
-The Company did not record an impairment charge related to these assets during the three-month or nine-month periods ended September 29, 2019 and September 30, 2018.
-
-
-item2.txt
-In addition to product revenue derived from the sale of machine vision products, the Company also generates revenue by providing maintenance and support, consulting, and training services to its customers; however, service revenue accounted for less than 10% of total revenue for all periods presented.
+The amendments in this ASU require that credit losses on available-for-sale debt securities be presented as an allowance rather than as a write-down and an entity will be able to record reversals of credit losses in current period net income.In addition to product revenue derived from the sale of machine vision products, the Company also generates revenue by providing maintenance and support, consulting, and training services to its customers; however, service revenue accounted for less than 10% of total revenue for all periods presented.
 Changes in foreign currency exchange rates did not have a material impact on revenue for either period presented.
 Sales to customers based in Europe decreased by 46% for the three-month period and 26% for the nine-month period driven by lower sales in the consumer electronics industry, and to a lessor extent, the automotive industry.
 The sequential decrease is anticipated to come primarily from lower sales in the consumer electronics industry due to the seasonal timing of this business, while the decrease from the prior year is anticipated to come from a broad base of customers in a variety of industries, particularly in China and Europe.
 As of the date of this report, we expect gross margin as a percentage of revenue for the fourth quarter of 2019 to be relatively consistent with the gross margin reported in the third quarter of 2019.
 A higher level of foreign currency losses was recorded in the third quarter of 2019 from the revaluation of intercompany payables denominated in U.S. Dollars on the company's China entity.
-The Company recorded other income of $456,000 and $1,239,000 for the three-month and nine-month periods in 2019, respectively, compared to other expense of $129,000 and $98,000 for the same periods in 2018.
-A higher level of fair value adjustments to income was recorded in 2019 related to the Company's GVi acquisition resulting from a lower level of revenue in the Americas' automotive industry.
-The Company’s effective tax rate was 12% of pre-tax income for the three-month and nine-month periods in 2019, respectively, compared to 1% and 6% for the same periods in 2018.
-
-
-part2.txt
-Various claims and legal proceedings generally incidental to the normal course of business are pending or threatened on behalf of or against the Company.
-
-

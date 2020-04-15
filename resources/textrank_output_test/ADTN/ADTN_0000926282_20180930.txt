@@ -1,8 +1,3 @@
-fls.txt
-ADTRAN and its representatives may from time to time make written or oral forward-looking statements, including statements contained in this report, our other filings with the Securities and Exchange Commission (SEC) and other communications with our stockholders.
-
-
-item1.txt
 The interim statements should be read in conjunction with the financial statements and notes thereto included in ADTRAN’s Annual Report on Form 10-K for the year ended December 31, 2017, filed on February 23, 2018 with the SEC.
 Our more significant estimates include the obsolete and excess inventory reserves, warranty reserves, customer rebates, determination of the deferred revenue components of multiple element sales agreements, estimated costs to complete obligations associated with deferred revenues, estimated income tax provision and income tax contingencies, the fair value of stock-based compensation, impairment of goodwill, valuation and estimated lives of intangible assets, estimated pension liability, fair value of investments, and the evaluation of other-than-temporary declines in the value of investments.
 ASU 2016-02 requires an entity to recognize lease assets and lease liabilities on the balance sheet and to disclose key information about the entity's leasing arrangements.
@@ -12,34 +7,9 @@ In addition, ASU 2018-13 requires disclosures regarding the uncertainty in the f
 In August 2018, the FASB issued ASU 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40), Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract.
 Specifically, ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementations costs incurred to develop or obtain internal use software.
 These ASUs primarily affected our network implementation service revenue performance obligations and contract costs.
-In connection with the adoption of the new revenue standard, effective January 1, 2018, we adopted ASC 340-40, Other Assets and Deferred Costs – Contracts with Customers, with respect to capitalization and amortization of incremental costs of obtaining a contract.
-The primary effect was the capitalization of certain sales commissions for our extended maintenance and support contracts in excess of one year and amortization of those costs over the period that the related revenue is recognized.
-We recorded a bargain purchase gain of $11.3 million during the first quarter of 2018, net of income taxes, which is subject to customary working capital adjustments between the parties.
-The transfer of these assets to ADTRAN, which included key customer relationships and a required assumption by ADTRAN of relatively low incremental expenses, along with the value of the technology license and OEM supply agreement, resulted in the bargain purchase gain.
-For the three and nine months ended September 30, 2018, we incurred acquisition and integration related expenses and amortization of acquired intangibles of $0.7 million and $1.6 million, respectively, related to this acquisition.
-Revenue is measured based on the consideration we expect to receive in exchange for transferring goods or providing services to a customer and as performance obligations under the terms of the contract are satisfied.
-The consideration, including any discounts, is allocated between separate products and services based on their stand-alone selling prices.
-
-
-item2.txt
-Customer Devices includes our products and services that provide end users access to CSP networks.
+In connection with the adoption of the new revenue standard, effective January 1, 2018, we adopted ASC 340-40, Other Assets and Deferred Costs – Contracts with Customers, with respect to capitalization and amortization of incremental costs of obtaining a contract.Customer Devices includes our products and services that provide end users access to CSP networks.
 Sales were $140.3 million and $389.2 million for the three and nine months ended September 30, 2018, compared to $185.1 million and $540.1 million for the three and nine months ended September 30, 2017.
 Our gross margin decreased to 41.6% and 38.1% in the three and nine months ended September 30, 2018, from 46.7% and 45.3% in the three and nine months ended September 30, 2017.
 Our operating income margin decreased to (1.6)% and (10.7)% for the three and nine months ended September 30, 2018, from 9.8% and 7.7% for the three and nine months ended September 30, 2017.
 Net income (loss) was $7.6 million and $(10.9) million for the three and nine months ended September 30, 2018, compared to $15.9 million and $35.0 million for the three and nine months ended September 30, 2017.
-Our effective tax rate, excluding the effect of the bargain purchase gain in 2018, was a benefit of 135.7% and 52.2% for the three and nine months ended September 30, 2018, compared to a provision of 17.2% and 23.1% for the three and nine months ended September 30, 2017.
-Earnings (loss) per share, assuming dilution, was $0.16 and $(0.23) for the three and nine months ended September 30, 2018, compared to $0.33 and $0.72 for the three and nine months ended September 30, 2017.
-As a percentage of sales, cost of sales increased from 53.3% in the three months ended September 30, 2017 to 58.4% in the three months ended September 30, 2018, and increased from 54.7% in the nine months ended September 30, 2017 to 61.9% in the nine months ended September 30, 2018.
-The increase in cost of sales as a percentage of sales for the three months ended September 30, 2018 is primarily attributable to a regional revenue shift, customer and product mix, and services and support mix.
-The increase in cost of sales as a percentage of sales for the nine months ended September 30, 2018 is primarily attributable to a regional revenue shift, customer and product mix, and services and support mix, restructuring expenses and an increase in warranty replacements.
-
-
-item3.txt
-As of September 30, 2018, approximately $63.0 million of our cash and investments may be directly affected by changes in interest rates.
-At September 30, 2018, we held $6.6 million of cash and variable-rate investments where a change in interest rates would impact our interest income.
-
-
-part2.txt
-
-
-
+Our effective tax rate, excluding the effect of the bargain purchase gain in 2018, was a benefit of 135.7% and 52.2% for the three and nine months ended September 30, 2018, compared to a provision of 17.2% and 23.1% for the three and nine months ended September 30, 2017.As of September 30, 2018, approximately $63.0 million of our cash and investments may be directly affected by changes in interest rates.

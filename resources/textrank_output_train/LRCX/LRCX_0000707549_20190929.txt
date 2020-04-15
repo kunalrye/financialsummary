@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 The Company adopted ASC 842 by recording operating right-of-use assets of $110.8 million, net of deferred rent liabilities of $3.0 million that were reclassified to operating right-of-use assets, and operating lease liabilities of $113.8 million.
 The Company also recognized an adjustment of $3.0 million to retained earnings, net of tax; a reduction of $40.4 million to property and equipment, net; and a reduction of $43.8 million to finance leases ($42.3 million of which was previously recognized in long-term debt and finance lease obligations, less current portion and the remaining was previously recognized in current portion of long-term debt and finance lease obligations) related to its de-recognition of its previously recorded build-to-suit arrangements.
 The adoption of the standard did not materially impact the Company’s Condensed Consolidated Statement of Operations and had no impact on cash flows.
@@ -12,38 +7,9 @@ The Company is currently evaluating the impact of adoptions on its Condensed Con
 The amendments of ASU 2017-12 were effective in the first quarter of fiscal year 2020, and did not have a material impact on the Company’s Condensed Consolidated Financial Statements.
 The Company continues to evaluate the impact of ASU 2016-13 and will consider the amendments of ASU 2019-04 as part of that process.
 The Lam Research Corporation 2015 Stock Incentive Plan, as amended (the “2015 Plan”), provides for the grant of non-qualified equity-based awards of the Company’s Common Stock to eligible employees and non-employee directors, including stock options, restricted stock units (“RSUs”), and market-based performance RSUs (“market-based PRSUs”).
-The Company’s options, RSU, and market-based PRSU awards typically vest over a period of three years.
-The Company recorded an income tax expense of $58.9 million for the three months ended September 29, 2019, which yielded an effective tax rate of approximately 11.2%.
-The Company is unable to make a reasonable estimate as to when cash settlements, if any, with the IRS will occur.
-Refer to Note 12 - Long-term Debt and Other Borrowings for additional information regarding the Company’s convertible notes.
-The Company’s mutual funds, which are related to the Company’s obligations under the deferred compensation plan, are classified as trading securities.
-All of the Company’s other investments are classified as available-for-sale and consequently are recorded in the Condensed Consolidated Balance Sheets at fair value with unrealized gains or losses reported as a separate component of accumulated other comprehensive income (loss), net of tax.
-The Company defines fair value as the price that would be received from selling an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
-
-
-item2.txt
-Our customer base includes leading semiconductor memory, foundry, and integrated device manufacturers that make products such as non-volatile memory, DRAM, and logic devices.
+The Company’s options, RSU, and market-based PRSU awards typically vest over a period of three years.Our customer base includes leading semiconductor memory, foundry, and integrated device manufacturers that make products such as non-volatile memory, DRAM, and logic devices.
 Along with meeting technical requirements, wafer processing equipment must deliver high productivity and be cost-effective.
-Despite recent semiconductor capital investment volatility, over the longer term, we believe that technology inflections in our industry, including 3D device scaling, multiple patterning, process flow, and advanced packaging chip integration will lead to an increase in our served addressable market for our products and services in deposition, etch, and clean.
-In the September 2019 quarter, revenue decreased 8% compared to the June 2019 quarter, reflecting lower customer demand for semiconductor equipment.
-The decline in gross margin as a percentage of revenue in the September 2019 quarter compared to the June 2019 quarter was mainly driven by customer and product mix.
-
-
-item3.txt
-
-
-
-item4.txt
-We maintain disclosure controls and procedures and internal control over final reporting that are designed to comply with Rule 13a-15 of the Exchange Act. Moreover, we believe that a control system cannot be guaranteed to be 100% effective all of the time.
-
-
-part2.txt
-The variability in our customers’ investments during any particular period is dependent on several factors, including but not limited to electronics demand, economic conditions (both general and in the semiconductor and electronics industries), industry supply and demand, prices for semiconductors, and our customers’ ability to develop and manufacture increasingly complex and costly semiconductor devices.
+Despite recent semiconductor capital investment volatility, over the longer term, we believe that technology inflections in our industry, including 3D device scaling, multiple patterning, process flow, and advanced packaging chip integration will lead to an increase in our served addressable market for our products and services in deposition, etch, and clean.The variability in our customers’ investments during any particular period is dependent on several factors, including but not limited to electronics demand, economic conditions (both general and in the semiconductor and electronics industries), industry supply and demand, prices for semiconductors, and our customers’ ability to develop and manufacture increasingly complex and costly semiconductor devices.
 During periods of rapid growth or decline in demand for our products and services, we face significant challenges in maintaining adequate financial and business controls, management processes, information systems, and procedures for training, assimilating, and managing our workforce, and in appropriately sizing our supply chain infrastructure and facilities, work force, and other components of our business on a timely basis.
 Especially during transitional periods, resource allocation decisions can have a significant impact on our future performance, particularly if we have not accurately anticipated industry changes.
 •the dilutive impact of our Convertible Notes (as defined below) on our earnings per share.
-Our revolving credit facility also includes an option to increase the amount up to an additional $600.0 million, for a potential total commitment of $1.85 billion.
-In addition, we have entered, and in the future may enter, into derivative instrument arrangements to hedge against the variability of cash flows due to changes in the benchmark interest rate of fixed rate debt.
-Conversion of our Convertible Notes may cause dilution to our stockholders and to our earnings per share.
-
-

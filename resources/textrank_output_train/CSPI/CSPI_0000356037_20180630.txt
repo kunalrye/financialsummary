@@ -1,8 +1,3 @@
-fls.txt
-We discuss many of these risks and uncertainties in Item 1A under the heading “Risk Factors” in our Annual Report on Form 10-K for the fiscal year ended September 30, 2017.
-
-
-item1.txt
 During the third quarter ended June 30, 2018, CSPi's Board of Directors approved the sale of the Germany subsidiary of its TS segment.
 Accordingly, the Company's Germany division of the TS segment met the criteria for "Assets Held-for-Sale" in accordance with Accounting Standard Codification Topic 360 ("ASC 360") as of June 30, 2018.
 The Germany assets and liabilities are reflected as "held-for-sale" on the consolidated balance sheets in accordance with ASC 360, at June 30, 2018 and September 30, 2017.
@@ -10,15 +5,7 @@ Finished goods includes inventory that has been shipped, but for which all reven
 For the three and nine months ended June 30, 2018, changes in the effective tax rate from the prior period include lower level of earnings and the reduction in the U.S. tax rate from 35% to 24%.
 SAB 118 provides for a measurement period beginning in the reporting period that includes the Tax Act’s enactment date and ending when the Company has obtained, prepared, and analyzed the information needed in order to complete the accounting requirements, but in no circumstances should the measurement period extend beyond one year from the enactment date.
 The Company's continuing operations has defined benefit and defined contribution plans in the United Kingdom and in the U.S. The Company's discontinued operations has a defined benefit and defined contribution plan in Germany.
-As indicated in Note 1, during the third quarter ended June 30, 2018, CSPi's Board of Directors approved the sale of the Germany subsidiary of its TS segment.
-The following table lists customers from which the Company derived revenues in excess of 10% of total revenues from continuing operations for the three and nine months ended June 30, 2018, and 2017.
-In addition, accounts receivable from Customer A totaled approximately $1.5 million, or 11%, and approximately $2.4 million, or 14%, of total consolidated accounts receivable as of June 30, 2018 and September 30, 2017, respectively.
-Accounts receivable from Customer B was less than 10% as of June 30, 2018 and September 30, 2017.
-Customer C, accounted for accounts receivable of 10% or more as of June 30, 2018, but did not account for revenue of 10% or more for the three and nine months ended June 30, 2018 and June 30, 2017.
-
-
-item2.txt
-Our revenues decreased by approximately $6.4 million, or 24%, to $20.0 million for the three months ended June 30, 2018 as compared to $26.4 million for the three months ended June 30, 2017.
+As indicated in Note 1, during the third quarter ended June 30, 2018, CSPi's Board of Directors approved the sale of the Germany subsidiary of its TS segment.Our revenues decreased by approximately $6.4 million, or 24%, to $20.0 million for the three months ended June 30, 2018 as compared to $26.4 million for the three months ended June 30, 2017.
 Our gross margin percentage increased to 26% of revenues for the three months ended June 30, 2018 from 23% for the three months ended June 30, 2017.
 Operating income decreased by approximately $1.1 million from operating income of $1.3 million for the three months ended June 30, 2017 to operating income of $222 thousand for the three months ended June 30, 2018, primarily as a result of a $939 thousand decrease in gross profit combined with an increase of $181 thousand in operating expenses.
 Our income tax expense decreased by approximately $144 thousand to $249 thousand for the three months ended June 30, 2018 as compared to an income tax expense of $393 thousand for the three months ended June 30, 2017.
@@ -26,16 +13,4 @@ Our revenues decreased by approximately $6.4 million to $20.0 million for the th
 The HPP product revenues of $1.7 million were relatively unchanged for the three months ended June 30, 2018 compared to the three months ended June 30, 2017, increasing by $30 thousand from $1.6 million.
 The decrease in HPP services revenues of $258 thousand is primarily attributed to a $382 thousand decrease in royalties on high-speed processing boards related to the E2D program shipped for the three months ended June 30, 2018 as compared to the three months ended June 30, 2017.
 The decrease in TS segment product revenues of $7.0 million during the period was primarily the result of a decrease in product revenues of $7.2 million in our U.S. division, partially offset by an increase of $0.2 million in our U.K. division.
-The $7.2 million decrease in the U.S. division was primarily the result of product sales to a major customer in the prior year
-The $0.2 million increase in the U.K. division product revenues was primarily the result of increased product shipments to two customers.
-The decrease in TS segment product revenues was partially offset by an increase in TS segment service revenues of $0.9 million during the period.
-The increase in TS segment service revenues for the period ended June 30, 2018 as compared to the prior fiscal year three month period was due primarily to an increase of $0.9 million in our U.S. division.
-The $0.9 million increase in the U.S. division service revenues was substantially the result of a $0.8 million increase in internal services and a $0.3 million increase in managed service contracts, partially offset by a decrease in third party maintenance revenues of $0.2 million.
-The $0.4 million decrease in revenue to Europe is primarily the result of decreased sales by our TS segment U.S division of $1.2 million, partially offset by increased sales by our TS segment U.K. division of $0.7 million to a U.S. division multi-national customer.
-
-
-item4.txt
-The term “disclosure controls and procedures,” as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, means controls and other procedures of a company that are designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC's rules and forms.
-Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to the company's management, including its principal executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosure.
-
-
+The $7.2 million decrease in the U.S. division was primarily the result of product sales to a major customer in the prior yearThe term “disclosure controls and procedures,” as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, means controls and other procedures of a company that are designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC's rules and forms.

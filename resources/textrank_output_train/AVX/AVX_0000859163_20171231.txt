@@ -1,8 +1,3 @@
-fls.txt
-The forward-looking information may include, among other information, statements concerning our outlook for fiscal year 2018, overall volume and pricing trends, cost reduction and acquisition strategies and their anticipated results, and expectations for research and development and capital expenditures.
-
-
-item1.txt
 The consolidated financial statements of AVX Corporation and its subsidiaries (“AVX” or the “Company”) include all accounts of the Company and its subsidiaries.
 Certain information and footnote disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States have been omitted in accordance with the rules and regulations of the SEC for interim financial statements.
 These consolidated financial statements should be read in conjunction with the audited consolidated financial statements and accompanying notes included in our Annual Report on Form 10-K for the fiscal year ended  March 31, 2017.
@@ -19,16 +14,3 @@ In  March 2016, the FASB issued ASU 2016-09, “Compensation — Stock Compensat
 The standard became effective for the interim reporting period ending  June 30, 2017 and has not had a material impact on our consolidated financial statements.
 In  August 2017, the FASB issued ASU 2017-12, “Derivatives and Hedging.” The standard aims to align the designation and measurement guidance for qualifying hedging relationships and the presentation of hedge results for cash flow and fair value hedge accounting with risk management activities.
 During the three and nine month periods ended  December 31, 2016 and 2017, there have been no transfers of assets or liabilities between levels within the fair value hierarchy.
-We primarily use forward contracts, with maturities generally less than four months, designated as cash flow hedges, to protect against the foreign currency exchange rate risks inherent in our forecasted transactions related to purchase commitments and sales, denominated in various currencies.
-These derivatives are used to offset currency changes in the fair value of the hedged assets and liabilities.
-Fair values for all of our derivative financial instruments are valued by adjusting the market spot rate by forward points, based on the date of the contract.
-At  March 31, 2017 and  December 31, 2017, all of our forward contracts are valued using Level 2 measurements.
-At  March 31, 2017 and  December 31, 2017, we classified investments in debt securities and time deposits as held-to-maturity securities.
-The amortized cost and estimated fair value of held-to-maturity investments at  December 31, 2017, by contractual maturity, are shown below.
-The estimated fair value of these investments are based on valuation inputs that include benchmark yields, reported trades, broker and dealer quotes, issuer spreads, two-sided markets, benchmark securities, bids, offers, and reference data, which are Level 2 inputs in the fair value hierarchy.
-We have been identified by the United States Environmental Protection Agency (“EPA”), state governmental agencies or other private parties as a potentially responsible party (“PRP”) under the Comprehensive Environmental Response, Compensation and Liability Act (“CERCLA”), or equivalent state or local laws, for clean-up and response costs associated with certain sites at which remediation is required with respect to prior contamination.
-Because CERCLA or such state statutes authorize joint and several liability, the EPA or state regulatory authorities could seek to recover all clean-up costs from any one of the PRPs at a site despite the involvement of other PRPs. At certain sites, financially responsible PRPs other than AVX also are, or have been, involved in site investigation and clean-up activities.
-We believe that liability resulting from these sites will be apportioned between AVX and other PRPs. To resolve our liability at the sites at which we have been named a PRP, we have entered into various administrative orders and consent decrees with federal and state regulatory agencies governing the timing and nature of investigation and remediation.
-AVX has submitted its proposed remedy, but until the state has approved such proposal, AVX cannot determine if additional groundwater and soil remediation will be required, if substantial material will have to be disposed of offsite, or if additional remediation techniques will be required, any of which could result in a more extensive and costly plan of remediation.
-
-

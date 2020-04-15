@@ -1,8 +1,3 @@
-fls.txt
-All statements and assumptions contained in this Quarterly Report on Form 10-Q that do not relate to historical facts constitute "forward-looking statements."
-
-
-item1.txt
 We recommend that you read these condensed consolidated financial statements in conjunction with the audited consolidated financial statements and related notes included in our Annual Report on Form 10-K for the fiscal year ended December 31, 2017, previously filed with the SEC.
 Revenue Recognition - On January 1, 2018, we adopted Accounting Standards Codification (ASC) 606, Revenue from Contracts with Customers using the modified retrospective method applied to those contracts that were not substantially complete as of January 1, 2018.
 ASC 606 outlines a five-step model whereby revenue is recognized as performance obligations within the contract are satisfied.
@@ -13,37 +8,9 @@ Then we determine the transaction price for the contract; the consideration to w
 The transaction price is allocated to each distinct performance obligation using our best estimate of the standalone selling price for each distinct good or service promised in the contract.
 For our U.S. government contracts, this continuous transfer of control to the customer is supported by clauses in the contract that allow the U.S. government to unilaterally terminate the contract for convenience, pay us for costs incurred plus a reasonable profit and take control of any work in process.
 Based on the nature of the products and services provided in the contract, we use our judgment to determine if an input measure or output measure best depicts the transfer of control over time.
-For services contracts, we typically satisfy our performance obligations as services are rendered and use a contract cost-based input method to measure progress.
-Contract costs include labor, material and allocable indirect expenses.
-For stand-ready service contracts, a time-elapsed output method is used to measure progress, and revenue is recognized straight-line over the term of the contract.
-Essentially all of our contracts satisfy their performance obligations over time.
-The effect of a contract modification on the transaction price and our measure of progress for the performance obligation to which it relates is recognized as an adjustment to revenue under the cumulative catch-up method.
-We recognize adjustments in estimated profit on contracts in the period identified.
-If at any time the estimate of contract profitability indicates an anticipated loss on the contract, we recognize the loss in the quarter it is identified.
-
-
-item2.txt
-The primary driver of our increase in revenue relates to revenue from new contract awards, acquisitions and growth on certain existing contracts.
+For services contracts, we typically satisfy our performance obligations as services are rendered and use a contract cost-based input method to measure progress.The primary driver of our increase in revenue relates to revenue from new contract awards, acquisitions and growth on certain existing contracts.
 These increases were offset by contracts and tasks that ended and reduced scope of work on some contracts.
 As a percentage of revenue, direct labor costs were 48% for the three months ended March 31, 2018, compared to 49% for the same period in 2017.
 As a percentage of revenue, other direct costs, which include subcontractors as well as equipment and materials used in the performance of our contracts, was 37% for the three months ended March 31, 2018 and 2017.
 The increase in interest expense was due to increased borrowings under our credit facility to fund the acquisition of InfoZen in the fourth quarter of 2017 and the purchase of equipment to support a managed IT services contract.
 We define funded backlog to be the portion of backlog for which funding currently is appropriated and allocated to the contract by the purchasing agency or otherwise authorized for payment by the customer upon completion of a specific portion of work.
-A variety of circumstances or events may cause changes in the amount of our backlog and funded backlog, including the execution of new contracts, the extension of existing contracts, the non-renewal or completion of current contracts, the early termination of contracts, and adjustment to estimates for previously included contracts.
-There were $65.5 million outstanding borrowings under our revolving credit facility at March 31, 2018.
-Our operating cash flow is primarily affected by our ability to invoice and collect from our customers in a timely manner, our management of vendor payments and the overall profitability of our contracts.
-For the three months ended March 31, 2018, our net cash used in operating activities were $18.0 million.
-
-
-item3.txt
-Our exposure to market risk relates to changes in interest rates for borrowing under our revolving credit facility.
-
-
-item4.txt
-Disclosure controls and procedures are also designed to provide reasonable assurance that such information is accumulated and communicated to our management, including our principal executive officer and our principal financial officer, as appropriate to allow timely decisions regarding required disclosure.
-
-
-part2.txt
-
-
-

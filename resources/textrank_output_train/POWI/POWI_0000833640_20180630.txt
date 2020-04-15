@@ -1,8 +1,3 @@
-fls.txt
-These statements reflect our current views with respect to future events and our potential financial performance and are subject to risks and uncertainties that could cause our actual results and financial position to differ materially and adversely from what is projected or implied in any forward-looking statements included in this Form 10-Q.
-
-
-item1.txt
 No material changes have been made to the Company's significant accounting policies disclosed in Note 2, Significant Accounting Policies and Recent Accounting Pronouncements, in its Annual Report on Form 10-K, filed on February 14, 2018, for the year ended December 31, 2017.
 Stock-based compensation expense in the three months ended June 30, 2018, was approximately $6.1 million (comprising approximately $3.9 million related to restricted stock unit (RSU) awards, $1.8 million related to performance-based (PSU) awards and long-term performance-based (PRSU) awards and $0.4 million related to the Company’s employee stock purchase plan).
 In the six months ended June 30, 2018, stock-based compensation expense was approximately $11.7 million (comprising approximately $8.2 million related to restricted stock unit (RSU) awards, $2.7 million related to performance-based (PSU) awards and long-term performance-based (PRSU) awards and $0.8 million related to the Company’s employee stock purchase plan).
@@ -13,36 +8,8 @@ The number of shares that are released at the end of the performance year can ra
 The actual number of shares the recipient receives is determined at the end of a three-year performance period based on results achieved versus the Company's performance goals, and may range from zero to 200% of the target number.
 The performance goals for PRSUs granted in fiscal 2016, 2017 and 2018 were based on the Company’s annual revenue growth over the respective three-year performance period.
 In each of the three and six months ended June 30, 2018 and 2017, one customer, a distributor of the Company's products, accounted for more than 10% of the Company’s net revenues.
-No other customer accounted for 10% or more of the Company’s net revenues in the periods presented.
-of June 30, 2018, and December 31, 2017, 65% and 64%, respectively, of accounts receivable were concentrated with the Company’s top 10 customers.
-As of June 30, 2018, and December 31, 2017, one customer, a distributor of the Company’s products, represented 10% or more of the Company’s accounts receivable.
-The Company has not recorded any additional measurement-period adjustments during the six months ended June 30, 2018.
-In the year ended December 31, 2017, the Company recorded a provisional amount of $4.9 million related to the re-measurement of the Company’s deferred tax assets and liabilities.
-The Company's effective tax rates for the three and six months ended June 30, 2018, were 6.8% and 5.5%, respectively, and 5.2% and 0.3% for the corresponding periods of 2017.
-On October 20, 2004, the Company filed a complaint against Fairchild Semiconductor International, Inc. and Fairchild Semiconductor Corporation (referred to collectively as “Fairchild”) in the United States District Court for the District of Delaware.
-
-
-item2.txt
-the introduction of products that enable us to address higher-power AC-DC applications (such as our Hiper™ product families, which address applications up to about 500 watts) and our entry into the gate-driver markets through the acquisition of CT-Concept Technologie AG in 2012.
+No other customer accounted for 10% or more of the Company’s net revenues in the periods presented.the introduction of products that enable us to address higher-power AC-DC applications (such as our Hiper™ product families, which address applications up to about 500 watts) and our entry into the gate-driver markets through the acquisition of CT-Concept Technologie AG in 2012.
 For example, applications such as LED lighting, “smart” utility meters, battery-powered lawn equipment and bicycles, and USB power ports (installed alongside traditional AC wall outlets) can incorporate our products; the increased use of electronic intelligence and controls in consumer appliances has also enhanced our SAM.
 Our net revenues were $109.5 million and $107.6 million in the three months ended June 30, 2018 and 2017, respectively, and $212.6 million and $212.3 million in the six months ended June 30, 2018 and 2017, respectively.
 The increase in net revenues for the three month period was due primarily to higher unit sales into the industrial end-market, driven mainly by growth in high-power gate-driver applications.
-Net revenues for the six-month period were flat compared with the prior-year period as growth in the industrial, computer and consumer end-markets was offset by lower sales into the communications end-market for cellphone-charger and residential-networking applications.
-Our top ten customers, including distributors that resell to OEMs and merchant power supply manufacturers, accounted for approximately 59% and 58% of our net revenues in the three and six months ended June 30, 2018, respectively, and approximately 57% of net revenues in each of the respective corresponding periods of 2017.
-Our top customer, a distributor of our products, accounted for approximately 14% and 15% of our net revenues in the three and six months ended June 30, 2018, respectively, and approximately 16% and 17% in the three and six months ended June 30, 2017, respectively.
-International sales accounted for approximately 97% and 96% of our net revenues in the three and six months ended June 30, 2018, respectively, and approximately 96% of net revenues in each of the respective corresponding periods of 2017.
-
-
-item3.txt
-Our exposure to market risk for changes in interest rates relates primarily to our investment portfolio.
-We mitigate default risk by investing in safe and high-credit quality securities and by constantly positioning our portfolio to respond appropriately to a significant reduction in a credit rating of any investment issuer, guarantor or depository.
-
-
-item4.txt
-Any control system, no matter how well designed and operated, can provide only reasonable assurance as to the tested objectives.
-
-
-part2.txt
-In the six months ended June 30, 2018, we purchased approximately 0.9 million shares for approximately $63.4 million.
-
-
+Net revenues for the six-month period were flat compared with the prior-year period as growth in the industrial, computer and consumer end-markets was offset by lower sales into the communications end-market for cellphone-charger and residential-networking applications.Our exposure to market risk for changes in interest rates relates primarily to our investment portfolio.

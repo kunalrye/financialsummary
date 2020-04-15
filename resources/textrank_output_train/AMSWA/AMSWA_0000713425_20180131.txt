@@ -1,21 +1,9 @@
-fls.txt
-You can identify these statements by forward-looking words such as anticipate, intend, plan, continue, could, grow, may, potential, predict, strive will, seek, estimate, believe, expect, and similar expressions that convey uncertainty of future events or outcomes.
-
-
-item1.txt
 (a) Basic per share amounts are the same for Class A and Class B shares.
 Diluted earnings per share for Class B shares under the two-class method are $0.18 and $0.08 for the three months ended January 31, 2018 and 2017, and $0.35 and $0.15 for the nine months ended January 31, 2018 and 2017, respectively.
 In the opinion of our management, these condensed consolidated financial statements contain all normal recurring adjustments considered necessary for a fair presentation of the Companys financial position at January 31, 2018, the results of operations for the three and nine months ended January 31, 2018 and 2017 and cash flows for the nine months ended January 31, 2018 and 2017.
 Revenue derived from maintenance contracts primarily includes telephone consulting, product updates, and releases of new versions of products previously purchased by the customer, as well as error reporting and correction services.
 Revenue derived from services primarily includes consulting, implementation, and training.
-Deferred revenue represents advance payments or billings for software licenses, services, and maintenance billed in advance of the time revenue is recognized.
-At January 31, 2018 and April 30, 2017, unbilled license fees were approximately $384,000 and $1.0 million, respectively, and unbilled services revenues were approximately $2.3 million and $1.8 million, respectively.
-Unbilled license fee accounts receivable represents revenue that has been recognized, but under the terms of the license agreement, which include specified payment terms that are considered normal and customary, certain payments have not yet been invoiced to the customers.
-Unbilled services revenues primarily occur due to the timing of the respective billings, which occur subsequent to the end of each reporting period.
-
-
-item2.txt
-For the remainder of fiscal 2018, we expect the global economy to improve when compared to the prior year, which could result in an improved selling environment.
+Deferred revenue represents advance payments or billings for software licenses, services, and maintenance billed in advance of the time revenue is recognized.For the remainder of fiscal 2018, we expect the global economy to improve when compared to the prior year, which could result in an improved selling environment.
 We monitor the net realizable value of our capitalized software on a quarterly basis based on an estimate of future product revenues.
 We currently expect to fully recover the value of the capitalized software asset recorded on our consolidated balance sheet; however, if future product revenues are less than managements current expectations, we may incur a write-down of capitalized software costs.
 In August 2015, the FASB issued Accounting Standards Update (ASU) No. 2015-14, Revenue from Contracts with Customers  Deferral of Effective Date, which defers the implementation of ASU 2014-09, Revenue from Contracts with Customers, for one year from the initial effective date.
@@ -24,25 +12,4 @@ Therefore, the new standard would require additional disclosures of the amount b
 The Company has drafted policy memos for all streams of revenue and expects to finalize by end of fiscal 2018.
 The 14% increase in revenues over the three months ended January 31, 2018 when compared to the same period last year was attributable primarily to a 50% increase in license fee revenues and, to a lesser extent, a 9% increase in services and other revenues and a 5% increase in maintenance revenues.
 The increase in license fee revenues was attributable to entering into several license fee agreements during the quarter in our SCM segment, due to an increase in general economic activity and higher overall business information technology spending from the US tax reform.
-The primary reason for the increase in services and other revenues in the three months ended January 31, 2018 was an increase in implementation and cloud services in our SCM segment partially offset by a decrease in our IT consulting services due to decreased demand for IT temporary staff.
-International revenues represented approximately 20% and 17% of total revenues in the three months ended January 31, 2018 and 2017, respectively.
-For the three and nine months ended January 31, 2018, license fee revenues increased 50% and 6%, respectively, when compared to the same periods in the prior year.
-In the three and nine months ended January 31, 2018, license fee revenues from our SCM business unit increased 49% and 6%, respectively, when compared to the corresponding periods in the prior year.
-Our SCM business unit constituted 99% and 100% of total license fee revenues for the three months ended January 31, 2018 and 2017, respectively.
-Our SCM business unit constituted 99% and 99% of total license fee revenues for the nine months ended January 31, 2018 and 2017, respectively.
-Our Other business unit license fee revenues increased by 627% for the three months ended January 31, 2018 when compared to the same period in the prior year and decreased 22% in the nine months ended January 31, 2018 when compared to the same period in the prior year due to timing of closing ERP deals.
-
-
-item3.txt
-Foreign Currency In the three and nine months ended January 31, 2018, we generated approximately 20% and 20%, respectively, of our revenues outside the United States.
-We estimate that a 10% movement in foreign currency rates would have had the effect of creating up to a $456,000 and $455,000 exchange gain or loss for the three and nine months ended January 31, 2018, respectively.
-
-
-item4.txt
-Our principal executive officer and principal financial officer, with the assistance of our Disclosure Committee, have conducted an evaluation of the effectiveness of our disclosure controls and procedures as of the end of the period covered by this Quarterly Report.
-
-
-part2.txt
-Item 1.
-
-
+The primary reason for the increase in services and other revenues in the three months ended January 31, 2018 was an increase in implementation and cloud services in our SCM segment partially offset by a decrease in our IT consulting services due to decreased demand for IT temporary staff.Foreign Currency In the three and nine months ended January 31, 2018, we generated approximately 20% and 20%, respectively, of our revenues outside the United States.

@@ -1,21 +1,9 @@
-fls.txt
-
-
-
-item1.txt
 The Company reports interim financial information for 13-week periods beginning on a Sunday and ending on a Saturday, except for the first fiscal quarter, which always begins on January 1, and the fourth fiscal quarter, which always ends on December 31.
 Upon adoption at January 1, 2019, the Company recognized right of use assets of $91,462 and lease liabilities of $95,784 on the consolidated balance sheet.
 The difference between the initial right of use asset and lease liability balances recognized upon adoption of ASC Topic 842 is primarily due to accrued lease incentive balances at December 31, 2018.
 On December 20, 2018, the Company received sale proceeds of $45,500 and concurrently leased-back its former manufacturing site in Santa Clara, California, under a short-term arrangement, to raze the buildings.
 Upon adoption of ASC Topic 842, the Company was required to reassess the accounting for these transactions.
-The adoption of the ASU did not have a material impact on the Company's results of operations or cash flows.
-The Company recognizes right of use assets and lease liabilities for leases greater than twelve months in duration based on the contract consideration for lease components through the term of the lease and the applicable discount rate.
-The Company does not recognize right of use assets or lease liabilities for short-term leases and classifies the expense as short-term lease expense.
-Variable lease payments based on an index or rate are included in the right of use assets and lease liabilities based on the effective rates at lease commencement.
-
-
-item2.txt
-This Management's Discussion and Analysis ("MD&A") is intended to provide an understanding of Vishay's financial condition, results of operations and cash flows by focusing on changes in certain key measures from period to period.
+The adoption of the ASU did not have a material impact on the Company's results of operations or cash flows.This Management's Discussion and Analysis ("MD&A") is intended to provide an understanding of Vishay's financial condition, results of operations and cash flows by focusing on changes in certain key measures from period to period.
 We have paid dividends each quarter since the first fiscal quarter of 2014, and further increased the quarterly cash dividend by 12% to $0.095 per share in the second fiscal quarter of 2019.
 In June 2018, we used the net proceeds from issuing $600 million principal amount of new convertible senior notes to repurchase some of our outstanding convertible senior debentures, which had become less tax-efficient because of the TCJA.
 We continued to repurchase convertible senior debentures in open market and privately-negotiated transactions with holders, further reducing the principal amount of outstanding convertible senior debentures to $21.1 million in 2019.
@@ -25,24 +13,4 @@ Substantially all of these amounts are being used to repay certain intercompany 
 In the third fiscal quarter of 2019, we announced global cost reduction and management rejuvenation programs as part of our continuous efforts to improve efficiency and operating performance.
 We utilize several financial metrics, including net revenues, gross profit margin, segment operating income, end-of-period backlog, book-to-bill ratio, inventory turnover, change in average selling prices, net cash and short-term investments (debt), and free cash generation to evaluate the performance and assess the future direction of our business.
 This decrease has negatively impacted almost all key financial metrics, including net revenues.
-Net revenues for the fiscal quarter ended September 28, 2019 were $628.3 million, compared to $685.2 million and $781.0 million for the fiscal quarters ended June 29, 2019 and September 29, 2018, respectively.
-The net earnings attributable to Vishay stockholders for the fiscal quarter ended September 28, 2019 were $30.0 million, or $0.21 per diluted share, compared to $44.5 million, or $0.31 per diluted share for the fiscal quarter ended June 29, 2019, and $77.9 million, or $0.51 per diluted share for the fiscal quarter ended September 29, 2018.
-We define adjusted net earnings as net earnings determined in accordance with GAAP adjusted for various items that management believes are not indicative of the intrinsic operating performance of our business.
-We define free cash as the cash flows generated from continuing operations less capital expenditures plus net proceeds from the sale of property and equipment.
-The reconciliations below include certain financial measures which are not recognized in accordance with GAAP, including adjusted net earnings, adjusted earnings per share, and free cash.
-Management believes that adjusted net earnings and adjusted earnings per share are meaningful because they provide insight with respect to our intrinsic operating results.
-Management believes that free cash is a meaningful measure of our ability to fund acquisitions, repay debt, and otherwise enhance stockholder value through stock repurchases or dividends.
-
-
-item3.txt
-
-
-
-item4.txt
-31.1 Certification pursuant to Rule 13a-14(a) or 15d-14(a) under the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 - Dr. Gerald Paul, Chief Executive Officer.
-
-
-part2.txt
-Item 4.
-
-
+Net revenues for the fiscal quarter ended September 28, 2019 were $628.3 million, compared to $685.2 million and $781.0 million for the fiscal quarters ended June 29, 2019 and September 29, 2018, respectively.Item 4.

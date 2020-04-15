@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 In the opinion of management, the information furnished in the accompanying condensed consolidated financial statements reflects all normal recurring adjustments that are necessary to fairly state the results for these interim periods and should be read in conjunction with Analog Devices, Inc.’s (the Company) Annual Report on Form 10-K for the fiscal year ended October 28, 2017 (fiscal 2017) and related notes.
 The results of operations for the interim periods shown in this report are not necessarily indicative of the results that may be expected for the fiscal year ending November 3, 2018 (fiscal 2018) or any future period.
 On March 10, 2017 (Acquisition Date), the Company completed the acquisition of Linear Technology Corporation (Linear), a designer, manufacturer and marketer of high performance analog integrated circuits.
@@ -13,34 +8,10 @@ Revenue from product sales to customers in other foreign countries is recognized
 Accordingly, the Company defers the revenue recognized relating to these other foreign countries until title has passed.
 The Company uses its best estimate of selling price to allocate arrangement consideration between the deliverables in cases where neither vendor-specific objective evidence nor third-party evidence is available.
 Revenue from contracts with the United States government, government prime contractors and some commercial customers is generally recorded on a percentage of completion basis using either units delivered or costs incurred as the measurement basis for progress towards completion.
-Changes in contract performance, estimated gross margin, including the impact of final contract settlements, and estimated losses are recognized in the period in which the changes or losses are determined.
-Product sales to certain international distributors are made under agreements that permit limited stock return privileges but not sales price rebates.
-The Company defers revenue and the related cost of sales on shipments to U.S. distributors and certain international distributors until the distributors resell the products to their customers.
-As a result, the Company’s revenue fully reflects end customer purchases and is not impacted by distributor inventory levels.
-Sales to certain of these distributors are made under agreements that allow such distributors to receive price-adjustment credits, as discussed below, and to return qualifying products for credit, as determined by the Company, in order to reduce the amounts of slow-moving, discontinued or obsolete product from their inventory.
-These agreements limit such returns to a certain percentage of the value of the Company’s shipments to that distributor during the prior quarter.
-
-
-item2.txt
-The fiscal year ending November 3, 2018 (fiscal 2018) is a 53-week year and the fiscal year ended October 28, 2017 (fiscal 2017) was a 52-week year.
+Changes in contract performance, estimated gross margin, including the impact of final contract settlements, and estimated losses are recognized in the period in which the changes or losses are determined.The fiscal year ending November 3, 2018 (fiscal 2018) is a 53-week year and the fiscal year ended October 28, 2017 (fiscal 2017) was a 52-week year.
 Therefore, the first six months of fiscal 2018 included an additional week of operations as compared to the first six months of fiscal 2017.
 The condensed consolidated financial statements included in this Quarterly Report on Form 10-Q include the financial results of Linear prospectively from the Acquisition Date.
-See Note 13, Acquisitions, in the Notes to Condensed Consolidated Financial Statements contained in Part I, Item 1 of this Quarterly Report on Form 10-Q for further information.
-The following tables summarize revenue by end market for the three- and six-month periods ended May 5, 2018 and April 29, 2017.
-The categorization of revenue by end market is determined using a variety of data points including the technical characteristics of the product, the “sold to” customer information, the “ship to” customer information and the end customer product or application into which our product will be incorporated.
-
-
-item3.txt
-
-
-
-part2.txt
-Continuing uncertainty regarding the stability of global credit and financial markets may lead consumers and businesses to postpone spending, which may cause our customers to cancel, decrease or delay their existing and future orders for our products and make it difficult for us to accurately forecast and plan our future business activities.
+See Note 13, Acquisitions, in the Notes to Condensed Consolidated Financial Statements contained in Part I, Item 1 of this Quarterly Report on Form 10-Q for further information.Continuing uncertainty regarding the stability of global credit and financial markets may lead consumers and businesses to postpone spending, which may cause our customers to cancel, decrease or delay their existing and future orders for our products and make it difficult for us to accurately forecast and plan our future business activities.
 Significant disruption to global credit and financial markets may also adversely affect our ability to access external financing sources on acceptable terms.
 Financial difficulties experienced by our customers could result in nonpayment or payment delays for previously purchased products, thereby increasing our credit risk exposure.
 Uncertainty regarding the future stability of the global credit and financial markets could cause the value of the currency in the affected markets to deteriorate, thus reducing the purchasing power of those customers.
-In addition, financial difficulties experienced by our suppliers or distributors could result in product delays, increased accounts receivable defaults and inventory challenges.
-Our future revenue, gross margins, operating results, net income and earnings per share are difficult to predict and may materially fluctuate.
-In addition, the semiconductor market has historically been cyclical and subject to significant economic upturns and downturns.
-
-
