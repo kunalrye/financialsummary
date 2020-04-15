@@ -1,49 +1,45 @@
-fls.txt
-Any forward-looking statements contained in this Quarterly Report on Form 10-Q or in documents incorporated herein by reference are made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995 and speak only as of the date of this Form 10-Q.
-
-
 item1.txt
-Financial Statements.
-The accompanying unaudited interim consolidated financial statements of Black Box have been prepared in accordance with accounting principles generally accepted in the United States ("GAAP") and with the instructions to Form 10-Q and Article 10 of Regulation S-X.
-Accordingly, they do not include all of the information and footnotes required by GAAP for complete financial statements.
-These financial statements should be read in conjunction with the financial statements and notes thereto included in the Company’s most recent Annual Report on Form 10-K as filed with the Securities and Exchange Commission ("SEC") for the fiscal year ended March 31, 2017 (the "Form 10-K").
 The Company’s fiscal year ends on March 31.
-All references to dollar amounts herein are presented in thousands, except per share amounts, unless otherwise noted.
-All significant intercompany accounts and transactions have been eliminated in consolidation.
-Significant estimates in these financial statements include project progress towards completion to estimated budget, allowances for doubtful accounts receivable, sales returns, net realizable value of inventories, loss contingencies, warranty reserves, property, plant and equipment, intangible assets and goodwill.
-As of the third quarter of Fiscal 2018, Management believes that only the sale of certain parcels of the adjacent vacant land is probable to occur in the next twelve months.
+At that time, Management believed it was probable that the sale of the building and land would occur in the next twelve months.
 These assets are reported under the North America Products operating segment.
-The Company has established an implementation team that has and will continue to review 1) contract terms and existing accounting policies to determine the financial impact of the standard, 2) data availability and system reports to meet the additional disclosure requirements of the standard, and 3) the control environment and internal processes to ensure the appropriate controls are in place.
-The Company’s definite-lived intangible assets now consist solely of customer relationships.
-In addition, the Company finances certain vendor-specific inventory under an unsecured revolving arrangement through third parties which provide extended payment terms beyond those offered by the vendor at no incremental cost to the Company.
-The outstanding balance for these unsecured revolving arrangements was $4,758 as of December 31, 2017, $4,540 of which is classified as a current liability, and $3,387 as of March 31, 2017, $3,169 of which was classified as a current liability.
+As we continue to assess all potential impacts of the standard, any preliminary conclusions are subject to change.
+These balances are recorded as Other liabilities within the Company's Consolidated Balance Sheets.
+During that same period, a covenant will limit capital expenditures to an agreed upon amount.
+The ability of the Company to make dividends or other distributions (including stock repurchases other than up to a limited dollar amount for tax payments from vested equity awards) has been eliminated.
+Our Amended Credit Agreement contains covenants requiring us to achieve a certain minimum adjusted EBITDA during each quarter through the first quarter of Fiscal 2019.
+The Company is exposed to non-performance risk from the counterparties in its derivative instruments.
+This risk would be limited to any unrealized gains on current positions.
+All of the foreign currency contracts have been designated and qualify as cash flow hedges.
+There was no hedge ineffectiveness during Fiscal 2018 or Fiscal 2017.
+The fair value of restricted stock units is determined based on the number of restricted stock units granted and the closing market price of the common stock on the date of grant.
+As of December 31, 2017, there was $1,355 of total unrecognized pre-tax stock-based compensation expense related to non-vested performance share awards, which is expected to be recognized over a weighted-average period of 2.1 years.
+There were 1,872,446 and 1,165,620 non-dilutive equity awards outstanding for the three-months ended December 31, 2017 and 2016, respectively, and 1,808,928 and 1,202,159 non-dilutive equity awards outstanding for the nine-months ended December 31, 2017 and 2016, respectively, that are not included in the corresponding period Weighted-average common shares outstanding (diluted) computation.
+The accounting policies of the operating segments are the same as those of the Company.
 
 
 item2.txt
-The discussion and analysis for the three-months and nine-months ended December 31, 2017 and 2016 as set forth below in this Part I, Item 2 should be read in conjunction with the response to Part I, Item 1 of this report and the consolidated financial statements of Black Box Corporation ("Black Box," the "Company," "we" or "our"), including the related notes, and "Management’s Discussion and Analysis of Financial Condition and Results of Operations" included in the Company’s most recent Annual Report on Form 10-K, as filed with the Securities and Exchange Commission ("SEC") for the fiscal year ended March 31, 2017 (the "Form 10-K").
 References to “3Q18” mean the three-month period ended December 31, 2017 while references to “3Q17” mean the three-month period ended December 31, 2016.
-The Company offers Services and Products that it distributes through two platforms that it has built over its 41-year history.
-New communications systems orders often generate post-implementation maintenance via a fixed fee model where revenues are earned ratably over the term of the agreement (generally 1-3 years for commercial clients and 3-5 years for government clients) or a variable fee model that is based on time and materials per occurrence, similar to MAC work.
-The Company's Services business generates backlog which is defined by the Company as orders and contracts considered to be firm.
-Under our Products platform, we provide networking solutions through the sale of products for KVM switching, IT infrastructure, specialty networking and multimedia.
-Our Products' revenues are generated from sales to key channel partners and system integrators and through a global distribution network.
+All dollar amounts are presented in thousands except for per share amounts or unless otherwise noted.
 Products sells through a direct sales team as well as through its internet site and catalogs.
-In order to meet client demand, we keep a moderate level of inventory which consumes part of our working capital.
-The market for these products is a highly fragmented and competitive.
 Management strives to develop extensive and long-term relationships with high-quality clients as Management believes that satisfied clients will demand quality services and product offerings from us even in economic downturns.
+Service Revenues were $160,480, a decrease of 8% from $174,261 in the same period last year due to a decrease in commercial revenues partially offset by an increase in government revenues.
+Total Operating loss margin was 4.0%, compared to a Total Operating profit margin of 1.3% in the same period last year.
+The Inventory impairment loss for Products had a 2.4% impact to Product Gross profit margin.
+On August 9, 2017, the Company and certain of the Banks entered into the Amended Credit Agreement which reduced the capacity of the credit facility from $200,000 to $170,000.
+Net debt (debt less cash and cash equivalents) was $124,405 at the end of the third quarter of Fiscal 2018, an increase of $48,906 from the end of Fiscal 2017 as a result of spending on our previously announced U.S.-based ERP project as well as increased working capital.
+Based upon our current projections, we may not be able to generate sufficient adjusted EBITDA during the fourth quarter of Fiscal 2018 (ending March 31, 2018) in order to meet the minimum adjusted EBITDA covenant for that quarter.
 
 
 item3.txt
-Quantitative and Qualitative Disclosures About Market Risk.
-The Company does not hold or issue any other financial derivative instruments (other than those specifically noted below) nor does it engage in speculative trading of financial derivatives.
+The open contracts have contract rates ranging from 1.30 to 1.30 Australian dollar, 1.26 to 1.26 Canadian dollar, 6.31 to 6.31 Danish krone, 0.85 to 0.85 Euro, 19.17 to 19.17 Mexican peso, 8.01 to 8.01 Norwegian kroner, 0.75 to 0.76 British pound sterling, 8.16 to 8.16 Swedish krona, 0.97 to 0.97 Swiss franc and 112.15 to 112.15 Japanese yen, all per U.S. dollar.
 
 
 item4.txt
-Controls and Procedures.
+Management assessed the effectiveness of the Company’s disclosure controls and procedures as of December 30, 2017.
 
 
 part2.txt
 Item 1A.
-We are dependent upon our senior credit facility to fund our cash needs.
+A leverage ratio and a fixed charge coverage ratio commence in the second quarter of Fiscal 2019 through maturity in May 2021.
 
 

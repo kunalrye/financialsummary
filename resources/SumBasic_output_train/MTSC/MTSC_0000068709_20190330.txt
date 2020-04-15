@@ -1,42 +1,38 @@
-fls.txt
-
-
-
 item1.txt
-The consolidated financial statements include the accounts of MTS Systems Corporation and its wholly owned subsidiaries.
-Significant intercompany account balances and transactions have been eliminated.
-We have prepared the interim unaudited consolidated financial statements included herein pursuant to the rules and regulations of the United States (U.S.) Securities and Exchange Commission (SEC).
-The consolidated financial statements are prepared in accordance with U.S. Generally Accepted Accounting Principles (GAAP).
-GAAP requires us to make estimates and assumptions that affect amounts reported.
-We have a 5-4-4 week, quarterly accounting cycle with our fiscal year ending on the Saturday closest to September 30.
-Fiscal year 2019 ending on September 28, 2019 will consist of 52 weeks.
-The following accounting policies have been updated since our fiscal year 2018 Annual Report on Form 10-K. 2014-09, Revenue from Contracts with Customers (Topic 606), followed by related amendments on September 30, 2018 under the modified retrospective transition method.
+The terms "MTS," "we," "us," "the Company" or "our" in this Quarterly Report on Form 10-Q, unless the context otherwise requires, refer to MTS Systems Corporation and its wholly owned subsidiaries.
+2014-09, Revenue from Contracts with Customers (Topic 606), followed by related amendments on September 30, 2018 under the modified retrospective transition method.
 In February 2016, the Financial Accounting Standards Board (FASB) issued ASU No.
-2016-02, Leases (Topic 842), followed by related amendments (collectively, "the new lease standard"), which requires lessees to recognize most leases on the balance sheet for the rights and obligations created by those leases.
-Under the new lease standard, a company recognizes a right-of-use asset, representing the right to use the underlying asset for the lease term, and a corresponding lease liability for all leases with terms greater than 12 months.
-We are currently planning to elect the package of practical expedients to not reassess prior conclusions related to contracts containing leases, lease classification and initial direct costs, and we are currently evaluating the other practical expedients available under the new guidance.
-We continue to make progress with preparation for the adoption and implementation of the new lease standard, including assessing the completeness of our lease arrangements, evaluating practical expedients and accounting policy elections, revising our lease-related accounting policies, assessing impacts to controls, and implementing a lease software solution.
-of Income and Consolidated Statement of Cash Flows is being evaluated.
-In May 2014, the FASB issued ASU No.
-See Note 3 for our new revenue recognition accounting policy and disclosures relative to this guidance.
+The new guidance requires enhanced disclosures regarding the amount, timing and uncertainty of cash flows arising from a company's leases.
+Adoption of the new lease standard is required for annual periods beginning after December 15, 2018, including interim periods within that annual period, which is our fiscal year 2020.
 2016-16, Income Taxes (Topic 740), Intra-Entity Transfers of Assets Other Than Inventory, which requires companies to account for the income tax effects of intercompany sales and transfers of assets other than inventory when the transfer occurs.
-transfers of assets until the asset has been sold to an outside party or otherwise recognized.
+A performance obligation is a promise in a contract to transfer a distinct good or service to the customer and is the unit of account under the new revenue standard.
+In situations when our contract includes distinct goods or services that are substantially the same and have the same pattern of transfer to the customer over time, they are recognized as a series of distinct goods or services.
+Contract balances are classified as assets or liabilities on a contract-by-contract basis at the end of each reporting period.
+inception.
+These financial instruments include cash and cash equivalents, accounts receivable, unbilled accounts receivable, accounts payable and short-term borrowings.
+As a result of this agreement, every month we pay fixed interest at 1.256% in exchange for interest received at one month U.S. LIBOR.
+The market value of the interest rate swap as of March 30, 2019 was an asset of $3,684.
+We also use foreign currency derivative contracts to maintain the functional currency value of monetary assets and liabilities denominated in non-functional foreign currencies.
+as defined in the Credit Agreement.
+The Applicable Rate for any ABR Revolving Loans will be based upon the leverage ratio applicable on such date.
+During the three and six months ended March 30, 2019, commitment fees incurred totaled $52 and $124, respectively.
 
 
 item2.txt
-MTS Systems Corporation's testing and simulation hardware, software and service solutions help customers accelerate and improve their design, development and manufacturing processes and are used for determining the mechanical behavior of materials, products and structures.
-Our high-performance sensors provide measurements of vibration, pressure, position, force and sound in a variety of applications.
 On November 21, 2018, we acquired E2M Technologies B.V. (E2M) for a cash purchase price of $80,287.
-We funded the acquisition of E2M through borrowings on our Revolving Credit Facility.
-Approximately 70% of our revenue has historically been derived from customers outside of the U.S. Our financial results are principally exposed to changes in exchange rates between the U.S. dollar and the Euro, the Japanese yen and the Chinese yuan.
-The discussion below quantifies the impact of foreign currency translation on our financial results for the periods discussed.
+The size of the Revolving Credit Facility was increased to finance the purchase of E2M.
 In fiscal year 2019, we adopted Accounting Standards Update (ASU) No.
-2014-09, Revenue from Contracts with Customers (Topic 606), followed by related amendments (collectively, "the new revenue standard" or "ASC 606").
-The terms "MTS," "we," "us," "the Company" or "our" in this Quarterly Report on Form 10-Q, unless the context otherwise requires, refer to MTS Systems Corporation and its wholly owned subsidiaries.
+Excluding the impact of currency translation and E2M expenses, selling and marketing expense increased 10.6% and 5.5%, respectively.
+The current year also includes a certain discrete tax benefit of $1,293 related to the Tax Act.
+The following tables compare results of operations for Sensors, separately identifying the estimated impact of currency translation.
+General and administrative expense for the three months ended March 30, 2019 increased 12.6% primarily driven by higher compensation expense.
+In accordance with our investment policy, we place cash equivalent investments with issuers who have high-quality investment credit ratings.
+As of March 30, 2019, our capital structure was comprised of $31,632 in short-term debt, $443,206 in long-term debt and $485,054 in shareholders' equity.
+The Credit Agreement also contains financial covenants, including the ratio of consolidated total indebtedness to adjusted consolidated earnings before interest, taxes, depreciation and amortization (Adjusted EBITDA), as defined in the Credit Agreement, as well as the ratio of Adjusted EBITDA to consolidated interest expense.
 
 
 item3.txt
-These non-functional currency transactions expose us to market risk on assets, liabilities and cash flows recognized on these transactions.
+We have operational procedures to mitigate these non-functional currency exposures.
 
 
 item4.txt
@@ -44,6 +40,6 @@ item4.txt
 
 
 part2.txt
-Item 1A.
+Item 1.
 
 

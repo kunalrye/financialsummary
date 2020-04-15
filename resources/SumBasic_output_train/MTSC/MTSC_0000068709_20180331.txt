@@ -1,41 +1,37 @@
-fls.txt
-
-
-
 item1.txt
-The consolidated financial statements include the accounts of MTS Systems Corporation and its wholly owned subsidiaries.
-Significant intercompany account balances and transactions have been eliminated.
-We have prepared the interim unaudited consolidated financial statements included herein pursuant to the rules and regulations of the United States (U.S.) Securities and Exchange Commission (SEC).
-The consolidated financial statements are prepared in accordance with U.S. Generally Accepted Accounting Principles (GAAP).
-In December 2016, the FASB issued ASU No.
-2016-20, Technical Corrections and Improvements to Topic 606, Revenue from Contracts with Customers, which amends ASU 2014-09, Revenue from Contracts with Customers (Topic 606), providing thirteen corrections and improvements to the new revenue standard.
-The new standards and amendments may be adopted retrospectively for all periods presented, or adopted using a modified retrospective approach.
-We currently anticipate utilizing the modified retrospective approach as our method of adoption.
-Lessees can forgo recognizing a right-of-use asset and lease liability with lease terms of 12 months or less on the balance sheet through accounting policy elections as long as the lease does not include options to purchase the underlying assets that are reasonably certain to be exercised.
+Financial Statements The consolidated financial statements include the accounts of MTS Systems Corporation and its wholly owned subsidiaries.
+We anticipate the revenue recognition methodology may change for certain products and contracts.
 The standard is required to be adopted for annual periods beginning after December 15, 2018, including interim periods within that annual period, which is our fiscal year 2020.
 The amendment is to be applied using either a modified retrospective approach, which includes a number of optional practical expedients, with early adoption permitted.
+We are currently evaluating the impact the adoption of this guidance will have on our financial condition, results of operations and disclosures.
+In October 2016, the FASB issued ASU No.
 2016-16, Income Taxes (Topic 740), Intra-Entity Transfers of Assets Other Than Inventory, which requires companies to account for the income tax effects of intercompany sales and transfers of assets other than inventory when the transfer occurs.
-Current guidance requires companies to defer the income tax effects of intercompany transfers of assets until the asset has been sold to an outside party or otherwise recognized.
-Product obligations generally extend for a period of 12 to 24 months from the date of purchase.
-Certain products offered in our Sensors segment include a lifetime warranty.
-Under the terms of these warranties, we are obligated to repair or replace any components or assemblies deemed defective due to workmanship or materials.
+Assets held under capital leases, consisting of machinery and equipment, are recorded at the present value of minimum lease payments and are amortized on a straight-line basis over the estimated life of the asset or the lease term.
+2 Based on London Interbank Offered Rate (LIBOR) and spot rates.
+See Note 8 for additional information on debt instruments.
+The effective portion of the cash flow hedges represents the change in fair value of the hedge that offsets the change in the functional currency value of the hedged item.
+The maximum remaining maturity of any forward or optional contract as of March 31, 2018 was 1.9 years.
+The interest rate swap has been designated as a cash flow hedge.
+As of March 31, 2018 and September 30, 2017, the net market value of the foreign exchange balance sheet derivative contracts was a net liability of $235 and a net asset of $77, respectively.
+The primary categories of borrowing include Alternate Base Rate (ABR) Borrowing (ABR Term Loans and ABR Revolving Loans), Swingline Loans and Eurocurrency Borrowing (each as defined in the Credit Agreement).
 
 
 item2.txt
-Our testing hardware and software solutions help customers accelerate and improve design, development and manufacturing processes and are used for determining the mechanical behavior of materials, products and structures.
-Our high performance sensors provide controls for a variety of applications measuring acceleration, position, vibration, motion, pressure, force and sound.
-As of September 30, 2017, we had 3,500 employees and revenue of $787,955 for fiscal year 2017.
-Our desire is to be the innovation leader in creating test and measurement solutions and to provide total customer satisfaction.
-We believe we can create value for our customers by helping to enhance the precision, improve the reliability and create superior safety for their products, while reducing the delivery time to market for their products.
-Our competitive advantages include our proprietary technology and advanced application expertise, our expansive global footprint with long-term customer relationships, our large installed base of testing equipment and our expanded presence in the rapidly growing sensors market.
-•Adapt our industry-leading ground vehicle testing applications to align with emerging trends in vehicle electrification, autonomous vehicles, and simulation.
-We believe that our business model supports our growth objectives, provided that we continue to move aggressively to build our infrastructure, expand our offerings and execute on opportunities with our key customers around the world.
-In order to accelerate our revenue growth over the next five years, investments in infrastructure, sales support and field service capacity and capability are essential.
-During the fourth quarter of fiscal year 2017, we initiated a series of Test workforce reductions and facility closures intended to increase organizational effectiveness, gain manufacturing efficiencies and provide cost savings that can be reinvested in our growth initiatives.
+MTS Systems Corporation is a leading global supplier of high performance test systems and sensors.
+We believe these competitive advantages position us well in both the test and sensors markets to deliver profitable growth in the years ahead.
+These actions include the transfer of certain production operations in China to a contract manufacturing partner in fiscal year 2018.
+See Note 16 to the Consolidated Financial Statements included in Item 1 of Part I of this Quarterly Report on Form 10-Q for further discussion of restructuring initiatives.
+As a result of the PCB acquisition, we incurred certain non-recurring costs during fiscal year 2017 including acquisition integration costs and a fair value adjustment on acquired PCB inventory (PCB acquisition inventory adjustment).
+Sensors revenue increased $11,958 and $19,764, respectively, primarily driven by continued momentum from new opportunities in the Sensors test sector, along with continued growth in the Sensors position sector and broad demand across the remaining Sensors sectors.
+Excluding the impact of currency translation, revenue decreased 6.0% and 5.3%, respectively.
+Gross margin rate declined 1.7 percentage points primarily due to the lower contribution from product mix, unfavorable leverage on lower Test revenue volume, the impact of higher warranty expense, and the unfavorable impact of currency translation, partially offset by leverage on increased Sensors revenue volume.
+The effective tax rate for the six months ended March 31, 2018 decreased primarily due to certain discrete benefits of $25,378 for the estimated impact of the Tax Act.
+Excluding the impact of currency translation, prior year China investigation expenses, and current year restructuring costs, general and administrative expense increased 8.6% and 3.2%, respectively.
+Gross profit for the three months ended March 31, 2018 increased 19.0% primarily due to increased revenue volume and the favorable impact of currency translation.
 
 
 item3.txt
-These non-functional currency transactions expose us to market risk on assets, liabilities and cash flows recognized on these transactions.
+We have operational procedures to mitigate these non-functional currency exposures.
 
 
 item4.txt
@@ -43,7 +39,7 @@ item4.txt
 
 
 part2.txt
-We are or may be involved in various legal proceedings from time-to-time arising from the normal course of business.
 Item 1A.
+Our Board of Directors approved, and on February 11, 2011 announced, a 2,000 share purchase authorization.
 
 

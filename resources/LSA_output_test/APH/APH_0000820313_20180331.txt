@@ -1,49 +1,46 @@
 fls.txt
-Forward-looking statements by their nature address matters that are, to different degrees, uncertain, such as statements about expected earnings, revenues, growth, liquidity or other financial matters.
+These or other uncertainties may cause the Company’s actual future results to be materially different than those expressed in any forward-looking statements.
 
 
 item1.txt
-All material intercompany balances and transactions have been eliminated in consolidation.
-The condensed consolidated financial statements included herein are unaudited.
-In the opinion of management, all adjustments, consisting of normal recurring adjustments, necessary for a fair presentation in conformity with accounting principles generally accepted in the United States of America have been included.
-For these such contracts, we now recognize revenue over time as control of the goods transfers, rather than when the goods are delivered, and title, risk and reward of ownership are passed to the customer, as under previous guidance.
-The adoption of Topic 606 did not have a material impact on our condensed consolidated financial statements as of the adoption date and as of and for the three months ended March 31, 2018.
 Refer to Note 3 herein for further discussion regarding revenue recognition and related policies.
-In February 2016, the FASB issued ASU 2016-02, Leases (Topic 842) (“ASU 2016‑02”), which amends, among other things, the existing guidance by requiring lessees to recognize lease assets (right-to-use) and liabilities (for reasonably certain lease payments) arising from operating leases on the balance sheet.
 For leases with a term of twelve months or less, ASU 2016‑02 permits an entity to make an accounting policy election to recognize such leases as lease expense, generally on a straight-line basis over the lease term.
-Entities are required to adopt ASU 2016-02 using a modified retrospective approach, which requires prior periods to be presented under this new standard with various practical expedients allowed.
-The stranded tax effects result from the remeasurement of net deferred tax positions that were originally recorded in comprehensive income but whose remeasurement was reflected in the income statement in 2017.
-ASU 2018-02 only applies to the effects of the Tax Act and is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2018, with early adoption permitted.
-The Company is currently evaluating ASU 2018-02, and we currently anticipate that ASU 2018-02 will not have a material impact on our consolidated financial statements.
-Prior to the adoption of Topic 606, the Company’s revenue recognition policy was in accordance with ASC Topic 605, Revenue Recognition.
 Effective January 1, 2018, the Company adopted Topic 606 using the modified retrospective transition method, resulting in accounting policy changes surrounding revenue recognition which replace certain related policies discussed under Critical Accounting Policies and Estimates (in Item 7) and Summary of Significant Accounting Policies (in Note 1) of the Company’s 2017 Annual Report.
+Our revenues consist of product sales to either end customers and their appointed contract manufacturers (including original equipment manufacturers or OEM) or to distributors, and the vast majority of our sales are recognized at a point-in-time under the core principle of recognizing revenue when control transfers to the customer.
 Our contracts do not have any significant financing components, as payment terms are generally due net 30 to 120 days after delivery.
-Based on the respective contract terms, most of our contracts’ revenues are recognized either (i) upon shipment based on free on board (“FOB”) shipping point, (ii) when the product arrives at its destination or (iii) when the products are pulled from consignment inventory.
-Less than 5% of our net sales are recognized over time, as the associated contracts relate to the sale of goods with no alternative use as they are only sold to a single customer and whose underlying contract terms provide the Company with an enforceable right to payment, including a reasonable profit margin, for performance completed to date, in the event of customer termination.
-This method reasonably depicts when and as control of the goods transfers to the customer, since it measures our progress in producing the goods which is generally commensurate with this transfer of control.
-The Company maintains a reserve for unprocessed and estimated future price adjustment claims and returns as a refund liability.
-The reserve is recorded as a reduction to revenue in the same period that the related revenue is recorded and is calculated based on an analysis of historical claims and returns over a period of time to appropriately account for current pricing and business trends.
-Similarly, sales returns and allowances are recorded based on historical return rates, as a reduction to revenue with a corresponding reduction to cost of sales for the estimated cost of inventory that is expected to be returned.
-These reserves were not significant upon the adoption of Topic 606 nor were they significant in the Condensed Consolidated Balance Sheet as of March 31, 2018.
 Standard product warranty coverage which provides assurance that our products will conform to the contractually agreed-upon specifications for a limited period from the date of shipment is typically offered, while extended or separately-priced warranty coverage is typically not offered.
-The warranty claim is generally limited to a credit equal to the purchase price or a promise to repair or replace the product for a specified period of time at no additional charge.
-The Company accounts for shipping and handling activities related to contracts with customers as a cost to fulfill our promise to transfer control of the related product, including any such costs incurred after the customer has obtained control of the goods.
-The Company records contract assets or contract liabilities depending on the timing of revenue recognition, billings and cash collections on a contract-by-contract basis.
-
-
-item2.txt
-
+We estimate our warranty liability based on historical experience, product history, and current trends, and record warranty expense in cost of sales in the Condensed Consolidated Statements of Income.
+Contract assets represent unbilled receivables, which generally arise when revenue recognized over time exceed amounts billed to customers.
+Contract liabilities represent billings or advanced consideration received from customers in excess of revenue recognized to date.
+The Company evaluates the performance of business units on, among other things, profit or loss from operations before interest, headquarters’ expense allocations, stock-based compensation expense, income taxes, amortization related to certain intangible assets and nonrecurring gains and losses.
+The price and timing of any future purchases under the 2018 Stock Repurchase Program will depend on factors such as levels of cash generation from operations, the volume of stock option exercises by employees, cash requirements for acquisitions, dividends, economic and market conditions and stock price.
+On April 24, 2018, the Company’s Board of Directors approved an increase to its quarterly dividend rate from $0.19 to $0.23 per share effective with dividends declared in the second quarter of 2018.
+No additional stock options will be granted under the 2009 Employee Option Plan.
+The 2000 Employee Option Plan expired in May 2011, except that its terms continue with respect to outstanding options granted thereunder.
+The 2004 Directors Option Plan expired in May 2014, except that its terms continue with respect to outstanding options granted thereunder.
+In January 2018, the Company made a voluntary cash contribution of approximately $81.0 to fully fund its U.S. Plans, and estimates that, based on current actuarial calculations, cash contributions to the Plans will aggregate approximately $90.0 in 2018.
+The Company offers various defined contribution plans for certain U.S. and foreign employees.
+The fair value of each series of Senior Notes is based on recent bid prices in an active market and is therefore classified as Level 1 in the fair value hierarchy (Note 15).
+Fair value is determined based on the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants.
+These requirements establish market or observable inputs as the preferred source of values.
+Assumptions based on hypothetical transactions are used in the absence of market inputs.
+The Company does not have any non-financial instruments accounted for at fair value on a recurring basis.
+The Company does not have any significant financial or non-financial assets and liabilities that are measured at fair value on a non-recurring basis.
+The Company does not believe that these future tax payments will have a significant impact on its liquidity or capital resources.
 
 
 item3.txt
-The Company may borrow under its Revolving Credit Facility and Commercial Paper Program.
+Quantitative and Qualitative Disclosures About Market Risk Item 3.
 
 
 item4.txt
-The Company’s management, with the participation of the Company’s Chief Executive Officer and Chief Financial Officer, has evaluated the effectiveness of the design and operation of our disclosure controls and procedures, pursuant to Rules 13a-15(e) or 15d-15(e) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), as of the end of the period covered by this report.
+Mine Safety Disclosures Item 5.
+Other Information None.
 
 
 part2.txt
-Item 1.
+Unregistered Sales of Equity Securities and Use of Proceeds Item 3.
+Defaults Upon Senior Securities None.
+Mine Safety Disclosures None.
 
 

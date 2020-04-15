@@ -1,49 +1,46 @@
-fls.txt
-
-
-
 item1.txt
-The unaudited Consolidated Financial Statements have been prepared by Cabot Microelectronics pursuant to the rules of the Securities and Exchange Commission (SEC) and accounting principles generally accepted in the United States of America (U.S. GAAP).
-The Consolidated Balance Sheets as of September 30, 2018 were derived from audited financial statements.
-Certain prior period amounts have been reclassified to conform to the current period presentation.
-The Consolidated Financial Statements include the accounts of Cabot Microelectronics and its subsidiaries.
-All intercompany transactions and balances between the companies have been eliminated as of December 31, 2018.
-However, future events are subject to change and estimates and judgments routinely require adjustment.
-Upon adoption of ASC 606 we recognized a $933 decrease to the opening balance of retained earnings, net of tax, due to the cumulative impact of adopting the new revenue standards.
-The Company changed its accounting policy for revenue recognition for customer incentives that provide free products and tiered pricing.
-We previously accrued for undelivered free product as a charge to cost of sales.
-A contract’s transaction price is allocated to each distinct performance obligation and recognized as revenue when, or as, the performance obligation is satisfied.
-Some contracts include multiple performance obligations including prospective tiered price discounts or delivery of free product that we have concluded represents a material right.
-Contracts with prospective tiered price discounts require judgment in determining if that discount represents a material right.
-Customers pay in accordance with negotiated terms upon receipt of goods or completion of services.
-For these contracts, the transaction price is determined upon establishment of the contract that contains the final terms of the sale, including the description, quantity, and price of goods or services purchased.
-Revenue is recognized on consignment sales when control transfers to the customer, generally at the point of customer usage of the product.
-The Company also records revenue for services provided to the pipeline and oilfield energy industries.
-When we invoice for products shipped under these contracts, we defer the revenue associated with these rights on the balance sheet as a contract liability.
+Revenue is recorded at a point in time when the services are completed as this is when right to payment and customer acceptance occurs.
+Standalone selling price, once established, is then used to allocate total consideration proportionally to the various performance obligations within a contract.
+Early payment discounts are offered on a limited basis and are not significant.
+ASC 606 did not change the accounting for rebates under ASC 605.
+Agents are paid the commissions after funds are received by the Company from its customers.
+The provisions of ASU 2016-02 require a dual approach for lessee accounting under which a lessee would recognize a right-of-use asset and a corresponding lease liability.
+Leases will be classified as either finance or operating leases.
+ASU 2016-02 will be effective for us beginning October 1, 2019, but early adoption is permitted.
+2016-13, "Measurement of Credit Losses on Financial Instruments" (Topic 326).
+In March 2017, the FASB issued ASU No.
+We adopted this standard ASU 2017-07 effective October 1, 2018 and applied it retrospectively.
+The amount of revenue recognized during the three months ended December 31, 2018 that were included in the opening current contract liability balances in our Performance Materials segment were $2,153.
+The purchase consideration was $1,513,235, including consideration transferred of $1,536,452, less cash acquired of $23,217.
+Under the terms of the definitive agreement to acquire KMG, each share of KMG common stock was converted into the right to receive $55.65 in cash and 0.2000 of a share of Cabot Microelectronics common stock.
+Technology and know-how represent the estimated fair value of KMG’s technology, processes and knowledge regarding its product offerings, and are being amortized on a straight-line basis.
+These intangible assets are capitalized and accounted for as indefinite-lived intangible assets and will be subject to impairment testing.
+KMG’s results of operations have been included in our unaudited Consolidated Statements of Income (Loss) and Consolidated Statements of Comprehensive Income from the Acquisition Date.
+KMG’s net loss since the Acquisition Date was $14,174, which includes $25,661 of acquisition related costs, net of tax, as well as additional amortization and depreciation expense associated with recording KMG’s net assets at fair value.
 
 
 item2.txt
-Except as required by law, Cabot Microelectronics undertakes no obligation to update forward-looking statements made by it to reflect new information, subsequent events or circumstances.
 In the Electronic Materials segment, this quarter we delivered strong growth in both CMP slurries and pads, as well as in KMG’s legacy electronic chemicals business.
-Some semiconductor industry analysts are predicting a weaker demand in the first half of the calendar year, with expectations for some strengthening in the second half of calendar 2019, which would indicate a return to a more traditional seasonal pattern for the industry.
-Within the memory sector we experienced continued strong demand for our products, particularly for memory applications.
-This was driven in part by our memory customers’ migration from 2D to 3D NAND, which requires more CMP processing steps and significantly increases the need for consumables, including tungsten slurries.
-We anticipate future growth for this business with the continued growth in oil production in U.S., primarily in the Permian basin.
+In addition, higher amortization and depreciation costs associated with purchase accounting adversely impacted net income in the current quarter.
+Excluding revenue from KMG businesses, Cabot Microelectronics revenue increased $19.8 million, or 14.1%.
+The increase in sales volume was consistent with continued overall strong demand conditions in the global semiconductor industry.
+The increase was primarily due to higher supplies and equipment costs used in research and development of $0.9 million and higher staffing-related costs of $0.8 million.
+Net income was $13.4 million for the three months ended December 31, 2018, which represented an increase of 536.0%, or $16.5 million, from the net loss reported in the three months ended December 31, 2017.
 
 
 item3.txt
-Approximately 23% of our revenue is transacted in currencies other than the U.S. dollar.
+
 
 
 item4.txt
-As a result of these integration activities, certain controls will be evaluated and may be changed.
+
 
 
 part2.txt
-The information set forth in Note 12 “Commitments and Contingencies,” to the consolidated financial statements included in Item 1 of Part I of this Report on Form 10-Q is incorporated herein by reference.
-Transactions such as these could have negative effects on our results of operations, in areas such as contingent liabilities, gross margins, amortization charges related to intangible assets and other effects of accounting for the purchases of other business entities.
-For example, in fiscal 2016, we recorded $1.0 million of impairment expense related to certain in-process technology, related to the NexPlanar acquisition.
-We have identified our Performance Materials segment as another area of potential continued growth and the product offerings in our Performance Materials segment are similarly concentrated.
-Our customers continually pursue lower cost of ownership and higher quality and performance of materials consumed in their manufacturing processes, including CMP slurries and pads and electronic chemicals, as a means to reduce costs, increase the yield in their manufacturing facilities, and achieve desired performance of the IC devices they produce.
+Our customer base is concentrated among a limited number of large customers in each of our segments.
+Our supply chain includes the raw materials we use to manufacture our products, our production operations and the means by which we deliver our products to our customers.
+On June 23, 2016, the United Kingdom held a referendum in which voters approved an exit from the European Union (“Brexit”).
+While such changes in laws, regulations and conditions have not had a material adverse effect on our business or financial condition to date, we cannot assure you as to the future effect of any such changes.
+Compliance with EHS laws and regulations has resulted in ongoing costs for us and could restrict our ability to modify or expand our facilities, continue production, require us to install costly pollution control equipment, or incur significant other expenses, including remediation costs.
 
 

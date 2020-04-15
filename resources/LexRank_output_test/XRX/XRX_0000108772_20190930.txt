@@ -1,45 +1,41 @@
-fls.txt
-
-
-
 item1.txt
-Refer to Note 1 - Basis of Presentation for additional information.
-Refer to Note 1 - Basis of Presentation for additional information.
 References to “Xerox Holdings” refer to Xerox Holdings Corporation and its consolidated subsidiaries while references to “Xerox” refer to Xerox Corporation and its consolidated subsidiaries.
-This is a combined report of Xerox Holdings and Xerox, which includes separate unaudited Condensed Consolidated Financial Statements for each registrant.
-Notes to the Condensed Consolidated Financial Statements reflect the activity for both Xerox Holdings and Xerox for all periods presented, unless otherwise noted.
-On March 6, 2019, the Xerox Board of Directors approved a reorganization (the “Reorganization”) of the Company's corporate structure into a holding company structure.
 On July 31, 2019, Xerox completed the Reorganization, pursuant to which Xerox became a direct, wholly-owned subsidiary of Xerox Holdings.
-In addition, Xerox Holdings became a guarantor of Xerox’s existing Credit Facility.
-Shares of Xerox Holdings common stock trade on the New York Stock Exchange under the ticker symbol “XRX”, formerly used by Xerox.
-In March 2019, as part of Project Own It, we entered into a shared services arrangement with HCL Technologies (HCL) pursuant to which we are outsourcing certain global administrative and support functions, including, among others, selected information technology and finance functions (excluding accounting).
-The spending commitment excludes restructuring and related costs we are expected to incur in connection with the transition of the contemplated functions - refer to Note 12 - Restructuring Programs for additional information.
-We incurred net charges of approximately $38 and $68 for three and nine months ended September 30, 2019, respectively, associated with this arrangement.
+This update, as well as additional amendments and targeted improvements issued in 2018 and early 2019, supersedes existing lease accounting guidance found under ASC 840, Leases (“ASC 840”) and requires the recognition of right-to-use assets and lease obligations by lessees for those leases originally classified as operating leases under prior lease guidance.
+Short-term leases with a term of 12 months or less are not required to be recognized.
+Some of these conforming changes, such as those related to the definition of lease term and minimum lease payments, resulted in certain lease arrangements, that would have been previously accounted for as operating leases, to be classified and accounted for as sales-type leases with a corresponding up-front recognition of equipment sales revenue.
+Lessee accounting - the adoption of this update resulted in an increase to assets and related liabilities of approximately $385 (approximately $440 undiscounted) primarily related to leases of facilities.
+Lessor accounting - the adoption of this update resulted in an increase to equipment sales for the three and nine months ended September 30, 2019 of approximately $9 and $20, respectively, in 2019 as compared to the prior year periods.
+Operating lease ROU assets and liabilities are recognized at the commencement date based on the present value of lease payments over the lease term.
+The incremental borrowing rate is the rate of interest that we would have to pay to borrow, on a collateralized basis, an amount equal to the lease payments, in a similar economic environment and over a similar term.
+Lease terms used to calculate the present value of lease payments generally do not include any options to extend, renew, or terminate the lease, as we do not have reasonable certainty at lease inception that these options will be exercised.
 
 
 item2.txt
-Refer to Note 1 - Basis of Presentation, Corporate Reorganization, in the Condensed Consolidated Financial Statements for additional information regarding the Reorganization.
+In March 2019, Xerox Corporation (“Xerox”) announced plans to create a new public holding company, Xerox Holdings Corporation (“Xerox Holdings”), by implementing a holding company reorganization (the “Reorganization”).
 We refer to this analysis as "constant currency", “currency impact” or “the impact from currency.” This impact is calculated by translating current period activity in local currency using the comparable prior year period's currency translation rate.
-This impact is calculated for all countries where the functional currency is the local country currency.
-We do not hedge the translation effect of revenues or expenses denominated in currencies where the local currency is the functional currency.
-The decline in Equipment sales primarily reflected lower revenues from our mid-range products, which were impacted by organizational changes within the XBS sales organization, that continue to stabilize, as we transitioned a significant number of accounts from U.S. Enterprise in the first half of 2019.
 Third quarter 2019 Net income attributable to Xerox Holdings increased $132 million as compared to third quarter 2018 primarily due to lower non-service retirement-related costs and Income tax expense as well as higher Equity in net income of unconsolidated affiliates.
+Third quarter 2019 Adjusted1 net income attributable to Xerox Holdings increased $26 million as compared to third quarter 2018.
+The increase reflected increased operating profits as a result of the continued benefits from cost savings and productivity improvements from Project Own It, which more than offset the pace of revenue decline, as well as higher Equity in net income of unconsolidated affiliates.
 Net income attributable to Xerox Holdings for the nine months ended September 30, 2019 increased $311 million as compared to the prior year period primarily due to higher Equity in net income of unconsolidated affiliates as well as lower Income tax expense and non-service retirement-related costs.
+Adjusted1 net income attributable to Xerox Holdings for the nine months ended September 30, 2019 increased $87 million as compared to the prior year period.
 
 
 item4.txt
-The transition of these functions to HCL is expected to take up to 18 months.
+See SEC File Number 001-04471.
 3.3 Certificate of Amendment of Xerox Holdings Corporation’s Certificate of Incorporation dated July 31, 2019.
 Incorporated by reference to Exhibit 3.1 to Xerox Holdings Corporation’s Current Report on Form 8-K dated July 31, 2019.
-See SEC File Number 001-39013.
 3.4 Xerox Holdings Corporation’s Restated Certificate of Incorporation filed with the Department of State of New York on July 31, 2019.
+Incorporated by reference to Exhibit 3.2 to Xerox Holdings Corporation’s Current Report on Form 8-K dated July 31, 2019.
+Incorporated by reference to Exhibit 3.3 to Xerox Holdings Corporation’s Current Report on Form 8-K dated July 31, 2019.
 
 
 part2.txt
+See SEC File Number 001-04471.
+See SEC File Number 001-04471.
 3.3 Certificate of Amendment of Xerox Holdings Corporation’s Certificate of Incorporation dated July 31, 2019.
 Incorporated by reference to Exhibit 3.1 to Xerox Holdings Corporation’s Current Report on Form 8-K dated July 31, 2019.
 See SEC File Number 001-39013.
 3.4 Xerox Holdings Corporation’s Restated Certificate of Incorporation filed with the Department of State of New York on July 31, 2019.
-See SEC File Number 001-39013.
 
 

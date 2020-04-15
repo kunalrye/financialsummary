@@ -1,41 +1,38 @@
-fls.txt
-
-
-
 item1.txt
-The consolidated financial statements include the accounts of MTS Systems Corporation and its wholly owned subsidiaries.
 Significant intercompany account balances and transactions have been eliminated.
 The terms "MTS," "we," "us," "the Company" or "our" in this Quarterly Report on Form 10-Q, unless the context otherwise requires, refer to MTS Systems Corporation and its wholly owned subsidiaries.
-We have prepared the interim unaudited consolidated financial statements included herein pursuant to the rules and regulations of the United States (U.S.) Securities and Exchange Commission (SEC).
-The consolidated financial statements are prepared in accordance with U.S. Generally Accepted Accounting Principles (GAAP).
-GAAP requires us to make estimates and assumptions that affect amounts reported.
-The accompanying consolidated financial statements should be read in conjunction with the audited consolidated financial statements and notes thereto included in our Annual Report on Form 10-K for the fiscal year ended September 29, 2018 filed with the SEC.
-Interim results of operations for the first fiscal quarter ended December 29, 2018 are not necessarily indicative of the results to be expected for the full fiscal year.
-We have a 5-4-4 week, quarterly accounting cycle with our fiscal year ending on the Saturday closest to September 30.
-Fiscal year 2019 ending on September 28, 2019 will consist of 52 weeks.
+2014-09, Revenue from Contracts with Customers (Topic 606), followed by related amendments on September 30, 2018 under the modified retrospective transition method.
 Our new revenue recognition accounting policy and disclosures relative to this guidance are included in Note 3.
 In February 2016, the Financial Accounting Standards Board (FASB) issued ASU No.
-2016-02, Leases (Topic 842), which requires lessees to recognize a right-of-use asset, representing the right to use the underlying asset for the lease term, and a lease liability on the balance sheet for all leases with terms greater than 12 months.
-The aforementioned lease standards and amendments ("the new lease standard") are required to be adopted for annual periods beginning after December 15, 2018, including interim periods within that annual period, which is our fiscal year 2020.
-We are currently evaluation our lease portfolio; assessing system needs to support adoption of the new lease standard; and analyzing procedural changes, including updating our lease accounting policy as needed to reflect the new requirements of this standard.
-In May 2014, the FASB issued ASU No.
+Early adoption is permitted.
 2016-16, Income Taxes (Topic 740), Intra-Entity Transfers of Assets Other Than Inventory, which requires companies to account for the income tax effects of intercompany sales and transfers of assets other than inventory when the transfer occurs.
-Revenue is recognized when control of the promised goods or services is transferred to our customers in an amount that reflects the consideration we expect to be entitled to in exchange for transferring those goods or providing those services.
+We adopted the new standard on a modified retrospective basis for the annual period ending September 28, 2019, including interim periods within that annual period.
+A performance obligation is a promise in a contract to transfer a distinct good or service to the customer and is the unit of account under the new revenue standard.
+The percentage applied reflects our historical warranty claims experience over the preceding 12-month period.
+Warranty provisions are also recognized for certain unanticipated product claims that are individually significant.
+These financial instruments include cash and cash equivalents, accounts receivable, accounts payable and short-term borrowings.
+The swap agreement expires April 3, 2021.
+The market value of the interest rate swap as of December 29, 2018 was an asset of $4,889.
+We also use foreign currency derivative contracts to maintain the functional currency value of monetary assets and liabilities denominated in non-functional foreign currencies.
+The ABR for ABR Term Loans shall not be less than 1.75% per annum.
+The Applicable Rate for any ABR Revolving Loans will be based upon the leverage ratio applicable on such date.
 
 
 item2.txt
-MTS Systems Corporation's testing and simulation hardware, software and service solutions help customers accelerate and improve their design, development and manufacturing processes and are used for determining the mechanical behavior of materials, products and structures.
-Our high-performance sensors provide measurements of vibration, pressure, position, force and sound in a variety of applications.
-On November 21, 2018, we acquired E2M Technologies B.V. (E2M) for a cash purchase price of $79,772.
-We funded the acquisition of E2M through borrowings on our Revolving Credit Facility.
 The size of the facility was increased to finance the purchase of E2M.
-Approximately 70% of our revenue has historically been derived from customers outside of the U.S. Our financial results are principally exposed to changes in exchange rates between the U.S. dollar and the Euro, the Japanese yen and the Chinese yuan.
-The discussion below quantifies the impact of foreign currency translation on our financial results for the periods discussed.
-In fiscal year 2019, we adopted Accounting Standards Update (ASU) No.
+The current year also includes a certain discrete tax benefit of $1,293 related to the Tax Act.
+Excluding the impact of currency translation, the E2M acquisition, and restructuring costs incurred in both fiscal years, gross profit declined 0.5% and gross margin rate declined 1.6 percentage points.
+Excluding the impact of currency translation, revenue increased 3.9%.
+Income from operations for the three months ended December 29, 2018 declined 2.3% primarily due to increased compensation expense, partially offset by favorable leverage on higher revenue volume.
+These were partially offset by an increase in cash used by working capital associated with timing fluctuations from inventory purchases, accounts payable payments, billings and advanced payments from customers, accounts receivable payments received and unbilled accounts receivable accruals.
+We had cash and cash equivalents of $70,438 as of December 29, 2018.
+Of this amount, $6,751 was located in North America, $26,235 in Europe and $37,452 in Asia.
+In accordance with our investment policy, we place cash equivalent investments with issuers who have high-quality investment credit ratings.
 
 
 item3.txt
-These non-functional currency transactions expose us to market risk on assets, liabilities and cash flows recognized on these transactions.
+We have operational procedures to mitigate these non-functional currency exposures.
+On floating-rate investments, increases or decreases in market interest rates will increase or decrease future interest income, respectively.
 
 
 item4.txt
@@ -44,5 +41,6 @@ item4.txt
 
 part2.txt
 Item 1A.
+The share purchase authorization has no expiration date.
 
 

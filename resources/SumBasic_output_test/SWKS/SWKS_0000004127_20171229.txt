@@ -1,48 +1,45 @@
-fls.txt
-Additionally, statements concerning future matters such as the development of new products, enhancements of technologies, sales levels, expense levels and other statements regarding matters that are not historical are forward-looking statements.
-
-
 item1.txt
-Financial Statements.
-Skyworks Solutions, Inc., together with its consolidated subsidiaries (“Skyworks” or the “Company”), is empowering the wireless networking revolution.
-The Company’s highly innovative analog semiconductors are connecting people, places, and things, spanning a number of new and previously unimagined applications within the automotive, broadband, cellular infrastructure, connected home, industrial, medical, military, smartphone, tablet and wearable markets.
-The accompanying unaudited interim consolidated financial statements have been prepared pursuant to the rules and regulations of the Securities and Exchange Commission (“SEC”) for interim financial reporting.
-1 to such Annual Report on Form 10-K, filed with the SEC on January 26, 2018 (the “2017 10-K”).
-Significant judgment is required in determining the reserves for and fair value of items such as allowance for doubtful accounts, overall fair value assessments of assets and liabilities, particularly those classified as Level 2 or Level 3 in the fair value hierarchy, inventory, intangible assets associated with business combinations, share-based compensation, loss contingencies, and income taxes.
-Fiscal year 2017 consisted of 52 weeks and ended on September 29, 2017.
 In March 2016, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") 2016-09, Improvements to Employee Share-Based Payment Accounting, which is intended to simplify several aspects of the accounting for share-based payment transactions, including the income tax consequences, classification of awards as either equity or liabilities, and classification on the statement of cash flows.
+The Company adopted ASU 2016-09 at the beginning of the first quarter of fiscal year 2018.
+The adoption also resulted in an increase in cash flow from operations and a decrease of cash flow from financing of $16.2 million in the first quarter of fiscal year 2018.
+Prior periods have not been adjusted.
 At December 29, 2017, the Company had $13.6 million for capital equipment that was accrued to other long-term liabilities, and $8.6 million for capital equipment that was accrued to accounts payable.
-•Level 1 - Quoted prices in active markets for identical assets or liabilities.
+The Company measures certain assets and liabilities at fair value on a recurring basis such as its financial instruments.
+There have been no transfers between Level 1, 2 or 3 assets or liabilities during the three months ended December 29, 2017.
+The $257.8 million deemed repatriation tax is payable over the next eight years, $20.6 million per year for each of the next five years, followed by payments of $38.7 million, $51.6 million, and $64.5 million in years six through eight, respectively.
+The indemnities to customers in connection with product sales generally are subject to limits based upon the amount of the related product sales and in many cases are subject to geographic and other restrictions.
+This newly authorized stock repurchase plan replaces in its entirety the aforementioned January 17, 2017, plan.
 
 
 item2.txt
-We caution readers not to place undue reliance upon any such forward-looking statements, which speak only as of the date made.
-We, together with our consolidated subsidiaries, are empowering the wireless networking revolution.
 Our highly innovative analog semiconductors are connecting people, places, and things spanning a number of new and previously unimagined applications within the automotive, broadband, cellular infrastructure, connected home, industrial, medical, military, smartphone, tablet and wearable markets.
-This increase in revenue was primarily driven by our success in capturing a higher share of the increasing radio frequency and analog content per device as smartphone models continue to evolve, the increasing number of applications for the Internet of Things, and our expanding analog product portfolio supporting new vertical markets including automotive, industrial, medical and military.
-We market and sell our products directly to original equipment manufacturers of communications and electronics products, third-party original design manufacturers and contract manufacturers, and indirectly through electronic components distributors.
-We generally experience seasonal peaks during the second half of the calendar year, primarily as a result of increased worldwide production of consumer electronics in anticipation of increased holiday sales, whereas our second fiscal quarter is typically lower and in line with seasonal industry trends.
-Gross profit represents net revenue less cost of goods sold.
-Our cost of goods sold consists primarily of purchased materials, labor and overhead (including depreciation and share-based compensation expense) associated with product manufacturing.
-Erosion of average selling prices of established products is typical of the semiconductor industry.
-The increase in selling, general and administrative expenses for the three months ended December 29, 2017, as compared with the corresponding period in fiscal year 2017, was primarily related to an increase in employee compensation.
+•Net revenue increased by 15% to $1,052 million for the three months ended December 29, 2017, as compared with the corresponding period in fiscal year 2017.
+These positive impacts were partially offset by lower average selling prices with a gross profit impact of $8.3 million.
+There were no new restructuring charges incurred during the three months ended December 29, 2017.
+Cash provided by operating activities consists of net income for the period adjusted for certain non-cash items and changes in certain operating assets and liabilities.
+The increase resulted from $360.8 million in cash generated from operations which was partially offset by $172.5 million used to repurchase 1.65 million shares of stock, $59.1 million in cash dividend payments, $44.7 million used to repurchase shares related to payroll tax withholdings on equity awards, and $28.2 million in capital expenditures.
+Our invested cash balances primarily consist of highly liquid term deposits with original maturities of 90 days or less and money market funds where the underlying securities primarily consist of United States treasury obligations, United States agency obligations and repurchase agreements collateralized by United States government and agency obligations.
+This newly authorized stock repurchase plan replaces in its entirety the aforementioned January 17, 2017 plan.
+The timing and amount of any shares of the Company’s common stock that are repurchased under the new repurchase program will be determined based on our evaluation of market conditions and other factors.
+We currently expect to fund the repurchase program using our working capital.
+Item 2.
 
 
 item3.txt
 Quantitative and Qualitative Disclosures about Market Risk.
-We are subject to overall financial market risks, such as changes in market liquidity, credit quality, investment risk, interest rate risk, and foreign exchange rate risk as described below.
-Our cash equivalent investments have short-term maturity periods that dampen the impact of market or interest rate risk.
-Credit risk associated with our investments is not material because our money market and deposits are diversified across several financial institutions with high credit ratings, which reduces the amount of credit exposure to any one counterparty.
-However, we may choose not to hedge certain foreign exchange exposures for a variety of reasons, including, but not limited to, accounting considerations and the prohibitive economic cost of hedging particular exposures.
+We have established a cross-functional team to assess the potential impact of the new revenue standard.
+The effective date for the standard is for fiscal years beginning after December 15, 2018, with early adoption permitted.
+2016-15, Statement of Cash Flows (Topic 230), (“ASU 2016-15”).
 
 
 item4.txt
-Controls and Procedures.
+
 
 
 part2.txt
-Item 1A.
-There have been no material changes from the risk factors previously disclosed in the 2017 10-K.
-The transaction was made in reliance on the exemption from registration in Section 4(a)(2) of the Securities Act.
+Item 1.
+The Compensation Committee approved the change in metrics in light of the favorable impact on the Company’s non-GAAP EPS for fiscal year 2018 that is now expected as a result of the new U.S. tax legislation, which was enacted on December 22, 2017, as well as the potential favorable impact on non-GAAP EPS of the Company’s new stock repurchase program.
+The Compensation Committee believes this change maintains the original rigor of the performance incentive objectives of the Incentive Plan.
+Effective January 31, 2018, the Board of Directors approved and adopted an amendment to our Third Amended and Restated By-laws (the “By-laws”) to grant stockholders the right to call a special meeting of stockholders.
 
 

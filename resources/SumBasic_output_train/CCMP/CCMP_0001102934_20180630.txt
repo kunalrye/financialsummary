@@ -1,35 +1,31 @@
-fls.txt
-
-
-
 item1.txt
-CMP polishes surfaces at an atomic level, thereby helping to enable IC device manufacturers to produce smaller, faster and more complex IC devices with fewer defects.
 We develop, manufacture and sell CMP polishing pads, which are used in conjunction with slurries in the CMP process.
-We also develop and provide products for demanding surface modification applications in other industries through our Engineered Surface Finishes (ESF) business.
 For additional information, refer to Part 1, Item 1, "Business", in our Annual Report on Form 10-K for the fiscal year ended September 30, 2017.
-The unaudited Consolidated Financial Statements have been prepared by Cabot Microelectronics pursuant to the rules of the Securities and Exchange Commission (SEC) and accounting principles generally accepted in the United States of America (U.S. GAAP).
 The Consolidated Financial Statements include the accounts of Cabot Microelectronics and its subsidiaries.
-All intercompany transactions and balances between the companies have been eliminated as of June 30, 2018.
-The accounting estimates that require management's most difficult and subjective judgments include, but are not limited to, those estimates related to bad debt expense, inventory valuation, valuation and classification of auction rate securities, impairment of long-lived assets and investments, business combinations, goodwill, other intangible assets, interest rate swaps, share-based compensation, income taxes and contingencies.
-However, future events are subject to change and estimates and judgments routinely require adjustment.
-The adjustments, relating primarily to accumulated earnings taxes of a foreign operation, increased the income tax expense for the first quarter of fiscal 2018 by $2,071.
-These assets were classified as available-for-sale securities and were recorded at fair value.
-Cash flows from purchases, sales and maturities of these securities are presented as investing activities on the Consolidated Statements of Cash Flows.
 Level 1 inputs consist of valuations based on quoted market prices in active markets for identical assets or liabilities.
-Level 3 inputs consist of valuations based on unobservable inputs that are supported by little or no market activity.
-The following table presents financial instruments, other than long-term debt, that we measured at fair value on a recurring basis at June 30, 2018 and September 30, 2017.
-See Note 8 for a detailed discussion of our long-term debt.
-We have classified the following assets and liabilities in accordance with the fair value hierarchy set forth in the applicable standards.
+2017-04 "Simplifying the Test for Goodwill Impairment."
+The fair value of our ARS was determined using Level 2 fair value inputs.
+There was no unrecognized gain or loss on our ARS investment during the quarter.
+See Note 10 for more information regarding this agreement.
+Unamortized debt issuance costs related to our Revolving Credit Facility were not material.
+We have defined benefit plans covering employees in certain foreign jurisdictions as required by local law, which are unfunded.
+These gains and losses primarily relate to changes in the U.S. dollar value of assets and liabilities denominated in local currencies when these asset and liability amounts are translated at month-end exchange rates.
+We record share-based compensation expense for all share-based awards, including stock option grants, and restricted stock, restricted stock unit and performance share unit ("PSU") awards, and employee stock purchase plan purchases.
+Consequently, the requisite service period for the award is satisfied upon retirement eligibility.
+The expected dividend yield represents our annualized dividend in dollars divided by the stock price on the date of grant.
+Our effective tax rate was 18.3% and 47.0% for the three and nine months ended June 30, 2018, respectively, compared to a 22.4% and 21.1% effective income tax rate for the three and nine months ended June 30, 2017.
+2014-09, "Revenue from Contracts with Customers" (Topic 606), an updated standard on revenue recognition.
 
 
 item2.txt
-We assume no obligation to update this forward-looking information.
-In our third quarter of fiscal 2018, we experienced continued strong demand for our products, particularly for memory applications.
-This was driven in part by our memory customers' migration from 2D to 3D NAND, which requires more CMP processing steps.
-Additionally, continued capacity expansions in 3D NAND, primarily in Korea and China, should continue to provide future growth opportunities for us.
-We believe we remain well positioned to benefit from these long-term demand trends.
 The enactment of the Tax Act in the United States in December 2017 facilitated our repatriation of a substantial amount of non-U.S. cash during the second and third quarters of fiscal 2018.
-Gross margin, representing gross profit as a percentage of revenue, for the third quarter of fiscal 2018 was 53.6%, compared to 48.9% for our third quarter of fiscal 2017, both periods of which included 90-basis points of adverse impact of NexPlanar amortization expense.
+The Company reported diluted earnings per share of $1.34 in the third quarter of fiscal 2018, compared to diluted earnings per share of $0.77 in the same quarter last year.
+Total cost of goods sold was $69.7 million for the three months ended June 30, 2018, which represented an increase of 6.6%, or $4.3 million, from the three months ended June 30, 2017.
+Fixed manufacturing costs included $1.3 million of NexPlanar amortization expense compared to $1.2 million in same period of fiscal 2017.
+The significant increase was primarily due to higher revenue and higher gross margin, partially offset by higher operating expenses.
+Revenue was $433.4 million for the nine months ended June 30, 2018, which represented a 17.0%, or $63.0 million, increase from the nine months ended June 30, 2017.
+The decrease was primarily due to lower staffing-related costs of $1.6 million, lower severance expense of $0.7 million, lower information technology expenses of $0.6 million, and lower depreciation and amortization expense of $0.3 million.
+In the first nine months of fiscal 2018, cash flows used in financing activities were $177.7 million.
 
 
 item3.txt
@@ -41,9 +37,9 @@ Our management, with the participation of our Chief Executive Officer (CEO) and 
 
 
 part2.txt
-We do not believe there have been any material changes in our risk factors since the filing of our Annual Report on Form 10-K for the fiscal year ended September 30, 2017.
-However, we may update our risk factors, including adding or deleting them, in our SEC filings from time to time for clarification purposes or to include additional information, at management's discretion, even when there have been no material changes.
 For example, the strengthening of demand conditions in the semiconductor industry we experienced during the second half of fiscal 2016 through fiscal 2017 continued through our third quarter of fiscal 2018, following relatively soft demand conditions during the second half of fiscal 2015 and the first half of fiscal 2016.
-For instance, we could experience negative impacts on cash flows due to the inability of our customers to pay their obligations to us, or our production process could be harmed if our suppliers cannot fulfill their obligations to us.
+Furthermore, competitive dynamics within the semiconductor industry may impact our business.
+One or more of these principal customers could stop buying CMP consumables from us or could substantially reduce the quantity of CMP consumables purchased from us.
+Our supply chain includes the raw materials we use to manufacture our products, our production operations and the means by which we deliver our products to our customers.
 
 

@@ -1,45 +1,42 @@
-fls.txt
-
-
-
 item1.txt
 On March 6, 2019, the Xerox Board of Directors approved a reorganization (the “Reorganization”) of the Company's corporate structure into a holding company structure, pursuant to which Xerox Corporation will become a direct, wholly-owned subsidiary of a new holding company.
-It is expected that the directors and executive officers of Xerox Corporation will also serve in the same capacities for the new holding company and that shares of the new holding company’s common stock will trade on the New York Stock Exchange under Xerox Corporation’s current ticker symbol “XRX.” Upon the completion of the Reorganization, it is anticipated that the new holding company will become a guarantor of Xerox Corporation's existing Credit Facility.
-In March 2019, as part of Project Own It, we entered into a shared services arrangement with HCL Technologies (HCL) pursuant to which we are outsourcing certain global administrative and support functions, including, among others, selected information technology and finance functions (excluding accounting).
-HCL is expected to make certain up-front and ongoing investments in software, tools and other technology to consolidate, optimize and automate the transferred functions with the goal of providing improved service levels and significant cost savings.
-The spending commitment excludes restructuring and related costs we are expected to incur in connection with the transition of the contemplated functions - refer to Note 11 - Restructuring Programs for additional information.
-In June 2016, the FASB issued ASU 2016-13, Financial Instruments Credit Losses - Measurement of Credit Losses on Financial Instruments, with additional updates being issued in 2018.
-The update impacts financial assets and net investment in leases that are not accounted for at fair value through Net Income.
-We are currently evaluating the impact of the adoption of ASU 2016-13 on our Condensed Consolidated Financial Statements.
-In August 2018, the FASB issued ASU 2018-15, Intangibles - Goodwill and Other - Internal Use Software (Subtopic 350-40), Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract.
+The Reorganization is intended to be implemented via a tax-free transaction for U.S. federal income tax purposes that will result in each holder of Xerox Corporation’s common stock owning the same number of shares of common stock in the new holding company and each holder of Xerox Corporation’s preferred stock owning the same number of shares of preferred stock in the new holding company.
+It is expected that the directors and executive officers of Xerox Corporation will also serve in the same capacities for the new holding company and that shares of the new holding company’s common stock will trade on the New York Stock Exchange under Xerox Corporation’s current ticker symbol “XRX.” The Reorganization is subject to the approval of shareholders, who will be asked to vote on the Reorganization at the annual shareholders meeting scheduled to be held on May 21, 2019, as well as regulatory approval and other customary conditions and is expected to be implemented in mid-2019, though there can be no assurance as to its completion or timing.
 This update aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license).
-The update provides criteria for determining which implementation costs to capitalize as an asset related to the service contract and which costs to expense.
 This update, as well as additional amendments and targeted improvements issued in 2018 and early 2019, supersedes existing lease accounting guidance found under ASC 840, Leases (“ASC 840”) and requires the recognition of right-to-use assets and lease obligations by lessees for those leases originally classified as operating leases under prior lease guidance.
-The accounting for lessors does not fundamentally change with this update except for changes to conform and align guidance to the lessee guidance, as well as to the revenue recognition guidance in ASU 2014-09.
 Some of these conforming changes, such as those related to the definition of lease term and minimum lease payments, resulted in certain lease arrangements, that would have been previously accounted for as operating leases, to be classified and accounted for as sales-type leases with a corresponding up-front recognition of equipment sales revenue.
 We also elected the package of practical expedients not to reassess prior conclusions related to contracts containing leases, lease classification and initial direct costs and the lessee practical expedient to combine lease and non-lease components for certain asset classes (real estate lease arrangements for offices and warehouses).
+Refer to Note 3 - Adoption of New Leasing Standard - Xerox as a Lessee and Note 4 - Adoption of New Leasing Standard - Xerox as a Lessor for additional transitional disclosures related to the adoption of this standard.
+The incremental borrowing rate is the rate of interest that we would have to pay to borrow, on a collateralized basis, an amount equal to the lease payments, in a similar economic environment and over a similar term.
+We consider the economic life of most of our products to be five years, since this represents the most frequent contractual lease term for our principal products and only a small percentage of our leases are for original terms longer than five years.
+As of March 31, 2019 and December 31, 2018 amounts deferred associated with contract fulfillment costs and inducements were $12 and $12, respectively, The related amortization for the three months ended March 31, 2019 and 2018 was $1 and $1, respectively .
 
 
 item2.txt
 We refer to this analysis as "constant currency", “currency impact” or “the impact from currency.” This impact is calculated by translating current period activity in local currency using the comparable prior year period's currency translation rate.
-The declines in Post sale revenues were larger in the U.S. where we recently implemented organizational changes as part of our Project Own It transformation actions.
 The increase in Net income attributable to Xerox for the three months ended March 31, 2019 as compared to the prior year period, was primarily due to the continued benefits of cost savings and productivity improvements from our Project Own It transformation actions, which offset the impact of lower revenues, as well as lower Transaction and related costs, net, lower Income tax expense and higher Equity in net income of unconsolidated affiliates.
 The increase in adjusted1 net income attributable to Xerox for the three months ended March 31, 2019 as compared to the prior year period was primarily related to increased operating profits reflecting the continued benefits of cost savings and productivity improvements, which offset the decline in revenues, as well as higher Equity in net income of unconsolidated affiliates.
-Cash flows provided by operating activities for the three months ended March 31, 2019 were $226 million, as compared to $216 million in first quarter 2018.
-The increase reflects improved cash flow from earnings and lower restructuring payments, which were partially offset by a use of cash for working capital2 and accrued compensation.
-•Services, maintenance and rentals revenue includes rental and maintenance revenue (including bundled supplies) as well as the post sale component of the document services revenue from our Xerox Services offerings.
-For the three months ended March 31, 2019 these revenues decreased 8.3% as compared to the first quarter 2018, including a 2.5-percentage point unfavorable impact from currency.
+•High-end - For the three months ended March 31, 2019, revenue was nearly flat, as compared to first quarter 2018, and was driven by lower sales from our Americas sales organization, mostly offset by growth from our European region.
+The decline in installs was partially offset by a favorable revenue mix driven by strong demand for the higher-configuration models of our Iridesse production press.
+While the rate of our first quarter 2019 revenue decline was greater than the rate we expect for the year as a whole (largely due to the impact of organizational changes implemented in the first quarter 2019), we expect such decline to improve each quarter sequentially on a year-over-year basis, resulting in an overall revenue decline of about 5% for the year as a whole, excluding an approximate 1.0-percentage point unfavorable impact from currency.
+Revenue associated with equipment installations (discussed below) may be reflected up-front in Equipment sales or over time either through rental income or as part of our Xerox Services revenues (which are both reported within our post sale revenues), depending on the terms and conditions of our agreements with customers.
+•2% decrease in black-and-white multifunction devices, driven by lower activity from our EMEA organization, including low-end devices in developing market regions, partially offset by higher installs of ConnectKey devices through our indirect channels in the U.S. •7% decrease in mid-range color installs reflecting lower installs of ConnectKey devices through our indirect channels in the U.S. and from our XBS sales unit.
+•14% decrease in high-end color installs, reflecting lower installs of our iGen and lower-end production systems including Versant systems, partially offset by strong demand for the higher-configuration models of our Iridesse production press and higher installs of our inkjet production systems.
 
 
 item4.txt
-3.2 By-Laws of the Registrant as amended through May 14, 2018.
-Incorporated by reference to Exhibit 10(d)(5) to Registrant's Annual Report on Form 10-K for the fiscal year ended December 31, 2018.
-3 dated January 14, 2019 to Registrant's 2004 Performance Incentive Plan, as amended and restated as of June 30, 2017.
-
-
-part2.txt
 Incorporated by reference to Exhibit 10(d)(5) to Registrant's Annual Report on Form 10-K for the fiscal year ended December 31, 2018.
 Incorporated by reference to Exhibit 10(e)(42) to Registrant's Annual Report on Form 10-K for the fiscal year ended December 31, 2018.
 10.3 Form of Omnibus Award Agreement under PIP; ELTIP; Stock Options.
+10.4 Amended Letter of Agreement dated April 17, 2019 between Registrant and Giovanni (John) Visentin.
+Incorporated by reference to Exhibit 10(b) to Registrant's Current Report on Form 8-K dated April 17, 2019.
+
+
+part2.txt
+1 dated as of February 21, 2019 to Registrant's 2004 Equity Compensation Plan for Non-Employee Directors.
+Incorporated by reference to Exhibit 10(d)(5) to Registrant's Annual Report on Form 10-K for the fiscal year ended December 31, 2018.
+Incorporated by reference to Exhibit 10(e)(42) to Registrant's Annual Report on Form 10-K for the fiscal year ended December 31, 2018.
+10.3 Form of Omnibus Award Agreement under PIP; ELTIP; Stock Options.
+10.4 Amended Letter of Agreement dated April 17, 2019 between Registrant and Giovanni (John) Visentin.
 
 

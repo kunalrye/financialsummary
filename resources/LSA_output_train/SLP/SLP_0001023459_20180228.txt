@@ -3,7 +3,6 @@ fls.txt
 
 
 item1.txt
-This report on Form 10-Q for the quarter ended February 28, 2018, should be read in conjunction with the Company's annual report on Form 10-K for the year ended August 31, 2017, filed with the Securities and Exchange Commission (“SEC”) on November 14, 2017.
 As contemplated by the SEC under Article 8 of Regulation S-X, the accompanying consolidated financial statements and footnotes have been condensed and therefore do not contain all disclosures required by generally accepted accounting principles.
 Results for interim periods are not necessarily indicative of those to be expected for the full year.
 On September 2, 2014, Simulations Plus, Inc. acquired all of the outstanding equity interests of Cognigen Corporation (“Cognigen”, “Buffalo”) and Cognigen became a wholly owned subsidiary of Simulations Plus, Inc. Simulations Plus, Inc., acquired DILIsym Services, Inc. (DILIsym) as a wholly owned subsidiary pursuant to a stock purchase agreement dated May 1, 2017.
@@ -15,6 +14,7 @@ The Company provides, for a fee, additional training and service calls to its cu
 Generally, we enter into one-year license agreements with customers for the use of our pharmaceutical software products.
 We recognize revenue on these contracts when all the criteria are met.
 Therefore, revenue is recognized one year at a time.
+For purposes of the statements of cash flows, the Company considers all highly liquid investments purchased with original maturities of three months or less to be cash equivalents.
 
 
 item2.txt

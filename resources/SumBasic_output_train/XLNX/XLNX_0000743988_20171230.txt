@@ -1,35 +1,32 @@
-fls.txt
-
-
-
 item1.txt
-The interim financial statements are unaudited, but reflect all adjustments which are, in the opinion of management, of a normal, recurring nature necessary to provide a fair statement of results for the interim periods presented.
-The Company uses a 52- to 53-week fiscal year ending on the Saturday nearest March 31.
-The authoritative guidance provides a five-step process for recognizing revenue that depicts the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services.
-The new authoritative guidance is required to be applied retrospectively to each prior reporting period presented, or retrospectively with the cumulative effect of initially applying it recognized at the date of initial application.
-The Company continues to evaluate the impact to revenues and related disclosures related to the pending adoption of the new guidance and the preliminary assessments are subject to change.
 The new authoritative guidance also changes certain disclosure requirements and other aspects of current U.S. GAAP.
-It does not change the guidance for classifying and measuring investments in debt securities and loans.
-Upon adoption, the Company will record all of the unrealized gains or losses from its investment in mutual funds and equity securities to retained earnings, and subsequent changes in fair value from such investments will be recorded under its consolidated statements of income.
 Accordingly, a lessee will recognize a lease asset for its right to use the underlying asset and a lease liability for the corresponding lease obligation.
-The new authoritative guidance is effective for public business entities for fiscal years beginning after December 15, 2018, and interim periods within those fiscal years, which for Xilinx would be the first quarter of fiscal year 2020.
-In August 2016, the FASB issued authoritative guidance for cash flow classification.
-The new authoritative guidance is intended to reduce diversity in practice in how cash receipts and cash payments are classified in the statement of cash flows.
-In May 2017, the FASB issued authoritative guidance that clarifies the scope of modification accounting for share-based compensation.
-The new guidance will reduce diversity in practice and result in fewer changes to the terms of an award being accounted for as modifications.
+Early adoption is permitted as of the beginning of the annual period.
 In August 2017, the FASB issued authoritative guidance that amended the accounting for hedging activities.
-The guidance permits more hedging strategies to be eligible for hedge accounting and simplifies the application of hedge accounting guidance in areas where practice issues exist.
+Early adoption is permitted, including adoption in any interim periods after issuance of the authoritative guidance.
+As of December 30, 2017 and April 1, 2017, Avnet accounted for 64% and 59% of the Company’s total net accounts receivable, respectively.
+The Company attempts to mitigate the concentration of credit risk in its trade receivables through its credit evaluation process, collection terms, distributor sales to diverse end customers and through geographical dispersion of sales.
+Xilinx generally does not require collateral for receivables from its end customers or from distributors.
+The Company’s Level 2 assets consist of financial institution securities, non-financial institution securities, U.S. agency securities, foreign government and agency securities, mortgage-backed securities, debt mutual funds, bank loans, asset-backed securities and commercial mortgage-backed securities.
+The Company reviewed the investment portfolio and determined that the gross unrealized losses on these investments as of December 30, 2017 and April 1, 2017 were temporary in nature as evidenced by the fluctuations in the gross unrealized losses within the investment categories.
+Therefore, the Company believes that it will be able to collect both principal and interest amount due to the Company.
+Actual maturities may differ from contractual maturities because issuers may have the right to call or prepay obligations without call or prepayment penalties.
+As of December 30, 2017, $1.98 billion of marketable debt securities with contractual maturities of greater than one year were classified as short-term investments.
+See “Note 10.
+The interest rate swap contracts and the 2024 Notes were initially measured at fair value.
+There was no ineffectiveness during all periods presented.
+Note 7.
 
 
 item2.txt
-The reader should not place undue reliance on these forward-looking statements.
-We disclaim any responsibility to update or revise any forward-looking statement provided in this Management's Discussion and Analysis for any reason.
-•Advanced Products include our recent product offerings and include the UltraScale+, UltraScale and 7-series product families.
-The most recent modification was made on April 3, 2016, which was the beginning of our fiscal year 2017, whereby we reclassified our product categories to be consistent with how these categories are analyzed and reviewed internally.
+Net revenues from Core Products decreased in both the third quarter and the first nine months of fiscal year 2018 from the comparable prior year periods.
+Additionally, our investments in debt securities are liquid and available for future business needs.
+As of April 1, 2017, cash, cash equivalents and short-term investments were $3.32 billion and working capital was $2.98 billion.
+These items were partially offset by increases in accounts receivable, prepaid expenses and other assets as well as decreases in accounts payable.
 
 
 item3.txt
-Our exposure to interest rate risk relates primarily to our investment portfolio, which consists of fixed income securities with a fair value of approximately $3.29 billion as of December 30, 2017, and to our interest rate swap contracts in relation to the issuance of the 2024 Notes (as our interest rate swap contracts carry a variable interest rate based on LIBOR plus a spread).
+
 
 
 item4.txt
@@ -37,13 +34,13 @@ item4.txt
 
 
 part2.txt
-"Financial Statements" for information regarding patent litigation.
-The following risk factors and other information included in this Quarterly Report on Form 10-Q should be carefully considered.
-The risks and uncertainties described below are not the only risks to the Company.
-Additional risks and uncertainties not presently known to the Company or that the Company’s management currently deems immaterial also may impair its business operations.
 •market acceptance of our customers' products.
-We rely on TSMC, UMC and our other foundries to produce wafers with competitive performance attributes.
-Furthermore, we cannot guarantee that the foundries that supply our wafers will offer us competitive pricing terms or other commercial terms important to our business.
-We cannot guarantee that our foundries will not experience manufacturing problems, including delays in the realization of advanced manufacturing process technologies or difficulties due to limitations of new and existing process technologies.
+In addition, weak economic conditions may adversely impact the financial health and viability of the foundries and result in their insolvency or their inability to meet their commitments to us.
+For example, we may experience supply shortages due to the difficulties foundries may encounter if they must rapidly increase their production capacities from low utilization levels to high utilization levels because of an unexpected increase in demand.
+In addition, suppliers of wafers and substrates were forced to halt production temporarily.
+Furthermore, natural disasters can also indirectly impact us.
+More vertically-integrated competitors may be less exposed to some or all of these and other risks.
+These factors make it difficult for us to forecast future sales and project quarterly revenues.
+•access to advanced packaging technology.
 
 

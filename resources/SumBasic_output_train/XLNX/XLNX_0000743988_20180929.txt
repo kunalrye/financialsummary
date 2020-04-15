@@ -1,35 +1,32 @@
-fls.txt
-
-
-
 item1.txt
-The interim financial statements are unaudited, but reflect all adjustments which are, in the opinion of management, of a normal, recurring nature necessary to provide a fair statement of results for the interim periods presented.
-The Company uses a 52- to 53-week fiscal year ending on the Saturday nearest March 31.
-The quarters ended September 29, 2018 and September 30, 2017 each consisted of 13 weeks.
-The authoritative guidance provides a five-step process for recognizing revenue that depicts the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled, in exchange for those goods or services.
-The Company implemented internal controls and certain system functionality to enable the preparation of financial information on adoption.
+The Company adopted the new guidance on April 1, 2018, using the Full Retrospective method and restated the comparative prior periods.
 Previously, revenue was recognized upon reported resale of the product by the distributors to their customers (sell-through) as reduced by actual allowances for distributor price adjustments.
-Revenue recognition related to the Company's other revenue streams, such as direct customers, remains unchanged.
-The authoritative guidance does not change the guidance for classifying and measuring investments in debt securities and loans.
+The authoritative guidance is effective for public business entities for annual periods beginning after December 15, 2017, and interim periods within those annual periods.
 Subsequent changes in fair value from such investments are recorded in the condensed consolidated statements of income.
-In October 2016, the FASB issued authoritative guidance on income taxes which eliminates the deferred tax effects of intra-entity asset transfers other than inventory.
-As a result, a reporting entity would recognize the tax expense from the sale of an asset in the seller’s tax jurisdiction when the transfer occurs, even though the pre-tax effects of that transaction are eliminated in consolidation.
-The authoritative guidance is effective for public business entities in fiscal years beginning after December 15, 2017 and requires the adoption be applied on a modified retrospective basis through a cumulative-effect adjustment to retained earnings.
 Accordingly, $13.8 million of prepaid taxes associated with prior period intra-entity asset transfers was reclassified to retained earnings.
-The new authoritative guidance requires the recognition of assets and liabilities arising from lease transactions on the balance sheet and will also require significant additional disclosures about the amount, timing and uncertainty of cash flows from leases.
-Accordingly, a lessee will recognize a lease asset for its right to use the underlying asset and a lease liability for the corresponding lease obligation.
-An entity electing this additional (and optional) transition method must provide the required disclosures for all periods that continue to be in accordance with current GAAP.
+In February 2016, the FASB issued authoritative guidance on leases.
+Early adoption is permitted.
+The amendments do not change the existing disclosure requirements in current GAAP.
+The Company expects its accounts receivable to fluctuate as the Company partners with its distributors to manage their inventory requirements.
+Level 1 — Quoted (unadjusted) prices in active markets for identical assets or liabilities.
+The Company’s Level 2 assets consist of financial institution securities, non-financial institution securities, U.S. agency securities, foreign government and agency securities, mortgage-backed securities, debt mutual funds, asset-backed securities and commercial mortgage-backed securities.
+The Company's $500.0 million principal amount of 2.125% notes due March 15, 2019 (2019 Notes) and $500.0 million principal amount of 3.000% notes due March 15, 2021 (2021 Notes) are measured at fair value on a quarterly basis for disclosure purposes.
+The Company’s investments in non-marketable securities of private companies are also recorded at fair value if the Company recognizes an observable price adjustments.
+The Company reviewed the investment portfolio and determined that the gross unrealized losses on these investments as of September 29, 2018 and March 31, 2018 were temporary in nature as evidenced by the fluctuations in the gross unrealized losses within the investment categories.
+As of September 29, 2018, $1.01 billion of marketable debt securities with contractual maturities of greater than one year were classified as short-term investments.
+As a result of the use of derivative financial instruments, the Company is exposed to the risk that counterparties to derivative contracts may fail to meet their contractual obligations.
+See “Note 10.
 
 
 item2.txt
-The reader should not place undue reliance on these forward-looking statements.
-We use the acquisition method of accounting and allocate the fair value of purchase consideration to the assets acquired and liabilities assumed in the acquiree based on their respective fair values as of the acquisition date.
-The excess of the fair value of purchase consideration over the fair value of these assets acquired and liabilities assumed is recorded as goodwill.
-Critical estimates in valuing intangible assets include, but are not limited to, expected future cash flows, which includes consideration of future growth and margins, future changes in technology, expected cost and time to develop in-process research and development, brand awareness and discount rates.
+Due to the acquisition of Deephi Tech, we included business combinations as our critical accounting policy.
+Fair value estimates are based on the assumptions management believes a market participant would use in pricing the asset or liability.
+•Core Products consist of all other product families.
+The increases were primarily due to higher sales from TME and Automotive.
 
 
 item3.txt
-Item 3.Quantitative and Qualitative Disclosures About Market Risk Our exposure to interest rate risk relates to certain types of investments, which consist of fixed income securities with a fair value of approximately $2.93 billion as of September 29, 2018, and to our interest rate swap contracts in relation to the issuance of the 2024 Notes (as our interest rate swap contracts carry a variable interest rate based on LIBOR plus a spread).
+
 
 
 item4.txt
@@ -38,12 +35,12 @@ item4.txt
 
 part2.txt
 "Financial Statements" for information regarding patent litigation.
-The following risk factors and other information included in this Quarterly Report on Form 10-Q should be carefully considered.
-The risks and uncertainties described below are not the only risks to the Company.
 •market acceptance of our customers' products.
-Most of our wafers are manufactured in Taiwan by Taiwan Semiconductor Manufacturing Company (TSMC) and United Microelectronics Corporation (UMC).
-In addition, we also have wafers manufactured in South Korea by Samsung Electronics Co., Ltd.
 We rely on TSMC, UMC and our other foundries to produce wafers with competitive performance attributes.
-Furthermore, we cannot guarantee that the foundries that supply our wafers will offer us competitive pricing terms or other commercial terms important to our business.
+For example, as a result of the March 2011 earthquake in Japan, production at the Seiko factory at Sakata was halted temporarily, impacting production of some of our older devices.
+Furthermore, natural disasters can also indirectly impact us.
+These factors make it difficult for us to forecast future sales and project quarterly revenues.
+•access to advanced packaging technology.
+However, we may not be successful in executing this strategy.
 
 

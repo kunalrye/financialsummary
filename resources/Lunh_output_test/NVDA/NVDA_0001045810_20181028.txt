@@ -1,38 +1,35 @@
-fls.txt
-
-
-
 item1.txt
-The accompanying unaudited condensed consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States of America, or U.S. GAAP, for interim financial information and with the instructions to Form 10-Q and Article 10 of Securities and Exchange Commission, or SEC, Regulation S-X.
-The January 28, 2018 consolidated balance sheet was derived from our audited consolidated financial statements included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018, as filed with the SEC, but does not include all disclosures required by U.S. GAAP.
-The following information should be read in conjunction with the audited consolidated financial statements and notes thereto included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
 Except for the accounting policy for revenue recognition, which was updated as a result of adopting a new accounting standard related to revenue recognition, there have been no material changes to our significant accounting policies in Note 1 - Organization and Summary of Significant Accounting Policies, of the Notes to the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
 For products sold with a right of return, we record a reduction to revenue by establishing a sales return allowance for estimated product returns at the time revenue is recognized, based primarily on historical return rates.
+However, if product returns for a fiscal period are anticipated to exceed historical return rates, we may determine that additional sales return allowances are required to properly reflect our estimated exposure for product returns.
 Our customer programs involve rebates, which are designed to serve as sales incentives to resellers of our products in various target markets, and marketing development funds, or MDFs, which represent monies paid to our partners that are earmarked for market segment development and are designed to support our partners’ activities while also promoting NVIDIA products.
 As a result, we recognize the revenue from the license and the revenue from the development services as a single performance obligation over the period in which the development services are performed.
 For such arrangements, we allocate revenue to the software license and PCS on a relative standalone selling price basis by maximizing the use of observable inputs to determine the standalone selling price for each performance obligation.
-The Financial Accounting Standards Board, or FASB, issued an accounting standards update that creates a single source of revenue guidance under U.S. GAAP for all companies, in all industries.
 In February 2016 and July 2018, the FASB issued accounting standards updates regarding the accounting for leases by which we will begin recognizing lease assets and liabilities on the balance sheet for lease terms of more than 12 months.
-We are evaluating the impact of adopting the new lease accounting standards on our consolidated financial statements, systems and processes in conjunction with our review of lease agreements.
 We expect the adoption of this accounting guidance to result in an increase in lease assets and a corresponding increase in lease liabilities on our Consolidated Balance Sheets.
+On January 29, 2018, we adopted the new revenue accounting standard using the modified retrospective method and applied it to contracts that were not completed as of that date.
 The impact of the new standard on our consolidated financial statements for the third quarter and first nine months of fiscal year 2019 was not significant.
-Revenue related to remaining performance obligations represents the amount of contracted license and development arrangements and PCS that has not been recognized.
-Of the total fair value of equity awards granted during the third quarter and first nine months of fiscal year 2019, we estimated that the stock-based compensation expense related to equity awards that are not expected to vest was $73 million and $89 million, respectively.
+As of October 28, 2018, the amount of our remaining performance obligations that has not been recognized as revenue was $237 million, of which we expect to recognize approximately 50% as revenue over the next twelve months and the remainder thereafter.
+We recognized an income tax benefit of $149 million and $3 million for the third quarter and first nine months of fiscal year 2019, respectively, and income tax expense of $58 million and $189 million for the third quarter and first nine months of fiscal year 2018, respectively.
+Income tax benefit as a percentage of income before income tax was 13.8% and nominal for the third quarter and first nine months of fiscal year 2019, respectively, and income tax expense as a percentage of income before tax was 6.5% and 8.9% for the third quarter and first nine months of fiscal year 2018, respectively.
+The decrease in our effective tax rate for the third quarter and first nine months of fiscal year 2019 as compared to the same periods in the prior fiscal year was primarily due to a decrease in the U.S. statutory tax rate from 35% to 21% as a result of U.S. tax reform, and a $138 million reduction in our provisional U.S. tax reform transition tax amount in the third quarter of fiscal year 2019, partially offset by a decrease in the impact of tax benefits from stock-based compensation.
+Gains or losses on the contracts are recorded in accumulated other comprehensive income or loss and reclassified to operating expense when the related operating expenses are recognized in earnings or ineffectiveness should occur.
 
 
 item2.txt
-This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the “safe harbor” created by those sections.
-While our GPU and CUDA architecture is unified, our GPU product brands are aimed at specialized markets including GeForce for gamers; Quadro for designers; Tesla and DGX for AI data scientists and big data researchers; and GRID for cloud-based visual computing users.
-GPU business revenue was $2.77 billion, up 25% from a year earlier and up 4% sequentially, reflecting growth in professional visualization, datacenter, and gaming GPUs.
-Tegra Processor business revenue - which includes automotive, SOC modules for the Nintendo Switch gaming console, and other embedded edge AI platforms - was $407 million, down 3% from a year ago and down 13% sequentially.
 Gaming revenue was $1.76 billion, up 13% from a year ago driven by growth in gaming GPUs, and down 2% sequentially as gaming GPU growth was more than offset by a seasonal decline in SOC modules for Nintendo Switch.
-Professional visualization revenue was $305 million, up 28% from a year earlier and up 9% sequentially driven by strength across both desktop and mobile workstation products.
 Datacenter revenue was $792 million, up 58% from a year ago and up 4% sequentially, led by strong sales of our Volta architecture-based products, including NVIDIA Tesla V100 and DGX systems, with contribution from the new Turing T4 Cloud GPU.
-Automotive revenue of $172 million was up 19% from a year earlier and up 7% sequentially, incorporating infotainment modules, production DRIVE PX platforms, and development agreements with automotive companies.
-Income from operations for the third quarter of fiscal year 2019 was $1.06 billion, up 18% from a year earlier and down 9% sequentially.
 Net income and net income per diluted share for the third quarter of fiscal year 2019 were $1.23 billion and $1.97, respectively, up 47% and 48%, respectively, from a year earlier, fueled by strong revenue growth and improved gross margin.
+During the first nine months of fiscal year 2019, we returned $1.13 billion to shareholders through a combination of $855 million in share repurchases and $273 million in cash dividends.
 In November 2018, our board of directors authorized an additional $7.00 billion under our share repurchase program for a total of $7.94 billion available through the end of December 2022.
-We intend to return an additional $3.00 billion to shareholders by the end of fiscal year 2020, which may begin in the fourth quarter of fiscal year 2019.
+We announced a 7% increase in our quarterly cash dividend to $0.16 per share from $0.15 per share, to be paid with our next quarterly cash dividend on December 21, 2018, to all shareholders of record on November 30, 2018.
+During the third quarter of fiscal year 2019, we introduced RAPIDS, an open-source GPU-acceleration platform for data science and machine learning; launched the NVIDIA T4 cloud GPU and NVIDIA TensorRT Hyperscale Inference Platform to deliver advanced acceleration in hyperscale datacenters; launched the NVIDIA RTX Server; released the GeForce RTX series, the first gaming GPUs based on the Turing architecture; and unveiled the Quadro RTX series, which is designed to revolutionize the workflow of designers and artists on the desktop.
+During the second quarter of fiscal year 2019, we marked the launch of the Summit supercomputer at Oak Ridge National Laboratory, powered by NVIDIA Volta Tensor Core GPUs; introduced NVIDIA HGX-2, a unified computing platform for both AI and high performance computing; announced that five of the world’s seven fastest supercomputers are powered by NVIDIA GPUs; introduced the NVIDIA HGX-2 platform for both AI and HPC; and launched AIRI Mini with Pure Storage and ONTAP AI with NetApp for implementing and scaling deep learning.
+In August 2018, we unveiled our first Turing-based GPUs -- NVIDIA Quadro RTX 8000, RTX 6000 and RTX 5000 -- which we believe will revolutionize the work of millions of designers and artists; and introduced the NVIDIA RTX Server, a ray-tracing global illumination rendering server for render farms.
+This increase was due primarily to 20% growth in sales of GeForce GPU products for gaming, driven by initial sales of Turing-based GPUs for desktops and by high-performance notebooks based on our Max-Q technology.
+This increase was due primarily to over 40% growth in sales of GeForce GPU products for gaming, driven by initial sales of Turing-based GPUs for desktops, Pascal-based GPUs for desktops and by high-performance notebooks based on our Max-Q technology.
+Our PC OEM revenue increased by almost 20% due primarily to sales of GPU products targeted for use in cryptocurrency mining in the first quarter of fiscal year 2019.
+This was driven by a decrease of about 30% in revenue from SOC modules for gaming platforms, which was partially offset by an increase of 19% in automotive revenue, primarily from DRIVE PX platforms and development agreements with automotive companies, as well as from infotainment modules.
 
 
 item3.txt
@@ -44,7 +41,7 @@ item4.txt
 
 
 part2.txt
-Refer to Part I, Item 1, Note 13 of the Notes to Condensed Consolidated Financial Statements for a discussion of significant developments in our legal proceedings since January 28, 2018.
 Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018 for a prior discussion of our legal proceedings.
+Refer to the description of the risk factors associated with our business previously disclosed in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
 
 

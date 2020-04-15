@@ -1,37 +1,34 @@
-fls.txt
-In June 2016, the FASB issued a new accounting standard to replace the incurred loss impairment methodology under current GAAP with a methodology that reflects expected credit losses and requires consideration of a broader range of reasonable and supportable information to inform credit loss estimates.
-
-
 item1.txt
-In the opinion of management, all adjustments, consisting only of normal recurring adjustments considered necessary for a fair statement of results of operations and financial position have been included.
-The results for the interim periods presented are not necessarily indicative of the results expected for any future period.
 Operating lease assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments over the lease term.
-Operating lease assets also include initial direct costs incurred and prepaid lease payments, minus any lease incentives.
-Our lease terms include options to extend or terminate the lease when it is reasonably certain that we will exercise that option.
-We operate on a 52- or 53-week year, ending on the last Sunday in January.
-All intercompany balances and transactions have been eliminated in consolidation.
-other contingencies.
-The Financial Accounting Standards Board, or FASB, issued an accounting standards update regarding the accounting for leases under which lease assets and liabilities are recognized on the balance sheet.
-In June 2016, the FASB issued a new accounting standard to replace the incurred loss impairment methodology under current GAAP with a methodology that reflects expected credit losses and requires consideration of a broader range of reasonable and supportable information to inform credit loss estimates.
+We adopted this guidance on January 28, 2019 using the optional transition method by recognizing a cumulative-effect adjustment to the consolidated balance sheet.
+Refer to Note 3 of these Notes to Condensed Consolidated Financial Statements for additional information.
 We will be required to use a forward-looking expected credit loss model for accounts receivable and other financial instruments, including available-for-sale debt securities.
-The standard will be effective for us beginning in the first quarter of fiscal year 2021, with early adoption permitted.
-If the Merger Agreement is terminated under certain circumstances involving the failure to obtain required regulatory approvals, we could be obligated to pay Mellanox a termination fee of $350 million.
-Our lease obligations consist of operating leases for our headquarters complex, domestic and international office facilities, and data center space, with lease periods expiring between 2019 and 2035.
+We are currently evaluating the impact of this standard on our Consolidated Financial Statements.
+In addition, we elected the package of practical expedients permitted under the transition guidance, which allowed us not to reassess (1) whether any expired or existing contracts are or contain leases, (2) lease classification for any expired or existing leases, and (3) initial direct costs for any existing leases.
+We recognized an income tax benefit of $5 million for the first quarter of fiscal year 2020 and income tax expense of $67 million for the first quarter of fiscal year 2019.
+We review fair value hierarchy classification on a quarterly basis.
+The following table shows the changes in deferred revenue during the first quarter of fiscal years 2020 and 2019.
+The fair value of the contracts was not significant as of April 28, 2019 and January 27, 2019.
+These forward contracts were not designated for hedge accounting treatment.
+Therefore, the change in fair value of these contracts is recorded in other income or expense and offsets the change in fair value of the hedged foreign currency denominated monetary assets and liabilities, which is also recorded in other income or expense.
+Therefore, there were no gains or losses associated with ineffectiveness.
+As of April 28, 2019, we had not borrowed any amounts under this agreement.
 
 
 item2.txt
-This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the “safe harbor” created by those sections.
 All references to “NVIDIA,” “we,” “us,” “our” or the “Company” mean NVIDIA Corporation and its subsidiaries.
-Fueled by the sustained demand for better 3D graphics and the scale of the gaming market, NVIDIA has evolved the GPU into a computer brain at the intersection of virtual reality, high performance computing, or HPC, and artificial intelligence, or AI.
+Starting with a focus on PC graphics, NVIDIA invented the GPU to solve some of the most complex problems in computer science.
 Our GPU product brands are aimed at specialized markets including GeForce for gamers; Quadro for designers; Tesla and DGX for AI data scientists and big data researchers; and GRID for cloud-based visual computing users.
-Our Tegra brand integrates an entire computer onto a single chip, and incorporates GPUs and multi-core CPUs to drive supercomputing for autonomous robots, drones, and cars, as well as for consoles and mobile gaming and entertainment devices.
-Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998.
-GPU business revenue was $2.02 billion, down 27% from a year earlier and up 2% sequentially.
-The year-on-year decrease primarily reflects a decline in shipments of gaming GPUs and SOC modules for gaming platforms.
-We believe a shortage of Intel processors that is impacting the global PC market will affect our sales of gaming GPUs for laptops in the second quarter of fiscal year 2020.
-Professional Visualization revenue was $266 million, up 6% from a year earlier and down 9% sequentially.
-The year-on-year increase reflects strength across both desktop and mobile workstation products.
-Gross margin for the first quarter of fiscal year 2020 was 58.4%, down 610 basis points from a year earlier and up 370 basis points sequentially.
+The sequential increase primarily reflects growth in gaming GPUs.
+Income from operations for the first quarter of fiscal year 2020 was $358 million, down 72% from a year earlier and up 22% sequentially.
+The year-on-year decrease reflects lower revenue and gross margin, and higher operating expenses.
+The closing of the merger is subject to certain conditions, including the approval by Mellanox shareholders and various regulatory agencies.
+During the first quarter of fiscal year 2020, for the automotive market, we announced that we are partnering with Toyota Research Institute-Advanced Development to develop, train and validate self-driving vehicles; unveiled the NVIDIA DRIVE AP2X automated driving solution, encompassing DRIVE AutoPilot software, DRIVE AGX and DRIVE validation tools; introduced NVIDIA DRIVE AV Safety Force Field to enable safe, comfortable driving experiences; and announced availability of the NVIDIA DRIVE Constellation autonomous vehicle simulation platform.
+Our PC OEM revenue decreased by 78% primarily driven by the absence of cryptocurrency mining processor sales.
+This was driven by a decline in shipments of SOC modules for gaming platforms, which was only partially offset by an increase of 14% in automotive revenue, primarily from growth in AI cockpit modules.
+Interest expense was $13 million and $15 million during the first quarters of fiscal years 2020 and 2019, respectively.
+Other, net, consists primarily of realized or unrealized gains and losses from non-affiliated investments, and the impact of changes in foreign currency rates.
+Other, net, was not significant during the first quarter of fiscal years 2020 and 2019.
 
 
 item3.txt
@@ -44,6 +41,6 @@ item4.txt
 
 part2.txt
 Refer to the description of the risk factors associated with our business previously disclosed in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 27, 2019.
-Beginning August 2004, our Board of Directors authorized us to repurchase our stock.
+The program does not obligate NVIDIA to acquire any particular amount of common stock and the program may be suspended at any time at our discretion.
 
 

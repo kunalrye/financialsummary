@@ -3,33 +3,33 @@ fls.txt
 
 
 item1.txt
-We also provide specialized tax products to accounting professionals, who are key partners that help us reach small business customers.
-Our flagship brands, QuickBooks and TurboTax, help customers run their small businesses, pay employees and bills, separate business and personal expenses, track their money, and file income taxes.
-ProSeries and Lacerte are our leading tax preparation offerings for professional accountants.
-Incorporated in 1984 and headquartered in Mountain View, California, we sell our products and services primarily in the United States.
 These condensed consolidated financial statements include the financial statements of Intuit and its wholly owned subsidiaries.
-We have eliminated all significant intercompany balances and transactions in consolidation.
-As discussed in Note 4, we acquired TSheets.com LLC, Exactor, Inc., and Applatix, Inc. in the second quarter of fiscal 2018.
-For example, we use estimates in determining the appropriate levels of reserves for product returns, promotional discounts and rebates, the collectibility of accounts receivable, the appropriate levels of various accruals including accruals for litigation contingencies, the amount of our worldwide tax provision, and the realizability of deferred tax assets.
-Despite our intention to establish accurate estimates and use reasonable assumptions, actual results may differ from our estimates.
-We compute basic net income or loss per share using the weighted average number of common shares outstanding during the period.
-Dilutive potential common shares consist of the shares issuable upon the exercise of stock options and upon the vesting of restricted stock units (RSUs) under the treasury stock method.
-Since the dividend rights are subject to the same vesting requirements as the underlying equity awards they are considered a contingent transfer of value.
+See Note 10, “Segment Information,” for more information.
+Dividend rights are accumulated and paid when the underlying RSUs vest.
 Consequently, the RSUs are not considered participating securities and we do not present them separately in earnings per share.
-The following table presents the composition of shares used in the computation of basic and diluted net income (loss) per share for the periods indicated.
-Due to the seasonality of our consumer tax offerings, one retail customer accounted for 16% of gross accounts receivable at January 31, 2018.
+Earlier adoption is permitted in the first quarter of our fiscal year beginning August 1, 2019.
+With respect to our consumer and professional tax desktop solutions, under the current standard, we recognize all revenue related to the desktop solutions as services are provided.
+When determining fair value, we consider the principal or most advantageous market for an asset or liability and assumptions that market participants would use when pricing the asset or liability.
+We value our Level 1 assets, consisting primarily of time deposits, using quoted prices in active markets for identical instruments.
+Financial assets whose fair values we measure on a recurring basis using Level 2 inputs consist of municipal bonds, corporate notes, and U.S. agency securities.
+These controls include comparison to pricing provided by a secondary pricing service or investment manager, validation of pricing sources and models, review of key model inputs, analysis of period-over-period price fluctuations, and independent recalculation of prices where appropriate.
+We estimate the fair values of the auction rate securities using a discounted cash flow model.
+We use the specific identification method to compute gains and losses on investments.
+Unrealized losses on available-for-sale debt securities at January 31, 2018 were not significant and were due to changes in interest rates, including market credit spreads, and not due to increased credit risks associated with specific securities.
+We do not intend to sell these investments.
+The following table summarizes our available-for-sale debt securities classified by the stated maturity date of the security at the dates indicated.
 
 
 item2.txt
-Please see the section entitled “Forward-Looking Statements” immediately preceding Part 1 for important information to consider when evaluating such statements.
-This summary is not intended to be exhaustive, nor is it a substitute for the detailed discussion and analysis provided elsewhere in this Quarterly Report on Form 10-Q.
 There are also large, cloud-based service companies who innovate quickly and serve small businesses and consumers.
-In recent years the widespread availability of the Internet, the emergence of mobile devices, and the explosion of social media have accelerated the pace of change and revolutionized the way that people throughout the world manage important financial tasks.
-The result is a global market that is shifting from traditional services that are paper-based, human-produced, and brick-and-mortar bound, to one where people understand, demand, and embrace the benefits of connected services.
+We are investing significant management attention and resources in our information technology infrastructure and in our privacy and security capabilities, and we expect to continue to do so in the future.
+These non-financial drivers include, for example, customer growth and retention for all of our businesses and transaction volume for our payment processing business.
+Customers for our connected services offerings have generally grown faster than those for our traditional desktop software offerings, reflecting our strategic focus on connected services over the past few years.
+Net loss per share for the second quarter of fiscal 2018 was $0.08 compared to net income per share of $0.05 in the same quarter of fiscal 2017.
 
 
 item3.txt
-While we believe we take prudent measures to mitigate investment-related risks, such risks cannot be fully eliminated because of market circumstances that are outside our control.
+
 
 
 item4.txt
@@ -37,13 +37,13 @@ item4.txt
 
 
 part2.txt
-Below, we describe certain important risks, categorized solely for ease of reference as strategic, operational, legal and compliance, and financial risks.
-We face intense competitive pressures that may harm our operating results.
+We face intense competition in all of our businesses, and we expect competition to remain intense in the future.
 Our competitors and potential competitors range from large and established entities to emerging start-ups.
-In addition, we may face competition from existing companies, with large established consumer user-bases and broad-based platforms, who may change or expand the focus of their business strategies and marketing to target our customers, including small businesses and tax customers.
-Our consumer tax business also faces significant competition from the public sector, where we face the risk of federal and state taxing authorities proposing revenue strategies that involve developing and providing government tax software or other government return preparation systems at public expense.
 The IRS Free File Program is currently the sole means by which the IRS offers tax software to taxpayers, and as part of the program the IRS has agreed it will not offer a competing service.
-Online offerings, desktop software and mobile technology industries are characterized by rapidly changing technology, evolving industry standards and frequent new product introductions.
-We need to continue to develop our skills, tools and capabilities to capitalize on existing and emerging technologies, which require us to devote significant resources.
+We also provide additional customer benefits by utilizing customer data available to us through our existing offerings.
+We have encountered difficulty in launching new products and services in the past.
+Current U.S. laws that prohibit copying give us only limited practical protection from software piracy and the laws of many other countries provide very little protection.
+Our business depends on our strong reputation and the value of our brands.
+These attacks could also disrupt our or our customers’ or other third parties’ business operations.
 
 

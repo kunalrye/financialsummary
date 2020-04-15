@@ -1,38 +1,34 @@
-fls.txt
-Forward-looking statements are based on our management’s beliefs and assumptions and on information currently available to our management.
-
-
 item1.txt
-The accompanying unaudited condensed consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States of America, or U.S. GAAP, for interim financial information and with the instructions to Form 10-Q and Article 10 of Securities and Exchange Commission, or SEC, Regulation S-X.
-The January 28, 2018 consolidated balance sheet was derived from our audited consolidated financial statements included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018, as filed with the SEC, but does not include all disclosures required by U.S. GAAP.
-The following information should be read in conjunction with the audited consolidated financial statements and notes thereto included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
 Except for the accounting policy for revenue recognition, which was updated as a result of adopting a new accounting standard related to revenue recognition, there have been no material changes to our significant accounting policies in Note 1 - Organization and Summary of Significant Accounting Policies, of the Notes to the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
-Our customer programs primarily involve rebates, which are designed to serve as sales incentives to resellers of our products in various target markets, and marketing development funds, or MDFs, which represent monies paid to our partners that are earmarked for market segment development and are designed to support our partners’ activities while also promoting NVIDIA products.
+Revenue from product sales is recognized upon transfer of control of promised products to customers in an amount that reflects the consideration we expect to receive in exchange for those products.
+Revenue is recognized net of allowances for returns, customer programs and any taxes collected from customers.
 As a result, we recognize the revenue from the license and the revenue from the development services as a single performance obligation over the period in which the development services are performed.
-Customers may purchase either perpetual licenses or subscriptions to licenses, which differ mainly in the duration over which the customer benefits from the software.
-Revenue from software licenses is recognized up front when the software is made available to the customer.
-PCS revenue is recognized ratably over the service period, or as services are performed.
-Our condensed consolidated financial statements include the accounts of NVIDIA Corporation and our wholly-owned subsidiaries.
-The Financial Accounting Standards Board, or FASB, issued an accounting standards update that creates a single source of revenue guidance under U.S. GAAP for all companies, in all industries.
-Refer to Note 2 of these Notes to Condensed Consolidated Financial Statements for additional information.
-In February 2016, the FASB issued an accounting standards update regarding the accounting for leases by which we will begin recognizing lease assets and liabilities on the balance sheet for lease terms of more than 12 months.
+Our software licenses provide our customers with a right to use the software when it is made available to the customer.
+We are now required to recognize changes in the fair value of our equity investments through net income rather than other comprehensive income.
 The update will be effective for us beginning in the first quarter of fiscal year 2020.
 The impact of applying the new standard on our consolidated financial statements for the quarter ended April 29, 2018 was not significant.
-The Convertible Notes have a dilutive impact on net income per share if our average stock price for the reporting period exceeds the adjusted conversion price of $20.0296 per share.
+The 1.00% Convertible Senior Notes Due 2018, or the Convertible Notes, are included in the calculation of diluted net income per share.
+For the first quarter of fiscal year 2019, our average stock price was $235.10, which exceeded the adjusted conversion price, causing the Convertible Notes to have a dilutive impact.
+The denominator for diluted net income per share does not include any effect from the convertible note hedge transactions, or the Note Hedges, that we entered into concurrently with the issuance of the Convertible Notes, as its effect would be anti-dilutive.
+In the event of conversion of the Convertible Notes, the shares delivered to us under the Note Hedges will offset the dilutive effect of the shares that we would issue under the Convertible Notes.
+For the first quarter of fiscal years 2019 and 2018, there were no other-than-temporary impairment losses and net realized gains were not significant.
+The amortized cost and estimated fair value of cash equivalents and marketable securities as of April 29, 2018 and January 28, 2018 are shown below by contractual maturity.
+There were no significant transfers between Levels 1 and 2 financial assets and liabilities for the first quarter of fiscal year 2019.
 
 
 item2.txt
-Selected Financial Data” of our Annual Report on Form 10-K for the fiscal year ended January 28, 2018 and “Item 1A.
-While our GPU and CUDA architecture is unified, our GPU product brands are aimed at specialized markets including GeForce for gamers; Quadro for designers; Tesla and DGX for AI data scientists and big data researchers; and GRID for cloud-based visual computing users.
 Revenue for the first quarter of fiscal year 2019 increased 66% year over year and 10% sequentially.
 GPU business revenue was $2.77 billion, up 77% from a year earlier and up 12% sequentially, led by gaming and datacenter.
-Datacenter revenue was $701 million, up 71% from a year ago and up 16% sequentially, led by strong sales of our Volta architecture, including NVIDIA Tesla V100, new DGX systems, and HPC design wins.
-Tegra processor business revenue, which includes SOC modules for the Nintendo Switch gaming console, was $442 million, up 33% from a year ago and down 2% sequentially.
-The impact of adopting the new revenue standard was not significant to our consolidated financial statements in the first quarter.
 Gross margin for the first quarter of fiscal year 2019 was 64.5%, increasing from the prior year and the previous quarter due to strong growth in datacenter revenue and the mix within our GeForce gaming GPUs.
 Income from operations for the first quarter of fiscal year 2019 was $1.29 billion, up 134% from a year earlier and up 21% sequentially.
 Net income and net income per diluted share for the first quarter of fiscal year 2019 were $1.24 billion and $1.98, respectively, up 145% and 151%, respectively, from a year earlier, fueled by strong revenue growth and improved gross and operating margins.
 During the first quarter of fiscal year 2019, we returned to shareholders $655 million in share repurchases and $91 million in cash dividends.
+Cash, cash equivalents and marketable securities were $7.30 billion as of April 29, 2018, compared with $7.11 billion at the end of the prior quarter.
+GPU business revenue increased by 77% for the first quarter of fiscal year 2019 compared to the first quarter of fiscal year 2018.
+Tegra Processor business revenue increased by 33% for the first quarter of fiscal year 2019 compared to the first quarter of fiscal year 2018.
+As a result, the overall net effect on our gross margin from charges for inventory provision costs and sales of items previously written-off or written-down was a 0.9% unfavorable impact for the first quarter of fiscal year 2019 and a 0.6% favorable impact for the first quarter of fiscal year 2018.
+The gross margin of our GPU business increased during the first quarter of fiscal year 2019 compared to the first quarter of fiscal year 2018, primarily due to strong sales of high-end GeForce gaming GPU products.
+The gross margin of our Tegra Processor business increased during the first quarter of fiscal year 2019 compared to the first quarter of fiscal year 2018.
 
 
 item3.txt

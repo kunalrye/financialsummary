@@ -1,36 +1,33 @@
-fls.txt
-In June 2016, the FASB issued a new accounting standard to replace the incurred loss impairment methodology under current GAAP with a methodology that reflects expected credit losses and requires consideration of a broader range of reasonable and supportable information to inform credit loss estimates.
-
-
 item1.txt
-The accompanying unaudited condensed consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States of America, or U.S. GAAP, for interim financial information and with the instructions to Form 10-Q and Article 10 of Securities and Exchange Commission, or SEC, Regulation S-X.
-The January 27, 2019 consolidated balance sheet was derived from our audited consolidated financial statements included in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019, as filed with the SEC, but does not include all disclosures required by U.S. GAAP.
-In the opinion of management, all adjustments, consisting only of normal recurring adjustments considered necessary for a fair statement of results of operations and financial position have been included.
 Except for adopting a new accounting standard related to leases, there have been no material changes to our significant accounting policies in Note 1 - Organization and Summary of Significant Accounting Policies, of the Notes to the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019.
 Operating leases with lease terms of more than 12 months are included in operating lease assets, accrued and other current liabilities, and long-term operating lease liabilities on our consolidated balance sheet.
-Operating lease assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments over the lease term.
 Operating lease assets and liabilities are recognized based on the present value of the remaining lease payments discounted using our incremental borrowing rate.
+Lease expense is recognized on a straight-line basis over the lease term.
 We combine the lease and non-lease components in determining the operating lease assets and liabilities.
-Our condensed consolidated financial statements include the accounts of NVIDIA Corporation and our wholly-owned subsidiaries.
-other contingencies.
-The Financial Accounting Standards Board, or FASB, issued an accounting standards update regarding the accounting for leases under which lease assets and liabilities are recognized on the balance sheet.
 We will be required to use a forward-looking expected credit loss model for accounts receivable and other financial instruments, including available-for-sale debt securities.
+While we are still evaluating the impact of this standard on our Consolidated Financial Statements, we do not currently believe it will have a material impact upon adoption.
 Note 2 - Acquisition of Mellanox Technologies, Ltd. On March 10, 2019, we entered into an Agreement and Plan of Merger, or the Merger Agreement, with Mellanox Technologies Ltd., or Mellanox, pursuant to which we will acquire all of the issued and outstanding common shares of Mellanox for $125 per share in cash, representing a total enterprise value of approximately $6.9 billion as of the date of the Merger Agreement.
+The cumulative-effect adjustment upon adoption of the new lease accounting standard resulted in the recognition of $470 million of operating lease assets and $500 million of operating lease liabilities on our Consolidated Balance Sheet.
+In addition to our existing operating lease obligations, we have entered into an operating lease that will commence in fiscal year 2021 with a lease term of 7 years for $62 million.
+Operating lease expense for the third quarter and first nine months of fiscal year 2020 was $28 million and $83 million, respectively.
+Operating lease expense for the third quarter and first nine months of fiscal year 2019 was $22 million and $58 million, respectively.
+Short-term and variable lease expenses for the third quarter and first nine months of fiscal year 2020 were not significant.
 
 
 item2.txt
-Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998.
-GPU business revenue was $2.56 billion, down 8% from a year earlier and up 22% sequentially.
 Tegra Processor business revenue - which includes Automotive, SOC modules for gaming platforms, and embedded edge AI platforms - was $449 million, up 10% from a year ago and down 5% sequentially.
-The year-on-year decrease reflects lower sales of GeForce desktop GPUs from the prior year which included the launch of Turing-based GeForce GPUs, partially offset by growth in GeForce notebook GPUs and SOC modules for gaming platforms.
-Professional Visualization revenue was $324 million, up 6% from a year earlier and up 11% sequentially.
-The sequential increase was primarily due to growth in entry-level GPUs for notebooks PCs.
-The year-on-year and sequential increases are primarily driven by improved margins on GeForce GPUs for gaming reflecting the sale of previously written-off components and lower component costs.
 Income from operations for the third quarter of fiscal year 2020 was $927 million, down 12% from a year earlier and up 62% sequentially.
-Net income and net income per diluted share for the third quarter of fiscal year 2020 were $899 million and $1.45, respectively, down 27% and 26%, respectively, from a year earlier, and up 63% and 61%, respectively, sequentially.
 On March 10, 2019, we entered into an Agreement and Plan of Merger, or the Merger Agreement, with Mellanox Technologies, Ltd., or Mellanox, pursuant to which we will acquire all of the issued and outstanding common shares of Mellanox for $125 per share in cash, representing a total enterprise value of approximately $6.9 billion as of the date of the Merger Agreement.
-We previously communicated our intent to return $3.00 billion to shareholders by the end of fiscal year 2020, including $700 million in share repurchases made during the fourth quarter of fiscal year 2019.
-In the first nine months of fiscal year 2020, we returned $292 million in quarterly cash dividends.
+In our Data Center platform, we introduced the NVIDIA CUDA-X AI platform for accelerating data science; announced availability of NVIDIA T4 Tensor Core GPUs from leading OEMs and Amazon Web Services; partnered with global system builders to create powerful data-science workstations integrating NVIDIA Quadro RTX GPUs and NVIDIA CUDA-X AI; and launched beta access to NVIDIA Quadro Virtual Workstation software in the Alibaba Cloud Marketplace.
+GPU business revenue decreased by 8% in the third quarter of fiscal year 2020 compared to the third quarter of fiscal year 2019, which reflects declines in GPUs sold for gaming and Data Center revenue.
+GeForce GPU product sales for gaming decreased 10%, reflecting a decline in shipments of desktop GPUs partially offset by revenue growth in notebook GPUs.
+GPU business revenue decreased by 18% in the first nine months of fiscal year 2020 compared to the first nine months of fiscal year 2019, which reflects declines in GPUs sold for gaming and Data Center revenue.
+GeForce GPU product sales for gaming decreased 22%, reflecting a decline in shipments of desktop GPUs partially offset by growth in notebook GPUs.
+Tegra Processor business revenue increased by 10% for the third quarter of fiscal year 2020 compared to the third quarter of fiscal year 2019.
+This was driven by an increase in revenue from SOC modules for gaming platforms, which was partially offset by a decline of 6% in Automotive revenue.
+Tegra Processor business revenue decreased by 15% for the first nine months of fiscal year 2020 compared to the first nine months of fiscal year 2019.
+This was driven by a decline in revenue from SOC modules for gaming platforms, which was partially offset by an increase of 12% in Automotive revenue.
+Revenue from sales to customers outside of the United States accounted for 92% of total revenue for the third quarter and first nine months of fiscal year 2020.
 
 
 item3.txt
@@ -43,7 +40,7 @@ item4.txt
 
 part2.txt
 Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019 for a prior discussion of our legal proceedings.
-Refer to the description of the risk factors associated with our business previously disclosed in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 27, 2019.
-Other than the risk factors listed below, there have been no material changes from the risk factors previously described under Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 27, 2019 and Item 1A of our Quarterly Report on Form 10-Q for the quarter ended April 28, 2019.
+Our corporate headquarters, and a portion of our research and development activities, are located in California, and other critical business operations, finished goods inventory, and some of our suppliers are located in Asia, near major earthquake faults known for seismic activity.
+Since the inception of our share repurchase program, we have repurchased an aggregate of 260 million shares under our share repurchase program for a total cost of $7.08 billion through October 27, 2019.
 
 

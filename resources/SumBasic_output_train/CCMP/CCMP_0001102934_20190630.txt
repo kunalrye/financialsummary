@@ -1,34 +1,32 @@
-fls.txt
-
-
-
 item1.txt
-The Consolidated Balance Sheets as of September 30, 2018 were derived from audited financial statements.
-Certain prior period amounts have been reclassified to conform to the current period presentation.
-The Consolidated Financial Statements include the accounts of Cabot Microelectronics and its subsidiaries.
-All intercompany transactions and balances between the companies have been eliminated as of June 30, 2019.
-However, future events are subject to change and estimates and judgments routinely require adjustment.
-The Company changed its accounting policy for revenue recognition for customer incentives that provide free products and tiered pricing.
-In prior fiscal years, in accordance with ASC 605, we did not consider prospective tiered pricing to represent a material right.
-We have determined that the effect of applying the new revenue standard during the three and nine months ended June 30, 2019 was immaterial to our financial statements compared to revenue guidance in effect before the adoption of the new revenue standard.
-A contract’s transaction price is allocated to each distinct performance obligation and recognized as revenue when, or as, the performance obligation is satisfied.
-A majority of the Company’s contracts have a single performance obligation which represents, in most cases, the products, equipment or services being sold to the customer.
-Some contracts include multiple performance obligations, including prospective tiered price discounts or delivery of free product that we have concluded represents a material right.
+For free products, the new revenue standard requires that a portion of the transaction price be allocated to the free product and deferred until the product has been delivered.
+Contracts with prospective tiered price discounts require judgment in determining if that discount represents a material right.
 Customers pay in accordance with negotiated terms upon receipt of goods or completion of services.
-Revenue is recognized on consignment sales when control transfers to the customer, generally at the point of customer usage of the product.
-The Company also records revenue for services provided to the pipeline and oilfield energy industries.
-Standalone selling price, once established, is then used to allocate total consideration proportionally to the various performance obligations within a contract.
-Early payment discounts are offered on a limited basis and are not significant.
+Revenue is recorded at a point in time when the services are completed as this is when right to payment and customer acceptance occurs.
+ASC 606 did not change the accounting for rebates under ASC 605.
+Under ASC 340, sales commissions are required to be capitalized and expensed over the associated contract period.
+However, as a practical expedient, the Company does not capitalize commissions as the associated contracts are generally one year or less in duration.
+2016-02, "Leases" (Topic 842).
+The guidance was amended through various ASU's subsequent to ASU 2016-02, all of which will be effective for us beginning October 1, 2019, but early adoption is permitted.
+In June 2016, the FASB issued ASU No.
+The guidance also eases certain documentation and assessment requirements and modifies the accounting for components excluded from the assessment of hedge effectiveness.
+We applied the new guidance to the interest rate swap that we entered into during our second quarter of fiscal 2019.
+The fair value of acquired property, plant and equipment is primarily valued at its “value-in-use.” The fair value of acquired identifiable intangible assets was determined using the “income approach” on an individual asset basis.
+The key assumptions used in the calculation of the discounted cash flows include projected revenue, gross margin, operating expenses, discount rate and customer attrition.
 
 
 item2.txt
-Except as required by law, Cabot Microelectronics undertakes no obligation to update forward-looking statements made by it to reflect new information, subsequent events or circumstances.
-In the Electronic Materials segment, we recorded lower CMP slurries revenue, which was partially offset by higher revenue in CMP pads and electronic chemicals.
-CMP slurries have a high participation to memory, and were adversely impacted by the decrease in DRAM and NAND production at our customers this year.
-In logic applications, the transition to advanced nodes by many of our top customers is driving increased demand for materials, particularly electronic chemicals.
-In our Performance Materials segment, we continue to record strong revenue this quarter, primarily driven by higher demand for our drag-reducing agents.
 These products enable pipeline operators to optimize the efficiency and throughput of oil transport in both U.S. and international oil production.
-Revenue for our third quarter of fiscal 2019 was $271.9 million, which represented an increase of 80.7% from the same quarter of fiscal 2018, primarily due to the Acquisition.
+The cost of sales from Cabot Microelectronics’ heritage businesses decreased by $3.8 million, primarily driven by lower sales volume.
+The change was primarily due to higher loss on foreign exchange in the current quarter and the absence of the gain on termination of interest rate swap agreements of $0.5 million that had occurred in the third quarter of fiscal 2018.
+Revenue was $759.1 million for the nine months ended June 30, 2019, which represented a 75.1%, or $325.7 million increase from the nine months ended June 30, 2018.
+Total research, development and technical expenses were $39.0 million for nine months ended June 30, 2019, which was relatively flat compared to the same period last year.
+Net income benefited from the addition of the KMG businesses, and the absence of the adverse impact of the Tax Act in the first quarter of fiscal 2018.
+Net income was partially offset by acquisition and integration-related expenses, a charge for fair value write-up of acquired inventory sold, increased amortization and depreciation associated with re-valuing KMG assets to fair value, higher interest expenses resulting from the debt borrowing to finance the Acquisition, and the increased tax expense related to newly issued final regulations related to US Tax Reform which impacted our reserves for uncertain tax positions.
+The remaining increase was driven by higher value product mix, strong organic demand for the Company’s heritage CMP polishing pads product line, which increased 11.1%, primarily on higher sales volume, partially offset by the decrease in Company's heritage CMP slurries products due to the softer industry conditions.
+Adjusted EBITDA for the Electronic Materials and Performance Materials segments is presented in conformity with Accounting Standards Codification Topic 280, Segment Reporting.
+This measure is reported to the chief operating decision maker for purposes of making decisions about allocating resources to the segments and assessing their performance.
+For these reasons, this measure is excluded from the definition of non-GAAP financial measures under the SEC Regulation G and Item 10(e) of Regulation S-K.
 
 
 item3.txt
@@ -41,9 +39,8 @@ item4.txt
 
 part2.txt
 We have identified our Performance Materials segment as another area of potential continued growth and the product offerings in our Performance Materials segment are similarly concentrated.
-Our success depends on our ability to keep pace with technological changes and advances in the industries in which we operate, particularly the semiconductor industry, and to adapt, improve and customize our products in response to evolving customer needs and industry trends.
-Our customers continually pursue lower cost of ownership and higher quality and performance of materials consumed in their manufacturing processes, including CMP slurries and pads and electronic chemicals, as a means to reduce costs, increase the yield in their manufacturing facilities, and achieve desired performance of the IC devices they produce.
-Our customer base is concentrated among a limited number of large customers in each of our segments.
-The semiconductor industry has been consolidating as the larger semiconductor manufacturers have generally grown faster than the smaller ones, through business gains, mergers and acquisitions, and strategic alliances.
+As such, our business would suffer if these products became obsolete or if consumption of these products decreased.
+Industry analysts predict that this trend will continue, which means the semiconductor industry will be comprised of fewer and larger participants in the future if their prediction is correct.
+We depend on our supply chain to enable us to meet the demands of our customers.
 
 

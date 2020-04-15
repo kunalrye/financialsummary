@@ -1,35 +1,31 @@
-fls.txt
-Although forward-looking statements in this report reflect the good faith judgment of our management, such statements can only be based on facts and factors currently known by us.
-
-
 item1.txt
-The Company’s highly innovative analog semiconductors are connecting people, places, and things, spanning a number of new and previously unimagined applications within the automotive, broadband, cellular infrastructure, connected home, industrial, medical, military, smartphone, tablet and wearable markets.
-Certain information and footnote disclosures, normally included in annual consolidated financial statements prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”), have been condensed or omitted pursuant to those rules and regulations.
-This information should be read in conjunction with the Company’s financial statements and notes thereto contained in the Company’s Annual Report on Form 10-K for the fiscal year ended September 29, 2017, filed with the SEC on November 13, 2017, as amended by Amendment No.
-Significant judgment is required in determining the reserves for and fair value of items such as overall fair value assessments of assets and liabilities, particularly those classified as Level 2 or Level 3 in the fair value hierarchy, inventory, intangible assets associated with business combinations, share-based compensation, loss contingencies, and income taxes.
-Fiscal year 2017 consisted of 52 weeks and ended on September 29, 2017.
-In March 2016, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") 2016-09, Improvements to Employee Share-Based Payment Accounting, which is intended to simplify several aspects of the accounting for share-based payment transactions, including the income tax consequences, classification of awards as either equity or liabilities, and classification on the statement of cash flows.
 The adoption also resulted in an increase in cash flow from operations and a decrease of cash flow from financing of $22.5 million for the six months ended March 30, 2018.
-of 2018 and applied it prospectively, as permitted by the standard.
 In August 2015, the FASB deferred the effective date of ASU 2014-09, Revenue from Contracts with Customers (Topic 606), which outlines a single comprehensive model for entities to use in accounting for revenue arising from contracts with customers and will supersede most current revenue recognition guidance.
-The new guidance is required to be applied retrospectively to each prior reporting period presented or retrospectively with the cumulative effect of initially applying it recognized at the date of initial application.
+Based on our preliminary assessments, we do not expect the new guidance to have a material impact on the nature, amount, and timing of our revenue recognition.
 This ASU requires lessees to reflect most leases on their balance sheet as assets and obligations.
-This ASU provides guidance on the presentation and classification of specific cash flow items to improve consistency within the statement of cash flows.
-2016-16, Income Taxes (Topic 740), Intra-entity Transfers of an Asset Other than Inventory (“ASU 2016-16”).
-This ASU provides guidance that changes the accounting for income tax effects of intra-entity transfers of assets other than inventory.
-The effective date for the standard is for fiscal years beginning after December, 15, 2017, on a modified retrospective basis, and early adoption is permitted.
-In May 2017, the FASB issued ASU 2017-09, Compensation-Stock Compensation (Topic 718), Scope of Modification Accounting.
+These amounts accrued for capital equipment purchases have been excluded from the consolidated statements of cash flows for the six months ended March 30, 2018, and are expected to be paid in subsequent periods.
+The description “Contribution of common shares to employee savings plan” has been reclassified from net cash provided by operating activities to net cash used in financing activities.
+•Level 3 - Fair value is derived from valuation techniques in which one or more significant inputs are unobservable, including assumptions and judgments made by the Company.
+The Company measures certain assets and liabilities at fair value on a recurring basis such as its financial instruments.
+The Company’s non-financial assets and liabilities, such as goodwill, intangible assets, and other long-lived assets resulting from business combinations, are measured at fair value using income approach valuation methodologies at the date of acquisition and are subsequently re-measured if there are indicators of impairment.
+There were no indicators of impairment identified during the three and six months ended March 30, 2018.
+There were no indicators of impairment noted during the three and six months ended March 30, 2018.
+The Company has not recorded any liability for these indemnities in the accompanying consolidated balance sheets and does not expect that such obligations will have a material adverse impact on its financial condition or results of operations.
+The repurchase program may be suspended or discontinued at any time.
 
 
 item2.txt
-We caution readers not to place undue reliance upon any such forward-looking statements, which speak only as of the date made.
 We, together with our consolidated subsidiaries, are empowering the wireless networking revolution.
-Our highly innovative analog semiconductors are connecting people, places, and things spanning a number of new and previously unimagined applications within the automotive, broadband, cellular infrastructure, connected home, industrial, medical, military, smartphone, tablet and wearable markets.
 This increase in revenue was primarily driven by our success in capturing a higher share of the increasing radio frequency and analog content per device as smartphone models continue to evolve, the increasing number of applications for the Internet of Things, and our expanding analog product portfolio supporting new vertical markets including automotive, industrial, medical and military.
-We generally experience seasonal peaks during the second half of the calendar year, primarily as a result of increased worldwide production of consumer electronics in anticipation of increased holiday sales, whereas our second fiscal quarter is typically lower and in line with seasonal industry trends.
-This increase in net revenue for the three and six months ended March 30, 2018, is primarily related to an increase in demand for our components from a key smartphone customer as compared with the corresponding period in fiscal year 2017, offset by decreases in average selling prices.
-Gross profit represents net revenue less cost of goods sold.
-Our cost of goods sold consists primarily of purchased materials, labor and overhead (including depreciation and share-based compensation expense) associated with product manufacturing.
+These positive impacts were partially offset by lower average selling prices with a gross profit impact of $79.8 million.
+Research and development expense increased as a percentage of net revenue when compared with the corresponding periods in fiscal year 2017 as a result of our increased investment in developing new product capabilities.
+Selling, general and administrative expenses for the three months ended March 30, 2018, increased as a percentage of net revenue due to the aforementioned increase in selling, general and administrative expenses.
+Selling, general and administrative expenses for the six months ended March 30, 2018, remained consistent as a percentage of net revenue when compared with the corresponding periods in fiscal year 2017.
+We do not anticipate any further significant charges associated with these restructuring activities.
+During the six months ended March 30, 2018, we also paid $6.0 million related to purchased intangibles.
+Based on our historical results of operations, we expect that our cash and cash equivalents on hand and the cash we expect to generate from operations will be sufficient to fund our research and development, capital expenditures, potential acquisitions, working capital, quarterly cash dividend payments (if such dividends are declared by the Board of Directors), outstanding commitments and other liquidity requirements associated with existing operations for at least the next 12 months.
+However, we cannot be certain that our cash on hand and cash generated from operations will be available in the future to fund all of our capital and operating requirements.
+Our invested cash balances primarily consist of highly liquid term deposits and money market funds where the underlying securities primarily consist of United States treasury obligations, United States agency obligations and repurchase agreements collateralized by United States government and agency obligations.
 
 
 item3.txt
@@ -38,11 +34,12 @@ Based on our results of operations for the three and six months ended March 30, 
 
 
 item4.txt
-The term “disclosure controls and procedures,” as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, means controls and other procedures of a company that are designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC’s rules and forms.
+
 
 
 part2.txt
-The semiconductor industry is characterized by vigorous protection and pursuit of intellectual property rights.
-From time to time the Company may also be involved in legal proceedings in the ordinary course of business.
+On November 15, 2017, we agreed to potentially issue not more than 1% of our common stock to an unaffiliated third party as contingent consideration for its role under a multi-year collaboration agreement.
+Though the timing is not certain, the Company does not expect achievement of the product sale milestones to occur any time prior to mid-2020.
+The Company has agreed to file a registration statement with the Securities and Exchange Commission registering the resale of any issued shares.
 
 
