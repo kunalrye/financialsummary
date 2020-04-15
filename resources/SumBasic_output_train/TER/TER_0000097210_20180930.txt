@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 All significant intercompany balances and transactions have been eliminated.
 Certain prior year amounts were reclassified to conform to the current year presentation.
 The accompanying financial information should be read in conjunction with the consolidated financial statements and notes thereto contained in Teradynes Annual Report on Form 10-K, filed with the U.S. Securities and Exchange Commission (SEC) on March 1, 2018, for the year ended December 31, 2017.
@@ -14,36 +9,9 @@ Teradyne uses input variables such as hours or months utilized or costs incurred
 Input variables are used as they best align consumption with benefit to the customer.
 Teradyne has concluded that revenue should be recognized when shipped or delivered based on contractual terms.
 In cases where acceptance is not deemed a formality, Teradyne will defer revenue recognition until customer acceptance.
-The following table provides information about disaggregated revenue by primary geographical market, major product line and timing of revenue recognition.
-Customers have the option to purchase an extended warranty, which extends the warranty period for systems and robots beyond the one-year standard warranty.
-The relative standalone selling price of the extended warranty is recognized ratably over the course of the extended warranty based on months completed.
-Teradyne sells training and applications support to customers either in standalone transactions or included with system purchases.
-These services include telephone support, bug fixes, and when-and-if available upgrades.
-Standalone selling price for PCS is not directly observable as Teradyne does not sell these services separately.
-Teradyne does not allow customer returns or provide refunds to customers for any products or services.
-
-
-item2.txt
-Statements in this Quarterly Report on Form 10-Q which are not historical facts, so called forward-looking statements, are made pursuant to the safe harbor provisions of Section 21E of the Securities Exchange Act of 1934, as amended.
+The following table provides information about disaggregated revenue by primary geographical market, major product line and timing of revenue recognition.Statements in this Quarterly Report on Form 10-Q which are not historical facts, so called forward-looking statements, are made pursuant to the safe harbor provisions of Section 21E of the Securities Exchange Act of 1934, as amended.
 See also Part II, Item 1A of this Quarterly Report on Form 10-Q and Part I, Item 1A Risk Factors in our Annual Report on Form 10-K for the year ended December 31, 2017.
 During the first quarter of 2018, demand outlook for mobile device test capacity in 2018 declined sharply for our Semiconductor Test business.
 On February 26, 2018, we acquired Energid Technologies Corporation (Energid) for a total purchase price of approximately $27.6 million.
 Energids technology enables and simplifies the programming of complex robotic motions used in a wide variety of end markets, ranging from heavy industry to healthcare, utilizing both traditional robots and collaborative robots.
-On April 25, 2018, we acquired Mobile Industrial Robots ApS (MiR), a Danish limited liability company.
-The maximum amount of contingent consideration that could be paid is $118.9 million.
-Universal Robots, MiR and Energid are included in our Industrial Automation segment.
-In accordance with ASC 606, revenue is recognized when or as a customer obtains control of promised goods or services.
-
-
-item3.txt
-The table below provides a sensitivity analysis of hypothetical 10% changes of Teradynes stock price as of the end of the third quarter of 2018 and the estimated impact on the fair value of the Notes.
-
-
-item4.txt
-
-
-
-part2.txt
-Our business operations and supply chain are global and may be disrupted by the implementation of tariffs and export controls on our products.
-
-
+On April 25, 2018, we acquired Mobile Industrial Robots ApS (MiR), a Danish limited liability company.Our business operations and supply chain are global and may be disrupted by the implementation of tariffs and export controls on our products.

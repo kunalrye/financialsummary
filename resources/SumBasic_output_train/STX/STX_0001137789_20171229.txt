@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 In addition to HDDs, the Company produces a broad range of data storage products including solid state drives (SSD) and their related controllers, solid state hybrid drives (SSHD) and storage subsystems.
 Hard disk drives are devices that store digitally encoded data on rapidly rotating disks with magnetic surfaces.
 Disk drives continue to be the primary medium of mass data storage due to their performance attributes, high quality and cost effectiveness.
@@ -13,37 +8,8 @@ The unaudited condensed consolidated financial statements include the accounts o
 Such adjustments are of a normal and recurring nature.
 The Company operates and reports financial results on a fiscal year of 52 or 53 weeks ending on the Friday closest to June 30.
 In May 2014, August 2015, April 2016, May 2016 and December 2016, the Financial Accounting Standards Board (FASB) issued ASU 2014-09 (ASC Topic 606), Revenue from Contracts with Customers, ASU 2015-14 (ASC Topic 606) Revenue from Contracts with Customers, Deferral of the Effective Date, ASU 2016-10 (ASC Topic 606) Revenue from Contracts with Customers, Identifying Performance Obligations and Licensing, ASU 2016-12 (ASC Topic 606) Revenue from Contracts with Customers, Narrow-Scope Improvements and Practical Expedients, and ASU 2016-20 (ASC Topic 606) Technical Corrections and Improvements to Topic 606, Revenue from Contracts with Customers, respectively.
-ASC Topic 606 outlines a single comprehensive model for entities to use in accounting for revenue arising from contracts with customers and supersedes most current revenue recognition guidance, including industry-specific guidance.
-Based on its assessment, the Company plans to adopt the new revenue standard in the first quarter of fiscal 2019, utilizing the modified retrospective method of transition.
-Accordingly, the Company will need to estimate variable consideration (e.g. rebates) related to customer incentives on these arrangements.
-The amendments in this ASU require entities to measure all investments in equity securities at fair value with changes recognized through net income.
-This requirement does not apply to investments that qualify for the equity method of accounting, to those that result in consolidation of the investee, or for which the entity meets a practicability exception to fair value measurement.
-Additionally, the amendments eliminate certain disclosure requirements related to financial instruments measured at amortized cost and add disclosures related to the measurement categories of financial assets and financial liabilities.
-Early adoption is permitted for only certain portions of the ASU.
-The Company expects to elect the measurement alternative for measurement of equity investments, defined as cost, less impairments, if any, plus or minus changes resulting from observable price changes in orderly transactions for an identical or similar investment in the same issuer (the Price Changes) until the equity investments fair value becomes readily determinable.
-
-
-item2.txt
-You should read this discussion in conjunction with financial information and related notes included elsewhere in this report.
+ASC Topic 606 outlines a single comprehensive model for entities to use in accounting for revenue arising from contracts with customers and supersedes most current revenue recognition guidance, including industry-specific guidance.You should read this discussion in conjunction with financial information and related notes included elsewhere in this report.
 Unless the context indicates otherwise, as used herein, the terms we, us, Seagate, the Company and our refer to Seagate Technology plc, an Irish public limited company, and its subsidiaries.
 References to $ are to United States dollars.
    Our Company.
-Overview of our business.
-An analysis of our financial results comparing the December 2017 quarter to the September 2017 quarter and the December 2016 quarter.
-An analysis of changes in our balance sheet and cash flows, and discussion of our financial condition including the credit quality of our investment portfolio and potential sources of liquidity.
-Our principal products are hard disk drives, commonly referred to as disk drives, hard drives or HDDs.
-
-
-item3.txt
-Interest Rate Risk.
-As of December 29, 2017, we had no available-for-sale securities that had been in a continuous unrealized loss position for a period greater than 12 months.
-
-
-item4.txt
-
-
-
-part2.txt
-Financial StatementsNote 14.
-
-
+Overview of our business.Interest Rate Risk.Financial StatementsNote 14.

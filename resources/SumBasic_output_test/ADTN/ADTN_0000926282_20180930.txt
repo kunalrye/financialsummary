@@ -1,8 +1,3 @@
-fls.txt
-We caution you that any forward-looking statements made by us or on our behalf are subject to uncertainties and other factors that could cause such statements to be wrong.
-
-
-item1.txt
 In the opinion of management, all adjustments necessary to fairly state these interim statements have been recorded and are of a normal and recurring nature.
 Our more significant estimates include the obsolete and excess inventory reserves, warranty reserves, customer rebates, determination of the deferred revenue components of multiple element sales agreements, estimated costs to complete obligations associated with deferred revenues, estimated income tax provision and income tax contingencies, the fair value of stock-based compensation, impairment of goodwill, valuation and estimated lives of intangible assets, estimated pension liability, fair value of investments, and the evaluation of other-than-temporary declines in the value of investments.
 ASU 2016-02 requires an entity to recognize lease assets and lease liabilities on the balance sheet and to disclose key information about the entity's leasing arrangements.
@@ -12,34 +7,9 @@ We believe the most significant effect relates to our accounting for operating l
 In August 2018, the FASB issued ASU 2018-13, Fair Value Measurement (Topic 820) Disclosure Framework-Changes to the Disclosure Requirements for Fair Value Measurement, which changes the fair value measurement disclosure requirements of ASC 820, Fair Value Measurement.
 The amendments in this ASU are the result of a broader disclosure project called, Concepts Statement No.
 8 - Conceptual Framework for Financial Reporting — Chapter 8, Notes to Financial Statements, which the FASB finalized on August 28, 2018.
-In addition, ASU 2018-13 requires disclosures regarding the uncertainty in the fair value measurements as of the reporting date and how changes in fair value measurements affect performance and cash flows.
-ASU 2018-13 is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019.
-In August 2018, the FASB issued ASU 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40), Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract.
-Specifically, ASU 2018-15 aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementations costs incurred to develop or obtain internal use software.
-These ASUs primarily affected our network implementation service revenue performance obligations and contract costs.
-SEI’s Broadband Networks Division, through its SEL subsidiary, operated a North American EPON business that included sales, marketing, support, and region-specific engineering development.
-The North American EPON market is primarily driven by the Tier 1 cable MSO operators and has developed more slowly than anticipated.
-
-
-item2.txt
-The following discussion should be read in conjunction with the Consolidated Financial Statements and the related notes that appear elsewhere in this document.
+In addition, ASU 2018-13 requires disclosures regarding the uncertainty in the fair value measurements as of the reporting date and how changes in fair value measurements affect performance and cash flows.The following discussion should be read in conjunction with the Consolidated Financial Statements and the related notes that appear elsewhere in this document.
 Our solutions enable voice, data, video and Internet communications across a variety of network infrastructures.
 These solutions are deployed by many of the United States’ and the world’s largest communications service providers (CSPs), distributed enterprises and small and medium-sized businesses, public and private enterprises, and millions of individual users worldwide.
 Our business is global.
 Our financial results in any period reflect the activities of our various customers in their respective regions at any given time.
-The lead times to revenues for these products vary.
-These include next generation PON projects with large carriers, both domestically and internationally, the beginnings of deployment for a large project in the APAC region, a significant network upgrade by a Tier 1 European customer, as well as continued expansion and opportunities for our EPON products to two of the top North American cable MSO operators.
-Margins on services revenue vary depending upon the types of services performed.
-Customer Devices includes our products and services that provide end users access to CSP networks.
-Our gross margin decreased to 41.6% and 38.1% in the three and nine months ended September 30, 2018, from 46.7% and 45.3% in the three and nine months ended September 30, 2017.
-
-
-item3.txt
-We maintain depository investments with certain financial institutions.
-As of September 30, 2018, approximately $63.0 million of our cash and investments may be directly affected by changes in interest rates.
-
-
-part2.txt
-
-
-
+The lead times to revenues for these products vary.We maintain depository investments with certain financial institutions.

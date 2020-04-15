@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 Consequently, we have not necessarily included all information and footnotes required for audited financial statements.
 In our opinion, the accompanying unaudited interim condensed consolidated financial statements reflect all adjustments (consisting only of normal recurring adjustments, except as otherwise indicated) necessary for a fair presentation of our financial position and results of operations.
 See “New Accounting Pronouncements” below and Note 8.
@@ -10,41 +5,12 @@ All amounts and disclosures set forth in this Form 10-Q reflect these changes.
 The condensed consolidated financial statements include the accounts of FICO and its subsidiaries.
 We also use estimates in determining the remaining economic lives and carrying values of acquired intangible assets, property and equipment, and other long-lived assets.
 Actual results may differ from our estimates.
-See Note 8 for further discussion on revenues.
-We adopted ASU 2014-09 in the first quarter of our fiscal 2019 using the full retrospective method which required us to adjust each prior reporting period presented.
-This adoption primarily affected timing of revenue recognition of license revenue on term licenses and transactional revenue on guaranteed minimum fees related to our on-premises software products.
-In addition, revenue attributable to a software license renewal is recognized at the beginning of the applicable renewal period rather than at the signing of the renewal agreement as required under the previous standard.
-Following the adoption of ASU 2014-09, the revenue recognition for our other sales arrangements remained materially consistent with our historical practice.
-Fair value is defined as the price that would be received from the sale of an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date.
-
-
-item2.txt
-We use analytics to help businesses automate, improve and connect decisions across their enterprise — an approach we commonly refer to as decision management.
+See Note 8 for further discussion on revenues.We use analytics to help businesses automate, improve and connect decisions across their enterprise — an approach we commonly refer to as decision management.
 Our predictive analytics, which includes the industry-standard FICO® Score, and our decision management systems leverage the use of big data and mathematical algorithms to predict, categorize, and describe consumer behavior in order to power hundreds of billions of customer decisions each year.
 We also serve consumers through online services that enable people to purchase and understand their FICO® Scores, the standard measure of consumer credit risk in the U.S., and empower them to manage their financial health.
 Most of our solutions address customer engagement, including customer acquisition, customer onboarding, customer servicing and management, and customer protection.
-We also help businesses improve non-customer decisions such as streamlining transaction and claims processing, optimizing logistics, and identifying and quantifying security risk.
-Our solutions enable users to make decisions that are more precise, consistent and agile, and that systematically advance business goals.
-A significant portion of our revenues are derived from the sale of products and services within the banking (including consumer credit) industry, and 86% and 84% of our revenues were derived from within this industry during the quarters ended March 31, 2019 and 2018, respectively, and 87% and 84% of our revenues were derived from within this industry during the six months ended March 31, 2019 and 2018, respectively.
-Scores revenue increased 20% to $104.4 million during the quarter ended March 31, 2019 from $87.1 million during the quarter ended March 31, 2018, and 22% to $190.1 million during the six months ended March 31, 2019 from $155.5 million during the six months ended March 31, 2018.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-The market may be unreceptive to our general DM business approach, including being unreceptive to purchasing multiple products from us, unreceptive to our customized solutions, or unreceptive to our cloud-based offerings.
+We also help businesses improve non-customer decisions such as streamlining transaction and claims processing, optimizing logistics, and identifying and quantifying security risk.The market may be unreceptive to our general DM business approach, including being unreceptive to purchasing multiple products from us, unreceptive to our customized solutions, or unreceptive to our cloud-based offerings.
 As we continue to pursue our DM strategy, we may experience volatility in our revenues and operating results caused by various factors, including differences in revenue recognition treatment between our cloud-based offerings and on-premise software licenses, the timing of investments and other expenditures necessary to develop and operate our cloud-based offerings, and the adoption of new sales and delivery methods.
 Our growth and the success of our DM strategy depend upon our ability to develop and sell new products or suites of products, including the development and sale of our cloud-based product offerings.
 In the past, we have experienced delays while developing and introducing new products and product enhancements, primarily due to difficulties developing models, acquiring data, and adapting to particular operating environments or certain client or other systems.
 We have also experienced errors or “bugs” in our software products, despite testing prior to release of the products.
-We rely on relatively few customers, as well as our contracts with the three major credit reporting agencies, for a significant portion of our revenues and profits.
-Many of our customers are significantly larger than we are and may have greater bargaining power.
-The businesses of our largest customers depend, in large part, on favorable macroeconomic conditions.
-
-

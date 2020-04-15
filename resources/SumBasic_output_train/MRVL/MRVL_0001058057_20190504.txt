@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 Certain information and footnote disclosures normally included in financial statements prepared in accordance with U.S. generally accepted accounting principles (“U.S.
 GAAP”) have been condensed or omitted as permitted by the SEC.
 Certain prior year amounts have been reclassified to conform to current year presentation.
@@ -12,39 +7,11 @@ The additional week in a 53-week year is added to the fourth quarter, making suc
 Fiscal 2019 had a 52-week year.
 Fiscal 2020 is a 52-week year.
 The Company adopted the new lease accounting standard on February 3, 2019, using the modified retrospective approach by applying the new standard to leases existing at the date of initial application and not restating comparative periods.
-In June 2016, the FASB issued a new standard requiring financial assets measured at amortized cost be presented at the net amount expected to be collected, through an allowance for credit losses that is deducted from the amortized cost basis.
-In August 2018, the FASB issued an accounting standards update to align the requirements for capitalizing implementation costs incurred in a software hosting arrangement that is a service contract and costs to develop or obtain internal-use software.
-The guidance must be applied retrospectively as of the date of initial application of the revenue recognition standard.
-In addition, entities may elect to apply the guidance to all collaborative arrangements or only to collaborative arrangements that are not completed as of the date of initial application of the aforementioned revenue recognition standard.
-The Company elected the package of practical expedients permitted under the transition guidance within the new standard, which among other things, allows the Company to carry forward the historical lease classification.
-The Company's leases include facility leases and data center leases, which are all classified as operating leases.
-For data center leases, the Company elected the practical expedient to account for the lease and non-lease component as a single lease component.
-
-
-item2.txt
-This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), which are subject to the “safe harbor” created by those sections.
-•the outcome of pending or future litigation and legal and regulatory proceedings.
-These forward-looking statements speak only as of the date hereof.
-
-
-item3.txt
-See “Note 8 - Debt” for further information.
-
-
-item4.txt
-
-
-
-part2.txt
-The information under the caption “Contingencies” as set forth in “Note 10 – Commitments and Contingencies” of our Notes to Unaudited Condensed Consolidated Financial Statements, included in Part I, Item 1, is incorporated herein by reference.
+In June 2016, the FASB issued a new standard requiring financial assets measured at amortized cost be presented at the net amount expected to be collected, through an allowance for credit losses that is deducted from the amortized cost basis.This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), which are subject to the “safe harbor” created by those sections.
+•the outcome of pending or future litigation and legal and regulatory proceedings.The information under the caption “Contingencies” as set forth in “Note 10 – Commitments and Contingencies” of our Notes to Unaudited Condensed Consolidated Financial Statements, included in Part I, Item 1, is incorporated herein by reference.
 Our stock is traded on the NASDAQ stock exchange under the ticker symbol “MRVL”.
 As a result of stock price volatility, we may be subject to securities class action litigation.
 Our sales are concentrated in a few large customers.
 Net revenue from our two largest customers represented 22% and 31% of our net revenue for the three months ended May 4, 2019 and May 5, 2018, respectively.
 For example, the recent US government export restrictions on a Chinese customer, Huawei Technologies Co. Ltd., has dampened demand for our products, adding to the already challenging macroeconomic environment.
 This export restriction was implemented in the second week of our second quarter of fiscal year 2020, limiting revenue from that customer to shipments during a short period during the quarter.
-Our long-term strategy may include identifying and acquiring, investing in or merging with suitable candidates on acceptable terms, or divesting of certain business lines or activities.
-•unavailability of acquisition financing on reasonable terms or at all.
-Given that our resources are limited, our decision to pursue a transaction has opportunity costs; accordingly, if we pursue a particular transaction, we may need to forgo the prospect of entering into other transactions that could help us achieve our strategic objectives.
-
-

@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 Simulations Plus, Inc.
 This report on Form 10-Q for the quarter ended November 30, 2017, should be read in conjunction with the Company's annual report on Form 10-K for the year ended August 31, 2017, filed with the Securities and Exchange Commission (“SEC”) on November 14, 2017.
 The interim financial data are unaudited; however, in the opinion of Simulations Plus, Inc. ("we", "our", "us"), the interim data includes all adjustments, consisting only of normal recurring adjustments, necessary for a fair statement of the results for the interim periods.
@@ -11,16 +6,7 @@ On September 2, 2014, Simulations Plus, Inc. acquired all of the outstanding equ
 The Company designs and develops pharmaceutical simulation software to promote cost-effective solutions to a number of problems in pharmaceutical research and in the education of pharmacy and medical students, and it provides consulting services to the pharmaceutical and chemical industries.
 Recently, the Company has begun to explore developing software applications for defense and for health care outside of the pharmaceutical industry.
 Our financial statements and accompanying notes are prepared in accordance with accounting principles generally accepted in the United States of America.
-These estimates and assumptions are affected by management’s application of accounting policies.
-Significant accounting policies for us include revenue recognition, accounting for capitalized computer software development costs, valuation of stock options, and accounting for income taxes.
-Certain numbers in the prior year have been reclassified to conform to the current year's presentation.
-Other software modifications result in new, additional cost modules that expand the functionality of the software.
-These are licensed separately.
-We consider the modifications that are provided without charge to be minimal, as they do not significantly change the basic functionality or utility of the software, but rather add convenience, such as being able to plot some additional variable on a graph in addition to the numerous variables that had been available before, or adding some additional calculations to supplement the information provided from running the software.
-
-
-item2.txt
-Item 2.
+These estimates and assumptions are affected by management’s application of accounting policies.Item 2.
 The forward-looking statements contained or incorporated by reference in this document are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (“Securities Act”) and Section 21E of the Securities Exchange Act of 1934, as amended (“Exchange Act”) and are subject to the safe harbor created by the Private Securities Litigation Reform Act of 1995.
 Our clinical-pharmacology-based consulting services include pharmacokinetic and pharmacodynamic modeling, clinical trial simulations, data programming, and technical writing services in support of regulatory submissions.
 The acquisition of DILIsym positions the Company as the leading provider of Drug Induced Liver Injury (DILI) modeling and simulation software and contract research services.
@@ -29,21 +15,3 @@ As such, DILIsym can be a single program that addresses a wide variety of molecu
 Both the DILIsym and NAFLDsym software programs require outputs from physiologically based pharmacokinetics (PBPK) software as inputs.
 Our flagship product, and currently our largest single source of software revenue, is GastroPlus.
 Because of the widespread use of GastroPlus, we were the only non-European company invited to join the European Innovative Medicines Initiative (IMI) program for Oral Bioavailability Tools (OrBiTo).
-We believe our investment to participate in this initiative enabled us to benefit from, and to contribute to, advancing the prediction of human oral bioavailability from preclinical data, and ensured that we are well-known to member pharmaceutical companies and regulatory agencies.
-As one of only two U.S. participants, Simulations Plus is participating in activities designed to advance particle designs for improved deposition and interaction with lung tissue; promote realistic computer simulations of particle aerosolization, delivery, and deposition; promote patient-tailored inhaled medicines; promote integration of device and formulation design; and promote critical assessment of toxicity issues and related risks.
-In September 2014, we entered into a research collaboration agreement (RCA) with the FDA to enhance the Ocular Compartmental Absorption and Transit (OCAT™) model within the Additional Dosing Routes Module of GastroPlus.
-The objective of this agreement was to provide a tool for generic companies and the FDA to assess the likely bioequivalence of generic drug formulations dosed to the eye.
-
-
-item3.txt
-As of November 30, 2017 and August 31, 2017, we had cash and cash equivalents of $7.05 million and $6.22 million, respectively.
-
-
-item4.txt
-
-
-
-part2.txt
-We are not a party to any legal proceedings and are not aware of any pending legal proceedings of any kind.
-
-

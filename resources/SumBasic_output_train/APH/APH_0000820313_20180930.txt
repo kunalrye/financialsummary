@@ -1,8 +1,3 @@
-fls.txt
-Forward-looking statements by their nature address matters that are, to different degrees, uncertain, such as statements about expected earnings, revenues, growth, liquidity or other financial matters.
-
-
-item1.txt
 All material intercompany balances and transactions have been eliminated in consolidation.
 The condensed consolidated financial statements included herein are unaudited.
 In the opinion of management, all adjustments, consisting of normal recurring adjustments, necessary for a fair presentation in conformity with accounting principles generally accepted in the United States of America have been included.
@@ -19,31 +14,4 @@ The Securities and Exchange Commission has also recently issued several final ru
 33-10532 Disclosure Update and Simplification (“Final Rule”), which amends certain redundant, duplicative, outdated, superseded or overlapping disclosure requirements.
 This Final Rule is intended to facilitate disclosure information provided to investors and simplify compliance without significantly impacting the mix of information provided to investors.
 The amendments also expand the disclosure requirements regarding the analysis of stockholders' equity for interim financial statements, in which entities will be required to present a reconciliation for each period for which a statement of comprehensive income is required to be filed.
-Prior to the adoption of Topic 606, the Company’s revenue recognition policy was in accordance with ASC Topic 605, Revenue Recognition.
-Effective January 1, 2018, the Company adopted Topic 606 using the modified retrospective transition method, resulting in accounting policy changes surrounding revenue recognition which replaced certain related policies discussed under Critical Accounting Policies and Estimates (in Item 7) and Summary of Significant Accounting Policies (in Note 1) of the Company’s 2017 Annual Report.
-For each contract, the promise to transfer the control of the products, each of which is individually distinct, is considered to be the identified performance obligation.
-As part of the consideration promised in each contract, the Company evaluates the customer’s credit risk.
-Our contracts do not have any significant financing components, as payment terms are generally due net 30 to 120 days after delivery.
-Although products are almost always sold at fixed prices, in determining the transaction price, we evaluate whether the price is subject to refund (due to returns) or adjustment (due to volume discounts, rebates, or price concessions) to determine the net consideration we expect to be entitled to.
-We allocate the transaction price to each distinct product based on its relative standalone selling price.
-Based on the respective contract terms, most of our contracts’ revenues are recognized either (i) upon shipment based on free on board (“FOB”) shipping point, (ii) when the product arrives at its destination or (iii) when the product is pulled from consignment inventory.
-For the contracts recognized over time, we typically record revenue using the input method, based on the materials and labor costs incurred to date relative to the contract’s total estimated costs.
-This method reasonably depicts when and as control of the goods transfers to the customer, since it measures our progress in producing the goods, which is generally commensurate with this transfer of control.
-
-
-item2.txt
-
-
-
-item3.txt
-The Company may borrow under its Revolving Credit Facility and Commercial Paper Programs.
-
-
-item4.txt
-The Company’s management, with the participation of the Company’s Chief Executive Officer and Chief Financial Officer, has evaluated the effectiveness of the design and operation of our disclosure controls and procedures, pursuant to Rules 13a-15(e) or 15d-15(e) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), as of the end of the period covered by this report.
-
-
-part2.txt
-Item 1.
-
-
+Prior to the adoption of Topic 606, the Company’s revenue recognition policy was in accordance with ASC Topic 605, Revenue Recognition.Item 1.
