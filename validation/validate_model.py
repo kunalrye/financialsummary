@@ -8,12 +8,16 @@ from tabulate import tabulate
 from statistics import mean, median, stdev
 import os
 from collections import defaultdict
-from validation.precision_recall import compute_jaccard_index
+from validation.precision_recall import compute_jaccard_index, compute_precision, compute_recall, compute_f1
+from validation.topic_coverage import TopicCoverageValidation
 
 
 
-MODEL_LIST = ["lda", "textrank", "lsa", "textrank", "Lunh", "SumBasic"]
+MODEL_LIST = ["lda", "textrank", "LSA", "textrank", "Lunh", "SumBasic", "Reduction", "KL"]
 VALIDATION_SET_PATH = "resources/validation_set"
+
+
+global topic_validator 
 
 
 def assess_models(annotated_fname, manual_set):
@@ -21,13 +25,19 @@ def assess_models(annotated_fname, manual_set):
     Assess a given manual set of lines
     :param manual_set: a set of sentences that we want the model to extract from the corresponding file
     :param annotated_fname: the filename holding the contents of the manual set
-    :return:
+    :return: two dictionaries: the first maps a validation filename to the jaccard scores for each model
+                                the second maps a validation filename to the topic vector for each model
     """
-    model_results = {}
+    recall_results = {}
+    precision_results = {}
+    f1_results = {}
+    jaccard_results = {}
+    topic_results = {}
 
     ## get a list of all directories in the resource directory
     d = "resources"
     subdirs = [os.path.join(d, o) for o in os.listdir(d) if os.path.isdir(os.path.join(d, o))]
+
 
     for model in MODEL_LIST:
         try:
@@ -52,21 +62,40 @@ def assess_models(annotated_fname, manual_set):
             continue
 
         generated_set = set(generated_file.read().splitlines())
-        jac_idx = compute_jaccard_index(manual_set, generated_set)
-        model_results[model] = jac_idx
-    return model_results
+
+        # compute the precision, recall, and f1_scores for this model
+        precision_results[model] = compute_precision(manual_set, generated_set)
+        recall_results[model] = compute_recall(manual_set, generated_set)
+        f1_results[model] = compute_f1(manual_set, generated_set)
+        # compute the jaccard index scores for this model
+        jaccard_results[model] = compute_jaccard_index(manual_set, generated_set)
+        # compute the topic scores for this model
+        topic_results[model] = topic_validator.compute_topic_scores(generated_set)
+
+
+    return precision_results, recall_results, f1_results, jaccard_results, topic_results
 
 
 
 def run_assessment():
-    results = {}
+    recall_results = {}
+    precision_results = {}
+    f1_results = {}
+    jaccard_results = {}
+    topic_results = {}
+
     ## loop through each manually annotated file
     for root, dirs, files in os.walk(VALIDATION_SET_PATH):
         for fname in files:
             annotated_file = open(os.path.join(VALIDATION_SET_PATH, fname),encoding='utf-8').read()
             manual_set = set(annotated_file.splitlines())
-            results[fname] = assess_models(fname, manual_set)
-    return results
+            precision, recall, f1, jaccard, topic = assess_models(fname, manual_set)
+            recall_results[fname] = recall
+            precision_results[fname] = precision
+            f1_results[fname] = f1
+            jaccard_results[fname] = jaccard
+            topic_results[fname] = topic
+    return precision_results, recall_results, f1_results, jaccard_results, topic_results
 
 
 
@@ -78,7 +107,7 @@ def tabulate_results(results):
             of that model on the annotated filename
 
             Will take the form {"filename": {"model_name": metric_score, "model_name2": metric_score}, "filename2": ...}
-    :return: nothing, prints the table to stdout
+    :return: the table (also prints to stdout)
     """
     # takes the form [<filename>, model1score, model2score,...]
     rows = []
@@ -124,17 +153,27 @@ def tabulate_results(results):
     headers.append("file's best model")
     table = tabulate(rows, headers)
     print(table)
+    return table
 
 
 
 if __name__ == "__main__":
+    topic_validator = TopicCoverageValidation()
+    headers = ['precision_results', 'recall_results', 'f1_results', 'jaccard_results', 'topic_results']
     results = run_assessment()
-    for fname, model_scores in results.items():
-        print(fname, model_scores)
-    print("\n\n")
-    tabulate_results(results)
+    scoring_results = ""
+    for header, result in zip(headers, results):
+        print("\n\n" + header)
+        table = tabulate_results(result)
+        scoring_results += header
+        scoring_results += "\n"
+        scoring_results += str(table)
+        scoring_results += "\n\n\n\n"
+    with open("validation/scoring.txt", 'w') as f:
+        f.write(str(scoring_results))
+    f.close()
 
 
 
 
-
+    
