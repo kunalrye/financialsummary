@@ -341,7 +341,7 @@ def separate_item(directory, tokenized):
                 part_two(new_path, file_key, data)
                 forward_looking(new_path, file_key, data)
 
-                print(company + "completed separating into sections")
+                print(company + " completed separating into sections")
 
                 if tokenized:
                     items = str((os.path.join(subdir) + "/itemized/"))

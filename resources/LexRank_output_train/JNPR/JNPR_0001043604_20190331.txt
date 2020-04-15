@@ -1,0 +1,50 @@
+fls.txt
+
+
+
+item1.txt
+The unaudited Condensed Consolidated Financial Statements of Juniper Networks, Inc. (the “Company” or “Juniper”) have been prepared in accordance with U.S. generally accepted accounting principles (“U.S.
+Accordingly, they do not include all of the information and footnotes required by U.S. GAAP for complete financial statements.
+The results of operations for the three months ended March 31, 2019 are not necessarily indicative of the results that may be expected for the year ending December 31, 2019, or any future period.
+Except for the change in certain policies upon adoption of the accounting standards described below, there have been no material changes to the Company's significant accounting policies, compared to the accounting policies described in Note 2, Significant Accounting Policies, in Notes to Consolidated Financial Statements in Item 8 of Part II of the Form 10-K.
+The adoption of the standard had no impact on the Company's Condensed Consolidated Statements of Operations and Condensed Consolidated Statements of Cash Flows or debt-covenant compliance under its current agreements.
+Operating leases are included in operating lease ROU assets, other accrued liabilities, and operating lease liabilities on the Company's Condensed Consolidated Balance Sheets.
+Operating lease ROU assets and liabilities are recognized at commencement date based on the present value of lease payments over the lease term.
+The Company's lease terms are the noncancelable period including any rent-free periods provided by the lessor and include options to extend or terminate the lease when it is reasonably certain that it will exercise that option.
+At lease inception, and in subsequent periods as necessary, the Company estimates the lease term based on its assessment of extension and termination options that are reasonably certain to be exercised.
+The Company does not separate non-lease components from lease components for all underlying classes of assets.
+In addition, the Company does not recognize ROU assets and lease liabilities for short-term leases, which have a lease term of twelve months or less and do not include an option to purchase the underlying asset that the Company is reasonably certain to exercise.
+For available-for-sale debt securities that have unrealized losses, the Company assesses impairment by evaluating various factors, including whether (i) it has the intention to sell any of these investments and (ii) whether it is more likely than not that it will be required to sell any of these investments before recovery of the entire amortized cost basis.
+The gross unrealized losses related to these investments were primarily due to changes in market interest rates.
+The Company anticipates that it will recover the entire amortized cost basis of such available-for-sale debt securities and has determined that no other-than-temporary impairments associated with credit losses were required to be recognized during the three months ended March 31, 2019 and March 31, 2018.
+During the three months ended March 31, 2019 and March 31, 2018, there were no material gross realized gains or losses from available-for-sale debt securities.
+
+
+item2.txt
+Each of these decisions has some impact on the financial results for any given period.
+We believe our software revenues as a percentage of total revenues will increase over time as we introduce new software product offerings and business models designed to better monetize the value of our software offerings.
+We believe the network needs for our customers in our Cloud, Service Provider, and Enterprise verticals are converging, as these customers recognize the need for high performance networks and are adopting cloud architectures for their infrastructure and service delivery, such as large public and private data centers and service provider edge data centers, for improved agility and greater levels of operating efficiency.
+
+
+item3.txt
+
+
+
+item4.txt
+
+
+
+part2.txt
+For example, we, and many companies in our industry, experience adverse seasonal fluctuations in customer spending, particularly in the first quarter.
+We expect our gross margins and operating margins to vary over time.
+We can provide no assurance that we will be able to achieve all or any of the goals of these plans or meet our announced expectations, in whole or in part, or that our plans will have the intended effect of improving our margins on the expected timeline, or at all.
+A limited number of our customers comprise a material portion of our revenues and any changes in the way they purchase products and services from us could affect our business.
+A material portion of our net revenues, across each customer vertical, depends on sales to a limited number of customers and distribution partners.
+In the security market, we face intense competition from Cisco and Palo Alto Networks, as well as companies such as Check Point, and Fortinet.
+In particular, customers making critical decisions regarding the design and implementation of large network deployments may engage in very lengthy procurement processes that may delay or impact expected future orders.
+Customers with large networks usually expand their networks in large increments on a periodic basis.
+Due to the cost, complexity and custom nature of configurations required by our customers, we generally build our network equipment products as orders are received.
+The introduction of new software products and services is part of our intended strategy to expand our software business, and certain software revenues may be recognized periodically over the term of the relevant use period or subscription period.
+As a result, certain software, subscription and support and maintenance revenue we report each fiscal quarter is the recognition of deferred revenue from contracts entered into during previous fiscal quarters.
+
+

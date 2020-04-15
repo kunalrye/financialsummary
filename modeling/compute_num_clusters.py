@@ -12,8 +12,8 @@ ex. AAPL_0000320193_20171230: {'item2': 15, 'item1': 14, ...}
 import os
 import math
 from collections import defaultdict
-SUMMARY_LEN = 30
-BIAS = 0.1
+SUMMARY_LEN = 20
+BIAS = 0.2
 
 
 def calculate_cluster_dict_for_doc(in_comp_dirpath, full_doc_name):
@@ -53,6 +53,7 @@ def calculate_cluster_dict_for_doc(in_comp_dirpath, full_doc_name):
                 else:
                     # subtract the BIAS equally from every other section
                     proportion = lines/total_lines - (BIAS / (num_sects - 1))
+                    proportion = proportion if proportion > 0 else 0
 
                 sect_num_clusters = math.ceil(proportion * SUMMARY_LEN)
                 cluster_sizes[sect_identifier] = sect_num_clusters

@@ -1,0 +1,46 @@
+fls.txt
+
+
+
+item1.txt
+The results of operations for the three and six months ended June 30, 2018 are not necessarily indicative of the results that may be expected for the year ending December 31, 2018, or any future period.
+Except for the change in certain policies upon adoption of the accounting standards described below, there have been no material changes to the Company's significant accounting policies, compared to the accounting policies described in Note 2, Significant Accounting Policies, in Notes to Consolidated Financial Statements in Item 8 of Part II of the Form 10-K. Revenue is recognized when promised goods or services are transferred to customers in an amount that reflects the consideration to which the Company expects to be entitled in exchange for those goods or services by following a five-step process, (1) identify the contract with a customer, (2) identify the performance obligations in the contract, (3) determine the transaction price, (4) allocate the transaction price, and (5) recognize revenue when or as the Company satisfies a performance obligation, as further described below.
+Certain software licenses and related post-contract support are combined into a single performance obligation when the maintenance updates are critical to the continued functionality of the software.
+The transaction price for the Company’s contracts with its customers consists of both fixed and variable consideration provided it is probable that a significant reversal of revenue will not occur when the uncertainty related to variable consideration is resolved.
+Fixed consideration includes amounts to be contractually billed to the customer while variable consideration includes estimates for rights of return, rebates, and price protection, which are based on historical sales returns and price protection credits, specific criteria outlined in rebate agreements, and other factors known at the time.
+The Company’s contracts with customers typically do not include significant financing components as the period between the transfer of performance obligations and timing of payment are generally within one year.
+Revenue from training and professional services is recognized over time as services are completed or ratably over the contractual period of generally one year or less.
+These costs are deferred and then amortized over a period of benefit which is typically over the term of the customer contracts as initial commission rates and renewal rates are the same.
+For available-for-sale debt securities that have unrealized losses, the Company assesses impairment by evaluating various factors, including whether (i) it has the intention to sell any of these investments and (ii) whether it is more likely than not that it will be required to sell any of these investments before recovery of the entire amortized cost basis.
+The Company anticipates that it will recover the entire amortized cost basis of such available-for-sale debt securities and has determined that no other-than-temporary impairments associated with credit losses were required to be recognized during the three and six months ended June 30, 2018 and June 30, 2017.
+As of June 30, 2018, the carrying value of restricted cash and investments was $59.3 million, of which $29.0 million was included in prepaid expenses and other current assets and $30.3 million was included in other long-term assets on the Condensed Consolidated Balance Sheet.
+All of the Company's privately-held debt and redeemable preferred stock securities are classified as Level 3 assets due to the lack of observable inputs to determine fair value.
+The Company estimates the fair value of its privately-held debt and redeemable preferred stock securities on a recurring basis using an analysis of the financial condition and near-term prospects of the investee, including recent financing activities and the investee's capital structure.
+Certain of the Company's assets, including intangible assets and goodwill are measured at fair value on a nonrecurring basis, when they are deemed to be other-than temporarily impaired.
+Equity investments without readily determinable fair value are measured at fair value, when they are deemed to be impaired or when there is an adjustment from observable price changes.
+
+
+item2.txt
+To aid in understanding our operating results for the periods covered by this Report, we have provided an executive overview, which includes a summary of our business and market environment along with a financial results and key performance metrics overview.
+We are focused on and continue to see significant opportunities from the implementation of cloud architectures, such as large public and private data centers, as well as distributed cloud infrastructure, which resides in multiple, distributed data centers in order to place applications or services closer to end users, such as enabling security and "network-as-a-service."
+We believe the network needs for our customers in our Service Provider, Cloud and Enterprise verticals are converging, as these customers recognize the need for high performance networks and leveraging the cloud for improved agility and greater levels of operating efficiency.
+
+
+item4.txt
+
+
+
+part2.txt
+The information set forth under the “Legal Proceedings” section in Note 13, Commitments and Contingencies, in Notes to Condensed Consolidated Financial Statements in Item 1 of Part I of this Report, is incorporated herein by reference.
+For example, in fiscal year 2017, our margins decreased as compared to fiscal year 2016, primarily due to lower product net revenues and product mix, resulting from the year-over-year decline in routing revenues, our customers' architectural shifts, and higher costs of certain memory components.
+In fiscal year 2015, our margins increased compared to fiscal year 2014, as a result of higher restructuring and other charges recorded in 2014 but not in 2015, in connection with the restructuring plan we initiated in the first quarter of 2014.
+We can provide no assurance that we will be able to achieve all or any of the goals of these plans or meet our announced expectations, in whole or in part, or that our plans will have the intended effect of improving our margins on the expected timeline, or at all.
+A limited number of our customers comprise a material portion of our revenues and any changes in the way they purchase products and services from us could affect our business.
+A substantial portion of our business and revenues depends on the growth of secure IP infrastructure and on the deployment of our products by customers that depend on the continued growth of IP services.
+As a result of changes in the economy, capital spending or the building of network capacity in excess of demand, all of which have in the past particularly affected telecommunications service providers, spending on IP infrastructure can vary, which could have a material adverse effect on our business, financial condition, and results of operations.
+For example, in recent quarters, our switching and routing results were adversely affected by spending delays from our largest Cloud customers, who we believe are in the process of implementing a networking architectural shift.
+Our ability to successfully offer our products and services in a rapidly evolving market requires an effective planning, forecasting, and management process to enable us to effectively scale and adjust our business and business models in response to fluctuating market opportunities and conditions.
+Further, a number of other small public and private companies have products or have announced plans for new products to address the same challenges and markets that our products address.
+Timing of deployment can vary widely and depends on the skill set of the customer, the size of the network deployment, the complexity of the customer's network environment, and the degree of hardware and operating system configuration necessary to deploy the products.
+
+

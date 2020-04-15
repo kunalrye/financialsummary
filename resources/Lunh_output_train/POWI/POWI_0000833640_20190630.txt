@@ -1,0 +1,49 @@
+fls.txt
+Forward-looking statements are identified by the use of the words “would,” “could,” “will,” “may,” “expect,” “believe,” “should,” “anticipate,” “if,” “future,” “intend,” “plan,” “estimate,” “potential,” “target,” “seek,” or “continue” and similar words and phrases, including the negatives of these terms, or other variations of these terms, that denote future events.
+
+
+item1.txt
+The condensed consolidated financial statements should be read in conjunction with the Power Integrations, Inc. consolidated financial statements and the notes thereto for the year ended December 31, 2018, included in its Form 10-K filed on February 13, 2019, with the Securities and Exchange Commission.
+Except for the adoption of the new accounting standards for leases mentioned below, no material changes have been made to the Company’s significant accounting policies disclosed in Note 2, Significant Accounting Policies and Recent Accounting Pronouncements, in its Annual Report on Form 10-K, filed on February 13, 2019, for the year ended December 31, 2018.
+The Company adopted the new standards in the first quarter of 2019, effective January 1, 2019, using the optional transition method, under which the new standards were applied prospectively rather than restating the prior periods presented.
+The Company elected the practical expedients under the transition guidance, which includes the use of hindsight in determining the lease term and the practical expedient package to not reassess whether any expired or existing contracts are or contain leases, to not reassess the classification of any expired or existing leases, and to not reassess initial direct costs for any existing leases.
+The Company did not transfer any investments between Level 1 and Level 2 of the fair-value hierarchy in the six months ended June 30, 2019, and the twelve months ended December 31, 2018.
+Stock-based compensation expense in the three months ended June 30, 2019, was approximately $5.5 million, comprising approximately $4.2 million related to restricted stock unit (RSU) awards, $0.9 million related to performance-based (PSU) awards and long-term performance-based (PRSU) awards and $0.4 million related to the Company’s employee stock purchase plan.
+In the six months ended June 30, 2019, stock-based compensation expense was approximately $9.9 million, comprising approximately $8.8 million related to RSUs, $0.3 million related to PSUs and PRSUs and $0.8 million related to the Company’s employee stock purchase plan.
+Stock-based compensation expense in the three months ended June 30, 2018, was approximately $6.1 million, comprising approximately $3.9 million related to RSUs, $1.8 million related to PSUs and PRSUs and $0.4 million related to the Company’s employee stock purchase plan.
+In the six months ended June 30, 2018, stock-based compensation expense was approximately $11.7 million, comprising approximately $8.2 million related to RSUs, $2.7 million related to PSUs and PRSUs and $0.8 million related to the Company’s employee stock purchase plan.
+Under the performance-based awards program, the Company grants awards in the performance year in an amount equal to twice the target number of shares to be issued if the maximum performance metrics are met.
+The number of shares that are released at the end of the performance year can range from zero to 200% of the target number depending on the Company’s performance.
+As the net revenue, non-GAAP operating income and strategic goals are considered performance conditions, expense associated with these awards, net of estimated forfeitures, is recognized over the service period based on an assessment of the achievement of the performance targets.
+The fair value of these PSUs is determined using the fair value of the Company’s common stock on the date of the grant, reduced by the discounted present value of dividends expected to be declared before the awards vest.
+In January 2019, it was determined that approximately 26,000 shares of the PSUs granted in 2018 vested in aggregate; the shares were released to the Company’s employees and executives in the first quarter of 2019.
+PRSUs are granted in an amount equal to twice the target number of shares to be issued if the maximum performance metrics are met.
+The actual number of shares the recipient receives is determined at the end of a three-year performance period based on results achieved versus the Company's performance goals, and may range from zero to 200% of the target number.
+
+
+item2.txt
+A large percentage of our products are ICs used in AC-DC power supplies, which convert the high-voltage AC from a wall outlet to the low-voltage DC required by most electronic devices.
+Power supplies incorporating our products are used with all manner of electronic products including mobile phones, computing and networking equipment, appliances, electronic utility meters, power tools, industrial controls, and “smart-home,” or “internet of things” applications such as networked thermostats, power strips and other building-automation and security devices.
+These combinations of switches and drivers are used for power conversion in high-power applications (i.e., power levels ranging from a few kilowatts up to one gigawatt) such as industrial motors, solar- and wind-power systems, electric vehicles and high-voltage DC transmission systems.
+Our products also improve the energy efficiency of power converters, helping our customers meet the increasingly stringent efficiency standards that have been adopted around the world for many electronic products, and improving the efficacy of renewable-energy systems, electric vehicles and other high-power applications.
+We also continue to expand our sales and application-engineering staff and our network of distributors, as well as our offerings of technical documentation and design-support tools and services to help customers use our products.
+These include the introduction of products that enable us to address higher-power AC-DC applications (such as our Hiper™ product families), the introduction of LED-driver products, and our entry into the gate-driver market through the acquisition of CT-Concept Technologie AG in 2012.
+Our net revenues were $102.9 million and $109.5 million in the three months ended June 30, 2019 and 2018, respectively, and $192.1 million and $212.6 million in the six months ended June 30, 2019 and 2018, respectively.
+These decreases were partially offset by growth in the communications and computer end markets, driven by increased demand for our products in cellphone and tablet chargers, respectively.
+Our top ten customers, including distributors that resell to original equipment manufacturers, or OEMs, and merchant power supply manufacturers, accounted for 56% and 54% of our net revenues in the three and six months ended June 30, 2019, respectively, and 59% and 58% of net revenues in each of the respective corresponding periods of 2018.
+Our top customer, a distributor of our products, accounted for approximately 10% and 12% of our net revenues in the three and six months ended June 30, 2019, respectively, and 14% and 15% in the three and six months ended June 30, 2018, respectively.
+
+
+item3.txt
+There has not been a material change in our exposure to foreign currency exchange and interest rate risks from that described in our Annual Report on Form 10-K for the year ended December 31, 2018.
+We consider cash invested in highly liquid financial instruments with a remaining maturity of three months or less at the date of purchase to be cash equivalents.
+
+
+item4.txt
+Any control system, no matter how well designed and operated, can provide only reasonable assurance as to the tested objectives.
+
+
+part2.txt
+
+
+

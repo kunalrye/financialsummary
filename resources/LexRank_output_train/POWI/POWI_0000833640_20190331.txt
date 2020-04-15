@@ -1,0 +1,49 @@
+fls.txt
+Forward-looking statements are identified by the use of the words “would,” “could,” “will,” “may,” “expect,” “believe,” “should,” “anticipate,” “if,” “future,” “intend,” “plan,” “estimate,” “potential,” “target,” “seek,” or “continue” and similar words and phrases, including the negatives of these terms, or other variations of these terms, that denote future events.
+
+
+item1.txt
+The condensed consolidated financial statements include the accounts of Power Integrations, Inc., a Delaware corporation (the “Company”), and its wholly owned subsidiaries.
+The condensed consolidated financial statements should be read in conjunction with the Power Integrations, Inc. consolidated financial statements and the notes thereto for the year ended December 31, 2018, included in its Form 10-K filed on February 13, 2019, with the Securities and Exchange Commission.
+Except for the adoption of the new accounting standards for leases mentioned below, no material changes have been made to the Company's significant accounting policies disclosed in Note 2, Significant Accounting Policies and Recent Accounting Pronouncements, in its Annual Report on Form 10-K, filed on February 13, 2019, for the year ended December 31, 2018.
+The Company elected the practical expedients under the transition guidance, which includes the use of hindsight in determining the lease term and the practical expedient package to not reassess whether any expired or existing contracts are or contain leases, to not reassess the classification of any expired or existing leases, and to not reassess initial direct costs for any existing leases.
+Upon adoption, the Company recognized both right-of-use assets and corresponding lease liabilities of approximately$7.3 million and $7.2 million, respectively, on the condensed consolidated balance sheet.
+The Company did not transfer any investments between Level 1 and Level 2 of the fair-value hierarchy in the three months ended March 31, 2019, and the twelve months ended December 31, 2018.
+Stock-based compensation expense in the three months ended March 31, 2019, was approximately $4.4 million, comprising approximately $4.6 million related to restricted stock unit (RSU) awards, a reduction to expense of $0.6 million related to performance-based (PSU) awards and long-term performance-based (PRSU) awards and $0.4 million related to the Company’s employee stock purchase plan.
+Stock-based compensation expense in the three months ended March 31, 2018, was approximately $5.6 million, comprising approximately $4.3 million related to RSUs, $0.9 million related to PSUs and PRSUs and $0.4 million related to the Company’s employee stock purchase plan.
+Under the performance-based awards program, the Company grants awards in the performance year in an amount equal to twice the target number of shares to be issued if the maximum performance metrics are met.
+The number of shares that are released at the end of the performance year can range from zero to 200% of the target number depending on the Company’s performance.
+As the net revenue, non-GAAP operating income and strategic goals are considered performance conditions, expense associated with these awards, net of estimated forfeitures, is recognized over the service period based on an assessment of the achievement of the performance targets.
+In January 2019, it was determined that approximately 26,000 shares of the PSUs granted in 2018 vested in aggregate; the shares were released to the Company’s employees and executives in the first quarter of 2019.
+PRSUs are granted in an amount equal to twice the target number of shares to be issued if the maximum performance metrics are met.
+The actual number of shares the recipient receives is determined at the end of a three-year performance period based on results achieved versus the Company's performance goals, and may range from zero to 200% of the target number.
+The performance goals for PRSUs granted in fiscal 2017, 2018 and 2019 were based on the Company’s annual revenue growth over the respective three-year performance period.
+In January 2019, it was determined that approximately 70,000 shares of the PRSUs granted in 2016, vested in aggregate; the shares were released to the Company’s executives in the first quarter of 2019.
+The Company's top ten customers accounted for approximately 52% of net revenues for the three months ended March 31, 2019, and approximately 58% of net revenues in the corresponding period of the previous year.
+
+
+item2.txt
+A large percentage of our products are ICs used in AC-DC power supplies, which convert the high-voltage AC from a wall outlet to the low-voltage DC required by most electronic devices.
+We also supply high-voltage LED drivers, which are AC-DC ICs specifically designed for lighting applications that utilize light-emitting diodes.
+These combinations of switches and drivers are used for power conversion in high-power applications (i.e., power levels ranging from a few kilowatts up to one gigawatt) such as industrial motors, solar- and wind-power systems, electric vehicles and high-voltage DC transmission systems.
+Our products also improve the energy efficiency of power converters, helping our customers meet the increasingly stringent efficiency standards that have been adopted around the world for many electronic products, and improving the efficacy of renewable-energy systems, electric vehicles and other high-power applications.
+Our market-penetration strategy also includes capitalizing on the importance of energy efficiency in the power conversion market.
+These include the introduction of products that enable us to address higher-power AC-DC applications (such as our Hiper™ product families, which address applications up to about 500 watts) and our entry into the gate-driver market through the acquisition of CT-Concept Technologie AG in 2012.
+In 2016 we introduced the SCALE-iDriverTM family of gate-driver ICs, broadening the range of gate-driver applications we can address.
+Our net revenues were $89.2 million and $103.1 million in the three months ended March 31, 2019 and 2018, respectively.
+Net revenues decreased compared with the same period in the prior year reflecting a broad-based decline in demand across all end markets.
+
+
+item3.txt
+There has not been a material change in our exposure to foreign currency exchange and interest rate risks from that described in our Annual Report on Form 10-K for the year ended December 31, 2018.
+Our exposure to market risk for changes in interest rates relates primarily to our investment portfolio.
+
+
+item4.txt
+Any control system, no matter how well designed and operated, can provide only reasonable assurance as to the tested objectives.
+
+
+part2.txt
+
+
+

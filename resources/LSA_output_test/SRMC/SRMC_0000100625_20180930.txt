@@ -1,0 +1,45 @@
+fls.txt
+Our actual results could differ materially from those anticipated in these forward-looking statements as a result of certain factors, including, without limitation, general economic conditions in both foreign and domestic markets, changes in the economy and the credit market, investment and research and development plans and success, market position and penetration, strategic plans and objectives, operating margins, government and regulatory approvals or certifications, cyclical factors affecting our industry, our ability to identify, attract, motivate and retain qualified personnel, lack of growth in our end-markets, our ability to develop and manufacture, seasonality in our products, availability of components and materials used in our products, and our ability to sell both new and existing products at a profitable yet competitive price and those issues described under the heading “Critical Accounting Policies,” below, and those risk factors identified in Item1A, Risk Factors, of our Annual Report on Form 10-K for our fiscal year ended December 31, 2017, which was filed with the SEC on April 2, 2018, as such section may be updated in our subsequent Forms 10-K, 10-Q and 8-K filed with, or furnished to, the SEC.
+
+
+item1.txt
+The FieldServer family of products works with the SMC Cloud portal; a cloud-based service that registers and manages FieldServer products, provides secure remote access to the local web-based applications that run on FieldServer products, and integrates with third-party applications over REST APIs.
+With more than 200,000 installed gateways supporting over 140 protocols such as BACnet, LonWorks, MODBUS, and XML in commercial and industrial facilities, FieldServer is the industry’s leading multi-protocol gateway brand and is delivered in a variety of form factors appropriate to the asset being interfaced.
+In addition to bridging data protocols between various assets or devices within a facility, the embedded software includes value-added “fog” or “local application” software for monitoring, logging, alarming, and trending local field data.
+In May 2014, the Financial Accounting Standards Board (“FASB”) issued ASU 2014-09, “Revenue from Contracts with Customers” (Topic 606).
+The Company’s revenue arrangements consist of multiple performance obligations including hardware, software, and services.
+Additionally, international customers and customers who have developed a history of payment problems are generally required to prepay or pay through a letter-of-credit.
+Gas detection and environment control services consist of field service orders (technical support) and training, which are provided separately from product orders.
+Revenue recognition occurs only when the service activity is completed.
+Such services are provided to current and prior customers, and, as noted above, creditworthiness has generally already been assessed.
+In cases where the probability of receiving payment is low, a credit card number is collected for immediate processing.
+The driver development involves further research after receipt of order, preparation of a scope document to be approved by the customer and then engineering time to write, test and release the driver program.
+When development of the driver is complete the customer is notified and can proceed with a FieldServer product.
+
+
+item2.txt
+For the three-month period ended September 30, 2018, sales of our instrumentation products, including fire and gas detection, military sales and environment controllers, were approximately $2,813,000 compared to approximately $2,536,000 in the three-month period ended September 30, 2017, representing an 11% increase.
+For the nine-month period ended September 30, 2018, sales of our instrumentation products were approximately $8,116,000 compared to approximately $6,906,000 in the same period in 2017 representing an 18% increase.
+Box products provide a platform for delivery and operation of our software for integration with building automation systems and are generally sold to building automation integrators.
+Gross profit for the three-month period ended September 30, 2018 was approximately $3,630,000, or 61% of net sales, compared to approximately $3,105,000, or 60% of net sales, in the same period in the previous year.
+Gross profit for the nine-month period ended September 30, 2018 was approximately $10,006,000, or 60% of net sales, compared to approximately $8,626,000, or 59% of net sales, in the same period in the previous year.
+Expenses for research and development, which include new product development and engineering to sustain existing products, were approximately $805,000, or 13% of net sales, for the three-month period ended September 30, 2018 compared to approximately $768,000, or 15% of net sales, in the comparable period in 2017.
+Selling and marketing expenses, which consist primarily of salaries, commissions and promotional expenses were approximately $1,490,000, or 25% of net sales for the three-month period ended September 30, 2018, compared to approximately $1,225,000, or 24% of net sales, in the comparable period in the prior year.
+General and administrative expenses, which consist primarily of salaries, building rent, insurance expenses, information technology expenses and fees for professional services, were approximately $1,014,000, or 17% of net sales, for the three-month period ended September 30, 2018 compared to approximately $743,000, or 14% of net sales, in the three-month period ended September 30, 2017.
+General and administrative expenses have increased 36% in the three-month period and increased 24% in the nine-month reporting periods ended September 30, 2018 compared to the same periods in 2017, primarily due to increased salary expenses and outsourced professionals.
+In the three-month period ended September 30, 2018, our income from operations was approximately $321,000 compared to income from operations of approximately $369,000 for the three-month period ended September 30, 2017.
+In the nine-month period ended September 30, 2018, our income from operations was approximately $498,000 compared to a loss from operations of approximately $447,000 in the nine-month period ended September 30, 2017.
+No borrowings have been made under our line of credit during the first nine months of fiscal year 2018 and there were no outstanding balances at September 30, 2018 and December 31, 2017.
+We believe that our present resources, including cash and accounts receivable, are sufficient to fund our anticipated level of operations through at least December 2019.
+In May 2014, the Financial Accounting Standards Board (“FASB”) issued ASU 2014-09, “Revenue from Contracts with Customers” (Topic 606).
+The Company’s revenue arrangements consist of multiple performance obligations including hardware, software, and services.
+
+
+item4.txt
+Based upon that evaluation, Mr. Brown and Ms. Allen concluded that, as of September 30, 2018, our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) of the Exchange Act) were effective.
+
+
+part2.txt
+The Company’s risk factors have not changed materially since December 31, 2017.
+
+

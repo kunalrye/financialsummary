@@ -1,0 +1,36 @@
+fls.txt
+This Quarterly Report on Form 10-Q contains “forward-looking” information within the meaning of the Private Securities Litigation Reform Act of 1995.
+The forward-looking information may include, among other information, statements concerning our outlook for fiscal year 2020, overall volume and pricing trends, cost reduction and acquisition strategies and their anticipated results, and expectations for research and development and capital expenditures.
+Our expectations and assumptions are expressed in good faith and we believe there is a reasonable basis for them.
+Any forward-looking statements by the Company are intended to speak only as of the date thereof.
+
+
+item1.txt
+The consolidated financial statements of AVX Corporation and its subsidiaries (“AVX” or the “Company”) include all accounts of the Company and its subsidiaries.
+All significant intercompany transactions and accounts have been eliminated.
+The Company has prepared the accompanying financial statements pursuant to the rules and regulations of the Securities and Exchange Commission (“SEC”) for interim financial reporting.
+Certain information and footnote disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States have been omitted in accordance with the rules and regulations of the SEC for interim financial statements.
+Accordingly, this Quarterly Report on Form 10-Q should be read in conjunction with our Annual Report on Form 10-K for the fiscal year ended  March 31, 2019.
+During the three and six month periods ended  September 30, 2019, there were no significant changes to any critical accounting policies or to the methodology used in determining estimates including those related to investment securities, inventories, goodwill, intangible assets, property and equipment, and contingencies.
+In  June 2016, the FASB issued ASU 2016-13, “Financial Instruments – Credit Losses: Measurements of Credit Losses on Financial Instruments.” This standard requires the measurement and recognition of expected credit losses held at amortized cost.
+This update is effective for public companies for annual reporting periods beginning after  December 15, 2019.
+In  February 2018, the FASB issued ASU 2018-02, "Income Statement - Reporting Comprehensive Income."
+In  August 2018, the FASB issued ASU 2018-14, “Compensation – Retirement Benefits – Defined Benefit Plans – General.” This standard removes certain disclosures that are not considered cost beneficial, clarifies certain required disclosures and added additional disclosures.
+The amendments in ASU 2018-14 would need to be applied on a retrospective basis.
+Management is currently assessing the impact ASU 2018-14 will have on our disclosures.
+In  August 2018, the FASB issued ASU 2018-15, “Customer’s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract.” This guidance reduces the complexity for the accounting for costs of implementing a cloud computing service arrangement and aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license).
+The Company early adopted this standard effective  April 1, 2019, utilizing the prospective approach to all implementation costs incurred after the date of adoption.
+The adoption of ASU 2018-15 has not had a material impact on our consolidated financial statements.
+Prior year financial statements were not recast under the new standard and, therefore, those amounts are not presented below.
+We elected the package of transition provisions available for expired or existing contracts, which allowed us to carry forward our historical assessments of (1) whether contracts are or contain leases, (2) lease classification and (3) initial direct costs.
+When available, we use the rate implicit in the lease to discount lease payments to present value; however, most of our leases do not provide a readily determinable implicit rate.
+Therefore, we must estimate our incremental borrowing rate to discount the lease payments based on information available at lease commencement.
+Basic earnings per share are computed by dividing net earnings by the weighted average number of shares of common stock outstanding for the period.
+Stock options and unvested service-based RSU awards make up the common stock equivalents and are computed using the treasury stock method.
+Charges related to allowances for doubtful accounts are charged to selling, general and administrative expenses.
+Charges related to stock rotation, ship from stock and debit, sales returns, and sales discounts are reported as deductions from revenue.
+Please refer to Note 10, "Segment and Geographic Information," for disaggregated revenue information.
+The following describes valuation techniques used to appropriately value our assets held in the non-qualified deferred compensation plan and derivatives.
+Once a decline in fair value is determined to be other-than-temporary, an impairment charge is recorded and a new cost basis in the investment is established.
+
+

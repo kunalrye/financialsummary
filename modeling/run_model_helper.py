@@ -67,10 +67,10 @@ def summarize_sections(full_doc_name, in_comp_dirpath, out_comp_dirpath, cluster
     ## concatenate all section summaries into a single string
     full_summary = ""
     for sect_id, sect_summary in sorted(section_summaries.items(), key=by_key):
-        full_summary += sect_id
-        full_summary += "\n"
+        # full_summary += sect_id
+        # full_summary += "\n"
         full_summary += sect_summary
-        full_summary += "\n\n\n"
+        # full_summary += "\n\n\n"
 
     # write the summary string to the output file
     text_file = open(os.path.join(out_comp_dirpath, full_doc_name) + ".txt", "w",encoding='utf-8')

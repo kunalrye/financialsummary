@@ -1,0 +1,49 @@
+fls.txt
+In June 2016, the FASB issued a new accounting standard to replace the incurred loss impairment methodology under current GAAP with a methodology that reflects expected credit losses and requires consideration of a broader range of reasonable and supportable information to inform credit loss estimates.
+
+
+item1.txt
+The accompanying unaudited condensed consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States of America, or U.S. GAAP, for interim financial information and with the instructions to Form 10-Q and Article 10 of Securities and Exchange Commission, or SEC, Regulation S-X.
+The January 27, 2019 consolidated balance sheet was derived from our audited consolidated financial statements included in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019, as filed with the SEC, but does not include all disclosures required by U.S. GAAP.
+The results for the interim periods presented are not necessarily indicative of the results expected for any future period.
+Except for the accounting policy for leases, which was updated as a result of adopting a new accounting standard related to leases, there have been no material changes to our significant accounting policies in Note 1 - Organization and Summary of Significant Accounting Policies, of the Notes to the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019.
+Operating leases with lease terms of more than 12 months are included in operating lease assets, accrued and other current liabilities, and long-term operating lease liabilities on our consolidated balance sheet.
+Operating lease assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments over the lease term.
+Operating lease assets and liabilities are recognized based on the present value of the remaining lease payments discounted using our incremental borrowing rate.
+We combine the lease and non-lease components in determining the operating lease assets and liabilities.
+Our condensed consolidated financial statements include the accounts of NVIDIA Corporation and our wholly-owned subsidiaries.
+The Financial Accounting Standards Board, or FASB, issued an accounting standards update regarding the accounting for leases under which lease assets and liabilities are recognized on the balance sheet.
+We will be required to use a forward-looking expected credit loss model for accounts receivable and other financial instruments, including available-for-sale debt securities.
+The standard will be effective for us beginning in the first quarter of fiscal year 2021, with early adoption permitted.
+Note 2 - Merger Agreement with Mellanox Technologies, Ltd. On March 10, 2019, we entered into an Agreement and Plan of Merger, or the Merger Agreement, with Mellanox Technologies Ltd, or Mellanox, pursuant to which we will acquire all of the issued and outstanding common shares of Mellanox for $125 per share in cash, representing a total enterprise value of approximately $6.9 billion as of the date of the Merger Agreement.
+In addition, we elected the package of practical expedients permitted under the transition guidance, which allowed us not to reassess (1) whether any expired or existing contracts are or contain leases, (2) lease classification for any expired or existing leases, and (3) initial direct costs for any existing leases.
+
+
+item2.txt
+All references to “NVIDIA,” “we,” “us,” “our” or the “Company” mean NVIDIA Corporation and its subsidiaries.
+Revenue for the first quarter of fiscal year 2020 decreased 31% year over year and increased 1% sequentially.
+GPU business revenue was $2.02 billion, down 27% from a year earlier and up 2% sequentially.
+The year-on-year decrease primarily reflects a decline in shipments of gaming GPUs and SOC modules for gaming platforms.
+Professional Visualization revenue was $266 million, up 6% from a year earlier and down 9% sequentially.
+Automotive revenue of $166 million was up 14% from a year earlier and up 2% sequentially, primarily reflecting growth in AI cockpit modules.
+OEM and Other revenue was $99 million, down 74% from a year ago and down 15% sequentially.
+The year-on-year decrease is primarily due to the absence of $289 million from CMP sales.
+Income from operations for the first quarter of fiscal year 2020 was $358 million, down 72% from a year earlier and up 22% sequentially.
+Net income and net income per diluted share for the first quarter of fiscal year 2020 were $394 million and $0.64, respectively, both down 68% from a year earlier.
+As previously communicated, we intend to return $3.00 billion to shareholders by the end of fiscal year 2020, including $700 million in share repurchases made during the fourth quarter of fiscal year 2019.
+In the first quarter of fiscal year 2020, we returned $97 million in quarterly cash dividends.
+
+
+item3.txt
+
+
+
+item4.txt
+
+
+
+part2.txt
+Refer to Part I, Item 1, Note 13 of the Notes to Condensed Consolidated Financial Statements for a discussion of significant developments in our legal proceedings since January 27, 2019.
+Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019 for a prior discussion of our legal proceedings.
+
+
