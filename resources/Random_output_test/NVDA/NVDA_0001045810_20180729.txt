@@ -1,49 +1,16 @@
-fls.txt
-
-
-
-item1.txt
-Given the complexity of the GILTI provisions, we are still evaluating its effects and have not yet determined our accounting policy.
-Of the total fair value of equity awards granted during the second quarter and first half of fiscal year 2019, we estimated that the stock-based compensation expense related to equity awards that are not expected to vest was $12 million and $31 million, respectively.
-For the second quarter of fiscal year 2019, we have not recorded any adjustments to our provisional amounts.
-U.S. GAAP requires that upon issuance of a guarantee, the guarantor must recognize a liability for the fair value of the obligation it assumes under that guarantee.
-Revenue related to remaining performance obligations represents the amount of contracted license and development arrangements and PCS that has not been recognized.
-As of July 29, 2018 and January 28, 2018, there were no shares of preferred stock outstanding.
-The Notes are our unsecured senior obligations and rank equally in right of payment with all of our existing and future unsecured and unsubordinated indebtedness.
+The TCJA was effective in the fourth quarter of fiscal year 2018 and we have recorded provisional amounts based on reasonable estimates for those tax effects.
+ZiiLabs alleges that the unlawful importation results from the infringement of the ZiiLabs 2 Patents by products from respondents NVIDIA, ASUSTeK Computer Inc., ASUS Computer International, EVGA Corporation, Gigabyte Technology Co., Ltd., G.B.T.
+Polaris alleges that NVIDIA has infringed and is continuing to infringe six U.S. patents relating to the control of dynamic random-access memory, or DRAM.
+On June 15, 2017, the California Court granted NVIDIA’s motion to stay the district court litigation pending resolution of the petitions for IPR.
+Subsequently, we received additional conversion notices for an aggregate of $11 million in principal amount of the Convertible Notes which are expected to be settled in the third quarter of fiscal year 2019.
+As of July 29, 2018, we had outstanding inventory purchase obligations totaling $1.91 billion.
+On May 16, 2016, Polaris Innovations Limited, or Polaris, a non-practicing entity and wholly-owned subsidiary of Quarterhill Inc. (formerly WiLAN Inc.), filed a complaint against NVIDIA for patent infringement in the United States District Court for the Western District of Texas.
+The results for the interim periods presented are not necessarily indicative of the results expected for any future period.
 In February 2016 and July 2018, the FASB issued accounting standards updates regarding the accounting for leases by which we will begin recognizing lease assets and liabilities on the balance sheet for lease terms of more than 12 months.
-On December 29, 2017, ZiiLabs filed a request with the U.S. International Trade Commission, or USITC, to commence an Investigation pursuant to Section 337 of the Tariff Act of 1930 relating to the unlawful importation of certain graphics processors and products containing the same.
-On May 10, 2018, the Administrative Law Judge presiding over the investigation issued an Initial Determination terminating the investigation with respect to one of the patents.
-On February 22, 2018, the Delaware Court stayed the ZiiLabs 1 case pending the resolution of the ITC investigation over the ZiiLabs 2 patents.
-In January 2016, the FASB issued an accounting standards update to amend certain aspects of recognition, measurement, presentation, and disclosure of financial instruments.
-The amortized cost and estimated fair value of cash equivalents and marketable securities as of July 29, 2018 and January 28, 2018 are shown below by contractual maturity.
-We operate on a 52- or 53-week year, ending on the last Sunday in January.
-Reportable segments do not record intersegment revenue, and, accordingly, there is none to be reported.
-
-
-item2.txt
-The gross margin of our GPU business increased during the second quarter and first half of fiscal year 2019 compared to the second quarter and first half of fiscal year 2018, primarily due to strong sales of high-end GeForce gaming GPUs and revenue growth in Datacenter.
-Datacenter revenue was $760 million, up 83% from a year ago and up 8% sequentially, led by strong sales of our Volta architecture products, including NVIDIA Tesla V100 and DGX systems.
-Tegra Processor business revenue increased by 37% for the first half of fiscal year 2019 compared to the first half of fiscal year 2018.
-Gross margin for the second quarter of fiscal year 2019 was 63.3%.
-We have a $575 million commercial paper program to support general corporate purposes.
-Gross margin for the second quarter of fiscal year 2019 was 63.3%.
-For fiscal year 2019, we intend to return $1.25 billion to shareholders through ongoing quarterly cash dividends and share repurchases.
-OEM and IP revenue was $116 million, down 54% from a year ago and down 70% sequentially, driven by lower demand for GPUs for cryptocurrency mining.
-Tegra Processor business revenue increased by 37% for the first half of fiscal year 2019 compared to the first half of fiscal year 2018.
-Refer to Note 3 of the Notes to Condensed Consolidated Financial Statements for further discussion regarding our equity incentive plans.
-We also announced a number of Max-Q GeForce gaming notebook designs offered by major OEMs, enabling high-end performance for thin and light notebooks; disclosed that next-generation NVIDIA G-SYNC HDR displays are being shipped, enabling stutter-free gaming; and announced NVIDIA’s role in VirtualLink, a consortium establishing an industry standard to enable next-gen VR headsets to connect with PCs using a single, high-bandwidth USB Type-C connector.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-The program does not obligate NVIDIA to acquire any particular amount of common stock and the program may be suspended at any time at our discretion.
-Refer to Note 3 of the Notes to Condensed Consolidated Financial Statements for further discussion regarding our equity incentive plans.
-
-
+Our condensed consolidated financial statements include the accounts of NVIDIA Corporation and our wholly-owned subsidiaries.This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the “safe harbor” created by those sections.
+We have a Credit Agreement under which we may borrow up to $575 million for general corporate purposes and can obtain revolving loan commitments up to $425 million.
+GPU business revenue was $2.66 billion, up 40% from a year earlier and down 4% sequentially, led by gaming, professional visualization, and datacenter, offsetting a substantial decline in cryptocurrency GPUs.
+During the first half of fiscal year 2019, we returned $837 million to shareholders through a combination of $655 million in share repurchases and $182 million in cash dividends.
+The net proceeds from the Notes were $1.98 billion, after deducting debt discounts and issuance costs.
+Sales of inventory that was previously written-off or written-down totaled $12 million and $9 million for the second quarter of fiscal years 2019 and 2018, respectively.
+The program does not obligate NVIDIA to acquire any particular amount of common stock and the program may be suspended at any time at our discretion.We also withhold common stock shares associated with net share settlements to cover tax withholding obligations upon the vesting of restricted stock unit awards under our employee equity incentive program.

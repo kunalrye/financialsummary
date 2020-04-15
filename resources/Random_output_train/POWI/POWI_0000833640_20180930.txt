@@ -1,49 +1,16 @@
-fls.txt
-The following discussion and analysis of our financial condition and our results of operations should be read in conjunction with the condensed consolidated financial statements and the notes to those statements included elsewhere in this Quarterly Report on Form 10-Q, and with the consolidated financial statements and management’s discussion and analysis of our financial condition and results of operations in our Annual Report on Form 10-K for the year ended December 31, 2017, filed with the SEC on February 14, 2018.
-
-
-item1.txt
-is denominated in U.S. dollars but is subject to contractual exchange rate provisions.
-The parties thereafter filed and argued a number of motions for summary judgment, and the Court denied the majority of the parties’ motions but granted the Company’s motion to preclude Fairchild from re-arguing validity positions that were rejected in the prior case between the parties.
+Both parties filed post-trial motions and challenges to various portions of the jury verdicts, and the Court addressed the first wave of post-trial motions, denying each side’s challenges to the verdict and denying Fairchild’s request for an injunction.
+In January 2018, it was determined that approximately 38,000 shares of the PRSUs granted in 2015, vested in aggregate and were released to the Company’s executives in the first quarter of 2018.
+In consolidating the pleadings from the California and Arizona cases following the transfer of ON Semiconductor’s case from Arizona, ON Semiconductor asserted two additional patents, bringing the total number of patents asserted against the Company to eight in this case, and ON Semiconductor’s amended complaint also seeks a declaration of non-infringement with respect to another of the Company’s patents that was previously asserted against Fairchild Semiconductor.
+On September 21, 2018, the Patent Office issued a reexamination certificate confirming the validity of the claims of the patent in question, bringing this matter to a close.
+In November 2017, ON Semiconductor filed suit against the Company in Taiwan charging the Company with infringing three Taiwanese patents and seeking an injunction and damages of approximately $1.0 million.
+Under the terms of the Company's wafer-supply agreements with Seiko Epson Corporation ("Epson"), and ROHM Lapis Semiconductor Co., Ltd. ("Lapis") the wafers purchased from these suppliers are priced in U.S. dollars; however, these agreements also allow for mutual sharing of the impact of the exchange rate fluctuation between Japanese yen and the U.S. dollar on future purchases.
 On December 18, 2009, the Court issued an order construing certain terms in the asserted claims of the Company’s and Fairchild’s patents in suit.
-Following a hearing on the issue in June 2014, the Court denied Fairchild’s request for an injunction against the Company and granted the Company’s request for an injunction against Fairchild.
-Information with respect to this item may be found in Note 12, Legal Proceedings and Contingencies, in our Notes to Unaudited Condensed Consolidated Financial Statements included in Part I, Item 1, of this Quarterly Report on Form 10-Q, which information is incorporated herein by reference.
-The condensed consolidated financial statements should be read in conjunction with the Power Integrations, Inc. consolidated financial statements and the notes thereto for the year ended December 31, 2017, included in its Form 10-K filed on February 14, 2018, with the Securities and Exchange Commission.
-Thereafter, the parties completed pretrial proceedings challenging each other’s experts, and the Court granted portions of each party’s motions limiting the scope of expert testimony for purposes of the damages retrial, but neither party was successful in their efforts to prevent the other side’s experts from testifying at trial.
-The Company's effective tax rates for the three and nine months ended September 30, 2018, were 7.6% and 6.3%, respectively, and 2.6% and 1.2% for the corresponding periods of 2017.
-The Court thereafter set a trial schedule with the jury trial on infringement and validity to begin in July 2011.
-Dilutive common equivalent shares included in this calculation consist of dilutive shares issuable upon the assumed exercise of outstanding common stock options, the assumed vesting of outstanding restricted stock units, the assumed issuance of awards under the stock purchase plan and contingently issuable performance-based awards, as computed using the treasury stock method.
-The performance goals for PRSUs granted in fiscal 2016, 2017 and 2018 were based on the Company’s annual revenue growth over the respective three-year performance period.
-Both parties filed summary judgment motions and challenges to each other’s experts’ testimony, and the Court granted the Company’s motion for summary judgment of non-infringement with respect to one of Fairchild’s two patents.
-In each of the three and nine months ended September 30, 2018 and 2017, one customer, a distributor of the Company's products, accounted for more than 10% of the Company’s net revenues.
-In other cases, the Company has not been able to make a reasonable estimate.
-Further proceedings are expected over the course of the coming months, with trial scheduled for February 2019.
-On January 12, 2009, Fairchild filed a notice of appeal challenging the Court’s refusal to enter a more permanent stay of the injunction, and Fairchild filed additional motions requesting that both the Federal Circuit and the District Court extend the stay of injunction.
-Under the performance-based awards program, the Company grants awards in the performance year in an amount equal to twice the target number of shares to be issued if the maximum performance metrics are met.
-
-
-item2.txt
-We intend to continue expanding our SAM in the years ahead through all of the means described above.
-Our gross margin was 52% and 50% in the three months ended September 30, 2018, and 2017, respectively, and 52% and 49% in the nine months ended September 30, 2018, and 2017, respectively.
-Also, our gate-driver products are critical components in energy-efficient DC motor drives, high-voltage DC transmission systems, renewable-energy installations and electric transportation applications.
-Net revenues consist of revenues from product sales, which are calculated net of returns and allowances.
+On June 10, 2005, in response to the initiation of an International Trade Commission (ITC) investigation on the patents asserted in the District Court lawsuit, the District Court stayed all proceedings.
+On May 1, 2012, Fairchild Semiconductor Corporation and Fairchild’s wholly owned subsidiary, System General Corporation (referred to collectively as “Fairchild”), filed a complaint against the Company in the United States District Court for the District of Delaware.
+On remand, the PTO ignored the Federal Circuit’s guidance, so the Company filed another appeal to the Federal Circuit; in that second appeal, the Federal Circuit overturned the PTO’s rulings and confirmed the validity of the challenged claims of the Company’s patent on March 19, 2018.
+Following a hearing in May 2015, the Federal Circuit ruled in the Company’s favor on August 12, 2015, overturning the PTO’s claim construction and remanding the case for further proceedings.For example, our EcoSmart™ technology drastically reduces the amount of energy consumed by electronic products when they are not in use, helping our customers comply with regulations that seek to curb this so-called “standby” energy consumption.
+All of the shares repurchased were pursuant to our publicly announced repurchase program.
+A large percentage of our products are ICs used in AC-DC power supplies, which convert the high-voltage AC from a wall outlet to the low-voltage DC required by most electronic devices.
 Net income for this period was $47.2 million; we also incurred non-cash stock-based compensation expense, depreciation and amortization of $16.1 million, $14.4 million and $4.0 million, respectively.
-Our top ten customers, including distributors that resell to OEMs and merchant power supply manufacturers, accounted for approximately 56% and 57% of our net revenues in the three and nine months ended September 30, 2018, respectively, and approximately 56% and 55% of net revenues in each of the respective corresponding periods of 2017.
-As of September 30, 2018, we had $248.3 million in cash, cash equivalents and short-term marketable securities, a decrease of approximately $34.6 million from $282.9 million as of December 31, 2017.
-Our ability to borrow under the revolving line of credit is conditioned upon our compliance with specified covenants, including reporting and financial covenants, primarily a minimum liquidity measure and a debt to earnings ratio, with which we are currently in compliance.
-The increases in gross margin for the three and nine months ended September 30, 2018, compared with the same periods in the prior year, was due primarily to a favorable change in end-market mix, with a greater percentage of revenues coming from higher-margin end-markets; cost-reduction efforts also contributed to the increases.
-
-
-item3.txt
-Interest Rate Risk.
-The foreign exchange rate fluctuation between the U.S. dollar versus the Swiss franc and euro is recorded in other income in our condensed consolidated statements of income.
-
-
-item4.txt
-Due to the inherent limitations in a cost-effective control system, misstatements due to error may occur and may not be detected.
-
-
-part2.txt
-As of September 30, 2018, we had used up the entire amount authorized for repurchase.
-
-
+Net revenues consist of revenues from product sales, which are calculated net of returns and allowances.
+The use of cash was offset in part by $8.6 million from the issuance of common stock, including the exercise of employee stock options and the issuance of shares through our employee stock purchase plan.Our exposure to market risk for changes in interest rates relates primarily to our investment portfolio.
