@@ -1,8 +1,3 @@
-fls.txt
-Such statements reflect our current views and assumptions and are not guarantees of future performance.
-
-
-item1.txt
 The accompanying unaudited interim condensed financial statements have been prepared by Sierra Monitor Corporation (the “Company,” “we,” or “us”) pursuant to the rules and regulations of the Securities and Exchange Commission (the “SEC”).
 On March 28, 2019 the Company entered into an Agreement and Plan of Merger (the “Merger Agreement”) MSA Safety Incorporated (“MSA”), a global safety equipment manufacturer and MSA’s indirect, wholly owned subsidiary, Gateway Merger Sub, Inc., a California corporation (“Merger Sub”).
 Under the Merger Agreement, at the Effective Time of the Merger, MSA Safety will assume vested or unvested and outstanding stock options and restricted stock awards granted to Company employees.
@@ -12,16 +7,7 @@ In addition to bridging data protocols between various assets or devices within 
 The FieldPoP device cloud portal is a proprietary, secure, and scalable Software-as-a-Service product and is developed and deployed using the same core technologies and providers that are used by many of the world’s leading web sites and Internet-based services.
 The Company’s solutions are also sold to telecommunication companies and their suppliers to manage environmental and security conditions such as temperature, gas, and smoke in remote structures such as local DSL distribution nodes and buildings at cell tower sites.
 Gas detection and environment control services consist of field service orders (technical support) and training, which are provided separately from product orders.
-Revenue recognition occurs only when the service activity is completed.
-Such services are provided to current and prior customers, and, as noted above, creditworthiness has generally already been assessed.
-In cases where the probability of receiving payment is low, a credit card number is collected for immediate processing.
-However, if custom development of the protocol driver is required, the product order is not processed until development of the protocol driver is complete.
-The driver development involves further research after receipt of order, preparation of a scope document to be approved by the customer and then engineering time to write, test and release the driver program.
-Discounts are applied at time of order entry and sales are processed at net pricing.
-
-
-item2.txt
-This Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”).
+Revenue recognition occurs only when the service activity is completed.This Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”).
 Our flame and gas detection products are generally sold to engineering and installation firms who utilize the products as part of larger fire and safety projects in a variety of facilities, such as oil, gas and chemical processing plants, wastewater treatment facilities, alternate fuel vehicle maintenance garages, and other sites where hazardous gases are used or produced.
 Sales of our FieldServer product line increased by 21.8% in the first quarter of 2019 compared to the same period in the prior year.
 Our FieldServer products are primarily sold to OEMs who develop a broad range of products relevant to facility automation, such as boilers, chillers, air handlers, lighting controls, generator sets, electric sub-meters, etc.
@@ -29,18 +15,3 @@ Our FieldServer products are also bought by system integrators looking to connec
 Our IoT focused products are showing growth due to pull through from other solutions like our SMC Cloud offer which is enabling device management, visualization and analytics.
 Selling and marketing expenses remained constant compared to the first quarter of 2018 as we continue customer outreach and focus on both our OEM and system integrator channels.
 During the three months ended March 31, 2019, net cash used in operating activities was $574,698 compared to $378,147 net cash provided by operating activities for the same period in the prior year.
-At March 31, 2019, our balance sheet reflected approximately $2,256,000 of cash and $2,727,000 of net trade receivables.
-We maintain a line of credit with a commercial bank in the maximum amount of $2,000,000.
-In May 2014, the Financial Accounting Standards Board (“FASB”) issued ASU 2014-09, “Revenue from Contracts with Customers” (Topic 606).
-The Company recognized the cumulative effect of initially applying ASC 606 as an adjustment to the opening balance of retained earnings.
-The majority of the impact has been on sales returns and the impact has been deemed immaterial.
-
-
-item4.txt
-
-
-
-part2.txt
-
-
-

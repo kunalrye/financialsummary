@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 Simulations Plus, Inc.
 This report on Form 10-Q for the quarter ended February 28, 2019 should be read in conjunction with the Company's annual report on Form 10-K for the year ended August 31, 2018, filed with the Securities and Exchange Commission (“SEC”) on November 14, 2018.
 As contemplated by the SEC under Article 8 of Regulation S-X, the accompanying consolidated financial statements and footnotes have been condensed and therefore do not contain all disclosures required by generally accepted accounting principles.
@@ -11,16 +6,7 @@ Results for interim periods are not necessarily indicative of those to be expect
 On September 2, 2014, Simulations Plus, Inc. acquired all of the outstanding equity interests of Cognigen Corporation (“Cognigen”, “Buffalo”) and Cognigen became a wholly owned subsidiary of Simulations Plus, Inc. Simulations Plus, Inc., acquired DILIsym Services, Inc. (DILIsym) as a wholly owned subsidiary pursuant to a stock purchase agreement dated May 1, 2017.
 The Company designs and develops pharmaceutical simulation software to promote cost-effective solutions to a number of problems in pharmaceutical research and in the education of pharmacy and medical students, and it provides consulting services to the pharmaceutical and chemical industries.
 Recently, the Company has begun to explore developing software applications for defense and for health care outside of the pharmaceutical industry.
-Certain numbers in the prior year have been reclassified to conform to the current year's presentation.
-The standard also provides guidance on the recognition of incremental costs related to obtaining customer contracts.
-We adopted ASC Topic 606, effective September 1, 2018, utilizing the modified retrospective method.
-The reported results for fiscal year 2019 reflect the application of ASC Topic 606, while the reported results for fiscal year 2018 are not adjusted and continue to be reported under ASC Topic 605.
-Sales commissions for new contracts are deferred and then amortized on a straight-line basis over a period of benefit.
-Most of our contracts are of a duration of one year or less, few, if any of the longer-term contracts have commissions associated with them.
-
-
-item2.txt
-Item 2.
+Certain numbers in the prior year have been reclassified to conform to the current year's presentation.Item 2.
 The forward-looking statements contained or incorporated by reference in this document are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (“Securities Act”) and Section 21E of the Securities Exchange Act of 1934, as amended (“Exchange Act”) and are subject to the safe harbor created by the Private Securities Litigation Reform Act of 1995.
 Our innovations in integrating new and existing science in medicinal chemistry, computational chemistry, pharmaceutical science, biology, physiology, and machine learning into our software have made us the leading software provider for PBPK modeling and simulation, prediction of molecular properties from structure, and prediction of drugs to induce liver injury or to treat nonalcoholic fatty liver disease.
 They also use it to enhance their understanding of the properties of potential new medicines and to use emerging data to improve formulations, select and justify dosing regimens, support the generics industry, optimize clinical trial designs, and simulate outcomes in special populations, such as the elderly and pediatric patients.
@@ -28,22 +14,3 @@ Simulations Plus previously acquired Cognigen Corporation (Cognigen) as a wholly
 Simulation Plus also acquired DILIsym Services, Inc. (DILIsym) as a wholly owned subsidiary.
 Our flagship product, originally introduced in 1998, and currently our largest single source of software revenue, is GastroPlus.
 Because of the widespread use of GastroPlus, we were the only non-European company invited to join the European Innovative Medicines Initiative (IMI) program for Oral Bioavailability Tools (OrBiTo).
-In September 2014, we entered into a research collaboration agreement (RCA) with the FDA to enhance the Ocular Compartmental Absorption and Transit (OCAT™) model within the Additional Dosing Routes Module of GastroPlus.
-Under this RCA, we received up to $200,000 per year.
-This grant award, for $250,000 per year for up to two years, will focus on the incorporation of drug product quality attributes into dermal physiologically-based pharmacokinetic (PBPK) models developed for dermatological topical dosage forms and transdermal delivery systems.
-This project will contribute substantially to improvements in the program, specifically directed toward the predictions of local exposure within the skin layer following topical administration of various chemicals.
-Part of this funding will go towards expansion of GastroPlus to improve the predictions of compound exposure upon inhalation of drugs.
-
-
-item3.txt
-In addition, we do not hold any instruments for trading purposes and investment.
-
-
-item4.txt
-
-
-
-part2.txt
-Item 1.
-
-

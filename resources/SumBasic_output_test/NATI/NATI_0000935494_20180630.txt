@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 In our opinion, the accompanying consolidated financial statements reflect all adjustments (consisting only of normal recurring items) considered necessary to present fairly our financial position at June 30, 2018 and December 31, 2017, the results of our operations and comprehensive income for three and six months ended June 30, 2018 and 2017, and the cash flows for the six months ended June 30, 2018 and 2017.
 We analyze historical bad debts, customer concentrations, customer creditworthiness and current economic trends when evaluating the adequacy of our allowance for doubtful accounts.
 Shipping and handling costs associated with outbound freight after control over a product has transferred to a customer are accounted for as a fulfillment cost and are in included in cost of sales.
@@ -12,39 +7,11 @@ Our historical net cash flows are not impacted by this accounting change.
 Revenue is recognized net of allowances for returns and any taxes collected from customers, which are subsequently remitted to governmental authorities.
 Product revenues are primarily generated from the sale of off-the-shelf modular test and measurement hardware components and related drivers, and application software licenses.
 Sales of most hardware components may also include optional extended hardware warranties, which typically provide additional service-type coverage for three years from the purchase date.
-We also offer some term-based software licenses that expire, which are referred to as subscription arrangements.
-We sell our customer support contracts as a percentage of net software purchases the support is related to.
-Revenues from offerings related to our hardware and software products such as extended hardware warranties, training, consulting and installation services are not significant and presented within product revenues, as further discussed below.
-We use a single amount to estimate SSP for items that are not sold separately, including perpetual and term licenses sold with software maintenance.
-We use a range of amounts to estimate SSP when we sell each of the products and services separately and need to determine whether there is a discount that needs to be allocated based on the relative SSP of the various products and services.
-Due to the various benefits from and the nature of our enterprise agreement program, judgment is required to assess the pattern of delivery, including the exercise pattern of certain benefits across our portfolio of customers.
-Additionally, whether a renewal option represents a distinct performance obligation could significantly impact the timing of revenue recognized.
-
-
-item2.txt
-National Instruments Corporation (the “Company”, “we”, “us” or “our”) designs, manufactures and sells systems to engineers and scientists that accelerate productivity, innovation and discovery.
+We also offer some term-based software licenses that expire, which are referred to as subscription arrangements.National Instruments Corporation (the “Company”, “we”, “us” or “our”) designs, manufactures and sells systems to engineers and scientists that accelerate productivity, innovation and discovery.
 Our software defined platform provides integrated software and modular hardware that speeds the development of automated test and automated measurement systems.
 We believe our long-term vision and focus on technology supports the success of our customers, employees, suppliers and stockholders.
-We sell to a large number of customers in a wide variety of industries.
-We have been profitable in every year since 1990.
-To maintain a high level of customer satisfaction we strive to offer innovative, modular and integrated products through a global sales and support network.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-We are not currently a party to any material litigation.
+We sell to a large number of customers in a wide variety of industries.We are not currently a party to any material litigation.
 However, in the ordinary course of our business, we are involved in a limited number of legal actions, both as plaintiff and defendant, and could incur uninsured liability in any one or more of them.
 In addition to the other information set forth in this Form 10-Q, you should carefully consider the risk factors discussed below.
 The risks described below are not the only risks that we face.
 Uncertainty about global and regional economic conditions poses a risk to us as businesses may postpone spending in response to tighter credit, higher unemployment, financial market volatility, government austerity programs, negative financial news, geopolitical instability, declines in income or asset values, or other factors.
-In March 2018, the U.S. imposed steel, aluminum, and other tariffs on imports from various countries.
-These tariffs have increased international trade tensions and led to tariffs on U.S. exports to various countries.
-
-

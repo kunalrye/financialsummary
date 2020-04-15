@@ -1,21 +1,9 @@
-fls.txt
-You can identify these statements by forward-looking words such as anticipate, intend, plan, continue, could, grow, may, potential, predict, strive will, seek, estimate, believe, expect, and similar expressions that convey uncertainty of future events or outcomes.
-
-
-item1.txt
 Diluted per share amounts for Class A shares are shown above.
 See Note D to the Condensed Consolidated Financial Statements.
 The accompanying unaudited condensed consolidated financial statements have been prepared in accordance with U.S. generally accepted accounting principles for interim financial information and with the instructions to Form 10-Q and Rule 10-01 of Regulation S-X.
 Accordingly, they do not include all of the information and footnotes required for complete financial statements.
 All significant intercompany balances and transactions have been eliminated in consolidation.
-We recognize revenue in accordance with the Software Revenue Recognition Topic of the Financial Accounting Standards Boards (FASB) Accounting Standards Codification (ASC).
-Maintenance contracts are typically sold for a separate fee with initial contractual periods ranging from one to three years with renewal for additional periods thereafter.
-Maintenance fees are generally billed annually in advance.
-We primarily bill fees under time and materials arrangements and recognize them as we perform the services.
-
-
-item2.txt
-Any forward-looking statements we make herein are pursuant to the safe harbor provision of the Private Securities Litigation Reform Act of 1995.
+We recognize revenue in accordance with the Software Revenue Recognition Topic of the Financial Accounting Standards Boards (FASB) Accounting Standards Codification (ASC).Any forward-looking statements we make herein are pursuant to the safe harbor provision of the Private Securities Litigation Reform Act of 1995.
 All forward-looking statements included in this Form 10-Q are based upon information available to us as of the filing date of this Form 10-Q.
 We undertake no obligation to update any of these forward-looking statements for any reason.
 We discuss certain factors in greater detail in Business Overview below.
@@ -24,25 +12,4 @@ Corporate capital spending trends and commitments are the primary determinants o
 In January 2018, the International Monetary Fund (IMF) provided an update to the World Economic Outlook (WEO) for the 2018 and 2019 world economic growth forecast.
 The update noted that, Global economic activity continues to firm up.
 Global output is estimated to have grown by 3.7 percent in 2017, which is 0.1 percentage point faster than projected in the fall and  1⁄2 percentage point higher than in 2016.
-The pickup in growth has been broad based, with notable upside surprises in Europe and Asia.
-Overall information technology spending is improving as a result of the current global economic environment.
-We believe information technology spending will incrementally improve over the long term as increased global competition forces companies to improve productivity by upgrading their technology systems.
-Customers continue to take long periods to evaluate discretionary software purchases.
-We believe the improvement in economic conditions may be driving some businesses to invest in achieving more process and efficiency enhancements in their operations and to invest in solutions that improve operating margins, rather than make large infrastructure-type technology purchases.
-We provide our software solutions through three major business segments, which are further broken down into a total of six major product and service groups.
-The SCM segment, consists of Logility, which provides supply chain optimization and advance retail planning solutions, as an integrated suite of sales and operations planning, demand optimization, inventory optimization, manufacturing planning and scheduling, supply optimization, retail allocation and merchandise planning and transportation optimization, as well as (i) DMI, which provides collaborative supply chain solutions to streamline and optimize the forecasting, inventory, production, supply, allocation, distribution and management of products between trading partners, (ii) New Generation Computing (NGC), which provides cloud solutions for supply chain management, product lifecycle management, quality control, vendor compliance and enterprise resource planning for both retailers and manufacturers in the apparel, sewn products and furniture industries, and, (iii) Halo, which provides advanced analytics and business intelligence solutions for the supply chain market.
-
-
-item3.txt
-$236,000 for the three months and nine months ended January 31, 2017, respectively.
-We have not engaged in any hedging activities.
-
-
-item4.txt
-Our principal executive officer and principal financial officer, with the assistance of our Disclosure Committee, have conducted an evaluation of the effectiveness of our disclosure controls and procedures as of the end of the period covered by this Quarterly Report.
-
-
-part2.txt
-Item 1.
-
-
+The pickup in growth has been broad based, with notable upside surprises in Europe and Asia.$236,000 for the three months and nine months ended January 31, 2017, respectively.

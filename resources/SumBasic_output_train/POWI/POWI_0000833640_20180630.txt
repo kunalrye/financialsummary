@@ -1,8 +1,3 @@
-fls.txt
-Forward-looking statements are identified by the use of the words “would,” “could,” “will,” “may,” “expect,” “believe,” “should,” “anticipate,” “if,” “future,” “intend,” “plan,” “estimate,” “potential,” “target,” “seek,” or “continue” and similar words and phrases, including the negatives of these terms, or other variations of these terms, that denote future events.
-
-
-item1.txt
 The condensed consolidated financial statements include the accounts of Power Integrations, Inc., a Delaware corporation (the “Company”), and its wholly owned subsidiaries.
 Significant intercompany accounts and transactions have been eliminated in consolidation.
 The results for interim periods are not necessarily indicative of the results for the entire year.
@@ -13,36 +8,8 @@ The amendments require a modified retrospective transition approach to recognize
 The Company's cash equivalents and short-term marketable securities are classified within Level 1 or Level 2 of the fair-value hierarchy because they are valued using quoted market prices, broker or dealer quotations, or alternative pricing sources with reasonable levels of price transparency.
 Stock-based compensation expense in the three months ended June 30, 2018, was approximately $6.1 million (comprising approximately $3.9 million related to restricted stock unit (RSU) awards, $1.8 million related to performance-based (PSU) awards and long-term performance-based (PRSU) awards and $0.4 million related to the Company’s employee stock purchase plan).
 The performance metrics of this program are annual targets consisting of a combination of net revenue, non-GAAP operating income and strategic goals.
-The fair value of these PSUs is determined using the fair value of the Company’s common stock on the date of the grant, reduced by the discounted present value of dividends expected to be declared before the awards vest.
-PRSUs are granted in an amount equal to twice the target number of shares to be issued if the maximum performance metrics are met.
-Expense associated with these awards, net of estimated forfeitures, is recorded throughout the year depending on the number of shares expected to vest based on progress toward the performance target.
-In January 2018, it was determined that approximately 38,000 shares of the PRSUs granted in 2015, vested in aggregate and were released to the Company’s executives in the first quarter of 2018.
-The Company is organized and operates as one reportable segment, the design, development, manufacture and marketing of integrated circuits and related components for use primarily in the high-voltage power-conversion market.
-The Company’s chief operating decision maker, the Chief Executive Officer, reviews financial information presented on a consolidated basis for purposes of making operating decisions and assessing financial performance.
-These distributors sell the Company’s products to a broad, diverse range of end users, including OEMs and merchant power supply manufacturers.
-
-
-item2.txt
-See also “Cautionary Note Regarding Forward-Looking Statements” at the beginning of this report.
+The fair value of these PSUs is determined using the fair value of the Company’s common stock on the date of the grant, reduced by the discounted present value of dividends expected to be declared before the awards vest.See also “Cautionary Note Regarding Forward-Looking Statements” at the beginning of this report.
 Power supplies incorporating our products are used with all manner of electronic products including mobile phones, computing and networking equipment, appliances, electronic utility meters, power tools, industrial controls, and lighting applications that utilize light-emitting diodes (LEDs), and “smart-home,” or “internet of things” applications such as networked thermostats, power strips and other building-automation and security devices.
 Our products also improve the energy efficiency of power converters, helping our customers meet the increasingly stringent efficiency standards that have been adopted around the world for many electronic products, and improving the efficiency of renewable-energy systems, electric vehicles and other high-power applications.
 Also, our gate-driver products are critical components in energy-efficient DC motor drives, high-voltage DC transmission systems, renewable-energy installations and electric transportation applications.
-•Increase the size of our addressable market.
-Prior to 2010 our addressable market consisted of AC-DC applications with up to about 50 watts of output, a served available market (“SAM”) opportunity of approximately $1.5 billion.
-In 2016 we introduced the SCALE-iDriverTM family of gate-driver ICs, which enables us to address applications between approximately 10 kilowatts and 100 kilowatts, whereas previously our gate-driver products were primarily for applications above 100 kilowatts.
-For example, applications such as LED lighting, “smart” utility meters, battery-powered lawn equipment and bicycles, and USB power ports (installed alongside traditional AC wall outlets) can incorporate our products; the increased use of electronic intelligence and controls in consumer appliances has also enhanced our SAM.
-
-
-item3.txt
-We consider cash invested in highly liquid financial instruments with a remaining maturity of three months or less at the date of purchase to be cash equivalents.
-We invest in high-credit quality issuers and, by policy, limit the amount of credit exposure to any one issuer.
-
-
-item4.txt
-Any control system, no matter how well designed and operated, can provide only reasonable assurance as to the tested objectives.
-
-
-part2.txt
-Information with respect to this item may be found in Note 12, Legal Proceedings and Contingencies, in our Notes to Unaudited Condensed Consolidated Financial Statements included in Part I, Item 1, of this Quarterly Report on Form 10-Q, which information is incorporated herein by reference.
-
-
+•Increase the size of our addressable market.We consider cash invested in highly liquid financial instruments with a remaining maturity of three months or less at the date of purchase to be cash equivalents.

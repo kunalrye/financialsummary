@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 The unaudited Condensed Consolidated Financial Statements of Juniper Networks, Inc. (the “Company” or “Juniper”) have been prepared in accordance with U.S. generally accepted accounting principles (“U.S.
 GAAP”) for interim financial information.
 Accordingly, they do not include all information and footnotes required by U.S. GAAP for complete financial statements.
@@ -12,40 +7,10 @@ As of September 30, 2019, the Company did not have any finance leases.
 Operating leases are included in operating lease ROU assets, other accrued liabilities, and operating lease liabilities on the Company's Condensed Consolidated Balance Sheets.
 The operating lease ROU asset also includes any lease payments made prior to lease commencement and excludes lease incentives.
 Variable lease payments not dependent on an index or a rate, are expensed as incurred and are not included within the ROU asset and lease liability calculation.
-Variable lease payments primarily include reimbursements of costs incurred by lessors for common area maintenance and utilities.
-The Company's lease terms are the noncancelable period, including any rent-free periods provided by the lessor, and include options to extend or terminate the lease when it is reasonably certain that it will exercise that option.
-Lease costs are recognized on a straight-line basis over the lease term.
-The Company does not separate non-lease components from lease components for all underlying classes of assets.
-The acquisition of Mist, a company that provides cloud-managed wireless networks powered by artificial intelligence, is expected to enhance Juniper's enterprise networking portfolio by combining Mist’s next-generation Wireless LAN platform with Juniper's wired LAN, SD-WAN, and security solutions to deliver integrated end-to-end user and IT experiences.
-The goodwill recognized in connection with the acquisition is primarily attributable to anticipated synergies from future growth and will not be deductible for income tax purposes.
-Balance relates to restricted investments measured at fair value related to the Company's Deferred Compensation Plan.
-
-
-item2.txt
-We undertake no obligation to revise or update publicly any forward-looking statements for any reason, except as required by applicable law.
-In making these decisions, we consider various factors, including contractual obligations, customer satisfaction, competition, internal and external financial targets and expectations, and financial planning objectives.
-To aid in understanding our operating results for the periods covered by this Report, we have provided an executive overview, which includes a summary of our business and market environment along with a financial results and key performance metrics overview.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-The information set forth under the “Legal Proceedings” section in Note 15, Commitments and Contingencies, in Notes to Condensed Consolidated Financial Statements in Item 1 of Part I of this Report, is incorporated herein by reference.
+Variable lease payments primarily include reimbursements of costs incurred by lessors for common area maintenance and utilities.We undertake no obligation to revise or update publicly any forward-looking statements for any reason, except as required by applicable law.The information set forth under the “Legal Proceedings” section in Note 15, Commitments and Contingencies, in Notes to Condensed Consolidated Financial Statements in Item 1 of Part I of this Report, is incorporated herein by reference.
 Investments in our securities involve significant risks.
 Such adjustments may be difficult or impossible to execute in the short or medium term.
 We expect our gross margins and operating margins to vary over time.
 In fiscal year 2016, our margins decreased compared to fiscal year 2015, primarily due to elevated pricing pressure and product mix.
 A material portion of our net revenues, across each customer vertical, depends on sales to a limited number of customers and distribution partners.
 Our ability to successfully offer our products and services in a rapidly evolving market requires an effective planning, forecasting, and management process to enable us to effectively scale and adjust our business and business models in response to fluctuating market opportunities and conditions.
-Competition is intense in the markets that we serve.
-The routing and switching markets have historically been dominated by Cisco Systems, Inc., or Cisco, with competition coming from other companies such as Nokia Corporation, Arista Networks, Inc., and Huawei Technologies Co., Ltd.
-A customer's decision to purchase certain of our products, particularly new products, involves a significant commitment of its resources and a lengthy evaluation and product qualification process.
-As a result, the sales cycle may be lengthy.
-
-

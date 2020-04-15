@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 The accompanying unaudited condensed consolidated financial statements of Maxim Integrated Products, Inc. and all of its majority-owned subsidiaries (collectively, the “Company” or “Maxim Integrated”) included herein have been prepared by the Company pursuant to the rules and regulations of the Securities and Exchange Commission (the “SEC”).
 Fiscal years 2019 and 2020 are 52-week fiscal years.
 Topic 842 states that lessees will recognize a lease liability for the commitment to make lease payments and a right-of-use asset for the underlying asset, for the duration of the lease.
@@ -14,36 +9,8 @@ Lease terms may include options to extend or terminate the lease when it is reas
 Lease expense is recognized on a straight-line basis over the lease term.
 The Company elected to combine lease and non-lease components for all asset classes.
 Level 1 - Quoted (unadjusted) prices in active markets for identical assets or liabilities.
-The Company’s Level 1 assets consist of money market funds.
-As of September 28, 2019 and June 29, 2019, the fair market value of private company investments amounted to $20.2 million and $20.7 million, respectively.
-In the three months ended September 28, 2019 and September 29, 2018, the Company did not recognize any impairment charges on short-term investments.
-The Company invests in various financial instruments including U.S. Treasury securities, corporate debt securities, commercial paper, and certificates of deposit which include instruments issued or managed by industrial, financial, and utility institutions and U.S. Treasury securities which include U.S. government Treasury bills and Treasury notes.
-The Company incurs expenditures denominated in non-U.S. currencies, primarily the Philippine Peso and the Thai Baht associated with the Company's manufacturing activities in the Philippines and Thailand, respectively, and the European Euro, Indian Rupee, Japanese Yen, Taiwan New Dollar, South Korean Won, Chinese Yuan and Canadian Dollar, for sales offices and research and development activities undertaken outside of the U.S.
-The Company does not use these foreign currency forward contracts for trading purposes.
-The Company designates certain forward contracts as hedging instruments pursuant to Accounting Standards Codification (“ASC”) 815, Derivatives and Hedging (“ASC 815”).
-
-
-item2.txt
-Readers should carefully review future reports and documents that the Company files with or furnishes to the SEC from time to time, such as its Annual Reports on Form 10-K, its Quarterly Reports on Form 10-Q, and any Current Reports on Form 8-K. Maxim Integrated Products, Inc. (“Maxim Integrated” or the “Company” and also referred to as “we,” “our” or “us”) designs, develops, manufactures and markets a broad range of linear and mixed-signal integrated circuits, commonly referred to as analog circuits, for a large number of customers in diverse geographical locations.
+The Company’s Level 1 assets consist of money market funds.Readers should carefully review future reports and documents that the Company files with or furnishes to the SEC from time to time, such as its Annual Reports on Form 10-K, its Quarterly Reports on Form 10-Q, and any Current Reports on Form 8-K. Maxim Integrated Products, Inc. (“Maxim Integrated” or the “Company” and also referred to as “we,” “our” or “us”) designs, develops, manufactures and markets a broad range of linear and mixed-signal integrated circuits, commonly referred to as analog circuits, for a large number of customers in diverse geographical locations.
 All electronic signals generally fall into one of two categories, linear or digital.
 Linear (or analog) signals represent real world phenomena, such as temperature, pressure, sound or speed, and are continuously variable over a wide range of values.
 •mixed-signal devices such as data converter devices that combine linear and digital functions on the same integrated circuit and interface between the analog and digital domains.
-At the beginning of fiscal year 2020, we combined our Computing Major End-Market category with our Communications and Data Center Major End-Market category.
-Except for the accounting policies and estimates outlined under Part I, Item 1.
-Net revenues were $533.0 million and $638.5 million for the three months ended September 28, 2019 and September 29, 2018, respectively.
-Revenue from communication and data center products was down by 25% due to lower shipments in network and data communications, data center and other communications products.
-
-
-item3.txt
-
-
-
-item4.txt
-Our management, with the participation of our chief executive officer (“CEO”) and our chief financial officer (“CFO”), evaluated the effectiveness of our disclosure controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934 (the “Exchange Act”) as of September 28, 2019.
-
-
-part2.txt
-The Company’s prior repurchase authorization was cancelled and superseded by this new repurchase authorization.
-None.
-
-
+At the beginning of fiscal year 2020, we combined our Computing Major End-Market category with our Communications and Data Center Major End-Market category.Our management, with the participation of our chief executive officer (“CEO”) and our chief financial officer (“CFO”), evaluated the effectiveness of our disclosure controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934 (the “Exchange Act”) as of September 28, 2019.The Company’s prior repurchase authorization was cancelled and superseded by this new repurchase authorization.

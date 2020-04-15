@@ -87,11 +87,14 @@ def ReductionSummary(document, sentences):
     return results
 
 
-summarize_train_docs(LexRankSummary, "lexrank", True)
-summarize_test_docs(LexRankSummary, "lexrank", True )
+#summarize_train_docs(LexRankSummary, "lexrank", True)
+#summarize_test_docs(LexRankSummary, "lexrank", True )
 
-summarize_train_docs(LuhnSummary, "luhn", True)
-summarize_test_docs(LuhnSummary, "luhn", True)
+#summarize_train_docs(LuhnSummary, "luhn", True)
+#summarize_test_docs(LuhnSummary, "luhn", True)
 
-summarize_train_docs(LsaSummary, "lsa", True)
-summarize_test_docs(LsaSummary, "lsa", True)
+#summarize_train_docs(LsaSummary, "lsa", True)
+#summarize_test_docs(LsaSummary, "lsa", True)
+
+summarize_train_docs(SumBasicSummary, "SumBasic", True)
+summarize_test_docs(SumBasicSummary, "SumBasic", True)

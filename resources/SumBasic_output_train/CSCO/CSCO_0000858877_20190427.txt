@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 We have prepared the accompanying financial data as of April 27, 2019 and for the third quarter and first nine months of fiscal 2019 and fiscal 2018, without audit, pursuant to the rules and regulations of the U.S. Securities and Exchange Commission ("SEC").
 Certain information and footnote disclosures normally included in financial statements prepared in accordance with generally accepted accounting principles in the United States ("GAAP") have been condensed or omitted pursuant to such rules and regulations.
 However, we believe that the disclosures are adequate to make the information presented not misleading.
@@ -12,39 +7,11 @@ We have evaluated subsequent events through the date that the financial statemen
 ASC 606 supersedes nearly all U.S. GAAP on revenue recognition and eliminated industry-specific guidance.
 The underlying principle of ASC 606 is to recognize revenue when a customer obtains control of promised goods or services at an amount that reflects the consideration that is expected to be received in exchange for those goods or services.
 We have implemented new accounting policies, systems, processes, and internal controls necessary to support the requirements of ASC 606.
-In addition to the above revenue recognition timing impacts, ASC 606 requires incremental contract acquisition costs (such as sales commissions) for customer contracts to be capitalized and amortized on a systematic basis that is consistent with the transfer to the customer of the goods or services to which the assets relates.
-As a result, our contracts may contain multiple performance obligations.
-We classify our hardware, perpetual software licenses, and software-as-a-service (SaaS) as distinct performance obligations.
-Term software licenses represent multiple obligations, which include software licenses and software maintenance.
-Transfer of control occurs once the customer has the contractual right to use the product, generally upon shipment or once delivery and risk of loss has transferred to the customer.
-On our product sales, we record consideration from shipping and handling on a gross basis within net product sales.
-
-
-item2.txt
-We undertake no obligation to revise or update any forward-looking statements for any reason.
+In addition to the above revenue recognition timing impacts, ASC 606 requires incremental contract acquisition costs (such as sales commissions) for customer contracts to be capitalized and amortized on a systematic basis that is consistent with the transfer to the customer of the goods or services to which the assets relates.We undertake no obligation to revise or update any forward-looking statements for any reason.
 NM - Not meaningful; we recognized a net loss for the first nine months of fiscal 2018 related to the enactment of the Tax Cuts and Jobs Act.
 In the third quarter of fiscal 2019, we had strong performance across the business and delivered strong revenue growth, margins and operating cash flow.
 Our product revenue reflected growth in Infrastructure Platforms, Applications and Security, and we continued to make progress in the transition of our business model to increased software and subscriptions.
-Notwithstanding the third quarter fiscal 2019 results, we continue to operate in a challenging and highly competitive environment.
-While the overall environment remains uncertain, we continue to aggressively invest in priority areas with the objective of driving profitable growth over the long term.
-In the second quarter of fiscal 2019, on October 28, 2018, we completed the sale of our SPVSS business.
-
-
-item3.txt
-Item 3.Quantitative and Qualitative Disclosures About Market Risk Available-for-Sale Debt Investments We maintain an investment portfolio of various holdings, types, and maturities.
-
-
-item4.txt
-
-
-
-part2.txt
-The descriptions below include any material changes to and supersede the description of the risk factors affecting our business previously disclosed in “Part I, Item 1A.
+Notwithstanding the third quarter fiscal 2019 results, we continue to operate in a challenging and highly competitive environment.The descriptions below include any material changes to and supersede the description of the risk factors affecting our business previously disclosed in “Part I, Item 1A.
 Risk Factors” of our Annual Report on Form 10-K for the fiscal year ended July 28, 2018.
 Instability in the global credit markets, the impact of uncertainty regarding global central bank monetary policy, the instability in the geopolitical environment in many parts of the world including as a result of the pending United Kingdom “Brexit” withdrawal from the European Union, the current economic challenges in China, including global economic ramifications of Chinese economic difficulties, and other disruptions may continue to put pressure on global economic conditions.
 In addition, reports of certain intelligence gathering methods of the U.S. government could affect customers’ perception of the products of IT companies which design and manufacture products in the United States.
-We have experienced periods of time during which shipments have exceeded net bookings or manufacturing issues have delayed shipments, leading to nonlinearity in shipping patterns.
-The timing of such orders is difficult to predict, and the timing of revenue recognition from such orders may affect period to period changes in revenue.
-In addition, our efforts to improve manufacturing lead-time performance may result in corresponding reductions in order backlog.
-
-
