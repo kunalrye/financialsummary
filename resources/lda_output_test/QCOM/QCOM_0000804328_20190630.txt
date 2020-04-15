@@ -1,47 +1,17 @@
-fls.txt
-
-
-
-item1.txt
 These condensed consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America (GAAP) for interim financial information and the instructions to Rule 10-01 of Regulation S-X.
 In the opinion of management, the interim financial information includes all normal recurring adjustments necessary for a fair statement of the results for the interim periods.
-These condensed consolidated financial statements are unaudited and should be read in conjunction with our Annual Report on Form 10-K for the fiscal year ended September 30, 2018.
 Operating results for interim periods are not necessarily indicative of operating results for an entire fiscal year.
-As previously disclosed, in connection with the preparation of our condensed consolidated financial statements for the three months ended December 30, 2018, we identified an immaterial error related to the recognition of certain royalty revenues of our QTL (Qualcomm Technology Licensing) segment in the quarterly and annual periods in fiscal 2018 and third and fourth quarters and annual period in fiscal 2017.
 Accordingly, we have revised previously reported financial information for such immaterial error, as previously disclosed in our Quarterly Report on Form 10-Q for the first and second quarters of fiscal 2019.
 A summary of revisions to certain previously reported financial information presented herein for comparative purposes is included in Note 11.
-At June 30, 2019, total unrecognized compensation expense related to nonvested restricted stock units granted prior to that date was $1.2 billion, which is expected to be recognized over a weighted-average period of 2.1 years.
-At June 30, 2019, we had outstanding 26.9 million restricted stock units and 1.1 million stock options that contain only a service requirement.
-Adoption of this new accounting guidance most significantly impacts the timing of sales-based royalty revenues, which are the vast majority of our QTL segment’s revenues.
-
-
-item2.txt
+At June 30, 2019, total unrecognized compensation expense related to nonvested restricted stock units granted prior to that date was $1.2 billion, which is expected to be recognized over a weighted-average period of 2.1 years.Additionally, statements concerning future matters that are not historical are forward-looking statements, such as statements regarding our expectations concerning: industry, market, business, commercial, competitive or consumer trends; our businesses, growth potential or strategies, or factors that may impact them; challenges to our licensing business, including by licensees, customers, governments, governmental agencies or regulators, standards bodies or others; other legal or regulatory matters; competition; product or technology trends; new or expanded product areas, adjacent industry segments or applications; costs or expenditures including research and development, selling, general and administrative, restructuring or restructuring-related charges, working capital or information technology systems; our financing, stock repurchase or dividend programs; strategic investments or acquisitions; adoption and application of future accounting guidance; tax law changes; our tax structure or strategies; or the potential business or financial statement impacts of any of the above.
 Although forward-looking statements in this Quarterly Report reflect our good faith judgment, such statements can only be based on facts and factors currently known by us.
-•We continued to invest significant resources toward advancements primarily in support of 4G- and 5G-based technologies as well as other technologies to extend the demand for our products and generate new or expanded licensing opportunities, including within adjacent industry segments outside traditional cellular industries, such as automotive, the Internet of Things (IoT) and networking.
+Readers are urged not to place undue reliance on these forward-looking statements, which speak only as of the date of this Quarterly Report.
+We undertake no obligation to revise or update any forward-looking statements in order to reflect any event or circumstance that may arise after the date of this Quarterly Report.
 •QCT results in the third quarter of fiscal 2019 were negatively impacted by lower modem sales to Apple and a decline in demand from OEMs in China.
-Prior period results have not been restated for the adoption of the new accounting guidance and continue to be reported in accordance with the accounting guidance in effect for those periods.
-•During the third quarter of fiscal 2019, the United States Treasury Department issued new temporary regulations that resulted in a change to the deductibility of dividend income received by a U.S. stockholder from a foreign corporation.
-Therefore, the related deferred tax asset previously recognized was written-off, resulting in a $2.5 billion charge to income tax expense in the third quarter of fiscal 2019.
-We develop and commercialize foundational technologies and products used in mobile devices and other wireless products, including network equipment, broadband gateway equipment and consumer electronic devices.
-The net effect of these changes negatively impacted QTL’s EBT by $127 million and $368 million in the third quarter and first nine months of fiscal 2019, respectively.
-QCT’s EBT was positively impacted by $53 million and $97 million in the third quarter and first nine months of fiscal 2019, respectively.
--$296 million in lower professional fees and costs, primarily driven by Broadcom’s withdrawn takeover proposal in fiscal 2018 and our proposed acquisition of NXP Semiconductors N.V. in fiscal 2018
-Selling, general and administrative expenses included $50 million and $273 million in the third quarter and first nine months of fiscal 2019, respectively, related to litigation costs.
-The Tax Legislation fundamentally changed the taxation of multinational entities, including a shift from a system of worldwide taxation with deferral to a hybrid territorial system, featuring a participation exemption regime with current taxation of certain foreign income, a minimum tax on low-taxed foreign earnings and new measures to deter base erosion and promote U.S. production.
-In response to the Tax Legislation and to better align our profits with activities, we implemented certain tax restructuring in fiscal 2018 and 2019.
-During the third quarter of fiscal 2019, the United States Treasury Department issued new temporary regulations that resulted in a change to the deductibility of dividend income received by a U.S. stockholder from a foreign corporation.
-Therefore, the related deferred tax asset previously recognized was written-off, resulting in a $2.5 billion charge to income tax expense in the third quarter of fiscal 2019.
-We believe that it is reasonably possible that the total amounts of unrecognized tax benefits at June 30, 2019 may increase or decrease in the next 12 months.
-Revenues and operating results related to the Small Cells business were included in nonreportable segments through the end of fiscal 2018.
-Equipment and services revenues mostly relate to sales of Mobile Station Modem (MSM), Radio Frequency (RF), Power Management (PM) and wireless connectivity integrated circuits.
-As a result of the settlement with Apple and its contract manufacturers, QTL results for the third quarter of fiscal 2019 included royalties from Apple and its contract manufactures for sales made in the June 2019 quarter.
-
-
-item4.txt
-
-
-
-part2.txt
-
-
-
+As a result of recognizing royalties using estimates, adjustments are recorded in subsequent quarters to reflect changes in estimates as new information becomes available, primarily when actual amounts are reported by licensees.
+•On July 18, 2019, the European Commission (EC) issued a decision ruling that between 2009 and 2011 we engaged in predatory pricing with respect to two customers and imposed a fine (2019 EC fine) of approximately 242 million Euros (approximately $275 million based on the exchange rate at June 30, 2019), which was recorded as a charge to other expenses in the third quarter of fiscal 2019.
+Substantially all of our products and services businesses, including QCT, and substantially all of our engineering, research and development functions, are operated by Qualcomm Technologies, Inc. (QTI), a wholly-owned subsidiary of QUALCOMM Incorporated, and QTI’s subsidiaries.
+Neither QTI nor any of its subsidiaries has any right, power or authority to grant any licenses or other rights under or to any patents owned by QUALCOMM Incorporated.
++$4.7 billion in licensing revenues recorded in the third quarter of fiscal 2019 resulting from the settlement with Apple and its contract manufacturers
+Beginning in the first quarter of fiscal 2019, all research and development costs associated with 5G technologies are included in segment results.
+Additionally, beginning in the first quarter of fiscal 2019, certain research and development costs associated with early research and development that were historically included in our QCT segment are allocated to our QTL segment.

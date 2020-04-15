@@ -1,49 +1,16 @@
-fls.txt
-
-
-
-item1.txt
 NetApp, Inc. (we, us, or the Company) provides global organizations the ability to manage and share their data across on-premises, private and public clouds.
-Together with our partners, we provide a full range of enterprise-class software, systems and services solutions that customers use to modernize their infrastructures, build next generation data centers and harness the power of hybrid clouds.
+The accompanying unaudited condensed consolidated financial statements have been prepared by the Company, and reflect all adjustments, consisting only of normal recurring adjustments, that are, in the opinion of management, necessary for the fair presentation of our financial position, results of operations, comprehensive income, cash flows and stockholders’ equity for the interim periods presented.
 The statements have been prepared in accordance with accounting principles generally accepted in the United States of America (GAAP) for interim financial information.
+Accordingly, these statements do not include all information and footnotes required by GAAP for annual consolidated financial statements, and should be read in conjunction with our audited consolidated financial statements as of and for the fiscal year ended April 26, 2019 contained in our Annual Report on Form 10-K.
+The results of operations for the three and six months ended October 25, 2019 are not necessarily indicative of the operating results to be expected for the full fiscal year or future operating periods.
 Such estimates include, but are not limited to, revenue recognition, reserves and allowances; inventory valuation and purchase order accruals; valuation of goodwill and intangibles; restructuring reserves; product warranties; employee compensation and benefit accruals; stock-based compensation; loss contingencies; investment impairments; income taxes and fair value measurements.
+In February 2016, the FASB issued an accounting standards update on financial reporting for leasing arrangements, including requiring lessees to recognize an operating lease with a term greater than one year on their balance sheets as a right-of-use (ROU) asset and corresponding lease liability, measured at the present value of the lease payments.
 In the first quarter of fiscal 2020, we adopted this new standard using the modified retrospective approach, electing the optional transition approach of not adjusting our comparative period financial statements for the impacts of adoption.
-Adoption of the standard did not have a material impact on our condensed consolidated statements of operations or condensed consolidated statements of cash flows.
-Leases − We determine if an arrangement is or contains a lease at inception, and we classify leases as operating or finance leases at commencement.
-ROU assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments over that term.
-As the rate implicit in our leases is typically not readily determinable, in computing the present value of lease payments we generally use our incremental borrowing rate based on information available at the commencement date.
-Variable lease payments not dependent on an index or rate are expensed as incurred and not included within the calculation of ROU assets and lease liabilities.
-We do not separate non-lease components from lease components for any class of leases, and we do not recognize ROU assets and lease liabilities for leases with a lease term of twelve months or less.
-The standard introduces a new model for measuring and recognizing credit losses on financial instruments, requiring financial assets measured at amortized cost basis to be presented at the net amount expected to be collected.
-On May 23, 2019, we acquired all the outstanding shares of privately-held Cognigo Research Ltd., a provider of data discovery classification software designed to manage and protect critical data, for $58 million in cash.
-
-
-item2.txt
+We also elected the package of practical expedients that did not require us to reassess existing leases under the new guidance, and the practical expedient to not separate lease and non-lease components for all leases.We provide a full range of hybrid cloud data services that simplify management of applications and data across cloud and on-premises environments to accelerate digital transformation.
 Together with our partners, we empower global organizations to unleash the full potential of their data to expand customer touchpoints, foster greater innovation and optimize their operations.
 We deliver a Data Fabric with consistent data services for data visibility and insights, data access and control, and data protection and security, that unleashes the power of data to achieve a new competitive advantage.
-We focus on delivering an exceptional customer experience to become our customers’ preferred data partner.
-NetApp’s unique approach to data services enables organizations to inspire innovation with the cloud, build clouds to accelerate new services, and modernize IT architecture with cloud-connected flash.
-Continually fuel business growth by delivering data-rich customer experiences through new application deployments that easily use data and services regardless of where they reside or in what form.
-Free the resources necessary to fund transformation by deploying the industry’s leading flash storage solution, which is highly efficient and scales from the edge to the core to the cloud.
-Our Data Fabric approach enables our customers to manage, secure and protect their data from on-premises to public to hybrid clouds, all at the scale needed to accommodate the exponential data growth of the digital world.
-
-
-item3.txt
-Our investment portfolio primarily consists of investments with original maturities greater than three months at the date of purchase, which are classified as available-for-sale investments.
-
-
-item4.txt
-
-
-
-part2.txt
-The following information should be read in conjunction with the condensed consolidated financial statements and the related notes in Part I, Item 1 – Financial Statements and Part I, Item 2 – Management’s Discussion and Analysis of Financial Condition and Results of Operations of this Form 10-Q.
-If we are unable to develop, introduce and gain market acceptance for new products and services while managing the transition from older ones, or if we cannot provide the expected level of quality and support for our new products and services, our business, operating results and financial condition could be harmed.
+We focus on delivering an exceptional customer experience to become our customers’ preferred data partner.The following information should be read in conjunction with the condensed consolidated financial statements and the related notes in Part I, Item 1 – Financial Statements and Part I, Item 2 – Management’s Discussion and Analysis of Financial Condition and Results of Operations of this Form 10-Q.
 Due to the complexity of storage software, subsystems and appliances and the difficulty in gauging the engineering effort required to produce new products and services, such products and services are subject to significant technical and quality control risks.
 We offer customers a full range of consumption models, including the deployment of our software through our subscription and cloud-based Software as a Service (SaaS), and utility pricing and managed services offerings for our hardware and software systems.
-As customer demand for our consumption model offerings increases, we will experience differences in the timing of revenue recognition between our traditional hardware and software license arrangements, including for the software license components of enterprise software license agreements (for which revenue is generally recognized in full at the time of delivery), relative to our consumption model offerings, (for which revenue is generally recognized ratably over the term of the arrangement).
 We incur certain expenses associated with the infrastructure and marketing of our consumption model offerings in advance of our ability to recognize the revenues associated with these offerings.
 We compete with many companies in the markets we serve, including established public companies, newer public companies with a strong flash focus, and new market entrants addressing the growing opportunity for hyper-converged systems.
-Technology trends, such as the emergence of hosted or public cloud storage, SaaS and flash storage are driving significant changes in storage architectures and solution requirements.
-
-

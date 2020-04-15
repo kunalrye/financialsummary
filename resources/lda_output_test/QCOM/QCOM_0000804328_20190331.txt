@@ -1,47 +1,18 @@
-fls.txt
-
-
-
-item1.txt
-These condensed consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America (GAAP) for interim financial information and the instructions to Rule 10-01 of Regulation S-X.
+Accordingly, they do not include all of the information and notes required by GAAP for complete financial statements.
 In the opinion of management, the interim financial information includes all normal recurring adjustments necessary for a fair statement of the results for the interim periods.
+These condensed consolidated financial statements are unaudited and should be read in conjunction with our Annual Report on Form 10-K for the fiscal year ended September 30, 2018.
 Operating results for interim periods are not necessarily indicative of operating results for an entire fiscal year.
 As previously disclosed, in connection with the preparation of our condensed consolidated financial statements for the three months ended December 30, 2018, we identified an immaterial error related to the recognition of certain royalty revenues of our QTL (Qualcomm Technology Licensing) segment in the quarterly and annual periods in fiscal 2018 and third and fourth quarters and annual period in fiscal 2017.
 A summary of revisions to certain previously reported financial information presented herein for comparative purposes is included in Note 11.
-At March 31, 2019, total unrecognized compensation expense related to nonvested restricted stock units granted prior to that date was $1.4 billion, which is expected to be recognized over a weighted-average period of 2.2 years.
 At March 31, 2019, we had outstanding 30.4 million restricted stock units that contain only a service requirement and 3.1 million stock options that contain only a service requirement.
-Prior to adoption, we recognized sales-based royalties as revenues in the period in which such royalties were reported by licensees, which was after the conclusion of the quarter in which the licensees’ sales occurred and when all other revenue recognition criteria had been met.
-Since we do not invoice for sales-based royalties estimated and recognized in any given quarter until after the conclusion of that quarter (which is generally the following quarter when such royalties are reported by licensees), revenues recognized from sales-based royalties results in unbilled receivables (included in accounts receivable, net on the consolidated balance sheet).
-Adoption of the new accounting guidance had no impact to net cash provided (used) by operating, financing or investing activities on our condensed consolidated statement of cash flows for the six months ended March 31, 2019.
-In November 2016, the FASB issued new accounting guidance that requires companies to include restricted cash and cash equivalents as a component in total cash and cash equivalents on the statement of cash flows.
-As a result, the consolidated statement of cash flows no longer reflects transfers between cash and cash equivalents and restricted cash and cash equivalents.
-We adopted the new accounting guidance in the first quarter of fiscal 2019 using the retrospective transition method, which results in certain amounts in fiscal 2018 being adjusted to conform to the new accounting guidance.
-
-
-item2.txt
+Adoption of this new accounting guidance most significantly impacts the timing of sales-based royalty revenues, which are the vast majority of our QTL segment’s revenues.Additionally, statements concerning future matters that are not historical are forward-looking statements, such as statements regarding our expectations concerning: industry, market, business, commercial, competitive or consumer trends; our businesses, growth potential or strategies, or factors that may impact them; attacks on our licensing business, including by licensees, customers, governments, governmental agencies or regulators, standards bodies or others; other legal or regulatory matters; competition; product or technology trends; new or expanded product areas, adjacent industry segments or applications; costs or expenditures including research and development, selling, general and administrative, restructuring or restructuring-related charges, working capital or information technology systems; our financing, stock repurchase or dividend programs; strategic investments or acquisitions; adoption and application of future accounting guidance; tax law changes; our tax structure or strategies; or the potential business or financial statement impacts of any of the above.
 Although forward-looking statements in this Quarterly Report reflect our good faith judgment, such statements can only be based on facts and factors currently known by us.
 •On April 16, 2019, we entered into settlement agreements with Apple and its contract manufacturers to dismiss all outstanding litigation between the parties.
-We also entered into a six-year global patent license agreement with Apple, effective as of April 1, 2019, which includes an option for Apple to extend for two additional years, and a multi-year chipset supply agreement with Apple.
 •We adopted new revenue recognition accounting guidance in the first quarter of fiscal 2019 that requires us to estimate and recognize QTL royalties in the period in which the associated sales occur, resulting in an acceleration of royalty revenues by one quarter compared to the prior method.
 in subsequent quarters to reflect changes in estimates as new information becomes available, primarily when actual amounts are reported by licensees.
 Prior period results have not been restated for the adoption of the new accounting guidance and continue to be reported in accordance with the accounting guidance in effect for those periods.
 Revenues in the second quarter of fiscal 2019 did not include royalties due on sales of Apple or other products by Apple’s contract manufacturers.
+This represents a minimum, non-refundable amount for royalties due for the second quarter of fiscal 2019 by Huawei while negotiations continue.
 •In the second quarter of fiscal 2018, we announced a Cost Plan designed to align our cost structure to our long-term margin targets, under which we initiated a series of targeted actions across our businesses with the objective to reduce annual costs by $1 billion, excluding incremental costs resulting from any future acquisition of a business.
 We develop and commercialize foundational technologies and products used in mobile devices and other wireless products, including network equipment, broadband gateway equipment and consumer electronics devices.
-In fiscal 2018, all of the costs related to pre-commercial research and development of 5G technologies, of which we recorded $115 million and $216 million in the second quarter and first six months of fiscal 2018, respectively, were included in unallocated corporate research and development expenses.
-Stock repurchases made under this program have significantly reduced the amount of our cash, cash equivalents and marketable securities, resulting in a decrease to interest and dividend income.
-The Tax Legislation fundamentally changed the taxation of multinational entities, including a shift from a system of worldwide taxation with deferral to a hybrid territorial system, featuring a participation exemption regime with current taxation of certain foreign income, a minimum tax on low-taxed foreign earnings and new measures to deter base erosion and promote U.S. production.
-We believe that it is reasonably possible that the total amounts of unrecognized tax benefits at March 31, 2019 may increase or decrease in the next 12 months.
-During the first quarter of fiscal 2019, we combined our Small Cells business, which sells products designed for the implementation of small cells to address the challenge of meeting the increased demand for mobile data, into our QCT segment.
-Revenues and operating results related to the Small Cells business were included in nonreportable segments through the end of fiscal 2018.
-QTL results in the second quarter and first six months of fiscal 2019 reflected the adoption of the new accounting guidance that requires us to estimate and recognize QTL royalties in the period in which the associated sales occur, resulting in an acceleration of royalty revenues by one quarter as compared to fiscal 2018.
-
-
-item4.txt
-
-
-
-part2.txt
-
-
-
+All of our products and services businesses, including QCT, and all of our engineering, research and development functions, are operated by Qualcomm Technologies, Inc. (QTI), a wholly-owned subsidiary of QUALCOMM Incorporated, and QTI’s subsidiaries.

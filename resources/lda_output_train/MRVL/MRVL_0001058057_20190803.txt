@@ -1,49 +1,17 @@
-fls.txt
-
-
-
-item1.txt
+The unaudited condensed consolidated financial statements of Marvell Technology Group Ltd., a Bermuda exempted company, and its wholly owned subsidiaries (the “Company”), as of and for the three and six months ended August 3, 2019, have been prepared as required by the U.S. Securities and Exchange Commission (the “SEC”).
 Certain information and footnote disclosures normally included in financial statements prepared in accordance with U.S. generally accepted accounting principles (“U.S.
 These unaudited condensed consolidated financial statements and related notes should be read in conjunction with the Company's fiscal year 2019 audited financial statements included in the Company's Annual Report on Form 10-K for the fiscal year ended February 2, 2019.
-In the opinion of management, the financial statements include all adjustments, including normal recurring adjustments and other adjustments, that are considered necessary for fair presentation of the Company’s financial position and results of operations.
 These financial statements should also be read in conjunction with the Company’s critical accounting policies included in the Company’s Annual Report on Form 10-K for the year ended February 2, 2019 and those included in this Form 10-Q below.
-The transaction is expected to close by December 2019, subject to regulatory approval as well as other customary closing conditions.
 On May 20, 2019, the Company announced its intent to acquire Avera Semiconductor (“Avera”), the application specific integrated circuit (“ASIC”) business of GlobalFoundries Inc. (“GlobalFoundries”).
+The Company will pay GlobalFoundries $650 million in cash at closing, subject to certain adjustments, plus an additional $90 million in cash if certain business conditions are satisfied within the next 15 months.
 The transaction is expected to close by January 2020 pending receipt of regulatory approvals and other customary closing conditions.
-The business employs approximately 550 people worldwide and generated approximately $300 million in revenue in the Company's fiscal 2019.
-This transaction is expected to close by the first quarter of calendar 2020, subject to customary closing conditions and regulatory approvals.
 As of August 3, 2019, the Company classified assets held for sale of $597.7 million, which consisted of $28.2 million of inventory, $6.1 million of property, plant and equipment, $557.8 million of goodwill and $5.6 million of right-of-use lease asset.
-In addition, the Company classified liabilities held for sale of $5.6 million associated with lease liability in the condensed consolidated balance sheet.
 In February 2016, the Financial Accounting Standards Board (“FASB”) issued a new standard on the accounting for leases, which amends the existing guidance to require lessees to recognize assets and liabilities on the balance sheet for the rights and obligation created by long-term leases and to disclose additional quantitative and qualitative information about leasing arrangements.
-In June 2016, the FASB issued a new standard requiring financial assets measured at amortized cost be presented at the net amount expected to be collected, through an allowance for credit losses that is deducted from the amortized cost basis.
-The standard eliminates the threshold for initial recognition in current GAAP and reflects an entity’s current estimate of all expected credit losses.
-In August 2018, the FASB issued an accounting standards update to align the requirements for capitalizing implementation costs incurred in a software hosting arrangement that is a service contract and costs to develop or obtain internal-use software.
-
-
-item2.txt
-This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), which are subject to the “safe harbor” created by those sections.
-We are a fabless semiconductor supplier of high-performance standard and semi-custom products with core strengths in developing and scaling complex System-on-a-Chip architectures integrating analog, mixed-signal and digital signal processing functionality.
-Leveraging leading intellectual property and deep system-level expertise as well as highly innovative security firmware, our solutions are empowering the data economy and enabling communications across 5G, cloud, automotive, industrial and artificial intelligence applications.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-The information under the caption “Contingencies” as set forth in “Note 10 – Commitments and Contingencies” of our Notes to Unaudited Condensed Consolidated Financial Statements, included in Part I, Item 1, is incorporated herein by reference.
+The Company adopted the new lease accounting standard on February 3, 2019, using the modified retrospective approach by applying the new standard to leases existing at the date of initial application and not restating comparative periods.This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), which are subject to the “safe harbor” created by those sections.
+We are a fabless semiconductor supplier of high-performance standard and semi-custom products with core strengths in developing and scaling complex System-on-a-Chip architectures integrating analog, mixed-signal and digital signal processing functionality.The information under the caption “Contingencies” as set forth in “Note 10 – Commitments and Contingencies” of our Notes to Unaudited Condensed Consolidated Financial Statements, included in Part I, Item 1, is incorporated herein by reference.
 Many of these risks and uncertainties are beyond our control, including business cycles and seasonal trends of the computing, infrastructure, semiconductor and related industries and end markets.
 •changes in general economic conditions, such as the impact of Brexit on the economy in the E.U., political conditions, such as the recent tariffs and trade bans, and specific conditions in the end markets we address, including the continuing volatility in the technology sector and semiconductor industry;
 •failure of our customers to agree to pay for NRE (non-recurring engineering) costs or failure to pay enough to cover the costs we incur in connection with NREs.
 Our long-term strategy may include identifying and acquiring, investing in or merging with suitable candidates on acceptable terms, or divesting of certain business lines or activities.
 Given that our resources are limited, our decision to pursue a transaction has opportunity costs; accordingly, if we pursue a particular transaction, we may need to forgo the prospect of entering into other transactions that could help us achieve our strategic objectives.
 Our proposed acquisitions of Aquantia and Avera involve a number of risks, including, among others, those associated with our use of a significant portion of our cash or our taking on significant indebtedness and other financial risks and integration risks.
-To the extent we are attempting to integrate multiple businesses such as the Other Acquisitions and to separate technology in connection with the NXP divestiture at the same time, we may not be able to do so as efficiently or effectively as we would prefer.
-In connection with the integration of the Avera acquisition we may be required to obtain a U.S. government security clearance before we can market and sell our products to certain customers.
-If regulatory activity, such as enforcement of U.S. export control and sanctions laws, or the imposition of new tariffs, were to materially limit our ability to make sales to any of our significant customers in China, it could harm our results of operations, reputation and financial condition.
-
-

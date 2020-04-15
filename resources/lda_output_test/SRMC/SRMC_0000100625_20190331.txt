@@ -1,8 +1,3 @@
-fls.txt
-Our actual results could differ materially from those anticipated in these forward-looking statements as a result of certain factors, including, without limitation, general economic conditions in both foreign and domestic markets, changes in the economy and the credit market, investment and research and development plans and success, market position and penetration, strategic plans and objectives, operating margins, government and regulatory approvals or certifications, cyclical factors affecting our industry, our ability to identify, attract, motivate and retain qualified personnel, lack of growth in our end-markets, our ability to develop and manufacture, seasonality in our products, availability of components and materials used in our products, and our ability to sell both new and existing products at a profitable yet competitive price and those issues described under the heading “Critical Accounting Policies,” below, and those risk factors identified in Item1A, Risk Factors, of our Annual Report on Form 10-K for our fiscal year ended December 31, 2018, which was filed with the SEC on April 1, 2019, as such section may be updated in our subsequent Forms 10-K, 10-Q and 8-K filed with, or furnished to, the SEC.
-
-
-item1.txt
 The accompanying unaudited interim condensed financial statements have been prepared by Sierra Monitor Corporation (the “Company,” “we,” or “us”) pursuant to the rules and regulations of the Securities and Exchange Commission (the “SEC”).
 In the opinion of the Company, all adjustments, including normal recurring adjustments necessary to present fairly the financial position, results of operations, and cash flows of the Company for the interim period have been included.
 On March 28, 2019 the Company entered into an Agreement and Plan of Merger (the “Merger Agreement”) MSA Safety Incorporated (“MSA”), a global safety equipment manufacturer and MSA’s indirect, wholly owned subsidiary, Gateway Merger Sub, Inc., a California corporation (“Merger Sub”).
@@ -12,35 +7,11 @@ Under the Merger Agreement, at the Effective Time of the Merger, MSA Safety will
 The Company’s FieldServer family of protocol gateways, routers, and network explorers targets facility automation requirements, and is used by original equipment manufacturers (“OEMs”) and system integrators to enable local and remote monitoring and control of assets and facilities.
 The FieldServer family of products works with the FieldPoP™ device cloud portal; a cloud-based service that registers and manages FieldServer products, provides secure remote access to the local web-based applications that run on FieldServer products, and integrates with third-party applications over REST APIs.
 With more than 200,000 installed gateways supporting over 140 protocols such as BACnet, LonWorks, MODBUS, and XML in commercial and industrial facilities, FieldServer is the industry’s leading multi-protocol gateway brand and is delivered in a variety of form factors appropriate to the asset being interfaced.
-The intellectual property in FieldServer products is embodied in the proprietary embedded software that runs on a variety of customized hardware platforms with different connectivity options such as Serial, Ethernet, WiFi, or cellular.
-In addition to bridging data protocols between various assets or devices within a facility, the embedded software includes value-added “fog” or “local application” software for monitoring, logging, alarming, and trending local field data.
-Additionally, the embedded software enables the assets or devices in the facility to securely connect to third-party clouds and to the Company’s own FieldPoP device cloud portal.
-The FieldPoP device cloud portal is a proprietary, secure, and scalable Software-as-a-Service product and is developed and deployed using the same core technologies and providers that are used by many of the world’s leading web sites and Internet-based services.
-The Company’s solutions are also sold to telecommunication companies and their suppliers to manage environmental and security conditions such as temperature, gas, and smoke in remote structures such as local DSL distribution nodes and buildings at cell tower sites.
-ASC 606 requires the recognition of revenue when promised goods or services are transferred to customers in an amount that reflects the considerations to which the entity expects to be entitled to in exchange for those goods or services.
-
-
-item2.txt
-This Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”).
+The intellectual property in FieldServer products is embodied in the proprietary embedded software that runs on a variety of customized hardware platforms with different connectivity options such as Serial, Ethernet, WiFi, or cellular.This Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”).
 The increase in sales in the first quarter of 2019 compared to the same period in the prior year was primarily attributable to increased revenue in both our FieldServer OEM and system integrator channels.
 Our flame and gas detection products are generally sold to engineering and installation firms who utilize the products as part of larger fire and safety projects in a variety of facilities, such as oil, gas and chemical processing plants, wastewater treatment facilities, alternate fuel vehicle maintenance garages, and other sites where hazardous gases are used or produced.
 Our FieldServer products are primarily sold to OEMs who develop a broad range of products relevant to facility automation, such as boilers, chillers, air handlers, lighting controls, generator sets, electric sub-meters, etc.
 Our FieldServer products are also bought by system integrators looking to connect various discrete automation sub-systems to a common facility management system.
 Our IoT focused products are showing growth due to pull through from other solutions like our SMC Cloud offer which is enabling device management, visualization and analytics.
 Gross profit for the three-month period ended March 31, 2019 was $3,249,960, or 58.8% of net sales, compared to $3,166,454, or 61.5% of net sales, for the same period in the prior year.
-Selling and marketing expenses remained constant compared to the first quarter of 2018 as we continue customer outreach and focus on both our OEM and system integrator channels.
-General and administrative expenses for the first quarter of 2019 were $1,027,880, or 18.6% of net sales, compared to $914,712, or 17.8% of net sales, in the same period in the prior year.
-General and administrative expenses increased in the first quarter of 2019 compared to the same period in the prior year primarily due to technology upgrades to key customer and delivery focused systems.
-Income from operations for the three-month period ended March 31, 2019 was $85,351, or 1.5% of net sales, compared to income of $90,950, or 1.8% of net sales, in the same period in the prior year.
-Net income for the three-month period ended March 31, 2019 was $41,672 or approximately 0.8% of net sales, compared to net income of $51,261, or approximately 1.0% of net sales, for the same period in the prior year.
-During the three months ended March 31, 2019, net cash used in operating activities was $574,698 compared to $378,147 net cash provided by operating activities for the same period in the prior year.
-
-
-item4.txt
-
-
-
-part2.txt
-
-
-
+Expenses for research and development, which include new product development and engineering to sustain existing products, were $738,720, or 13.4% of net sales, for the three-month period ended March 31, 2019, compared with $774,428, or 15.0% of net sales, in the same period in the prior year.

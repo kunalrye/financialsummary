@@ -1,46 +1,17 @@
-fls.txt
-
-
-
-item1.txt
 The accompanying financial information should be read in conjunction with the consolidated financial statements and notes thereto contained in Teradynes Annual Report on Form 10-K, filed with the U.S. Securities and Exchange Commission (SEC) on March 1, 2018, for the year ended December 31, 2017.
 Teradyne adopted Accounting Standards Update (ASU) 2014-09, Revenue from Contracts with Customers (ASC 606) on January 1, 2018 using the modified retrospective method for all contracts not completed as of the date of adoption.
 Teradyne determines performance obligations by assessing whether the products or services are distinct from the other elements of the contract.
+Transaction price is allocated to each individual performance obligation based on the standalone selling price of that performance obligation.
 In order to determine the appropriate timing for revenue recognition, Teradyne first determines if the transaction meets any of three criteria for over time recognition.
+If the transaction meets the criteria for over time recognition, Teradyne recognizes revenue as the good or service is delivered.
 For transactions that do not meet the criteria for over time recognition, Teradyne will recognize revenue at a point in time based on an assessment of the five criteria for transfer of control.
+Teradyne has concluded that revenue should be recognized when shipped or delivered based on contractual terms.
 Typically acceptance of Teradynes products and services is a formality as Teradyne delivers similar systems, instruments and robots to standard specifications.
-For the three and six months ended July 1, 2018, Teradyne also recognized $3.6 million and $7.9 million, respectively, in revenue on leases of Teradyne systems, which are accounted for outside of ASC 606.
+In cases where acceptance is not deemed a formality, Teradyne will defer revenue recognition until customer acceptance.
 The following table provides information about disaggregated revenue by primary geographical market, major product line and timing of revenue recognition.
-Customers have the option to purchase an extended warranty, which extends the warranty period for systems and robots beyond the one-year standard warranty.
-Teradyne sells training and applications support to customers either in standalone transactions or included with system purchases.
-Training and applications support included in system orders are valued based on their standalone selling price and all training and applications support is recognized over time as the customer receives and consumes the benefit associated with each.
-Teradyne provides support services for certain systems and robots outside of warranty.
-Teradyne has estimated the standalone selling price for these services based on adjusted market assessments.
-Customers typically pay for these services net 30 to 60 days from the date that transfer of control of the associated system or product occurs.
-Teradyne has adopted the practical expedients available within ASC 340 Other Assets and Deferred Costs for contract assets, specifically in relation to incremental costs of obtaining a contract.
-Teradyne has adopted the practical expedient, which states an entity need not adjust the promised amount of consideration for the effects of a significant financing component if the entity expects, at contract inception, that the period between when the entity transfers a promised good or service to the customer and when the customer pays for that good or service will be one year or less.
-Differences are the result of timing differences between the recognition of revenue under ASC 606 and ASC 605 primarily with respect to software transactions deferred due to lack of vendor specific objective evidence of price under ASC 605 and Teradynes assessment of acceptance under ASC 606.
-Teradyne continues to record realized gains in interest income and realized losses in interest expense.
-
-
-item2.txt
-Statements in this Quarterly Report on Form 10-Q which are not historical facts, so called forward-looking statements, are made pursuant to the safe harbor provisions of Section 21E of the Securities Exchange Act of 1934, as amended.
+The extended warranty is purchased in the same transaction as the system or robot purchase and is classified as a separate performance obligation, which meets the criteria for over time recognition.Statements in this Quarterly Report on Form 10-Q which are not historical facts, so called forward-looking statements, are made pursuant to the safe harbor provisions of Section 21E of the Securities Exchange Act of 1934, as amended.
 During the first quarter of 2018, demand outlook for mobile device test capacity in 2018 declined sharply for our Semiconductor Test business.
+On February 26, 2018, we acquired Energid Technologies Corporation (Energid) for a total purchase price of approximately $27.6 million.
 Energids technology enables and simplifies the programming of complex robotic motions used in a wide variety of end markets, ranging from heavy industry to healthcare, utilizing both traditional robots and collaborative robots.
-The total purchase price for MiR was approximately $197 million, which included cash paid of approximately $146 million and $51 million in fair value of contingent consideration payable upon achievement of revenue and earnings targets through 2020.
+On April 25, 2018, we acquired Mobile Industrial Robots ApS (MiR), a Danish limited liability company.
 The amount of revenue recognized reflects the consideration to which we expect to be entitled to receive in exchange for fulfillment of the performance obligation.
-In order to be distinct, the product or service must perform either on its own or with readily available resources and must be separate within the context of the contract.
-In order to determine the appropriate timing for revenue recognition, we first determine if the transaction meets any of three criteria for over time recognition.
-We use input variables such as hours or months utilized or costs incurred to determine the amount of revenue to recognize in a given period.
-Typically acceptance of our products and services is a formality as we deliver similar systems, instruments and robots to standard specifications.
-The non-service components of net benefit costs such as interest cost, expected return on assets, amortization of prior service cost, and actuarial gains or losses, are required to be reported separately outside of income or loss from operations.
-
-
-item3.txt
-In addition to market risks described in our Annual Report on Form 10-K, we have an equity price risk related to the fair value of our convertible senior unsecured notes issued in December 2016.
-
-
-part2.txt
-On July 6, 2018, the United States Trade Representative imposed a 25% tariff on a list of products, including certain Teradyne products that are made in China and imported into the United States.
-
-

@@ -1,50 +1,17 @@
-fls.txt
-
-
-
-item1.txt
 Western Digital Corporation (“Western Digital” or “the Company”) is a leading developer, manufacturer, and provider of data storage devices and solutions that address the evolving needs of the information technology (“IT”) industry and the infrastructure that enables the proliferation of data in virtually every other industry.
 The Company is driving the innovation needed to help customers capture, preserve, access and transform an ever-increasing diversity of data.
 Everywhere data lives, from advanced data centers to mobile sensors to personal devices, the Company’s industry-leading solutions deliver the possibilities of data.
 Certain information and footnote disclosures normally included in the Consolidated Financial Statements prepared in accordance with accounting principles generally accepted in the United States (“U.S.
 These Condensed Consolidated Financial Statements should be read in conjunction with the Consolidated Financial Statements and the notes thereto included in the Company’s Annual Report on Form 10‑K for the fiscal year ended June 28, 2019.
 Fiscal year 2020, which ends on July 3, 2020, will be comprised of 53 weeks, with the first quarter consisting of 14 weeks and the remaining quarters consisting of 13 weeks each.
-Contract assets represent the Company’s rights to consideration where performance obligations are completed but the customer payments are not due until another performance obligation is satisfied.
 The Company has applied the practical expedient to recognize the direct incremental costs of obtaining contracts as an expense when incurred if the amortization period is expected to be one year or less or the amount is not material, with these costs charged to selling, general and administrative expenses.
+Direct incremental costs to obtain contracts that have an expected benefit of greater than one year are amortized over the period of expected cash flows from the related contracts, and the amortization expense is recorded as a reduction to revenue.
 Total capitalized contract costs as of October 4, 2019 and June 28, 2019 as well as the related amortization for the three months ended October 4, 2019 and September 28, 2018 were not material.
-Contract liabilities relate to customers’ payments in advance of performance under the contract and primarily relate to remaining performance obligations under support and maintenance contracts.
-From time to time, in connection with factoring agreements, the Company sells trade accounts receivable without recourse to third party purchasers in exchange for cash.
-During the three months ended October 4, 2019 and September 28, 2018, the Company sold trade accounts receivable and received cash proceeds of $85 million and $243 million, respectively.
-Level 2.Inputs other than Level 1 that are observable, either directly or indirectly, such as quoted prices for similar assets or liabilities; quoted prices in markets that are not active; or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities.
-During the three months ended October 4, 2019 and September 28, 2018, the Company had no transfers of financial assets and liabilities between levels.
-The carrying value of the Company’s revolving credit facility approximates its fair value given the revolving nature of the balance and the variable market interest rate.
-
-
-item2.txt
-Unless otherwise indicated, references herein to specific years and quarters are to our fiscal years and fiscal quarters.
-We are a leading developer, manufacturer and provider of data storage devices and solutions that address the evolving needs of the information technology (“IT”) industry and the infrastructure that enables the proliferation of data in virtually every other industry.
-Everywhere data lives, from advanced data centers to mobile sensors to personal devices, our industry-leading solutions deliver the possibilities of data.
-Fiscal year 2020, which ends on July 3, 2020, will be comprised of 53 weeks, with the first quarter consisting of 14 weeks and the remaining quarters consisting of 13 weeks each.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-We rely substantially on our business ventures with Kioxia Corporation (“Kioxia”) for the development and supply of flash-based memory, which subjects us to risks and uncertainties that could harm our business, financial condition and operating results.
+Contract liabilities relate to customers’ payments in advance of performance under the contract and primarily relate to remaining performance obligations under support and maintenance contracts.Unless otherwise indicated, references herein to specific years and quarters are to our fiscal years and fiscal quarters.
+We are a leading developer, manufacturer and provider of data storage devices and solutions that address the evolving needs of the information technology (“IT”) industry and the infrastructure that enables the proliferation of data in virtually every other industry.We rely substantially on our business ventures with Kioxia Corporation (“Kioxia”) for the development and supply of flash-based memory, which subjects us to risks and uncertainties that could harm our business, financial condition and operating results.
 We partner with Kioxia on the development of flash-based technology, including future generations of 3D NAND, as well as other non-volatile memory technology in support of Flash Ventures.
 Substantially all of our flash-based memory is supplied by Flash Ventures, which limits our ability to respond to market demand and supply changes.
+A failure to accurately forecast demand could cause us to over-invest or under-invest in technology transitions or the expansion of Flash Ventures’ capacity.
 If our supply is limited, we may make strategic decisions with respect to the allocation of our supply among our products and customers, and these strategic allocation decisions may result in less favorable gross margin or damage certain customer relationships.
 We are contractually obligated to pay for 50% of the fixed costs of Flash Ventures regardless of whether we purchase any wafers from Flash Ventures.
-As K1 is located at a new manufacturing site, K1 could be particularly susceptible to delays and other challenges in the production ramp and yields, qualification of wafers, shipment of samples to customers and customer approval process.
-If and for so long as our share of the K1 capacity falls below a specified threshold, we will be responsible for bearing fixed costs associated with K1’s operations at that threshold, which could adversely affect our financial results.
-Demand for our devices, software and solutions that we offer to our customers, which we refer to in this Item 1A as our “products”, depends in large part on the demand for systems (including personal computers (“PCs”) and mobile devices) manufactured by our customers and on storage upgrades to existing systems.
-Further, our ASPs and gross margins tend to decline when there is a shift in the mix of product sales, and sales of lower priced products increase relative to those of higher priced products.
-Rapid technological changes often reduce the volume and profitability of sales of existing products and increase the risk of inventory obsolescence.
-
-
+Output from the initial production line, which is expected in the first half of calendar year 2020, could be delayed, reduced or otherwise fail to meet our expectations.

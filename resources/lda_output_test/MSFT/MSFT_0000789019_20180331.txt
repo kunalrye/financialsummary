@@ -1,50 +1,16 @@
-fls.txt
-
-
-
-item1.txt
 Our unaudited interim consolidated financial statements and accompanying notes are prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”).
+The information included in this Form 10-Q should be read in conjunction with information included in the Microsoft Corporation 2017 Form 10-K filed with the U.S. Securities and Exchange Commission on August 2, 2017.
 We have also recast prior period securities lending payables to other current liabilities on our consolidated balance sheets to conform to the current period presentation, with no impact on consolidated net income or cash flows.
-Equity investments for which we are able to exercise significant influence over but do not control the investee and are not the primary beneficiary of the investee’s activities are accounted for using the equity method.
+The consolidated financial statements include the accounts of Microsoft Corporation and its subsidiaries.
 Investments for which we are not able to exercise significant influence over the investee and which do not have readily determinable fair values are accounted for under the cost method.
+Customers may purchase perpetual licenses or subscribe to licenses, which provide customers with the same functionality and differ mainly in the duration over which the customer benefits from the software.
 Revenue from distinct on-premises licenses is recognized upfront at the point in time when the software is made available to the customer.
-Revenue from search advertising is recognized when the advertisement appears in the search results or when the action necessary to earn the revenue has been completed.
-Our hardware is generally highly dependent on, and interrelated with, the underlying operating system and cannot function without the operating system.
-In these cases, the hardware and software license are accounted for as a single performance obligation and revenue is recognized at the point in time when ownership is transferred to resellers or directly to end customers through retail stores and online marketplaces.
-Refer to Note 19 – Segment Information and Geographic Data for further information, including revenue by significant product and service offering.
-Our contracts with customers often include promises to transfer multiple products and services to a customer.
-Determining whether products and services are considered distinct performance obligations that should be accounted for separately versus together may require significant judgment.
-When a cloud-based service includes both on-premises software licenses and cloud services, judgment is required to determine whether the software license is considered distinct and accounted for separately, or not distinct and accounted for together with the cloud service and recognized over time.
-We use a range of amounts to estimate SSP when we sell each of the products and services separately and need to determine whether there is a discount to be allocated based on the relative SSP of the various products and services.
-In instances where SSP is not directly observable, such as when we do not sell the product or service separately, we determine the SSP using information that may include market conditions and other observable inputs.
-Due to the various benefits from and the nature of our SA program, judgment is required to assess the pattern of delivery, including the exercise pattern of certain benefits across our portfolio of customers.
-
-
-item2.txt
-We strive to create local opportunity, growth, and impact in every country around the world.
-We develop, license, and support a wide range of software products, services, and devices that deliver new opportunities, greater convenience, and enhanced value to people’s lives.
+In cases where we allocate revenue to software updates, primarily because the updates are provided at no additional charge, revenue is recognized as the updates are provided, which is generally ratably over the estimated life of the related device or license.
+Certain volume licensing programs, including Enterprise Agreements, include on-premises licenses combined with Software Assurance (“SA”).
+Revenue related to cloud services provided on a consumption basis, such as the amount of storage used in a period, is recognized based on the customer utilization of such resources.We develop, license, and support a wide range of software products, services, and devices that deliver new opportunities, greater convenience, and enhanced value to people’s lives.
 Our platforms and tools help drive small business productivity, large business competitiveness, and public-sector efficiency.
 They also support new startups, improve educational and health outcomes, and empower human ingenuity.
-We generate revenue by licensing and supporting an array of software products, by offering a wide range of cloud-based and other services to consumers and businesses, by designing, manufacturing, and selling devices that integrate with our cloud-based services, and by delivering relevant online advertising to a global audience.
-Office Consumer revenue increased 12% and Office 365 consumer subscribers increased to 30.6 million.
-Server products and cloud services revenue increased 20%, driven by Azure revenue growth of 93%.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
+We generate revenue by licensing and supporting an array of software products, by offering a wide range of cloud-based and other services to consumers and businesses, by designing, manufacturing, and selling devices that integrate with our cloud-based services, and by delivering relevant online advertising to a global audience.We face intense competition across all markets for our products and services, which may lead to lower revenue or operating margins.
 Our competitors range in size from diversified global companies with significant research and development resources to small, specialized firms whose narrower product lines may let them be more effective in deploying technical, marketing, and financial resources.
 Barriers to entry in many of our businesses are low and many of the areas in which we compete evolve rapidly with changing and disruptive technologies, shifting user needs, and frequent introductions of new products and services.
 Our ability to remain competitive depends on our success in making innovative products, devices, and services that appeal to businesses and consumers.
-A competing vertically-integrated model, in which a single firm controls the software and hardware elements of a product and related services, has succeeded with some consumer products such as personal computers, tablets, phones, gaming consoles, and wearables.
-Even if many users view these devices as complementary to a personal computer, the prevalence of these devices may make it more difficult to attract application developers to our PC operating system platforms.
-In addition, some of our devices compete with products made by our original equipment manufacturer (“OEM”) partners, which may affect their commitment to our platform.
-To compete, we must successfully enlist developers to write applications for our marketplace and ensure that these applications have high quality, customer appeal, and value.
-
-

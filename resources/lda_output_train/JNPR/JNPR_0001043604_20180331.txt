@@ -1,46 +1,17 @@
-fls.txt
-
-
-
-item1.txt
 The unaudited Condensed Consolidated Financial Statements of Juniper Networks, Inc. (the “Company” or “Juniper”) have been prepared in accordance with U.S. generally accepted accounting principles (“U.S.
-The Condensed Consolidated Balance Sheet as of December 31, 2017, has been derived from the audited Consolidated Financial Statements at that date.
-The results of operations for the three months ended March 31, 2018, are not necessarily indicative of the results that may be expected for the year ending December 31, 2018, or any future period.
 Except for the change in certain policies upon adoption of the accounting standards described below, there have been no material changes to the Company's significant accounting policies, compared to the accounting policies described in Note 2, Significant Accounting Policies, in Notes to Consolidated Financial Statements in Item 8 of Part II of the Form 10-K.
 Revenue is recognized when promised goods or services are transferred to customers in an amount that reflects the consideration to which the Company expects to be entitled in exchange for those goods or services by following a five-step process, (1) identify the contract with a customer, (2) identify the performance obligations in the contract, (3) determine the transaction price, (4) allocate the transaction price, and (5) recognize revenue when or as the Company satisfies a performance obligation, as further described below.
 Product performance obligations include hardware and software licenses and service performance obligations include maintenance, software post-contract support, training, and professional services.
+Certain software licenses and related post-contract support are combined into a single performance obligation when the maintenance updates are critical to the continued functionality of the software.
+The transaction price for the Company’s contracts with its customers consists of both fixed and variable consideration provided it is probable that a significant reversal of revenue will not occur when the uncertainty related to variable consideration is resolved.
 Fixed consideration includes amounts to be contractually billed to the customer while variable consideration includes estimates for rights of return, rebates, and price protection, which are based on historical sales returns and price protection credits, specific criteria outlined in rebate agreements, and other factors known at the time.
-The Company generally invoices customers for hardware, software licenses and related maintenance arrangements at time of delivery, and professional services either upfront or upon meeting certain milestones.
-For contracts that contain multiple performance obligations, the Company allocates the transaction price to the performance obligations on a relative standalone selling price basis.
+The Company’s contracts with customers typically do not include significant financing components as the period between the transfer of performance obligations and timing of payment are generally within one year.
 services, pricing practices in different geographies and through different sales channels, gross margin objectives, internal costs, competitor pricing strategies, and industry technology lifecycles.
-Revenue from training and professional services is recognized over time as services are completed or ratably over the contractual period of generally one year or less.
-Sales commissions earned by the Company’s sales force are considered incremental and recoverable costs of obtaining a contract with a customer.
-For available-for-sale debt securities that have unrealized losses, the Company assesses impairment by evaluating various factors, including whether (i) it has the intention to sell any of these investments and (ii) whether it is more likely than not that it will be required to sell any of these investments before recovery of the entire amortized cost basis.
-During the three months ended March 31, 2018 and March 31, 2017, there were no material gross realized gains or losses from available-for-sale debt securities.
-For the three months ended March 31, 2018 and March 31, 2017, there were no material unrealized gains or losses recognized for equity investments.
-
-
-item2.txt
-The following discussion is based upon our unaudited Condensed Consolidated Financial Statements included in Part 1, Item I, of this Report, which have been prepared in accordance with U.S. generally accepted accounting principles, or U.S. GAAP.
-In making these decisions, we consider various factors, including contractual obligations, customer satisfaction, competition, internal and external financial targets and expectations, and financial planning objectives.
-To aid in understanding our operating results for the periods covered by this Report, we have provided an executive overview, which includes a summary of our business and market environment along with a financial results and key performance metrics overview.
-
-
-item4.txt
-
-
-
-part2.txt
-The information set forth under the “Legal Proceedings” section in Note 14, Commitments and Contingencies, in Notes to Condensed Consolidated Financial Statements in Item 1 of Part I of this Report, is incorporated herein by reference.
+Sales commissions earned by the Company’s sales force are considered incremental and recoverable costs of obtaining a contract with a customer.The following discussion is based upon our unaudited Condensed Consolidated Financial Statements included in Part 1, Item I, of this Report, which have been prepared in accordance with U.S. generally accepted accounting principles, or U.S. GAAP.
+In making these decisions, we consider various factors, including contractual obligations, customer satisfaction, competition, internal and external financial targets and expectations, and financial planning objectives.The information set forth under the “Legal Proceedings” section in Note 14, Commitments and Contingencies, in Notes to Condensed Consolidated Financial Statements in Item 1 of Part I of this Report, is incorporated herein by reference.
+For example, in fiscal year 2017, our margins decreased as compared to fiscal year 2016, primarily due to lower product net revenues and product mix, resulting from the year-over-year decline in routing revenues, our customers' architectural shifts, and higher costs of certain memory components.
 In fiscal year 2015, our margins increased compared to fiscal year 2014, as a result of higher restructuring and other charges recorded in 2014 but not in 2015, in connection with the restructuring plan we initiated in the first quarter of 2014.
 Further, we will continue to remain diligent in our long-term financial objective to increase revenue and operating margins and manage our operating expenses as a percentage of revenue.
 We can provide no assurance that we will be able to achieve all or any of the goals of these plans or meet our announced expectations, in whole or in part, or that our plans will have the intended effect of improving our margins on the expected timeline, or at all.
-As a result of changes in the economy, capital spending or the building of network capacity in excess of demand, all of which have in the past particularly affected telecommunications service providers, spending on IP infrastructure can vary, which could have a material adverse effect on our business, financial condition, and results of operations.
+A substantial portion of our business and revenues depends on the growth of secure IP infrastructure and on the deployment of our products by customers that depend on the continued growth of IP services.
 Our ability to successfully offer our products and services in a rapidly evolving market requires an effective planning, forecasting, and management process to enable us to effectively scale and adjust our business and business models in response to fluctuating market opportunities and conditions.
-The routing and switching markets have historically been dominated by Cisco, with competition coming from other companies such as Nokia Corporation (following its acquisition of Alcatel-Lucent), Arista, HPE, and Huawei.
-Further, a number of other small public and private companies have products or have announced plans for new products to address the same challenges and markets that our products address.
-A customer's decision to purchase certain of our products, particularly new products, involves a significant commitment of its resources and a lengthy evaluation and product qualification process.
-In particular, customers making critical decisions regarding the design and implementation of large network deployments may engage in very lengthy procurement processes that may delay or impact expected future orders.
-Timing of deployment can vary widely and depends on the skill set of the customer, the size of the network deployment, the complexity of the customer's network environment, and the degree of hardware and operating system configuration necessary to deploy the products.
-
-

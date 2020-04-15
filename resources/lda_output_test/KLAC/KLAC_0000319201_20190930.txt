@@ -1,50 +1,16 @@
-fls.txt
-
-
-
-item1.txt
-The Condensed Consolidated Financial Statements have been prepared by us pursuant to the rules and regulations of the U.S. Securities and Exchange Commission (“SEC”).
-In the opinion of management, the unaudited interim financial statements reflect all adjustments (consisting only of normal, recurring adjustments) necessary for a fair statement of the financial position, results of operations, comprehensive income, stockholders’ equity and cash flows for the periods indicated.
-Variable lease payments, consisting primarily of reimbursement of costs incurred by lessors for common area maintenance, real estate taxes, and insurance are not included in the lease liability and are recognized as they are incurred.
-As most of our leases do not provide an implicit rate, we use our incremental borrowing rate at lease commencement to measure ROU assets and lease liabilities.
-The incremental borrowing rate used by us is based on baseline rates and adjusted by the credit spreads commensurate with our secured borrowing rate, over a similar term.
+For purposes of this report, “KLA,” the “Company,” “we,” “our,” “us,” or similar references mean KLA Corporation, and its majority-owned subsidiaries unless the context requires otherwise.
+The Condensed Consolidated Financial Statements include the accounts of KLA and its majority-owned subsidiaries.
+The results of operations for the three months ended September 30, 2019 are not necessarily indicative of the results that may be expected for any other interim period or for the full fiscal year ending June 30, 2020.
+The reclassifications did not have material effects on the prior year’s Condensed Consolidated Balance Sheets, Statements of Operations, Comprehensive Income and Cash Flows.
+Acquisition of Orbotech, Ltd. On February 20, 2019 (the “Closing Date” or “Acquisition Date”), we completed the acquisition of Orbotech, Ltd. (“Orbotech”) for total consideration of $3.26 billion.
+The Orbotech Acquisition was accounted for by applying the acquisition method of accounting for business combinations.
+The unaudited Condensed Consolidated Financial Statements in this report include the financial results of Orbotech prospectively from the Acquisition Date.
+Prior periods were not retrospectively restated, and accordingly, the Consolidated Balance Sheet as of June 30, 2019, and the Condensed Consolidated Statements of Operations for the three months ended September 30, 2018 were prepared using accounting standards that were different than those in effect for the three months ended September 30, 2019.
+On the commencement date leases are evaluated for classification and assets and liabilities are recognized based on the present value of lease payments over the lease term.
 We have elected the practical expedient to account for the lease and non-lease components as a single lease component for the majority of our asset classes.
-In July 2018, the FASB issued an accounting standard update which amended ASC 842 and offered an additional (and optional) transition method by which entities could elect not to recast the comparative periods presented in financial statements in the period of adoption.
-KLA adopted the new standard on July 1, 2019, the first day of fiscal 2020, using the optional adoption method whereby we did not adjust comparative period financial statements.
-KLA elected certain practical expedients, which among other things, allowed us to carry forward prior conclusions about lease identification and classification.
-The adoption of ASC 842 resulted in the balance sheet recognition of additional lease assets and lease liabilities of $110.7 million and $108.7 million, respectively, related primarily to facilities, vehicles and other equipment.
-The update also modifies the impairment models for available-for-sale debt securities and for purchased financial assets with credit deterioration since their origination.
-The update is effective for us beginning in the first quarter of our fiscal year ending June 30, 2021, with early adoption permitted starting in the first quarter of fiscal year ending June 30, 2020.
-We are currently evaluating the impact of this accounting standard update on our Condensed Consolidated Financial Statements.
-This update eliminates the disclosure of the amount of and reasons for transfers between level 1 and level 2 of the fair value hierarchy, and the policy for timing of transfers between levels.
-This standard update is effective for us beginning in the first quarter of our fiscal year ending June 30, 2021, and early adoption is permitted.
-We are currently evaluating the impact of this accounting standard update on our Condensed Consolidated Financial Statements.
-In August 2018, the FASB issued an accounting standard update to amend the disclosure requirements related to defined benefit pension and other post-retirement plans.
-
-
-item2.txt
-This report contains certain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934.
-Such forward-looking statements include, among others, forecasts of the future results of our operations, including profitability; orders for our products and capital equipment generally; sales of semiconductors; the investments by our customers in advanced technologies and new materials; the allocation of capital spending by our customers (and, in particular, the percentage of spending that our customers allocate to process control); growth of revenue in the semiconductor industry, the semiconductor capital equipment industry and our business; technological trends in the semiconductor industry; future developments or trends in the global capital and financial markets; our future product offerings and product features; the success and market acceptance of new products; timing of shipment of backlog; our future product shipments and product and service revenues; our future gross margins; our future research and development expenses and selling, general and administrative expenses; our ability to successfully maintain cost discipline; international sales and operations; our ability to maintain or improve our existing competitive position; success of our product offerings; creation and funding of programs for research and development; attraction and retention of employees; results of our investment in leading edge technologies; the effects of hedging transactions; the effect of the sale of trade receivables and promissory notes from customers; our future effective income tax rate; our recognition of tax benefits; the effects of any audits or litigation; future payments of dividends to our stockholders; the completion of any acquisitions of third parties, or the technology or assets thereof; benefits received from any acquisitions and development of acquired technologies; sufficiency of our existing cash balance, investments, cash generated from operations and the unfunded portion of our revolving line of credit under a Credit Agreement (the “Credit Agreement”) to meet our operating and working capital requirements, including debt service and payment thereof; future dividends, and stock repurchases; our compliance with the financial covenants under the Credit Agreement; the adoption of new accounting pronouncements including ASC 842 and ASC 606; the tax liabilities resulting from the enactment of the Tax Cuts and Jobs Act; and our repayment of our outstanding indebtedness.
-Our broad portfolio of inspection and metrology products, and related service, software and other offerings primarily supports integrated circuit (“IC” or “chip”) manufacturers throughout the entire semiconductor fabrication process, from research and development to final volume production.
-We provide leading edge equipment, software and support that enable IC manufacturers to identify, resolve and manage significant advanced technology manufacturing process challenges and obtain higher finished product yields at lower overall cost.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-The industries that we serve, including the semiconductor, flat panel display and printed circuit board industries, are constantly developing and changing over time.
-•the entry by some semiconductor manufacturers into collaboration or sharing arrangements for capacity, cost or risk with other manufacturers, as well as increased outsourcing of their manufacturing activities, and greater focus only on specific markets or applications, whether in response to adverse market conditions or other market pressures.
-•The mix and type of customers, and sales to any single customer, may vary significantly from quarter to quarter and from year to year, which exposes our business and operating results to increased volatility tied to individual customers.
+In July 2018, the FASB issued an accounting standard update which amended ASC 842 and offered an additional (and optional) transition method by which entities could elect not to recast the comparative periods presented in financial statements in the period of adoption.This report contains certain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934.
+Our broad portfolio of inspection and metrology products, and related service, software and other offerings primarily supports integrated circuit (“IC” or “chip”) manufacturers throughout the entire semiconductor fabrication process, from research and development to final volume production.•the entry by some semiconductor manufacturers into collaboration or sharing arrangements for capacity, cost or risk with other manufacturers, as well as increased outsourcing of their manufacturing activities, and greater focus only on specific markets or applications, whether in response to adverse market conditions or other market pressures.
 •As a result of this consolidation, the customers that survive the consolidation represent a greater portion of our sales and, consequently, have greater commercial negotiating leverage.
 Many of our large customers have more aggressive policies regarding engaging alternative, second-source suppliers for the products we offer and, in addition, may seek and, on occasion, receive pricing, payment, intellectual property-related or other commercial terms that may have an adverse impact on our business.
-•Certain customers have undergone significant ownership changes, created alliances with other companies, experienced management changes or have outsourced manufacturing activities, any of which may result in additional complexities in managing customer relationships and transactions.
 Any future change in ownership or management of our existing customers may result in similar challenges, including the possibility of the successor entity or new management deciding to select a competitor’s products.
 For example, as a result of the challenging economic environment during fiscal year 2009, we were (and in some cases continue to be) exposed to additional risks related to the continued financial viability of certain of our customers.
-
-

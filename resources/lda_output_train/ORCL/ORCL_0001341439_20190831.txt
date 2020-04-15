@@ -1,49 +1,17 @@
-fls.txt
-This Quarterly Report on Form 10-Q contains statements that are not historical in nature, are predictive in nature, or that depend upon or refer to future events or conditions or otherwise contain forward-looking statements within the meaning of Section 21 of the Securities Exchange Act of 1934, as amended, and the Private Securities Litigation Reform Act of 1995.
-
-
-item1.txt
+We have prepared the condensed consolidated financial statements included herein pursuant to the rules and regulations of the U.S. Securities and Exchange Commission (SEC).
 We believe that all necessary adjustments, which consisted only of normal recurring items, have been included in the accompanying financial statements to present fairly the results of the interim periods.
 We generally use our incremental borrowing rate based on the information available at the lease commencement date in determining the present value of future payments, because the implicit rate of the lease is generally not known.
-ROU assets related to our operating lease liabilities are measured at lease inception based on the initial measurement of the lease liability, plus any prepaid lease payments and less any lease incentives.
-Our lease terms that are used in determining our operating lease liabilities at lease inception may include options to extend or terminate the leases when it is reasonably certain that we will exercise such options.
 We amortize our ROU assets as operating lease expense generally on a straight-line basis over the lease term and classify both the lease amortization and imputed interest as operating expenses.
 We have lease agreements with lease and non-lease components, and in such cases, we generally account for the components as a single lease component.
 At August 31, 2019, ROU assets of $2.0 billion related to our operating leases are included in other non-current assets; and operating lease liabilities of $587 million are included in other current liabilities; and $1.5 billion are included in other non-current liabilities in our condensed consolidated balance sheets.
 Cash flow movements related to our lease activities are included in prepaid expenses and other assets and accounts payables and other liabilities as presented in net cash provided by operating activities in our condensed consolidated statement of cash flows for the three months ended August 31, 2019.
-For the three months ended August 31, 2019, operating lease expenses totaled $148 million, net of sublease income of $4 million, and cash paid for amounts included in the measurement of operating lease liabilities was $148 million.
-We recorded ROU assets of $2.2 billion in exchange for operating lease obligations during the three months ended August 31, 2019, which included $1.9 billion for operating leases existing on June 1, 2019 that were recognized upon our initial adoption of Topic 842 and $211 million for operating leases that were contracted during the first quarter of fiscal 2020.
 As of August 31, 2019, the weighted average remaining lease term for operating leases was approximately five years, and the weighted average discount rate for operating leases was 3.1%.
-Trade receivables, net of allowance for doubtful accounts, and deferred revenues are reported net of related uncollected deferred revenues in our condensed consolidated balance sheets as of August 31, 2019 and May 31, 2019.
 The amount of revenues recognized during each of the three months ended August 31, 2019 and 2018 that were included in the opening deferred revenues balance as of May 31, 2019 and 2018 were each approximately $3.5 billion.
-Revenues recognized from performance obligations satisfied in prior periods and impairment losses recognized on our receivables were immaterial in each of the three months ended August 31, 2019 and 2018.
-We offer certain of our customers the option to acquire our software products, hardware products and services offerings through separate long-term payment contracts.
-
-
-item2.txt
-Our products and services include applications and infrastructure offerings that are delivered worldwide through a variety of flexible and interoperable IT deployment models.
-These models include on-premise deployments, cloud-based deployments, and hybrid deployments (an approach that combines both on-premise and cloud-based deployment) such as our Oracle Cloud at Customer offering (an instance of Oracle Cloud in a customer’s own data center).
-Accordingly, we offer choice and flexibility to our customers and facilitate the product, service and deployment combinations that best suit our customers’ needs.
+Revenues recognized from performance obligations satisfied in prior periods and impairment losses recognized on our receivables were immaterial in each of the three months ended August 31, 2019 and 2018.These models include on-premise deployments, cloud-based deployments, and hybrid deployments (an approach that combines both on-premise and cloud-based deployment) such as our Oracle Cloud at Customer offering (an instance of Oracle Cloud in a customer’s own data center).
 Through our worldwide sales force and Oracle Partner Network, we sell to customers all over the world including businesses of many sizes, government agencies, educational institutions and resellers.
+Our cloud and license line of business, which represented 83% of our total revenues on a trailing 4-quarter basis, markets, sells and delivers a broad spectrum of applications and infrastructure technologies through our cloud and license offerings.
+cloud services revenues, which provide customers access to Oracle Cloud applications and infrastructure technologies via cloud-based deployment models that Oracle develops, provides unspecified updates and enhancements for, hosts, manages and supports and that customers access by entering into a subscription agreement with us for a stated period.
 The majority of our Oracle Cloud Services arrangements are generally billed in advance of the cloud services being performed; have durations of one to three years; are generally renewed at the customer’s option; and are generally recognized as revenues ratably over the contractual period of the cloud contract or, in the case of usage model contracts, as the cloud services are consumed over time.
-Cloud license and on-premise license revenues include revenues from the licensing of our software products including Oracle Applications, Oracle Database, Oracle Middleware and Java, among others, which our customers deploy within cloud-based, on-premise and other IT environments.
 Our cloud license and on-premise license transactions are generally perpetual in nature and are generally recognized upfront at the point in time when the software is made available to the customer to download and use.
 Revenues from usage-based royalty arrangements for distinct cloud licenses and on-premise licenses are recognized at the point in time when the software end user usage occurs.
-Our cloud and license business’ revenue growth is affected by many factors, including the strength of general economic and business conditions; governmental budgetary constraints; the strategy for and competitive position of our offerings; our acquisitions; the continued renewal of our cloud services and license support customer contracts by the customer contract base; substantially all customers continuing to purchase license support contracts in connection with their license purchases; the pricing of license support contracts sold in connection with the sales of licenses; the pricing, amounts and volumes of licenses and cloud services sold; and foreign currency rate fluctuations.
-We believe these factors should contribute to future growth in our cloud and license revenues, which should enable us to continue to make investments in research and development to develop and improve our cloud and license products and services.
-Our cloud and license business’ margin has historically trended upward over the course of the four quarters within a particular fiscal year due to the historical upward trend of our cloud and license business’ revenues over those quarterly periods and because the majority of our costs for this business are generally fixed in the short term.
-The historical upward trend of our cloud and license business’ revenues over the course of the four quarters within a particular fiscal year is primarily due to the addition of new cloud services and license support contracts to the customer contract base that we generally recognize as revenues ratably; the renewal of existing customers’ cloud services and license support contracts over the course of each fiscal year that we generally recognize as revenues ratably; and the historical upward trend of our cloud license and on-premise license revenues, which we generally recognize at a point in time upon delivery, over those four quarterly periods.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-The material set forth in Note 9 (pertaining to information regarding contingencies related to our income taxes) and Note 12 (pertaining to information regarding legal contingencies) of Notes to Condensed Consolidated Financial Statements in Part I, Item 1 of this Quarterly Report on Form 10-Q is incorporated herein by reference.
-
-
+The timing of a few large license transactions can substantially affect our quarterly license revenues due to the point in time nature of revenue recognition for license transactions, which is different than the typical revenue recognition pattern for our cloud services and license support revenues in which revenues are generally recognized ratably over the contractual terms.The material set forth in Note 9 (pertaining to information regarding contingencies related to our income taxes) and Note 12 (pertaining to information regarding legal contingencies) of Notes to Condensed Consolidated Financial Statements in Part I, Item 1 of this Quarterly Report on Form 10-Q is incorporated herein by reference.

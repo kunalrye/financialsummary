@@ -1,47 +1,16 @@
-fls.txt
-
-
-
-item1.txt
-The Condensed Consolidated Balance Sheet as of December 31, 2018 has been derived from the audited Consolidated Financial Statements at that date.
-Except for the change in certain policies upon adoption of the accounting standards described below, there have been no material changes to the Company's significant accounting policies, compared to the accounting policies described in Note 2, Significant Accounting Policies, in Notes to Consolidated Financial Statements in Item 8 of Part II of the Form 10-K.
+Operating leases are included in operating lease ROU assets, other accrued liabilities, and operating lease liabilities on the Company's Condensed Consolidated Balance Sheets.
 ROU assets represent the Company's right to use an underlying asset for the lease term and lease liabilities represent its obligation to make lease payments arising from the lease.
 Operating lease ROU assets and liabilities are recognized on the commencement date based on the present value of lease payments over the lease term.
 The operating lease ROU asset also includes any lease payments made prior to lease commencement and excludes lease incentives.
+Variable lease payments not dependent on an index or a rate, are expensed as incurred and are not included within the ROU asset and lease liability calculation.
 The Company's lease terms are the noncancelable period, including any rent-free periods provided by the lessor, and include options to extend or terminate the lease when it is reasonably certain that it will exercise that option.
 At lease inception, and in subsequent periods as necessary, the Company estimates the lease term based on its assessment of extension and termination options that are reasonably certain to be exercised.
-In addition, the Company does not recognize ROU assets and lease liabilities for short-term leases, which have a lease term of twelve months or less and do not include an option to purchase the underlying asset that the Company is reasonably certain to exercise.
-The purchase consideration consisted of cash of $354.5 million and $4.7 million in share-based awards attributable to services prior to the acquisition.
 The acquisition of Mist, a company that provides cloud-managed wireless networks powered by artificial intelligence, is expected to enhance Juniper's enterprise networking portfolio by combining Mist’s next-generation Wireless LAN platform with Juniper's wired LAN, SD-WAN, and security solutions to deliver integrated end-to-end user and IT experiences.
-The primary areas of the preliminary purchase price allocation that are subject to change relate to certain legal and income tax matters.
-For the three and nine months ended September 30, 2019 and September 30, 2018, there were no material unrealized gains or losses recognized for equity investments.
-The Company's privately-held debt and redeemable preferred stock securities are classified as Level 3 assets due to the lack of observable inputs to determine fair value.
-Certain of the Company's assets, including intangible assets and goodwill, are measured at fair value on a nonrecurring basis, when they are deemed to be other-than temporarily impaired.
-Equity investments without readily determinable fair value are measured at fair value, when they are deemed to be impaired or when there is an adjustment from observable price changes.
-The carrying amounts of the Company's accounts receivable, accounts payable, and other accrued liabilities approximate fair value due to their short maturities.
-
-
-item2.txt
-The following discussion is based upon our unaudited Condensed Consolidated Financial Statements included in Part 1, Item I, of this Report, which have been prepared in accordance with U.S. generally accepted accounting principles, or U.S. GAAP.
-In making these decisions, we consider various factors, including contractual obligations, customer satisfaction, competition, internal and external financial targets and expectations, and financial planning objectives.
-To aid in understanding our operating results for the periods covered by this Report, we have provided an executive overview, which includes a summary of our business and market environment along with a financial results and key performance metrics overview.
-
-
-item4.txt
-
-
-
-part2.txt
-The information set forth under the “Legal Proceedings” section in Note 15, Commitments and Contingencies, in Notes to Condensed Consolidated Financial Statements in Item 1 of Part I of this Report, is incorporated herein by reference.
+The goodwill recognized in connection with the acquisition is primarily attributable to anticipated synergies from future growth and will not be deductible for income tax purposes.
+Pro forma results of operations for this acquisition have not been presented, as the financial impact to the Company's consolidated results of operations is not material.The following discussion is based upon our unaudited Condensed Consolidated Financial Statements included in Part 1, Item I, of this Report, which have been prepared in accordance with U.S. generally accepted accounting principles, or U.S. GAAP.The information set forth under the “Legal Proceedings” section in Note 15, Commitments and Contingencies, in Notes to Condensed Consolidated Financial Statements in Item 1 of Part I of this Report, is incorporated herein by reference.
 For example, we, and many companies in our industry, experience adverse seasonal fluctuations in customer spending, particularly in the first quarter.
-In fiscal year 2017, our margins decreased as compared to fiscal year 2016, primarily due to lower product net revenues and product mix, resulting from the year-over-year decline in routing revenues, our customers' architectural shifts, and higher costs of certain memory components.
 Further, while we will continue to remain diligent in our long-term financial objective to increase revenue and operating margins and manage our operating expenses as a percentage of revenue, we expect that our margins will vary with our ability to achieve these goals.
 We can provide no assurance that we will be able to achieve all or any of the goals of these plans or meet our announced expectations, in whole or in part, or that our plans will have the intended effect of improving our margins on the expected timeline, or at all.
 A limited number of our customers comprise a material portion of our revenues and any changes in the way they purchase products and services from us could affect our business.
-A material portion of our net revenues, across each customer vertical, depends on sales to a limited number of customers and distribution partners.
 Our ability to successfully offer our products and services in a rapidly evolving market requires an effective planning, forecasting, and management process to enable us to effectively scale and adjust our business and business models in response to fluctuating market opportunities and conditions.
 The routing and switching markets have historically been dominated by Cisco Systems, Inc., or Cisco, with competition coming from other companies such as Nokia Corporation, Arista Networks, Inc., and Huawei Technologies Co., Ltd.
-In the security market, we face intense competition from Cisco and Palo Alto Networks, Inc., as well as companies such as Check Point Software Technologies, Ltd., and Fortinet, Inc. Further, a number of other small public and private companies have products or have announced plans for new products to address the same challenges and markets that our products address.
-A customer's decision to purchase certain of our products, particularly new products, involves a significant commitment of its resources and a lengthy evaluation and product qualification process.
-
-

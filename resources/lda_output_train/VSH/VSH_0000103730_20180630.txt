@@ -1,40 +1,15 @@
-fls.txt
-
-
-
-item1.txt
 The financial statements should be read in conjunction with the consolidated financial statements filed with the Company's Annual Report on Form 10-K for the year ended December 31, 2017.
 The Company reports interim financial information for 13-week periods beginning on a Sunday and ending on a Saturday, except for the first fiscal quarter, which always begins on January 1, and the fourth fiscal quarter, which always ends on December 31.
-The ASU is the result of a convergence project between the FASB and the International Accounting Standards Board to clarify the principles for recognizing revenue and to develop a common revenue standard for GAAP and International Financial Reporting Standards.
 The ASU removes inconsistencies and weaknesses in revenue requirements; provides a more robust framework for addressing revenue issues; improves comparability of revenue recognition practices across entities, industries, jurisdictions, and capital markets; provides more useful information to users of financial statements through expanded disclosure requirements; and simplifies the preparation of financial statements by reducing the number of requirements to which an entity must refer.
 Except for the changes described in "Recently Adopted Accounting Guidance" above and in this section below, the Company has consistently applied the accounting policies described in its Note 1 to its audited consolidated financial statement included in its annual report on Form 10-K for the year ended December 31, 2017, to all periods presented in these consolidated condensed financial statements.
-The impact of accounting for service-type warranties as separate performance obligations was not significant in the retrospective adoption period and is included in the tables below.
-The Company previously recognized revenue when the sales process was completed, which generally occurred when the product was delivered and risk of loss was transferred to the customer.
-Upon adoption of ASU 2014-09, the Company analyzes its contractual arrangements to determine whether the promise in the contract to construct and transfer goods to the customer is a performance obligation that will be satisfied over time or at a point in time.
-When the Company's performance does not create an asset with an alternative use to the Company and the Company has an enforceable right to payment for performance completed to date, the Company transfers control of a good or service over time and, therefore, satisfies a performance obligation and recognizes revenue over time.
-The Company has not restated completed contracts that begin and end in the same annual reporting period; used the transaction price at the date the contract was completed rather than estimating variable consideration amounts in the comparative reporting periods; has not disclosed the amount of the transaction price allocated to the remaining performance obligations and an explanation of when the Company expects to recognize the amount as revenue for the reporting periods presented prior to January 1, 2016; and has not retrospectively restated the contract for modifications made prior to January 1, 2016 and instead reflected the aggregate effect of all modifications when identifying the satisfied and unsatisfied performance obligations, determining the transaction price and allocating the transaction price pursuant to the transition practical expedients available.
-
-
-item2.txt
+ASU 2014-09 introduces the concept of service-type warranties, which represent separate performance obligations.
+Upon adoption of ASU 2014-09, the Company considers its warranty obligations as service-type warranties and allocates a portion of the estimated consideration to be received from the related contract to the service-type warranty performance obligation and recognizes the related revenue over the warranty period.Since 1985, we have pursued a business strategy of growth through focused research and development and acquisitions.
 Through this strategy, we have grown to become one of the world's largest manufacturers of discrete semiconductors and passive components.
-We used the net proceeds from the issuance of these notes to repurchase $220.0 million and $69.1 million principal amount of convertible senior debentures due 2040 and due 2042, respectively.
-As part of the amendment and restatement of the revolving credit facility in December 2015, we completed an evaluation of our anticipated domestic cash needs over the next several years and our most efficient use of liquidity, with consideration of the amount of cash that can be repatriated to the U.S. efficiently with lesser withholding taxes in foreign jurisdictions.
+In December 2015, we amended our credit facility to increase our ability to repurchase shares of stock or pay cash dividends.
+The Company repurchased 2,250,236 shares of stock for $39.9 million pursuant to the stock repurchase plan that expired on June 1, 2018.
+We recognized a loss of $17.3 million due to the early extinguishment of the repurchased convertible senior debentures.
 As a result of the enactment of the Tax Cuts and Jobs Act ("TCJA") in December 2017, we terminated the aforementioned cash repatriation plan and replaced it with a plan to repatriate approximately $1.1 billion of unremitted foreign earnings in Israel, Germany, Austria, and France in the fourth fiscal quarter of 2017.
 As a result of additional analysis completed in the second fiscal quarter of 2018, we adjusted the amount of foreign unremitted earnings available from Israel, Germany, Austria, and France to approximately $1.2 billion and accrued additional provisional tax expense.
 Substantially all of these amounts were used to reduce the outstanding balance of the credit facility and to repay certain intercompany indebtedness.
 The provisional tax expense recorded in the fourth quarter of 2017 related to the enactment of the TCJA included these amounts paid in the second fiscal quarter of 2018.
-Additionally, we continue to closely monitor our costs, inventory, and capital resources to respond to changing conditions and to ensure we have the management, business processes, and resources to meet our future needs.
-Our cost reduction programs are more fully described in Note 4 to the consolidated condensed financial statements included in Item 1, and in "Cost Management" below.
-See additional information regarding our competitive strengths and key challenges as disclosed in Part 1 of our Annual Report on Form 10-K for the year ended December 31, 2017, filed with the SEC on February 16, 2018.
-In the first fiscal quarter of 2018, we retrospectively adopted two new accounting standards, which impacted previously reported net revenues, gross profit margin, and segment operating income.
-We experienced a continued high level of demand in virtually all end-markets in the second fiscal quarter of 2018.
-Net revenues increased significantly versus the prior fiscal quarter and the prior year quarter.
-Net revenues for the fiscal quarter ended June 30, 2018 were $761.0 million, compared to $716.8 million and $643.2 million for the fiscal quarters ended March 31, 2018 and July 1, 2017, respectively.
-The net earnings attributable to Vishay stockholders for the fiscal quarter ended June 30, 2018 were $103.1 million, or $0.65 per diluted share, compared to $62.4 million, or $0.39 per share for the fiscal quarter ended March 31, 2018, and $56.2 million, or $0.36 per diluted share for the fiscal quarter ended July 1, 2017.
-
-
-item3.txt
-Part II, Item 7A, "Quantitative and Qualitative Disclosures About Market Risk," of our Annual Report on Form 10-K for the year ended December 31, 2017, filed with the SEC on February 16, 2018, describes our exposure to market risks.
-Item 3 of Part I of our Annual Report on Form 10-K for the year ended December 31, 2017, filed with the SEC on February 16, 2018 and Item 1 of Part II of our Quarterly Report on Form 10-Q for the quarter ended March 31, 2018, filed with the SEC on May 8, 2018 describe certain of our legal proceedings.
-
-
+Additionally, we continue to closely monitor our costs, inventory, and capital resources to respond to changing conditions and to ensure we have the management, business processes, and resources to meet our future needs.Part II, Item 7A, "Quantitative and Qualitative Disclosures About Market Risk," of our Annual Report on Form 10-K for the year ended December 31, 2017, filed with the SEC on February 16, 2018, describes our exposure to market risks.
