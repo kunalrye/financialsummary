@@ -1,5 +1,5 @@
 """
-Regenerates the summaries for all documents 
+Regenerates the summaries for all documents
 """
 
 from modeling.LexRank_Luhn_LSA import LexRankSummary, LsaSummary, LuhnSummary, ReductionSummary, KLSummary, EdmundsonSummary,  SumBasicSummary
@@ -31,5 +31,4 @@ summarize_test_docs(textrank_summarize, "textrank", True)
 
 summarize_train_docs(do_lda, "lda", True)
 summarize_test_docs(do_lda, "lda", True)
-
 
