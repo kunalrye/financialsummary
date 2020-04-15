@@ -13,7 +13,7 @@ from validation.topic_coverage import TopicCoverageValidation
 
 
 
-MODEL_LIST = ["lda", "textrank", "lsa", "textrank", "Lunh", "SumBasic"]
+MODEL_LIST = ["lda", "textrank", "LSA", "textrank", "Lunh", "SumBasic", "Reduction", "KL"]
 VALIDATION_SET_PATH = "resources/validation_set"
 
 
