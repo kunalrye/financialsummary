@@ -10,11 +10,10 @@ import os
 from collections import defaultdict
 from validation.precision_recall import compute_jaccard_index, compute_precision, compute_recall, compute_f1
 from validation.topic_coverage import TopicCoverageValidation
-os.chdir('C:/Users/jsbae/financialsummary')
 
 
 # removed LSA from MODEL_LIST
-MODEL_LIST = ["lda", "textrank", "textrank", "Lunh", "SumBasic", "Reduction", "KL"]
+MODEL_LIST = ["lda", "textrank", "textrank", "Lunh", "SumBasic", "Reduction", "KL", "Random"]
 VALIDATION_SET_PATH = "resources/validation_set"
 
 
@@ -73,7 +72,7 @@ def assess_models(annotated_fname, manual_set):
         # compute the topic scores for this model
         topic_results[model] = topic_validator.compute_topic_scores(generated_set)
 
-
+    print("assessed models against " + annotated_fname)
     return precision_results, recall_results, f1_results, jaccard_results, topic_results
 
 
@@ -145,6 +144,14 @@ def tabulate_results(results):
         means.append(mean(per_model[model_name]))
         medians.append(median(per_model[model_name]))
         stdevs.append(stdev(per_model[model_name]))
+
+    ## get the model with the highest mean and median
+    model_means = means[1:] # doesn't include the "mean" header
+    model_medians = medians[1:]
+    max_mean_model_name = sorted(file_dict)[model_means.index(max(model_means))]
+    max_median_model_name = sorted(file_dict)[model_medians.index(max(model_medians))]
+    means.append(max_mean_model_name)
+    medians.append(max_median_model_name)
 
     # spacing between data table and summary statistics
     rows.append(["- " for i in range(len(means))]) # spacing

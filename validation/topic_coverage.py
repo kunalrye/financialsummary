@@ -50,7 +50,7 @@ class TopicCoverageValidation:
                     tmax = np.argmax([two for one, two in self.ldamodel.get_document_topics(new_doc_bow)])
                     sent_topic = self.ldamodel.get_document_topics(new_doc_bow)[tmax][0]
                     doc_topics[sent_topic] += 1
-                print(doc_topics)
+                # print(doc_topics)
                 doc_topics = doc_topics / np.linalg.norm(doc_topics)
                 best_topics.append(doc_topics)
         return best_topics
@@ -74,8 +74,13 @@ class TopicCoverageValidation:
                 continue
             new_doc_bow = self.dictionary.doc2bow(new_doc)
             tmax = np.argmax([two for one, two in self.ldamodel.get_document_topics(new_doc_bow)])
-            sent_topic = self.ldamodel.get_document_topics(new_doc_bow)[tmax][0]
-            doc_topics[sent_topic] += 1
+
+            # print(tmax)
+            try:
+                sent_topic = self.ldamodel.get_document_topics(new_doc_bow)[tmax][0]
+                doc_topics[sent_topic] += 1
+            except:
+                continue
         doc_topics = doc_topics / np.linalg.norm(doc_topics)
 
         # compare this document's topic vector with each one of the manually generated topic vectors, and choose the highest score
