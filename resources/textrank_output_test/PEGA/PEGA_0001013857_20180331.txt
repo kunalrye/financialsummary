@@ -1,10 +1,4 @@
-fls.txt
-This Quarterly Report on Form 10-Q contains or incorporates forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.
-These statements include, but are not limited to, statements about our future financial performance and business plans, the adequacy of our liquidity and capital resources, the continued payment of quarterly dividends, and the timing of revenue recognition and are described more completely in Part I of our Annual Report on Form 10-K for the year ended December 31, 2017.
-
-
-item1.txt
-(1)  The Company adopted the new revenue recognition standard (ASC 606) on January 1, 2018 and has adjusted prior periods to conform.
+This Quarterly Report on Form 10-Q contains or incorporates forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.(1)  The Company adopted the new revenue recognition standard (ASC 606) on January 1, 2018 and has adjusted prior periods to conform.
 On January 1, 2018 the Company adopted Accounting Standards Update (ASU) ASU No. 2014-09, Revenue from Contracts with Customers (Topic 606) using the full retrospective method which required each prior reporting period presented to be adjusted to reflect the application of this ASU.
 In June 2016, the Financial Accounting Standards Board (FASB) issued ASU No. 2016-13, Financial Instruments - Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments, which requires measurement and recognition of expected credit losses for financial assets measured at amortized cost, including accounts receivable, upon initial recognition of that financial asset using a forward-looking expected loss model, rather than an incurred loss model for credit losses.
 In February 2016, the FASB issued ASU No. 2016-02, Leases (Topic 842), which requires lessees to record most leases on their balance sheets, recognizing a lease liability for the obligation to make lease payments and a right-of-use asset for the right to use the underlying asset for the lease term.
@@ -14,36 +8,9 @@ Any unrecognized license revenue from these arrangements is recognized in the pe
 Unbilled receivables in the Companys unaudited condensed consolidated balance sheets increased significantly due to the revenue from perpetual license with extended payment terms and term license being recognized prior to amounts billed, or prepaid by, clients.
 ASC 340-40 requires these costs to be recognized as an asset when incurred and to be expensed over the period of expected benefit, which is on average five years.
 This change primarily impacts the Companys contracts related to multi-year cloud offerings, maintenance on term and perpetual licenses, and those long-term term and perpetual licenses with client usage rights that increase over time.
-(1)  Includes cash and cash equivalents, marketable securities, income taxes receivable, other current assets, property and equipment, intangible assets, goodwill, and other long-term assets (as reflected in the consolidated balance sheets in the Annual Report on Form 10-K for the year ended December 31, 2017).
-Adoption of ASC 606 had no impact on total cash from or used in operating, financing, or investing activities in the Companys unaudited condensed consolidated statements of cash flows for the three months ended March 31, 2017.
-Contract assets and deferred revenue are presented net at the contract level for each reporting period.
-Contract assets are unbilled amounts resulting from client contracts where revenue recognized exceeds the amount billed to the client and the right to payment is subject to conditions other than the passage of time, such as the completion of a related performance obligation.
-The change in deferred revenue in the three months ended March 31, 2018, excluding the impact of the netting of contract assets and deferred revenue, was primarily due to new billings in advance of revenue recognition and $101.6 million of revenue recognized that was included in deferred revenue at December 31, 2017.
-These costs are deferred, as a long-term asset, and then amortized using the straight-line method over the period of benefit which is on average five years.
-
-
-item2.txt
-We develop, market, license, and support software applications for customer engagement and digital process automation, in addition to licensing our Pega Platform application development product for clients that wish to build and extend their own applications.
+(1)  Includes cash and cash equivalents, marketable securities, income taxes receivable, other current assets, property and equipment, intangible assets, goodwill, and other long-term assets (as reflected in the consolidated balance sheets in the Annual Report on Form 10-K for the year ended December 31, 2017).We develop, market, license, and support software applications for customer engagement and digital process automation, in addition to licensing our Pega Platform application development product for clients that wish to build and extend their own applications.
 Our license revenue is primarily derived from sales of our applications and Pega Platform.
 Our consulting revenue is primarily related to new license implementations.
 The decrease in total revenue in the three months ended March 31, 2018 was primarily due to a large term license arrangement recognized in revenue in the three months ended March 31, 2017 and a shift in client preferences to cloud arrangements.
 Cloud arrangements are generally recognized in revenue over the term of the cloud contract, as compared to other arrangements, which are generally recognized in revenue on the contract effective date.
 The change in ACV measures the growth and predictability of future cash flows from committed term, cloud, and maintenance arrangements as of the end of the particular reporting period.
-   The sum of the annual value of each term and cloud contract in effect on such date, with the annual value of a term or cloud contract being equal to the total value of the contract divided by the total number of years of the contract.
-Thus, we estimate stand-alone selling price for software licenses and cloud performance obligations using the residual approach, determined based on total transaction price minus the stand-alone selling price of other performance obligations promised in the contract.
-Except as described above, there have been no changes in our critical accounting policies as disclosed in our Annual Report on Form 10-K for the year ended December 31, 2017.
-Financial Statements and Supplementary Data both of which are contained in our Annual Report on Form 10-K for the year ended December 31, 2017.
-
-
-item3.txt
-Our market risk exposure is primarily related to fluctuations in foreign exchange rates.
-
-
-item4.txt
-
-
-
-part2.txt
-We encourage you to carefully consider the risk factors identified in Item 1A.
-
-

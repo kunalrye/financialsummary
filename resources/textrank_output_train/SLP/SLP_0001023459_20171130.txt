@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 Simulations Plus, Inc. This report on Form 10-Q for the quarter ended November 30, 2017, should be read in conjunction with the Company's annual report on Form 10-K for the year ended August 31, 2017, filed with the Securities and Exchange Commission (“SEC”) on November 14, 2017.
 On June 1, 2017, the Company consummated the acquisition of all outstanding equity interests of DILIsym pursuant to the terms of the Stock Agreement, with DILIsym becoming a wholly owned subsidiary of the Company.
 The Company designs and develops pharmaceutical simulation software to promote cost-effective solutions to a number of problems in pharmaceutical research and in the education of pharmacy and medical students, and it provides consulting services to the pharmaceutical and chemical industries.
@@ -11,16 +6,7 @@ Significant accounting policies for us include revenue recognition, accounting f
 The Company provides, for a fee, additional training and service calls to its customers and recognizes revenue at the time the training or service call is provided.
 Generally, we enter into one-year license agreements with customers for the use of our pharmaceutical software products.
 For purposes of the statements of cash flows, the Company considers all highly liquid investments purchased with original maturities of three months or less to be cash equivalents.
-Amortization of capitalized software development costs is calculated on a product-by-product basis on the straight-line method over the estimated economic life of the products (not to exceed five years).
-Amortization of software development costs amounted to $285,310 and $284,217 for the three months ended November 30, 2017 and 2016, respectively.
-The Company performs valuations of assets acquired and liabilities assumed on each acquisition accounted for as a business combination and recognizes the assets acquired and liabilities assumed at their acquisition date fair value.
-Acquired intangible assets include customer relationships, software, trade names, and non-compete agreements.
-The Company determines the appropriate useful life by performing an analysis of expected cash flows based on historical experience of the acquired businesses.
-Goodwill represents the excess of the cost of an acquired entity over the fair value of the acquired net assets.
-
-
-item2.txt
-In September 2014, Simulations Plus acquired Cognigen Corporation (Cognigen) as a wholly owned subsidiary pursuant to that certain Agreement and Plan of Merger, dated as of July 23, 2014, by and between Simulations Plus and Cognigen (the “Merger Agreement”).
+Amortization of capitalized software development costs is calculated on a product-by-product basis on the straight-line method over the estimated economic life of the products (not to exceed five years).In September 2014, Simulations Plus acquired Cognigen Corporation (Cognigen) as a wholly owned subsidiary pursuant to that certain Agreement and Plan of Merger, dated as of July 23, 2014, by and between Simulations Plus and Cognigen (the “Merger Agreement”).
 Through the integration of Cognigen into Simulations Plus, Simulations Plus became also a leading provider of population modeling and simulation contract research services for the pharmaceutical and biotechnology industries.
 Our clinical-pharmacology-based consulting services include pharmacokinetic and pharmacodynamic modeling, clinical trial simulations, data programming, and technical writing services in support of regulatory submissions.
 We have also developed software for harnessing cloud-based computing in support of modeling and simulation activities and secure data archiving, and we provide consulting services to improve interdisciplinary collaborations and research and development productivity.
@@ -29,21 +15,3 @@ The difference between DILIsym and NAFLDsym is that DILIsym estimates the potent
 As such, DILIsym can be a single program that addresses a wide variety of molecules across various companies, while NAFLDsym requires customizing the software for each mechanism of action.
 Both the DILIsym and NAFLDsym software programs require outputs from physiologically based pharmacokinetics (PBPK) software as inputs.
 We are a global leader focused on improving the ways scientists use knowledge and data to predict the properties and outcomes of pharmaceutical and biotechnology agents, and are one of only two global companies who provide a wide range of preclinical and clinical consulting services and software.
-Our innovations in integrating new and existing science in medicinal chemistry, computational chemistry, pharmaceutical science, biology, physiology, and machine learning into our software have made us the leading software provider for PBPK modeling and simulation and for prediction of molecular properties from structure.
-Pharmaceutical and biotechnology companies use our software programs and scientific knowledge to guide early drug discovery (molecule design and screening), preclinical, and clinical development programs.
-They also use it to enhance their understanding of the properties of potential new medicines and to use emerging data to improve formulations, select and justify dosing regimens, support the generics industry, optimize clinical trial designs, and simulate outcomes in special populations, such as the elderly and pediatric patients.
-GastroPlus simulates the absorption, pharmacokinetics, and pharmacodynamics of drugs administered to humans and animals, and is currently the most widely used commercial software of its type by pharmaceutical companies, the U.S. Food and Drug Administration (FDA), the U.S. National Institutes of Health (NIH), and other government agencies in the U.S. and other countries.
-
-
-item3.txt
-Some of our cash and cash equivalents are held in money market accounts; however, they are not exposed to market rate risk.
-
-
-item4.txt
-
-
-
-part2.txt
-Item 1A.
-
-
