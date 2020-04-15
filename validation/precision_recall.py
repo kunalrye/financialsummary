@@ -19,7 +19,7 @@ def set_contains(s, ele):
 
 def intersection(a, b):
     """
-    Our own implementation of set intersection since the sentences might not be exact maches
+    Our own implementation of set intersection since the sentences might not be exact matches
     :return:
     """
     intersect = set()

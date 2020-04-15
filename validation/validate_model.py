@@ -10,10 +10,11 @@ import os
 from collections import defaultdict
 from validation.precision_recall import compute_jaccard_index, compute_precision, compute_recall, compute_f1
 from validation.topic_coverage import TopicCoverageValidation
+os.chdir('C:/Users/jsbae/financialsummary')
 
 
-
-MODEL_LIST = ["lda", "textrank", "LSA", "textrank", "Lunh", "SumBasic", "Reduction", "KL"]
+# removed LSA from MODEL_LIST
+MODEL_LIST = ["lda", "textrank", "textrank", "Lunh", "SumBasic", "Reduction", "KL"]
 VALIDATION_SET_PATH = "resources/validation_set"
 
 
