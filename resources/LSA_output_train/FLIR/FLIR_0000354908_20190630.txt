@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 Certain information and footnote disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States have been condensed or omitted pursuant to such rules and regulations.
 All significant intercompany accounts and transactions have been eliminated.
 The comparative information has not been restated and continues to be reported under the accounting standards in effect for those periods.
@@ -12,38 +7,10 @@ The amendments in this update align the requirements for capitalizing implementa
 Certain customers request different system configurations, based on standard options or accessories that the Company offers.
 Revenue is recognized upon transfer of control of promised products or services to customers in an amount that reflects the consideration the Company expects to receive in exchange for those products or services.
 The Company regularly enters into contracts that can include various combinations of products and services, which are generally capable of being distinct and accounted for as separate performance obligations.
-In such situations, contract values are allocated to each performance obligation based on its relative estimated standalone selling price.
-The vast majority of the Company's revenues are recognized at a point in time when goods are transferred to a customer.
-However, for certain contracts that include highly customized components, if performance does not create an asset with an alternative use and termination for convenience clauses provide an enforceable right to payment for performance completed to date, revenue is recognized over time as the performance obligation is satisfied.
-Shipping and handling costs associated with outbound freight after control over a product has transferred to a customer are accounted for as a fulfillment cost and are included in cost of goods sold.
-Revenue is recognized net of allowances for returns and net of taxes collected from customers which are subsequently remitted to governmental authorities.
-The Company's products are sold with warranty provisions that require it to remedy deficiencies in quality or performance of the Company's products over a specified period of time, generally twelve to twenty-four months, at no cost to its customers.
-Warranty liabilities are established at the time that revenue is recognized at levels that represent the Company's estimate of the costs that will be incurred to fulfill those warranty requirements.
-
-
-item2.txt
-The “Segment Operating Results” section that follows describes the contributions of each of our business segments to our consolidated revenue and earnings from operations.
+In such situations, contract values are allocated to each performance obligation based on its relative estimated standalone selling price.The “Segment Operating Results” section that follows describes the contributions of each of our business segments to our consolidated revenue and earnings from operations.
 While the backlog is subject to order cancellations, we have not historically experienced a significant amount of order cancellations.
-Consolidated revenue for the three months ended June 30, 2019, increased by 6.5 percent year over year, from $452.7 million in the second quarter of 2018 to $482.0 million in the second quarter of 2019.
-Consolidated revenue for the six months ended June 30, 2019 increased by 3.9 percent year over year, from $892.3 million in the first six months of 2018 to $926.7 million in the first six months of 2019.
-Increases in revenues for the three month period was primarily driven by increases in our Government and Defense business unit which is partially attributed to the acquisitions of Aeryon Labs Inc. ("Aeryon") and Endeavor Robotics Holdings Inc. ("Endeavor") during the first quarter of 2019 coupled with volume increases of unmanned solutions and surveillance systems.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-Additionally, we cannot be certain or give any assurance that any actions taken to reduce known risks and uncertainties will be effective.
+Consolidated revenue for the three months ended June 30, 2019, increased by 6.5 percent year over year, from $452.7 million in the second quarter of 2018 to $482.0 million in the second quarter of 2019.Additionally, we cannot be certain or give any assurance that any actions taken to reduce known risks and uncertainties will be effective.
 We derive significant revenue from contracts or subcontracts funded by United States government agencies.
 A significant reduction in the purchase of our products by these agencies or contractors for these agencies would have a material adverse effect on our business.
 The funding of contracts awarded to us depends on the overall United States government budget and appropriations process, which is beyond our control.
 A failure to pass budget appropriations, adopt continuing funding resolutions or other budgetary decisions limiting or delaying federal government spending, could reduce government spending on our products and services and have a material adverse effect on our business and our operating results.
-Continued and further reductions in military spending could have a material adverse effect on our results from operations.
-Our expense levels are based, in part, on our expectations regarding future sales and these expenses are largely fixed in the short term.
-
-

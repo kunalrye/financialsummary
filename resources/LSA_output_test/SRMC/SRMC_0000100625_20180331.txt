@@ -1,23 +1,10 @@
-fls.txt
-Our actual results could differ materially from those anticipated in these forward-looking statements as a result of certain factors, including, without limitation, general economic conditions in both foreign and domestic markets, changes in the economy and the credit market, investment and research and development plans and success, market position and penetration, strategic plans and objectives, operating margins, government and regulatory approvals or certifications, cyclical factors affecting our industry, our ability to identify, attract, motivate and retain qualified personnel, lack of growth in our end-markets, our ability to develop and manufacture, seasonality in our products, availability of components and materials used in our products, and our ability to sell both new and existing products at a profitable yet competitive price and those issues described under the heading “Critical Accounting Policies,” below, and those risk factors identified in Item1A, Risk Factors, of our Annual Report on Form 10-K for our fiscal year ended December 31, 2017, which was filed with the SEC on April 2, 2018, as such section may be updated in our subsequent Forms 10-K, 10-Q and 8-K filed with, or furnished to, the SEC.
-
-
-item1.txt
 The FieldServer family of products works with the FieldPoP™ device cloud portal; a cloud-based service that registers and manages FieldServer products, provides secure remote access to the local web-based applications that run on FieldServer products, and integrates with third-party applications over REST APIs.
 With more than 200,000 installed gateways supporting over 140 protocols such as BACnet, LonWorks, MODBUS, and XML in commercial and industrial facilities, FieldServer is the industry’s leading multi-protocol gateway brand and is delivered in a variety of form factors appropriate to the asset being interfaced.
 In addition to bridging data protocols between various assets or devices within a facility, the embedded software includes value-added “fog” or “local application” software for monitoring, logging, alarming, and trending local field data.
 The Company’s solutions are also sold to telecommunication companies and their suppliers to manage environmental and security conditions such as temperature, gas, and smoke in remote structures such as local DSL distribution nodes and buildings at cell tower sites.
 In May 2014, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) 2014-09, Revenue from Contracts with Customers, issued as a new Topic, ASC Topic 606 (ASU 2014-09).
 The new revenue recognition standard provides a five-step analysis of transactions to determine when and how revenue is recognized.
-Adoption of the standard did not have a material impact on our financial statements.
-The recognition, measurement, and presentation of expenses and cash flows arising from a lease by a lessee primarily will depend on its classification as finance or operating lease.
-This ASU will also require disclosures to help investors and other financial statement users better understand the amount and timing of cash flows arising from leases.
-In April 2016 and in May 2016, the Company’s Board of Directors and the Company’s shareholders, respectively, approved the Company’s 2016 Equity Incentive Plan (the “2016 Stock Plan”) and reserved a total of (i) 279,680 shares, plus (ii) 2,550,320 shares that remained available for issuance under the 2006 Stock Plan immediately prior to its expiration, plus (iii) any shares subject to stock options or restricted stock granted under the 2006 Stock Plan that, on or after the date the 2016 Stock Plan became effective, expired or otherwise terminated without having been exercised in full, or were forfeited to or repurchased by the Company, with the maximum number of shares to be added to the 2016 Stock Plan pursuant to clauses (ii) and (iii) equal to 2,668,320.
-Options granted under our 2006 Stock Plan and 2016 Stock Plan are at the fair market value of our common stock at the grant date, typically vest ratably over four years, and expire ten years from the grant date.
-
-
-item2.txt
-Our flame and gas detection products are generally sold to engineering and installation firms who utilize the products as part of larger fire and safety projects in a variety of facilities, such as oil, gas and chemical processing plants, wastewater treatment facilities, alternate fuel vehicle maintenance garages, and other sites where hazardous gases are used or produced.
+Adoption of the standard did not have a material impact on our financial statements.Our flame and gas detection products are generally sold to engineering and installation firms who utilize the products as part of larger fire and safety projects in a variety of facilities, such as oil, gas and chemical processing plants, wastewater treatment facilities, alternate fuel vehicle maintenance garages, and other sites where hazardous gases are used or produced.
 Our FieldServer products are primarily sold to OEMs who develop a broad range of products relevant to facility automation, such as boilers, chillers, air handlers, lighting controls, generator sets, electric sub-meters, etc.
 Our FieldServer products are also bought by system integrators looking to connect various discrete automation sub-systems to a common facility management system.
 Our IIoT focused products are showing growth due to pull through from other solutions like our SMC Cloud offer which is enabling device management, visualization and analytics.
@@ -28,18 +15,3 @@ General and administrative expenses increased in the first quarter of 2018 compa
 Income from operations for the three-month period ended March 31, 2018 was $90,950, or 1.8% of net sales, compared to loss of $168,935, or 3.7% of net sales, in the same period in the prior year.
 No borrowings have been made under our line of credit during the first three months of fiscal year 2018 and there were no outstanding balances at March 31, 2018 and December 31, 2017.
 In May 2014, the Financial Accounting Standards Board (“FASB”) issued ASU 2014-09, “Revenue from Contracts with Customers” (Topic 606).
-The Company’s revenue arrangements consist of multiple performance obligations including hardware, software, and services.
-Determining the stand-alone selling price (“SSP”) and allocation of consideration from an arrangement to the individual performance obligations, and the appropriate timing of revenue recognition are significant judgments with respect to these arrangements.
-Additionally, international customers and customers who have developed a history of payment problems are generally required to prepay or pay through a letter-of-credit.
-Gas detection and environment control services consist of field service orders (technical support) and training, which are provided separately from product orders.
-Orders are accepted in the same forms as discussed for Gas Detection and Environment Control Products above with hourly prices fixed at the time of order.
-
-
-item4.txt
-Based upon that evaluation, Mr. Brown and Ms. Allen concluded that, as of March 31, 2018, our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) of the Exchange Act) were effective.
-
-
-part2.txt
-The Company’s risk factors have not changed materially since December 31, 2017.
-
-

@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 Certain information and footnote disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States of America have been condensed or omitted pursuant to such rules and regulations.
 These financial statements and notes, however, should be read in conjunction with Item 8, “Financial Statements and Supplementary Data” included in the Company’s Annual Report on Form 10-K for the fiscal year ended June 30, 2017, filed with the SEC on August 4, 2017.
 All significant intercompany balances and transactions have been eliminated.
@@ -12,38 +7,10 @@ The reclassifications had no effect on the prior year’s Condensed Consolidated
 In circumstances in which the Company recognizes revenue prior to installation, the portion of revenue associated with installation is deferred based on estimated fair value, and that revenue is recognized upon completion of the installation.
 The Company has multiple element revenue arrangements in cases where certain elements of a sales arrangement are not delivered and accepted in one reporting period.
 When the Company is unable to establish relative selling price using VSOE or TPE, the Company uses estimated selling price (“ESP”) in its allocation of arrangement consideration.
-ESP could potentially be used for new or customized products.
-The Company enters into volume purchase agreements with some of its customers.
-Revenue from services performed in the absence of a maintenance contract, including consulting and training revenue, is recognized when the related services are performed and collectibility is reasonably assured.
-The deferred system profit balance equals the value of products that have been shipped and billed to customers which have not met the Company’s revenue recognition criteria, less applicable product and warranty costs.
-Deferred system profit does not include the profit associated with product shipments to certain customers in Japan, to whom title does not transfer until customer acceptance.
-Shipments to such customers in Japan are classified as inventory at cost until the time of acceptance.
-
-
-item2.txt
-You are cautioned not to place undue reliance on these forward-looking statements, and we expressly assume no obligation and do not intend to update the forward-looking statements in this report after the date hereof.
+ESP could potentially be used for new or customized products.You are cautioned not to place undue reliance on these forward-looking statements, and we expressly assume no obligation and do not intend to update the forward-looking statements in this report after the date hereof.
 In addition to serving the semiconductor industry, we also provide a range of technology solutions to a number of other high technology industries, including advanced packaging, light emitting diode (“LED”), power devices, compound semiconductor and data storage industries, as well as general materials research.
-Our products and services are used by the vast majority of bare wafer, IC, lithography reticle (“reticle” or “mask”) and disk manufacturers around the world.
-Our products, services and expertise are used by our customers to measure, detect, analyze and resolve critical product defects that arise in that environment in order to control nanometric level manufacturing processes.
-Our revenues are driven largely by our customers’ spending on capital equipment and related maintenance services necessary to support key transitions in their underlying product technologies, or to increase their production volumes in response to market demand or expansion plans.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-•As a result of this consolidation, the customers that survive the consolidation represent a greater portion of our sales and, consequently, have greater commercial negotiating leverage.
+Our products and services are used by the vast majority of bare wafer, IC, lithography reticle (“reticle” or “mask”) and disk manufacturers around the world.•As a result of this consolidation, the customers that survive the consolidation represent a greater portion of our sales and, consequently, have greater commercial negotiating leverage.
 Many of our large customers have more aggressive policies regarding engaging alternative, second-source suppliers for the products we offer and, in addition, may seek and, on occasion, receive pricing, payment, intellectual property-related or other commercial terms that may have an adverse impact on our business.
 Any of these changes could negatively impact our prices, customer orders, revenues and gross margins.
 •Certain customers have undergone significant ownership changes, created alliances with other companies, experienced management changes or have outsourced manufacturing activities, any of which may result in additional complexities in managing customer relationships and transactions.
 Any future change in ownership or management of our existing customers may result in similar challenges, including the possibility of the successor entity or new management deciding to select a competitor’s products.
-For example, as a result of the challenging economic environment during fiscal year 2009, we were (and in some cases continue to be) exposed to additional risks related to the continued financial viability of certain of our customers.
-We believe that once a semiconductor manufacturer selects a particular supplier’s process control and yield management equipment, the manufacturer generally relies upon that equipment for that specific production line application for an extended period of time.
-Accordingly, we expect it to be more difficult to sell our products to a given customer for that specific production line application and other similar production line applications if that customer initially selects a competitor’s equipment.
-
-

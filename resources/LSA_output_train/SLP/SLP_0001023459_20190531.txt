@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 As contemplated by the SEC under Article 8 of Regulation S-X, the accompanying consolidated financial statements and footnotes have been condensed and therefore do not contain all disclosures required by generally accepted accounting principles.
 On September 2, 2014, Simulations Plus, Inc. acquired all of the outstanding equity interests of Cognigen Corporation (“Cognigen”, “Buffalo”) and Cognigen became a wholly owned subsidiary of Simulations Plus, Inc. Simulations Plus, Inc., acquired DILIsym Services, Inc. (DILIsym) as a wholly owned subsidiary pursuant to a stock purchase agreement dated May 1, 2017.
 Recently, the Company has begun to explore developing software applications for defense and for health care outside of the pharmaceutical industry.
@@ -11,16 +6,7 @@ Certain numbers in the prior year have been reclassified to conform to the curre
 In May 2014, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) 2014-09 and its related amendments regarding Accounting Standards Codification Topic 606 (ASC Topic 606), Revenue from Contracts with Customers.
 We adopted ASC Topic 606, effective September 1, 2018, utilizing the modified retrospective method.
 The reported results for fiscal year 2019 reflect the application of ASC Topic 606, while the reported results for fiscal year 2018 are not adjusted and continue to be reported under ASC Topic 605.
-We generate revenue primarily from the sale of software licenses and providing consulting services to the pharmaceutical industry for drug development.
-Sales commissions for new contracts are deferred and then amortized on a straight-line basis over a period of benefit.
-Sales commissions for renewal contracts are deferred and then amortized on a straight-line basis over the related contractual renewal period.
-ASC 606 provides certain practical expedients that limit the requirement to disclose the aggregate amount of transaction price allocated to unsatisfied performance obligations.
-The Company applied the practical expedient to not disclose the amount of transaction price allocated to unsatisfied performance obligations when the performance obligation is part of a contract that has an original expected duration of one year or less.
-For purposes of the statements of cash flows, the Company considers all highly liquid investments purchased with original maturities of three months or less to be cash equivalents.
-
-
-item2.txt
-Our innovations in integrating new and existing science in medicinal chemistry, computational chemistry, pharmaceutical science, biology, physiology, and machine learning into our software have made us the leading software provider for PBPK modeling and simulation, prediction of molecular properties from structure, and prediction of drugs to induce liver injury or to treat nonalcoholic fatty liver disease.
+We generate revenue primarily from the sale of software licenses and providing consulting services to the pharmaceutical industry for drug development.Our innovations in integrating new and existing science in medicinal chemistry, computational chemistry, pharmaceutical science, biology, physiology, and machine learning into our software have made us the leading software provider for PBPK modeling and simulation, prediction of molecular properties from structure, and prediction of drugs to induce liver injury or to treat nonalcoholic fatty liver disease.
 They also use it to enhance their understanding of the properties of potential new medicines and to use emerging data to improve formulations, select and justify dosing regimens, support the generics industry, optimize clinical trial designs, and simulate outcomes in special populations, such as the elderly and pediatric patients.
 Through the integration of Cognigen into Simulations Plus, Simulations Plus became also a leading provider of population modeling and simulation contract research services for the pharmaceutical and biotechnology industries.
 Our clinical-pharmacology-based consulting services include pharmacokinetic and pharmacodynamic modeling, clinical trial simulations, data programming, and technical writing services in support of regulatory submissions.
@@ -29,22 +15,3 @@ Because we are outside of the European Union, our participation in this project 
 Under this RCA, we received up to $200,000 per year.
 This RCA could be renewed for up to a total of three years based on the progress achieved during the project.
 After a successful second year, the RCA was extended for two additional years in September 2016, with primary tasks completed in September 2018.
-In September 2018, we were pleased to announce that we were awarded another funded RCA by the FDA to integrate drug product quality attributes into the mechanistic TCAT model in GastroPlus.
-This grant award, for $250,000 per year for up to two years, will focus on the incorporation of drug product quality attributes into dermal physiologically-based pharmacokinetic (PBPK) models developed for dermatological topical dosage forms and transdermal delivery systems.
-We expect the developments under this agreement will aid companies and regulatory agencies as they strive to implement an animal-free chemical safety assessment program.
-In January 2019 DILIsym Services and Simulations Plus entered into a two-year, $2.7 million collaboration with a large pharmaceutical company on the development of a new Quantitative Systems Pharmacology (QSP) model that will provide the ability to predict the efficacy of drugs being developed to treat idiopathic pulmonary fibrosis (IPF).
-The objective of this RCA, which has a five-year term, is directed toward the FDA’s evaluation of mechanistic IVIVCs (in vitro-in vivo correlations) to determine whether mechanistic absorption modeling (MAM) can relate laboratory (in vitro) dissolution experiment results to the behavior of dosage forms in humans and animals (in vivo) better than traditional empirical methods.
-
-
-item3.txt
-In addition, we do not hold any instruments for trading purposes and investment.
-
-
-item4.txt
-
-
-
-part2.txt
-Item 1.
-
-

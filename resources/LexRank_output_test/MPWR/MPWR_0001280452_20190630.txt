@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 The information in this report should be read in conjunction with the Company’s audited consolidated financial statements and notes thereto included in the Annual Report on Form 10-K for the year ended  December 31, 2018, filed with the SEC on  March 1, 2019.
 The financial statements contained in this Form 10-Q are not necessarily indicative of the results that  may be expected for the year ending  December 31, 2019 or for any other future periods.
 Except for the changes related to leases discussed in Note 6, there have been no other changes to the Company’s significant accounting policies during the three and six months ended  June 30, 2019, as compared to the significant accounting policies described in the Company’s audited consolidated financial statements included in the Annual Report on Form 10-K for the year ended  December 31, 2018.
@@ -12,35 +7,10 @@ The Company is evaluating the impact of the adoption on its consolidated financi
 These product sales were 99% and 98% of the Company’s total revenue for the three months ended  June 30, 2019 and 2018, respectively, and 99% and 97% of the Company’s total revenue for the six months ended  June 30, 2019 and 2018, respectively.
 The remaining revenue primarily includes royalty revenue from licensing arrangements and revenue from wafer testing services performed for third parties, which have not been significant in all periods presented.
 For the three months ended  June 30, 2019 and 2018, 77% and 86%, respectively, of the Company’s sales were made through distribution arrangements.
-These distribution arrangements contain enforceable rights and obligations specific to those distributors and not the end customers.
-The Company considers purchase orders to be the contracts with customers.
-The unit price as stated on the purchase orders is considered the observable, stand-alone selling price for the arrangements.
-The Company recognizes revenue when the customers consume the products from the consigned inventory locations or, in some cases, after a 60-day period from the delivery date has passed, at which time control transfers to the customers and the Company invoices them for payment.
-The Company accounts for price adjustment and stock rotation rights as variable consideration that reduces the transaction price, and recognizes that reduction in the same period the associated revenue is recognized.
-Three U.S.-based distributors have price adjustment rights when they sell the Company’s products to their end customers at a price that is lower than the distribution price invoiced by the Company.
-
-
-item2.txt
-Readers should carefully review future reports and documents that we file from time to time with the Securities and Exchange Commission, such as our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q and any Current Reports on Form 8-K. We are a leading semiconductor company that designs, develops and markets high-performance power solutions.
-These combined strengths enable MPS to deliver highly integrated monolithic products that offer energy-efficient, cost-effective, easy-to-use solutions for systems found in computing and storage, automotive, industrial, communications and consumer applications.
-We work with third parties to manufacture and assemble our integrated circuits ("ICs").
-Our revenue from direct or indirect sales to customers in Asia was 89% for both the three months ended June 30, 2019 and 2018, and 88% for both the six months ended June 30, 2019 and 2018.
-
-
-item4.txt
-
-
-
-part2.txt
-The tightening of credit in financial markets may lead consumers and businesses to postpone spending, which may cause our customers to cancel, decrease or delay their existing and future orders with us.
+These distribution arrangements contain enforceable rights and obligations specific to those distributors and not the end customers.Readers should carefully review future reports and documents that we file from time to time with the Securities and Exchange Commission, such as our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q and any Current Reports on Form 8-K. We are a leading semiconductor company that designs, develops and markets high-performance power solutions.
+These combined strengths enable MPS to deliver highly integrated monolithic products that offer energy-efficient, cost-effective, easy-to-use solutions for systems found in computing and storage, automotive, industrial, communications and consumer applications.The tightening of credit in financial markets may lead consumers and businesses to postpone spending, which may cause our customers to cancel, decrease or delay their existing and future orders with us.
 In particular, since we have significant operations in China, our business development plans, results of operations and financial condition may be materially adversely affected by significant political, social and economic developments in China.
 A slowdown in economic growth in China could adversely impact our customers, prospective customers, suppliers, distributors and partners in China, which could have a material adverse effect on our results of the operations and financial condition.
 Recent changes in international trade policy and rising concern of international tariffs, including tariffs applied to goods traded between the United States and China, could materially and adversely affect our business and results of operations.
 The institution of trade tariffs both globally and between the U.S. and China specifically carries the risk of negatively affecting China’s overall economic condition, which could have a negative impact on us as we have significant operations in China.
 Furthermore, imposition of tariffs could cause a decrease in the sales of our products to customers located in China or other customers selling to Chinese end users, which would directly impact our business and operating results.
-We are subject to export restrictions and laws affecting trade and investments that could materially and adversely affect our business and results of operations.
-As a global company headquartered in the U.S., we are subject to U.S. laws and regulations that could limit and restrict the export of some of our products and services and may restrict our transactions with certain customers, business partners and other persons, including, in certain cases, dealings with or between our employees and subsidiaries.
-Although these restrictions and laws have not materially restricted our operations in the recent past, there is a significant risk that they could do so in the future, which would materially and adversely affect our business and results of operations.
-In addition, U.S. laws and regulations and sanctions or threat of sanctions that could limit and restrict the export of some of our products and services to our customers may also encourage our customers to develop their own solutions to replace our products or seek to obtain a greater supply of similar or substitute products from our competitors that are not subject to these restrictions, which could materially and adversely affect our results of operations.
-
-

@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 The third quarter of fiscal 2018 ended on September 30, 2018 and the third quarter of fiscal 2017 ended on October 1, 2017.
 The consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States ("GAAP") and include the accounts of Cypress Semiconductor Corporation and its subsidiaries.
 All intercompany transactions and balances have been eliminated in consolidation.
@@ -14,34 +9,7 @@ While the Company has not yet completed its evaluation of the impact the new lea
 Upon adoption, the Company expects that its financial statement disclosures will be expanded to present additional details of its leasing arrangements.
 This standard update outlines a single comprehensive model for entities to use in accounting for revenue arising from contracts with customers.
 On January 1, 2018, we adopted Topic 606 using the modified retrospective method applied to all contracts that are not completed contracts at the date of initial application (i.e., January 1, 2018).
-Results for reporting periods after January 1, 2018 are presented under Topic 606, while prior period amounts are not adjusted and continue to be reported in accordance with our historic accounting under Topic 605.
-There was no impact on the opening accumulated deficit as of January 1, 2018 due to the adoption of Topic 606.
-Revenues are recognized when control of the promised goods or services is transferred to our customers, in an amount that reflects the consideration we expect to be entitled to in exchange for those goods or services.
-Sales of products with alternative use account for the majority of our revenue and are recognized at a point in time, the timing of such recognition remained the same under Topic 606.
-The Company's revenue arrangements do not contain significant financing components.
-We then select an appropriate method for measuring progress toward complete satisfaction of the performance obligation, usually costs incurred to date relative to the total expected costs to the satisfaction of that performance obligation.
-These adjustments and allowances are accounted for as variable consideration.
-
-
-item2.txt
-Cypress is a leader in advanced embedded solutions for the world’s most innovative automotive, industrial, consumer electronics and medical products.
+Results for reporting periods after January 1, 2018 are presented under Topic 606, while prior period amounts are not adjusted and continue to be reported in accordance with our historic accounting under Topic 605.Cypress is a leader in advanced embedded solutions for the world’s most innovative automotive, industrial, consumer electronics and medical products.
 Cypress’ superior connectivity, flexible computing, fail-safe storage, and secure, ultra-low power solutions help developers bring their smart products to market quickly and easily.
-Cypress is committed to providing customers with the best support and development resources enabling them to disrupt markets by creating new product categories in record time.
-The portfolio includes specialized, high-performance parallel and serial NOR flash memories, NAND flash memories, static random access memory (SRAM), F-RAM™ ferroelectric memory devices, nonvolatile SRAM (nvSRAM), other specialty memories and timing solutions.
-This division also includes our nonvolatile DIMM subsidiary AgigA Tech Inc.
-
-
-item3.txt
-Our debt obligations consist of a variety of financial instruments that expose us to interest rate risk, including, but not limited to our revolving credit facility, term loans and exchangeable notes.
-
-
-item4.txt
-We maintain "disclosure controls and procedures," as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the "Exchange Act"), that are designed to ensure that information required to be disclosed by us in reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in Securities and Exchange Commission rules and forms, and that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure.
-
-
-part2.txt
-•restrictions on repatriation of cash earned in countries outside the U.S.; For example, our sales were impacted in the second quarter of 2018 when the U.S. Department of Commerce banned U.S. companies from providing exports to ZTE, a Chinese telecoms equipment manufacturer (which ban was subsequently lifted in the third quarter of 2018) in an export controls case.
+Cypress is committed to providing customers with the best support and development resources enabling them to disrupt markets by creating new product categories in record time.Our debt obligations consist of a variety of financial instruments that expose us to interest rate risk, including, but not limited to our revolving credit facility, term loans and exchangeable notes.•restrictions on repatriation of cash earned in countries outside the U.S.; For example, our sales were impacted in the second quarter of 2018 when the U.S. Department of Commerce banned U.S. companies from providing exports to ZTE, a Chinese telecoms equipment manufacturer (which ban was subsequently lifted in the third quarter of 2018) in an export controls case.
 Similarly, general trade tensions between the U.S. and China have been escalating in 2018, with rounds of U.S. tariffs on Chinese goods taking effect in July, August, and September 2018 (some of which prompted retaliatory Chinese tariffs on U.S. goods) and with an additional U.S. tariff rate increase scheduled to take effect in January 2019.
-Further rounds of tariffs have also been threatened by U.S. and Chinese leaders.
-
-

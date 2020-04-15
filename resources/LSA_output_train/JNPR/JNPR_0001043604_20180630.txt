@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 The unaudited Condensed Consolidated Financial Statements of Juniper Networks, Inc. (the “Company” or “Juniper”) have been prepared in accordance with U.S. generally accepted accounting principles (“U.S.
 Accordingly, they do not include all of the information and footnotes required by U.S. GAAP for complete financial statements.
 The Condensed Consolidated Balance Sheet as of December 31, 2017 has been derived from the audited Consolidated Financial Statements at that date.
@@ -12,35 +7,11 @@ The Company generally invoices customers for hardware, software licenses and rel
 Customer invoices are generally due within 30 to 90 days after issuance.
 Recognize revenue when or as the Company satisfies a performance obligation.
 Revenue for hardware and certain software licenses, are recognized at a point in time, which is generally upon shipment or delivery.
-Certain software licenses combined with post-contract support are recognized over time on a ratable basis over the term of the license.
-Revenue from training and professional services is recognized over time as services are completed or ratably over the contractual period of generally one year or less.
-Sales commissions earned by the Company’s sales force are considered incremental and recoverable costs of obtaining a contract with a customer.
-These costs are deferred and then amortized over a period of benefit which is typically over the term of the customer contracts as initial commission rates and renewal rates are the same.
-For available-for-sale debt securities that have unrealized losses, the Company assesses impairment by evaluating various factors, including whether (i) it has the intention to sell any of these investments and (ii) whether it is more likely than not that it will be required to sell any of these investments before recovery of the entire amortized cost basis.
-As of June 30, 2018, the Company had 545 investments in unrealized loss positions.
-
-
-item2.txt
-The following discussion is based upon our unaudited Condensed Consolidated Financial Statements included in Part 1, Item I, of this Report, which have been prepared in accordance with U.S. generally accepted accounting principles, or U.S. GAAP.
-Each of these decisions has some impact on the financial results for any given period.
-To aid in understanding our operating results for the periods covered by this Report, we have provided an executive overview, which includes a summary of our business and market environment along with a financial results and key performance metrics overview.
-
-
-item4.txt
-
-
-
-part2.txt
-The information set forth under the “Legal Proceedings” section in Note 13, Commitments and Contingencies, in Notes to Condensed Consolidated Financial Statements in Item 1 of Part I of this Report, is incorporated herein by reference.
+Certain software licenses combined with post-contract support are recognized over time on a ratable basis over the term of the license.The following discussion is based upon our unaudited Condensed Consolidated Financial Statements included in Part 1, Item I, of this Report, which have been prepared in accordance with U.S. generally accepted accounting principles, or U.S. GAAP.
+Each of these decisions has some impact on the financial results for any given period.The information set forth under the “Legal Proceedings” section in Note 13, Commitments and Contingencies, in Notes to Condensed Consolidated Financial Statements in Item 1 of Part I of this Report, is incorporated herein by reference.
 For example, in fiscal year 2017, our margins decreased as compared to fiscal year 2016, primarily due to lower product net revenues and product mix, resulting from the year-over-year decline in routing revenues, our customers' architectural shifts, and higher costs of certain memory components.
 Further, we will continue to remain diligent in our long-term financial objective to increase revenue and operating margins and manage our operating expenses as a percentage of revenue.
 A material portion of our net revenues, across each customer vertical, depends on sales to a limited number of customers and distribution partners.
 For example, in recent quarters, our switching and routing results were adversely affected by spending delays from our largest Cloud customers, who we believe are in the process of implementing a networking architectural shift.
 Competition is intense in the markets that we serve.
 The routing and switching markets have historically been dominated by Cisco, with competition coming from other companies such as Nokia Corporation (following its acquisition of Alcatel-Lucent), Arista, HPE, and Huawei.
-In particular, customers making critical decisions regarding the design and implementation of large network deployments may engage in very lengthy procurement processes that may delay or impact expected future orders.
-Throughout the sales cycle, we may spend considerable time educating and providing information to prospective customers regarding the use and benefits of our products.
-Even after making the decision to purchase, customers may deploy our products slowly and deliberately.
-Accordingly, we may receive purchase orders for significant dollar amounts on an irregular basis.
-
-

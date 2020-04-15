@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 NetApp, Inc. (we, us, or the Company) provides global organizations the ability to manage and share their data across on-premises, private and public clouds.
 Together with our partners, we provide a full range of enterprise-class software, systems and services solutions that customers use to modernize their infrastructures, build next generation data centers and harness the power of hybrid clouds.
 The statements have been prepared in accordance with accounting principles generally accepted in the United States of America (GAAP) for interim financial information.
@@ -11,39 +6,11 @@ There have been no significant changes in our significant accounting policies as
 In May 2014, the FASB issued an accounting standards update related to the recognition and reporting of revenue that establishes a comprehensive new revenue recognition model designed to depict the transfer of goods or services to a customer in an amount that reflects the consideration the entity expects to receive in exchange for those goods or services.
 We will adopt this new standard, as amended, on its effective date in the first quarter of fiscal 2019.
 We do not expect that the adoption of this standard will have a material impact on our operating cash flows.
-Additionally, as we continue to assess the new standard along with industry trends and additional interpretive guidance, we may adjust our implementation plan accordingly.
-In February 2016, the FASB issued an accounting standards update on financial reporting for leasing arrangements, including requiring lessees to recognize an operating lease with a term greater than one year on their balance sheets as a right-of-use asset and corresponding lease liability, measured at the present value of the lease payments.
-This new standard will be effective for us in our first quarter of fiscal 2020, although early adoption is permitted.
-We expect that most of our operating lease commitments will be subject to the new standard and recognized as lease liabilities and right-of-use assets upon adoption, which will increase the total assets and total liabilities we report.
-The standard introduces a new model for measuring and recognizing credit losses on financial instruments, requiring financial assets measured at amortized cost basis to be presented at the net amount expected to be collected.
-
-
-item2.txt
-We are the data authority for hybrid cloud environments.
+Additionally, as we continue to assess the new standard along with industry trends and additional interpretive guidance, we may adjust our implementation plan accordingly.We are the data authority for hybrid cloud environments.
 We provide a full range of hybrid cloud data services that simplify management of applications and data across cloud and on-premises environments to accelerate digital transformations.
 Together with our partners, we empower global organizations to unleash the full potential of their data to expand customer touchpoints, foster greater innovation, and optimize their operations.
-We focus on delivering an exceptional customer experience to become their preferred data partner.
-Our products and solutions portfolio empowers customers to harness the power of the hybrid cloud, build a next-generation data center, and modernize storage through data management.
-Our FAS storage platform uses the NetApp Data ONTAP storage operating system to deliver integrated data protection, comprehensive data management, and built-in efficiency software for virtualized, shared infrastructures, cloud computing, and mixed workload business applications.
-Our E-Series high-performance storage area network platform is designed to meet demanding performance and capacity requirements of dedicated workloads, while retaining simplicity and an optimized price to performance ratio.
-
-
-item3.txt
-We use certain derivative financial instruments to manage foreign currency exchange risks.
-
-
-item4.txt
-
-
-
-part2.txt
-These risk factors may be important to understanding any statement in this Form 10-Q or elsewhere.
+We focus on delivering an exceptional customer experience to become their preferred data partner.These risk factors may be important to understanding any statement in this Form 10-Q or elsewhere.
 The following information should be read in conjunction with the condensed consolidated financial statements and the related notes in Part I, Item 1 – Financial Statements and Part I, Item 2 – Management’s Discussion and Analysis of Financial Condition and Results of Operations of this Form 10-Q.
 These risks can and will change in the future.
 If we are unable to develop, introduce and gain market acceptance for new products while managing the transition from older products, or if we cannot provide the expected level of quality, service and support for our new products, our business, operating results and financial condition could be harmed.
 Due to the complexity of storage software, subsystems and appliances and the difficulty in gauging the engineering effort required to produce new products, such products are subject to significant technical and quality control risks.
-older product inventories and related components and ensure that enough supplies of new products can be delivered to meet customers’ demands.
-Further risks inherent in new product and solutions introductions include the uncertainty of price-performance relative to products of competitors, competitors’ responses to the introductions, delays in sales caused by the desire of customers to evaluate new products for extended periods of time and our partners’ investment in selling our new products and solutions.
-These business models continue to evolve, and we may not be able to compete effectively, generate significant revenues or maintain the profitability of our consumption based offerings.
-
-

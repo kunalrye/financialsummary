@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 Item 1.Financial Statements j2 Global, Inc., together with its subsidiaries (“j2 Global”, the “Company”, “our”, “us”, or “we”), is a leading provider of internet services.
 All intercompany accounts and transactions have been eliminated in consolidation.
 The accompanying interim condensed consolidated financial statements are unaudited and have been prepared in accordance with instructions for Form 10-Q and Article 10 of Regulation S-X issued by the Securities and Exchange Commission (“SEC”).
@@ -15,34 +10,7 @@ If the Company is acting as an agent in a transaction, the Company reports reven
 As of March 31, 2019, the carrying value of cash and cash equivalents, accounts receivable, interest receivable, accounts payable, accrued expenses, interest payable, customer deposits and long-term debt are reflected in the financial statements at cost.
 With the exception of certain investments and long-term debt, cost approximates fair value due to the short-term nature of such instruments.
 j2 Global determines the appropriate classification of its investments at the time of acquisition and evaluates such determination at each balance sheet date.
-Trading securities are those investments that the Company intends to sell within a few hours or days and are carried at fair value, with unrealized gains and losses included in investment income.
-Held-to-maturity securities are those investments which the Company has the ability and intent to hold until maturity and are recorded at amortized cost.
-All debt securities are accounted for on a specific identification basis.
-For equity securities without a readily determinable fair value that are not accounted for by the equity method, the Company measures the equity security using cost, less impairment, if any, and plus or minus observable price changes arising from orderly transactions in the same or similar investment from the same issuer.
-The estimated useful lives of property and equipment range from 1 to 10 years.
-Fixtures, which are comprised primarily of leasehold improvements and equipment under capital leases, are amortized on a straight-line basis over their estimated useful lives or for leasehold improvements, the related lease term, if less.
-The Company has capitalized certain internal use software and website development costs which are included in property and equipment.
-
-
-item2.txt
-◦Sustain growth or profitability, particularly in light of an uncertain U.S. or worldwide economy and the related impact on customer acquisition and retention rates, customer usage levels, and credit and debit card payment declines; j2 Global, Inc., together with its subsidiaries (“j2 Global”, “the Company”, “our”, “us” or “we”), is a leading provider of internet services.
+Trading securities are those investments that the Company intends to sell within a few hours or days and are carried at fair value, with unrealized gains and losses included in investment income.◦Sustain growth or profitability, particularly in light of an uncertain U.S. or worldwide economy and the related impact on customer acquisition and retention rates, customer usage levels, and credit and debit card payment declines; j2 Global, Inc., together with its subsidiaries (“j2 Global”, “the Company”, “our”, “us” or “we”), is a leading provider of internet services.
 Through our Cloud Services business, we provide cloud services to consumers and businesses and license our intellectual property (“IP”) to third parties.
 Our Cloud Services business generates revenues primarily from customer subscription and usage fees and from IP licensing fees.
-Our consolidated revenues are currently generated from three basic business models, each with different financial profiles and variability.
-Our Digital Media business is driven primarily by advertising revenues, has relatively higher sales and marketing expense and has seasonal strength in the fourth quarter.
-Our critical accounting policies are described in our 2018 Annual Report on Form 10-K filed with the SEC on March 1, 2019.
-During the three months ended March 31, 2019, there were no significant changes in our critical accounting policies and estimates.
-
-
-item3.txt
-Item 3.Quantitative and Qualitative Disclosures About Market Risk Readers are cautioned not to place undue reliance on these forward-looking statements, which reflect management’s opinions only as of the date hereof.
-
-
-item4.txt
-Item 6.Exhibits 10.1Credit Agreement, dated as of January 7, 2019, among j2 Cloud Services, LLC, the lenders from time to time party thereto and MUFG Union Bank, N.A., as sole lead arranger and as Agent (incorporated by reference to Exhibit 10.1 to j2 Global, Inc.’s Current Report on Form 8-K, filed with the SEC on January 9, 2019).
-
-
-part2.txt
-See Note 10 – Commitments and Contingencies of the Notes to Financial Statements (Part I, Item 1) for information regarding certain legal proceedings in which we are involved.
-
-
+Our consolidated revenues are currently generated from three basic business models, each with different financial profiles and variability.Item 3.Quantitative and Qualitative Disclosures About Market Risk Readers are cautioned not to place undue reliance on these forward-looking statements, which reflect management’s opinions only as of the date hereof.See Note 10 – Commitments and Contingencies of the Notes to Financial Statements (Part I, Item 1) for information regarding certain legal proceedings in which we are involved.

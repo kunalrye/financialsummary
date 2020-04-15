@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 The accompanying notes are an integral part of these condensed consolidated financial statements.
 The accompanying notes are an integral part of these condensed consolidated financial statements.
 The accompanying notes are an integral part of these condensed consolidated financial statements.
@@ -15,34 +10,6 @@ Leases will be classified as either finance or operating, with classification af
 This standard update outlines a single comprehensive model for entities to use in accounting for revenue arising from contracts with customers.
 Collectively, we refer to Topic 606, its related amendments and Subtopic 340-40 as the “new standard”.
 On January 1, 2018, we adopted Topic 606 using the modified retrospective method applied to all contracts that are not completed contracts at the date of initial application (i.e., January 1, 2018).
-Results for reporting periods after January 1, 2018 are presented under Topic 606, while prior period amounts are not adjusted and continue to be reported in accordance with our historic accounting under Topic 605.
-There was no impact on the opening accumulated deficit as of January 1, 2018 due to the adoption of Topic 606.
-The Company's revenue arrangements do not contain significant financing components.
-We then select an appropriate method for measuring progress toward complete satisfaction of the performance obligation, usually costs incurred to date relative to the total expected costs to the satisfaction of that performance obligation.
-These adjustment and allowances are accounted for as variable consideration.
-We estimate these amounts based on the expected amount to be provided to customers and reduce revenue recognized.
-For NRE arrangements, we allocate revenue to each performance obligation based on its relative standalone selling price.
-In October 2016, the FASB issued ASU 2016-16, “Intra- Entity Transfers of Assets Other Than Inventory.” For public entities, ASU 2016-16 is effective for fiscal years beginning after December 15, 2017, and interim periods within those fiscal years.
-
-
-item2.txt
-Cypress Semiconductor Corporation (“Cypress” or “the Company”) manufactures and sells advanced embedded system solutions for automotive, industrial, smart home appliances, consumer electronics and medical products.
+Results for reporting periods after January 1, 2018 are presented under Topic 606, while prior period amounts are not adjusted and continue to be reported in accordance with our historic accounting under Topic 605.Cypress Semiconductor Corporation (“Cypress” or “the Company”) manufactures and sells advanced embedded system solutions for automotive, industrial, smart home appliances, consumer electronics and medical products.
 Memory Products Division  MPD focuses on specialized, high-performance parallel and serial NOR flash memories, NAND flash memories, static random access memory (SRAM), F-RAM™ ferroelectric memory devices, non-volatile SRAM (nvSRAM), other specialty memories and timing solutions.
-This division also includes our subsidiary AgigA Tech Inc.
-Refer to Part I Item 1. Business in our Annual Report on Form 10-K for the year ended December 31, 2017 for a discussion of our strategies.
-As we continue to implement our strategies, there are many internal and external factors that could impact our ability to meet any or all of our objectives.
-
-
-item3.txt
-Our debt obligations consist of a variety of financial instruments that expose us to interest rate risk, including, but not limited to our revolving credit facility, Term Loans and Exchangeable Notes.
-On January 3, 2018, we evaluated the hedge effectiveness of the interest rate swaps and have designated these swaps as hedging instruments.
-
-
-item4.txt
-Additionally, in designing disclosure controls and procedures, our management necessarily was required to apply its judgment in evaluating the cost-benefit relationship of possible disclosure controls and procedures.
-
-
-part2.txt
-The information required by this item is included in Note 9 of Notes to Condensed Consolidated Financial Statements under Part I Item 1, of this Quarterly Report on Form 10-Q and is incorporated herein by reference.
-
-
+This division also includes our subsidiary AgigA Tech Inc.Our debt obligations consist of a variety of financial instruments that expose us to interest rate risk, including, but not limited to our revolving credit facility, Term Loans and Exchangeable Notes.

@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 The accompanying unaudited condensed consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States of America, or U.S. GAAP, for interim financial information and with the instructions to Form 10-Q and Article 10 of Securities and Exchange Commission, or SEC, Regulation S-X.
 The January 28, 2018 consolidated balance sheet was derived from our audited consolidated financial statements included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018, as filed with the SEC, but does not include all disclosures required by U.S. GAAP.
 In the opinion of management, all adjustments, consisting only of normal recurring adjustments except as otherwise noted, considered necessary for a fair statement of results of operations and financial position have been included.
@@ -12,38 +7,10 @@ Revenue is recognized net of allowances for returns, customer programs and any t
 As a result, we recognize the revenue from the license and the revenue from the development services as a single performance obligation over the period in which the development services are performed.
 Revenue from software licenses is recognized up front when the software is made available to the customer.
 PCS revenue is recognized ratably over the service period, or as services are performed.
-Our condensed consolidated financial statements include the accounts of NVIDIA Corporation and our wholly-owned subsidiaries.
-The Financial Accounting Standards Board, or FASB, issued an accounting standards update that creates a single source of revenue guidance under U.S. GAAP for all companies, in all industries.
-The adoption of this guidance did not have a significant impact on our consolidated financial statements.
-In February 2016 and July 2018, the FASB issued accounting standards updates regarding the accounting for leases by which we will begin recognizing lease assets and liabilities on the balance sheet for lease terms of more than 12 months.
-We are evaluating the impact of adopting the new lease accounting standards on our consolidated financial statements, systems and processes in conjunction with our review of lease agreements.
-We expect the adoption of this accounting guidance to result in an increase in lease assets and a corresponding increase in lease liabilities on our Consolidated Balance Sheets.
-
-
-item2.txt
-While our GPU and CUDA architecture is unified, our GPU product brands are aimed at specialized markets including GeForce for gamers; Quadro for designers; Tesla and DGX for AI data scientists and big data researchers; and GRID for cloud-based visual computing users.
+Our condensed consolidated financial statements include the accounts of NVIDIA Corporation and our wholly-owned subsidiaries.While our GPU and CUDA architecture is unified, our GPU product brands are aimed at specialized markets including GeForce for gamers; Quadro for designers; Tesla and DGX for AI data scientists and big data researchers; and GRID for cloud-based visual computing users.
 Revenue for the second quarter of fiscal year 2019 increased 40% year over year and decreased 3% sequentially.
 GPU business revenue was $2.66 billion, up 40% from a year earlier and down 4% sequentially, led by gaming, professional visualization, and datacenter, offsetting a substantial decline in cryptocurrency GPUs.
 Gaming GPU growth was fueled by Pascal-based GPUs for desktops and by high-performance notebooks based on our Max-Q technology.
 Professional visualization revenue was $281 million, up 20% from a year earlier and up 12% sequentially.
 Datacenter revenue was $760 million, up 83% from a year ago and up 8% sequentially, led by strong sales of our Volta architecture products, including NVIDIA Tesla V100 and DGX systems.
-Tegra Processor business revenue - which includes Automotive, SOC modules for the Nintendo Switch gaming console, and other embedded Tegra platforms - was $467 million, up 40% from a year ago and up 6% sequentially.
-Income from operations for the second quarter of fiscal year 2019 was $1.16 billion, up 68% from a year earlier and down 11% sequentially.
-Net income and net income per diluted share for the second quarter of fiscal year 2019 were $1.10 billion and $1.76, respectively, up 89% and 91%, respectively, from a year earlier, fueled by strong revenue growth and improved gross and operating margins.
-During the first half of fiscal year 2019, we returned $837 million to shareholders through a combination of $655 million in share repurchases and $182 million in cash dividends.
-Cash, cash equivalents and marketable securities were $7.94 billion as of July 29, 2018, compared with $7.30 billion at the end of the prior quarter.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018 for a prior discussion of our legal proceedings.
-Refer to the description of the risk factors associated with our business previously disclosed in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
-
-
+Tegra Processor business revenue - which includes Automotive, SOC modules for the Nintendo Switch gaming console, and other embedded Tegra platforms - was $467 million, up 40% from a year ago and up 6% sequentially.Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018 for a prior discussion of our legal proceedings.

@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 In our opinion, the accompanying unaudited interim condensed consolidated financial statements reflect all adjustments (consisting only of normal recurring adjustments, except as otherwise indicated) necessary for a fair presentation of our financial position and results of operations.
 These unaudited condensed consolidated financial statements and notes thereto should be read in conjunction with our audited consolidated financial statements and notes thereto presented in our Annual Report on Form 10-K for the year ended September 30, 2018.
 The interim financial information contained in this report is not necessarily indicative of the results to be expected for any other interim period or for the entire fiscal year.
@@ -11,39 +6,12 @@ See New Accounting Pronouncements below and Note 8.
 For example, we use estimates in determining the collectability of accounts receivable; the appropriate levels of various accruals; labor hours in connection with fixed-fee service contracts; the amount of our tax provision and the realizability of deferred tax assets.
 In addition, we use assumptions to estimate the fair value of reporting units and share-based compensation.
 Revenue is recognized when control of the promised goods or services is transferred to our customers, in an amount that reflects the consideration to which we expect to be entitled to in exchange for those goods or services.
-This adoption primarily affected timing of revenue recognition of license revenue on term licenses and transactional revenue on guaranteed minimum fees related to our on-premises software products.
-Under the new standard, we recognize revenue when control of the license is transferred to the customer, rather than at the date payments become due and payable when there are extended payment terms, or ratably over the term of the contract as required under the previous standard.
-Additionally, under the new standard, when we enter into noncancellable contracts that provide unconditional rights to payment from our customers for services we have not yet completed or services we will provide in the near future, we present receivables — our unconditional rights to payments — and deferred revenues on a gross basis, rather than on a net basis.
-The accounting guidance establishes a three-level hierarchy for disclosure that is based on the extent and level of judgment used to estimate the fair value of assets and liabilities.
-We principally utilize foreign currency forward contracts, which enable us to buy and sell foreign currencies in the future at fixed exchange rates and economically offset changes in foreign exchange rates.
-
-
-item2.txt
-We use analytics to help businesses automate, improve and connect decisions across their enterprise — an approach we commonly refer to as decision management.
+This adoption primarily affected timing of revenue recognition of license revenue on term licenses and transactional revenue on guaranteed minimum fees related to our on-premises software products.We use analytics to help businesses automate, improve and connect decisions across their enterprise — an approach we commonly refer to as decision management.
 We derive a significant portion of our revenues from clients outside the U.S. International revenues accounted for 37% and 34% of total consolidated revenues for the quarters ended December 31, 2018 and 2017, respectively.
 Arrangements with transactional or unit-based pricing accounted for 74% and 73% of our revenues during the quarters ended December 31, 2018 and 2017, respectively.
 Scores operating income increased 37% to $72.2 million during the quarter ended December 31, 2018 from $52.5 million during the quarter ended December 31, 2017.
-During the quarter ended December 31, 2018, cloud revenues accounted for $63.4 million, or 36% of non-Scores revenues, compared to $56.2 million, or 34% during the quarter ended December 31, 2017.
-Operating income increased 33% to $49.0 million for the quarter ended December 31, 2018 from $36.8 million during the quarter ended December 31, 2017 and as a result, net earnings increased 22% to $40.0 million from $32.9 million, primarily due to the increase in operating income, partially offset by higher interest expense incurred during the quarter ended December 31, 2018.
-We continue to enhance stockholder value by returning cash to stockholders through our stock repurchase program.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-We continue to expand the pursuit of our business objective to become a leader in helping businesses automate and improve decisions across their enterprises, an approach that we commonly refer to as Decision Management, or “DM.” Our DM strategy is designed to enable us to increase our business by selling multiple products to clients, as well as to enable the development of custom client solutions that may lead to opportunities to develop new proprietary scores or other new proprietary products.
+During the quarter ended December 31, 2018, cloud revenues accounted for $63.4 million, or 36% of non-Scores revenues, compared to $56.2 million, or 34% during the quarter ended December 31, 2017.We continue to expand the pursuit of our business objective to become a leader in helping businesses automate and improve decisions across their enterprises, an approach that we commonly refer to as Decision Management, or “DM.” Our DM strategy is designed to enable us to increase our business by selling multiple products to clients, as well as to enable the development of custom client solutions that may lead to opportunities to develop new proprietary scores or other new proprietary products.
 As we continue to pursue our DM strategy, we may experience volatility in our revenues and operating results caused by various factors, including differences in revenue recognition treatment between our cloud-based offerings and on-premise software licenses, the timing of investments and other expenditures necessary to develop and operate our cloud-based offerings, and the adoption of new sales and delivery methods.
 We derive a substantial portion of our revenues from a small number of products and services, and if the market does not continue to accept these products and services, our revenues will decline.
 •inability to successfully sell our products in new vertical markets.
 We expect that part of the growth that we seek to achieve through our DM strategy will be derived from the sale of DM products and service solutions in industries and markets we do not currently serve.
-Our growth and the success of our DM strategy depend upon our ability to develop and sell new products or suites of products, including the development and sale of our cloud-based product offerings.
-If we are unable to develop new products, or if we are not successful in introducing new products, we may not be able to grow our business or growth may occur more slowly than we anticipate.
-Software errors in our products could affect the ability of our products to work with other hardware or software products, could delay the development or release of new products or new versions of products, and could adversely affect market acceptance of our products.
-
-

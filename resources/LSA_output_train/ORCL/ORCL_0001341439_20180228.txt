@@ -1,8 +1,3 @@
-fls.txt
-This Quarterly Report on Form 10-Q contains statements that are not historical in nature, are predictive in nature, or that depend upon or refer to future events or conditions or otherwise contain forward-looking statements within the meaning of Section 21 of the Securities Exchange Act of 1934, as amended, and the Private Securities Litigation Reform Act of 1995.
-
-
-item1.txt
 We believe that all necessary adjustments, which consisted only of normal recurring items, have been included in the accompanying financial statements to present fairly the results of the interim periods.
 Impacts of the U.S. 2017 Tax Cuts and Jobs Act The comparability of our operating results in the third quarter and first nine months of fiscal 2018 compared to the corresponding prior year periods, and of our consolidated balance sheets as of February 28, 2018 relative to May 31, 2017, was impacted by the U.S. 2017 Tax Cuts and Jobs Act (the Act), which was signed into law on December 22, 2017.
     a $7.6 billion expense related to the application of the one-time transition tax to certain foreign subsidiary earnings that were generated prior to December 31, 2017, which expense was substantially recorded to non-current income taxes payable in our consolidated balance sheet and which corresponds to the amount we currently expect to periodically settle over an eight year period as provided by the Act; The net expense related to the enactment of the Act has been accounted for during the third quarter and first nine months of fiscal 2018 based on provisional estimates pursuant to the SEC Staff Accounting Bulletin No.
@@ -10,16 +5,7 @@ Restricted cash that was included within cash and cash equivalents as presented 
 Acquisition related and other expenses consist of personnel related costs and stock-based compensation for transitional and certain other employees, integration related professional services, certain business combination adjustments including certain adjustments after the measurement period has ended and certain other operating items, net.
 Non-operating income, net consists primarily of interest income, net foreign currency exchange losses, the noncontrolling interests in the net profits of our majority-owned subsidiaries (primarily Oracle Financial Services Software Limited and Oracle Japan) and net other income, including net realized gains and losses related to all of our investments and net unrealized gains and losses related to the small portion of our investment portfolio that we classify as trading.
 We offer certain of our customers the option to acquire our software products, hardware products and services offerings through separate long-term payment contracts.
-We generally sell these contracts that we have financed for our customers on a non-recourse basis to financial institutions within 90 days of the contracts dates of execution.
-We record the transfers of amounts due from customers to financial institutions as sales of financing receivables because we are considered to have surrendered control of these financing receivables.
-During the first nine months of fiscal 2018, we entered into certain non-material agreements to acquire certain companies and expect these proposed acquisitions to close during the fourth quarter of fiscal 2018.
-Fiscal 2017 Acquisition of NetSuite Inc., a Related Party We acquired NetSuite to, among other things, expand our cloud software as a service offerings with a complementary set of cloud ERP and related cloud software applications for customers.
-Lawrence J. Ellison, Oracles Chairman of the Board and Chief Technology Officer and Oracles largest stockholder, is an affiliate of NetSuites largest stockholder, NetSuite Restricted Holdings LLC (a single member LLC investment entity whose interests are beneficially owned by a trust controlled by Mr. Ellison), which owned approximately 40% of the issued and outstanding NetSuite Shares immediately prior to the conclusion of the merger.
-The total purchase price for NetSuite was approximately $9.1 billion, which consisted of approximately $9.0 billion in cash and $78 million for the fair values of restricted stock-based awards and stock options assumed.
-
-
-item2.txt
-We market and sell our offerings globally to businesses of many sizes, government agencies, educational institutions and resellers with a sales force positioned to offer the combinations that best meet customer needs.
+We generally sell these contracts that we have financed for our customers on a non-recourse basis to financial institutions within 90 days of the contracts dates of execution.We market and sell our offerings globally to businesses of many sizes, government agencies, educational institutions and resellers with a sales force positioned to offer the combinations that best meet customer needs.
 We are a leader in the core technologies of cloud IT environments, including database and middleware software as well as enterprise applications, virtualization, clustering, large-scale systems management and related infrastructure.
 We have a deep understanding as to how applications, platform and infrastructure technologies interact and function with one another within IT environments.
 Our Oracle Cloud at Customer program provides another deployment option for customers to utilize the Oracle Cloud Machine and Oracle Database Exadata Cloud Machine to bring certain Oracle Cloud SaaS, PaaS and IaaS offerings to a customers on-premise IT environment to meet data sovereignty, data residency, data protection and regulatory business policy requirements, among others, while benefiting from the many advantages of a cloud service.
@@ -28,19 +14,4 @@ We believe that our acquisitions enhance the products and services that we can o
 In recent periods, customer demand has increased at a greater rate for cloud-based IT deployment models relative to on-premise IT deployment models.
 We believe that offering customers broad, comprehensive, flexible and interoperable deployment models for our applications, platform and infrastructure technologies is important to our growth strategy and better address customer needs relative to our competitors, many of whom provide fewer offerings and more restrictive deployment models.
 We enable our customers to evolve and transform to substantially any IT deployment model at whatever pace is most appropriate for them.
-The majority of our SaaS, PaaS and IaaS arrangements have a duration of 12 to 36 months and we strive to renew these contracts when they are eligible for renewal.
-The timing of a few large software license transactions can substantially affect our quarterly new software licenses revenues, which is different than the typical revenue recognition pattern for our cloud-based offerings in which revenues are generally recognized ratably over the subscription period.
-New software license customers have the option to purchase software license updates and product support contracts, which grant rights to unspecified product upgrades and maintenance releases and patches released during the term of the support period, as well as technical support assistance.
-We expect these trends will continue with the mix of this business revenues continuing to shift toward cloud-based services.
-Our hardware business, which represented 10% of our total revenues on a trailing 4-quarter basis, provides a broad selection of hardware products and hardware-related software products including Oracle Engineered Systems, servers, storage, industry-specific hardware, virtualization software, operating systems, and management software that are generally recognized as revenues upon delivery to the customer provided all other revenue recognition criteria are met, and also include related hardware support.
-Our hardware support offerings provide customers with software updates for software components that are essential to the functionality of our hardware products, such as Oracle Solaris and certain other software products, and can include product repairs, maintenance services and technical support services.
-
-
-item3.txt
-
-
-
-part2.txt
-The material set forth in Note 11 (pertaining to information regarding contingencies related to our income taxes) and Note 14 (pertaining to information regarding legal contingencies) of Notes to Condensed Consolidated Financial Statements in Part I, Item 1 of this Quarterly Report on Form 10-Q is incorporated herein by reference.
-
-
+The majority of our SaaS, PaaS and IaaS arrangements have a duration of 12 to 36 months and we strive to renew these contracts when they are eligible for renewal.The material set forth in Note 11 (pertaining to information regarding contingencies related to our income taxes) and Note 14 (pertaining to information regarding legal contingencies) of Notes to Condensed Consolidated Financial Statements in Part I, Item 1 of this Quarterly Report on Form 10-Q is incorporated herein by reference.

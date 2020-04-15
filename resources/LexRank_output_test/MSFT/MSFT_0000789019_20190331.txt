@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 Our unaudited interim consolidated financial statements and accompanying notes are prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”).
 The information included in this Form 10-Q should be read in conjunction with information included in the Microsoft Corporation fiscal year 2018 Form 10-K filed with the U.S. Securities and Exchange Commission (“SEC”) on August 3, 2018.
 We have recast certain prior period amounts related to investments, derivatives, and fair value measurements to conform to the current period presentation based on our adoption of the new accounting standard for financial instruments.
@@ -11,40 +6,12 @@ The consolidated financial statements include the accounts of Microsoft Corporat
 We consider all highly liquid interest-earning investments with a maturity of three months or less at the date of purchase to be cash equivalents.
 Investments with maturities beyond one year may be classified as short-term based on their highly liquid nature and because such marketable securities represent the investment of cash that is available for current operations.
 Debt investments are classified as available-for-sale and realized gains and losses are recorded using the specific identification method.
-Changes in fair value, excluding other-than-temporary impairments, are recorded in other comprehensive income (“OCI”).
-Debt investments are impaired when a decline in fair value is judged to be other-than-temporary.
-Fair value is calculated based on publicly available market information or other estimates determined by management.
-If the cost of an investment exceeds its fair value, we evaluate, among other factors, general market conditions, credit quality of debt instrument issuers, and the duration and extent to which the fair value is less than cost.
-We also evaluate whether we have plans to sell the security or it is more likely than not that we will be required to sell the security before recovery.
-Once a decline in fair value is determined to be other-than-temporary, an impairment charge is recorded in other income (expense), net and a new cost basis in the investment is established.
-
-
-item2.txt
-We strive to create local opportunity, growth, and impact in every country around the world.
+Changes in fair value, excluding other-than-temporary impairments, are recorded in other comprehensive income (“OCI”).We strive to create local opportunity, growth, and impact in every country around the world.
 Server products and cloud services revenue, including GitHub, increased 27%, driven by Azure growth of 73%.
 Windows Commercial revenue increased 18%.
 Gaming revenue increased 5%, driven by Xbox software and services growth of 12%.
-Refer to Note 7 – Business Combinations of the Notes to Financial Statements (Part I, Item 1 of this Form 10-Q) for further discussion.
-We recorded a provisional net charge of $13.8 billion in the second quarter of fiscal year 2018, and $13.7 billion in fiscal year 2018, related to the TCJA.
-At Microsoft, we push the boundaries of what is possible through a broad range of research and development activities that seek to identify and address the changing demands of customers and users, industry trends, and competitive forces.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-We face intense competition across all markets for our products and services, which may lead to lower revenue or operating margins.
+Refer to Note 7 – Business Combinations of the Notes to Financial Statements (Part I, Item 1 of this Form 10-Q) for further discussion.We face intense competition across all markets for our products and services, which may lead to lower revenue or operating margins.
 Our competitors range in size from diversified global companies with significant research and development resources to small, specialized firms whose narrower product lines may let them be more effective in deploying technical, marketing, and financial resources.
 Barriers to entry in many of our businesses are low and many of the areas in which we compete evolve rapidly with changing and disruptive technologies, shifting user needs, and frequent introductions of new products and services.
 Our ability to remain competitive depends on our success in making innovative products, devices, and services that appeal to businesses and consumers.
 A competing vertically-integrated model, in which a single firm controls the software and hardware elements of a product and related services, has succeeded with some consumer products such as personal computers, tablets, phones, gaming consoles, and wearables.
-We also offer some vertically-integrated hardware and software products and services.
-We derive substantial revenue from licenses of Windows operating systems on personal computers.
-We face significant competition from competing platforms developed for new devices and form factors such as smartphones and tablet computers.
-
-

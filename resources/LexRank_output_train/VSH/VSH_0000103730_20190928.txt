@@ -1,21 +1,9 @@
-fls.txt
-
-
-
-item1.txt
 Continues on following page.
 Upon adoption at January 1, 2019, the Company recognized right of use assets of $91,462 and lease liabilities of $95,784 on the consolidated balance sheet.
 Upon adoption of ASC Topic 842, the Company was required to reassess the accounting for these transactions.
 The transactions did not qualify as a completed sale and leaseback under previous GAAP.
 The Company recognizes right of use assets and lease liabilities for leases greater than twelve months in duration based on the contract consideration for lease components through the term of the lease and the applicable discount rate.
-Leases with a duration less than or equal to twelve months are considered short-term leases.
-The Company does not recognize right of use assets or lease liabilities for short-term leases and classifies the expense as short-term lease expense.
-Variable lease payments based on an index or rate are included in the right of use assets and lease liabilities based on the effective rates at lease commencement.
-Variable lease payments not based on an index or rate are not included in the initial right of use asset and lease liability and are recognized when incurred as a component of lease expense in the statement of operations.
-
-
-item2.txt
-This Management's Discussion and Analysis ("MD&A") is intended to provide an understanding of Vishay's financial condition, results of operations and cash flows by focusing on changes in certain key measures from period to period.
+Leases with a duration less than or equal to twelve months are considered short-term leases.This Management's Discussion and Analysis ("MD&A") is intended to provide an understanding of Vishay's financial condition, results of operations and cash flows by focusing on changes in certain key measures from period to period.
 We have paid dividends each quarter since the first fiscal quarter of 2014, and further increased the quarterly cash dividend by 12% to $0.095 per share in the second fiscal quarter of 2019.
 As a result of these transactions, we reduced the principal amount of outstanding convertible senior debentures due 2040, 2041, and 2042 from $575 million to $36.6 million.
 The new credit facility increases the aggregate commitment of revolving loans from $640 million to $750 million; provides us with the ability to request up to $300 million of incremental facilities, subject to the satisfaction of certain conditions, which could take the form of additional revolving commitments, incremental “term loan A” or “term loan B” facilities, or incremental equivalent debt; reduces the undrawn commitment fee while maintaining the same borrowing rates; and provides greater operating flexibility, including with respect to intercompany funding and other transactions, to enable us to continue to streamline our complex subsidiary structure.
@@ -25,24 +13,4 @@ Net revenues for the fiscal quarter ended September 28, 2019 were $628.3 million
 The net earnings attributable to Vishay stockholders for the fiscal quarter ended September 28, 2019 were $30.0 million, or $0.21 per diluted share, compared to $44.5 million, or $0.31 per diluted share for the fiscal quarter ended June 29, 2019, and $77.9 million, or $0.51 per diluted share for the fiscal quarter ended September 29, 2018.
 We define adjusted net earnings as net earnings determined in accordance with GAAP adjusted for various items that management believes are not indicative of the intrinsic operating performance of our business.
 The reconciliations below include certain financial measures which are not recognized in accordance with GAAP, including adjusted net earnings, adjusted earnings per share, and free cash.
-These non-GAAP measures should not be viewed as alternatives to GAAP measures of performance or liquidity.
-Management believes that free cash is a meaningful measure of our ability to fund acquisitions, repay debt, and otherwise enhance stockholder value through stock repurchases or dividends.
-Although the term "free cash" is not defined in GAAP, each of the elements used to calculate free cash for the year-to-date period is presented as a line item on the face of our consolidated condensed statement of cash flows prepared in accordance with GAAP and the quarterly amounts are derived from the year-to-date GAAP statements as of the beginning and end of the respective quarter.
-Our results for the fiscal quarters ended September 28, 2019, June 29, 2019, and September 29, 2018 and nine fiscal months ending September 28, 2019 and September 29, 2018 represent the effects of the normalization of demand that we began to experience in the fourth fiscal quarter of 2018 and has accelerated through the first nine fiscal months of 2019 as supply, in general, caught up with demand, and distributors significantly reduced their orders as they decrease their inventory.
-Our free cash results were significantly impacted by the payment of cash taxes related to the cash repatriated to the U.S. in the second and third fiscal quarters of 2019 of $20.5 million and $18.3 million, respectively, and $92.1 million and $64.7 million in the second and third fiscal quarters of 2018, respectively, and the installment payments of the U.S. transition tax of $14.8 million and $14.4 million in the second fiscal quarters of 2019 and 2018, respectively.
-These key financial measures and metrics include net revenues, gross profit margin, operating margin, segment operating income, end-of-period backlog, and the book-to-bill ratio.
-Operating margin is computed as gross profit less operating expenses as a percentage of net revenues.
-
-
-item3.txt
-
-
-
-item4.txt
-Item 4.
-
-
-part2.txt
-Item 4.
-
-
+These non-GAAP measures should not be viewed as alternatives to GAAP measures of performance or liquidity.Item 4.

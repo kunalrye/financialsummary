@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 On September 2, 2014, Simulations Plus, Inc. acquired all of the outstanding equity interests of Cognigen Corporation (“Cognigen”, “Buffalo”) and Cognigen became a wholly owned subsidiary of Simulations Plus, Inc. Simulations Plus, Inc., acquired DILIsym Services, Inc. (DILIsym) as a wholly owned subsidiary pursuant to a stock purchase agreement dated May 1, 2017.
 On June 1, 2017, the Company consummated the acquisition of all outstanding equity interests of DILIsym pursuant to the terms of the Stock Agreement, with DILIsym becoming a wholly owned subsidiary of the Company.
 The consolidated financial statements include the accounts of Simulations Plus, Inc. and, as of September 2, 2014, its wholly owned subsidiary, Cognigen Corporation, and as of June 1, 2017, the accounts of DILIsym Services, Inc. All significant intercompany accounts and transactions are eliminated in consolidation.
@@ -11,16 +6,7 @@ Significant accounting policies for us include revenue recognition, accounting f
 As a byproduct of ongoing improvements and upgrades for the new programs and new modules of software, some modifications are provided to our customers who have already purchased software at no additional charge.
 Generally, we enter into one-year license agreements with customers for the use of our pharmaceutical software products.
 We recognize revenue on sales of our DILIsym Subsidiary in accordance with ASC 605-25, “Revenue Recognition, Multiple-Element Arrangements”.
-Amortization of capitalized software development costs is calculated on a product-by-product basis on the straight-line method over the estimated economic life of the products (not to exceed five years).
-Amortization of software development costs amounted to $285,310 and $284,217 for the three months ended November 30, 2017 and 2016, respectively.
-The Company performs valuations of assets acquired and liabilities assumed on each acquisition accounted for as a business combination and recognizes the assets acquired and liabilities assumed at their acquisition date fair value.
-Intangible assets are amortized over their estimated useful lives using the straight-line method, which approximates the pattern in which the majority of the economic benefits are expected to be consumed.
-Goodwill represents the excess of the cost of an acquired entity over the fair value of the acquired net assets.
-Goodwill is not amortized, instead it is tested for impairment annually or when events or circumstances change that would indicate that goodwill might be impaired.
-
-
-item2.txt
-Item 2.
+Amortization of capitalized software development costs is calculated on a product-by-product basis on the straight-line method over the estimated economic life of the products (not to exceed five years).Item 2.
 The forward-looking statements contained or incorporated by reference in this document are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (“Securities Act”) and Section 21E of the Securities Exchange Act of 1934, as amended (“Exchange Act”) and are subject to the safe harbor created by the Private Securities Litigation Reform Act of 1995.
 In September 2014, Simulations Plus acquired Cognigen Corporation (Cognigen) as a wholly owned subsidiary pursuant to that certain Agreement and Plan of Merger, dated as of July 23, 2014, by and between Simulations Plus and Cognigen (the “Merger Agreement”).
 Through the integration of Cognigen into Simulations Plus, Simulations Plus became also a leading provider of population modeling and simulation contract research services for the pharmaceutical and biotechnology industries.
@@ -29,21 +15,3 @@ We have also developed software for harnessing cloud-based computing in support 
 In June 2017, Simulation Plus acquired DILIsym Services, Inc. (DILIsym) as a wholly owned subsidiary pursuant to a stock purchase agreement dated May 1, 2017.
 The acquisition of DILIsym positions the Company as the leading provider of Drug Induced Liver Injury (DILI) modeling and simulation software and contract research services.
 The difference between DILIsym and NAFLDsym is that DILIsym estimates the potential for a particular drug molecule to induce liver injury (i.e., to cause damage), while NAFLDsym estimates the likelihood of new molecules to treat nonalcoholic fatty liver disease (i.e., to repair damage), and is unique to the mechanisms involved in such treatment.
-As such, DILIsym can be a single program that addresses a wide variety of molecules across various companies, while NAFLDsym requires customizing the software for each mechanism of action.
-Both the DILIsym and NAFLDsym software programs require outputs from physiologically based pharmacokinetics (PBPK) software as inputs.
-We are a global leader focused on improving the ways scientists use knowledge and data to predict the properties and outcomes of pharmaceutical and biotechnology agents, and are one of only two global companies who provide a wide range of preclinical and clinical consulting services and software.
-Our innovations in integrating new and existing science in medicinal chemistry, computational chemistry, pharmaceutical science, biology, physiology, and machine learning into our software have made us the leading software provider for PBPK modeling and simulation and for prediction of molecular properties from structure.
-
-
-item3.txt
-As of November 30, 2017 and August 31, 2017, we had cash and cash equivalents of $7.05 million and $6.22 million, respectively.
-
-
-item4.txt
-
-
-
-part2.txt
-We are not a party to any legal proceedings and are not aware of any pending legal proceedings of any kind.
-
-

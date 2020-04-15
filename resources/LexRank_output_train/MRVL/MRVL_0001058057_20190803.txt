@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 The unaudited condensed consolidated financial statements of Marvell Technology Group Ltd., a Bermuda exempted company, and its wholly owned subsidiaries (the “Company”), as of and for the three and six months ended August 3, 2019, have been prepared as required by the U.S. Securities and Exchange Commission (the “SEC”).
 These unaudited condensed consolidated financial statements and related notes should be read in conjunction with the Company's fiscal year 2019 audited financial statements included in the Company's Annual Report on Form 10-K for the fiscal year ended February 2, 2019.
 These financial statements should also be read in conjunction with the Company’s critical accounting policies included in the Company’s Annual Report on Form 10-K for the year ended February 2, 2019 and those included in this Form 10-Q below.
@@ -12,38 +7,11 @@ The Company will pay Aquantia's stockholders $13.25 per share in cash, or approx
 The transaction is expected to close by December 2019, subject to regulatory approval as well as other customary closing conditions.
 The Company will pay GlobalFoundries $650 million in cash at closing, subject to certain adjustments, plus an additional $90 million in cash if certain business conditions are satisfied within the next 15 months.
 On May 29, 2019, the Company announced its intent to sell its Wi-Fi connectivity business to NXP for $1.76 billion in cash.
-As of August 3, 2019, the Company classified assets held for sale of $597.7 million, which consisted of $28.2 million of inventory, $6.1 million of property, plant and equipment, $557.8 million of goodwill and $5.6 million of right-of-use lease asset.
-In addition, the Company classified liabilities held for sale of $5.6 million associated with lease liability in the condensed consolidated balance sheet.
-In February 2016, the Financial Accounting Standards Board (“FASB”) issued a new standard on the accounting for leases, which amends the existing guidance to require lessees to recognize assets and liabilities on the balance sheet for the rights and obligation created by long-term leases and to disclose additional quantitative and qualitative information about leasing arrangements.
-The Company adopted the new lease accounting standard on February 3, 2019, using the modified retrospective approach by applying the new standard to leases existing at the date of initial application and not restating comparative periods.
-The standard eliminates the threshold for initial recognition in current GAAP and reflects an entity’s current estimate of all expected credit losses.
-The Company does not expect the adoption of this guidance will have a material effect on its consolidated financial statements.
-
-
-item2.txt
-Unless required by law, we undertake no obligation to update any forward-looking statements.
-We are a leading supplier of infrastructure semiconductor solutions, spanning the data center core to network edge.
-In the second quarter of fiscal 2020, our net revenue decreased year over year by 1% from $665.3 million net revenue in the second quarter fiscal 2019 compared with $656.6 million in the second quarter of fiscal 2020.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-Many of these risks and uncertainties are beyond our control, including business cycles and seasonal trends of the computing, infrastructure, semiconductor and related industries and end markets.
+As of August 3, 2019, the Company classified assets held for sale of $597.7 million, which consisted of $28.2 million of inventory, $6.1 million of property, plant and equipment, $557.8 million of goodwill and $5.6 million of right-of-use lease asset.Unless required by law, we undertake no obligation to update any forward-looking statements.
+We are a leading supplier of infrastructure semiconductor solutions, spanning the data center core to network edge.Many of these risks and uncertainties are beyond our control, including business cycles and seasonal trends of the computing, infrastructure, semiconductor and related industries and end markets.
 In addition, the trading price of our common shares could decline due to the occurrence of any of these risks, and you could lose all or part of your investment.
 •changes in general economic conditions, such as the impact of Brexit on the economy in the E.U., political conditions, such as the recent tariffs and trade bans, and specific conditions in the end markets we address, including the continuing volatility in the technology sector and semiconductor industry; •failure of our customers to agree to pay for NRE (non-recurring engineering) costs or failure to pay enough to cover the costs we incur in connection with NREs.
 As a result of stock price volatility, we may be subject to securities class action litigation.
 Our proposed acquisitions of Aquantia and Avera involve a number of risks, including, among others, those associated with our use of a significant portion of our cash or our taking on significant indebtedness and other financial risks and integration risks.
 We used a significant portion of our cash and incurred substantial indebtedness in connection with the financing of our acquisition of Cavium (the “Cavium acquisition”).
 In the event that we don't close our divestiture with NXP prior to these transactions or at all, then we may incur substantial indebtedness in connection with the Other Acquisitions.
-Our use of cash in the Cavium acquisition and proposed use of cash in the Other Acquisitions would reduce our liquidity and may (i) limit our flexibility in responding to other business opportunities and (ii) increase our vulnerability to adverse economic and industry conditions.
-To the extent we are attempting to integrate multiple businesses such as the Other Acquisitions and to separate technology in connection with the NXP divestiture at the same time, we may not be able to do so as efficiently or effectively as we would prefer.
-In connection with the integration of the Avera acquisition we may be required to obtain a U.S. government security clearance before we can market and sell our products to certain customers.
-
-

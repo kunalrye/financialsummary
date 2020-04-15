@@ -1,8 +1,3 @@
-fls.txt
-This Quarterly Report on Form 10-Q contains statements that are not historical in nature, are predictive in nature, or that depend upon or refer to future events or conditions or otherwise contain forward-looking statements within the meaning of Section 21 of the Securities Exchange Act of 1934, as amended, and the Private Securities Litigation Reform Act of 1995.
-
-
-item1.txt
 We have prepared the condensed consolidated financial statements included herein pursuant to the rules and regulations of the U.S. Securities and Exchange Commission (SEC).
 We believe that all necessary adjustments, which consisted only of normal recurring items, have been included in the accompanying financial statements to present fairly the results of the interim periods.
 We determine if an arrangement is a lease at its inception.
@@ -12,38 +7,11 @@ Cash paid for amounts included in the measurement of operating lease liabilities
 We recorded ROU assets of $2.2 billion in exchange for operating lease obligations during the six months ended November 30, 2019, which included $1.9 billion for operating leases existing on June 1, 2019 that were recognized upon our initial adoption of Topic 842 and $301 million for operating leases that were contracted during the first half of fiscal 2020.
 Trade receivables, net of allowance for doubtful accounts, and deferred revenues are reported net of related uncollected deferred revenues in our condensed consolidated balance sheets as of November 30, 2019 and May 31, 2019.
 The revenues recognized during the six months ended November 30, 2019 and 2018, respectively, that were included in the opening deferred revenues balance as of May 31, 2019 and 2018, respectively, were approximately $6.2 billion during each period.
-Revenues recognized from performance obligations satisfied in prior periods and impairment losses recognized on our receivables were immaterial in each of the three and six months ended November 30, 2019 and 2018, respectively.
-We offer certain of our customers the option to acquire our software products, hardware products and services offerings through separate long-term payment contracts.
-We generally sell these contracts that we have financed for our customers on a non-recourse basis to financial institutions within 90 days of the contracts’ dates of execution.
-Restricted cash that was included within cash and cash equivalents as presented within our condensed consolidated balance sheets as of November 30, 2019 and May 31, 2019 and our condensed consolidated statements of cash flows for the six months ended November 30, 2019 and 2018 was nominal.
-During the first half of fiscal 2020 and full year of fiscal 2019, we acquired certain companies and purchased certain technology and development assets primarily to expand our products and services offerings.
-Based on the trading prices of the $51.6 billion and $56.1 billion of senior notes and the related fair value hedges that we had outstanding as of November 30, 2019 and May 31, 2019, respectively, the estimated fair values of the senior notes and the related fair value hedges using Level 2 inputs at November 30, 2019 and May 31, 2019 were $56.6 billion and $58.4 billion, respectively.
-
-
-item2.txt
-Our products and services include applications and infrastructure offerings that are delivered worldwide through a variety of flexible and interoperable IT deployment models.
+Revenues recognized from performance obligations satisfied in prior periods and impairment losses recognized on our receivables were immaterial in each of the three and six months ended November 30, 2019 and 2018, respectively.Our products and services include applications and infrastructure offerings that are delivered worldwide through a variety of flexible and interoperable IT deployment models.
 Our cloud and license line of business, which represented 83% of our total revenues on a trailing 4-quarter basis, markets, sells and delivers a broad spectrum of applications and infrastructure technologies through our cloud and license offerings.
 The majority of our Oracle Cloud Services arrangements are generally billed in advance of the cloud services being performed; have durations of one to three years; are generally renewed at the customer’s option; and are generally recognized as revenues ratably over the contractual period of the cloud contract or, in the case of usage model contracts, as the cloud services are consumed over time.
 Cloud license and on-premise license revenues include revenues from the licensing of our software products including Oracle Applications, Oracle Database, Oracle Middleware and Java, among others, which our customers deploy within cloud‑based, on‑premise and other IT environments.
 The timing of a few large license transactions can substantially affect our quarterly license revenues due to the point in time nature of revenue recognition for license transactions, which is different than the typical revenue recognition pattern for our cloud services and license support revenues in which revenues are generally recognized ratably over the contractual terms.
 Cloud license and on-premise license customers have the option to purchase and renew license support contracts, as described above.
 In recent periods, customer demand for our applications and infrastructure technologies delivered through our Oracle Cloud Services has increased.
-To address customer demand and enable customer choice, we have introduced certain programs for customers to pivot their applications and infrastructure licenses and the related license support to the Oracle Cloud for new deployments and to migrate to and expand with the Oracle Cloud for their existing workloads.
-Our cloud and license business’ revenue growth is affected by many factors, including the strength of general economic and business conditions; governmental budgetary constraints; the strategy for and competitive position of our offerings; the continued renewal of our cloud services and license support customer contracts by the customer contract base; substantially all customers continuing to purchase license support contracts in connection with their license purchases; the pricing of license support contracts sold in connection with the sales of licenses; the pricing, amounts and volumes of licenses and cloud services sold; and foreign currency rate fluctuations.
-We believe these factors should contribute to future growth in our cloud and license business’ revenues, which should enable us to continue to make investments in research and development to develop and improve our cloud and license products and services.
-The historical upward trend of our cloud and license business’ revenues over the course of the four quarters within a particular fiscal year is primarily due to the addition of new cloud services and license support contracts to the customer contract base that we generally recognize as revenues ratably; the renewal of existing customers’ cloud services and license support contracts over the course of each fiscal year that we generally recognize as revenues ratably; and the historical upward trend of our cloud license and on-premise license revenues, which we generally recognize at a point in time upon delivery; over those four quarterly periods.
-Our hardware business, which represented 9% of our total revenues on a trailing 4-quarter basis, provides a broad selection of hardware products and hardware-related software products, including Oracle Engineered Systems, servers, storage, industry-specific hardware, operating systems, virtualization, management and other hardware related software, and related hardware support.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-Item 1A.
-
-
+To address customer demand and enable customer choice, we have introduced certain programs for customers to pivot their applications and infrastructure licenses and the related license support to the Oracle Cloud for new deployments and to migrate to and expand with the Oracle Cloud for their existing workloads.Item 1A.

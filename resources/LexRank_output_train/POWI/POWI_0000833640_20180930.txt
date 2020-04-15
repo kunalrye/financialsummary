@@ -1,8 +1,3 @@
-fls.txt
-Forward-looking statements are identified by the use of the words “would,” “could,” “will,” “may,” “expect,” “believe,” “should,” “anticipate,” “if,” “future,” “intend,” “plan,” “estimate,” “potential,” “target,” “seek,” or “continue” and similar words and phrases, including the negatives of these terms, or other variations of these terms, that denote future events.
-
-
-item1.txt
 The condensed consolidated financial statements should be read in conjunction with the Power Integrations, Inc. consolidated financial statements and the notes thereto for the year ended December 31, 2017, included in its Form 10-K filed on February 14, 2018, with the Securities and Exchange Commission.
 No material changes have been made to the Company's significant accounting policies disclosed in Note 2, Significant Accounting Policies and Recent Accounting Pronouncements, in its Annual Report on Form 10-K, filed on February 14, 2018, for the year ended December 31, 2017.
 The Company did not transfer any investments between Level 1 and Level 2 of the fair-value hierarchy in the nine months ended September 30, 2018, and the twelve months ended December 31, 2017.
@@ -13,37 +8,9 @@ Under the performance-based awards program, the Company grants awards in the per
 The number of shares that are released at the end of the performance year can range from zero to 200% of the target number depending on the Company’s performance.
 The performance metrics of this program are annual targets consisting of a combination of net revenue, non-GAAP operating income and strategic goals.
 As the net revenue, non-GAAP operating income and strategic goals are considered performance conditions, expense associated with these awards, net of estimated forfeitures, is recognized over the service period based on an assessment of the achievement of the performance targets.
-PRSUs are granted in an amount equal to twice the target number of shares to be issued if the maximum performance metrics are met.
-The actual number of shares the recipient receives is determined at the end of a three-year performance period based on results achieved versus the Company's performance goals, and may range from zero to 200% of the target number.
-The Company is organized and operates as one reportable segment, the design, development, manufacture and marketing of integrated circuits and related components for use primarily in the high-voltage power-conversion market.
-A significant portion of these revenues are attributable to sales of the Company’s products to distributors of electronic components.
-In each of the three and nine months ended September 30, 2018 and 2017, one customer, a distributor of the Company's products, accounted for more than 10% of the Company’s net revenues.
-No other customer accounted for 10% or more of the Company’s net revenues in the periods presented.
-The Company does not have any off-balance-sheet credit exposure related to its customers.
-
-
-item2.txt
-A large percentage of our products are ICs used in AC-DC power supplies, which convert the high-voltage AC from a wall outlet to the low-voltage DC required by most electronic devices.
+PRSUs are granted in an amount equal to twice the target number of shares to be issued if the maximum performance metrics are met.A large percentage of our products are ICs used in AC-DC power supplies, which convert the high-voltage AC from a wall outlet to the low-voltage DC required by most electronic devices.
 Power supplies incorporating our products are used with all manner of electronic products including mobile phones, computing and networking equipment, appliances, electronic utility meters, power tools, industrial controls, and lighting applications that utilize light-emitting diodes (LEDs), and “smart-home,” or “internet of things” applications such as networked thermostats, power strips and other building-automation and security devices.
 Our products also improve the energy efficiency of power converters, helping our customers meet the increasingly stringent efficiency standards that have been adopted around the world for many electronic products, and improving the efficiency of renewable-energy systems, electric vehicles and other high-power applications.
 Our market-penetration strategy also includes capitalizing on the importance of energy efficiency in the power conversion market.
 Prior to 2010 our addressable market consisted of AC-DC applications with up to about 50 watts of output, a served available market (“SAM”) opportunity of approximately $1.5 billion.
-the introduction of products that enable us to address higher-power AC-DC applications (such as our Hiper™ product families, which address applications up to about 500 watts) and our entry into the gate-driver market through the acquisition of CT-Concept Technologie AG in 2012.
-Also contributing to our SAM expansion has been the emergence of new applications within the power ranges that our products can address.
-Our net revenues were $110.1 million and $111.3 million in the three months ended September 30, 2018 and 2017, respectively, and $322.6 million and $323.5 million in the nine months ended September 30, 2018 and 2017, respectively.
-Our top ten customers, including distributors that resell to OEMs and merchant power supply manufacturers, accounted for approximately 56% and 57% of our net revenues in the three and nine months ended September 30, 2018, respectively, and approximately 56% and 55% of net revenues in each of the respective corresponding periods of 2017.
-
-
-item3.txt
-Interest Rate Risk.
-Our exposure to market risk for changes in interest rates relates primarily to our investment portfolio.
-
-
-item4.txt
-Any control system, no matter how well designed and operated, can provide only reasonable assurance as to the tested objectives.
-
-
-part2.txt
-In January 2018, our board of directors authorized the use of an additional $30.0 million for the repurchase of our common stock, which was announced on February 1, 2018.
-
-
+the introduction of products that enable us to address higher-power AC-DC applications (such as our Hiper™ product families, which address applications up to about 500 watts) and our entry into the gate-driver market through the acquisition of CT-Concept Technologie AG in 2012.Interest Rate Risk.

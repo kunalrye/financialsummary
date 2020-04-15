@@ -1,14 +1,4 @@
-fls.txt
-These statements are made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995 and generally include words such as “believes,” “expects,” “intends,” “aims,” “estimates” and similar expressions.
-
-
-item1.txt
-The Company is a defendant in various lawsuits, claims, and actions, which arise in the normal course of business.
-We are subject to laws and regulations regarding privacy, data protection and information security, and our actual or perceived failure to comply with such legal obligations could adversely affect our business.
-
-
-item2.txt
-We are a leading global provider of mission-critical communication infrastructure, devices, accessories, software, and services.
+The Company is a defendant in various lawsuits, claims, and actions, which arise in the normal course of business.We are a leading global provider of mission-critical communication infrastructure, devices, accessories, software, and services.
 Net sales were $1.8 billion in the second quarter of 2018, a $263 million, or 18%, increase compared to the second quarter of 2017, reflecting solid demand across the globe for our products and services.
 The net sales increase for the second quarter of 2018 included $154 million from acquisitions, $26 million from favorable foreign currency rates and $24 million from the adoption of ASC 606.
 The Services and Software segment net sales increased in every region.
@@ -20,29 +10,5 @@ The net reorganization of business charges are discussed in further detail in th
 Net interest expense was $58 million in the second quarter of 2018 and $51 million in the second quarter of 2017.
 The net other income in the second quarter of 2018 was primarily comprised of $20 million of net periodic postretirement benefit and a $11 million foreign currency gain, partially offset by a $19 million loss on derivative instruments.
 Net Earnings Attributable to Motorola Solutions, Inc. After taxes, we had net earnings attributable to Motorola Solutions, Inc. of $180 million, or $1.05 per diluted share, in the second quarter of 2018, compared to net earnings attributable to Motorola Solutions, Inc. of $131 million, or $0.78 per diluted share, in the second quarter of 2017.
-Net sales were $3.2 billion in the first half of 2018, a $450 million, or 16%, increase compared to the first half of 2017.
-The net sales increase for the first half of 2018 included $201 million from acquisitions, $65 million from favorable foreign currency rates and $39 million from the adoption of ASC 606.The increase in net sales is reflective of growth in every region.
-The Services and Software segment increased in every region.
-The Services and Software segment net sales increase in EMEA was primarily driven by growth absent of acquisitions in Services.
-The increase in gross margin percentage was primarily driven by favorable mix, the adoption of ASC 606, and improved margins in Services.
-Net Earnings Attributable to Motorola Solutions, Inc. After taxes, we had net earnings attributable to Motorola Solutions, Inc. of $297 million, or $1.73 per diluted share, in the first half of 2018, compared to net earnings attributable to Motorola Solutions, Inc. of $208 million, or $1.23 per diluted share, in the first half of 2017.
-Systems and Systems Integration net sales increased in the Americas due to the acquisition of Avigilon and growth absent of acquisitions.
-Systems and Systems Integration net sales increased in EMEA and AP due to the acquisition of Avigilon.
-
-
-item3.txt
-As of June 30, 2018, we had outstanding foreign exchange contracts with notional amounts totaling $681 million, compared to $507 million outstanding as of December 31, 2017.
-Management believes that these financial instruments should not subject us to undue risk due to foreign exchange movements because gains and losses on these contracts should generally offset gains and losses on the underlying assets, liabilities and transactions.
-
-
-item4.txt
-The system also includes the replacement of our current indirect procurement and service contract systems.
-We have made appropriate changes to our internal controls over financial reporting as we have implemented the new system.
-
-
-part2.txt
-The Company is a defendant in various lawsuits, claims, and actions, which arise in the normal course of business.
+Net sales were $3.2 billion in the first half of 2018, a $450 million, or 16%, increase compared to the first half of 2017.As of June 30, 2018, we had outstanding foreign exchange contracts with notional amounts totaling $681 million, compared to $507 million outstanding as of December 31, 2017.The system also includes the replacement of our current indirect procurement and service contract systems.The Company is a defendant in various lawsuits, claims, and actions, which arise in the normal course of business.
 The European Union ("EU") adopted the General Data Protection Regulation (GDPR) which took effect on May 25, 2018 harmonizing data protection laws across the EU.
-The GDPR strengthens individual privacy rights and enhances data protection obligations for processors and controllers of personal data.
-
-

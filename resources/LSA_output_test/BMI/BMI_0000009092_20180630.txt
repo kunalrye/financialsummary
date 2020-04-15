@@ -1,4 +1,3 @@
-item1.txt
 After that date, no further benefits are being accrued in this plan.
 For the frozen pension plan, benefits are based primarily on years of service and, for certain plans, levels of compensation.
 The ultimate settlement obligation will depend upon the nature and timing of participant settlements at prevailing market conditions.
@@ -8,17 +7,7 @@ Employees are eligible to receive postretirement healthcare benefits upon meetin
 This plan requires employee contributions to offset benefit costs.
 The Company believes that no additional contributions will be required during 2018 as it will be terminated prior to the end of 2018.
 The Company also disclosed in its financial statements for the year ended December 31, 2017 that it estimated it would pay $0.4 million in other postretirement benefits in 2018 based on actuarial estimates.
-Note that the amount of benefits paid in calendar year 2018 will not impact the expense for postretirement benefits for 2018.
-The purchase price was approximately $23.2 million in cash, plus a small working capital adjustment.
-The purchase price included $5.0 million in payments that are anticipated to be made in 2018 which are recorded in payables and other current liabilities on the Consolidated Balance Sheets at June 30, 2018.
-There are currently no material legal proceedings pending with respect to the Company.
-Expenditures for compliance with environmental control provisions and regulations during 2017 and the first half of 2018 were not material.
-The Company attempts to mitigate these risks by working closely with key suppliers, purchasing minimal amounts from alternative suppliers and by purchasing business interruption insurance where appropriate.
-The decrease between years was due almost entirely to the lower Federal tax rate, which declined from 35% in 2017 to 21% in 2018 as a result of U.S. tax reform that was enacted in December 2017.
-
-
-item2.txt
-Meters equipped with radio technology (endpoints) receive flow measurement data from encoder registers attached to the water meter, which is encrypted and transmitted via radio frequency to a receiver that collects and formats the data appropriately for water utility billing systems.
+Note that the amount of benefits paid in calendar year 2018 will not impact the expense for postretirement benefits for 2018.Meters equipped with radio technology (endpoints) receive flow measurement data from encoder registers attached to the water meter, which is encrypted and transmitted via radio frequency to a receiver that collects and formats the data appropriately for water utility billing systems.
 These remotely read, or mobile, systems are either automatic meter reading (AMR) systems, where a vehicle equipped for meter reading purposes, including a radio receiver, computer and reading software, collects the data from utilities’ meters; or fixed network advanced metering infrastructure (AMI) systems, where data is gathered utilizing a network of permanent data collectors or gateway receivers that are always active or listening for the radio transmission from the utilities’ meters.
 AMI systems eliminate the need for utility personnel to drive through service territories to collect data from the meters.
 ORION Migratable makes the migration to fixed network easier for utilities that prefer to start with mobile reading and later adopt fixed network communications, allowing utilities to choose a solution for their current needs and be positioned for their future operational changes.
@@ -27,13 +16,3 @@ The BEACON AMA secure, cloud-hosted software suite includes a customizable dashb
 Benefits to the utility include improved customer service, increased visibility through faster leak detection, the ability to promote and quantify the effects of its water conservation efforts, and easier compliance reporting.
 Water meter replacement and the adoption and deployment of new technology comprise the majority of water meter product sales, including radio products.
 Over the last decade, there has been a growing trend in the conversion from manually read water meters to radio technology.
-This conversion rate is accelerating and contributes to an increased water meter and radio solutions base of business.
-The Company estimates that approximately 55% to 60% of water meters installed in the United States have been converted to a radio solutions technology.
-The Company’s strategy is to fulfill customers’ metering expectations and requirements with its proprietary meter reading systems or other systems available through its alliance partners in the marketplace.
-Flow instrumentation products serve flow measurement and control applications across a broad industrial spectrum, occasionally leveraging the same technologies used in the municipal water category.
-
-
-item4.txt
-
-
-

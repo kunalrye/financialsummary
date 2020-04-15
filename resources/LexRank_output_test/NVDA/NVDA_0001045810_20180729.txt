@@ -1,46 +1,16 @@
-item1.txt
+The accompanying unaudited condensed consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States of America, or U.S. GAAP, for interim financial information and with the instructions to Form 10-Q and Article 10 of Securities and Exchange Commission, or SEC, Regulation S-X.
+The January 28, 2018 consolidated balance sheet was derived from our audited consolidated financial statements included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018, as filed with the SEC, but does not include all disclosures required by U.S. GAAP.
+In the opinion of management, all adjustments, consisting only of normal recurring adjustments except as otherwise noted, considered necessary for a fair statement of results of operations and financial position have been included.
+The following information should be read in conjunction with the audited consolidated financial statements and notes thereto included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
 Except for the accounting policy for revenue recognition, which was updated as a result of adopting a new accounting standard related to revenue recognition, there have been no material changes to our significant accounting policies in Note 1 - Organization and Summary of Significant Accounting Policies, of the Notes to the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
-Revenue from product sales is recognized upon transfer of control of promised products to customers in an amount that reflects the consideration we expect to receive in exchange for those products.
 Revenue is recognized net of allowances for returns, customer programs and any taxes collected from customers.
 As a result, we recognize the revenue from the license and the revenue from the development services as a single performance obligation over the period in which the development services are performed.
-Our software licenses provide our customers with a right to use the software when it is made available to the customer.
-We are now required to recognize changes in the fair value of our equity investments through net income rather than other comprehensive income.
-The adoption of this guidance did not have a significant impact on our consolidated financial statements.
-We are evaluating the impact of adopting the new lease accounting standards on our consolidated financial statements, systems and processes in conjunction with our review of lease agreements.
-The impact of the new standard on our consolidated financial statements for the second quarter and first half of fiscal year 2019 was not significant.
-Revenue related to remaining performance obligations represents the amount of contracted license and development arrangements and PCS that has not been recognized.
-As of July 29, 2018, the amount of our remaining performance obligations that have not been recognized as revenue was $235 million, of which we expect to recognize approximately 50% as revenue over the next twelve months and the remainder thereafter.
-Of the total fair value of equity awards granted during the second quarter and first half of fiscal year 2019, we estimated that the stock-based compensation expense related to equity awards that are not expected to vest was $12 million and $31 million, respectively.
-Of the total fair value of equity awards granted during the second quarter and first half of fiscal year 2018, we estimated that the stock-based compensation expense related to equity awards that are not expected to vest was $10 million and $39 million, respectively.
-We recognized income tax expense of $79 million and $146 million for the second quarter and first half of fiscal year 2019, respectively, and $101 million and $130 million for the second quarter and first half of fiscal year 2018, respectively.
-The decrease in our effective tax rate for the second quarter and first half of fiscal year 2019 as compared to the same periods in the prior fiscal year was primarily due to a decrease in the U.S. statutory tax rate from 35% to 21% as a result of U.S. tax reform, partially offset by a decrease in the impact of tax benefits from stock-based compensation.
-
-
-item2.txt
+Revenue from software licenses is recognized up front when the software is made available to the customer.
+PCS revenue is recognized ratably over the service period, or as services are performed.
+Our condensed consolidated financial statements include the accounts of NVIDIA Corporation and our wholly-owned subsidiaries.While our GPU and CUDA architecture is unified, our GPU product brands are aimed at specialized markets including GeForce for gamers; Quadro for designers; Tesla and DGX for AI data scientists and big data researchers; and GRID for cloud-based visual computing users.
 Revenue for the second quarter of fiscal year 2019 increased 40% year over year and decreased 3% sequentially.
+GPU business revenue was $2.66 billion, up 40% from a year earlier and down 4% sequentially, led by gaming, professional visualization, and datacenter, offsetting a substantial decline in cryptocurrency GPUs.
+Gaming GPU growth was fueled by Pascal-based GPUs for desktops and by high-performance notebooks based on our Max-Q technology.
+Professional visualization revenue was $281 million, up 20% from a year earlier and up 12% sequentially.
 Datacenter revenue was $760 million, up 83% from a year ago and up 8% sequentially, led by strong sales of our Volta architecture products, including NVIDIA Tesla V100 and DGX systems.
-Income from operations for the second quarter of fiscal year 2019 was $1.16 billion, up 68% from a year earlier and down 11% sequentially.
-During the first half of fiscal year 2019, we returned $837 million to shareholders through a combination of $655 million in share repurchases and $182 million in cash dividends.
-Cash, cash equivalents and marketable securities were $7.94 billion as of July 29, 2018, compared with $7.30 billion at the end of the prior quarter.
-During the first quarter of fiscal year 2019, we announced NVIDIA RTX, a computer graphics technology that produces movie-quality images in real time.
-GPU business revenue increased by 40% for the second quarter of fiscal year 2019 compared to the second quarter of fiscal year 2018.
-This increase was due primarily to 50% growth in sales of GeForce GPU products for gaming, driven by Pascal-based GPUs for desktops and by high-performance notebooks based on our Max-Q technology.
-GPU business revenue increased by 57% for the first half of fiscal year 2019 compared to the first half of fiscal year 2018.
-Our PC OEM revenue increased by almost 50% due primarily to sales of GPU products targeted for use in cryptocurrency mining in the first quarter of fiscal year 2019.
-Tegra Processor business revenue increased by 40% for the second quarter of fiscal year 2019 compared to the second quarter of fiscal year 2018.
-The gross margin of our GPU business increased during the second quarter and first half of fiscal year 2019 compared to the second quarter and first half of fiscal year 2018, primarily due to strong sales of high-end GeForce gaming GPUs and revenue growth in Datacenter.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018 for a prior discussion of our legal proceedings.
-Beginning August 2004, our Board of Directors authorized us to repurchase our stock.
-
-
+Tegra Processor business revenue - which includes Automotive, SOC modules for the Nintendo Switch gaming console, and other embedded Tegra platforms - was $467 million, up 40% from a year ago and up 6% sequentially.Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018 for a prior discussion of our legal proceedings.
