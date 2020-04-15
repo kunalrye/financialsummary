@@ -8,9 +8,10 @@ from difflib import SequenceMatcher
 
 def set_contains(s, ele):
     for i in s:
+        if len(i) > 0 and len(ele) > 0 and (i == ele or ele in i or i in ele or SequenceMatcher(i,ele).ratio() > 0.9):
 
         # if i and ele and (i == ele or ele in i or i in ele or SequenceMatcher(i,ele).ratio() > 0.9):
-        if i == ele:
+        # if i == ele:
             print(i)
             print(ele)
             return True
