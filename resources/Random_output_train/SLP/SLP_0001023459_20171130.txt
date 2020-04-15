@@ -1,49 +1,17 @@
-fls.txt
-
-
-
-item1.txt
-We believe the combination of Simulations Plus and DILIsym provides substantial future potential based on the complementary strengths of each of the companies.
-The consolidated financial statements include the accounts of Simulations Plus, Inc. and, as of September 2, 2014, its wholly owned subsidiary, Cognigen Corporation, and as of June 1, 2017, the accounts of DILIsym Services, Inc. All significant intercompany accounts and transactions are eliminated in consolidation.
-We allocate the revenue derived from these arrangements among all the deliverables.
-The standard will eliminate the transaction- and industry-specific revenue recognition guidance under current generally accepted accounting principles in the U.S. (GAAP) and replace it with a principles-based approach for determining revenue recognition.
-On February 23, 2007, the Board of Directors adopted and the shareholders approved the 2007 Stock Option Plan under which a total of 1,000,000 shares of common stock had been reserved for issuance.
-Significant judgment is employed in determining the appropriateness of these assumptions as of the acquisition date and for each subsequent period.
-Amortization of capitalized software development costs is calculated on a product-by-product basis on the straight-line method over the estimated economic life of the products (not to exceed five years).
-Recently, the Company has begun to explore developing software applications for defense and for health care outside of the pharmaceutical industry.
-The Company is required to perform step one only if it concludes that it is more likely than not that a reporting unit's fair value is less than its carrying value.
-The initial five-year term expires in October 2018; the lease allows for a three-year option to extend to October 2021.
-Accounts receivable concentration shows that six customers comprised 18%, 8%, 8% (a dealer account in Japan representing various customers), 7%, 6%, and 5% of accounts receivable at November 30, 2017.
-Accumulated amortization as of November 30, 2017 and August 31, 2017 was $43,125 and $41,250, respectively.
-The following consolidated supplemental pro forma information assumes that the acquisition of DILIsym took place on September 1, 2016 for the income statement for the three-month period ended November 30, 2016.
-Our multiple-deliverable arrangements consist of consulting arrangements, at our DILIsym Subsidiary.
-
-
-item2.txt
-We currently have one license agreement, with BIOVIA (formerly known as Accelrys, Inc.), a San Diego division of Dassault Systemes in France, pursuant to which a small royalty is paid to BIOVIA from revenues on each license for the Metabolite module in ADMET Predictor.
-Without ADMET Risk, the chemist would have to individually examine many key properties for each new molecule (and its metabolites) to determine whether any of them became unacceptable as a result of changing the structure.
-Overall gross margin remained fairly constant increasing by 0.1% to 75.4% in 1QFY18 from 75.3.9% in 1QFY17.
-In addition to the two funded efforts with the FDA described above, we also have an unfunded RCA with the FDA’s Office of Generic Drugs (OGD) that began in 2014.
-In its data-mining role, MedChem Studio facilitates searching large chemical libraries to find molecules that contain identified substructures, and it enables rapid identification of clusters (classes) of molecules that share common substructures.
-Both the DILIsym and NAFLDsym software programs require outputs from physiologically based pharmacokinetics (PBPK) software as inputs.
-Overall gross margin remained fairly constant increasing by 0.1% to 75.4% in 1QFY18 from 75.3.9% in 1QFY17.
-As chemists attempt to modify structures to improve one property, they often cause others to become unacceptable.
+On September 2, 2014, Simulations Plus, Inc. acquired all of the outstanding equity interests of Cognigen Corporation (“Cognigen”, “Buffalo”) and Cognigen became a wholly owned subsidiary of Simulations Plus, Inc. Simulations Plus, Inc., acquired DILIsym Services, Inc. (DILIsym) as a wholly owned subsidiary pursuant to a stock purchase agreement dated May 1, 2017.
+This plan will terminate in December 2026.
+We maintain a 401(K) Plan for all eligible employees, and we make matching contributions equal to 100% of the employee’s elective deferral, not to exceed 4% of total employee compensation.
 On June 1, 2017, the Company consummated the acquisition of all outstanding equity interests of DILIsym pursuant to the terms of the Stock Agreement, with DILIsym becoming a wholly owned subsidiary of the Company.
-This version added new formulation types (controlled release bilayer tablet, delayed release coated tablet, and immediate release coated beads), expanded formulation specification options, biorelevant solubilities and surfactant effects on dissolution, tablet compression and disintegration models, links with GastroPlus, and updated licensing.
-This license agreement continues in perpetuity and either party has the right to terminate it.
-We have achieved continuous positive operating cash flow over the last ten fiscal years.
-The merger closed on September 2, 2014, and Cognigen became our wholly owned subsidiary.
-
-
-item3.txt
-Some of our cash and cash equivalents are held in money market accounts; however, they are not exposed to market rate risk.
-
-
-item4.txt
-
-
-
-part2.txt
-  Item 1A.
-
-
+The Earn-out liability has been recorded at fair value.
+Within three business days following the eighteen-month anniversary of the date of the Stock Agreement, May 1, 2017, and subject to any offsets, the Company will pay the former shareholders of DILIsym a total of $1,000,000.
+Changes in the value of the contingent consideration obligations are recorded in the Company’s Consolidated Statement of Operations.
+The following is a reconciliation of contingent consideration value.
+Historically, the Company has not experienced any losses in such accounts and believes it is not exposed to any significant credit risk on cash and cash equivalents.We support this group through coordination of online meetings each month and managing the user group web site for exchange of information among members.
+With it, a researcher can draw one or more molecular structures, then click on the ADMET Predictor icon and have approximately 150 properties for each structure calculated in seconds, including our proprietary ADMET Risk index.
+We believe this will enhance the attractiveness of both ADMET Predictor and MedChem Studio to medicinal and computational chemists.
+Drug development programs rely increasingly on modeling and simulation analyses to support decision-making and submissions to regulatory agencies.
+The forward-looking statements contained or incorporated by reference in this document are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (“Securities Act”) and Section 21E of the Securities Exchange Act of 1934, as amended (“Exchange Act”) and are subject to the safe harbor created by the Private Securities Litigation Reform Act of 1995.
+The Board of Directors must approve each quarterly dividend distribution and may decide to increase, decrease, or eliminate dividend distributions at any time.
+Using this proprietary data to build predictive models can provide a second return on their investment; however, model building has traditionally been a difficult and tedious activity performed by specialists.
+Pharmaceutical and biotechnology companies use our software programs and scientific knowledge to guide early drug discovery (molecule design and screening), preclinical, and clinical development programs.
+We believe our proprietary machine-learning software engine has a wide variety of potential applications and we intend to pursue funding to develop customized tools to further monetize our investment in this technology by expanding our markets beyond the life sciences and chemistry.

@@ -1,49 +1,16 @@
-fls.txt
-These factors include, but are not limited to, the risks described under the caption “Risk Factors” in our Annual Report on Form 10-K for the year ended December 31, 2018, and in Item 2 of Part I — “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and elsewhere in this Quarterly Report on Form 10-Q, including, but not limited to: our quarterly operating results are volatile and difficult to predict, and if we fail to meet the expectations of public market analysts or investors, the market price of our common stock may decrease significantly; if demand for our products declines in our major end markets, our net revenues will decrease; our products are sold through distributors, which limits our direct interaction with our end customers, therefore reducing our ability to forecast sales and increasing the complexity of our business; we depend on third-party suppliers to provide us with wafers for our products, and if they fail to provide us sufficient quantities of wafers, our business may suffer; intense competition may lead to a decrease in our average selling price and reduced sales volume of our products; if our products do not penetrate additional markets, our business will not grow as we expect; we do not have long-term contracts with any of our customers and if they fail to place, or if they cancel or reschedule orders for our products, our operating results and our business may suffer; if we are unable to adequately protect or enforce our intellectual property rights, we could lose market share, incur costly litigation expenses, suffer incremental price erosion or lose valuable assets, any of which could harm our operations and negatively impact our profitability.
-
-
-item1.txt
-The Company filed a petition seeking Supreme Court review of the Federal Circuit’s ruling on damages issues, and the Supreme Court called for a response from Fairchild but ultimately declined to review the case.
-On December 21, 2018, the Court granted the Company’s challenge to Opticurrent’s damages expert but denied the Company’s motion for summary judgment.
-After the Company filed a motion to dismiss, ON Semiconductor filed an amended complaint; the Company has answered ON Semiconductor’s complaint and asserted claims for infringement of several of the Company’s patents.
-In addition, the Company requires its employees to sign a proprietary information and inventions agreement, which assigns the rights to its employees' development work to the Company.
-Except for the adoption of the new accounting standards for leases mentioned below, no material changes have been made to the Company's significant accounting policies disclosed in Note 2, Significant Accounting Policies and Recent Accounting Pronouncements, in its Annual Report on Form 10-K, filed on February 13, 2019, for the year ended December 31, 2018.
-After briefing was completed, oral argument on the appeal took place in early July 2016, and on December 12, 2016, the Federal Circuit issued its opinion in the appeal, overturning the lone infringement verdict against the Company, finding one of the Company’s patents invalid, and overturning the District Court’s jury instruction on inducement.
+In its complaint, the Company alleged that Fairchild has and is infringing four of Power Integrations’ patents pertaining to pulse width modulation (PWM) integrated circuit devices.
+In January 2017, Fairchild filed a further challenge to the verdict, but the Court rejected Fairchild’s motion and entered a final judgment of $146.5 million after factoring in pre-judgment interest.
+Stock-based compensation expense in the three months ended March 31, 2018, was approximately $5.6 million, comprising approximately $4.3 million related to RSUs, $0.9 million related to PSUs and PRSUs and $0.4 million related to the Company’s employee stock purchase plan.
+The Company intends to vigorously defend itself against ON Semiconductor’s claims in any further proceedings in this matter.
+Expense associated with these awards, net of estimated forfeitures, is recorded throughout the year depending on the number of shares expected to vest based on progress toward the performance target.
+The Company's cash equivalents and short-term marketable securities are classified within Level 1 or Level 2 of the fair-value hierarchy because they are valued using quoted market prices, broker or dealer quotations, or alternative pricing sources with reasonable levels of price transparency.
+Direct sales to OEMs and power-supply manufacturers accounted for the remainder.
 The Company filed a petition for review by the Supreme Court seeking to overturn the Federal Circuit’s ruling, but the Supreme Court denied further reviews.
-Fairchild also filed a motion requesting that the Court amend its findings regarding willfulness.
-Following additional briefing regarding the Company’s proposal to move forward with some of the Company’s claims, the Court lifted the stay as to one of each side’s patents and set a trial for November 2020, with fact and expert discovery taking place in the interim.
-On November 19, 2007, the Federal Circuit affirmed the ITC’s findings in all respects, and SG did not file a petition for review.
-On October 20, 2004, the Company filed a complaint against Fairchild Semiconductor International, Inc. and Fairchild Semiconductor Corporation (referred to collectively as “Fairchild”) in the United States District Court for the District of Delaware.
-Following a hearing on the issue in June 2014, the Court denied Fairchild’s request for an injunction against the Company and granted the Company’s request for an injunction against Fairchild.
-In each of the three prior cases, Fairchild was found to infringe one of the patents at issue in the latest complaint, and Fairchild’s challenges to the validity of the patents were rejected during the course of the prior lawsuits as well.
-The Company elected the practical expedients under the transition guidance, which includes the use of hindsight in determining the lease term and the practical expedient package to not reassess whether any expired or existing contracts are or contain leases, to not reassess the classification of any expired or existing leases, and to not reassess initial direct costs for any existing leases.
-Although the jury awarded damages, at this stage of the proceedings the Company cannot state the amount, if any, it might ultimately recover from Fairchild, and no benefits have been recorded in the Company’s condensed consolidated financial statements as a result of the damages verdict.
-On June 22, 2009, the Court held a brief bench re-trial on the issue of willful infringement.
- Basic earnings per share are calculated by dividing net income by the weighted-average shares of common stock outstanding during the period.
-
-
-item2.txt
-Net revenues decreased compared with the same period in the prior year reflecting a broad-based decline in demand across all end markets.
-As of March 31, 2019, we did not have any off-balance sheet arrangements or relationships with unconsolidated entities or financial partnerships, such as entities often referred to as structured finance or special purpose entities, which are typically established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes.
-See also “Cautionary Note Regarding Forward-Looking Statements” at the beginning of this report.
-In the three months ended March 31, 2019 we repurchased approximately 121,000 shares of our common stock for approximately $7.3 million.
-Our effective tax rates for the three months ended March 31, 2019 and 2018 were 0.5% and 4.0%, respectively.
-For example, our InnoSwitch™ ICs integrate circuitry from the secondary, or low-voltage, side of AC-DC power supplies, whereas earlier product families integrated circuitry only on the primary, or high-voltage side.
-In the three months ended March 31, 2019 we repurchased approximately 121,000 shares of our common stock for approximately $7.3 million.
-Net income for this period was $7.2 million; we also incurred non-cash stock-based compensation expense, depreciation, amortization and deferred income taxes of $4.4 million, $4.6 million, $1.3 million and $1.2 million, respectively.
-In 2018 we introduced our BridgeSwitch™ motor-driver ICs, as described above.
-
-
-item3.txt
-We monitor our investments per our above-mentioned investment policy; therefore, if market interest rates were to increase or decrease by 10% from interest rates as of March 31, 2019, or December 31, 2018, the increase or decrease in the fair market value of our portfolio on these dates would not have been material.
-We maintain cash denominated in Swiss francs and euro to fund the operations of our Swiss subsidiary.
-
-
-item4.txt
-Management is required to evaluate our disclosure controls and procedures, as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934 (the “Exchange Act”).
-
-
-part2.txt
-
-
-
+The fluctuation in the exchange rate is shared equally between the Company and each of these suppliers on future purchases.
+On March 9, 2017, ON Semiconductor dismissed its Texas complaint and re-filed a substantially similar complaint in the District of Delaware.
+Remaining lease terms range from one to nine years, some of which include options to extend for up to six years, and some of which include options to terminate within one year.The decrease in gross margin was due primarily to increased wafer substrate costs.
+In each of the three months ended March 31, 2019 and 2018, one customer, a distributor of our products, accounted for more than 10% of our net revenues.
+For example, our EcoSmart™ technology drastically reduces the amount of energy consumed by electronic products when they are not in use, helping our customers comply with regulations that seek to curb this so-called “standby” energy consumption.
+Operating activities generated cash of $1.1 million in the three months ended March 31, 2019.
+These combinations of switches and drivers are used for power conversion in high-power applications (i.e., power levels ranging from a few kilowatts up to one gigawatt) such as industrial motors, solar- and wind-power systems, electric vehicles and high-voltage DC transmission systems.
+•Increase the size of our addressable market.Two of our major suppliers, Epson and Lapis, have wafer supply agreements based in U.S. dollars; however, our agreements with Epson and Lapis also allow for mutual sharing of the impact of the exchange rate fluctuation between Japanese yen and the U.S. dollar on future purchases.

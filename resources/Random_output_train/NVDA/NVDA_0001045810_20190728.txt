@@ -1,49 +1,16 @@
-fls.txt
-You should read this Quarterly Report on Form 10-Q completely and with the understanding that our actual future results may be materially different from what we expect.
-
-
-item1.txt
-Deferred revenue primarily includes deferrals related to PCS.
-Refer to Note 12 of these Notes to Condensed Consolidated Financial Statements for additional information.
-Maximum potential future payments cannot be estimated because many of these agreements do not have a maximum stated liability.
-All existing and future liabilities of our subsidiaries will be effectively senior to the Notes.
-In addition, we elected the package of practical expedients permitted under the transition guidance, which allowed us not to reassess (1) whether any expired or existing contracts are or contain leases, (2) lease classification for any expired or existing leases, and (3) initial direct costs for any existing leases.
-The difference of $30 million represents deferred rent for leases that existed as of the date of adoption, which was an offset to the opening balance of operating lease assets.
-As of July 28, 2019, we had not borrowed any amounts under this agreement.
-We have received regulatory approval in the United States and Mexico and are engaged with regulators in Europe and China.
-The closing of the merger is subject to approval by regulatory agencies.
-We have received regulatory approval in the United States and Mexico and are engaged with regulators in Europe and China.
-Operating lease assets also include initial direct costs incurred and prepaid lease payments, minus any lease incentives.
-As of July 28, 2019, we had outstanding inventory purchase obligations totaling $757 million.
-
-
-item2.txt
-Since the inception of our share repurchase program, we have repurchased an aggregate of 260 million shares under our share repurchase program for a total cost of $7.08 billion through July 28, 2019.
-If the Merger Agreement is terminated under certain circumstances involving the failure to obtain the required regulatory approvals, we could be obligated to pay Mellanox a termination fee of $350 million.
-The effective tax rate for the second quarter and first half of fiscal year 2020 was 8.8% and 4.9% respectively, and 6.7% and 5.9% for the second quarter and first half of fiscal year 2019, respectively.
+The estimated amount of product returns and warranty liabilities was $17 million and $18 million as of July 28, 2019 and January 27, 2019, respectively.
+A number of other alleged Mellanox stockholders have filed substantially similar lawsuits against Mellanox and its directors in the United States District Court for the Northern District of California and in the United States District Court for the Southern District of New York, but to date, NVIDIA has not been named as a defendant in any of these other lawsuits.
+As of July 28, 2019, we were authorized, subject to certain specifications, to repurchase additional shares of our common stock up to $7.24 billion through December 2022.
+As of July 28, 2019, all designated foreign currency forward contracts mature within eighteen months.
+Except for the accounting policy for leases, which was updated as a result of adopting a new accounting standard related to leases, there have been no material changes to our significant accounting policies in Note 1 - Organization and Summary of Significant Accounting Policies, of the Notes to the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019.
+Except for the accounting policy for leases, which was updated as a result of adopting a new accounting standard related to leases, there have been no material changes to our significant accounting policies in Note 1 - Organization and Summary of Significant Accounting Policies, of the Notes to the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019.
+One customer represented approximately 20% of our accounts receivable balance as of July 28, 2019, and one customer represented approximately 19% of our accounts receivable balance as of January 27, 2019.
+In June 2016, the FASB issued a new accounting standard to replace the incurred loss impairment methodology under current GAAP with a methodology that reflects expected credit losses and requires consideration of a broader range of reasonable and supportable information to inform credit loss estimates.The increase in Automotive revenue was partially offset by a decline in revenue from SOC modules for gaming platforms.
 GeForce GPU product sales for gaming decreased 29%, reflecting a decline in shipments of gaming desktop GPUs partially offset by revenue growth in gaming notebook GPUs.
-Beginning August 2004, our Board of Directors authorized us to repurchase our stock.
-The sequential increase reflects growth from SOC modules for gaming platforms, gaming notebook GPUs, and GeForce RTX SUPER gaming GPUs.
-We previously communicated our intent to return $3.00 billion to shareholders by the end of fiscal year 2020, including $700 million in share repurchases made during the fourth quarter of fiscal year 2019.
-Our PC OEM revenue decreased by 58% primarily driven by the absence of cryptocurrency mining processor sales.
-The effective tax rate for the second quarter and first half of fiscal year 2020 was 8.8% and 4.9% respectively, and 6.7% and 5.9% for the second quarter and first half of fiscal year 2019, respectively.
-GeForce GPU product sales for gaming decreased 29%, reflecting a decline in shipments of gaming desktop GPUs partially offset by revenue growth in gaming notebook GPUs.
-Cash provided by investing activities increased in the first half of fiscal year 2020 compared to the first half of fiscal year 2019, due to lower purchases of marketable securities and higher maturities and sales of marketable securities.
-Our PC OEM revenue decreased by 4%, primarily driven by the absence of cryptocurrency mining processor sales.
-We intend to return the remaining $2.11 billion through a combination of share repurchases and cash dividends.
+GPU business revenue decreased by 21% in the second quarter of fiscal year 2020 compared to the second quarter of fiscal year 2019, which reflects declines in gaming GPU and Data Center revenue.
+We had no share repurchases during the first half of fiscal year 2020.
+In our Data Center platform, we introduced the NVIDIA CUDA-X AI platform for accelerating data science; announced availability of NVIDIA T4 Tensor Core GPUs from leading OEMs and Amazon Web Services; partnered with global system builders to create powerful data-science workstations integrating NVIDIA Quadro RTX GPUs and NVIDIA CUDA-X AI; and launched beta access to NVIDIA Quadro Virtual Workstation software in the Alibaba Cloud Marketplace.
+Professional Visualization revenue was $291 million, up 4% from a year earlier and up 9% sequentially.
+The net proceeds from the Notes were $1.98 billion, after deducting debt discounts and issuance costs.
 We also withhold common stock shares associated with net share settlements to cover tax withholding obligations upon the vesting of restricted stock unit awards under our employee equity incentive program.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019 for a prior discussion of our legal proceedings.
-The program does not obligate NVIDIA to acquire any particular amount of common stock and the program may be suspended at any time at our discretion.
-
-
+We do not expect to repurchase shares prior to the close of the acquisition of Mellanox, and therefore the intended repurchases may extend into fiscal year 2021.We do not expect to repurchase shares prior to the close of the acquisition of Mellanox, and therefore the intended repurchases may extend into fiscal year 2021.

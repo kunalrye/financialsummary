@@ -1,49 +1,16 @@
-fls.txt
-
-
-
-item1.txt
-Simulations Plus, Inc.
-On June 1, 2017, the Company acquired DILIsym Services, Inc.
-According to policy, in addition to normal amortization, these assets are tested for impairment as needed.
 The agreement provided for a working capital adjustment, an eighteen-month $1,000,000 holdback provision against certain representations and warrantees, and an Earn-out agreement of up to an additional $5,000,000 in Earn-out payments based on earnings over the next three years.
-Recently, the Company has begun to explore developing software applications for defense and for health care outside of the pharmaceutical industry.
-There were no changes to goodwill, nor has the Company recognized any impairment charges, during the three-month and six-month periods ended February 28, 2019 and 2018.
+Financial instruments that potentially subject the Company to concentration of credit risk consist principally of cash, cash equivalents, and trade accounts receivable.
+The performance obligation is recognized on a time elapsed basis, by month, for which the services are provided, as the Company transfers control evenly over the contractual period.
 In May 2014, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) No.
-Goodwill is tested for impairment at the reporting unit level, which is one level below or the same as an operating segment.
-Certain numbers in the prior year have been reclassified to conform to the current year's presentation.
-The fair-value measurement of the contingent consideration obligations is determined using Level 3 inputs.
-Significant judgment is employed in determining the appropriateness of these assumptions as of the acquisition date and for each subsequent period.
-Should the customer need more than a di minimis amount of support they can choose to enter in to a separate contract for additional training.
-We generate revenue primarily from the sale of software licenses and providing consulting services to the pharmaceutical industry for drug development.
-The fair-value measurement of the contingent consideration obligations is determined using Level 3 inputs.
-
-
-item2.txt
-During the period direct contract costs decreased by approximately $71,000.
-MembranePlus simulates these experiments with their specific experimental details, and this enables scientists to better interpret how results from specific experimental protocols can be used to predict permeability in human and animals, which is the ultimate goal.
-KIWI has proven to be a valuable platform for encouraging interdisciplinary discussions about the model development process and interpretation of results.
-Some drugs cause temporary changes in liver function but the body soon compensates and liver function returns to normal.
-KIWI has proven to be a valuable platform for encouraging interdisciplinary discussions about the model development process and interpretation of results.
-The standalone PKPlus program provides the full level of functionality needed by pharmaceutical industry scientists to perform the analyses and generate the outputs needed to fully satisfy regulatory agency requirements for both more complex NCA as well as compartmental PK modeling.
-Major pharmaceutical companies conduct drug discovery and development efforts through their internal development staffs and through outsourcing.
-doses; however, the PKPlus Module in GastroPlus was not designed to meet all of the requirements for performing these analyses for Phase 2 and 3 clinical trials, nor to produce report-quality output for regulatory submissions.
-DDDPlus mechanistically simulates in vitro (laboratory) experiments that measure the rate of dissolution of a drug as well as, if desired, the additives (excipients) in a particular dosage form (e.g., powder, tablet, capsule, or injectable solids) under a variety of experimental conditions.
-Labor-related costs accounted for $544,000 of this increase.
-In addition, more than 100 peer-reviewed scientific journal articles, posters, and podium presentations are typically published each year using our software, mostly by our customers, further supporting its use in a wide range of preclinical and clinical studies.
-We currently have one license agreement, with Dassault Systèmes Americas Corp. (formerly known as Accelrys, Inc.), a San Diego division of Dassault Systemes in France, pursuant to which a small royalty is paid to Dassault Systèmes Americas Corp. from revenues on each license for the Metabolism Module in ADMET Predictor.
-Thus, millions of virtual compounds can be created and screened in a day, compared to potentially months or years of work to actually synthesize and test a much smaller number of actual compounds.
-
-
-item3.txt
-These transactions give rise to receivables that are denominated in currencies other than the entity’s functional currency.
-
-
-item4.txt
-
-
-
-part2.txt
-In accordance with Section 13 or 15 (d) of the Securities Exchange Act of 1934, the Registrant caused this report to be signed on its behalf by the undersigned, thereunto duly authorized, in the City of Lancaster, State of California, on April 9, 2019.
-
-
+The Company accounted for the acquisition of Cognigen and DILIsym Services, Inc., using the purchase method of accounting where the assets acquired and liabilities assumed are recognized based on their respective estimated fair values.
+The majority of our customers are in the pharmaceutical industry.
+The interim financial data are unaudited; however, in the opinion of Simulations Plus, Inc. ("we", "our", "us"), the interim data includes all adjustments, consisting only of normal recurring adjustments, necessary for a fair statement of the results for the interim periods.
+In September 1996, the Board of Directors adopted, and the shareholders approved, the 1996 Stock Option Plan (the "Option Plan") under which a total of 1,000,000 shares of common stock had been reserved for issuance.
+Goodwill is not amortized, instead it is tested for impairment annually or when events or circumstances change that would indicate that goodwill might be impaired.We continue enhancing KIWI as part of our five-year, almost-$5 million contract with the Bill and Melinda Gates Foundation.
+Our flagship product, originally introduced in 1998, and currently our largest single source of software revenue, is GastroPlus.
+In September 2018, we were pleased to announce that we were awarded another funded RCA by the FDA to integrate drug product quality attributes into the mechanistic TCAT model in GastroPlus.
+Our free version includes a small set of ADMET Predictor’s best-in-class property predictions, allowing the chemist to modify molecular structures and then see a few key properties very quickly.
+ADMET (Absorption, Distribution, Metabolism, Excretion, and Toxicity) Predictor is a chemistry-based computer program that takes molecular structures (i.e., drawings of molecules represented in various formats) as inputs and predicts approximately 150 different properties for them at an average rate of over 100,000 compounds per hour on a modern laptop computer.
+DILIsym deals with the propensity for some drug molecules to induce temporary or permanent changes in biological functions within liver cells (hepatocytes) that can result in damage to the liver.
+Where DILIsym is used to investigate the likelihood that a known drug molecule would cause injury to the liver, RENAsym will be focused on investigating and predicting drug-induced kidney injury, or acute kidney injury (AKI).
+At various scientific meetings around the world each year there are numerous presentations and posters presented in which the reported research was performed using our software.

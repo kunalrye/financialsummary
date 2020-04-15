@@ -1,49 +1,16 @@
-fls.txt
-We hereby qualify our forward-looking statements by these cautionary statements.
-
-
-item1.txt
-Maximum potential future payments cannot be estimated because many of these agreements do not have a maximum stated liability.
-We report our business in two primary reportable segments - the GPU business and the Tegra Processor business - based on a single underlying architecture.
-Deferred revenue primarily includes customer advances and deferrals related to license and development arrangements and post contract customer support, or PCS.
 In addition, a large portion of our current datacenter capacity is located in California, making our operations vulnerable to natural disasters or other business disruptions occurring in these geographical areas.
-As of October 27, 2019, we do not believe that our estimates, as otherwise provided for, on such tax positions will significantly increase or decrease within the next twelve months.
-resolved with the respective tax authorities.
-During the third quarter and first nine months of fiscal years 2020 and 2019, the impact of derivative financial instruments designated for hedge accounting treatment on other comprehensive income or loss was not significant and all such instruments were determined to be highly effective.
-obligations that has not been recognized as revenue was $395 million, of which we expect to recognize approximately 47% as revenue over the next twelve months and the remainder thereafter.
-In fiscal year 2017, we issued $1.00 billion of the 2.20% Notes Due 2021, and $1.00 billion of the 3.20% Notes Due 2026, or collectively, the Notes.
-As of October 27, 2019, we had not issued any commercial paper.
-One customer represented approximately 24% of our accounts receivable balance as of October 27, 2019, and one customer represented approximately 19% of our accounts receivable balance as of January 27, 2019.
-Although discussions with the European Union and China regulatory bodies are progressing and closing the acquisition is possible by the end of this calendar year, we believe the closing will likely occur in the early part of calendar 2020.
-All shares delivered from these repurchases have been placed into treasury stock.
-
-
-item2.txt
-Cash provided by operating activities increased in the first nine months of fiscal year 2020 compared to the first nine months of fiscal year 2019, due to changes in working capital driven by a reduction in days sales outstanding and a reduction in inventory.
-The year-on-year and sequential growth reflect strength in mobile workstation products.
-In fiscal year 2017, we issued $1.00 billion of the 2.20% Notes Due 2021 and $1.00 billion of the 3.20% Notes Due 2026, collectively, the Notes.
-This was driven by a decline in revenue from SOC modules for gaming platforms, which was partially offset by an increase of 12% in Automotive revenue.
-Our GPU product brands are aimed at specialized markets including GeForce for gamers; Quadro for designers; Tesla and DGX for AI data scientists and big data researchers; and GRID for cloud-based visual computing users.
-Revenue from Quadro GPUs for professional visualization increased 6%, primarily reflecting strength across mobile workstation products.
-Revenue from Quadro GPUs for professional visualization increased 6%, primarily reflecting strength across mobile workstation products.
-Tegra Processor business revenue increased by 10% for the third quarter of fiscal year 2020 compared to the third quarter of fiscal year 2019.
-The increase in interest income was primarily due to higher average invested balances.
-We intend to return the remaining $2.01 billion through a combination of share repurchases and cash dividends.
+Maximum potential future payments cannot be estimated because many of these agreements do not have a maximum stated liability.
+Therefore, there were no gains or losses associated with ineffectiveness.
+Our lease obligations consist of operating leases for our headquarters complex, domestic and international office facilities, and data center space, with lease periods expiring between fiscal years 2020 and 2035.
+The fair values of our financial assets and liabilities are determined using quoted market prices of identical assets or quoted market prices of similar assets from active markets.
+Refer to Note 3 of these Notes to Condensed Consolidated Financial Statements for additional information.
+Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019 for a prior discussion of our legal proceedings.
+Our Tegra brand integrates an entire computer onto a single chip, and incorporates GPUs and multi-core CPUs to drive supercomputing for autonomous robots, drones, and cars, as well as for game consoles and mobile gaming and entertainment devices.The year-on-year and sequential growth reflect strength in mobile workstation products.
+Tegra Processor business revenue - which includes Automotive, SOC modules for gaming platforms, and embedded edge AI platforms - was $449 million, up 10% from a year ago and down 5% sequentially.
 The gross margin of our GPU business increased during the third quarter of fiscal year 2020 compared to the third quarter of fiscal year 2019, reflecting the sale of previously written off components.
-In our Professional Visualization platform, we announced that a number of creative and design applications are now accelerated by RTX ray tracing.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-Any of these business disruptions could require substantial expenditures and recovery time in order to fully resume operations.
-Refer to Part I, Item 1, Note 13 of the Notes to Condensed Consolidated Financial Statements for a discussion of significant developments in our legal proceedings since January 27, 2019.
-Refer to the description of the risk factors associated with our business previously disclosed in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 27, 2019.
-
-
+The gross margin of our GPU business increased during the third quarter of fiscal year 2020 compared to the third quarter of fiscal year 2019, reflecting the sale of previously written off components.
+For the first nine months of fiscal year 2020 compared to the first nine months of fiscal year 2019, gross margin decreased primarily reflecting product transitions and product mix offset by the sale of previously written off components.
+Refer to Note 7 of the Notes to Condensed Consolidated Financial Statements for additional information.
+Cash used in financing activities decreased in the first nine months of fiscal year 2020 compared to the first nine months of fiscal year 2019, due to lower share repurchases and lower tax payments related to employee stock plans.
+During the first quarter of fiscal year 2020, in our Automotive platform, we announced that we are partnering with Toyota Research Institute-Advanced Development to develop, train and validate self-driving vehicles; unveiled the NVIDIA DRIVE AP2X automated driving solution, encompassing DRIVE AutoPilot software, DRIVE AGX and DRIVE validation tools; introduced NVIDIA DRIVE AV Safety Force Field to enable safe, comfortable driving experiences; and announced availability of the NVIDIA DRIVE Constellation autonomous vehicle simulation platform.The program does not obligate NVIDIA to acquire any particular amount of common stock and the program may be suspended at any time at our discretion.
+As of October 27, 2019, we were authorized to repurchase additional shares of our common stock up to $7.24 billion through December 2022.
