@@ -65,12 +65,14 @@ class TopicCoverageValidation:
         if not doc_sents:
             return []
         for line in doc_sents:
+            doc_topics = np.zeros(15)
             new_doc = prepare_text_for_lda(line)
             if not new_doc:
                 continue
             new_doc_bow = self.dictionary.doc2bow(new_doc)
-            topics_fracs = [two for one, two in self.ldamodel.get_document_topics(new_doc_bow)]
-            sent_topics.append(topics_fracs)
+            for one, two in self.ldamodel.get_document_topics(new_doc_bow):
+                doc_topics[one] = two
+            sent_topics.append(doc_topics)
         return sent_topics
 
     def compute_topic_scores(self, doc_sents):
