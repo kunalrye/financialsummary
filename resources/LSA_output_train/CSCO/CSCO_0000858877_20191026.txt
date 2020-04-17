@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 Certain information and footnote disclosures normally included in financial statements prepared in accordance with generally accepted accounting principles in the United States (“GAAP”) have been condensed or omitted pursuant to such rules and regulations.
 The July 27, 2019 Consolidated Balance Sheet was derived from audited financial statements, but does not include all disclosures required by accounting principles generally accepted in the United States.
 Leases In February 2016, the Financial Accounting Standards Board (FASB) issued Accounting Standards Codification (ASC) 842, Leases, a new standard requiring lessees to recognize operating and finance lease liabilities on the balance sheet, as well as corresponding right-of-use (ROU) assets.
@@ -12,39 +7,10 @@ We adopted ASC 842 on July 28, 2019 which resulted in the recognition of $1.2 bi
 We use incremental borrowing rates based on information available at the commencement date to determine the present value of our lease payments.
 We provide leasing arrangements for our equipment to certain qualified customers.
 We allocate the consideration in a bundled contract with our customers based on relative standalone selling prices of our lease and non-lease components.
-Credit Losses of Financial Instruments  In June 2016, the FASB issued an accounting standard update that requires measurement and recognition of expected credit losses for financial assets held based on historical experience, current conditions, and reasonable and supportable forecasts that affect the collectibility of the reported amount.
-The accounting standard update will be effective for us beginning in the first quarter of fiscal 2021 on a modified retrospective basis.
-We are currently evaluating the impact of this accounting standard update on our Consolidated Financial Statements.
-We enter into contracts with customers that can include various combinations of products and services which are generally distinct and accounted for as separate performance obligations.
-As a result, our contracts may contain multiple performance obligations.
-We classify our hardware, perpetual software licenses, and software-as-a-service (SaaS) as distinct performance obligations.
-
-
-item2.txt
-Cisco designs and sells a broad range of technologies that have been powering the Internet since 1984.
+Credit Losses of Financial Instruments  In June 2016, the FASB issued an accounting standard update that requires measurement and recognition of expected credit losses for financial assets held based on historical experience, current conditions, and reasonable and supportable forecasts that affect the collectibility of the reported amount.Cisco designs and sells a broad range of technologies that have been powering the Internet since 1984.
 Across networking, security, collaboration, applications and the cloud, we are integrating intent-based technologies to help our customers manage more users, devices and things connecting to their networks.
 This will enable us to provide customers with a highly secure, intelligent platform for their digital business.
-Diluted earnings per share decreased by 12%, driven by a 18% decrease in net income and a decrease in diluted share count of 341 million shares.
-In terms of our geographic segments, revenue from the Americas increased $226 million and EMEA revenue increased by $59 million.
-Revenue in our APJC segment decreased by $197 million.
-The “BRICM” countries experienced a product revenue decline of 30% in the aggregate, driven by decreased product revenue in the emerging countries of Mexico, India, China, Russia and Brazil of 41%, 37%, 33%, 8% and 7%, respectively.
-
-
-item3.txt
-Our primary objective for holding available-for-sale debt investments is to achieve an appropriate investment return consistent with preserving principal and managing risk.
-
-
-item4.txt
-
-
-
-part2.txt
-Risk Factors” of our Annual Report on Form 10-K for the fiscal year ended July 27, 2019.
+Diluted earnings per share decreased by 12%, driven by a 18% decrease in net income and a decrease in diluted share count of 341 million shares.Risk Factors” of our Annual Report on Form 10-K for the fiscal year ended July 27, 2019.
 The global macroeconomic environment has been challenging and inconsistent.
 Our revenue may grow at a slower rate than in past periods or decline as it did in certain prior periods on a year-over-year basis.
 The timing of such orders is difficult to predict, and the timing of revenue recognition from such orders may affect period to period changes in revenue.
-Such multiple ordering (along with other factors) or risk of order cancellation may cause difficulty in predicting our revenue and, as a result, could impair our ability to manage parts inventory effectively.
-Changes in service gross margin may result from various factors such as changes in the mix between technical support services and advanced services, as well as the timing of technical support service contract initiations and renewals and the addition of personnel and other resources to support higher levels of service business in future periods.
-Orders from this industry could decline for many reasons other than the competitiveness of our products and services within their respective markets.
-
-

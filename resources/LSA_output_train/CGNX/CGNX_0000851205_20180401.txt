@@ -1,8 +1,3 @@
-fls.txt
-Such risks and uncertainties include: (1) the loss of a large customer; (2) current and future conditions in the global economy; (3) the reliance on revenue from the consumer electronics or automotive industries; (4) the inability to penetrate new markets; (5) the inability to achieve significant international revenue; (6) fluctuations in foreign currency exchange rates and the use of derivative instruments; (7) information security breaches or business system disruptions; (8) the inability to attract and retain skilled employees; (9) the failure to effectively manage our growth; (10) the reliance upon key suppliers to manufacture and deliver critical components for our products; (11) the failure to effectively manage product transitions or accurately forecast customer demand; (12) the inability to design and manufacture high-quality products; (13) the technological obsolescence of current products and the inability to develop new products; (14) the failure to properly manage the distribution of products and services; (15) the inability to protect our proprietary technology and intellectual property; (16) our involvement in time-consuming and costly litigation; (17) the impact of competitive pressures; (18) the challenges in integrating and achieving expected results from acquired businesses; (19) potential impairment charges with respect to our investments or for acquired intangible assets or goodwill; and (20) exposure to additional tax liabilities.
-
-
-item1.txt
 As permitted by the rules of the Securities and Exchange Commission applicable to Quarterly Reports on Form 10-Q, these notes are condensed and do not contain all disclosures required by generally accepted accounting principles (GAAP).
 As a result of the adoption of ASC 606 "Revenue from Contracts with Customers," Cognex Corporation (the "Company") has provided new disclosures related to revenue recognition in this Quarterly Report on Form 10-Q.
 The Company identifies contracts with customers as agreements that create enforceable rights and obligations, which typically take the form of customer contracts or purchase orders.
@@ -15,32 +10,8 @@ In certain instances, an arrangement may include customer-specified acceptance p
 Credit assessments are performed to determine payment terms, which vary by region, industry, and customer.
 Prepayment terms result in contract liabilities for customer deposits.
 Management exercises judgment when determining the amount of revenue to be recognized each period.
-Such judgments include, but are not limited to, assessing the customer’s ability and intention to pay substantially all of the contract consideration when due, determining when two or more contracts should be combined and accounted for as a single contract, determining whether a contract modification has occurred, assessing whether promises are immaterial in the context of the contract, determining whether material promises in a contract represent distinct performance obligations, estimating the transaction price for a contract that contains variable consideration, determining the stand-alone selling price of each performance obligation, determining whether control is transferred over time or at a point in time for performance obligations, and assessing whether formal customer acceptance provisions are substantive.
-This ASU applies to any entity that enters into a lease, although lessees will see the most significant changes.
-The main difference between current U.S. GAAP and Topic 842 is the recognition of lease assets and lease liabilities on the balance sheet for those leases classified as operating leases under current U.S. GAAP.
-ASU 2016-13 applies to all reporting entities holding financial assets that are not accounted for at fair value through net income (debt securities).
-The amendments in this Update eliminate the probable initial recognition threshold to recognize a credit loss under current U.S. GAAP and, instead, reflect an entity’s current estimate of all expected credit losses.
-The amendments in this Update require that credit losses on available-for-sale debt securities be presented as an allowance rather than as a write-down and an entity will be able to record reversals of credit losses in current period net income.
-The amendments do not require an accounting change for securities held at a discount; the discount continues to be amortized to maturity.
-Under current GAAP, premiums and discounts on callable debt securities generally are amortized to the maturity date.
-
-
-item2.txt
-The Company cautions readers not to place undue reliance upon any such forward-looking statements, which speak only as of the date made.
+Such judgments include, but are not limited to, assessing the customer’s ability and intention to pay substantially all of the contract consideration when due, determining when two or more contracts should be combined and accounted for as a single contract, determining whether a contract modification has occurred, assessing whether promises are immaterial in the context of the contract, determining whether material promises in a contract represent distinct performance obligations, estimating the transaction price for a contract that contains variable consideration, determining the stand-alone selling price of each performance obligation, determining whether control is transferred over time or at a point in time for performance obligations, and assessing whether formal customer acceptance provisions are substantive.The Company cautions readers not to place undue reliance upon any such forward-looking statements, which speak only as of the date made.
 Cognex Corporation is a leading worldwide provider of machine vision products that capture and analyze visual information in order to automate tasks, primarily in manufacturing processes, where vision is required.
 In addition to product revenue derived from the sale of machine vision products, the Company also generates revenue by providing maintenance and support, consulting, and training services to its customers; however, service revenue accounted for less than 10% of total revenue for all periods presented.
 Factory automation customers purchase Cognex products and incorporate them into their manufacturing processes.
 Factory automation customers also purchase Cognex products for use outside of the manufacturing process, such as using ID products in logistics automation for package sorting and distribution.
-Accordingly, prior period revenue, cost of revenue, and gross profit have been restated to apply the provisions of this ASC.
-Constant-currency information compares results between periods as if exchange rates had remained constant period-over-period.
-We generally refer to such amounts calculated on a constant-currency basis as excluding the impact of foreign currency exchange rate changes.
-
-
-item4.txt
-As required by Rules 13a-15 and 15d-15 of the Securities Exchange Act of 1934, the Company has evaluated, with the participation of management, including the Chief Executive Officer and the Chief Financial Officer, the effectiveness of its disclosure controls and procedures (as defined in such rules) as of the end of the period covered by this report.
-
-
-part2.txt
-Various claims and legal proceedings generally incidental to the normal course of business are pending or threatened on behalf of or against the Company.
-
-

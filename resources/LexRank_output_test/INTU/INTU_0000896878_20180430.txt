@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 These condensed consolidated financial statements include the financial statements of Intuit and its wholly owned subsidiaries.
 Results for the nine months ended April 30, 2018 do not necessarily indicate the results we expect for the fiscal year ending July 31, 2018 or any other future period.
 Our Consumer offerings have significant seasonal patterns and revenue from those income tax preparation products and services is heavily concentrated in our third fiscal quarter ending April 30.
@@ -12,38 +7,10 @@ In addition, we use assumptions to estimate the fair value of reporting units an
 We compute basic net income or loss per share using the weighted average number of common shares outstanding during the period.
 Dilutive potential common shares consist of the shares issuable upon the exercise of stock options and upon the vesting of restricted stock units (RSUs) under the treasury stock method.
 We include stock options with combined exercise prices and unrecognized compensation expense that are less than the average market price for our common stock, and RSUs with unrecognized compensation expense that is less than the average market price for our common stock, in the calculation of diluted net income per share.
-We exclude stock options with combined exercise prices and unrecognized compensation expense that are greater than the average market price for our common stock, and RSUs with unrecognized compensation expense that is greater than the average market price for our common stock, from the calculation of diluted net income per share because their effect is anti-dilutive.
-Under the treasury stock method, the amount that must be paid to exercise stock options and the amount of compensation expense for future service that we have not yet recognized for stock options and RSUs are assumed to be used to repurchase shares.
-No customer accounted for 10% or more of total net revenue in the three or nine months ended April 30, 2018 or April 30, 2017.
-Under the new standard, revenue is recognized when promised goods or services are transferred to customers in an amount that reflects the consideration that is expected to be received for those goods or services.
-The most significant impact of the standard relates to the timing and amount of revenue recognized for our QuickBooks Desktop solutions and our consumer and professional tax desktop solutions.
-Our QuickBooks Desktop packaged software products include a software license as well as enhancements and connected services.
-
-
-item2.txt
-The industry in which we operate is dynamic and highly competitive, and we expect it to remain so in the future.
+We exclude stock options with combined exercise prices and unrecognized compensation expense that are greater than the average market price for our common stock, and RSUs with unrecognized compensation expense that is greater than the average market price for our common stock, from the calculation of diluted net income per share because their effect is anti-dilutive.The industry in which we operate is dynamic and highly competitive, and we expect it to remain so in the future.
 In recent years the widespread availability of the Internet, the emergence of mobile devices, and the explosion of social media have accelerated the pace of change and revolutionized the way that people throughout the world manage important financial tasks.
-As a result, during each of the last three fiscal years the total consolidated revenue for our third quarter ended April 30 has represented nearly half of our annual total consolidated revenue for those years.
-To remain competitive and continue to grow, we are investing significant resources in our product development, marketing, and sales capabilities, and we expect to continue to do so in the future.
-Because we help customers manage their financial lives, we face risks associated with the hosting, collection, use, and retention of personal customer information and data.
-
-
-item3.txt
-Our investments consist of instruments that meet quality standards that are consistent with our investment policy.
-
-
-item4.txt
-
-
-
-part2.txt
-Our competitors may introduce superior products and services, reduce prices, have greater technical, marketing and other resources, have greater name recognition, have larger installed bases of customers, have well-established relationships with our current and potential customers, advertise aggressively or beat us to market with new products and services.
+As a result, during each of the last three fiscal years the total consolidated revenue for our third quarter ended April 30 has represented nearly half of our annual total consolidated revenue for those years.Our competitors may introduce superior products and services, reduce prices, have greater technical, marketing and other resources, have greater name recognition, have larger installed bases of customers, have well-established relationships with our current and potential customers, advertise aggressively or beat us to market with new products and services.
 In addition, we may face competition from existing companies, with large established consumer user-bases and broad-based platforms, who may change or expand the focus of their business strategies and marketing to target our customers, including small businesses and tax customers.
 We also face competition from companies with a variety of business models and monetization strategies, including increased competition from providers of free offerings, particularly in our tax, accounting, and payments businesses.
 In order to compete, we have also introduced free offerings in several categories, but we may not be able to attract customers as effectively as competitors with different business models.
 In addition, we may not be able to monetize our free offerings if other providers of free offerings provide features that we do not offer and customers who have formerly paid for Intuit’s products and services may elect to use our competitors’ free offerings instead.
-Our consumer tax business also faces significant competition from the public sector, where we face the risk of federal and state taxing authorities proposing revenue strategies that involve developing and providing government tax software or other government return preparation systems at public expense.
-If the Free File Program were to be terminated and the IRS were to enter the software development and return preparation space, the federal government would become a direct competitor of the U.S. tax services industry and of Intuit, which could potentially have material and adverse revenue implications.
-offerings, we must continue to innovate and develop new products and features to meet changing customer needs and attract and retain talented software developers.
-
-

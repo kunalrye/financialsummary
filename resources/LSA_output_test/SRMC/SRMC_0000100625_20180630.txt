@@ -1,23 +1,10 @@
-fls.txt
-Our actual results could differ materially from those anticipated in these forward-looking statements as a result of certain factors, including, without limitation, general economic conditions in both foreign and domestic markets, changes in the economy and the credit market, investment and research and development plans and success, market position and penetration, strategic plans and objectives, operating margins, government and regulatory approvals or certifications, cyclical factors affecting our industry, our ability to identify, attract, motivate and retain qualified personnel, lack of growth in our end-markets, our ability to develop and manufacture, seasonality in our products, availability of components and materials used in our products, and our ability to sell both new and existing products at a profitable yet competitive price and those issues described under the heading “Critical Accounting Policies,” below, and those risk factors identified in Item1A, Risk Factors, of our Annual Report on Form 10-K for our fiscal year ended December 31, 2017, which was filed with the SEC on April 2, 2018, as such section may be updated in our subsequent Forms 10-K, 10-Q and 8-K filed with, or furnished to, the SEC.
-
-
-item1.txt
 The FieldServer family of products works with the SMC Cloud portal; a cloud-based service that registers and manages FieldServer products, provides secure remote access to the local web-based applications that run on FieldServer products, and integrates with third-party applications over REST APIs.
 With more than 200,000 installed gateways supporting over 140 protocols such as BACnet, LonWorks, MODBUS, and XML in commercial and industrial facilities, FieldServer is the industry’s leading multi-protocol gateway brand and is delivered in a variety of form factors appropriate to the asset being interfaced.
 The intellectual property in FieldServer products is embodied in the proprietary embedded software that runs on a variety of customized hardware platforms with different connectivity options such as Serial, Ethernet, Wi-Fi, or cellular.
 In addition to bridging data protocols between various assets or devices within a facility, the embedded software includes value-added “fog” or “local application” software for monitoring, logging, alarming, and trending local field data.
 In May 2014, the Financial Accounting Standards Board (“FASB”) issued ASU 2014-09, “Revenue from Contracts with Customers” (Topic 606).
 The Company’s revenue arrangements consist of multiple performance obligations including hardware, software, and services.
-Additionally, international customers and customers who have developed a history of payment problems are generally required to prepay or pay through a letter-of-credit.
-Gas detection and environment control services consist of field service orders (technical support) and training, which are provided separately from product orders.
-Revenue recognition occurs only when the service activity is completed.
-Such services are provided to current and prior customers, and, as noted above, creditworthiness has generally already been assessed.
-In cases where the probability of receiving payment is low, a credit card number is collected for immediate processing.
-
-
-item2.txt
-Sales of gas detection products, including industrial accounts, military sales and environment controllers for telephone company applications, increased by approximately 23% in the second quarter of 2018 compared to the same period in 2017.
+Additionally, international customers and customers who have developed a history of payment problems are generally required to prepay or pay through a letter-of-credit.Sales of gas detection products, including industrial accounts, military sales and environment controllers for telephone company applications, increased by approximately 23% in the second quarter of 2018 compared to the same period in 2017.
 Box products provide a platform for delivery and operation of our software for building automation projects and are generally sold to integrators.
 OEM modules are sold to companies that integrate our products into their commercial offerings.
 Gross profit for the three-month period ended June 30, 2018 was approximately $3,210,000, or 58% of net sales, compared to approximately $2,787,000, or 58% of net sales, in the same period in 2017.
@@ -27,19 +14,3 @@ Selling and marketing expenses, which consist primarily of salaries, commissions
 Selling expenses have increased in the three and six-month periods ending June 30, 2018 primarily because we added a Regional Sales Manager for Asia and Canada as well as a Regional Sales Manager for Latin America.
 General and administrative expenses, which consist primarily of salaries, building rent, insurance expenses, information technology expenses and fees for professional services, were approximately $989,000, or 18% of net sales, for the three-month period ended June 30, 2018 compared to approximately $825,000, or 17% of net sales, in the three-month period ended June 30, 2017.
 There were no non-recurring costs for the three-month and six-month period of 2018.
-In the six-month period ended June 30, 2018, our income from operations was approximately $177,000 representing an increase of approximately $993,000 compared to our loss from operations of $816,000 in the six-month period ended June 30, 2017.
-After interest and tax provisions, our net income for the three-month period ended June 30, 2018 was approximately $46,000 compared to a net loss of approximately $425,000 in the same period of 2017.
-For the six-month period ended June 30, 2018, our net income was approximately $97,000 compared to a net loss of approximately $559,000 in the same period of 2017.
-As summarized below, the cash provided during the six months ended June 30, 2017 was due primarily to cash received by a potential strategic partner offset by changes in income.
-No borrowings have been made under our line of credit during the first six months of fiscal year 2018 and there were no outstanding balances at June 30, 2018 or December 31, 2017.
-In May 2014, the Financial Accounting Standards Board (“FASB”) issued ASU 2014-09, “Revenue from Contracts with Customers” (Topic 606).
-
-
-item4.txt
-Based upon that evaluation, Mr. Brown and Ms. Allen concluded that, as of June 30, 2018, our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) of the Exchange Act) were effective.
-
-
-part2.txt
-The Company’s risk factors have not changed materially since December 31, 2017.
-
-

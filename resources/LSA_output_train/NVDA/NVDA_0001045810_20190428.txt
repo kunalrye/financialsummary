@@ -1,8 +1,3 @@
-fls.txt
-We will be required to use a forward-looking expected credit loss model for accounts receivable and other financial instruments, including available-for-sale debt securities.
-
-
-item1.txt
 The accompanying unaudited condensed consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States of America, or U.S. GAAP, for interim financial information and with the instructions to Form 10-Q and Article 10 of Securities and Exchange Commission, or SEC, Regulation S-X.
 The January 27, 2019 consolidated balance sheet was derived from our audited consolidated financial statements included in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019, as filed with the SEC, but does not include all disclosures required by U.S. GAAP.
 Except for the accounting policy for leases, which was updated as a result of adopting a new accounting standard related to leases, there have been no material changes to our significant accounting policies in Note 1 - Organization and Summary of Significant Accounting Policies, of the Notes to the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019.
@@ -11,39 +6,11 @@ Operating leases with lease terms of more than 12 months are included in operati
 Operating lease assets and liabilities are recognized based on the present value of the remaining lease payments discounted using our incremental borrowing rate.
 Our lease terms include options to extend or terminate the lease when it is reasonably certain that we will exercise that option.
 All intercompany balances and transactions have been eliminated in consolidation.
-The Financial Accounting Standards Board, or FASB, issued an accounting standards update regarding the accounting for leases under which lease assets and liabilities are recognized on the balance sheet.
-In June 2016, the FASB issued a new accounting standard to replace the incurred loss impairment methodology under current GAAP with a methodology that reflects expected credit losses and requires consideration of a broader range of reasonable and supportable information to inform credit loss estimates.
-We will be required to use a forward-looking expected credit loss model for accounts receivable and other financial instruments, including available-for-sale debt securities.
-The standard will be effective for us beginning in the first quarter of fiscal year 2021, with early adoption permitted.
-We are currently evaluating the impact of this standard on our Consolidated Financial Statements.
-Note 2 - Merger Agreement with Mellanox Technologies, Ltd. On March 10, 2019, we entered into an Agreement and Plan of Merger, or the Merger Agreement, with Mellanox Technologies Ltd, or Mellanox, pursuant to which we will acquire all of the issued and outstanding common shares of Mellanox for $125 per share in cash, representing a total enterprise value of approximately $6.9 billion as of the date of the Merger Agreement.
-
-
-item2.txt
-Selected Financial Data” of our Annual Report on Form 10-K for the fiscal year ended January 27, 2019 and “Item 1A.
+The Financial Accounting Standards Board, or FASB, issued an accounting standards update regarding the accounting for leases under which lease assets and liabilities are recognized on the balance sheet.Selected Financial Data” of our Annual Report on Form 10-K for the fiscal year ended January 27, 2019 and “Item 1A.
 We have extended our focus in recent years to the revolutionary field of AI.
 GPU business revenue was $2.02 billion, down 27% from a year earlier and up 2% sequentially.
 Tegra Processor business revenue - which includes automotive, SOC modules for gaming platforms, and embedded edge AI platforms - was $198 million, down 55% from a year ago and down 12% sequentially.
 The year-on-year decrease primarily reflects a decline in shipments of SOC modules for gaming platforms.
 Professional Visualization revenue was $266 million, up 6% from a year earlier and down 9% sequentially.
 The year-on-year increase reflects strength across both desktop and mobile workstation products.
-Gross margin for the first quarter of fiscal year 2020 was 58.4%, down 610 basis points from a year earlier and up 370 basis points sequentially.
-Income from operations for the first quarter of fiscal year 2020 was $358 million, down 72% from a year earlier and up 22% sequentially.
-Net income and net income per diluted share for the first quarter of fiscal year 2020 were $394 million and $0.64, respectively, both down 68% from a year earlier.
-As previously communicated, we intend to return $3.00 billion to shareholders by the end of fiscal year 2020, including $700 million in share repurchases made during the fourth quarter of fiscal year 2019.
-We intend to return the remaining $2.20 billion by the end of fiscal year 2020, through a combination of share repurchases and cash dividends.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-Refer to Part I, Item 1, Note 13 of the Notes to Condensed Consolidated Financial Statements for a discussion of significant developments in our legal proceedings since January 27, 2019.
-Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019 for a prior discussion of our legal proceedings.
-
-
+Gross margin for the first quarter of fiscal year 2020 was 58.4%, down 610 basis points from a year earlier and up 370 basis points sequentially.Refer to Part I, Item 1, Note 13 of the Notes to Condensed Consolidated Financial Statements for a discussion of significant developments in our legal proceedings since January 27, 2019.

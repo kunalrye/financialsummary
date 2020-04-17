@@ -1,8 +1,3 @@
-fls.txt
-Forward-looking statements are identified by the use of the words “would,” “could,” “will,” “may,” “expect,” “believe,” “should,” “anticipate,” “if,” “future,” “intend,” “plan,” “estimate,” “potential,” “target,” “seek,” or “continue” and similar words and phrases, including the negatives of these terms, or other variations of these terms, that denote future events.
-
-
-item1.txt
 The condensed consolidated financial statements include the accounts of Power Integrations, Inc., a Delaware corporation (the “Company”), and its wholly owned subsidiaries.
 Significant intercompany accounts and transactions have been eliminated in consolidation.
 The results for interim periods are not necessarily indicative of the results for the entire year.
@@ -13,37 +8,9 @@ The Company elected the practical expedients under the transition guidance, whic
 The difference between the right-of-use assets and lease liabilities was due to prepaid rent.
 There was no impact on the condensed consolidated statement of income or the condensed consolidated statement of cash flows.
 The Company's cash equivalents and short-term marketable securities are classified within Level 1 or Level 2 of the fair-value hierarchy because they are valued using quoted market prices, broker or dealer quotations, or alternative pricing sources with reasonable levels of price transparency.
-Under the performance-based awards program, the Company grants awards in the performance year in an amount equal to twice the target number of shares to be issued if the maximum performance metrics are met.
-As the net revenue, non-GAAP operating income and strategic goals are considered performance conditions, expense associated with these awards, net of estimated forfeitures, is recognized over the service period based on an assessment of the achievement of the performance targets.
-The fair value of these PSUs is determined using the fair value of the Company’s common stock on the date of the grant, reduced by the discounted present value of dividends expected to be declared before the awards vest.
-The performance goals for PRSUs granted in fiscal 2017, 2018 and 2019 were based on the Company’s annual revenue growth over the respective three-year performance period.
-In January 2019, it was determined that approximately 70,000 shares of the PRSUs granted in 2016, vested in aggregate; the shares were released to the Company’s executives in the first quarter of 2019.
-The Company is organized and operates as one reportable segment, the design, development, manufacture and marketing of integrated circuits and related components for use primarily in the high-voltage power-conversion market.
-The Company’s chief operating decision maker, the Chief Executive Officer, reviews financial information presented on a consolidated basis for purposes of making operating decisions and assessing financial performance.
-
-
-item2.txt
-See also “Cautionary Note Regarding Forward-Looking Statements” at the beginning of this report.
+Under the performance-based awards program, the Company grants awards in the performance year in an amount equal to twice the target number of shares to be issued if the maximum performance metrics are met.See also “Cautionary Note Regarding Forward-Looking Statements” at the beginning of this report.
 We also supply high-voltage LED drivers, which are AC-DC ICs specifically designed for lighting applications that utilize light-emitting diodes.
 These combinations of switches and drivers are used for power conversion in high-power applications (i.e., power levels ranging from a few kilowatts up to one gigawatt) such as industrial motors, solar- and wind-power systems, electric vehicles and high-voltage DC transmission systems.
 These tools and services include our PI Expert™ design software, which we offer free of charge, and our transformer-sample service.
 Our market-penetration strategy also includes capitalizing on the importance of energy efficiency in the power conversion market.
-For example, our EcoSmart™ technology drastically reduces the amount of energy consumed by electronic products when they are not in use, helping our customers comply with regulations that seek to curb this so-called “standby” energy consumption.
-Also, our gate-driver products are critical components in energy-efficient DC motor drives, high-voltage DC transmission systems, renewable-energy installations and electric transportation applications.
-•Increase the size of our addressable market.
-Prior to 2010 our addressable market consisted of AC-DC applications with up to about 50 watts of output, a served available market (“SAM”) opportunity of approximately $1.5 billion.
-
-
-item3.txt
-Our exposure to market risk for changes in interest rates relates primarily to our investment portfolio.
-Investments in highly liquid financial instruments with maturities greater than three months at the date of purchase are classified as short-term investments.
-
-
-item4.txt
-Any control system, no matter how well designed and operated, can provide only reasonable assurance as to the tested objectives.
-
-
-part2.txt
-
-
-
+For example, our EcoSmart™ technology drastically reduces the amount of energy consumed by electronic products when they are not in use, helping our customers comply with regulations that seek to curb this so-called “standby” energy consumption.Our exposure to market risk for changes in interest rates relates primarily to our investment portfolio.

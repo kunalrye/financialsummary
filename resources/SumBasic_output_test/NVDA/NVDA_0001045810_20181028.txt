@@ -1,47 +1,16 @@
-item1.txt
+The accompanying unaudited condensed consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States of America, or U.S. GAAP, for interim financial information and with the instructions to Form 10-Q and Article 10 of Securities and Exchange Commission, or SEC, Regulation S-X.
+In the opinion of management, all adjustments, consisting only of normal recurring adjustments except as otherwise noted, considered necessary for a fair statement of results of operations and financial position have been included.
 For products sold with a right of return, we record a reduction to revenue by establishing a sales return allowance for estimated product returns at the time revenue is recognized, based primarily on historical return rates.
-If a loss on an arrangement becomes probable during a period, we record a provision for such loss in that period.
-Revenue from software licenses is recognized up front when the software is made available to the customer.
+Our customer programs involve rebates, which are designed to serve as sales incentives to resellers of our products in various target markets, and marketing development funds, or MDFs, which represent monies paid to our partners that are earmarked for market segment development and are designed to support our partners’ activities while also promoting NVIDIA products.
+We measure progress to completion based on actual cost incurred to date as a percentage of the estimated total cost required to complete each project.
+Customers may purchase either perpetual licenses or subscriptions to licenses, which differ mainly in the duration over which the customer benefits from the software.
+For such arrangements, we allocate revenue to the software license and PCS on a relative standalone selling price basis by maximizing the use of observable inputs to determine the standalone selling price for each performance obligation.
+PCS revenue is recognized ratably over the service period, or as services are performed.
 We operate on a 52- or 53-week year, ending on the last Sunday in January.
-Fiscal years 2019 and 2018 are both 52-week years.
-We adopted this guidance on January 29, 2018 using the modified retrospective approach.
-Refer to Note 2 of these Notes to Condensed Consolidated Financial Statements for additional information.
-In February 2016 and July 2018, the FASB issued accounting standards updates regarding the accounting for leases by which we will begin recognizing lease assets and liabilities on the balance sheet for lease terms of more than 12 months.
-Revenue related to remaining performance obligations represents the amount of contracted license and development arrangements and PCS that has not been recognized.
-The 1.00% Convertible Senior Notes Due 2018, or the Convertible Notes, were included in the calculation of diluted net income per share.
-We recognized an income tax benefit of $149 million and $3 million for the third quarter and first nine months of fiscal year 2019, respectively, and income tax expense of $58 million and $189 million for the third quarter and first nine months of fiscal year 2018, respectively.
-Our cash equivalents and marketable securities are classified as “available-for-sale” debt securities.
-We enter into foreign currency forward contracts to mitigate the impact of foreign currency exchange rate movements on our operating expenses.
-The fair value of the contracts was not significant as of October 28, 2018 and January 28, 2018.
-Therefore, there were no gains or losses associated with ineffectiveness.
-
-
-item2.txt
-Starting with a focus on PC graphics, NVIDIA invented the GPU to solve some of the most complex problems in computer science.
+All intercompany balances and transactions have been eliminated in consolidation.This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the “safe harbor” created by those sections.
+All references to “NVIDIA,” “we,” “us,” “our” or the “Company” mean NVIDIA Corporation and its subsidiaries, except where it is made clear that the term means only the parent company.
+Selected Financial Data” of our Annual Report on Form 10-K for the fiscal year ended January 28, 2018 and “Item 1A.
+We have extended our focus in recent years to the revolutionary field of AI.
 While our GPU and CUDA architecture is unified, our GPU product brands are aimed at specialized markets including GeForce for gamers; Quadro for designers; Tesla and DGX for AI data scientists and big data researchers; and GRID for cloud-based visual computing users.
-Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998.
-Tegra Processor business revenue - which includes automotive, SOC modules for the Nintendo Switch gaming console, and other embedded edge AI platforms - was $407 million, down 3% from a year ago and down 13% sequentially.
-Gaming GPU growth was fueled by Turing-based GPUs for desktops and by gaming notebooks based on our Max-Q technology.
-Professional visualization revenue was $305 million, up 28% from a year earlier and up 9% sequentially driven by strength across both desktop and mobile workstation products.
-Cash, cash equivalents and marketable securities were $7.59 billion as of October 28, 2018, compared with $7.94 billion at the end of the prior quarter.
-The decrease was primarily related to third quarter stock repurchases, dividends and taxes paid related to restricted stock units, partially offset by operating income and changes in working capital.
-We also announced a number of Max-Q GeForce gaming notebook designs offered by major OEMs, enabling high-end performance for thin and light notebooks; disclosed that next-generation NVIDIA G-SYNC HDR displays are being shipped, enabling stutter-free gaming; and announced NVIDIA’s role in VirtualLink, a consortium establishing an industry standard to enable next-gen VR headsets to connect with PCs using a single, high-bandwidth USB Type-C connector.
-In August 2018, we unveiled our first Turing-based GPUs -- NVIDIA Quadro RTX 8000, RTX 6000 and RTX 5000 -- which we believe will revolutionize the work of millions of designers and artists; and introduced the NVIDIA RTX Server, a ray-tracing global illumination rendering server for render farms.
-We also unveiled advances to our deep learning computing platform - including NVIDIA Tesla V100 GPUs with 32GB memory, NVIDIA NVSwitch GPU interconnect fabric, NVIDIA DGX-2, and TensorRT 4, the latest version of the TensorRT AI inference accelerator software.
-Our PC OEM revenue decreased by almost 40% driven by lower demand for GPU products targeted for use in cryptocurrency mining.
-Datacenter revenue, including Tesla, GRID and DGX, increased 70%, reflecting strong sales of our Volta architecture, including NVIDIA Tesla V100 and DGX systems.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-Refer to the description of the risk factors associated with our business previously disclosed in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
-As of November 5, 2018, we were authorized to repurchase additional shares of our common stock up to $7.94 billion through December 2022.
-
-
+Our Tegra brand integrates an entire computer onto a single chip, and incorporates GPUs and multi-core CPUs to drive supercomputing for autonomous robots, drones, and cars, as well as for consoles and mobile gaming and entertainment devices.
+Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998.Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018 for a prior discussion of our legal proceedings.

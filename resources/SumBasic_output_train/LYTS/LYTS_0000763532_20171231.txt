@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 The interim condensed consolidated financial statements are unaudited and are prepared in accordance with accounting principles generally accepted in the United States of America for interim financial information, and rules and regulations of the Securities and Exchange Commission.
 In the opinion of management, the interim financial statements include all normal adjustments and disclosures necessary to present fairly the Company’s financial position as of  December 31, 2017, the results of its operations for the three and six month periods ended  December 31, 2017 and 2016, and its cash flows for the six month periods ended  December 31, 2017 and 2016.
 All intercompany transactions and balances have been eliminated in consolidation.
@@ -12,16 +7,7 @@ The Company is not always responsible for installation of products it sells and 
 Service revenue from integrated design, project and construction management, and site permitting is recognized when all products at a customer site have been installed.
 Revenue from the management of media content and digital hardware related to active digital signage is recognized evenly over the service period with the customer.
 Revenue is recognized upon the Company’s complete performance at the location, which  may include a site survey, graphics products, lighting products, and installation of products.
-The selling price assigned to each site is based upon an agreed upon price between the Company and its customer and reflects the estimated selling price for that site relative to the selling price for sites with similar image requirements.
-Our solid-state LED video screens and active digital signage contain software elements which the Company has determined are incidental.
-Receivables deemed uncollectable are written-off against the allowance for doubtful accounts receivable after all reasonable collection efforts have been exhausted.
-These allowances are based upon historical trends.
-In the United States, the FDIC limit for insurance coverage on non-interest bearing accounts is $250,000.
-Inventories are stated at the lower of cost or market.
-
-
-item2.txt
-The Company acquired Atlas on February 21, 2017.
+The selling price assigned to each site is based upon an agreed upon price between the Company and its customer and reflects the estimated selling price for that site relative to the selling price for sites with similar image requirements.The Company acquired Atlas on February 21, 2017.
 The increase in adjusted operating income was the net result of increased net sales, increased gross profit and increased gross profit as a percentage of sales, and an increase in selling and administrative expenses.
 The Company believes it is appropriate to evaluate its performance after making adjustments to the as-reported U.S. GAAP operating income, net income, and earnings per share.
 We believe that these adjusted supplemental measures are useful in assessing the operating performance of our business.
@@ -30,17 +16,3 @@ Comparable fiscal 2018 net sales excluding net sales from Atlas decreased by $9.
 The more notable quarter-over-quarter changes impacting the $1.3 million increase in selling and administrative expenses are increased employee compensation and benefits expense ($0.8 million), decreased commission expense ($1.1 million), and increased amortization expense ($0.6 million).
 Sales to the Retail and QSR markets increased in the second quarter of fiscal 2018 compared the second quarter of fiscal 2017, followed by a modest increase in sales to the Petroleum market.
 Most of the increase in employee compensation and benefit expense is the result of the reduction of incentive-based compensation in the second quarter of fiscal 2017 which was driven by the operating results of the Company.
-The Company reported a net loss of $(1,468,000) in the second quarter of fiscal 2018 as compared to net income of $2,006,000 in the same period of the prior year.
-The weighted average common shares outstanding for purposes of computing diluted earnings per share in the second quarter of fiscal 2018 were 25,858,000 shares as compared to 25,803,000 shares in the same period last year.
-Light fixtures having solid-state LED technology represent 88.3% of total lighting product net sales in the first half of fiscal 2018 compared to 75.2% of total lighting product net sales in the first half of fiscal 2017.
-The Company recorded a $28 million goodwill impairment charge in fiscal 2018 with no comparable expense in fiscal 2017.
-
-
-item4.txt
-
-
-
-part2.txt
-31.1    Certification of Principal Executive Officer required by Rule 13a-14(a) 32.2    Section 1350 Certification of Principal Financial Officer 101.INS XBRL Instance Document 101.SCH XBRL Taxonomy Extension Schema Document 101.CAL XBRL Taxonomy Extension Calculation Linkbase Document 101.LAB XBRL Taxonomy Extension Label Linkbase Document 101.PRE XBRL Taxonomy Extension Presentation Linkbase Document
-
-

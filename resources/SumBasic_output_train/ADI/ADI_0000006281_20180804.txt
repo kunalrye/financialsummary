@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 In the opinion of management, the information furnished in the accompanying condensed consolidated financial statements reflects all normal recurring adjustments that are necessary to fairly state the results for these interim periods and should be read in conjunction with Analog Devices, Inc.’s (the Company) Annual Report on Form 10-K for the fiscal year ended October 28, 2017 (fiscal 2017) and related notes.
 The acquisition of Linear is referred to as the Acquisition.
 See Note 13, Acquisitions, of these Notes to Condensed Consolidated Financial Statements for further information.
@@ -13,34 +8,10 @@ For multiple element arrangements, the Company allocates arrangement considerati
 The Company uses its best estimate of selling price to allocate arrangement consideration between the deliverables in cases where neither vendor-specific objective evidence nor third-party evidence is available.
 A reserve for sales returns and allowances for customers is recorded based on historical experience or specific identification of an event necessitating a reserve.
 The output measure is used to measure results directly and is generally the best measure of progress toward completion in circumstances in which a reliable measure of output can be established.
-Estimated revenue in excess of amounts billed is reported as unbilled receivables.
-Contract accounting requires judgment in estimating costs and assumptions related to technical issues and delivery schedule.
-Contract costs include material, subcontractor costs, labor and an allocation of indirect costs.
-Product sales to certain international distributors are made under agreements that permit limited stock return privileges but not sales price rebates.
-Revenue on these sales is recognized upon shipment at which time title passes.
-As a result, the Company’s revenue fully reflects end customer purchases and is not impacted by distributor inventory levels.
-
-
-item2.txt
-We undertake no obligation to revise or update any forward-looking statements, including to reflect events or circumstances occurring after the date of the filing of this report, except to the extent required by law.
+Estimated revenue in excess of amounts billed is reported as unbilled receivables.We undertake no obligation to revise or update any forward-looking statements, including to reflect events or circumstances occurring after the date of the filing of this report, except to the extent required by law.
 The fiscal year ending November 3, 2018 (fiscal 2018) is a 53-week year and the fiscal year ended October 28, 2017 (fiscal 2017) was a 52-week year.
 On March 10, 2017 (Acquisition Date), we completed the acquisition of Linear Technology Corporation (Linear), a designer, manufacturer and marketer of high performance analog integrated circuits.
-The condensed consolidated financial statements included in this Quarterly Report on Form 10-Q include the financial results of Linear prospectively from the Acquisition Date.
-The following tables summarize revenue by end market for the three- and nine-month periods ended August 4, 2018 and July 29, 2017.
-The categorization of revenue by end market is determined using a variety of data points including the technical characteristics of the product, the “sold to” customer information, the “ship to” customer information and the end customer product or application into which our product will be incorporated.
-
-
-item3.txt
-
-
-
-part2.txt
-The description below includes any material changes to and supersedes the description of the risk factors affecting our business previously discussed in "Risk Factors” set forth in Item 1A of our Annual Report on Form 10-K for the fiscal year ended October 28, 2017.
+The condensed consolidated financial statements included in this Quarterly Report on Form 10-Q include the financial results of Linear prospectively from the Acquisition Date.The description below includes any material changes to and supersedes the description of the risk factors affecting our business previously discussed in "Risk Factors” set forth in Item 1A of our Annual Report on Form 10-K for the fiscal year ended October 28, 2017.
 Continuing uncertainty regarding the stability of global credit and financial markets may lead consumers and businesses to postpone spending, which may cause our customers to cancel, decrease or delay their existing and future orders for our products and make it difficult for us to accurately forecast and plan our future business activities.
 In addition, financial difficulties experienced by our suppliers or distributors could result in product delays, increased accounts receivable defaults and inventory challenges.
 Our future revenue, gross margins, operating results, net income and earnings per share are difficult to predict and may materially fluctuate.
-•a decline in the U.S. government defense budget, changes in spending or budgetary priorities, a prolonged U.S. government shutdown or delays in contract awards; In addition, the semiconductor market has historically been cyclical and subject to significant economic upturns and downturns.
-timely fashion to accommodate changing customer demand.
-We typically do not have long-term sales contracts with our customers.
-
-

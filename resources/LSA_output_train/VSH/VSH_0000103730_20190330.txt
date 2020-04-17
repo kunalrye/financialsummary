@@ -1,21 +1,9 @@
-fls.txt
-
-
-
-item1.txt
 The Company reports interim financial information for 13-week periods beginning on a Sunday and ending on a Saturday, except for the first fiscal quarter, which always begins on January 1, and the fourth fiscal quarter, which always ends on December 31.
 The four fiscal quarters in 2019 end on March 30, 2019, June 29, 2019, September 28, 2019, and December 31, 2019, respectively.
 The four fiscal quarters in 2018 ended on March 31, 2018, June 30, 2018, September 29, 2018, and December 31, 2018, respectively.
 2016-02 and all related ASUs is codified in Accounting Standard Codification (“ASC”) Topic 842, Leases.
 The difference between the initial right of use asset and lease liability balances recognized upon adoption of ASC Topic 842 is primarily due to accrued lease incentive balances at December 31, 2018.
-On December 20, 2018, the Company received sale proceeds of $45,500 and concurrently leased-back its former manufacturing site in Santa Clara, California, under a short-term arrangement, to raze the buildings.
-Upon adoption of ASC Topic 842, the Company was required to reassess the accounting for these transactions.
-The transactions did not qualify as a completed sale and leaseback under previous GAAP.
-However, pursuant to ASC Topic 842’s sale and leaseback guidance, the transaction would qualify as a completed sale.
-
-
-item2.txt
-This Management's Discussion and Analysis ("MD&A") is intended to provide an understanding of Vishay's financial condition, results of operations and cash flows by focusing on changes in certain key measures from period to period.
+On December 20, 2018, the Company received sale proceeds of $45,500 and concurrently leased-back its former manufacturing site in Santa Clara, California, under a short-term arrangement, to raze the buildings.This Management's Discussion and Analysis ("MD&A") is intended to provide an understanding of Vishay's financial condition, results of operations and cash flows by focusing on changes in certain key measures from period to period.
 The MD&A should be read in conjunction with our Consolidated Condensed Financial Statements and accompanying Notes included in Item 1.
 "Risk Factors," filed with the Securities and Exchange Commission on February 15, 2019.
 Through this strategy, we have grown to become one of the world’s largest manufacturers of discrete semiconductors and passive components.
@@ -25,25 +13,4 @@ On May 8, 2019, we announced that the quarterly cash dividend was further increa
 In June 2018, we used the net proceeds from issuing $600 million principal amount of new convertible senior notes to repurchase some of our outstanding convertible senior debentures, which had become less tax-efficient because of the TCJA.
 During the first quarter of 2019, we continued to repurchase convertible senior debentures in open market and privately-negotiated transactions with holders, further reducing the principal amount of outstanding convertible senior debentures to $21.1 million.
 For several years, we implemented aggressive cost reduction programs.
-We utilize several financial metrics, including net revenues, gross profit margin, segment operating income, end-of-period backlog, book-to-bill ratio, inventory turnover, change in average selling prices, net cash and short-term investments (debt), and free cash generation to evaluate the performance and assess the future direction of our business.
-There is a substantial increase of inventory in the supply chain, which has negatively impacted several key financial metrics.
-The net earnings attributable to Vishay stockholders for the fiscal quarter ended March 30, 2019 were $75.5 million, or $0.52 per diluted share, compared to $102.4 million, or $0.69 per diluted share for the fiscal quarter ended December 31, 2018, and $62.4 million, or $0.39 per diluted share for the fiscal quarter ended March 31, 2018.
-We define adjusted net earnings as net earnings determined in accordance with GAAP adjusted for various items that management believes are not indicative of the intrinsic operating performance of our business.
-We define free cash as the cash flows generated from continuing operations less capital expenditures plus net proceeds from the sale of property and equipment.
-The reconciliations below include certain financial measures which are not recognized in accordance with GAAP, including adjusted net earnings, adjusted earnings per share, and free cash.
-Management believes that adjusted net earnings and adjusted earnings per share are meaningful because they provide insight with respect to our intrinsic operating results.
-
-
-item3.txt
-Item 3 of Part I of our Annual Report on Form 10-K for the year ended December 31, 2018, filed with the SEC on February 15, 2019 describes certain of our legal proceedings.
-
-
-item4.txt
-31.1   Certification pursuant to Rule 13a-14(a) or 15d-14(a) under the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 - Dr. Gerald Paul, Chief Executive Officer.
-
-
-part2.txt
-Item 3 of Part I of our Annual Report on Form 10-K for the year ended December 31, 2018, filed with the SEC on February 15, 2019 describes certain of our legal proceedings.
-As previously reported, the Korean Ministry of Justice conducted a review of the conduct of Vishay Polytech Co., Ltd., a wholly owned subsidiary of the Company (“VPC”), at the request of the Korean Fair Trade Commission.
-
-
+We utilize several financial metrics, including net revenues, gross profit margin, segment operating income, end-of-period backlog, book-to-bill ratio, inventory turnover, change in average selling prices, net cash and short-term investments (debt), and free cash generation to evaluate the performance and assess the future direction of our business.Item 3 of Part I of our Annual Report on Form 10-K for the year ended December 31, 2018, filed with the SEC on February 15, 2019 describes certain of our legal proceedings.

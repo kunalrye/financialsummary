@@ -1,8 +1,3 @@
-fls.txt
-Such risks and uncertainties include: (1) the loss of a large customer; (2) current and future conditions in the global economy; (3) the reliance on revenue from the consumer electronics or automotive industries; (4) the inability to penetrate new markets; (5) the inability to achieve significant international revenue; (6) fluctuations in foreign currency exchange rates and the use of derivative instruments; (7) information security breaches or business system disruptions; (8) the inability to attract and retain skilled employees; (9) the failure to effectively manage our growth; (10) the reliance upon key suppliers to manufacture and deliver critical components for our products; (11) the failure to effectively manage product transitions or accurately forecast customer demand; (12) the inability to design and manufacture high-quality products; (13) the technological obsolescence of current products and the inability to develop new products; (14) the failure to properly manage the distribution of products and services; (15) the inability to protect our proprietary technology and intellectual property; (16) our involvement in time-consuming and costly litigation; (17) the impact of competitive pressures; (18) the challenges in integrating and achieving expected results from acquired businesses; (19) potential impairment charges with respect to our investments or for acquired intangible assets or goodwill; and (20) exposure to additional tax liabilities.
-
-
-item1.txt
 The accompanying notes are an integral part of these consolidated financial statements.
 The accompanying notes are an integral part of these consolidated financial statements.
 The accompanying notes are an integral part of these consolidated financial statements.
@@ -15,32 +10,8 @@ The Company identifies performance obligations as promises in contracts to trans
 Standard products and services that the Company regularly sells separately are accounted for as distinct performance obligations.
 Application-specific customer solutions that are comprised of a combination of products and services are accounted for as one performance obligation to deliver a total solution to the customer.
 On-site support services that are provided to the customer after the solution is deployed are accounted for as a separate performance obligation.
-These activities are required to fulfill the Company’s promise to transfer the goods and are expensed when revenue is recognized.
-If revenue is recognized before immaterial promises have been completed, then the costs related to such immaterial promises are accrued at the time of sale.
-updates its estimate of variable consideration at the end of each reporting period to reflect changes in facts and circumstances.
-In certain instances, an arrangement may include customer-specified acceptance provisions or performance guarantees that allow the customer to accept or reject delivered products that do not meet the customer’s specifications.
-Credit assessments are performed to determine payment terms, which vary by region, industry, and customer.
-Prepayment terms result in contract liabilities for customer deposits.
-Management exercises judgment when determining the amount of revenue to be recognized each period.
-Such judgments include, but are not limited to, assessing the customer’s ability and intention to pay substantially all of the contract consideration when due, determining when two or more contracts should be combined and accounted for as a single contract, determining whether a contract modification has occurred, assessing whether promises are immaterial in the context of the contract, determining whether material promises in a contract represent distinct performance obligations, estimating the transaction price for a contract that contains variable consideration, determining the stand-alone selling price of each performance obligation, determining whether control is transferred over time or at a point in time for performance obligations, and assessing whether formal customer acceptance provisions are substantive.
-
-
-item2.txt
-The Company cautions readers not to place undue reliance upon any such forward-looking statements, which speak only as of the date made.
+These activities are required to fulfill the Company’s promise to transfer the goods and are expensed when revenue is recognized.The Company cautions readers not to place undue reliance upon any such forward-looking statements, which speak only as of the date made.
 Cognex Corporation is a leading worldwide provider of machine vision products that capture and analyze visual information in order to automate tasks, primarily in manufacturing processes, where vision is required.
 In addition to product revenue derived from the sale of machine vision products, the Company also generates revenue by providing maintenance and support, consulting, and training services to its customers; however, service revenue accounted for less than 10% of total revenue for all periods presented.
 Factory automation customers purchase Cognex products and incorporate them into their manufacturing processes.
 Most manufacturers can achieve better quality and manufacturing efficiency by using machine vision, and therefore, this market also includes a broad base of customers across a variety of other industries, including consumer products, food and beverage, medical devices, and pharmaceuticals.
-Factory automation customers also purchase Cognex products for use outside of the manufacturing process, such as using ID products in logistics automation for package sorting and distribution.
-Accordingly, prior period revenue, cost of revenue, and gross profit have been restated to apply the provisions of this ASC.
-Operating income increased by 6% over the second quarter of 2017; however, a lower tax benefit related to stock option exercises than the prior year resulted in relatively flat net income.
-
-
-item4.txt
-As required by Rules 13a-15 and 15d-15 of the Securities Exchange Act of 1934, the Company has evaluated, with the participation of management, including the Chief Executive Officer and the Chief Financial Officer, the effectiveness of its disclosure controls and procedures (as defined in such rules) as of the end of the period covered by this report.
-
-
-part2.txt
-Various claims and legal proceedings generally incidental to the normal course of business are pending or threatened on behalf of or against the Company.
-
-

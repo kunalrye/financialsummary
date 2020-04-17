@@ -1,11 +1,3 @@
-fls.txt
-This new standard replaces the use of forward-looking information to estimate credit losses and requires credit losses for available for sale debt securities to be recorded through an allowance for credit losses rather than a reduction in the amortized cost basis.
-Management is currently evaluating the impact of ASU 2016-13 on our consolidated financial statements.
-Forward-looking statements reflect management’s expectations and are inherently uncertain.
-Our expectations and assumptions are expressed in good faith and we believe there is a reasonable basis for them.
-
-
-item1.txt
 All significant intercompany transactions and accounts have been eliminated.
 These consolidated financial statements should be read in conjunction with the audited consolidated financial statements and accompanying notes included in our Annual Report on Form 10-K for the fiscal year ended  March 31, 2019.
 Accordingly, this Quarterly Report on Form 10-Q should be read in conjunction with our Annual Report on Form 10-K for the fiscal year ended  March 31, 2019.
@@ -22,15 +14,3 @@ We elected the package of transition provisions available for expired or existin
 When available, we use the rate implicit in the lease to discount lease payments to present value; however, most of our leases do not provide a readily determinable implicit rate.
 Basic earnings per share are computed by dividing net earnings by the weighted average number of shares of common stock outstanding for the period.
 Charges related to stock rotation, ship from stock and debit, sales returns, and sales discounts are reported as deductions from revenue.
-During the three and six month periods ended  September 30, 2019, there have been no transfers of assets or liabilities between levels within the fair value hierarchy.
-We primarily use forward contracts, with maturities generally less than four months, designated as cash flow hedges, to protect against the foreign currency exchange rate risks inherent in our forecasted transactions related to purchase commitments and sales, denominated in various currencies.
-We also use derivatives not designated as hedging instruments to hedge foreign currency balance sheet exposures.
-At  March 31, 2019 and  September 30, 2019, all of our forward contracts are valued using Level 2 measurements.
-We have the ability and intent to hold these investments until maturity.
-The amortized cost and estimated fair value of held-to-maturity investments at  September 30, 2019, by contractual maturity, are shown below.
-The estimated fair value of these investments are based on valuation inputs that include benchmark yields, reported trades, broker and dealer quotes, issuer spreads, two-sided markets, benchmark securities, bids, offers, and reference data, which are Level 2 inputs in the fair value hierarchy.
-Actual maturities  may differ from contractual maturities because issuers  may have the right to call or prepay obligations without call or prepayment penalties.
-We have been identified by the United States Environmental Protection Agency (“EPA”), state governmental agencies or other private parties as a potentially responsible party (“PRP”) under the Comprehensive Environmental Response, Compensation and Liability Act (“CERCLA”), or equivalent non-U.S., state or local laws, for clean-up and response costs associated with certain sites at which remediation is required with respect to prior contamination.
-Because CERCLA or such state statutes authorize joint and several liability, the EPA or non-U.S., state or local regulatory authorities could seek to recover all clean-up costs from any one of the PRPs at a site despite the involvement of other PRPs.
-
-

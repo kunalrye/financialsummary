@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 Certain information and footnote disclosures normally included in financial statements prepared in accordance with generally accepted accounting principles in the United States ("GAAP") have been condensed or omitted pursuant to such rules and regulations.
 The July 29, 2017 Consolidated Balance Sheet was derived from audited financial statements, but does not include all disclosures required by accounting principles generally accepted in the United States.
 The Company consolidates its investments in a venture fund managed by SOFTBANK Corp. and its affiliates (“SOFTBANK”) as this is a variable interest entity and the Company is the primary beneficiary.
@@ -11,40 +6,11 @@ This resulted in an overall decrease in the effective tax rate for the six month
 The new standard will supersede nearly all U.S. GAAP on revenue recognition and eliminate industry-specific guidance.
 The underlying principle of the new standard is to recognize revenue when a customer obtains control of promised goods or services at an amount that reflects the consideration that is expected to be received in exchange for those goods or services.
 Cisco is on schedule in establishing new accounting policies, implementing systems and processes (including more extensive use of estimates), and internal controls necessary to support the requirements of the new standard.
-assessment of the financial statement impact of the new standard, as discussed below, and will continue to update that assessment as more information becomes available.
-In addition to the above revenue recognition timing impacts, the new standard will require incremental contract acquisition costs (such as sales commissions) for customer contracts to be capitalized and amortized over the contract period.
-Cisco will be required to record cumulative effect adjustments to retained earnings (net of tax) upon adopting the new standard at the beginning of fiscal 2019.
-The most significant of these adjustments will be to reduce product deferred revenue and increase retained earnings at the date of adoption to reflect revenue that would have been already recognized under the new standard related to existing arrangements.
-The accounting standard update will be effective for Cisco beginning in the first quarter of fiscal 2019, and early adoption is permitted.
-While Cisco is currently evaluating the impact of this accounting standard update on its Consolidated Financial Statements, Cisco expects that this accounting standard update will increase the variability of other income (loss), net.
-
-
-item2.txt
-Cisco designs and sells a broad range of technologies that have been powering the Internet since 1984.
+assessment of the financial statement impact of the new standard, as discussed below, and will continue to update that assessment as more information becomes available.Cisco designs and sells a broad range of technologies that have been powering the Internet since 1984.
 Across networking, security, collaboration and the cloud, our evolving intent-based technologies are constantly learning and adapting to provide customers with a highly secure, intelligent platform for their digital business.
 In the second quarter of fiscal 2018, we saw broad strength across the business and delivered solid revenue growth, strong margins and operating cash flows.
 We continue to operate in a challenging and highly competitive environment, which has negatively impacted certain of our offerings within our Infrastructure Platforms product category.
-The “BRICM” countries experienced product revenue growth of 2% in the aggregate, driven by increased product revenue in the emerging countries of China, Russia and Brazil of 8%, 17% and 11%, respectively, partially offset by product revenue declines in India and Mexico of 11% and 4%, respectively.
-From a customer market standpoint, we experienced product revenue growth in the public sector and commercial markets, partially offset by a product revenue decline in the service provider market.
-Product revenue in the enterprise market was flat.
-We had a net loss of $6.4 billion and a net loss per share of $1.29, due primarily to the $11.1 billion provisional tax expense related to the Tax Act as discussed above.
-
-
-item3.txt
-Our primary objective for holding fixed income securities is to achieve an appropriate investment return consistent with preserving principal and managing risk.
-
-
-item4.txt
-
-
-
-part2.txt
-In addition to claims asserted by the Brazilian federal tax authorities in prior fiscal years, tax authorities from the Brazilian state of Sao Paulo have asserted similar claims on the same legal basis in prior fiscal years.
+The “BRICM” countries experienced product revenue growth of 2% in the aggregate, driven by increased product revenue in the emerging countries of China, Russia and Brazil of 8%, 17% and 11%, respectively, partially offset by product revenue declines in India and Mexico of 11% and 4%, respectively.In addition to claims asserted by the Brazilian federal tax authorities in prior fiscal years, tax authorities from the Brazilian state of Sao Paulo have asserted similar claims on the same legal basis in prior fiscal years.
 The total asserted claims by Brazilian state and federal tax authorities aggregate to $257 million for the alleged evasion of import and other taxes, $1.6 billion for interest, and $1.2 billion for various penalties, all determined using an exchange rate as of January 27, 2018.
 We do not expect a final judicial determination for several years.
 On August 18, 2015, we petitioned the Patent Trial and Appeal Board (“PTAB”) of the United States Patent and Trademark Office to review whether the patent SSL has asserted against us is valid over prior art.
-On February 23, 2016, a PTAB multi-judge panel found a reasonable likelihood that we would prevail in showing that SSL’s patent claims are unpatentable and instituted proceedings.
-Due to uncertainty surrounding patent litigation processes, we are unable to reasonably estimate the ultimate outcome of this litigation at this time.
-Straight Path On September 24, 2014, Straight Path IP Group, Inc. (“Straight Path”) asserted patent infringement claims against us in the U.S. District Court for the Northern District of California, accusing our 9971 IP Phone, Unified Communications Manager working in conjunction with 9971 IP Phones, and Video Communication Server products of infringement.
-
-

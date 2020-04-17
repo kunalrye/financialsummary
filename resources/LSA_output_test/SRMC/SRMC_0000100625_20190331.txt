@@ -1,8 +1,3 @@
-fls.txt
-Our actual results could differ materially from those anticipated in these forward-looking statements as a result of certain factors, including, without limitation, general economic conditions in both foreign and domestic markets, changes in the economy and the credit market, investment and research and development plans and success, market position and penetration, strategic plans and objectives, operating margins, government and regulatory approvals or certifications, cyclical factors affecting our industry, our ability to identify, attract, motivate and retain qualified personnel, lack of growth in our end-markets, our ability to develop and manufacture, seasonality in our products, availability of components and materials used in our products, and our ability to sell both new and existing products at a profitable yet competitive price and those issues described under the heading “Critical Accounting Policies,” below, and those risk factors identified in Item1A, Risk Factors, of our Annual Report on Form 10-K for our fiscal year ended December 31, 2018, which was filed with the SEC on April 1, 2019, as such section may be updated in our subsequent Forms 10-K, 10-Q and 8-K filed with, or furnished to, the SEC.
-
-
-item1.txt
 Upon completion of the Merger, each share of common stock, $0.001 par value per share, of the Company, issued and outstanding immediately prior to the effective time of the Merger (the “Effective Time”), other than shares owned or held in treasury by SMC, owned by MSA or Merger Sub, or with respect to which the holder thereof has properly exercised dissenters’ rights, will be cancelled and converted into the right to receive $3.25 in cash per share, without interest and less any required withholding taxes.
 Under the Merger Agreement, at the Effective Time of the Merger, MSA Safety will assume vested or unvested and outstanding stock options and restricted stock awards granted to Company employees.
 The FieldServer family of products works with the FieldPoP™ device cloud portal; a cloud-based service that registers and manages FieldServer products, provides secure remote access to the local web-based applications that run on FieldServer products, and integrates with third-party applications over REST APIs.
@@ -12,16 +7,7 @@ In addition to bridging data protocols between various assets or devices within 
 The Company’s revenue arrangements consist of multiple performance obligations including hardware, software, and services.
 Additionally, international customers and customers who have developed a history of payment problems are generally required to prepay or pay through a letter-of-credit.
 Gas detection and environment control services consist of field service orders (technical support) and training, which are provided separately from product orders.
-Revenue recognition occurs only when the service activity is completed.
-Such services are provided to current and prior customers, and, as noted above, creditworthiness has generally already been assessed.
-In cases where the probability of receiving payment is low, a credit card number is collected for immediate processing.
-The driver development involves further research after receipt of order, preparation of a scope document to be approved by the customer and then engineering time to write, test and release the driver program.
-When development of the driver is complete the customer is notified and can proceed with a FieldServer product.
-The Company provides a warranty on all products sold for a period of two years after the date of shipment.
-
-
-item2.txt
-Our flame and gas detection products are generally sold to engineering and installation firms who utilize the products as part of larger fire and safety projects in a variety of facilities, such as oil, gas and chemical processing plants, wastewater treatment facilities, alternate fuel vehicle maintenance garages, and other sites where hazardous gases are used or produced.
+Revenue recognition occurs only when the service activity is completed.Our flame and gas detection products are generally sold to engineering and installation firms who utilize the products as part of larger fire and safety projects in a variety of facilities, such as oil, gas and chemical processing plants, wastewater treatment facilities, alternate fuel vehicle maintenance garages, and other sites where hazardous gases are used or produced.
 Our FieldServer products are primarily sold to OEMs who develop a broad range of products relevant to facility automation, such as boilers, chillers, air handlers, lighting controls, generator sets, electric sub-meters, etc.
 Our FieldServer products are also bought by system integrators looking to connect various discrete automation sub-systems to a common facility management system.
 Our IoT focused products are showing growth due to pull through from other solutions like our SMC Cloud offer which is enabling device management, visualization and analytics.
@@ -29,18 +15,3 @@ Customers are buying our equipment to access the cloud solution.
 Our reduced gross margin in the first quarter of 2019 compared to the same period in 2018 is primarily due to product mix.
 Expenses for research and development, which include new product development and engineering to sustain existing products, were $738,720, or 13.4% of net sales, for the three-month period ended March 31, 2019, compared with $774,428, or 15.0% of net sales, in the same period in the prior year.
 Selling and marketing expenses, which consist primarily of salaries, commissions and promotional expenses, for the three-month period ended March 31, 2019 were $1,398,009, or 25.3% of net sales, compared to $1,386,364, or 26.9% of net sales, in the same period in the prior year.
-General and administrative expenses increased in the first quarter of 2019 compared to the same period in the prior year primarily due to technology upgrades to key customer and delivery focused systems.
-Income from operations for the three-month period ended March 31, 2019 was $85,351, or 1.5% of net sales, compared to income of $90,950, or 1.8% of net sales, in the same period in the prior year.
-No borrowings have been made under our line of credit during the first three months of fiscal year 2019 and there were no outstanding balances at March 31, 2019 and December 31, 2018.
-In May 2014, the Financial Accounting Standards Board (“FASB”) issued ASU 2014-09, “Revenue from Contracts with Customers” (Topic 606).
-The Company’s revenue arrangements consist of multiple performance obligations including hardware, software, and services.
-
-
-item4.txt
-
-
-
-part2.txt
-
-
-

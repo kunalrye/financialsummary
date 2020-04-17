@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 The unaudited Condensed Consolidated Financial Statements of Juniper Networks, Inc. (the “Company” or “Juniper”) have been prepared in accordance with U.S. generally accepted accounting principles (“U.S.
 GAAP”) for interim financial information.
 The Condensed Consolidated Balance Sheet as of December 31, 2018 has been derived from the audited Consolidated Financial Statements at that date.
@@ -12,39 +7,10 @@ See Note 13, Commitment and Contingencies, for additional disclosures required u
 The Company evaluates classification of leases at commencement and, as necessary, at modification.
 As of March 31, 2019, the Company did not have any finance leases.
 The operating lease ROU asset also includes any lease payments made prior to lease commencement and excludes lease incentives.
-Variable lease payments not dependent on an index or a rate, are expensed as incurred and are not included within the ROU asset and lease liability calculation.
-Variable lease payments primarily include reimbursements of costs incurred by lessors for common area maintenance and utilities.
-The Company's lease terms are the noncancelable period including any rent-free periods provided by the lessor and include options to extend or terminate the lease when it is reasonably certain that it will exercise that option.
-The Company does not separate non-lease components from lease components for all underlying classes of assets.
-As of March 31, 2019, the Company had 382 investments in unrealized loss positions.
-The gross unrealized losses related to these investments were primarily due to changes in market interest rates.
-
-
-item2.txt
-We undertake no obligation to revise or update publicly any forward-looking statements for any reason, except as required by applicable law.
-In making these decisions, we consider various factors, including contractual obligations, customer satisfaction, competition, internal and external financial targets and expectations, and financial planning objectives.
-Each of these decisions has some impact on the financial results for any given period.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-The information set forth under the “Legal Proceedings” section in Note 13, Commitments and Contingencies, in Notes to Condensed Consolidated Financial Statements in Item 1 of Part I of this Report, is incorporated herein by reference.
+Variable lease payments not dependent on an index or a rate, are expensed as incurred and are not included within the ROU asset and lease liability calculation.We undertake no obligation to revise or update publicly any forward-looking statements for any reason, except as required by applicable law.The information set forth under the “Legal Proceedings” section in Note 13, Commitments and Contingencies, in Notes to Condensed Consolidated Financial Statements in Item 1 of Part I of this Report, is incorporated herein by reference.
 Investments in our securities involve significant risks.
 For example, we, and many companies in our industry, experience adverse seasonal fluctuations in customer spending, particularly in the first quarter.
 Such adjustments may be difficult or impossible to execute in the short or medium term.
 For example, in fiscal year 2018, our margins decreased as compared to fiscal year 2017, primarily due to lower net revenues and product mix.
 We expect that our margins will vary with our ability to achieve these goals.
 Our ability to successfully offer our products and services in a rapidly evolving market requires an effective planning, forecasting, and management process to enable us to effectively scale and adjust our business and business models in response to fluctuating market opportunities and conditions.
-Competition is intense in the markets that we serve.
-The routing and switching markets have historically been dominated by Cisco, with competition coming from other companies such as Nokia Corporation, Arista, HPE, and Huawei.
-Further, a number of other small public and private companies have products or have announced plans for new products to address the same challenges and markets that our products address.
-In particular, customers making critical decisions regarding the design and implementation of large network deployments may engage in very lengthy procurement processes that may delay or impact expected future orders.
-
-

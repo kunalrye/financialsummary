@@ -1,10 +1,4 @@
-fls.txt
-This ASU introduces a new forward-looking approach, based on expected losses, to estimate credit losses on certain types of financial instruments, including trade receivables.
-The estimate of expected credit losses will require considerations of historical information, current information and reasonable and supportable forecasts.
-
-
-item1.txt
-1.Description of Business and Summary of Significant Accounting Policies CDW Corporation ("Parent") is a Fortune 500 company with multi-national capabilities and a leading provider of integrated information technology ("IT") solutions to small, medium and large business, government, education and healthcare customers in the United States ("US"), the United Kingdom ("UK") and Canada.
+This ASU introduces a new forward-looking approach, based on expected losses, to estimate credit losses on certain types of financial instruments, including trade receivables.1.Description of Business and Summary of Significant Accounting Policies CDW Corporation ("Parent") is a Fortune 500 company with multi-national capabilities and a leading provider of integrated information technology ("IT") solutions to small, medium and large business, government, education and healthcare customers in the United States ("US"), the United Kingdom ("UK") and Canada.
 The Company's offerings range from discrete hardware and software products to integrated IT solutions such as mobility, security, data center optimization, cloud computing, virtualization and collaboration.
 Throughout this report, the terms the "Company" and "CDW" refer to Parent and its 100% owned subsidiaries.
 The accompanying unaudited interim Consolidated Financial Statements as of September 30, 2018 and for the three and nine months ended September 30, 2018 and 2017 (the "Consolidated Financial Statements") have been prepared in conformity with accounting principles generally accepted in the United States of America ("GAAP") and the rules and regulations of the US Securities and Exchange Commission (the "SEC") for interim financial statements.
@@ -13,16 +7,7 @@ Prior period amounts have been adjusted accordingly.
 All intercompany transactions and accounts are eliminated in consolidation.
 Except as noted above for the adoption of Topic 606, there have been no material changes to the Company's significant accounting policies and estimates during the nine months ended September 30, 2018.
 The Company is a primary distribution channel for a large group of vendors and suppliers, including original equipment manufacturers ("OEMs"), software publishers and wholesale distributors.
-The Company is the principal in the transaction and recognizes revenue for drop-shipment arrangements on a gross basis.
-The Company's vendor partners warrant most of the products the Company sells.
-The warranties are not sold separately and only provide assurance that products will conform with the manufacturer's specifications.
-The Company considers these service-type warranties to be separate performance obligations from the underlying product.
-For software licenses where the accompanying third-party delivered software assurance is not critical or essential to the core functionality, the software assurance is recognized as a separate performance obligation, with the associated revenue recognized on a net basis at the point the related software license is delivered to the customer.
-For additional details regarding the accounting for bundled arrangements, see "Revenue Recognition for Bundled Arrangements" below.
-
-
-item2.txt
-See "Forward-Looking Statements" at the end of this discussion.
+The Company is the principal in the transaction and recognizes revenue for drop-shipment arrangements on a gross basis.See "Forward-Looking Statements" at the end of this discussion.
 CDW Corporation ("Parent") is a Fortune 500 company and a leading provider of integrated information technology ("IT") solutions to small, medium and large business, and government, education and healthcare customers in the United States ("US"), the United Kingdom ("UK") and Canada.
 Our broad array of offerings ranges from discrete hardware and software products to integrated IT solutions such as mobility, security, data center optimization, cloud computing, virtualization and collaboration.
 We are technology "agnostic," with a portfolio including more than 100,000 products and services from more than 1,000 leading and emerging brands.
@@ -30,21 +15,3 @@ Our solutions are delivered in physical, virtual and cloud-based environments th
 We are a leading sales channel partner for many original equipment manufacturers ("OEMs"), software publishers and cloud providers (collectively, our "vendor partners"), whose products we sell or include in the solutions we offer.
 We provide our vendor partners with a cost-effective way to reach customers and deliver a consistent brand experience through our established end-market coverage, technical expertise and extensive customer access.
 Effective January 1, 2018, we adopted the requirements of ASU 2014-09, Revenue from Contracts with Customers, as amended ("Topic 606"), utilizing the full retrospective method as discussed in Note 2 (Recent Accounting Pronouncements) to the accompanying Consolidated Financial Statements.
-Prior period amounts have been adjusted accordingly.
-This is particularly the case for business customers, as their purchases tend to reflect confidence in their business prospects, which are driven by their perceptions of business conditions.
-•Changes in spending policies, budget priorities and funding levels are a key factor influencing the purchasing levels of government, healthcare and education customers.
-•Technology trends drive customer purchasing behaviors in the market.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-Item 1.
-
-

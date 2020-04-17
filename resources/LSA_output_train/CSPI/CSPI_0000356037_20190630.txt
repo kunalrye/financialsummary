@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 The Company operates in two segments, its High Performance Products (“HPP”) segment and its Technology Solutions (“TS”) segment.
 All adjustments were of a normal recurring nature.
 Refer to Note 12 for additional information on discontinued operations.
@@ -13,30 +8,10 @@ Multicomputer repair services revenue is recognized upon control transfer when t
 Managed service contracts contain the right to refund if canceled within 30 days of inception.
 Myricom revenue is derived from the sale of products, which are comprised of both hardware and embedded software which is essential to the products functionality, and post contract maintenance and support.
 Post contract maintenance and support is considered immaterial in the context of the contract and therefore is not a separate performance obligation.
-TS Segment revenue is derived from the sale of hardware, software, professional services, third-party service contracts, maintenance contracts, managed services, and financing of hardware and software.
-Financing revenue is recorded in revenue as equipment leasing and is part of the Company’s operations.
-The input method using labor hours expended relative to the total expected hours is used to recognize revenue for professional services.
-Only the hours that depict the Company’s performance toward satisfying a performance obligation are used for progress.
-An estimate for professional services is made at the beginning of each contract based on prior experience and monitored throughout the services.
-This method is most appropriate as it depicts the measure of progress towards satisfaction of the performance obligation.
-For items sold separately, including hardware, software, professional services, maintenance contracts, other services, and third-party service contracts, there is no allocation performed as there is one performance obligation.
-
-
-item2.txt
-Except as required by law, we do not undertake any obligation to publicly update or revise any forward-looking statements contained in this report, whether as a result of new information, future events or otherwise.
+TS Segment revenue is derived from the sale of hardware, software, professional services, third-party service contracts, maintenance contracts, managed services, and financing of hardware and software.Except as required by law, we do not undertake any obligation to publicly update or revise any forward-looking statements contained in this report, whether as a result of new information, future events or otherwise.
 2014‑09, Revenue from Contracts with Customers (ASC 606), our revenue recognition policy has changed effective October 1, 2018 and is included in Note 3 of our unaudited consolidated financial statements included in Item 1 to the Quarterly Report on Form 10‑Q.
 See Note 11 of our unaudited consolidated financial statements included in Item 1 for effects of initial adoption and Note 3 of our unaudited consolidated financial statements included in Item 1 for further details on our revenue recognition policy.
 No income taxes were provided as the transaction was a tax-free exchange in the U.K. Our revenues increased by approximately $1.6 million, or 8%, to $21.6 million for the three months ended June 30, 2019 as compared to $20.0 million for the three months ended June 30, 2018.
 Our gross margin percentage decreased to 22% of revenues for the three months ended June 30, 2019 from 26% for the three months ended June 30, 2018.
 Operating income decreased by approximately $0.1 million from operating income of $0.2 million for the three months ended June 30, 2018 to operating income of $0.1 million for the three months ended June 30, 2019, primarily as a result decrease in gross margin percentage as a percent of revenue partially offset by a decrease in engineering and development expenses of $0.3 million.
 Our provision for income tax was a tax benefit of $326 thousand for the three months ended June 30, 2019 as compared to a tax expense of $249 thousand for the three months ended June 30, 2018.
-Our revenues increased by approximately $1.6 million to $21.6 million for the three months ended June 30, 2019 as compared to $20.0 million of revenues for the three months ended June 30, 2018.
-The HPP product revenues for the three months ended June 30, 2019 of $1.6 million, decreased by $0.1 million from $1.7 million for the three months ended June 30, 2018, primarily as a result of a decrease in Myricom product sales.
-The decrease in HPP services revenues of $0.9 million is primarily attributed to a $0.8 million decrease in royalties on high-speed processing boards related to the E2D program shipped for the three months ended June 30, 2019 as compared to the three months ended June 30, 2018.
-The increase in TS segment product revenues of $2.1 million during the period was primarily the result of an increase in product revenues of $3.3 million in our U.S. division, partially offset by a $1.2 million decrease of product revenue in our U.K. division.
-
-
-item4.txt
-
-
-

@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 Refer to Note 18 – Accumulated Other Comprehensive Income (Loss) for further information.
 Our unaudited interim consolidated financial statements and accompanying notes are prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”).
 Interim results are not necessarily indicative of results for a full year.
@@ -12,39 +7,10 @@ Intercompany transactions and balances have been eliminated.
 Equity investments for which we are able to exercise significant influence over but do not control the investee and are not the primary beneficiary of the investee’s activities are accounted for using the equity method.
 Certain volume licensing programs, including Enterprise Agreements, include on-premises licenses combined with Software Assurance (“SA”).
 SA conveys rights to new software and upgrades released over the contract period and provides support, tools, and training to help customers deploy and use products more efficiently.
-On-premises licenses are considered distinct performance obligations when sold with SA.
-Revenue from search advertising is recognized when the advertisement appears in the search results or when the action necessary to earn the revenue has been completed.
-Revenue from consulting services is recognized as services are provided.
-Our hardware is generally highly dependent on, and interrelated with, the underlying operating system and cannot function without the operating system.
-When a cloud-based service includes both on-premises software licenses and cloud services, judgment is required to determine whether the software license is considered distinct and accounted for separately, or not distinct and accounted for together with the cloud service and recognized over time.
-Certain cloud services, primarily Office 365, depend on a significant level of integration, interdependency, and interrelation between the desktop applications and cloud services, and are accounted for together as one performance obligation.
-
-
-item2.txt
-We strive to create local opportunity, growth, and impact in every country around the world.
+On-premises licenses are considered distinct performance obligations when sold with SA.We strive to create local opportunity, growth, and impact in every country around the world.
 We develop, license, and support a wide range of software products, services, and devices that deliver new opportunities, greater convenience, and enhanced value to people’s lives.
 Our platforms and tools help drive small business productivity, large business competitiveness, and public-sector efficiency.
-They also support new startups, improve educational and health outcomes, and empower human ingenuity.
-We generate revenue by licensing and supporting an array of software products, by offering a wide range of cloud-based and other services to consumers and businesses, by designing, manufacturing, and selling devices that integrate with our cloud-based services, and by delivering relevant online advertising to a global audience.
-Search advertising revenue, excluding traffic acquisition costs, increased 15%, driven by higher revenue per search and search volume.
-We adopted the new accounting standards for revenue recognition and leases effective July 1, 2017.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-Establishing significant scale in the marketplace is necessary to achieve and maintain attractive margins.
+They also support new startups, improve educational and health outcomes, and empower human ingenuity.Establishing significant scale in the marketplace is necessary to achieve and maintain attractive margins.
 We face significant competition from firms that provide competing platforms, applications, and services.
 A competing vertically-integrated model, in which a single firm controls the software and hardware elements of a product and related services, has succeeded with some consumer products such as personal computers, tablets, phones, gaming consoles, and wearables.
 Competitors pursuing this model also earn revenue from services integrated with the hardware and software platform.
-We face significant competition from competing platforms developed for new devices and form factors such as smartphones and tablet computers.
-Users sometimes incur costs to move data and buy new content and applications when switching platforms.
-Companies compete with us based on a growing variety of business models.
-
-

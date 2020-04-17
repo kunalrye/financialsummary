@@ -1,8 +1,3 @@
-fls.txt
-You can identify these statements by forward-looking words such as “anticipate,” “intend,” “plan,” “continue,” “could,” “grow,” “may,” “potential,” “predict,” “strive” “will,” “seek,” “estimate,” “believe,” “expect,” and similar expressions that convey uncertainty of future events or outcomes.
-
-
-item1.txt
 Accordingly, they do not include all of the information and footnotes required for complete consolidated financial statements.
 In the opinion of our management, these Condensed Consolidated Financial Statements contain all normal recurring adjustments considered necessary for a fair presentation of the Company’s financial position at October 31, 2019, results of operations for the three and six months ended October 31, 2019 and 2018, consolidated statements of shareholders’ equity for the three and six months ended October 31, 2019 and 2018 and cash flows for the six months ended October 31, 2019 and 2018.
 All significant intercompany balances and transactions have been eliminated in consolidation.
@@ -11,39 +6,10 @@ Under the new guidance, a lessee is required to recognize assets and liabilities
 Consistent under previous guidance, the recognition, measurement, and presentation of expenses and cash flows arising from a lease by a lessee primarily will depend on its classification as a finance or operating lease.
 However, unlike previous guidance, which required only capital leases to be recognized on the balance sheet, the new standard requires both types of leases to be recognized on the balance sheet.
 These disclosures include qualitative and quantitative requirements, providing additional information about the amounts recorded in the Condensed Consolidated Financial Statements.
-We derive our revenue from software licenses; maintenance services; consulting, implementation and training services; and Software-as-a-Service (“SaaS”), which includes a subscription to our software as well as maintenance, hosting and managed services.
-Subscription fees include SaaS revenues for the right to use the software for a limited period of time in an environment hosted by the Company or by a third party.
-Revenue is derived from maintenance under which we provide customers with telephone consulting, product updates on a when and if available basis, and releases of new versions of products previously purchased by the customer, as well as error reporting and correction services.
-Judgment is required to determine whether each product and service is considered to be a distinct performance obligation that should be accounted for separately under the contract.
-Therefore, we estimate SSP for software licenses using the residual approach, determined based on total transaction price less the SSP of other products and services promised in the contract.
-When performing relative selling price allocations, we use the contract price as the estimate of SSP if it falls within the Company’s range estimate of SSP, since any point within the range would be a valid price point on a standalone basis.
-
-
-item2.txt
-Any forward-looking statements we make herein are pursuant to the safe harbor provision of the Private Securities Litigation Reform Act of 1995.
+We derive our revenue from software licenses; maintenance services; consulting, implementation and training services; and Software-as-a-Service (“SaaS”), which includes a subscription to our software as well as maintenance, hosting and managed services.Any forward-looking statements we make herein are pursuant to the safe harbor provision of the Private Securities Litigation Reform Act of 1995.
 The update noted that, “Global growth is forecast at 3.0 percent for 2019, its lowest level since 2008–09 and a 0.3 percentage point downgrade from the April 2019 World Economic Outlook.
 Growth is projected to pick up to 3.4 percent in 2020 (a 0.2 percentage point downward revision compared with April), reflecting primarily a projected improvement in economic performance in a number of emerging markets in Latin America, the Middle East, and emerging and developing Europe that are under macroeconomic strain.
 To forestall such an outcome, policies should decisively aim at defusing trade tensions, reinvigorating multilateral cooperation, and providing timely support to economic activity where needed.
 We believe information technology spending will incrementally improve over the long term as increased global competition forces companies to improve productivity by upgrading their technology systems, which could result in an improved selling environment.
 We believe improved economic conditions may be driving some businesses to focus on achieving more process and efficiency enhancements in their operations and to invest in solutions that improve operating margins, rather than make large infrastructure-type technology purchases.
-If this trend continues, we believe it may tend to favor solutions such as our supply chain solutions, which are designed to provide a more rapid return on investment and are targeted at some of the largest profit drivers in a customer’s business.
-Our platform includes advanced analytics and is fueled by supply chain master data, allowing for the automation of critical business processes through the application of artificial intelligence and machine learning algorithms to a variety of internal and external data streams.
-Our primary operating units under our SCM segment include Logility, Inc., New Generation Computing, Inc. (“NGC”), Demand Management, Inc. (“DMI”), and Halo Business Intelligence (“Halo”).
-In addition to our core SCM software business, we also offer technology staffing and consulting services through our wholly-owned subsidiary, The Proven Method, Inc., in the IT Consulting segment.
-The Other segment consists of software and services provided to our legacy enterprise resource planning (“ERP”) customers, as well as corporate overhead and other common expenses.
-Our cost of revenue for licenses and subscriptions includes amortization of capitalized computer software development costs, amortization of acquired developed technology, royalties paid to third-party software vendors, and agent commission expenses related to revenues generated by the indirect channel, primarily from DMI.
-
-
-item3.txt
-In the three and six months ended October 31, 2019, we generated approximately 19% and 21% of our revenues outside the United States.
-We recorded exchange rate losses of approximately $0.1 million and $0.2 million for the three and six months ended October 31, 2019 compared to an exchange rate loss of approximately $0.1 million and $0.4 million for the same periods in the prior year.
-
-
-item4.txt
-Our principal executive officer and principal financial officer, with the assistance of our Disclosure Committee, have conducted an evaluation of the effectiveness of our disclosure controls and procedures as of the end of the period covered by this Quarterly Report.
-
-
-part2.txt
-Item 1.Legal Proceedings Item 1A.Risk Factors None.
-
-
+If this trend continues, we believe it may tend to favor solutions such as our supply chain solutions, which are designed to provide a more rapid return on investment and are targeted at some of the largest profit drivers in a customer’s business.In the three and six months ended October 31, 2019, we generated approximately 19% and 21% of our revenues outside the United States.

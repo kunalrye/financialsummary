@@ -1,8 +1,3 @@
-fls.txt
-We discuss many of these risks and uncertainties in Item 1A under the heading “Risk Factors” in our Annual Report on Form 10-K for the fiscal year ended September 30, 2017.
-
-
-item1.txt
 CSPI and its subsidiaries develop and market IT integration solutions, advanced security and managed services, purpose built network adapters, and high-performance cluster computer systems to meet the diverse requirements of its commercial and defense customers worldwide.
 The Company operates in two segments, its High Performance Products (“HPP”) segment and its Technology Solutions (“TS”) segment.
 All adjustments were of a normal recurring nature.
@@ -10,15 +5,7 @@ The Company closed on the sale of the German subsidiary of its TS segment on Jul
 Unless otherwise noted, discussion within these notes to the consolidated financial statements relates to continuing operations.
 Refer to Note 12 for additional information on discontinued operations.
 Basic net income (loss) per common share is computed by dividing net income (loss) available to common shareholders by the weighted average number of common shares outstanding for the period.
-We are required to present earnings per share, or EPS, utilizing the two class method because we had outstanding, non-vested share-based payment awards that contain non-forfeitable rights to dividends or dividend equivalents, which are considered participating securities.
-Finished goods includes inventory that has been shipped, but for which all revenue recognition criteria has not been met, of approximately $0.4 million and $0.4 million as of June 30, 2018 and September 30, 2017, respectively.
-SAB 118 provides for a measurement period beginning in the reporting period that includes the Tax Act’s enactment date and ending when the Company has obtained, prepared, and analyzed the information needed in order to complete the accounting requirements, but in no circumstances should the measurement period extend beyond one year from the enactment date.
-The Company's discontinued operations has a defined benefit and defined contribution plan in Germany.
-In the United Kingdom, the Company provides defined benefit pension plans and defined contribution plans for some of its employees.
-
-
-item2.txt
-Given these uncertainties, you should not place undue reliance on these forward-looking statements.
+We are required to present earnings per share, or EPS, utilizing the two class method because we had outstanding, non-vested share-based payment awards that contain non-forfeitable rights to dividends or dividend equivalents, which are considered participating securities.Given these uncertainties, you should not place undue reliance on these forward-looking statements.
 Except as required by law, we do not undertake any obligation to publicly update or revise any forward-looking statements contained in this report, whether as a result of new information, future events or otherwise.
 The Germany assets and liabilities are reflected as "held-for-sale" on the consolidated balance sheets in accordance with ASC 360, at June 30, 2018 and September 30, 2017.
 In addition, the results of operations for the Germany business have been presented as discontinued operations for all periods presented.
@@ -26,16 +13,4 @@ The increase in operating expenses was primarily the result of higher compensati
 Our income tax expense decreased by approximately $144 thousand to $249 thousand for the three months ended June 30, 2018 as compared to an income tax expense of $393 thousand for the three months ended June 30, 2017.
 The decrease to the income tax expense was primarily due to the decrease in operating income.
 The $0.2 million increase in the U.K. division product revenues was primarily the result of increased product shipments to two customers.
-The decrease in TS segment product revenues was partially offset by an increase in TS segment service revenues of $0.9 million during the period.
-The $0.9 million increase in the U.S. division service revenues was substantially the result of a $0.8 million increase in internal services and a $0.3 million increase in managed service contracts, partially offset by a decrease in third party maintenance revenues of $0.2 million.
-The engineering and development expenses incurred by our HPP segment were $0.9 million and $0.6 million for the three months ended June 30, 2018 and 2017, respectively.
-The current period expenses were primarily for product engineering expenses incurred in connection with the development of the new ARIA security products.
-The increased engineering and development expenses for the three month period ended June 30, 2018 as compared to the three month period ended June 30, 2017 is primarily attributed to an increase in engineering headcount related expenses combined with increased consulting costs.
-The tax rate for the quarter increased to 36.6% due to tax expense in the U.K. for the large gain in foreign exchange, the adjustments of tax accounts for annual tax returns filed in the quarter, and reversal of tax benefit from the prior period.
-
-
-item4.txt
-The Company evaluated the effectiveness of the design and operation of our disclosure controls and procedures as of June 30, 2018.
-The term “disclosure controls and procedures,” as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, means controls and other procedures of a company that are designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC's rules and forms.
-
-
+The decrease in TS segment product revenues was partially offset by an increase in TS segment service revenues of $0.9 million during the period.The Company evaluated the effectiveness of the design and operation of our disclosure controls and procedures as of June 30, 2018.

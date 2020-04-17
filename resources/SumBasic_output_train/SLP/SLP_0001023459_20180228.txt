@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 Simulations Plus, Inc.
 This report on Form 10-Q for the quarter ended February 28, 2018, should be read in conjunction with the Company's annual report on Form 10-K for the year ended August 31, 2017, filed with the Securities and Exchange Commission (“SEC”) on November 14, 2017.
 As contemplated by the SEC under Article 8 of Regulation S-X, the accompanying consolidated financial statements and footnotes have been condensed and therefore do not contain all disclosures required by generally accepted accounting principles.
@@ -10,15 +5,7 @@ The interim financial data are unaudited; however, in the opinion of Simulations
 On September 2, 2014, Simulations Plus, Inc. acquired all of the outstanding equity interests of Cognigen Corporation (“Cognigen”, “Buffalo”) and Cognigen became a wholly owned subsidiary of Simulations Plus, Inc. Simulations Plus, Inc., acquired DILIsym Services, Inc. (DILIsym) as a wholly owned subsidiary pursuant to a stock purchase agreement dated May 1, 2017.
 Recently, the Company has begun to explore developing software applications for defense and for health care outside of the pharmaceutical industry.
 Certain numbers in the prior year have been reclassified to conform to the current year's presentation.
-As a byproduct of ongoing improvements and upgrades for the new programs and new modules of software, some modifications are provided to our customers who have already purchased software at no additional charge.
-Other software modifications result in new, additional-cost modules that expand the functionality of the software.
-These are licensed separately.
-The Company provides, for a fee, additional training and service calls to its customers and recognizes revenue at the time the training or service call is provided.
-We recognize revenue on these contracts when all the criteria are met.
-
-
-item2.txt
-Item 2.
+As a byproduct of ongoing improvements and upgrades for the new programs and new modules of software, some modifications are provided to our customers who have already purchased software at no additional charge.Item 2.
 The forward-looking statements contained or incorporated by reference in this document are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (“Securities Act”) and Section 21E of the Securities Exchange Act of 1934, as amended (“Exchange Act”) and are subject to the safe harbor created by the Private Securities Litigation Reform Act of 1995.
 The difference between DILIsym and NAFLDsym is that DILIsym estimates the potential for a particular drug molecule to induce liver injury (i.e., to cause damage), while NAFLDsym estimates the likelihood of new molecules to treat nonalcoholic fatty liver disease (i.e., to repair damage), and is unique to the mechanisms involved in such treatment.
 Both the DILIsym and NAFLDsym software programs require outputs from physiologically based pharmacokinetics (PBPK) software as inputs.
@@ -28,22 +15,3 @@ We believe our investment to participate in this initiative enabled us to benefi
 As one of only two U.S. participants, Simulations Plus is participating in activities designed to advance particle designs for improved deposition and interaction with lung tissue; promote realistic computer simulations of particle aerosolization, delivery, and deposition; promote patient-tailored inhaled medicines; promote integration of device and formulation design; and promote critical assessment of toxicity issues and related risks.
 In September 2014, we entered into a research collaboration agreement (RCA) with the FDA to enhance the Ocular Compartmental Absorption and Transit (OCAT™) model within the Additional Dosing Routes Module of GastroPlus.
 The objective of this agreement was to provide a tool for generic companies and the FDA to assess the likely bioequivalence of generic drug formulations dosed to the eye.
-Under this RCA, we received up to $200,000 per year.
-The objective of this RCA, which has a five-year term, is directed toward the FDA’s evaluation of mechanistic IVIVCs (in vitro-in vivo correlations) to determine whether mechanistic absorption modeling (MAM) can relate laboratory (in vitro) dissolution experiment results to the behavior of dosage forms in humans and animals (in vivo) better than traditional empirical methods.
-This version will add a number of important new capabilities, including improvements to absorption, metabolism, drug-drug interaction, and output reporting, among others.
-This version added new formulation types (controlled release bilayer tablet, delayed release coated tablet, and immediate release coated beads), expanded formulation specification options, biorelevant solubilities and surfactant effects on dissolution, tablet compression and disintegration models, links with GastroPlus, and updated licensing.
-Current improvements in development and testing include new capabilities to simulate in vitro dissolution experiments for long-acting injectable microspheres as part of our work under the FDA-funded grant mentioned above.
-
-
-item3.txt
-As of February 28, 2018 and August 31, 2017, we had cash and cash equivalents of $6.92 million and $6.22 million, respectively.
-
-
-item4.txt
-
-
-
-part2.txt
-Item 1.
-
-

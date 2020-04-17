@@ -1,8 +1,3 @@
-fls.txt
-This Quarterly Report on Form 10-Q, including the documents incorporated herein by reference, contains forward-looking statements that anticipate results based on our estimates, assumptions and plans that are subject to uncertainty.
-
-
-item1.txt
 We are the world’s leading cloud software company powering social good.
 Our portfolio is tailored to the unique needs of vertical markets, with solutions for fundraising and CRM, marketing, advocacy, peer-to-peer fundraising, corporate social responsibility, school management, ticketing, grantmaking, financial management, payment processing and analytics.
 Certain information and footnote disclosures normally included in annual financial statements prepared in accordance with GAAP have been omitted in accordance with the rules and regulations for interim reporting of the SEC.
@@ -10,15 +5,7 @@ All intercompany balances and transactions have been eliminated in consolidation
 ASU 2016-02 requires lessees to record most leases on their balance sheet but recognize expenses in the income statement in a manner similar to previous guidance.
 The way in which entities classify leases determines how to recognize lease-related revenue and expense.
 Adopting ASU 2016-02 had a material impact on our consolidated balance sheet as of January 1, 2019, as we recognized $121.6 million of lease liabilities and $113.4 million of right-of-use ("ROU") assets for those leases classified as operating leases.
-We determine if an arrangement is a lease at inception.
-As most of our leases do not provide an implicit rate, we use our incremental borrowing rate based on the information available at commencement date in determining the present value of lease payments.
-Our lease terms may include options to extend or terminate the lease when it is reasonably certain that we will exercise that option.
-We do not recognize short-term leases (those that, at the commencement date, have a lease term of 12 months or less) on our consolidated balance sheets.
-Variable lease payments, which are primarily comprised of common-area maintenance, utilities and real estate taxes that are passed on from the lessor in proportion to the space leased by us, are recognized in operating expenses in the period in which the obligation for those payments is incurred.
-
-
-item2.txt
-We are the world’s leading cloud software company powering social good.
+We determine if an arrangement is a lease at inception.We are the world’s leading cloud software company powering social good.
 Our portfolio is tailored to the unique needs of vertical markets, with solutions for fundraising and CRM, marketing, advocacy, peer-to-peer fundraising, corporate social responsibility, school management, ticketing, grantmaking, financial management, payment processing and analytics.
 Our Blackbaud SKY™ platform is a core tenant of this strategy and continues to power an elevated level of innovation by our engineers.
 It is also enabling our growing ecosystem of partners who are also passionate about social good, to create new capabilities that often look and feel like Blackbaud-built capabilities.
@@ -28,23 +15,3 @@ For example, we are also well underway with early adopters in our Higher Educati
 We have spent the last several years organizing for scale and laying the foundation for our salespeople to be more successful.
 This year marks an important milestone in that process as the structural transformation in sales is now largely complete, enabling our account executives to focus on leading with total solution selling by vertical, driving more products per customer, higher ASPs and overall increased customer lifetime value.
 This effort extends beyond our sales organization into areas like marketing, where we are investing in the necessary technology and resources to efficiently drive an increased number of quality leads and better cover our large addressable market.
-Over the last three years, we've tripled the number of account executives dedicated to prospect accounts, and these investments are just one way we're equipping our growing salesforce to be more effective.
-In January 2019, we acquired YourCause, a market leader in corporate social responsibility software, and our ability to move fast on back-office integration is enabling us to further differentiate our solutions from the competition.
-As corporate social responsibility programs are implemented around the world, it is becoming increasingly important for companies to have acute local knowledge in the countries where employees are accessing their programs and to remove any functionality barriers.
-We recently announced expansion in YourCause's global footprint by developing in-market partnerships to advance employee giving and nonprofit support globally, while also implementing key product features for universal functionality.
-We are also focused on operational efficiency to strengthen the business and position us for long-term success.
-This continuous effort spans the entire organization as we drive towards a more scalable operating model that creates efficiency and consistency in how we execute through infrastructure investments, productivity initiatives, and organizational re-alignments.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-
-
-

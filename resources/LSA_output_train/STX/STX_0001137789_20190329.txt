@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 In addition to HDDs, the Company produces a broad range of data storage products including solid state drives (SSDs) and storage subsystems.
 Hard disk drives are devices that store digitally encoded data on rapidly rotating disks with magnetic surfaces.
 Disk drives continue to be the primary medium of mass data storage due to their performance attributes, high quality and cost effectiveness.
@@ -13,37 +8,8 @@ The Companys consolidated financial statements for the fiscal year ended June 
 The Company operates and reports financial results on a fiscal year of 52 or 53 weeks ending on the Friday closest to June 30.
 Fiscal year 2019, which ends on June 28, 2019, and fiscal year 2018, which ended on June 29, 2018, are both comprised of 52 weeks.
 The Company records estimated variable consideration at the time of revenue recognition as a reduction to net revenue.
-For OEM sales, rebates are typically established by estimating the most likely amount of consideration expected to be received based on an OEM customers volume of purchases from Seagate or other agreed upon rebate programs.
-In February 2016 and July 2018, the Financial Accounting Standards Board (FASB) issued Accounting Standard Update (ASU) 2016-02 (ASC Topic 842), Leases ASU 2018-10, Codification Improvements to Topic 842, and Leases, ASU 2018-11, Leases (ASC Topic 842), Target Improvements, respectively.
-These ASUs amend a number of aspects of lease accounting, including requiring lessees to recognize operating leases with a term greater than one year on their balance sheet as a right-of-use asset and corresponding lease liability, measured at the present value of the lease payments.
-In August 2018, the FASB issued ASU 2018-15 (ASC Subtopic 350-40), Intangibles - Goodwill and Other - Internal-Use Software - Customers Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That is a Service Contract.
-This ASU aligns the accounting for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the accounting for implementation costs incurred to develop or obtain internal-use software.
-In May 2014, the FASB issued ASU 2014-09 (ASC Topic 606), Revenue from Contracts with Customers, and FASB also issued certain interpretive clarifications on this new guidance which outlines a single comprehensive model for entities to use in accounting for revenue arising from contracts with customers and supersedes the revenue recognition guidance under ASC 605.
-As of March 29, 2019, the Company had no material available-for-sale debt securities that had been in a continuous unrealized loss position for a period greater than 12 months.
-
-
-item2.txt
-We operate and report financial results on a fiscal year of 52 or 53 weeks ending on the Friday closest to June 30.
+For OEM sales, rebates are typically established by estimating the most likely amount of consideration expected to be received based on an OEM customers volume of purchases from Seagate or other agreed upon rebate programs.We operate and report financial results on a fiscal year of 52 or 53 weeks ending on the Friday closest to June 30.
 Risk Factors of our Annual Report on Form 10-K for the fiscal year ended June 29, 2018, which we encourage you to carefully read.
 Highlights of events in the March 2019 quarter that impacted our financial position.
 We are a leading provider of data storage technology and solutions.
-In addition to HDDs, we produce a broad range of data storage products including solid state drives (SSD) and storage subsystems.
-Disk drives continue to be the primary medium of mass data storage due to their performance attributes, high quality and cost effectiveness.
-Complementing existing data center storage architecture, solid-state storage devices use integrated circuit assemblies as memory to store data, and most SSDs use NAND flash memory.
-Our HDD products are designed for mission critical and nearline applications in enterprise servers and storage systems; edge compute applications, where our products are designed primarily for desktop and mobile computing; and edge non-compute applications, where our products are designed for a wide variety of end user devices such as portable external storage systems, surveillance systems, digital video recorders (DVRs), network-attached storage (NAS) and gaming consoles.
-
-
-item3.txt
-We determined no available-for-sale debt securities were other-than-temporarily impaired as of March 29, 2019.
-The table below presents principal amounts and related weighted-average interest rates by year of maturity for our investment portfolio and debt obligations as of March 29, 2019.
-We hedge portions of our foreign currency denominated balance sheet positions with foreign currency forward exchange contracts to reduce the risk that our earnings will be adversely affected by changes in currency exchange rates.
-
-
-item4.txt
-
-
-
-part2.txt
-For a discussion of legal proceedings, see Part I, Item 1.
-
-
+In addition to HDDs, we produce a broad range of data storage products including solid state drives (SSD) and storage subsystems.We determined no available-for-sale debt securities were other-than-temporarily impaired as of March 29, 2019.For a discussion of legal proceedings, see Part I, Item 1.

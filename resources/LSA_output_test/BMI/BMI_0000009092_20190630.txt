@@ -1,4 +1,3 @@
-item1.txt
 Historically, the Company maintained a non-contributory defined benefit pension plan that covered substantially all U.S. employees who were employed on December 31, 2011.
 After that date, no further benefits were accrued in this plan.
 For the frozen pension plan, benefits were based primarily on years of service and, for certain individuals, levels of compensation.
@@ -8,16 +7,7 @@ Employees are eligible to receive postretirement healthcare benefits upon meetin
 No employees hired after October 31, 2004 are eligible to receive these benefits.
 This plan requires employee contributions to offset benefit costs.
 The Company disclosed in its financial statements for the year ended December 31, 2018 that it estimated it would pay $0.4 million in other postretirement benefits in 2019 based on actuarial estimates.
-The amount of benefits paid in calendar year 2019 will not impact the expense for postretirement benefits for 2019.
-This accumulated other comprehensive income (loss) component resulted from an international pension plan settlement.
-There is an additional $2.0 million of contingent payments related to the D-Flow acquisition that is anticipated to be made in 2019 which is recorded in payables on the Company’s Consolidated Balance Sheet at June 30, 2019.
-There are currently no material legal proceedings pending with respect to the Company.
-Expenditures for compliance with environmental control provisions and regulations during 2018 and the first two quarters of 2019 were not material.
-The Company attempts to mitigate these risks by working closely with key suppliers, purchasing minimal amounts from alternative suppliers and by purchasing business interruption insurance where appropriate.
-
-
-item2.txt
-The majority of water meters sold by the Company continue to be mechanical in nature; however, ultrasonic meters are gaining in penetration due to a variety of factors, including their ability to maintain near absolute measurement accuracy over their useful life.
+The amount of benefits paid in calendar year 2019 will not impact the expense for postretirement benefits for 2019.The majority of water meters sold by the Company continue to be mechanical in nature; however, ultrasonic meters are gaining in penetration due to a variety of factors, including their ability to maintain near absolute measurement accuracy over their useful life.
 Meters equipped with radio technology (endpoints) receive flow measurement data from battery-powered encoder registers attached to the water meter, which is encrypted and transmitted via radio frequency to a receiver that collects and formats the data appropriately for water utility usage and billing systems.
 These remotely read systems are classified as either automatic meter reading (AMR) systems, where a vehicle equipped for meter reading purposes, including a radio receiver, computer and reading software, collects the data from utilities’ meters; or advanced metering infrastructure (AMI) systems, where data is gathered utilizing a network (either fixed or cellular) of data collectors or gateway receivers that are able to receive radio data transmission from the utilities’ meters.
 These systems provide the utilities with more frequent and diverse data from their meters at specified intervals.
@@ -26,18 +16,3 @@ BEACON AMA is a secure, cloud-hosted software suite that includes a customizable
 It also allows for consumer engagement tools that permit end water users (such as homeowners) to view and manage their water usage activity.
 Water meter replacement and the adoption and deployment of new technology comprise the majority of water meter product sales, including radio products.
 Over the last decade, there has been a growing trend in the conversion from manually read water meters to meters with radio technology.
-This conversion rate is accelerating, with the Company estimating that approximately 60% of water meters installed in the United States have been converted to a radio solution technology.
-The Company’s proprietary radio products (i.e. Flow instrumentation products are used in flow measurement and control applications across a broad industrial spectrum, occasionally leveraging the same technologies used in the municipal water category.
-Specialized communication protocols that control the entire flow measurement process and mandatory certifications drive these markets.
-This system-wide scrutiny has heightened the focus on flow instrumentation in industrial process, manufacturing, commercial fluid, building automation and precision engineering applications where flow measurement and control are critical.
-Specifically, AMI technology enables water utilities to capture readings from each meter at more frequent and variable intervals.
-
-
-item4.txt
-
-
-
-part2.txt
-
-
-

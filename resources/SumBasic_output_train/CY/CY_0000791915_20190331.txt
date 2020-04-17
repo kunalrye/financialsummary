@@ -1,8 +1,3 @@
-fls.txt
-This Quarterly Report on Form 10-Q (this "Quarterly Report") contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended.
-
-
-item1.txt
 Fiscal years 2019 and 2018 each contain(ed) 52 weeks.
 The consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States ("GAAP") and include the accounts of Cypress Semiconductor Corporation and its subsidiaries.
 All intercompany transactions and balances have been eliminated in consolidation.
@@ -15,33 +10,6 @@ The Company has elected the practical expedient within ASC Topic 842 to not sepa
 The terms and conditions of the subleases are commensurate with the terms and conditions within the original operating leases.
 When discount rates implicit in leases cannot be readily determined, the Company uses the applicable incremental borrowing rate at lease commencement to perform lease classification tests on lease components and to measure lease liabilities and ROU assets.
 commensurate with the Company’s secured borrowing rate, over a similar term.
-The standard introduces new requirements to increase transparency and comparability among organizations for leasing transactions for both lessees and lessors.
-2016-02 requires a lessee to record a right-of-use asset and a lease liability for all leases with terms longer than 12 months.
-These leases will be either finance or operating, with classification affecting the pattern of expense recognition.
-The Company adopted ASC Topic 842, as of December 31, 2018 and applied the alternative modified retrospective transition method requiring application of the new guidance to all leases existing at, or entered into on or after, the date of adoption, i.e. December 31, 2018.
-On April 1, 2019, the Company closed the transfer of its NAND business to a newly-formed joint venture between the Company and SK hynix system ic ("SKHS").
-The joint venture entity will be called SkyHigh Memory Limited ("SkyHigh") and its headquarter will be in Hong Kong, China.
-Additionally, Cypress will provide certain transition and back-end manufacturing services to SkyHigh.
-
-
-item2.txt
-Cypress manufactures and sells advanced embedded system solutions for automotive, industrial, consumer and enterprise end markets.
+The standard introduces new requirements to increase transparency and comparability among organizations for leasing transactions for both lessees and lessors.Cypress manufactures and sells advanced embedded system solutions for automotive, industrial, consumer and enterprise end markets.
 Cypress is committed to providing customers with quality support and engineering resources.
-Microcontroller and Connectivity Division  MCD focuses on connectivity and computing solutions for the Internet of Things and automotive solutions that enhance the in-cabin user experience.
-The portfolio includes Wi-Fi® and Bluetooth® and Bluetooth Low Energy (BLE), and Wi-Fi plus Bluetooth combo solutions; Traveo™ automotive MCUs, PSoC® programmable MCUs and general-purpose MCUs; CapSense® capacitive-sensing controllers and automotive TrueTouch® touchscreen solutions; a broad line of USB controllers, including solutions for the USB-C and USB Power Delivery standards; and analog PMIC Power Management ICs.
-The portfolio includes specialized, high-performance parallel and serial NOR flash memories, static random access memories ("SRAM"), F-RAM™ ferroelectric memory devices, nonvolatile SRAMs ("nvSRAM"), and other specialty memories.
-
-
-item3.txt
-Our investment portfolio consists of a variety of financial instruments that expose us to interest rate risk, including, but not limited to, money market funds, and certificates of deposit.
-
-
-item4.txt
-In designing and evaluating our disclosure controls and procedures, management recognized that disclosure controls and procedures, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the disclosure controls and procedures are met.
-
-
-part2.txt
-The joint venture entity, SkyHigh Memory Limited ("SkyHigh") is controlled by SKHS.
-Upon launch, SkyHigh entered into a wafer supply agreement with SKH, and back-end manufacturing and transition services agreements with Cypress.
-
-
+Microcontroller and Connectivity Division  MCD focuses on connectivity and computing solutions for the Internet of Things and automotive solutions that enhance the in-cabin user experience.Our investment portfolio consists of a variety of financial instruments that expose us to interest rate risk, including, but not limited to, money market funds, and certificates of deposit.The joint venture entity, SkyHigh Memory Limited ("SkyHigh") is controlled by SKHS.

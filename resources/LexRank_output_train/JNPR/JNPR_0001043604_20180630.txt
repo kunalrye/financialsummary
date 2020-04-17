@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 Accordingly, they do not include all of the information and footnotes required by U.S. GAAP for complete financial statements.
 The results of operations for the three and six months ended June 30, 2018 are not necessarily indicative of the results that may be expected for the year ending December 31, 2018, or any future period.
 Except for the change in certain policies upon adoption of the accounting standards described below, there have been no material changes to the Company's significant accounting policies, compared to the accounting policies described in Note 2, Significant Accounting Policies, in Notes to Consolidated Financial Statements in Item 8 of Part II of the Form 10-K. Revenue is recognized when promised goods or services are transferred to customers in an amount that reflects the consideration to which the Company expects to be entitled in exchange for those goods or services by following a five-step process, (1) identify the contract with a customer, (2) identify the performance obligations in the contract, (3) determine the transaction price, (4) allocate the transaction price, and (5) recognize revenue when or as the Company satisfies a performance obligation, as further described below.
@@ -12,35 +7,11 @@ The transaction price for the Company’s contracts with its customers consists 
 The Company’s contracts with customers typically do not include significant financing components as the period between the transfer of performance obligations and timing of payment are generally within one year.
 Revenue for hardware and certain software licenses, are recognized at a point in time, which is generally upon shipment or delivery.
 Certain software licenses combined with post-contract support are recognized over time on a ratable basis over the term of the license.
-Revenue for maintenance and software post-contract support is recognized over time on a ratable basis over the contract term.
-Revenue from training and professional services is recognized over time as services are completed or ratably over the contractual period of generally one year or less.
-For available-for-sale debt securities that have unrealized losses, the Company assesses impairment by evaluating various factors, including whether (i) it has the intention to sell any of these investments and (ii) whether it is more likely than not that it will be required to sell any of these investments before recovery of the entire amortized cost basis.
-The gross unrealized losses related to these investments were primarily due to changes in market interest rates.
-The Company anticipates that it will recover the entire amortized cost basis of such available-for-sale debt securities and has determined that no other-than-temporary impairments associated with credit losses were required to be recognized during the three and six months ended June 30, 2018 and June 30, 2017.
-During the three and six months ended June 30, 2018 and June 30, 2017, there were no material gross realized gains or losses from available-for-sale debt securities.
-
-
-item2.txt
-In making these decisions, we consider various factors, including contractual obligations, customer satisfaction, competition, internal and external financial targets and expectations, and financial planning objectives.
-Each of these decisions has some impact on the financial results for any given period.
-To aid in understanding our operating results for the periods covered by this Report, we have provided an executive overview, which includes a summary of our business and market environment along with a financial results and key performance metrics overview.
-
-
-item4.txt
-
-
-
-part2.txt
-Investments in our securities involve significant risks.
+Revenue for maintenance and software post-contract support is recognized over time on a ratable basis over the contract term.In making these decisions, we consider various factors, including contractual obligations, customer satisfaction, competition, internal and external financial targets and expectations, and financial planning objectives.
+Each of these decisions has some impact on the financial results for any given period.Investments in our securities involve significant risks.
 For example, we, and many companies in our industry, experience adverse seasonal fluctuations in customer spending, particularly in the first quarter.
 Further, we will continue to remain diligent in our long-term financial objective to increase revenue and operating margins and manage our operating expenses as a percentage of revenue.
 We can provide no assurance that we will be able to achieve all or any of the goals of these plans or meet our announced expectations, in whole or in part, or that our plans will have the intended effect of improving our margins on the expected timeline, or at all.
 A limited number of our customers comprise a material portion of our revenues and any changes in the way they purchase products and services from us could affect our business.
 A material portion of our net revenues, across each customer vertical, depends on sales to a limited number of customers and distribution partners.
 A substantial portion of our business and revenues depends on the growth of secure IP infrastructure and on the deployment of our products by customers that depend on the continued growth of IP services.
-As a result of changes in the economy, capital spending or the building of network capacity in excess of demand, all of which have in the past particularly affected telecommunications service providers, spending on IP infrastructure can vary, which could have a material adverse effect on our business, financial condition, and results of operations.
-For example, in recent quarters, our switching and routing results were adversely affected by spending delays from our largest Cloud customers, who we believe are in the process of implementing a networking architectural shift.
-The routing and switching markets have historically been dominated by Cisco, with competition coming from other companies such as Nokia Corporation (following its acquisition of Alcatel-Lucent), Arista, HPE, and Huawei.
-The introduction of new software products and services is part of our intended strategy to expand our software business, and certain software revenues may be recognized periodically over the term of the relevant use period or subscription period.
-
-

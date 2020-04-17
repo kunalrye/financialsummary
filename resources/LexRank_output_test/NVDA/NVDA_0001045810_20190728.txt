@@ -1,46 +1,16 @@
-item1.txt
+The accompanying unaudited condensed consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States of America, or U.S. GAAP, for interim financial information and with the instructions to Form 10-Q and Article 10 of Securities and Exchange Commission, or SEC, Regulation S-X.
+In the opinion of management, all adjustments, consisting only of normal recurring adjustments considered necessary for a fair statement of results of operations and financial position have been included.
 Except for the accounting policy for leases, which was updated as a result of adopting a new accounting standard related to leases, there have been no material changes to our significant accounting policies in Note 1 - Organization and Summary of Significant Accounting Policies, of the Notes to the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019.
 Operating leases with lease terms of more than 12 months are included in operating lease assets, accrued and other current liabilities, and long-term operating lease liabilities on our consolidated balance sheet.
+Operating lease assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments over the lease term.
 Operating lease assets and liabilities are recognized based on the present value of the remaining lease payments discounted using our incremental borrowing rate.
-Lease expense is recognized on a straight-line basis over the lease term.
-We will be required to use a forward-looking expected credit loss model for accounts receivable and other financial instruments, including available-for-sale debt securities.
-The standard will be effective for us beginning in the first quarter of fiscal year 2021, with early adoption permitted.
-We are currently evaluating the impact of this standard on our Consolidated Financial Statements.
-Note 2 - Merger Agreement with Mellanox Technologies, Ltd. On March 10, 2019, we entered into an Agreement and Plan of Merger, or the Merger Agreement, with Mellanox Technologies Ltd., or Mellanox, pursuant to which we will acquire all of the issued and outstanding common shares of Mellanox for $125 per share in cash, representing a total enterprise value of approximately $6.9 billion as of the date of the Merger Agreement.
-On January 28, 2019, we adopted the new lease accounting standard using the optional transition method by recognizing a cumulative-effect adjustment to the consolidated balance sheet and not adjusting comparative information for prior periods.
-The cumulative-effect adjustment upon adoption of the new lease accounting standard resulted in the recognition of $470 million of operating lease assets and $500 million of operating lease liabilities on our Consolidated Balance Sheet.
-Operating lease expense for the second quarter and first half of fiscal year 2020 was $28 million and $55 million, respectively.
-Operating lease expense for the second quarter and first half of fiscal year 2019 was $20 million and $36 million, respectively.
-Short-term and variable lease expenses for the second quarter and first half of fiscal year 2020 were not significant.
-
-
-item2.txt
-Revenue for the second quarter of fiscal year 2020 decreased 17% year over year and increased 16% sequentially.
+We combine the lease and non-lease components in determining the operating lease assets and liabilities.
+All intercompany balances and transactions have been eliminated in consolidation.Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998.
+The sequential increase reflects growth from SOC modules for gaming platforms, gaming notebook GPUs, and GeForce RTX SUPER gaming GPUs.
+The sequential increase was due to enterprise revenue growth driven by expanding AI workloads.
 The year-on-year and sequential growth was primarily driven by a development services agreement in the second quarter of fiscal year 2020.
-On March 10, 2019, we entered into an Agreement and Plan of Merger, or the Merger Agreement, with Mellanox, pursuant to which we will acquire all of the issued and outstanding common shares of Mellanox for $125 per share in cash, representing a total enterprise value of approximately $6.9 billion as of the date of the Merger Agreement.
-In our Data Center platform, we introduced the NVIDIA CUDA-X AI platform for accelerating data science; announced availability of NVIDIA T4 Tensor Core GPUs from leading OEMs and Amazon Web Services; partnered with global system builders to create powerful data-science workstations integrating NVIDIA Quadro RTX GPUs and NVIDIA CUDA-X AI; and launched beta access to NVIDIA Quadro Virtual Workstation software in the Alibaba Cloud Marketplace.
-GPU business revenue decreased by 21% in the second quarter of fiscal year 2020 compared to the second quarter of fiscal year 2019, which reflects declines in gaming GPU and Data Center revenue.
-GPU business revenue decreased by 24% in the first half of fiscal year 2020 compared to the first half of fiscal year 2019, which reflects declines in gaming GPU and Data Center revenue.
-Tegra Processor business revenue increased by 2% for the second quarter of fiscal year 2020 compared to the second quarter of fiscal year 2019.
-This was driven by an increase of 30% in Automotive revenue primarily driven by a development services agreement in the second quarter of fiscal year 2020.
-Tegra Processor business revenue decreased by 26% for the first half of fiscal year 2020 compared to the first half of fiscal year 2019.
-Growth in Automotive revenue primarily reflects a development services agreement in the second quarter of fiscal year 2020, AI cockpit solutions, and other autonomous vehicle development agreements.
-As a result, the overall net effect on our gross margin was an unfavorable impact of 0.4% and 0.3% for the second quarter of fiscal years 2020 and 2019, respectively.
-As a result, the overall net effect on our gross margin was an unfavorable impact of 0.9% and 0.6% for the first half of fiscal years 2020 and 2019, respectively.
-The gross margin of our GPU business decreased during the second quarter and first half of fiscal year 2020 compared to the second quarter and first half of fiscal year 2019, primarily reflecting lower gaming GPU and data center margins driven by product costs.
-The gross margin of our Tegra Processor business increased during the second quarter of fiscal year 2020 compared to the second quarter of fiscal year 2019, primarily driven by automotive development services.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019 for a prior discussion of our legal proceedings.
-Refer to the description of the risk factors associated with our business previously disclosed in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 27, 2019.
-
-
+OEM and Other revenue was $111 million, down 4% from a year ago and up 12% sequentially.
+The sequential increase was primarily due to growth in shipments of embedded edge AI products.
+Income from operations for the second quarter of fiscal year 2020 was $571 million, down 51% from a year earlier and up 59% sequentially.
+Net income and net income per diluted share for the second quarter of fiscal year 2020 were $552 million and $0.90, respectively, down 50% and 49%, respectively, from a year earlier, and up 40% and 41%, respectively, sequentially.
+We previously communicated our intent to return $3.00 billion to shareholders by the end of fiscal year 2020, including $700 million in share repurchases made during the fourth quarter of fiscal year 2019.Refer to Part I, Item 1, Note 13 of the Notes to Condensed Consolidated Financial Statements for a discussion of significant developments in our legal proceedings since January 27, 2019.

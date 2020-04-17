@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 Fiscal years 2018 and 2017 each contained 52 weeks.
 The consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States (“U.S.
 All intercompany transactions and balances have been eliminated in consolidation.
@@ -15,34 +10,6 @@ There was no impact on the opening accumulated deficit as of January 1, 2018 due
 The Company's revenue arrangements do not contain significant financing components.
 We then select an appropriate method for measuring progress toward complete satisfaction of the performance obligation, usually costs incurred to date relative to the total expected costs to the satisfaction of that performance obligation.
 In November 2016, the FASB issued ASU 2016-18 Restricted Cash, which requires amounts generally described as restricted cash and restricted cash equivalents be included with cash and cash equivalents when reconciling the total beginning and ending amounts for the periods shown on the statement of cash flows.
-The Company adopted the provisions of ASU 2016-18 as of January 1, 2018.
-These errors consisted primarily of errors in certain assumptions and calculations used in the determination of non-cash stock-based compensation primarily relating to the Employee Share Purchase Program (“ESPP”).
-For the three months ended April 1, 2018, we are presenting comparative fiscal 2017 quarterly information.
-During the fourth quarter of fiscal 2017, the Company determined that its investment in Enovix, which is accounted for as an equity method investment, had suffered an other-than temporary impairment primarily because Enovix had not achieved certain key planned product development milestones.
-The Company held 41.2% of Enovix's outstanding voting shares as of April 1, 2018.
-The below table presents the changes in carrying value of the equity method investments related to Deca.
-The carrying value of the Company's revolving credit facility approximates its fair value since it bears an interest rate that is comparable to rates on similar credit facilities and is determined using Level 2 inputs.
-The Company's 2% 2023 Exchangeable Notes are traded in the secondary market and the fair value is determined using Level 2 inputs.
-
-
-item2.txt
-Cypress Semiconductor Corporation (“Cypress” or “the Company”) manufactures and sells advanced embedded system solutions for automotive, industrial, smart home appliances, consumer electronics and medical products.
+The Company adopted the provisions of ASU 2016-18 as of January 1, 2018.Cypress Semiconductor Corporation (“Cypress” or “the Company”) manufactures and sells advanced embedded system solutions for automotive, industrial, smart home appliances, consumer electronics and medical products.
 MCD focuses on high-performance microcontroller (MCU), analog and wireless and wired connectivity solutions.
-The portfolio includes Traveo™ automotive MCUs, PSoC® programmable MCUs and general-purpose MCUs with ARM® Cortex®-M4, -M3, -M0+ and R4 CPUs, analog PMIC Power Management ICs, CapSense® capacitive-sensing controllers, TrueTouch® touchscreen, Wi-Fi®, Bluetooth®, Bluetooth Low Energy and ZigBee® solutions and the WICED® development platform, and a broad line of USB controllers, including solutions for the USB-C and USB Power Delivery (PD) standards.
-Memory Products Division  MPD focuses on specialized, high-performance parallel and serial NOR flash memories, NAND flash memories, static random access memory (SRAM), F-RAM™ ferroelectric memory devices, non-volatile SRAM (nvSRAM), other specialty memories and timing solutions.
-This division also includes our subsidiary AgigA Tech Inc.
-
-
-item3.txt
-Our debt obligations consist of a variety of financial instruments that expose us to interest rate risk, including, but not limited to our revolving credit facility, Term Loans and Exchangeable Notes.
-our Term Loans is at variable rates.
-
-
-item4.txt
-In designing and evaluating our disclosure controls and procedures, management recognized that disclosure controls and procedures, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the disclosure controls and procedures are met.
-
-
-part2.txt
-•inadequate levels of compliance with applicable anti-bribery laws, including the Foreign Corrupt Practices Act.
-
-
+The portfolio includes Traveo™ automotive MCUs, PSoC® programmable MCUs and general-purpose MCUs with ARM® Cortex®-M4, -M3, -M0+ and R4 CPUs, analog PMIC Power Management ICs, CapSense® capacitive-sensing controllers, TrueTouch® touchscreen, Wi-Fi®, Bluetooth®, Bluetooth Low Energy and ZigBee® solutions and the WICED® development platform, and a broad line of USB controllers, including solutions for the USB-C and USB Power Delivery (PD) standards.Our debt obligations consist of a variety of financial instruments that expose us to interest rate risk, including, but not limited to our revolving credit facility, Term Loans and Exchangeable Notes.

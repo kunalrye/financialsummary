@@ -1,8 +1,3 @@
-fls.txt
-This Quarterly Report on Form 10-Q contains statements that are not historical in nature, are predictive in nature, or that depend upon or refer to future events or conditions or otherwise contain forward-looking statements within the meaning of Section 21 of the Securities Exchange Act of 1934, as amended, and the Private Securities Litigation Reform Act of 1995.
-
-
-item1.txt
 We believe that all necessary adjustments, which consisted only of normal recurring items, have been included in the accompanying financial statements to present fairly the results of the interim periods.
 Impacts of the U.S. 2017 Tax Cuts and Jobs Act The comparability of our operating results in the third quarter and first nine months of fiscal 2018 compared to the corresponding prior year periods, and of our consolidated balance sheets as of February 28, 2018 relative to May 31, 2017, was impacted by the U.S. 2017 Tax Cuts and Jobs Act (the Act), which was signed into law on December 22, 2017.
     a $7.6 billion expense related to the application of the one-time transition tax to certain foreign subsidiary earnings that were generated prior to December 31, 2017, which expense was substantially recorded to non-current income taxes payable in our consolidated balance sheet and which corresponds to the amount we currently expect to periodically settle over an eight year period as provided by the Act; The net expense related to the enactment of the Act has been accounted for during the third quarter and first nine months of fiscal 2018 based on provisional estimates pursuant to the SEC Staff Accounting Bulletin No.
@@ -10,16 +5,7 @@ Restricted cash that was included within cash and cash equivalents as presented 
 Acquisition related and other expenses consist of personnel related costs and stock-based compensation for transitional and certain other employees, integration related professional services, certain business combination adjustments including certain adjustments after the measurement period has ended and certain other operating items, net.
 Non-operating income, net consists primarily of interest income, net foreign currency exchange losses, the noncontrolling interests in the net profits of our majority-owned subsidiaries (primarily Oracle Financial Services Software Limited and Oracle Japan) and net other income, including net realized gains and losses related to all of our investments and net unrealized gains and losses related to the small portion of our investment portfolio that we classify as trading.
 We offer certain of our customers the option to acquire our software products, hardware products and services offerings through separate long-term payment contracts.
-Financing receivables sold to financial institutions were $360 million and $1.3 billion for the three and nine months ended February 28, 2018, respectively, and $296 million and $1.3 billion for the three and nine months ended February 28, 2017, respectively.
-During the first nine months of fiscal 2018, we entered into certain non-material agreements to acquire certain companies and expect these proposed acquisitions to close during the fourth quarter of fiscal 2018.
-Fiscal 2017 Acquisition of NetSuite Inc., a Related Party We acquired NetSuite to, among other things, expand our cloud software as a service offerings with a complementary set of cloud ERP and related cloud software applications for customers.
-The total purchase price for NetSuite was approximately $9.1 billion, which consisted of approximately $9.0 billion in cash and $78 million for the fair values of restricted stock-based awards and stock options assumed.
-In allocating the purchase price based on estimated fair values, we recorded approximately $6.7 billion of goodwill, $3.2 billion of identifiable intangible assets and $763 million of net tangible liabilities.
-See Note 2 of Notes to Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended May 31, 2017 for additional information regarding our acquisition of NetSuite.
-
-
-item2.txt
-Our comprehensive and fully integrated stack of Oracle Cloud SaaS, PaaS and IaaS offerings integrate the software, hardware and services on the customers behalf in IT environments that we deploy, support and manage for the customer.
+Financing receivables sold to financial institutions were $360 million and $1.3 billion for the three and nine months ended February 28, 2018, respectively, and $296 million and $1.3 billion for the three and nine months ended February 28, 2017, respectively.Our comprehensive and fully integrated stack of Oracle Cloud SaaS, PaaS and IaaS offerings integrate the software, hardware and services on the customers behalf in IT environments that we deploy, support and manage for the customer.
 In addition to providing a broad spectrum of cloud offerings, we develop and sell our applications, platform and infrastructure products and services to our customers worldwide for use in cloud-based IT environments and other IT environments.
 An important element of our corporate strategy is to continue our investments in, and innovation with respect to, our products and services that we offer through our cloud and on-premise software, hardware and services businesses.
 After the initial purchase of Oracle products and services, our customers can continue to benefit from our research and development efforts and deep IT expertise by electing to purchase and renew Oracle support offerings for their software and hardware deployments, which may include unspecified product enhancements that we periodically deliver to our products, and by renewing their cloud SaaS, PaaS and IaaS contracts with us.
@@ -28,19 +14,4 @@ We believe that offering customers broad, comprehensive, flexible and interopera
 Our cloud and on-premise software line of business, which represented 81% of our total revenues on a trailing 4-quarter basis, markets, sells and delivers a broad spectrum of applications, platform and infrastructure technologies through our cloud and on-premise software offerings.
 Our Oracle Cloud SaaS, PaaS and IaaS offerings deliver applications, platform and infrastructure technologies via cloud-based deployment models that we host, manage and support and that customers access by entering into a subscription agreement with us for a stated period.
 We offer customers the ability to license our software products including Oracle Applications, Oracle Database, Oracle Fusion Middleware and Java, among others, for cloud-based and other IT environments.
-The timing of a few large software license transactions can substantially affect our quarterly new software licenses revenues, which is different than the typical revenue recognition pattern for our cloud-based offerings in which revenues are generally recognized ratably over the subscription period.
-Our software license updates and product support contracts are generally one year in duration and are generally billed in advance of the service being performed and are generally recognized as revenues as the software support services are delivered.
-In recent periods, we have placed significant strategic emphasis on growing our cloud SaaS and cloud PaaS and IaaS revenues, which represented 16% of our total consolidated revenues during each of the third quarter and first nine months of fiscal 2018, and 13% and 12% of our total consolidated revenues during the third quarter and first nine months of fiscal 2017, respectively.
-We believe all of these factors should contribute to future growth in our cloud and on-premise software revenues, which should enable us to continue to make investments in research and development to develop and improve our cloud and on-premise software products and services.
-Our hardware business, which represented 10% of our total revenues on a trailing 4-quarter basis, provides a broad selection of hardware products and hardware-related software products including Oracle Engineered Systems, servers, storage, industry-specific hardware, virtualization software, operating systems, and management software that are generally recognized as revenues upon delivery to the customer provided all other revenue recognition criteria are met, and also include related hardware support.
-We expect to make investments in research and development to improve existing hardware products and services and to develop new hardware products and services.
-
-
-item3.txt
-
-
-
-part2.txt
-Item 1A.
-
-
+The timing of a few large software license transactions can substantially affect our quarterly new software licenses revenues, which is different than the typical revenue recognition pattern for our cloud-based offerings in which revenues are generally recognized ratably over the subscription period.Item 1A.

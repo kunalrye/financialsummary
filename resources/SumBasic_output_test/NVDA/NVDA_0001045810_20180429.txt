@@ -1,46 +1,16 @@
-item1.txt
-Customers may purchase either perpetual licenses or subscriptions to licenses, which differ mainly in the duration over which the customer benefits from the software.
+In the opinion of management, all adjustments, consisting only of normal recurring adjustments except as otherwise noted, considered necessary for a fair statement of results of operations and financial position have been included.
+The results for the interim periods presented are not necessarily indicative of the results expected for any future period.
+Our customer programs primarily involve rebates, which are designed to serve as sales incentives to resellers of our products in various target markets, and marketing development funds, or MDFs, which represent monies paid to our partners that are earmarked for market segment development and are designed to support our partners’ activities while also promoting NVIDIA products.
+We measure progress to completion based on actual cost incurred to date as a percentage of the estimated total cost required to complete each project.
+Software licenses are frequently sold along with post contract customer support, or PCS.
 For such arrangements, we allocate revenue to the software license and PCS on a relative standalone selling price basis by maximizing the use of observable inputs to determine the standalone selling price for each performance obligation.
-The adoption of this guidance did not have a significant impact on our consolidated financial statements.
-Upon adoption, we recognized the cumulative effect of the new standard as an increase to opening retained earnings of $7 million, net of tax.
-Comparative information for prior periods has not been adjusted.
-The Convertible Notes have a dilutive impact on net income per share if our average stock price for the reporting period exceeds the adjusted conversion price of $20.0296 per share.
-In the event of conversion of the Convertible Notes, the shares delivered to us under the Note Hedges will offset the dilutive effect of the shares that we would issue under the Convertible Notes.
-All of our cash equivalents and marketable securities are classified as “available-for-sale” debt securities.
-We review fair value hierarchy classification on a quarterly basis.
-Amortization expense associated with intangible assets was $11 million and $15 million for the first quarter of fiscal years 2019 and 2018, respectively.
-Future amortization expense related to the net carrying amount of intangible assets as of April 29, 2018 is estimated to be $18 million for the remainder of fiscal year 2019, $20 million in fiscal year 2020, $11 million in fiscal year 2021, $3 million in fiscal year 2022, and $3 million in fiscal year 2023 and beyond.
-Gains or losses on the contracts are recorded in accumulated other comprehensive income or loss and reclassified to operating expense when the related operating expenses are recognized in earnings or ineffectiveness should occur.
-These forward contracts were not designated for hedge accounting treatment.
-As of April 29, 2018, all designated foreign currency forward contracts mature within twelve months.
-In addition, U.S. GAAP requires disclosures about the guarantees that an entity has issued, including a tabular reconciliation of the changes of the entity’s product warranty liabilities.
-
-
-item2.txt
-Starting with a focus on PC graphics, NVIDIA invented the GPU to solve some of the most complex problems in computer science.
-Gaming GPU growth was fueled by demand from gamers playing eSports, momentum of the Battle Royale genre, and AAA cinematic games.
-Professional visualization revenue was $251 million, up 22% from a year earlier and down 1% sequentially.
-OEM sales included $289 million related to GPUs for cryptocurrency mining.
-Datacenter revenue, including Tesla, GRID and DGX, increased 71%, reflecting strong sales of our Volta architecture, including NVIDIA Tesla V100, new DGX systems, and strong demand for HPC.
-Revenue from Quadro GPUs for professional visualization increased 22% due primarily to higher sales in overall desktop workstation products and mid-range mobile workstation products.
-This was driven by an increase of over 85% in revenue from SOC modules for gaming platforms and development services, and an increase of 4% in automotive revenue, primarily from infotainment modules, DRIVE PX platforms and development agreements for self-driving cars.
-Our overall gross margin increased to 64.5% for the first quarter of fiscal year 2019 from 59.4% for the first quarter of fiscal year 2018, primarily due to a favorable mix shift within our GPU segment.
-Interest expense was $15 million and $16 million during the first quarter of fiscal years 2019 and 2018, respectively.
-Other, net, consists primarily of realized gains and losses from the sale of marketable securities, sales or impairments of investments in non-affiliated companies, realized and unrealized gains and losses from non-affiliated investments, losses on early debt conversions of the Convertible Notes, and the impact of changes in foreign currency rates.
-The decrease in our effective tax rate in the first quarter of fiscal year 2019 as compared to the same period in the prior fiscal year is primarily due to a decrease in the U.S. statutory tax rate from 35% to 21%, partially offset by a decrease in the impact of tax benefits from stock-based compensation.
-Refer to Note 5 of the Notes to Condensed Consolidated Financial Statements for further information.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-Refer to the description of the risk factors associated with our business previously disclosed in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
-As part of our share repurchase program, we may enter into structured share repurchase transactions with financial institutions.
-
-
+PCS revenue is recognized ratably over the service period, or as services are performed.
+We operate on a 52- or 53-week year, ending on the last Sunday in January.
+Our condensed consolidated financial statements include the accounts of NVIDIA Corporation and our wholly-owned subsidiaries.
+All intercompany balances and transactions have been eliminated in consolidation.This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the “safe harbor” created by those sections.
+All references to “NVIDIA,” “we,” “us,” “our” or the “Company” mean NVIDIA Corporation and its subsidiaries, except where it is made clear that the term means only the parent company.
+We have extended our focus in recent years to the revolutionary field of AI.
+Fueled by the sustained demand for better 3D graphics and the scale of the gaming market, NVIDIA has evolved the GPU into a computer brain at the intersection of virtual reality, high performance computing, or HPC, and artificial intelligence, or AI.
+While our GPU and CUDA architecture is unified, our GPU product brands are aimed at specialized markets including GeForce for gamers; Quadro for designers; Tesla and DGX for AI data scientists and big data researchers; and GRID for cloud-based visual computing users.
+Our Tegra brand integrates an entire computer onto a single chip, and incorporates GPUs and multi-core CPUs to drive supercomputing for autonomous robots, drones, and cars, as well as for consoles and mobile gaming and entertainment devices.
+Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998.Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018 for a prior discussion of our legal proceedings.

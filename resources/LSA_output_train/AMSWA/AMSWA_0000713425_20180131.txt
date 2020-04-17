@@ -1,21 +1,9 @@
-fls.txt
-You can identify these statements by forward-looking words such as anticipate, intend, plan, continue, could, grow, may, potential, predict, strive will, seek, estimate, believe, expect, and similar expressions that convey uncertainty of future events or outcomes.
-
-
-item1.txt
 Diluted per share amounts for Class A shares are shown above.
 See Note D to the Condensed Consolidated Financial Statements.
 The accompanying unaudited condensed consolidated financial statements have been prepared in accordance with U.S. generally accepted accounting principles for interim financial information and with the instructions to Form 10-Q and Rule 10-01 of Regulation S-X.
 Accordingly, they do not include all of the information and footnotes required for complete financial statements.
 All significant intercompany balances and transactions have been eliminated in consolidation.
-We recognize revenue in accordance with the Software Revenue Recognition Topic of the Financial Accounting Standards Boards (FASB) Accounting Standards Codification (ASC).
-Revenue derived from maintenance contracts primarily includes telephone consulting, product updates, and releases of new versions of products previously purchased by the customer, as well as error reporting and correction services.
-Maintenance contracts are typically sold for a separate fee with initial contractual periods ranging from one to three years with renewal for additional periods thereafter.
-Maintenance fees are generally billed annually in advance.
-
-
-item2.txt
-Any forward-looking statements we make herein are pursuant to the safe harbor provision of the Private Securities Litigation Reform Act of 1995.
+We recognize revenue in accordance with the Software Revenue Recognition Topic of the Financial Accounting Standards Boards (FASB) Accounting Standards Codification (ASC).Any forward-looking statements we make herein are pursuant to the safe harbor provision of the Private Securities Litigation Reform Act of 1995.
 All forward-looking statements included in this Form 10-Q are based upon information available to us as of the filing date of this Form 10-Q.
 The update noted that, Global economic activity continues to firm up.
 Global growth forecasts for 2018 and 2019 have been revised upward by 0.2 percentage point to 3.9 percent.
@@ -24,25 +12,4 @@ We believe information technology spending will incrementally improve over the l
 If this trend continues, we believe it may tend to favor solutions such as our Logility supply chain solutions, which are designed to provide a more rapid return on investment and are targeted at some of the largest profit drivers in a customers business.
 We provide our software solutions through three major business segments, which are further broken down into a total of six major product and service groups.
 The three business segments are (1) Supply Chain Management (SCM), (2) Information Technology (IT) Consulting and (3) Other.
-We monitor the net realizable value of our capitalized software on a quarterly basis based on an estimate of future product revenues.
-We currently expect to fully recover the value of the capitalized software asset recorded on our consolidated balance sheet; however, if future product revenues are less than managements current expectations, we may incur a write-down of capitalized software costs.
-Our selling expenses generally include the salary and commissions paid to our sales professionals, along with marketing, promotional, travel and associated costs.
-In August 2015, the FASB issued Accounting Standards Update (ASU) No.
-2015-14, Revenue from Contracts with Customers  Deferral of Effective Date, which defers the implementation of ASU 2014-09, Revenue from Contracts with Customers, for one year from the initial effective date.
-The Company plans to adopt ASU 2014-09, as well as other clarifications and technical guidance issued by the FASB related to this new revenue standard, on May 1, 2018.
-The Company has drafted policy memos for all streams of revenue and expects to finalize by end of fiscal 2018.
-
-
-item3.txt
-Foreign Currency In the three and nine months ended January 31, 2018, we generated approximately 20% and 20%, respectively, of our revenues outside the United States.
-However, expenses incurred in connection with these sales are typically denominated in the local currencies.
-
-
-item4.txt
-Our principal executive officer and principal financial officer, with the assistance of our Disclosure Committee, have conducted an evaluation of the effectiveness of our disclosure controls and procedures as of the end of the period covered by this Quarterly Report.
-
-
-part2.txt
-Item 1.
-
-
+We monitor the net realizable value of our capitalized software on a quarterly basis based on an estimate of future product revenues.Foreign Currency In the three and nine months ended January 31, 2018, we generated approximately 20% and 20%, respectively, of our revenues outside the United States.
