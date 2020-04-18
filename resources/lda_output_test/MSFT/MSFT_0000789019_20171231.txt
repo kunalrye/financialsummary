@@ -1,50 +1,16 @@
-fls.txt
-
-
-
-item1.txt
 Our unaudited interim consolidated financial statements and accompanying notes are prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”).
 The information included in this Form 10-Q should be read in conjunction with information included in the Microsoft Corporation 2017 Form 10-K filed with the U.S. Securities and Exchange Commission on August 2, 2017.
 Equity investments for which we are able to exercise significant influence over but do not control the investee and are not the primary beneficiary of the investee’s activities are accounted for using the equity method.
-Investments for which we are not able to exercise significant influence over the investee and which do not have readily determinable fair values are accounted for under the cost method.
+Revenue is recognized upon transfer of control of promised products or services to customers in an amount that reflects the consideration we expect to receive in exchange for those products or services.
 We enter into contracts that can include various combinations of products and services, which are generally capable of being distinct and accounted for as separate performance obligations.
+Customers may purchase perpetual licenses or subscribe to licenses, which provide customers with the same functionality and differ mainly in the duration over which the customer benefits from the software.
+Revenue from distinct on-premises licenses is recognized upfront at the point in time when the software is made available to the customer.
+In cases where we allocate revenue to software updates, primarily because the updates are provided at no additional charge, revenue is recognized as the updates are provided, which is generally ratably over the estimated life of the related device or license.
 Certain volume licensing programs, including Enterprise Agreements, include on-premises licenses combined with Software Assurance (“SA”).
-Cloud services, which allow customers to use hosted software over the contract period without taking possession of the software, are provided on either a subscription or consumption basis.
-Revenue related to cloud services provided on a subscription basis is recognized ratably over the contract period.
-Revenue related to cloud services provided on a consumption basis, such as the amount of storage used in a period, is recognized based on the customer utilization of such resources.
-Revenue from search advertising is recognized when the advertisement appears in the search results or when the action necessary to earn the revenue has been completed.
-Our hardware is generally highly dependent on, and interrelated with, the underlying operating system and cannot function without the operating system.
-Determining whether products and services are considered distinct performance obligations that should be accounted for separately versus together may require significant judgment.
-When a cloud-based service includes both on-premises software licenses and cloud services, judgment is required to determine whether the software license is considered distinct and accounted for separately, or not distinct and accounted for together with the cloud service and recognized over time.
-Certain cloud services, primarily Office 365, depend on a significant level of integration, interdependency, and interrelation between the desktop applications and cloud services, and are accounted for together as one performance obligation.
-We use a single amount to estimate SSP for items that are not sold separately, including on-premises licenses sold with SA or software updates provided at no additional charge.
-
-
-item2.txt
-We strive to create local opportunity, growth, and impact in every country around the world.
+Revenue allocated to SA is generally recognized ratably over the contract period as customers simultaneously consume and receive benefits, given that SA comprises distinct performance obligations that are satisfied over time.We strive to create local opportunity, growth, and impact in every country around the world.
 We develop, license, and support a wide range of software products, services, and devices that deliver new opportunities, greater convenience, and enhanced value to people’s lives.
 Our platforms and tools help drive small business productivity, large business competitiveness, and public-sector efficiency.
-Server products and cloud services revenue increased 18%, driven by Azure revenue growth of 98%.
-Search advertising revenue, excluding traffic acquisition costs, increased 15%, driven by higher revenue per search and search volume.
-Beginning in fiscal year 2018, our financial results reflect adoption of the standards with prior periods restated accordingly.
-At Microsoft, we push the boundaries of what is possible through a broad range of research and development activities that seek to identify and address the changing demands of customers and users, industry trends, and competitive forces.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-We face intense competition across all markets for our products and services, which may lead to lower revenue or operating margins.
-Our competitors range in size from diversified global companies with significant research and development resources to small, specialized firms whose narrower product lines may let them be more effective in deploying technical, marketing, and financial resources.
+They also support new startups, improve educational and health outcomes, and empower human ingenuity.Our competitors range in size from diversified global companies with significant research and development resources to small, specialized firms whose narrower product lines may let them be more effective in deploying technical, marketing, and financial resources.
 Barriers to entry in many of our businesses are low and many of the areas in which we compete evolve rapidly with changing and disruptive technologies, shifting user needs, and frequent introductions of new products and services.
 Our ability to remain competitive depends on our success in making innovative products, devices, and services that appeal to businesses and consumers.
-We face significant competition from competing platforms developed for new devices and form factors such as smartphones and tablet computers.
 Even if many users view these devices as complementary to a personal computer, the prevalence of these devices may make it more difficult to attract application developers to our PC operating system platforms.
-To compete, we must successfully enlist developers to write applications for our marketplace and ensure that these applications have high quality, customer appeal, and value.
-
-

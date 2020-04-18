@@ -1,42 +1,17 @@
-fls.txt
-
-
-
-item1.txt
 The Condensed Consolidated Financial Statements of the Company have been prepared in accordance with U.S. generally accepted accounting principles (“GAAP”), as defined in Financial Accounting Standards Board (“FASB”) Accounting Standards Codification (“ASC”) 270, for interim financial information and in accordance with the instructions to Form 10-Q and Article 10 of Securities and Exchange Commission Regulation S-X.
 2014-09, Revenue from Contracts with Customers, with amendments in 2015, 2016 and 2017, creating new ASC Topic 606 (“Topic 606”) that replaces most existing revenue recognition guidance in GAAP.
-As a result of adopting Topic 606, the Company now recognizes revenue for the license component of all its on-premise software arrangements at the point-in-time control of the software license is transferred to the customer, rather than ratably over the term of the contract.
 The Company reflected the impact of the changes at transition with a cumulative increase of approximately $2,104 million to the opening balance of retained earnings.
 2016-16 (“ASU 2016-16”), Intra-Equity Transfers of Assets Other Than Inventory (Topic 740), which is intended to eliminate diversity in practice and provide a more accurate depiction of the tax consequences on intercompany asset transfers (excluding inventory).
 ASU 2016-16 was adopted by the Company when effective in first quarter of fiscal year 2019 using the modified retrospective method of adoption.
 The adoption of this standard did not have a material effect on the Company’s consolidated financial statements and related disclosures.
 The new standard states that a lessee will recognize a lease liability for the obligation to make lease payments and a right-of-use asset for the right to use the underlying asset for the lease term.
-Leases will be classified as either finance or operating, with classification affecting the pattern of expense recognition in the consolidated statements of operations.
-Although the Company is currently evaluating the effect that ASU 2016-02 will have on its consolidated financial statements and related disclosures, the Company currently expects that most of its operating lease commitments will be subject to the new standard and recognized as operating lease liabilities and right-of-use assets upon adoption.
-2017-04 (“ASU 2017-04”), Simplifying the Test for Goodwill Impairment (Topic 350), which is intended to simplify the subsequent measurement of goodwill.
-ASU 2017-04 eliminates Step 2 of the goodwill impairment test requiring the assessment of fair value of individual assets and liabilities of a reporting unit to measure goodwill impairments.
-Upon adoption of this new standard, goodwill impairments will be the amount by which a reporting unit's carrying value exceeds its fair value.
-
-
-item2.txt
-Our solutions enable customers to plan, develop, automate, manage and secure applications across mobile, cloud, distributed and mainframe platforms.
-To achieve this, we have built a portfolio of solutions that enable customers to leverage the benefits of agility, automation, insights and security in managing business processes and technology investments.
+Leases will be classified as either finance or operating, with classification affecting the pattern of expense recognition in the consolidated statements of operations.Our solutions enable customers to plan, develop, automate, manage and secure applications across mobile, cloud, distributed and mainframe platforms.
+Customers are transforming their businesses to better manage the market demands for speed, exceptional customer experience and rich analytics.
+Our customers benefit from the ability of CA solutions to span their entire infrastructure stack, across mobile, cloud, distributed, and mainframe.
 We are able to bidirectionally leverage our core strengths and development efforts in our products within the Enterprise Solutions segment to bring new innovations to the Mainframe Solutions segment and vice versa.
-Our Services segment leverages our expertise across our Mainframe Solutions and Enterprise Solutions segments and helps customers deploy and maintain our solutions.
+Our strong market position enables our investment in development, innovation and support of the mainframe platform to be among the largest in the industry, which sustains ongoing customer commitment to our Mainframe Solutions.
 •Agile Planning helps customers transform their development practices from traditional to modern agile methodologies.
-Agile development utilizes an iterative work cadence with a feedback loop that decreases time-to-market, increases product quality and, most importantly, maintains a focus on generating rapid business value.
 CA’s cloud-based solutions in this space help customers to collaboratively plan, prioritize and track agile software development at scale.
 •Continuous Delivery optimizes the application development processes by automating the deployment of applications across all stages of their lifecycles.
+•Agile Operations helps customers correlate end-user, application and infrastructure data from cloud-hosted containers to mainframes.
 Our solutions help customers see application dependencies and provide intelligent analytics, comprehensive coverage, and an open, extensible architecture that improves end-user experience.
-•API (Application Programming Interface) Management facilitates the creation, security and management of APIs through their lifecycle, enabling customers to connect more directly with end-users via mobile apps, cloud platforms and “Internet of Things” devices.
-Our solutions help detect and prevent the threat of internal and external attacks leveraging both network and host-based controls for the enterprise and hybrid cloud.
-Our product development strategy is built around key growth areas, where we are focused on innovating and delivering differentiated products and solutions across both distributed and mainframe platforms.
-We are focused on maintaining and expanding the strong relationships with our established customer base, and will proactively target growth with other potential customers that we do not currently serve.
-We also focus on organically developing nascent technologies from companies we have acquired to provide them with the necessary interoperability, resilience and security to operate at scale in the large, heterogeneous IT environments utilized by our customers.
-On July 11, 2018, the Company, Broadcom Inc. (“Broadcom”), and Collie Acquisition Corp., a Delaware corporation and a wholly owned subsidiary of Broadcom (“Merger Sub”) entered into an Agreement and Plan of Merger (the “Merger Agreement”), pursuant to which Merger Sub was merged with and into the Company, with the Company surviving the Merger and becoming a wholly owned subsidiary of Broadcom.
-
-
-item4.txt
-Under the supervision and with the participation of the Company’s management, including the Chief Executive Officer and the Chief Financial Officer, the Company has evaluated the effectiveness of its disclosure controls and procedures, as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (“Exchange Act”).
-
-

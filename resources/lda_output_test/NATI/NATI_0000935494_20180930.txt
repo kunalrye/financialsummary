@@ -1,50 +1,18 @@
-fls.txt
-
-
-
-item1.txt
-Our operating results for the three and nine months ended September 30, 2018 are not necessarily indicative of the results that may be expected for the year ending December 31, 2018.
+In our opinion, the accompanying consolidated financial statements reflect all adjustments (consisting only of normal recurring items) considered necessary to present fairly our financial position at September 30, 2018 and December 31, 2017, the results of our operations and comprehensive income for three and nine months ended September 30, 2018 and 2017, and the cash flows for the nine months ended September 30, 2018 and 2017.
+These financial statements have been prepared in accordance with accounting principles generally accepted in the United States.
 We evaluated the adjustment from a qualitative and quantitative perspective and concluded that the amount of income was not material to any individual prior quarter or year and that the cumulative out of period adjustment was not expected to be material to our full year 2018 results.
-We adopted ASU 2014-09, Revenue from Contracts with Customers and all the related amendments ("new revenue standard") as of January 1, 2018.
-There were no other significant changes in our accounting policies during the nine months ended September 30, 2018 compared to the significant accounting policies described in our Annual Report on Form 10-K for the year ended December 31, 2017.
+Stock awards to acquire 36,600 shares and 40,700 shares for the three months ended September 30, 2018 and 2017, respectively, and 537,000 shares and 22,300 shares for the nine months ended September 30, 2018 and 2017, respectively, were excluded in the computations of diluted EPS because the effect of including the stock awards would have been anti-dilutive.
 We analyze historical bad debts, customer concentrations, customer creditworthiness and current economic trends when evaluating the adequacy of our allowance for doubtful accounts.
+Unbilled receivables represent amounts for which revenue has been recognized but which have not yet been invoiced to the customer.
+The current portion of unbilled receivables is included in "accounts receivable, net" on the consolidated balance sheet and is not material.
 Shipping and handling costs associated with outbound freight after control over a product has transferred to a customer are accounted for as a fulfillment cost and are in included in cost of sales.
-Under this method, we evaluated all contracts that were in effect at the beginning of 2018 as if those contracts had been accounted for under the new revenue standard.
 We did not evaluate individual modifications for those periods prior to the adoption date, but the aggregate effect of all modifications as of the adoption date and such effects are provided below.
 A cumulative catch-up adjustment was recorded to beginning retained earnings to reflect the impact of all existing arrangements under the new revenue standard.
-We do not expect the impact of the adoption of the new revenue standard to be material to our annual net income on an ongoing basis.
-Historically, we have had to defer revenue for certain types of licenses arrangements and recognize revenue for such licenses ratably over the license term.
-Under the new revenue standard, we are no longer required to establish vendor-specific objective evidence ("VSOE") to recognize software license revenue separately from the other elements, and we are able to recognize all software license revenue once the customer obtains control of the license, which will generally occur at the start of each license term.
-Revenue is recognized upon transfer of control of the promised products or services to customers in an amount that reflects the consideration we expect to receive in exchange for those products or services.
-Revenue is recognized net of allowances for returns and any taxes collected from customers, which are subsequently remitted to governmental authorities.
-Sales of most hardware components may also include optional extended hardware warranties, which typically provide additional service-type coverage for three years from the purchase date.
-We also offer some term-based software licenses that expire, which are referred to as subscription arrangements.
-
-
-item2.txt
-This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”).
+We do not expect the impact of the adoption of the new revenue standard to be material to our annual net income on an ongoing basis.This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”).
 National Instruments Corporation (the “Company”, “we”, “us” or “our”) designs, manufactures and sells systems to engineers and scientists that accelerate productivity, innovation and discovery.
 Our software defined platform provides integrated software and modular hardware that speeds the development of automated test and automated measurement systems.
-We strive to increase our already broad customer base and to grow our large order business by serving a large market on many computer platforms, through a global marketing and distribution network.
-To maintain a high level of customer satisfaction we strive to offer innovative, modular and integrated products through a global sales and support network.
-In this time of intense global competition, we believe that it is crucial that we continue to offer products with high quality and reliability, and that our products provide cost-effective solutions for our customers.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-However, in the ordinary course of our business, we have in the past, are currently and will likely become involved in various legal proceedings, claims, and regulatory, tax or government inquiries and investigations, and could incur uninsured liability in any one or more of them.
+We believe our long-term vision and focus on technology supports the success of our customers, employees, suppliers and stockholders.However, in the ordinary course of our business, we have in the past, are currently and will likely become involved in various legal proceedings, claims, and regulatory, tax or government inquiries and investigations, and could incur uninsured liability in any one or more of them.
 Uncertainty about global and regional economic conditions poses a risk to us as businesses may postpone spending in response to tighter credit, higher unemployment, financial market volatility, tariffs and other trade restrictions government austerity programs, negative financial news, geopolitical instability, declines in income or asset values, or other factors.
 These investments involve a number of risks as the commercial success of such efforts depend on many factors, including our ability to anticipate and respond to innovation, achieve the desired technological fit, and be effective with our marketing and distribution efforts.
 Our success is dependent on our ability to successfully develop and introduce new and enhanced products on a timely basis to replace declining revenues from older products, and on increasing penetration in domestic and international markets.
 There can be no assurance that we will be able to introduce new products in accordance with announced release dates, that our new products will achieve market acceptance or that any such acceptance will be sustained for any significant period.
-Our Reported Financial Results May be Adversely Affected by Changes in Accounting Principles Generally Accepted in the U.S. We prepare our financial statements in conformity with accounting principles generally accepted in the U.S.
-Generally accepted accounting principles and accompanying accounting pronouncements, implementation guidelines and interpretations for many aspects of our business, such as revenue recognition, software capitalization, and income tax uncertainties, are complex and involve subjective judgments by management.
-
-

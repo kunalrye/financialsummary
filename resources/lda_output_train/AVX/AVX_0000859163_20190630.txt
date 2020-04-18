@@ -1,36 +1,15 @@
-fls.txt
-This new standard replaces the use of forward-looking information to estimate credit losses and requires credit losses for available for sale debt securities to be recorded through an allowance for credit losses rather than a reduction in the amortized cost basis.
-The forward-looking information may include, among other information, statements concerning our outlook for fiscal year 2020, overall volume and pricing trends, cost reduction and acquisition strategies and their anticipated results, and expectations for research and development and capital expenditures.
-Forward-looking statements should be read in context with, and with the understanding of, the various other disclosures concerning the Company and its business made elsewhere in this quarterly report as well as other public reports filed by the Company with the SEC.
-We do not intend to update or revise any forward-looking statement contained in this quarterly report to reflect new events or circumstances unless and to the extent required by applicable law.
-
-
-item1.txt
-The consolidated financial statements of AVX Corporation and its subsidiaries (“AVX” or the “Company”) include all accounts of the Company and its subsidiaries.
-We have prepared the accompanying financial statements pursuant to the rules and regulations of the Securities and Exchange Commission (“SEC”) for interim financial reporting.
 Certain information and footnote disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States have been omitted in accordance with the rules and regulations of the SEC for interim financial statements.
-Accordingly, this Quarterly Report on Form 10-Q should be read in conjunction with our Annual Report on Form 10-K for the fiscal year ended  March 31, 2019.
+These consolidated financial statements should be read in conjunction with the audited consolidated financial statements and accompanying notes included in our Annual Report on Form 10-K for the fiscal year ended  March 31, 2019.
 In  June 2016, the FASB issued ASU 2016-13, “Financial Instruments – Credit Losses: Measurements of Credit Losses on Financial Instruments.” This standard requires the measurement and recognition of expected credit losses held at amortized cost.
 This new standard replaces the use of forward-looking information to estimate credit losses and requires credit losses for available for sale debt securities to be recorded through an allowance for credit losses rather than a reduction in the amortized cost basis.
 In  August 2018, the FASB issued ASU 2018-14, “Compensation – Retirement Benefits – Defined Benefit Plans – General.” This standard removes certain disclosures that are not considered cost beneficial, clarifies certain required disclosures and added additional disclosures.
 In  August 2018, the FASB issued ASU 2018-15, “Customer’s Accounting For Implementation Costs Incurred In A Cloud Computing Arrangement That Is A Service Contract”.
 This guidance reduces the complexity for the accounting for costs of implementing a cloud computing service arrangement and aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license).
-We elected the package of transition provisions available for expired or existing contracts, which allowed us to carry forward our historical assessments of (1) whether contracts are or contain leases, (2) lease classification and (3) initial direct costs.
+The Company early adopted this standard effective  April 1, 2019, utilizing the prospective approach to all implementation costs incurred after the date of adoption.
 When available, we use the rate implicit in the lease to discount lease payments to present value; however, most of our leases do not provide a readily determinable implicit rate.
 Therefore, we must estimate our incremental borrowing rate to discount the lease payments based on information available at lease commencement.
-Our incremental borrowing rate is based on a credit-adjusted risk-free rate at commencement date, which best approximates a secured rate over a similar term of lease.
 The Company paid $2,251 for its operating leases in the fiscal quarter ended  June 30, 2019, which are included in operating cash flows on the consolidated statement of cash flows.
 Basic earnings per share are computed by dividing net earnings by the weighted average number of shares of common stock outstanding for the period.
 Diluted earnings per share are computed by dividing net earnings by the sum of (a) the weighted average number of shares of common stock outstanding during the period and (b) the dilutive effect of potential common stock equivalents during the period.
 Stock options and unvested service-based RSU awards make up the common stock equivalents and are computed using the treasury stock method.
-The table below represents the basic and diluted earnings per share and sets forth the weighted average number of shares of common stock outstanding and potential common stock equivalents for the three month periods ending  June 30, 2018 and 2019.
-Charges related to allowances for doubtful accounts are charged to selling, general and administrative expenses.
-Charges related to stock rotation, ship from stock and debit, sales returns, and sales discounts are reported as deductions from revenue.
 During the three month periods ended  March 31, 2019 and  June 30, 2019, there have been no transfers of assets or liabilities between levels within the fair value hierarchy.
-The following describes valuation techniques used to appropriately value our assets held in the non-qualified deferred compensation plan and derivatives.
-Assets valued using Level 1 and Level 2 inputs in the table above represent assets from our non-qualified deferred compensation program.
-The funds in the non-qualified deferred compensation program are valued based on the number of shares in the funds using a price per share traded in an active market.
-If the cost of an investment exceeds its fair value, among other factors, we evaluate general market conditions, the duration and extent to which the fair value is less than cost, and whether or not we expect to recover the security's entire amortized cost.
-Once a decline in fair value is determined to be other-than-temporary, an impairment charge is recorded and a new cost basis in the investment is established.
-
-

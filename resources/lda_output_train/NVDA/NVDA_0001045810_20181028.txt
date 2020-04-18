@@ -1,50 +1,16 @@
-fls.txt
-
-
-
-item1.txt
 The accompanying unaudited condensed consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States of America, or U.S. GAAP, for interim financial information and with the instructions to Form 10-Q and Article 10 of Securities and Exchange Commission, or SEC, Regulation S-X.
 The January 28, 2018 consolidated balance sheet was derived from our audited consolidated financial statements included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018, as filed with the SEC, but does not include all disclosures required by U.S. GAAP.
 In the opinion of management, all adjustments, consisting only of normal recurring adjustments except as otherwise noted, considered necessary for a fair statement of results of operations and financial position have been included.
-The following information should be read in conjunction with the audited consolidated financial statements and notes thereto included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
-Except for the accounting policy for revenue recognition, which was updated as a result of adopting a new accounting standard related to revenue recognition, there have been no material changes to our significant accounting policies in Note 1 - Organization and Summary of Significant Accounting Policies, of the Notes to the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
-For products sold with a right of return, we record a reduction to revenue by establishing a sales return allowance for estimated product returns at the time revenue is recognized, based primarily on historical return rates.
 Our customer programs involve rebates, which are designed to serve as sales incentives to resellers of our products in various target markets, and marketing development funds, or MDFs, which represent monies paid to our partners that are earmarked for market segment development and are designed to support our partners’ activities while also promoting NVIDIA products.
 As a result, we recognize the revenue from the license and the revenue from the development services as a single performance obligation over the period in which the development services are performed.
 We measure progress to completion based on actual cost incurred to date as a percentage of the estimated total cost required to complete each project.
 Customers may purchase either perpetual licenses or subscriptions to licenses, which differ mainly in the duration over which the customer benefits from the software.
 For such arrangements, we allocate revenue to the software license and PCS on a relative standalone selling price basis by maximizing the use of observable inputs to determine the standalone selling price for each performance obligation.
 Our condensed consolidated financial statements include the accounts of NVIDIA Corporation and our wholly-owned subsidiaries.
-The Financial Accounting Standards Board, or FASB, issued an accounting standards update that creates a single source of revenue guidance under U.S. GAAP for all companies, in all industries.
-In January 2016, the FASB issued an accounting standards update to amend certain aspects of recognition, measurement, presentation, and disclosure of financial instruments.
-In February 2016 and July 2018, the FASB issued accounting standards updates regarding the accounting for leases by which we will begin recognizing lease assets and liabilities on the balance sheet for lease terms of more than 12 months.
-
-
-item2.txt
-This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the “safe harbor” created by those sections.
+The Financial Accounting Standards Board, or FASB, issued an accounting standards update that creates a single source of revenue guidance under U.S. GAAP for all companies, in all industries.This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the “safe harbor” created by those sections.
 All references to “NVIDIA,” “we,” “us,” “our” or the “Company” mean NVIDIA Corporation and its subsidiaries, except where it is made clear that the term means only the parent company.
 While our GPU and CUDA architecture is unified, our GPU product brands are aimed at specialized markets including GeForce for gamers; Quadro for designers; Tesla and DGX for AI data scientists and big data researchers; and GRID for cloud-based visual computing users.
 Our Tegra brand integrates an entire computer onto a single chip, and incorporates GPUs and multi-core CPUs to drive supercomputing for autonomous robots, drones, and cars, as well as for consoles and mobile gaming and entertainment devices.
-Professional visualization revenue was $305 million, up 28% from a year earlier and up 9% sequentially driven by strength across both desktop and mobile workstation products.
-Datacenter revenue was $792 million, up 58% from a year ago and up 4% sequentially, led by strong sales of our Volta architecture-based products, including NVIDIA Tesla V100 and DGX systems, with contribution from the new Turing T4 Cloud GPU.
-Automotive revenue of $172 million was up 19% from a year earlier and up 7% sequentially, incorporating infotainment modules, production DRIVE PX platforms, and development agreements with automotive companies.
-Net income and net income per diluted share for the third quarter of fiscal year 2019 were $1.23 billion and $1.97, respectively, up 47% and 48%, respectively, from a year earlier, fueled by strong revenue growth and improved gross margin.
-In November 2018, our board of directors authorized an additional $7.00 billion under our share repurchase program for a total of $7.94 billion available through the end of December 2022.
-The decrease was primarily related to third quarter stock repurchases, dividends and taxes paid related to restricted stock units, partially offset by operating income and changes in working capital.
-During the second quarter of fiscal year 2019, we marked the launch of the Summit supercomputer at Oak Ridge National Laboratory, powered by NVIDIA Volta Tensor Core GPUs; introduced NVIDIA HGX-2, a unified computing platform for both AI and high performance computing; announced that five of the world’s seven fastest supercomputers are powered by NVIDIA GPUs; introduced the NVIDIA HGX-2 platform for both AI and HPC; and launched AIRI Mini with Pure Storage and ONTAP AI with NetApp for implementing and scaling deep learning.
-We also announced a number of Max-Q GeForce gaming notebook designs offered by major OEMs, enabling high-end performance for thin and light notebooks; disclosed that next-generation NVIDIA G-SYNC HDR displays are being shipped, enabling stutter-free gaming; and announced NVIDIA’s role in VirtualLink, a consortium establishing an industry standard to enable next-gen VR headsets to connect with PCs using a single, high-bandwidth USB Type-C connector.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-Refer to Part I, Item 1, Note 13 of the Notes to Condensed Consolidated Financial Statements for a discussion of significant developments in our legal proceedings since January 28, 2018.
-Refer to the description of the risk factors associated with our business previously disclosed in Item 1A of our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
-
-
+Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998.
+GPU business revenue was $2.77 billion, up 25% from a year earlier and up 4% sequentially, reflecting growth in professional visualization, datacenter, and gaming GPUs.
+Tegra Processor business revenue - which includes automotive, SOC modules for the Nintendo Switch gaming console, and other embedded edge AI platforms - was $407 million, down 3% from a year ago and down 13% sequentially.Refer to Part I, Item 1, Note 13 of the Notes to Condensed Consolidated Financial Statements for a discussion of significant developments in our legal proceedings since January 28, 2018.

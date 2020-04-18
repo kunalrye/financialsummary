@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 The accompanying unaudited condensed consolidated financial statements of Maxim Integrated Products, Inc. and all of its majority-owned subsidiaries (collectively, the “Company” or “Maxim Integrated”) included herein have been prepared by the Company pursuant to the rules and regulations of the Securities and Exchange Commission (the “SEC”).
 Topic 842 states that lessees will recognize a lease liability for the commitment to make lease payments and a right-of-use asset for the underlying asset, for the duration of the lease.
 This transition method allows a Company to apply the new lease accounting standard on adoption date and recognize a cumulative-effect adjustment to the opening balance of retained earnings.
@@ -14,32 +9,8 @@ Lease terms may include options to extend or terminate the lease when it is reas
 Level 2 - Observable inputs other than quoted prices included in Level 1, such as quoted prices for similar assets or liabilities in active markets, quoted prices for identical or similar assets or liabilities in markets that are not active, or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the asset or liability.
 Level 3 - Unobservable inputs to the valuation methodology that are significant to the measurement of the fair value of the assets or liabilities.
 The Company's Level 3 assets and liabilities consist of acquisition-related contingent consideration liabilities.
-As of September 28, 2019 and June 29, 2019, the fair market value of private company investments amounted to $20.2 million and $20.7 million, respectively.
-Unrealized gains (losses) on private company investments were not material during the three months ended September 28, 2019 and September 29, 2018.
-The Company invests in various financial instruments including U.S. Treasury securities, corporate debt securities, commercial paper, and certificates of deposit which include instruments issued or managed by industrial, financial, and utility institutions and U.S. Treasury securities which include U.S. government Treasury bills and Treasury notes.
-The Company incurs expenditures denominated in non-U.S. currencies, primarily the Philippine Peso and the Thai Baht associated with the Company's manufacturing activities in the Philippines and Thailand, respectively, and the European Euro, Indian Rupee, Japanese Yen, Taiwan New Dollar, South Korean Won, Chinese Yuan and Canadian Dollar, for sales offices and research and development activities undertaken outside of the U.S.
-The Company has established a program that primarily utilizes foreign currency forward contracts to offset the risks associated with the effects of certain foreign currency exposures.
-The Company designates certain forward contracts as hedging instruments pursuant to Accounting Standards Codification (“ASC”) 815, Derivatives and Hedging (“ASC 815”).
-As of September 28, 2019 and June 29, 2019, the notional amounts of the forward contracts the Company held to purchase international currencies were $43.0 million and $48.5 million, respectively.
-
-
-item2.txt
-Readers should carefully review future reports and documents that the Company files with or furnishes to the SEC from time to time, such as its Annual Reports on Form 10-K, its Quarterly Reports on Form 10-Q, and any Current Reports on Form 8-K.
+During the three months ended September 28, 2019 and the year ended June 29, 2019, there were no transfers in or out of Level 3 from other levels in the fair value hierarchy.Readers should carefully review future reports and documents that the Company files with or furnishes to the SEC from time to time, such as its Annual Reports on Form 10-K, its Quarterly Reports on Form 10-Q, and any Current Reports on Form 8-K.
 Maxim Integrated Products, Inc. (“Maxim Integrated” or the “Company” and also referred to as “we,” “our” or “us”) designs, develops, manufactures and markets a broad range of linear and mixed-signal integrated circuits, commonly referred to as analog circuits, for a large number of customers in diverse geographical locations.
 Linear (or analog) signals represent real world phenomena, such as temperature, pressure, sound or speed, and are continuously variable over a wide range of values.
-While our focus continues to be on the linear and mixed-signal market, our capabilities in the digital domain enable development of new mixed-signal and other products with highly sophisticated digital characteristics.
-At the beginning of fiscal year 2020, we combined our Computing Major End-Market category with our Communications and Data Center Major End-Market category.
-Net revenues were $533.0 million and $638.5 million for the three months ended September 28, 2019 and September 29, 2018, respectively.
-Revenue from industrial products was down by 21% due to lower shipments in control and automation and automatic test equipment products.
-Revenue from communication and data center products was down by 25% due to lower shipments in network and data communications, data center and other communications products.
-
-
-item4.txt
-Our management, with the participation of our chief executive officer (“CEO”) and our chief financial officer (“CFO”), evaluated the effectiveness of our disclosure controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934 (the “Exchange Act”) as of September 28, 2019.
-
-
-part2.txt
-The information set forth above under Part I, Item 1, Note 11 “Commitments and Contingencies” to the Condensed Consolidated Financial Statements is incorporated herein by reference.
-In the three months ended September 28, 2019, the Company repurchased approximately 1.6 million shares of its common stock for approximately $93.6 million.
-
-
+•mixed-signal devices such as data converter devices that combine linear and digital functions on the same integrated circuit and interface between the analog and digital domains.
+While our focus continues to be on the linear and mixed-signal market, our capabilities in the digital domain enable development of new mixed-signal and other products with highly sophisticated digital characteristics.Our management, with the participation of our chief executive officer (“CEO”) and our chief financial officer (“CFO”), evaluated the effectiveness of our disclosure controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934 (the “Exchange Act”) as of September 28, 2019.The information set forth above under Part I, Item 1, Note 11 “Commitments and Contingencies” to the Condensed Consolidated Financial Statements is incorporated herein by reference.

@@ -1,23 +1,10 @@
-fls.txt
-This quarterly report on Form 10-Q contains various “forward-looking statements” (within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended) and information that is based on management’s belief as well as assumptions made by and information currently available to management.
-
-
-item1.txt
 The unaudited consolidated financial statements of Encore Wire Corporation (the “Company”) have been prepared in accordance with U.S. generally accepted accounting principles (“GAAP”) for interim information and the instructions to Form 10-Q and Rule 10-01 of Regulation S-X.
 Amounts billed and due from our customers are classified as accounts receivables on the balance sheet and require payment on a short-term basis through standard payment terms.
 We review and update these estimates regularly and the impact of any adjustments are recognized in the period the adjustments are identified.
 The adjustments resulting from updated estimates of trade payment discounts and customer rebates were not material.
 The Financial Accounting Standards Board (the “FASB”) Accounting Standards Codification (“ASC”) is the sole source of authoritative U.S. GAAP other than Securities and Exchange Commission ("SEC") issued rules and regulations that apply only to SEC registrants.
 2014-09, “Revenue from Contracts with Customers (ASC 606),” which replaces numerous requirements in U.S. GAAP, including industry-specific requirements, and provides companies with a single revenue recognition model for recognizing revenue from contracts with customers.
-On January 1, 2018, we adopted the requirements of ASC 606 and all the related amendments to all of our contracts using the modified retrospective method.
-Upon completing our implementation assessment of ASC 606, we concluded that no adjustment was required to the opening balance of retained earnings at the date of initial application.
-2016-02, “Leases (ASC 842).” Under the new guidance, a lessee will be required to recognize a right to use asset and a lease liability for all leases with terms of twelve months or longer.
-Lessor accounting remains largely consistent with existing U.S. generally accepted accounting principles.
-Companies that elect this option would record a cumulative-effect adjustment to the opening balance of retained earnings on the date of adoption.
-
-
-item2.txt
-The Company is a significant supplier of building wire for interior electrical wiring in commercial and industrial buildings, homes, apartments, and manufactured housing.
+On January 1, 2018, we adopted the requirements of ASC 606 and all the related amendments to all of our contracts using the modified retrospective method.The Company is a significant supplier of building wire for interior electrical wiring in commercial and industrial buildings, homes, apartments, and manufactured housing.
 Price competition for electrical wire and cable is intense, and the Company sells its products in accordance with prevailing market prices.
 Additionally, the SEC allows shares of certain physically backed copper exchange-traded funds (“ETFs”) to be listed and publicly traded.
 The acquisition of copper cathode by copper ETFs may materially decrease or interrupt the availability of copper for immediate delivery in the United States, which could materially increase the Company’s cost of copper.
@@ -26,24 +13,4 @@ The Company cannot predict copper prices or the effect of fluctuations in the co
 The tables below highlight the range of closing prices of copper on a per pound basis on the Comex exchange for the periods shown.
 The following discussion and analysis relate to factors that have affected the operating results of the Company for the quarters and nine months ended September 30, 2018 and 2017.
 Reference should also be made to the audited financial statements and notes thereto included in the Company’s Annual Report on Form 10-K for the year ended December 31, 2017.
-This 16.7% increase in net sales dollars is primarily the result of a 17.1% increase in copper wire sales, driven by a 16.1% increase in copper wire unit volume shipped and a 0.9% increase in the average selling price of copper wire.
-Gross profit increased to $54.5 million, or 16.0% of net sales, in the third quarter of 2018 from $39.1 million, or 13.4% of net sales, in the third quarter of 2017.
-The increase in gross profit margin percentage was driven principally by the increase of the copper wire spread.
-The percentage change on sales is on a higher nominal dollar amount than on purchases and, therefore, spreads change on a nominal dollar basis.
-Increased overhead costs added to the increase in total cost of sales dollars, although decreasing as a percent of net sales.
-As permitted by U.S. generally accepted accounting principles, the Company maintains its inventory costs and cost of goods sold on a first-in, first-out (FIFO) basis and makes a monthly adjustment to adjust total inventory and cost of goods sold from FIFO to LIFO.
-However, decreases in copper and other material prices could necessitate establishing an LCM reserve in future periods.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-For information on the Company’s legal proceedings, see Note 8 to the Company’s consolidated financial statements included in Item 1 to this report and incorporated herein by reference.
-
-
+This 16.7% increase in net sales dollars is primarily the result of a 17.1% increase in copper wire sales, driven by a 16.1% increase in copper wire unit volume shipped and a 0.9% increase in the average selling price of copper wire.For information on the Company’s legal proceedings, see Note 8 to the Company’s consolidated financial statements included in Item 1 to this report and incorporated herein by reference.
