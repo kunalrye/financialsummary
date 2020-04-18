@@ -1,8 +1,3 @@
-fls.txt
-The forward-looking information and statements in this report are subject to risks and uncertainties, including those discussed in our Annual Report on Form 10-K for the fiscal year ended March 31, 2017, that could cause actual results to differ materially from those expressed in or implied by the information or statements herein.
-
-
-item1.txt
 The consolidated financial statements of AVX Corporation and its subsidiaries (“AVX” or the “Company”) include all accounts of the Company and its subsidiaries.
 We have prepared the accompanying financial statements pursuant to the rules and regulations of the Securities and Exchange Commission (“SEC”) for interim financial reporting.
 Certain information and footnote disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States have been omitted in accordance with the rules and regulations of the SEC for interim financial statements.
@@ -19,16 +14,3 @@ In  March 2016, the FASB issued ASU 2016-09, “Compensation — Stock Compensat
 In  January 2017, the FASB issued ASU 2017-04, “Intangibles – Goodwill and Other.” This guidance simplifies how an entity is required to test goodwill for impairment by eliminating Step 2 from the goodwill impairment test.
 Instead, an entity should perform its annual, or interim, goodwill impairment test by comparing the fair value of a reporting unit with its carrying amount and recognize an impairment charge for the amount by which the carrying amount exceeds the reporting unit’s fair value; however, the loss recognized should not exceed the total amount of goodwill allocated to that reporting unit.
 This ASU also removes the requirements for any reporting unit with a zero or negative carrying amount to perform a qualitative assessment, and if it fails that qualitative test to perform Step 2 of the goodwill impairment test.
-In  August 2017, the FASB issued ASU 2017-12, “Derivatives and Hedging.” The standard aims to align the designation and measurement guidance for qualifying hedging relationships and the presentation of hedge results for cash flow and fair value hedge accounting with risk management activities.
-Diluted earnings per share are computed by dividing net earnings by the sum of (a) the weighted average number of shares of common stock outstanding during the period and (b) the dilutive effect of potential common stock equivalents during the period.
-During the three and nine month periods ended  December 31, 2016 and 2017, there have been no transfers of assets or liabilities between levels within the fair value hierarchy.
-The funds in the non-qualified deferred compensation program are valued based on the number of shares in the funds using a price per share traded in an active market.
-If the cost of an investment exceeds its fair value, among other factors, we evaluate general market conditions, the duration and extent to which the fair value is less than cost, and whether or not we expect to recover the security's entire amortized cost.
-We primarily use forward contracts, with maturities generally less than four months, designated as cash flow hedges, to protect against the foreign currency exchange rate risks inherent in our forecasted transactions related to purchase commitments and sales, denominated in various currencies.
-These derivatives are used to offset currency changes in the fair value of the hedged assets and liabilities.
-Fair values for all of our derivative financial instruments are valued by adjusting the market spot rate by forward points, based on the date of the contract.
-The estimated fair value of these investments are based on valuation inputs that include benchmark yields, reported trades, broker and dealer quotes, issuer spreads, two-sided markets, benchmark securities, bids, offers, and reference data, which are Level 2 inputs in the fair value hierarchy.
-We have been identified by the United States Environmental Protection Agency (“EPA”), state governmental agencies or other private parties as a potentially responsible party (“PRP”) under the Comprehensive Environmental Response, Compensation and Liability Act (“CERCLA”), or equivalent state or local laws, for clean-up and response costs associated with certain sites at which remediation is required with respect to prior contamination.
-Because CERCLA or such state statutes authorize joint and several liability, the EPA or state regulatory authorities could seek to recover all clean-up costs from any one of the PRPs at a site despite the involvement of other PRPs.
-
-

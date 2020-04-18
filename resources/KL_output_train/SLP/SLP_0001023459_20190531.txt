@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 Simulations Plus, Inc.
 As contemplated by the SEC under Article 8 of Regulation S-X, the accompanying consolidated financial statements and footnotes have been condensed and therefore do not contain all disclosures required by generally accepted accounting principles.
 Results for interim periods are not necessarily indicative of those to be expected for the full year.
@@ -11,16 +6,7 @@ Significant accounting policies for us include revenue recognition, accounting f
 The standard also provides guidance on the recognition of incremental costs related to obtaining customer contracts.
 We adopted ASC Topic 606, effective September 1, 2018, utilizing the modified retrospective method.
 The reported results for fiscal year 2019 reflect the application of ASC Topic 606, while the reported results for fiscal year 2018 are not adjusted and continue to be reported under ASC Topic 605.
-We generate revenue primarily from the sale of software licenses and providing consulting services to the pharmaceutical industry for drug development.
-Sales commissions for new contracts are deferred and then amortized on a straight-line basis over a period of benefit.
-Sales commissions for renewal contracts are deferred and then amortized on a straight-line basis over the related contractual renewal period.
-Most of our contracts are of a duration of one year or less, few, if any of the longer-term contracts have commissions associated with them.
-ASC 606 provides certain practical expedients that limit the requirement to disclose the aggregate amount of transaction price allocated to unsatisfied performance obligations.
-The Company applied the practical expedient to not disclose the amount of transaction price allocated to unsatisfied performance obligations when the performance obligation is part of a contract that has an original expected duration of one year or less.
-
-
-item2.txt
-Item 2.
+We generate revenue primarily from the sale of software licenses and providing consulting services to the pharmaceutical industry for drug development.Item 2.
 The forward-looking statements contained or incorporated by reference in this document are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (“Securities Act”) and Section 21E of the Securities Exchange Act of 1934, as amended (“Exchange Act”) and are subject to the safe harbor created by the Private Securities Litigation Reform Act of 1995.
 We are a global leader focused on improving the ways scientists use knowledge and data to predict the properties and outcomes of pharmaceutical and biotechnology agents, and are one of only two global companies who provide a wide range of early discovery, preclinical, and clinical consulting services and software.
 We generate revenue by delivering relevant, cost-effective software and creative and insightful consulting services.
@@ -29,22 +15,3 @@ Simulations Plus previously acquired Cognigen Corporation (Cognigen) as a wholly
 Our clinical-pharmacology-based consulting services include pharmacokinetic and pharmacodynamic modeling, clinical trial simulations, data programming, and technical writing services in support of regulatory submissions.
 We have also developed software for harnessing cloud-based computing in support of modeling and simulation activities and secure data archiving, and we provide consulting services to improve interdisciplinary collaborations and research and development productivity.
 Simulation Plus also acquired DILIsym Services, Inc. (DILIsym) as a wholly owned subsidiary.
-Our flagship product, originally introduced in 1998, and currently our largest single source of software revenue, is GastroPlus.
-Because we are outside of the European Union, our participation in this project was at our own expense, while other members were compensated for their work; however, we were a full member with access to all of the data and discussions of all other members.
-Under this RCA, we received up to $200,000 per year.
-Already the most widely used program in the world for PBPK modeling, the addition of these new capabilities is expected to expand the user base in the early pharmaceutical research and development process, while also helping us to further penetrate biopharmaceuticals, food, cosmetics, and general toxicology markets.
-Version 9.7 was in final testing as of May 31, 2019 and released in June 2019.
-
-
-item3.txt
-As of May 31, 2019 and August 31, 2018, we had cash and cash equivalents of $10.31 million and $9.40 million, respectively.
-
-
-item4.txt
-
-
-
-part2.txt
-Item 1.
-
-

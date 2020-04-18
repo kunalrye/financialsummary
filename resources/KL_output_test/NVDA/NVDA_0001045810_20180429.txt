@@ -1,46 +1,16 @@
-item1.txt
-Our license and development arrangements with customers typically require significant customization of our intellectual property components.
-Our software licenses provide our customers with a right to use the software when it is made available to the customer.
+The January 28, 2018 consolidated balance sheet was derived from our audited consolidated financial statements included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018, as filed with the SEC, but does not include all disclosures required by U.S. GAAP.
+The results for the interim periods presented are not necessarily indicative of the results expected for any future period.
+For products sold with a right of return, we record a reduction to revenue by establishing a sales return allowance for estimated product returns at the time revenue is recognized, based primarily on historical return rates.
+We measure progress to completion based on actual cost incurred to date as a percentage of the estimated total cost required to complete each project.
 Customers may purchase either perpetual licenses or subscriptions to licenses, which differ mainly in the duration over which the customer benefits from the software.
 Software licenses are frequently sold along with post contract customer support, or PCS.
 Revenue from software licenses is recognized up front when the software is made available to the customer.
 PCS revenue is recognized ratably over the service period, or as services are performed.
-Our condensed consolidated financial statements include the accounts of NVIDIA Corporation and our wholly-owned subsidiaries.
-All intercompany balances and transactions have been eliminated in consolidation.
-As of April 29, 2018, there were no warrants outstanding.
-The decrease in our effective tax rate in the first quarter of fiscal year 2019 as compared to the same period in the prior fiscal year is primarily due to a decrease in the U.S. statutory tax rate from 35% to 21%, partially offset by a decrease in the impact of tax benefits from stock-based compensation.
-All of our cash equivalents and marketable securities are classified as “available-for-sale” debt securities.
-The amortized cost and estimated fair value of cash equivalents and marketable securities as of April 29, 2018 and January 28, 2018 are shown below by contractual maturity.
-The fair values of our financial assets and liabilities are determined using quoted market prices of identical assets or quoted market prices of similar assets from active markets.
-The increase in gross carrying amount of intangible assets is primarily due to purchases of licensed technology during the first quarter of fiscal year 2019.
-The fair value of the contracts was not significant as of April 29, 2018 and January 28, 2018.
-
-
-item2.txt
-We have extended our focus in recent years to the revolutionary field of AI.
+We operate on a 52- or 53-week year, ending on the last Sunday in January.
+The Financial Accounting Standards Board, or FASB, issued an accounting standards update that creates a single source of revenue guidance under U.S. GAAP for all companies, in all industries.We have extended our focus in recent years to the revolutionary field of AI.
+We adopted the new accounting standard for revenue recognition in the first quarter of fiscal year 2019 using the modified retrospective approach.
+The impact of adopting the new revenue standard was not significant to our consolidated financial statements in the first quarter.
+Gross margin for the first quarter of fiscal year 2019 was 64.5%, increasing from the prior year and the previous quarter due to strong growth in datacenter revenue and the mix within our GeForce gaming GPUs.
+Net income and net income per diluted share for the first quarter of fiscal year 2019 were $1.24 billion and $1.98, respectively, up 145% and 151%, respectively, from a year earlier, fueled by strong revenue growth and improved gross and operating margins.
 During the first quarter of fiscal year 2019, we announced NVIDIA RTX, a computer graphics technology that produces movie-quality images in real time.
-GPU Business.
-Tegra Processor Business.
-GPU Business.
-The gross margin of our GPU business increased during the first quarter of fiscal year 2019 compared to the first quarter of fiscal year 2018, primarily due to strong sales of high-end GeForce gaming GPU products.
-Tegra Processor Business.
-The gross margin of our Tegra Processor business increased during the first quarter of fiscal year 2019 compared to the first quarter of fiscal year 2018.
-Other, net, was not significant during the first quarter of fiscal year 2019.
-Other, net, was an expense of $18 million during the first quarter of fiscal year 2018, consisting primarily of $14 million of losses recognized from early conversions of the Convertible Notes.
-The decrease in our effective tax rate in the first quarter of fiscal year 2019 as compared to the same period in the prior fiscal year is primarily due to a decrease in the U.S. statutory tax rate from 35% to 21%, partially offset by a decrease in the impact of tax benefits from stock-based compensation.
-These marketable securities are denominated in United States dollars.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-Refer to Part I, Item 1, Note 13 of the Notes to Condensed Consolidated Financial Statements for a discussion of significant developments in our legal proceedings since January 28, 2018.
-Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018 for a prior discussion of our legal proceedings.
-
-
+Refer to Note 15 of the Notes to Condensed Consolidated Financial Statements for disclosure regarding segment information.Refer to Part I, Item 1, Note 13 of the Notes to Condensed Consolidated Financial Statements for a discussion of significant developments in our legal proceedings since January 28, 2018.

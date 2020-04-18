@@ -1,9 +1,4 @@
-fls.txt
-The following Management’s Discussion and Analysis (“MD&A”) is intended to assist in an understanding of our financial condition and results of operations.
-
-
-item1.txt
-As used in these Notes to Condensed Consolidated Financial Statements (Unaudited) (these “Notes”), the terms “Harris,” “Company,” “we,” “our” and “us” refer to Harris Corporation and its consolidated subsidiaries.
+The following Management’s Discussion and Analysis (“MD&A”) is intended to assist in an understanding of our financial condition and results of operations.As used in these Notes to Condensed Consolidated Financial Statements (Unaudited) (these “Notes”), the terms “Harris,” “Company,” “we,” “our” and “us” refer to Harris Corporation and its consolidated subsidiaries.
 The accompanying Condensed Consolidated Financial Statements (Unaudited) have been prepared by Harris, without an audit, in accordance with U.S. generally accepted accounting principles (“GAAP”) for interim financial information and with the rules and regulations of the Securities and Exchange Commission (“SEC”).
 The results for the third quarter and first three quarters of fiscal 2018 are not necessarily indicative of the results that may be expected for the full fiscal year or any subsequent period.
 Reclassifications include certain human resources and information technology (“IT”) costs from the “Cost of product sales and services” line item to the “Engineering, selling and administrative expenses” line item in our Condensed Consolidated Statement of Income (Unaudited) and in these Notes.
@@ -11,38 +6,10 @@ In the first quarter of fiscal 2018, we adopted an accounting standards update i
 Consequently, this update eliminates the exception to the recognition of current and deferred income taxes for intra-entity transfers of assets other than for inventory until the assets have been sold to an outside party.
 Adopting this update resulted in a $27 million reduction of prepaid income tax assets from the “Other current assets” and “Other non-current assets” line items and a $27 million increase in the “Non-current deferred income taxes” line item in our Condensed Consolidated Balance Sheet (Unaudited) as of September 29, 2017.
 The guidance in this standard is principles-based and, consequently, entities will be required to use more judgment and make more estimates than under prior guidance, including identifying contract performance obligations, estimating variable consideration to include in the contract price and allocating the transaction price to separate performance obligations.
-The core principle of this standard is that entities should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods and services.
-To help financial statement users better understand the nature, amount, timing and potential uncertainty of the revenue that is recognized, this standard requires significantly more interim and annual disclosures.
-•Initiating the process of reviewing the additional disclosure requirements of this standard and the potential impact on our accounting systems and internal control structure.
-•The timing of revenue recognition based on the more prescriptive guidance for recognizing revenue on an “over time” basis, especially for certain non-U.S. Government contracts based on existing contractual language; Because of the broad scope of this standard, it could impact revenue and cost recognition across all of our business segments as well as related business processes and IT systems.
-The full retrospective approach would require us to apply this standard to each subsequent period presented and to recognize the cumulative effect of adopting this standard as of the beginning of our fiscal 2017 - the earliest comparative period to be presented subsequent to adoption.
-Entities are required to use a modified retrospective approach for leases that exist or are entered into after the beginning of the earliest comparative period in the financial statements, with the option to use certain relief.
-
-
-item2.txt
-The following Management’s Discussion and Analysis (“MD&A”) is intended to assist in an understanding of our financial condition and results of operations.
+The core principle of this standard is that entities should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods and services.The following Management’s Discussion and Analysis (“MD&A”) is intended to assist in an understanding of our financial condition and results of operations.
 “Management’s Discussion and Analysis of Financial Condition and Results of Operations” included in our Fiscal 2017 Form 10-K. Certain prior-year amounts have been reclassified in our Condensed Consolidated Financial Statements (Unaudited) to conform with current-year classifications.
 Reclassifications include certain human resources and IT costs from the “Cost of product sales and services” line item to the “Engineering, selling and administrative expenses” line item in our Condensed Consolidated Statement of Income (Unaudited) and in the Notes.
 The increase in segment gross margin in the third quarter of fiscal 2018 compared with the third quarter of fiscal 2017 was primarily due to the increase in revenue.
 Segment gross margin percentage in the third quarter of fiscal 2018 was comparable with the third quarter of fiscal 2017 as the impact of a less favorable mix of program and product sales was offset by productivity savings.
 The increase in segment ESA expenses and segment ESA percentage in the third quarter of fiscal 2018 compared with the third quarter of fiscal 2017 was primarily due to higher employment and distribution costs.
-The increases in segment operating income and segment operating margin percentage in the third quarter of fiscal 2018 compared with the third quarter of fiscal 2017 reflected the combined effects of the items discussed above regarding this segment.
-Segment gross margin percentage for the first three quarters of fiscal 2018 decreased slightly compared with the first three quarters of fiscal 2017 primarily due to a less favorable mix of program revenue and product sales, mostly offset by productivity savings.
-The increases in segment operating income and operating margin percentage in the first three quarters of fiscal 2018 compared with the first three quarters of fiscal 2017 reflected the combined effects of the items discussed above regarding this segment for the first three quarters of fiscal 2018 and 2017.
-The decreases in segment operating income and operating margin percentage in the third quarter of fiscal 2018 compared with the third quarter of fiscal 2017 reflected the combined effects of the items discussed above regarding this segment.
-The decreases in segment operating income and operating margin percentage in the first three quarters of fiscal 2018 compared with the first three quarters of fiscal 2017 reflected the combined effects of the items discussed above regarding this segment for the first three quarters of fiscal 2018 and 2017.
-
-
-item3.txt
-Quantitative and Qualitative Disclosures about Market Risk.
-
-
-item4.txt
-Item 4.
-
-
-part2.txt
-These audits may result in assessments of additional taxes that are subsequently resolved with the authorities or ultimately through legal proceedings.
-We face the risk, as does any company, of a security breach, whether through cyber attack or cyber intrusion over the Internet, malware, computer viruses, attachments to e-mails, persons inside our organization or with access to systems inside our organization, or other significant disruption of our IT networks and related systems or those of our suppliers or subcontractors.
-
-
+The increases in segment operating income and segment operating margin percentage in the third quarter of fiscal 2018 compared with the third quarter of fiscal 2017 reflected the combined effects of the items discussed above regarding this segment.These audits may result in assessments of additional taxes that are subsequently resolved with the authorities or ultimately through legal proceedings.

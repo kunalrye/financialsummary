@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 The unaudited condensed consolidated financial statements of Marvell Technology Group Ltd., a Bermuda exempted company, and its wholly owned subsidiaries (the “Company”), as of and for the three and nine months ended November 2, 2019, have been prepared as required by the U.S. Securities and Exchange Commission (the “SEC”).
 These unaudited condensed consolidated financial statements and related notes should be read in conjunction with the Company's fiscal year 2019 audited financial statements included in the Company's Annual Report on Form 10-K for the fiscal year ended February 2, 2019.
 In the opinion of management, the financial statements include all adjustments, including normal recurring adjustments and other adjustments, that are considered necessary for fair presentation of the Company’s financial position and results of operations.
@@ -12,38 +7,10 @@ In addition, the Company classified liabilities held for sale of $5.6 million as
 The unaudited condensed consolidated financial statements include the operating results of Aquantia for the period from the date of acquisition to the Company’s third quarter ended November 2, 2019.
 Subsequent to quarter end, on November 5, 2019, the Company acquired Avera Semiconductor (“Avera”), the Application Specific Integrated Circuit (“ASIC”) business of GlobalFoundries (“GlobalFoundries”) for $597.5 million in cash at closing.
 In February 2016, the Financial Accounting Standards Board (“FASB”) issued a new standard on the accounting for leases, which amends the existing guidance to require lessees to recognize assets and liabilities on the balance sheet for the rights and obligation created by long-term leases and to disclose additional quantitative and qualitative information about leasing arrangements.
-The Company adopted the new lease accounting standard on February 3, 2019, using the modified retrospective approach by applying the new standard to leases existing at the date of initial application and not restating comparative periods.
-In June 2016, the FASB issued a new standard requiring financial assets measured at amortized cost be presented at the net amount expected to be collected, through an allowance for credit losses that is deducted from the amortized cost basis.
-The Company does not expect the adoption of this guidance will have a material effect on its consolidated financial statements.
-In August 2018, the FASB issued an accounting standards update to align the requirements for capitalizing implementation costs incurred in a software hosting arrangement that is a service contract and costs to develop or obtain internal-use software.
-The Company does not expect the adoption of this guidance will have a material effect on its consolidated financial statements.
-The Company does not expect the adoption of this guidance will have a material effect on its consolidated financial statements.
-
-
-item2.txt
-This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), which are subject to the “safe harbor” created by those sections.
-In the third quarter of fiscal 2020, our net revenue decreased year over year by 22% from $851.1 million net revenue in the third quarter fiscal 2019 compared with $662.5 million in the third quarter of fiscal 2020.
-Our net revenue for the nine months ended November 2, 2019 decreased by $139.5 million compared to net revenue for the nine months ended November 3, 2018.
-
-
-item3.txt
-With our outstanding debt following our acquisition of Cavium, we are exposed to various forms of market risk, including the potential losses arising from adverse changes in interest rates on our outstanding Term Loan and Revolving Credit Facility.
-
-
-item4.txt
-
-
-
-part2.txt
-The information under the caption “Contingencies” as set forth in “Note 10 – Commitments and Contingencies” of our Notes to Unaudited Condensed Consolidated Financial Statements, included in Part I, Item 1, is incorporated herein by reference.
+The Company adopted the new lease accounting standard on February 3, 2019, using the modified retrospective approach by applying the new standard to leases existing at the date of initial application and not restating comparative periods.This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), which are subject to the “safe harbor” created by those sections.
+In the third quarter of fiscal 2020, our net revenue decreased year over year by 22% from $851.1 million net revenue in the third quarter fiscal 2019 compared with $662.5 million in the third quarter of fiscal 2020.The information under the caption “Contingencies” as set forth in “Note 10 – Commitments and Contingencies” of our Notes to Unaudited Condensed Consolidated Financial Statements, included in Part I, Item 1, is incorporated herein by reference.
 Many of these risks and uncertainties are beyond our control, including business cycles and seasonal trends of the computing, infrastructure, semiconductor and related industries and end markets.
 In addition, the trading price of our common shares could decline due to the occurrence of any of these risks, and you could lose all or part of your investment.
 •changes in general economic conditions, such as the impact of Brexit on the economy in the E.U., political conditions, such as the recent tariffs and trade bans, and specific conditions in the end markets we address, including the continuing volatility in the technology sector and semiconductor industry; Accordingly, you may not be able to resell your common shares at or above the price you paid.
 In addition, we have entered into an asset purchase agreement with NXP USA, Inc. dated May 29, 2019 pursuant to which we agreed to sell to NXP certain assets related to our wireless business for $1.76 billion in cash at closing, subject to working capital and other customary adjustments that will be determined at close.
 Given that our resources are limited, our decision to pursue a transaction has opportunity costs; accordingly, if we pursue a particular transaction, we may need to forgo the prospect of entering into other transactions that could help us achieve our strategic objectives.
-Our acquisitions of Aquantia and Avera involve a number of risks, including, among others, those associated with our use of a significant portion of our cash or our taking on significant indebtedness and other financial risks and integration risks.
-We used a significant portion of our cash and incurred substantial indebtedness in connection with the financing of our acquisition of Cavium (the “Cavium acquisition”).
-We also used cash and indebtedness to finance our acquisition of Aquantia and indebtedness to finance our acquisition of Avera (collectively, the “Acquisitions”).
-Any of the above could harm the combined company and thus decrease the benefits we expect to receive from the acquisitions.
-
-

@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 The accompanying notes are an integral part of these condensed consolidated financial statements.
 The accompanying notes are an integral part of these condensed consolidated financial statements.
 The accompanying notes are an integral part of these condensed consolidated financial statements.
@@ -14,36 +9,6 @@ In the opinion of management, the accompanying unaudited condensed consolidated 
 The Company's significant accounting policies are described in Note 1 of the Notes to Consolidated Financial Statements included in the Company's Annual Report on Form 10-K for the year ended December 31, 2017.
 The new standard states that a lessee will recognize a lease liability for the obligation to make lease payments and a right-of-use asset for the right to use the underlying asset for the lease term.
 Leases will be classified as either finance or operating, with classification affecting the pattern of expense recognition in the Consolidated Statements of Operations.
-There was no impact on the opening accumulated deficit as of January 1, 2018 due to the adoption of Topic 606.
-We reclassified the sales return reserve to current liabilities presented as "Price adjustment and other revenue reserves" from the allowance for accounts receivable due to the adoption of Topic 606.
-Revenues are recognized when control of the promised goods or services is transferred to our customers, in an amount that reflects the consideration we expect to be entitled to in exchange for those goods or services.
-Sales of products with alternative use account for the majority of our revenue and are recognized at a point in time, the timing of such recognition remained the same under Topic 606.
-We then select an appropriate method for measuring progress toward complete satisfaction of the performance obligation, usually costs incurred to date relative to the total expected costs to the satisfaction of that performance obligation.
-We do not disclose the value of unsatisfied performance obligations for (i) contracts with an original expected length of one year or less and (ii) contracts for which we recognize revenue at the amount to which we have the right to invoice for services performed.
-In November 2016, the FASB issued ASU 2016-18 Restricted Cash, which requires amounts generally described as restricted cash and restricted cash equivalents to be included with cash and cash equivalents when reconciling the total beginning and ending amounts for the periods shown on the statement of cash flows.
-The Company adopted the provisions of ASU 2016-18 as of January 1, 2018.
-
-
-item2.txt
-Our total revenues increased by $30.3 million, or 5.1%, to $624.1 million for the three-month period ended July 1, 2018 compared to the same period in the prior year.
+There was no impact on the opening accumulated deficit as of January 1, 2018 due to the adoption of Topic 606.Our total revenues increased by $30.3 million, or 5.1%, to $624.1 million for the three-month period ended July 1, 2018 compared to the same period in the prior year.
 The increase was primarily driven by strength in wired and wireless connectivity, microcontrollers, and memory products.
-Our total revenues increased by $80.7 million, or 7.2%, to $1,206.3 million for the six-month period ended July 1, 2018 compared to the same period in the prior year.
-The increase was primarily driven by strength in wired and wireless connectivity, microcontrollers, and memory products.
-Revenues recorded by MCD increased by $8.0 million, or 2.2%, in the three months ended July 1, 2018 compared to the same prior year period.
-Revenues recorded by MCD increased by $26.8 million, or 4.0%, in the six months ended July 1, 2018 compared to the same prior year period.
-
-
-item3.txt
-Our investment portfolio consists of a variety of financial instruments that expose us to interest rate risk, including, but not limited to, money market funds, certificates of deposit, and corporate securities.
-Our debt obligations consist of a variety of financial instruments that expose us to interest rate risk, including, but not limited to our revolving credit facility, term loans and exchangeable notes.
-
-
-item4.txt
-In designing and evaluating our disclosure controls and procedures, management recognized that disclosure controls and procedures, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the disclosure controls and procedures are met.
-
-
-part2.txt
-For example, our sales were impacted in the second quarter of 2018 when the U.S. Department of Commerce banned U.S. companies from providing exports to ZTE, a Chinese telecoms equipment manufacturer (which ban was subsequently lifted in the third quarter of 2018) in an export controls case.
-Similarly, general trade tensions between the U.S. and China have been escalating in 2018, with one round of U.S. tariffs on Chinese goods taking effect in July 2018 followed by a round of retaliatory Chinese tariffs on U.S. goods.
-
-
+Our total revenues increased by $80.7 million, or 7.2%, to $1,206.3 million for the six-month period ended July 1, 2018 compared to the same period in the prior year.Our investment portfolio consists of a variety of financial instruments that expose us to interest rate risk, including, but not limited to, money market funds, certificates of deposit, and corporate securities.For example, our sales were impacted in the second quarter of 2018 when the U.S. Department of Commerce banned U.S. companies from providing exports to ZTE, a Chinese telecoms equipment manufacturer (which ban was subsequently lifted in the third quarter of 2018) in an export controls case.

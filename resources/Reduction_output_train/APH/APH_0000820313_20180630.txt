@@ -1,8 +1,3 @@
-fls.txt
-Although the Company believes the expectations reflected in such forward-looking statements, including those with regards to results of operations, liquidity or the Company’s effective tax rate and the related impact of the U.S. Tax Cuts and Jobs Act (“Tax Act”), are based upon reasonable assumptions, the expectations may not be attained or there may be material deviation.
-
-
-item1.txt
 The condensed consolidated balance sheets as of June 30, 2018 and December 31, 2017, the related condensed consolidated statements of income and condensed consolidated statements of comprehensive income for the three and six months ended June 30, 2018 and 2017, and the related condensed consolidated statements of cash flow for the six months ended June 30, 2018 and 2017 include the accounts of Amphenol Corporation and its subsidiaries (“Amphenol”, the “Company”, “we”, “our”, or “us”).
 In the opinion of management, all adjustments, consisting of normal recurring adjustments, necessary for a fair presentation in conformity with accounting principles generally accepted in the United States of America have been included.
 These condensed consolidated financial statements and the related notes should be read in conjunction with the consolidated financial statements and notes included in the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2017 (the “2017 Annual Report”).
@@ -19,31 +14,4 @@ For the contracts recognized over time, we typically record revenue using the in
 This method reasonably depicts when and as control of the goods transfers to the customer, since it measures our progress in producing the goods, which is generally commensurate with this transfer of control.
 The reserve is recorded as a reduction to revenue in the same period that the related revenue is recorded and is calculated based on an analysis of historical claims and returns over a period of time to appropriately account for current pricing and business trends.
 The warranty claim is generally limited to a credit equal to the purchase price or a promise to repair or replace the product for a specified period of time at no additional charge.
-The Company accounts for shipping and handling activities related to contracts with customers as a cost to fulfill our promise to transfer control of the related product, including any such costs incurred after the customer has obtained control of the goods.
-Contract assets and contract liabilities recorded in the Company’s Condensed Consolidated Balance Sheets were not significant both at the date of adoption and as of June 30, 2018.
-Capitalized contract costs to obtain a contract or to fulfill a contract that are not accounted for under other existing accounting standards are recorded as either other current or long-term assets on the accompanying Condensed Consolidated Balance Sheets, depending on the timing of when the Company expects to recognize the expense, and are generally amortized consistent with the timing of when transfer of control of the related goods occurs.
-Such capitalized contract costs were not significant both at the date of adoption and as of June 30, 2018, and the related amortization expense was not significant for the three and six months ended June 30, 2018.
-Earnings per share is determined after the impact of the noncontrolling interests’ share in net income of the Company.
-On January 24, 2017, the Company’s Board of Directors authorized a stock repurchase program under which the Company could purchase up to $1,000.0 of the Company’s Common Stock during the two-year period ending January 24, 2019 in accordance with the requirements of Rule 10b-18 of the Exchange Act (the “2017 Stock Repurchase Program”).
-During the three months ended March 31, 2018, the Company repurchased 4.2 million shares of its common stock for $382.0 under the 2017 Stock Repurchase Program, bringing total repurchases under this program to approximately 12.6 million shares or $1,000.0, thus completing the 2017 Stock Repurchase Program.
-On April 24, 2018, the Company’s Board of Directors authorized a new stock repurchase program under which the Company may purchase up to $2,000.0 of the Company’s Common Stock during the three-year period ending April 24, 2021 in accordance with the requirements of Rule 10b-18 of the Exchange Act (the “2018 Stock Repurchase Program”).
-During the three months ended June 30, 2018, the Company repurchased 3.1 million shares of its common stock for $263.4 under the 2018 Stock Repurchase Program.
-From July 1, 2018 to July 27, 2018, the Company repurchased approximately 0.4 million additional shares of its common stock for $34.8, leaving approximately $1,701.8 available to purchase under the 2018 Stock Repurchase Program.
-
-
-item2.txt
-
-
-
-item3.txt
-these changes in exchange rates, including in the event of a significant and sudden decline in the value of any of the foreign currencies for which such borrowings are made.
-
-
-item4.txt
-The Company’s management, with the participation of the Company’s Chief Executive Officer and Chief Financial Officer, has evaluated the effectiveness of the design and operation of our disclosure controls and procedures, pursuant to Rules 13a-15(e) or 15d-15(e) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), as of the end of the period covered by this report.
-
-
-part2.txt
-Item 1.
-
-
+The Company accounts for shipping and handling activities related to contracts with customers as a cost to fulfill our promise to transfer control of the related product, including any such costs incurred after the customer has obtained control of the goods.Item 1.

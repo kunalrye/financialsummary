@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 The accompanying notes are an integral part of these financial statements.
 The accompanying notes are an integral part of these financial statements.
 The accompanying notes are an integral part of these financial statements.
@@ -11,16 +6,7 @@ As contemplated by the SEC under Article 8 of Regulation S-X, the accompanying c
 Results for interim periods are not necessarily indicative of those to be expected for the full year.
 Recently, the Company has begun to explore developing software applications for defense and for health care outside of the pharmaceutical industry.
 Significant accounting policies for us include revenue recognition, accounting for capitalized computer software development costs, valuation of stock options, and accounting for income taxes.
-The standard also provides guidance on the recognition of incremental costs related to obtaining customer contracts.
-We adopted ASC Topic 606, effective September 1, 2018, utilizing the modified retrospective method.
-The reported results for fiscal year 2019 reflect the application of ASC Topic 606, while the reported results for fiscal year 2018 are not adjusted and continue to be reported under ASC Topic 605.
-We generate revenue primarily from the sale of software licenses and providing consulting services to the pharmaceutical industry for drug development.
-Sales commissions for new contracts are deferred and then amortized on a straight-line basis over a period of benefit.
-Sales commissions for renewal contracts are deferred and then amortized on a straight-line basis over the related contractual renewal period.
-
-
-item2.txt
-Item 2.
+The standard also provides guidance on the recognition of incremental costs related to obtaining customer contracts.Item 2.
 The forward-looking statements contained or incorporated by reference in this document are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (“Securities Act”) and Section 21E of the Securities Exchange Act of 1934, as amended (“Exchange Act”) and are subject to the safe harbor created by the Private Securities Litigation Reform Act of 1995.
 We generate revenue by delivering relevant, cost-effective software and creative and insightful consulting services.
 Pharmaceutical and biotechnology companies use our software programs and scientific consulting services to guide early drug discovery (molecule design and screening), preclinical, and clinical development programs.
@@ -28,22 +14,3 @@ Simulations Plus previously acquired Cognigen Corporation (Cognigen) as a wholly
 Our clinical-pharmacology-based consulting services include pharmacokinetic and pharmacodynamic modeling, clinical trial simulations, data programming, and technical writing services in support of regulatory submissions.
 We have also developed software for harnessing cloud-based computing in support of modeling and simulation activities and secure data archiving, and we provide consulting services to improve interdisciplinary collaborations and research and development productivity.
 Simulation Plus also acquired DILIsym Services, Inc. (DILIsym) as a wholly owned subsidiary.
-Our flagship product, originally introduced in 1998, and currently our largest single source of software revenue, is GastroPlus.
-Under this RCA, we received up to $200,000 per year.
-Already the most widely used program in the world for PBPK modeling, the addition of these new capabilities is expected to expand the user base in the early pharmaceutical research and development process, while also helping us to further penetrate biopharmaceuticals, food, cosmetics, and general toxicology markets.
-Version 9.7 is now in development and release is expected in early 2019.
-This version will add a number of important new capabilities, including improvements to population simulations, dissolution, absorption, PBPK models, and drug-drug interactions, among others.
-
-
-item3.txt
-In addition, we do not hold any instruments for trading purposes and investment.
-
-
-item4.txt
-
-
-
-part2.txt
-Item 1.
-
-

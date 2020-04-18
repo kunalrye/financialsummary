@@ -1,8 +1,3 @@
-fls.txt
-The forward-looking information and statements in this report are subject to risks and uncertainties, including those discussed in our Annual Report on Form 10-K for the fiscal year ended March 31, 2018, that could cause actual results to differ materially from those expressed in or implied by the information or statements herein.
-
-
-item1.txt
 The consolidated financial statements of AVX Corporation and its subsidiaries (“AVX” or the “Company”) include all accounts of the Company and its subsidiaries.
 We have prepared the accompanying financial statements pursuant to the rules and regulations of the Securities and Exchange Commission (“SEC”) for interim financial reporting.
 Certain information and footnote disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States have been omitted in accordance with the rules and regulations of the SEC for interim financial statements.
@@ -19,16 +14,3 @@ The Company recognizes the estimated variable consideration to be received as re
 We utilize the “portfolio approach” practical expedient in ASC 606, which allows entities to apply the guidance to a portfolio of contracts with similar characteristics because the effects on the financial statements of this approach would not differ materially from applying the guidance to individual contracts.
 Using the “portfolio approach,” we believe we have an adequate basis to assess the reasonableness and reliability of our estimates for each program.
 Sales revenue and cost of sales reported in the statement of operations are reduced to reflect estimated returns.
-Rather, we believe our use of the “portfolio approach” provides an adequate basis to assess the reasonableness and reliability of our estimates for each program.
-Stock rotation is a program whereby distributor customers are allowed to return, for credit, qualified inventory, semi-annually, equal to a certain percentage, primarily limited to 5% of the previous six months net sales.
-Ship-from-Stock and Debit (“ship and debit”) is a program designed to assist distributor customers in meeting competitive prices in the marketplace on sales to their end customers.
-Ship and debit programs require a request from the distributor for a pricing adjustment for a specific part for a sale to the distributor’s end customer from the distributor’s stock.
-At the time the distributor ships the part from stock, the distributor debits us for the authorized pricing adjustment.
-In 2014, the FASB issued ASU 2014-09, “Revenue from Contracts with Customers.” This guidance modifies how an entity will determine the measurement of revenue and timing of when it is recognized.
-In February 2016, FASB issued ASU 2016-02, “Leases.” This guidance changes the requirements for inclusion of certain right-of-use assets and the associated lease liabilities to be included in a statement of financial position.
-Regarding finance leases, lessees are required to 1) recognize a right-of-use asset and a lease liability, initially measured at the present value of the lease payments, in the statement of financial position, 2) recognize interest on the lease liability separate from the amortization of the right-of-use asset in the statement of comprehensive income, and 3) classify repayments of the principal portion of the lease liability within financing activities and payments of interest on the lease liability and variable lease payments within operating activities in the statement of cash flows.
-In August 2017, the FASB issued ASU 2017-12, “Derivatives and Hedging.” The standard aims to align the designation and measurement guidance for qualifying hedging relationships and the presentation of hedge results for cash flow and fair value hedge accounting with risk management activities.
-We used the acquisition method of accounting to record the below transactions in accordance with FASB Accounting Standards Codification Topic 805, “Business Combinations.” In accordance with the acquisition method, the purchase price is allocated to the assets acquired and liabilities assumed based on their estimated fair values with the excess being allocated to goodwill.
-The acquired intangible assets relate to the AB Electronics trade name, existing technology and customer relationships which are being amortized over one, eleven, and six years respectively.
-
-

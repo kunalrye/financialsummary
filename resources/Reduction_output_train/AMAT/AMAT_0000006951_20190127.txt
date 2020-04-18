@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 In the opinion of management, the unaudited interim consolidated condensed financial statements of Applied Materials, Inc. and its subsidiaries (Applied or the Company) included herein have been prepared on a basis consistent with the October 28, 2018 audited consolidated financial statements and include all material adjustments, consisting of normal recurring adjustments, necessary to fairly present the information set forth therein.
 These unaudited interim consolidated condensed financial statements should be read in conjunction with the audited consolidated financial statements and notes thereto included in Applied’s Annual Report on Form 10-K for the fiscal year ended October 28, 2018 (2018 Form 10-K).
 On an ongoing basis, Applied evaluates its estimates, including those related to standalone selling price (SSP) related to revenue recognition, accounts receivable and sales allowances, fair values of financial instruments, inventories, intangible assets and goodwill, useful lives of intangible assets and property and equipment, fair values of share-based awards, and income taxes, among others.
@@ -12,38 +7,10 @@ Applied receives payment at the inception of the contract and recognizes revenue
 Applied recognizes revenue when promised goods or services are transferred to a customer in an amount that reflects the consideration to which Applied expects to be entitled in exchange for those goods or services.
 Applied determines revenue recognition through the following five steps; (1) identification of the contract(s) with customers, (2) identification of the performance obligations in the contract, (3) determination of the transaction price, (4) allocation of the transaction price to the performance obligations in the contract, and (5) recognition of revenue when, or as, a performance obligation is satisfied.
 Applied’s service agreements are considered one performance obligation and may include multiple goods and services that we provide to the customer to deliver against a performance metric.
-Applied includes variable consideration in the transaction price to the extent that it is probable that a significant reversal of revenue will not occur when the uncertainty associated with the variable consideration is subsequently resolved.
-For contracts with multiple performance obligations, Applied allocates the contract’s transaction price to each performance obligation using the relative standalone selling price of each distinct good or service in the contract.
-Generally, the majority of payments are due within a certain number of days from shipment of goods or performance of service.
-Applied typically receives deposits on future deliverables from customers in the Display and Adjacent Markets segment and, in certain instances, may also receive deposits from customers in the Applied Global Services segment.
-Investments classified as available-for-sale are measured and recorded at fair value with changes in fair value recorded in the accompanying Consolidated Statements of Operations.
-Interest earned on cash and investments, as well as realized gains and losses on sale of securities, are included in interest and other income, net in the accompanying Consolidated Condensed Statements of Operations.
-In March 2017, the FASB issued authoritative guidance which requires companies to present the service cost component of net benefit cost in the same line items in which they report compensation cost.
-
-
-item2.txt
-Applied’s results are driven primarily by customer spending on capital equipment and services to support key technology transitions or to increase production volume in response to worldwide demand for semiconductors and displays.
+Applied includes variable consideration in the transaction price to the extent that it is probable that a significant reversal of revenue will not occur when the uncertainty associated with the variable consideration is subsequently resolved.Applied’s results are driven primarily by customer spending on capital equipment and services to support key technology transitions or to increase production volume in response to worldwide demand for semiconductors and displays.
 Fiscal 2019 and 2018 each contains 52 weeks, and the first three months of fiscal 2019 and 2018 each contained 13 weeks.
 Investment in semiconductor and display manufacturing equipment and services continued to be the main driver of revenue during the first three months of fiscal 2019.
 Semiconductor equipment customers made investments in new capacity and technology transitions, although overall spending decreased compared to the same period in the prior year.
-Display equipment spending during the first quarter of fiscal 2019 reflected continued investment in new technology and manufacturing equipment for producing larger LCD TVs and in new equipment for mobile devices.
-Applied also continued to see strong growth in demand for services and continued demand for spares from customers as compared to the same period in the prior year.
-While Applied anticipates major technology trends to continue driving long-term growth in the semiconductor industry, the trends characterizing the second half of 2018 continued into early fiscal 2019, with lower spending by memory customers, and foundry and logic customers prioritizing spending on longer lead-time equipment not in Applied’s product portfolio.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-The risk factors set forth below include any material changes to, and supersede the description of, the risk factors disclosed in Part I, Item 1A of Applied’s 2018 Form 10-K.
+Display equipment spending during the first quarter of fiscal 2019 reflected continued investment in new technology and manufacturing equipment for producing larger LCD TVs and in new equipment for mobile devices.The risk factors set forth below include any material changes to, and supersede the description of, the risk factors disclosed in Part I, Item 1A of Applied’s 2018 Form 10-K.
 The amount and mix of capital equipment spending between different products and technologies can have a significant impact on the Company’s results of operations.
 To meet rapidly changing demand in the industries it serves, Applied must accurately forecast demand and effectively manage its resources and production capacity across its businesses, and may incur unexpected or additional costs to align its business operations.
-During periods of increasing demand for its products, Applied must have sufficient manufacturing capacity and inventory to meet customer demand; effectively manage its supply chain; attract, retain and motivate a sufficient number of qualified employees; and continue to control costs.
-During periods of decreasing demand, Applied must reduce costs and align its cost structure with prevailing market conditions; effectively manage its supply chain; and motivate and retain key employees.
-
-

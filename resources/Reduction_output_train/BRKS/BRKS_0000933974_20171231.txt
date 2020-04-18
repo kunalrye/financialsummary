@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 The accompanying notes are an integral part of these unaudited consolidated financial statements.
 The accompanying notes are an integral part of these unaudited consolidated financial statements.
 The accompanying notes are an integral part of these unaudited consolidated financial statements.
@@ -12,17 +7,7 @@ The accompanying Consolidated Balance Sheet as of September 30, 2017 was derived
 Foreign exchange contract assets and liabilities are measured and reported at fair value based on observable market inputs and classified within Level 2 of the fair value hierarchy due to a lack of an active market for these contracts.
 Additionally, the entity can make an accounting policy election to either estimate the number of awards that are expected to vest, consistent with the current accounting guidance, or account for forfeitures as they occur.
 The amendment clarifies the requirements for assessing whether contingent call (put) options that can accelerate the payment of principal on debt instruments are clearly and closely related to the debt host contracts.
-An entity performing the assessment in accordance with this guidance is required to assess the embedded call (put) options solely in accordance with the four-step decision process set forth in the guidance.
-For finance leases, interest on a lease liability should be recognized separately from the amortization of the right-of-use asset, while for operating leases, total lease costs are recorded on a straight-line basis over the lease term.
-Entities should determine at the inception of the arrangement whether a contract represents a lease or contains a lease which is defined as a right to control the use of identified property for a period of time in exchange for consideration.
-Additionally, entities should separate the lease components from the non-lease components and allocate the contract consideration on a relative standalone price basis in accordance with provisions of ASC Topic 606, Revenue from Contracts with Customers.
-Entities are required to estimate expected credit losses over the life of financial assets and record an allowance against the assets’ amortized cost basis to present them at the amount expected to be collected.
-Additionally, the guidance amends the impairment model for available for sale debt securities and requires entities to determine whether all or a portion of the unrealized loss on such debt security is a credit loss.
-The guidance provides for the recognition of revenue when promised goods or services are transferred to customers in an amount that reflects the consideration that is expected to be received for those goods or services.
-
-
-item2.txt
-This Quarterly Report on Form 10‑Q contains statements that are, or may be considered to be, forward-looking statements within the meaning of The Private Securities Litigation Reform Act of 1995, as amended, Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended.
+An entity performing the assessment in accordance with this guidance is required to assess the embedded call (put) options solely in accordance with the four-step decision process set forth in the guidance.This Quarterly Report on Form 10‑Q contains statements that are, or may be considered to be, forward-looking statements within the meaning of The Private Securities Litigation Reform Act of 1995, as amended, Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended.
 Our leadership position and global support structure in each of these markets makes us a valued business partner to the some of the world’s largest semiconductor capital equipment and device makers, as well as pharmaceutical and life science research institutions in the world.
 In the life sciences sample management market, we utilize our core competencies and capabilities in automation and cryogenics to provide comprehensive bio-sample management solutions to a broad range of end markets within the life sciences industry.
 In October 2017, we acquired all of the outstanding capital stock of 4titude Limited, or 4titude, a U.K.-based manufacturer of scientific consumables for biological sample materials used in a variety of genomic and DNA analytical applications, for a total purchase price of $65.2 million, net of cash acquired.
@@ -30,21 +15,3 @@ Please refer to Note 4, “Acquisitions” in the Notes to the unaudited consoli
 Results of Operations- Revenue for the three months ended December 31, 2017 increased to $189.3 million, or by 18%, as compared to the corresponding period of the prior fiscal year.
 Gross margin was 39.7% for the first quarter of fiscal year 2018 as compared to 35.6% for the first quarter of fiscal year 2017, which resulted in an increase in gross profit of $18.3 million.
 Operating expenses were $54.4 million during the first quarter of fiscal year 2018 as compared to $43.8 million during the first quarter of fiscal year 2017, an increase of $10.6 million.
-The increase of $2.6 million was primarily attributable to the increase in operating income of $7.7 million, as noted above, partically offset by the impact of non-operating expenses which reduced net income by $5.3 million compared to the corresponding period of the prior fiscal year.
-The increase in cash and cash equivalents and marketable securities of $127.6 million was primarily attributable to cash inflows of $197.6 million related to proceeds from the term loan and cash inflows of $3.2 million generated from our operating activities, partially offset by cash outflows related to acquisition payments of $65.1 million, dividend payments of $7.1 million made to our shareholders during the first quarter of fiscal year 2018, as well as capital expenditures of $2.7 million.
-Cash inflows of $3.2 million generated from operating activities during the three months ended December 31, 2017 were comprised primarily of earnings of $27.1 million, including net income of $16.5 million and the impact of non-cash related charges of $10.6 million, partially offset by uses of cash of $23.9 million related to the changes in our operating assests and liabilities, net of acquisitions.
-Please refer to "Liquidity and Capital Resources" section below for a detailed discussion of our liquidity and changes in cash flows for the three months ended December 31, 2017 compared to the three months ended December 31, 2016.
-
-
-item3.txt
-Our primary interest rate risk exposure results from changes in the short-term LIBOR rate, the federal funds effective rate and the prime rate.
-
-
-item4.txt
-
-
-
-part2.txt
-We are subject to various legal proceedings, both asserted and unasserted, that arise in the ordinary course of business.
-
-

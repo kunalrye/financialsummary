@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 Basis of Presentation.
 Management Estimates.
 Actual results could differ from those estimates.
@@ -12,38 +7,10 @@ The objective of ESP is to determine the price at which the Company would transa
 ESP could potentially be used for new or customized products.
 Trade-in rights are occasionally granted to customers to trade in tools in connection with subsequent purchases.
 The Company enters into volume purchase agreements with some of its customers.
-Accruals for customer credits are recorded as an offset to revenue or deferred revenue.
-Revenue from services performed in the absence of a maintenance contract, including consulting and training revenue, is recognized when the related services are performed and collectibility is reasonably assured.
-The Company sells stand-alone software that is subject to software revenue recognition guidance.
-The Company also defers the fair value of non-standard warranty bundled with equipment sales as unearned revenue.
-Deferred system profit does not include the profit associated with product shipments to certain customers in Japan, to whom title does not transfer until customer acceptance.
-Shipments to such customers in Japan are classified as inventory at cost until the time of acceptance.
-
-
-item2.txt
-All statements other than statements of historical fact may be forward-looking statements.
+Accruals for customer credits are recorded as an offset to revenue or deferred revenue.All statements other than statements of historical fact may be forward-looking statements.
 Forward-looking statements also include the assumptions underlying or relating to any of the foregoing statements.
-Such forward-looking statements include, among others, forecasts of the future results of our operations, including profitability; orders for our products and capital equipment generally; sales of semiconductors; the investments by our customers in advanced technologies and new materials; the allocation of capital spending by our customers (and, in particular, the percentage of spending that our customers allocate to process control); growth of revenue in the semiconductor industry, the semiconductor capital equipment industry and our business; technological trends in the semiconductor industry; future developments or trends in the global capital and financial markets; our future product offerings and product features; the success and market acceptance of new products; timing of shipment of backlog; our future product shipments and product and service revenues; our future gross margins; our future research and development expenses and selling, general and administrative expenses; our ability to successfully maintain cost discipline; international sales and operations; our ability to maintain or improve our existing competitive position; success of our product offerings; creation and funding of programs for research and development; attraction and retention of employees; results of our investment in leading edge technologies; the effects of hedging transactions; the effect of the sale of trade receivables and promissory notes from customers; our future effective income tax rate; our recognition of tax benefits; future payments of dividends to our stockholders; the completion of any acquisitions of third parties, or the technology or assets thereof; benefits received from any acquisitions and development of acquired technologies; sufficiency of our existing cash balance, investments, cash generated from operations and the unfunded portion of our revolving line of credit under a Credit Agreement (the “Credit Agreement”) to meet our operating and working capital requirements, including debt service and payment thereof; future dividends, and stock repurchases; our compliance with the financial covenants under the Credit Agreement; the adoption of new accounting pronouncements; the tax liabilities resulting from the enactment of the Tax Cuts and Jobs Act; and our repayment of our outstanding indebtedness.
-Our broad portfolio of inspection and metrology products, and related service, software and other offerings primarily supports integrated circuit (“IC” or “chip”) manufacturers throughout the entire semiconductor fabrication process, from research and development to final volume production.
-We provide leading-edge equipment, software and support that enable IC manufacturers to identify, resolve and manage significant advanced technology manufacturing process challenges and obtain higher finished product yields at lower overall cost.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-The semiconductor equipment industry and other industries that we serve are constantly developing and changing over time.
+Such forward-looking statements include, among others, forecasts of the future results of our operations, including profitability; orders for our products and capital equipment generally; sales of semiconductors; the investments by our customers in advanced technologies and new materials; the allocation of capital spending by our customers (and, in particular, the percentage of spending that our customers allocate to process control); growth of revenue in the semiconductor industry, the semiconductor capital equipment industry and our business; technological trends in the semiconductor industry; future developments or trends in the global capital and financial markets; our future product offerings and product features; the success and market acceptance of new products; timing of shipment of backlog; our future product shipments and product and service revenues; our future gross margins; our future research and development expenses and selling, general and administrative expenses; our ability to successfully maintain cost discipline; international sales and operations; our ability to maintain or improve our existing competitive position; success of our product offerings; creation and funding of programs for research and development; attraction and retention of employees; results of our investment in leading edge technologies; the effects of hedging transactions; the effect of the sale of trade receivables and promissory notes from customers; our future effective income tax rate; our recognition of tax benefits; future payments of dividends to our stockholders; the completion of any acquisitions of third parties, or the technology or assets thereof; benefits received from any acquisitions and development of acquired technologies; sufficiency of our existing cash balance, investments, cash generated from operations and the unfunded portion of our revolving line of credit under a Credit Agreement (the “Credit Agreement”) to meet our operating and working capital requirements, including debt service and payment thereof; future dividends, and stock repurchases; our compliance with the financial covenants under the Credit Agreement; the adoption of new accounting pronouncements; the tax liabilities resulting from the enactment of the Tax Cuts and Jobs Act; and our repayment of our outstanding indebtedness.The semiconductor equipment industry and other industries that we serve are constantly developing and changing over time.
 •The mix and type of customers, and sales to any single customer, may vary significantly from quarter to quarter and from year to year, which exposes our business and operating results to increased volatility tied to individual customers.
 •As a result of this consolidation, the customers that survive the consolidation represent a greater portion of our sales and, consequently, have greater commercial negotiating leverage.
 Any of these changes could negatively impact our prices, customer orders, revenues and gross margins.
 •The highly concentrated business environment also increases our exposure to risks related to the financial condition of each of our customers.
-We believe that once a semiconductor manufacturer selects a particular supplier’s process control and yield management equipment, the manufacturer generally relies upon that equipment for that specific production line application for an extended period of time.
-Accordingly, we expect it to be more difficult to sell our products to a given customer for that specific production line application and other similar production line applications if that customer initially selects a competitor’s equipment.
-Similarly, we expect it to be challenging for a competitor to sell its products to a given customer for a specific production line application if that customer initially selects our equipment.
-
-

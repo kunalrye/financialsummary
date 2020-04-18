@@ -1,8 +1,3 @@
-fls.txt
-Certain statements made in this report, as well as oral statements made by the Company from time to time, constitute forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended.
-
-
-item1.txt
 The accompanying notes are an integral part of these consolidated financial statements.
 The accompanying notes are an integral part of these consolidated financial statements.
 The accompanying notes are an integral part of these consolidated financial statements.
@@ -14,33 +9,9 @@ At inception of a contract, the Company determines whether that contract is or c
 As a practical expedient, the Company does not recognize a lease asset or lease liability for leases with a lease term of 12 months or less.
 As a practical expedient, the Company accounts for the non-lease components together with the lease components as a single lease component for all of its leases.
 The lease liability equals the present value of the future cash payments discounted using the Company's incremental borrowing rate.
-The Company’s incremental borrowing rate is the rate of interest that the Company would have to pay to borrow an amount equal to the lease payments over a similar term, which is the three-month London Interbank Offered Rate (LIBOR) plus a 2.5% credit risk spread.
-The amortization of the lease asset is calculated as the straight-line lease expense less the accretion of the interest on the lease liability each period.
-The lease liability is reduced by the cash payment less the interest each period.
-ASU 2016-13 applies to all reporting entities holding financial assets that are not accounted for at fair value through net income (debt securities).
-ASU 2017-08 applies to all reporting entities that hold investments in callable debt securities that have an amortized cost basis in excess of the amount that is repayable by the issuer at the earliest call date (that is, at a premium).
-The amendments in this ASU shorten the amortization period for certain callable debt securities held at a premium.
-Specifically, the amendments require the premium to be amortized to the earliest call date.
-The amendments do not require an accounting change for securities held at a discount; the discount continues to be amortized to maturity.
-
-
-item2.txt
-Cognex machine vision is primarily used to automate manufacturing and distribution processes in a variety of industries where the technology is widely recognized as an important component of automated production and quality assurance.
+The Company’s incremental borrowing rate is the rate of interest that the Company would have to pay to borrow an amount equal to the lease payments over a similar term, which is the three-month London Interbank Offered Rate (LIBOR) plus a 2.5% credit risk spread.Cognex machine vision is primarily used to automate manufacturing and distribution processes in a variety of industries where the technology is widely recognized as an important component of automated production and quality assurance.
 Virtually every manufacturer can achieve better quality and manufacturing efficiency by using machine vision, and therefore, Cognex products are used by a broad base of customers across a variety of industries, including consumer electronics, automotive, consumer products, food and beverage, pharmaceuticals, and medical devices.
 Cognex products are also used to automate distribution processes in the logistics industry for applications in retail distribution and ecommerce to scan, track, and sort goods through distribution centers.
 Revenue for the third quarter of 2019 totaled $183,325,000, representing a decrease of 21% from the third quarter of 2018 driven by significantly lower revenue in the consumer electronics industry.
 Operating expenses in the third quarter of 2019 decreased by 3% over the third quarter of 2018 due principally to lower expenses related to incentive compensation plans.
 Constant-currency information compares results between periods as if exchange rates had remained constant period-over-period.
-Revenue decreased by $48,896,000, or 21%, for the three-month period and decreased by $57,196,000, or 9%, for the nine-month period.
-Sales to customers based in Europe decreased by 46% for the three-month period and 26% for the nine-month period driven by lower sales in the consumer electronics industry, and to a lessor extent, the automotive industry.
-As of the date of this report, we expect revenue for the fourth quarter of 2019 to be lower than both the third quarter of 2019 and the fourth quarter of 2018.
-
-
-item4.txt
-
-
-
-part2.txt
-Various claims and legal proceedings generally incidental to the normal course of business are pending or threatened on behalf of or against the Company.
-
-

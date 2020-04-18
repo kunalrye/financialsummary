@@ -1,8 +1,3 @@
-fls.txt
-These statements can be identified by the fact that they do not relate strictly to historical or current facts.
-
-
-item1.txt
 The accompanying condensed consolidated financial statements have been prepared pursuant to the rules and regulations of the Securities and Exchange Commission (SEC).
 For contracts that do not meet the criteria to measure performance as a right to invoice, or under the series guidance, we utilize an Estimate at Completion process to measure progress toward completion.
 For the three months ended March 31, 2019, the aggregate impact of adjustments in contract estimates increased our revenue by $3.2 million.
@@ -12,38 +7,10 @@ The Financial Accounting Standards Board (FASB) issued ASC 842, Leases, to incre
 Most prominent among the changes in ASC 842 is the recognition of ROU assets and lease liabilities by lessees for those leases classified as operating leases.
 Under the standard, disclosures are required to meet the objective of enabling users of financial statements to assess the amount, timing and uncertainty of cash flows arising from leases.
 We are also required to recognize and measure leases existing at, or entered into after, the beginning of the earliest comparative period presented using a modified retrospective approach, with certain practical expedients available.
-Our lease liabilities are recognized based on the present value of the future minimum lease payments over the lease term at commencement date.
-For operating leases, after lease commencement, we measure our lease liability for each period at the present value of any remaining lease payments, discounted by using the rate determined at lease commencement.
-The amortization of the ROU asset increases each year as a result of the declining lease liability balance.
-Variable lease payments are not recognized in the measurement of the lease liability - they are recognized in the period in which the related obligation has been incurred.
-In each period, the lease liability will be increased to reflect the interest that is accrued on the related lease liability by using the appropriate discount rate, offset by a decrease in the lease liability resulting from the periodic lease payments.
-Our leases have remaining lease terms of 0.1 years to 11 years, some of which include options to extend the leases for up to 14 years, and some of which include options to terminate the leases within 1 year.
-Our transportation vehicles and equipment leases include a residual value guarantee, which is a guarantee made to the lessor that the value of the underlying asset returned to the lessor at the end of the lease will be at least a specific amount.
-
-
-item2.txt
-•Non-compliance with, or adverse changes in, complex U.S. government laws, procurement regulations or processes; •Adverse results of U.S. government audits or other investigations of our government contracts; and We urge you not to place undue reliance on these forward-looking statements, which speak only as of the date of this Quarterly Report.
+Our lease liabilities are recognized based on the present value of the future minimum lease payments over the lease term at commencement date.•Non-compliance with, or adverse changes in, complex U.S. government laws, procurement regulations or processes; •Adverse results of U.S. government audits or other investigations of our government contracts; and We urge you not to place undue reliance on these forward-looking statements, which speak only as of the date of this Quarterly Report.
 A number of federal civilian agencies, including the Departments of Homeland Security and State operated under a Continuing Resolution through late December and then endured a 35-day lapse in funding prior to receiving appropriations in mid-February.
 We recommend that you read this discussion and analysis in conjunction with our Annual Report on Form 10-K for the fiscal year ended December 31, 2018, previously filed with the Securities and Exchange Commission.
 The primary driver of our increase in revenues relates to revenue from new contract awards and growth on certain existing contracts, which were offset by contracts and tasks that ended and reduced scope of work on some contracts.
 As a percentage of revenues, other direct costs, which include subcontractors and third party equipment and materials used in the performance of our contracts, was 38% for the three months ended March 31, 2019, compared to 37% for the same period in 2018.
 The decrease in general and administrative expenses was primarily due to reduced bid and proposal spending and amortization of acquisition intangibles offset by increased spending on infrastructure.
 We expect general and administrative expenses as a percent of revenue to increase during the remainder of 2019 due to the acquisition of Kforce Government Solutions (KGS) and increased bid and proposal spending.
-The decrease in interest expense was due to repayment of debt on our revolving line of credit.
-We expect interest expense to increase for the remainder of 2019 due to increased borrowings under our credit facility to fund the acquisition of KGS.
-The primary driver of the increase in our effective tax rate was due to a reduction in the tax benefit related to stock-based compensation.
-We define funded backlog to be the portion of backlog for which funding currently is appropriated and allocated to the contract by the purchasing agency or otherwise authorized for payment by the customer upon completion of a specific portion of work.
-
-
-item3.txt
-Item 3.Quantitative and Qualitative Disclosures about Market Risk Our exposure to market risk relates to changes in interest rates for borrowing under our revolving credit facility.
-
-
-item4.txt
-Disclosure controls and procedures are also designed to provide reasonable assurance that such information is accumulated and communicated to our management, including our principal executive officer and our principal financial officer, as appropriate to allow timely decisions regarding required disclosure.
-
-
-part2.txt
-
-
-

@@ -1,8 +1,3 @@
-fls.txt
-Such factors include, but are not limited to: our ability to consistently deliver popular, high-quality titles in a timely manner; our ability to satisfy the expectations of consumers with respect to our brands, games, services, and/or business practices; concentration of revenue among a small number of titles; the continued growth in the scope and complexity of our business, including the diversion of management time and attention to issues relating to the operations of our newly acquired or started businesses and the potential impact of our expansion into new businesses on our existing businesses; our ability to realize the expected financial and operational benefits of, and effectively manage, our recently announced restructuring plans; increasing importance of revenues derived from digital distribution channels; risks associated with the retail sales business model; substantial influence of third-party platform providers over our products and costs; success and availability of video game consoles manufactured by third parties; risks associated with the free-to-play business model, including dependence on a relatively small number of consumers for a significant portion of revenues and profits from any given game; risks and costs associated with legal proceedings; changes in tax rates or exposure to additional tax liabilities, as well as the outcome of current or future tax disputes; rapid changes in technology and industry standards; competition, including from other forms of entertainment; our ability to sell products at assumed pricing levels; our ability to attract, retain, and motivate skilled personnel; reliance on external developers for development of some of our software products; the amount of our debt and the limitations imposed by the covenants in the agreements governing our debt; counterparty risks relating to customers, licensees, licensors, and manufacturers; intellectual property claims; piracy and unauthorized copying of our products; risks and uncertainties of conducting business outside the United States (“U.S.”); fluctuations in currency exchange rates; increasing regulation of our business, products, and distribution in key territories; compliance with continually evolving laws and regulations concerning data privacy; potential data breaches and other cybersecurity risks; and the other factors identified in “Risk Factors” included in Part I, Item 1A of our Annual Report on Form 10-K for the year ended December 31, 2018.
-
-
-item1.txt
 The terms “Activision Blizzard,” the “Company,” “we,” “us,” and “our” are used to refer collectively to Activision Blizzard, Inc. and its subsidiaries.
 In connection with the 2008 business combination by and among the Company (then known as Activision, Inc.), Vivendi S.A., and Vivendi Games, Inc., then an indirect wholly-owned subsidiary of Vivendi S.A., we were renamed Activision Blizzard, Inc.
 As part of this termination, Activision agreed to transfer its publishing rights for the Destiny franchise to Bungie in exchange for cash and Bungie’s assumption of on-going customer obligations of Activision.
@@ -11,15 +6,7 @@ The accompanying unaudited condensed consolidated financial statements have been
 Accordingly, the unaudited condensed consolidated financial statements should be read in conjunction with the audited consolidated financial statements and notes thereto included in our Annual Report on Form 10-K for the year ended December 31, 2018.
 The accompanying condensed consolidated financial statements include the accounts and operations of the Company.
 During the three months ended March 31, 2019, we identified an error principally related to the initial recognition of global intangible low-taxed income of foreign subsidiaries income taxes which should have been recorded in the three months and year ended December 31, 2018.
-This amount is not material to the consolidated financial statements for the year ended December 31, 2018, and we will revise our 2018 consolidated financial statements to correct this matter in our Annual Report on Form 10-K for the year ending December 31, 2019.
-The new standard, among other things, requires a lessee to classify a lease as either an operating or financing lease, and to recognize a lease liability and a right-of-use (“ROU”) asset for its leases.
-For these arrangements, there is judgment in evaluating if the arrangement provides us with an asset that is physically distinct, or that represents substantially all of the capacity of the asset, and if we have the right to direct the use of the asset.
-Lease assets and liabilities are recognized based on the present value of future lease payments over the lease term at the commencement date.
-Variable lease payments are recognized as lease expenses as incurred, and generally relate to variable payments made based on the level of services provided by the landlords of our leases.
-
-
-item2.txt
-The terms “Activision Blizzard,” the “Company,” “we,” “us,” and “our” are used to refer collectively to Activision Blizzard, Inc. and its subsidiaries.
+This amount is not material to the consolidated financial statements for the year ended December 31, 2018, and we will revise our 2018 consolidated financial statements to correct this matter in our Annual Report on Form 10-K for the year ending December 31, 2019.The terms “Activision Blizzard,” the “Company,” “we,” “us,” and “our” are used to refer collectively to Activision Blizzard, Inc. and its subsidiaries.
 In connection with the 2008 business combination by and among the Company (then known as Activision, Inc.), Vivendi S.A, and Vivendi Games, Inc., then an indirect wholly-owned subsidiary of Vivendi S.A., we were renamed Activision Blizzard, Inc.
 In 2010, Activision entered into an exclusive relationship with Bungie, Inc. (“Bungie”) to publish games in the Destiny franchise.
 Effective December 31, 2018, Activision and Bungie mutually agreed to terminate their publishing relationship related to the Destiny franchise.
@@ -27,23 +14,4 @@ King’s games are free to play; however, players can acquire in-game items, eit
 •the Activision Blizzard Distribution (“Distribution”) business, which consists of operations in Europe that provide warehousing, logistics, and sales distribution services to third-party publishers of interactive entertainment software, our own publishing operations, and manufacturers of interactive entertainment hardware.
 We monitor net bookings as a key operating metric in evaluating the performance of our business.
 Net bookings is the net amount of products and services sold digitally or sold-in physically in the period, and includes license fees, merchandise, and publisher incentives, among others.
-Net bookings is equal to net revenues excluding the impact from deferrals.
-In-game net bookings primarily includes the net amount of downloadable content and microtransactions sold during the period, and is equal to in-game net revenues excluding the impact from deferrals.
-Q3 2019 vs. Q3 2018 YTD Q3 2019 vs. YTD Q3 2018 Q3 2019 vs. Q3 2018 The decrease in in-game net bookings for the three months ended September 30, 2019, as compared to the three months ended September 30, 2018, was primarily due to a decrease in Blizzard and Activision in-game net bookings of $183 million and $113 million, respectively, due to the same drivers discussed for net bookings above.
-YTD Q3 2019 vs. YTD Q3 2018 MAUs are the number of individuals who accessed a particular game in a given month.
-We calculate average MAUs in a period by adding the total number of MAUs in each of the months in a given period and dividing that total by the number of months in the period.
-
-
-item3.txt
-To mitigate our foreign currency risk resulting from our foreign currency-denominated monetary assets, liabilities, and earnings and our foreign currency risk related to functional currency-equivalent cash flows resulting from our intercompany transactions, we periodically enter into currency derivative contracts, principally forward contracts.
-The fair values of our foreign currency contracts are estimated based on the prevailing exchange rates of the various hedged currencies as of the end of the period.
-
-
-item4.txt
-
-
-
-part2.txt
-
-
-
+Net bookings is equal to net revenues excluding the impact from deferrals.To mitigate our foreign currency risk resulting from our foreign currency-denominated monetary assets, liabilities, and earnings and our foreign currency risk related to functional currency-equivalent cash flows resulting from our intercompany transactions, we periodically enter into currency derivative contracts, principally forward contracts.

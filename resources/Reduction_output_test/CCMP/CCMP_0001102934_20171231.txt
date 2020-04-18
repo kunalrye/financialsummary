@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 Cabot Microelectronics Corporation ("Cabot Microelectronics'', "the Company'', "us'', "we'', or "our'') supplies high-performance polishing slurries and pads used in the manufacture of advanced integrated circuit (IC) devices within the semiconductor industry, in a process called chemical mechanical planarization (CMP).
 The unaudited Consolidated Financial Statements have been prepared by Cabot Microelectronics pursuant to the rules of the Securities and Exchange Commission (SEC) and accounting principles generally accepted in the United States of America (U.S. GAAP).
 In the opinion of management, these unaudited Consolidated Financial Statements include all adjustments, consisting of normal recurring adjustments, necessary for the fair statement of Cabot Microelectronics' financial position as of December 31, 2017, cash flows for the three months ended December 31, 2017 and December 31, 2016, and results of operations for the three months ended December 31, 2017 and December 31, 2016.
@@ -13,36 +8,8 @@ We have presented these securities on the Consolidated Balance Sheets as of Dece
 Realized gains and losses, interest and dividends are recorded in the other income, net line item of the Consolidated Statements of Income (Loss).
 Fair value is defined as the price that would be received from the sale of an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date.
 The Financial Accounting Standards Board ("FASB") established a three-level hierarchy for disclosure based on the extent and level of judgment used to estimate fair value.
-We have classified the following assets and liabilities in accordance with the fair value hierarchy set forth in the applicable standards.
-In instances where the inputs used to measure the fair value of an asset fall into more than one level of the hierarchy, we have classified them based on the lowest-level input that is significant to the determination of the fair value.
-Consequently, the Company owns the assets and the related offsetting liability for disbursement until a participant makes a qualifying withdrawal.
-The increase in goodwill was due to $808 in foreign exchange fluctuations of the New Taiwan dollar.
-During the first quarter of fiscal 2018, development of our in-process technology was completed, and we reclassified $4,000 to product technology under other intangible assets subject to amortization.
-In the first quarter of fiscal 2018, we adopted ASU No.
-The provisions of this standard eliminate Step 2 from the goodwill impairment test, which required an entity to determine the fair value of its assets and liabilities at the impairment testing date of its goodwill and compare it to its carrying amount to determine a possible impairment loss.
-
-
-item2.txt
-Revenue for our first quarter of fiscal 2018 was $140.0 million, which represented an increase of 13.6% from the first quarter of fiscal 2017, and was a quarterly record for the Company.
+We have classified the following assets and liabilities in accordance with the fair value hierarchy set forth in the applicable standards.Revenue for our first quarter of fiscal 2018 was $140.0 million, which represented an increase of 13.6% from the first quarter of fiscal 2017, and was a quarterly record for the Company.
 Gross profit for the first quarter of fiscal 2018 expressed as a percentage of revenue was 52.9%, compared to 49.9% for our first quarter of fiscal 2017, including 90 and 100-basis point adverse impacts of NexPlanar amortization expense, comparatively.
 Operating expenses were $36.9 million in our first quarter of fiscal 2018 compared to $33.4 million in the first quarter of fiscal 2017, both periods of which included $0.5 million in NexPlanar amortization expense.
-The increase in operating expenses from the comparable quarter of fiscal 2017 was primarily due to higher staffing related expenses, including costs associated with the Chief Financial Officer ("CFO") transition described in Note 12 of the Notes to the Consolidated Financial Statement of this Form 10-Q, and higher incentive compensation expense.
-The Company reported a diluted loss per share of $0.12 in the first quarter of fiscal 2018, compared to diluted earnings per share of $0.88 in the same quarter last year.
-The year-over-year decrease was primarily due to the impact of the enactment of the Tax Act in December 2017, which reduced diluted earnings per share by $1.26.
-
-
-item3.txt
-We periodically enter into forward contracts in an effort to manage foreign currency exchange exposure on our Consolidated Balance Sheets.
-
-
-item4.txt
-Our management, with the participation of our Chief Executive Officer (CEO) and Chief Financial Officer (CFO), has conducted an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934, as amended) as of December 31, 2017.
-
-
-part2.txt
-For instance, we could experience negative impacts on cash flows due to the inability of our customers to pay their obligations to us, or our production process could be harmed if our suppliers cannot fulfill their obligations to us.
+The increase in operating expenses from the comparable quarter of fiscal 2017 was primarily due to higher staffing related expenses, including costs associated with the Chief Financial Officer ("CFO") transition described in Note 12 of the Notes to the Consolidated Financial Statement of this Form 10-Q, and higher incentive compensation expense.We periodically enter into forward contracts in an effort to manage foreign currency exchange exposure on our Consolidated Balance Sheets.For instance, we could experience negative impacts on cash flows due to the inability of our customers to pay their obligations to us, or our production process could be harmed if our suppliers cannot fulfill their obligations to us.
 Our success depends on our ability to keep pace with technological changes and advances in the semiconductor industry and to adapt, improve and customize our products for advanced IC applications in response to evolving customer needs and industry trends.
-Our customers continually pursue lower cost of ownership and higher quality and performance of materials consumed in their manufacturing processes, including CMP slurries and pads, as a means to reduce costs, increase the yield in their manufacturing facilities, and achieve desired performance of the IC devices they produce.
-Potential technology developments in the semiconductor industry, as well as our customers' efforts to reduce consumption of CMP consumables, including through use of smaller quantities, could render our products less important to the IC device manufacturing process.
-
-

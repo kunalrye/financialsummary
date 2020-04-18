@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 The unaudited Consolidated Financial Statements have been prepared by Cabot Microelectronics pursuant to the rules of the Securities and Exchange Commission (SEC) and accounting principles generally accepted in the United States of America (U.S. GAAP).
 In the opinion of management, these unaudited Consolidated Financial Statements include all adjustments, consisting of normal recurring adjustments, necessary for the fair statement of Cabot Microelectronics’ financial position as of June 30, 2019, cash flows for the nine months ended June 30, 2019 and June 30, 2018, and results of operations for the three and nine months ended June 30, 2019 and June 30, 2018.
 Except for the discussion on revenue recognition below, no material changes have been made to the Company’s significant accounting policies disclosed in Note 2 of the Notes to the Consolidated Financial Statements in our Annual Report on Form 10-K for the fiscal year ended September 30, 2018.
@@ -13,37 +8,10 @@ As a result, for the three and nine months ended June 30, 2019, we are not discl
 As part of the adoption of ASU 606, the Company elected to use certain allowed practical expedients.
 For the Company’s contracts that have an original duration of one year or less as of the adoption date, the Company uses the practical expedient applicable to such contracts and does not consider the time value of money.
 Further, because of the short duration of these contracts, the Company has not disclosed the transaction price for the future performance obligations as of the end of each reporting period for contracts having an expected duration of one year or less.
-See Note 3 of this Report on Form 10-Q for disaggregated revenue, the reconciliation of contract balances and transaction price allocation to remaining performance obligations for contracts expected to remain effective beyond one year.
-At contract inception, the Company assesses the goods and services promised in its contracts with customers and identifies a performance obligation for each material promise to the customer.
-A performance obligation is a promise in a contract to transfer a distinct good or service, or a bundle of goods or services, to the customer, and is the unit of accounting under ASC 606.
-A majority of the Company’s contracts have a single performance obligation which represents, in most cases, the products, equipment or services being sold to the customer.
-For these contracts, the transaction price is determined upon establishment of the contract that contains the final terms of the sale, including the description, quantity, and price of goods or services purchased.
-In certain instances, we receive consideration from a customer prior to transferring goods or services to the customer under the terms of a sales contract.
-
-
-item2.txt
-Revenue for our third quarter of fiscal 2019 was $271.9 million, which represented an increase of 80.7% from the same quarter of fiscal 2018, primarily due to the Acquisition.
+See Note 3 of this Report on Form 10-Q for disaggregated revenue, the reconciliation of contract balances and transaction price allocation to remaining performance obligations for contracts expected to remain effective beyond one year.Revenue for our third quarter of fiscal 2019 was $271.9 million, which represented an increase of 80.7% from the same quarter of fiscal 2018, primarily due to the Acquisition.
 Results benefited from the Acquisition, but were more than offset by acquisition-related expenses, increased amortization and depreciation associated with re-valuing KMG assets to fair value, higher interest expenses resulting from the debt borrowing to finance the Acquisition, costs related to the KMG-Bernuth warehouse fire that occurred in May 2019, and increased tax expense related to newly issued final regulations related to US Tax Reform which impacted our reserves for uncertain tax positions.
 For the same reasons, diluted earnings per share decrease from $1.34 in the third quarter of fiscal 2018 to $0.64 in the current quarter.
 Adjusted EBITDA benefited from the addition of the KMG businesses, partially offset by the softer industry conditions that resulted in lower demand for Cabot Microelectronics’ heritage CMP products.
-Refer to the “Use of certain GAAP and Non-GAAP Financial Information” section below for the definition of adjusted EBITDA and a reconciliation of adjusted EBITDA to net income, the most comparable GAAP financial measure.
-Except for the discussion on revenue recognition in Note 2 of the Notes to the Consolidated Financial Statements of this Report on Form 10-Q, no material changes have been made to the Company’s significant accounting policies during the first nine months of fiscal 2019.
-See Note 2 of the Notes to the Consolidated Financial Statements of this Report on Form 10-Q for a discussion of new accounting pronouncements.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-The information set forth in Note 12 “Commitments and Contingencies,” to the consolidated financial statements included in Item 1 of Part I of this Report on Form 10-Q is incorporated herein by reference.
+Refer to the “Use of certain GAAP and Non-GAAP Financial Information” section below for the definition of adjusted EBITDA and a reconciliation of adjusted EBITDA to net income, the most comparable GAAP financial measure.The information set forth in Note 12 “Commitments and Contingencies,” to the consolidated financial statements included in Item 1 of Part I of this Report on Form 10-Q is incorporated herein by reference.
 For instance, we could experience negative impacts on cash flows due to the inability of our customers to pay their obligations to us, or our production processes could be harmed if our suppliers cannot fulfill their obligations to us.
 Although our product offerings have expanded with the acquisition of KMG, our business remains substantially dependent on products in our Electronic Materials segment, such as CMP slurries, pads and electronic chemicals, which account for the majority of our revenue.
-We have identified our Performance Materials segment as another area of potential continued growth and the product offerings in our Performance Materials segment are similarly concentrated.
-Our success depends on our ability to keep pace with technological changes and advances in the industries in which we operate, particularly the semiconductor industry, and to adapt, improve and customize our products in response to evolving customer needs and industry trends.
-
-

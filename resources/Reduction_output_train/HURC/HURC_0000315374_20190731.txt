@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 We design, manufacture and sell computerized (i.e., Computer Numeric Control, or CNC) machine tools, consisting primarily of vertical machining centers (mills) and turning centers (lathes), to companies in the metal cutting industry through a worldwide sales, service and distribution network.
 Our computer control systems and software products are primarily sold as integral components of our computerized machine tool products.
 The condensed financial information as of July 31, 2019 and for the three and nine months ended July 31, 2019 and July 31, 2018 is unaudited.
@@ -12,16 +7,7 @@ We adopted Accounting Standards Codification (“ASC”) 606 “Revenue from Con
 Prior to the adoption of ASC 606, our revenues were already recognized in the same manner as that required by ASC 606.
 For each contract, we identify our performance obligations, which is delivering goods or services, determine the transaction price, allocate the contract transaction price to each of the performance obligations (when applicable), and recognize the revenue when (or as) the performance obligation to the customer is fulfilled.
 We deem that the customer obtains control upon delivery of the product and that obtaining control is not contingent upon contractual customer acceptance.
-For our five-axis machines that we install, we estimate the fair value of the installation performance obligation and recognize that installation revenue on a prorata basis over the period of the installation process.
-We consider these services to be perfunctory within the context of the contract, as the value of these services typically does not rise to a material level as a component of the total contract value.
-Service fees from maintenance contracts are deferred and recognized in earnings on a prorata basis over the term of the contract and are generally sold on a stand-alone basis.
-Currently, the only risk that we manage through the use of derivative instruments is foreign currency risk, for which we enter into derivative instruments in the form of foreign currency forward exchange contracts with a few major financial institutions.
-We enter into these forward exchange contracts to reduce the potential effects of foreign exchange rate movements on our net equity investment in one of our foreign subsidiaries, to reduce the impact on gross profit and net earnings from sales and purchases denominated in foreign currencies, and to reduce the impact on our net earnings of foreign currency fluctuations on receivables and payables denominated in foreign currencies that are different than the subsidiaries’ functional currency.
-The majority of these deferred gains will be recorded as an adjustment to Cost of sales and service in periods through July 2020, when the corresponding inventory that is the subject of the related hedge contracts is sold, as described above.
-
-
-item2.txt
-During the nine months of fiscal 2019, approximately 51% of our revenues were attributable to customers in Europe, where we typically sell more of our higher-performance, higher-priced VMX series machines.
+For our five-axis machines that we install, we estimate the fair value of the installation performance obligation and recognize that installation revenue on a prorata basis over the period of the installation process.During the nine months of fiscal 2019, approximately 51% of our revenues were attributable to customers in Europe, where we typically sell more of our higher-performance, higher-priced VMX series machines.
 We also have our own direct sales and service organizations in China, France, Germany, India, Italy, Poland, Singapore, South Africa, Taiwan, the United Kingdom and certain parts of the United States, which are among the world’s principal machine tool consumption markets.
 Our sales to foreign customers are denominated, and payments by those customers are made, in the prevailing currencies in the countries in which those customers are located (primarily the Euro, Pound Sterling and Chinese Yuan).
 In the comparison of our period-to-period results, we discuss the effect of currency translation on those results, which reflect translation to U.S. We seek to mitigate those risks through the use of various derivative instruments, principally foreign currency forward exchange contracts.
@@ -29,21 +15,3 @@ Sales and service fees for the third quarter of fiscal 2019 were $58.5 million, 
 The increase in sales for the third quarter fiscal 2019 was primarily attributable to sales of vertical milling machines from a U.S. machine tool distributor acquired by Hurco in the fourth quarter of fiscal 2018 located in California, one of the largest machine tool markets in the U.S., and increased customer demand for Hurco, Milltronics and Takumi vertical milling machines in the U.S. European sales for the third quarter of fiscal 2019 decreased by 31% compared to the corresponding period in fiscal 2018.
 Sales for the third quarter of fiscal 2019 included an unfavorable currency impact of 4% when translating foreign sales to U.S. dollars for financial reporting purposes.
 The decrease in European sales for the third quarter of fiscal 2019 was primarily attributable to a reduced volume of shipments of Hurco vertical milling machines in Germany and the United Kingdom.
-The decrease in Asian Pacific sales for the third quarter of fiscal 2019 was primarily attributable to decreased shipments of Hurco vertical milling machines and Takumi bridge mill machines in China and an unfavorable currency impact of 2% when translating foreign sales to U.S. dollars for financial reporting purposes.
-Sales of computerized machine tools and computer control systems and software decreased by 29% and 16%, respectively, for the third quarter of fiscal 2019, compared to the corresponding period in fiscal 2018, due mainly to a reduced volume of shipments of Hurco vertical milling machines and Takumi bridge mill machines.
-Sales of service parts decreased in the third quarter of fiscal 2019 by 8%, compared to the corresponding period in fiscal 2018, primarily due to a reduction in aftermarket sales of service parts for all three product lines, Hurco, Takumi and Milltronics.
-Service fees increased in the third quarter of fiscal 2019 by 2%, compared to the corresponding period in fiscal 2018.
-
-
-item3.txt
-Our purchases are predominantly in foreign currencies and in some cases our arrangements with these suppliers include foreign currency risk sharing agreements, which reduce (but do not eliminate) the effects of currency fluctuations on product costs.
-
-
-item4.txt
-
-
-
-part2.txt
-Pursuant to applicable accounting rules, we accrue the minimum liability for each known claim when the estimated outcome is a range of possible loss and no one amount within that range is more likely than another.
-
-

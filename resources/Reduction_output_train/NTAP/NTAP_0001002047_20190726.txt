@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 NetApp, Inc. (we, us, or the Company) provides global organizations the ability to manage and share their data across on-premises, private and public clouds.
 Together with our partners, we provide a full range of enterprise-class software, systems and services solutions that customers use to modernize their infrastructures, build next generation data centers and harness the power of hybrid clouds.
 The accompanying unaudited condensed consolidated financial statements have been prepared by the Company, and reflect all adjustments, consisting only of normal recurring adjustments, that are, in the opinion of management, necessary for the fair presentation of our financial position, results of operations, comprehensive income, cash flows and stockholders’ equity for the interim periods presented.
@@ -11,39 +6,11 @@ The results of operations for the three months ended July 26, 2019 are not neces
 Such estimates include, but are not limited to, revenue recognition, reserves and allowances; inventory valuation and purchase order accruals; valuation of goodwill and intangibles; restructuring reserves; product warranties; employee compensation and benefit accruals; stock-based compensation; loss contingencies; investment impairments; income taxes and fair value measurements.
 In the first quarter of fiscal 2020, we adopted this new standard using the modified retrospective approach, electing the optional transition approach of not adjusting our comparative period financial statements for the impacts of adoption.
 We also elected the package of practical expedients that did not require us to reassess existing leases under the new guidance, and the practical expedient to not separate lease and non-lease components for all leases.
-Adoption of the new standard on April 27, 2019 resulted in the recognition of approximately $149 million of operating lease ROU assets, net of deferred rent and lease restructuring liabilities, $158 million of lease liabilities, and a cumulative-effect adjustment to retained earnings of $6 million on our condensed consolidated balance sheets.
-Adoption of the standard did not have a material impact on our condensed consolidated statements of operations or condensed consolidated statements of cash flows.
-Operating and finance lease ROU assets and liabilities are recognized at commencement based on the present value of lease payments over the lease term.
-As the rate implicit in our leases is typically not readily determinable, in computing the present value of lease payments we generally use our incremental borrowing rate based on information available at the commencement date.
-We do not separate non-lease components from lease components for any class of leases, and we do not recognize ROU assets and lease liabilities for leases with a lease term of twelve months or less.
-There have been no other significant changes in our significant accounting policies as of and for the three months ended July 26, 2019, as compared to the significant accounting policies described in our Annual Report on Form 10-K for the fiscal year ended April 26, 2019.
-
-
-item2.txt
-Our Data Fabric simplifies the integration and orchestration of data for applications and analytics in clouds, across clouds and on-premises to accelerate digital transformation.
+Adoption of the new standard on April 27, 2019 resulted in the recognition of approximately $149 million of operating lease ROU assets, net of deferred rent and lease restructuring liabilities, $158 million of lease liabilities, and a cumulative-effect adjustment to retained earnings of $6 million on our condensed consolidated balance sheets.Our Data Fabric simplifies the integration and orchestration of data for applications and analytics in clouds, across clouds and on-premises to accelerate digital transformation.
 We deliver a Data Fabric with consistent data services for data visibility and insights, data access and control, and data protection and security, that unleashes the power of data to achieve a new competitive advantage.
 Free the resources necessary to fund transformation by deploying the industry’s leading flash storage solution, which is highly efficient and scales from the edge to the core to the cloud.
-Our Data Fabric approach enables our customers to manage, secure and protect their data from on-premises to public to hybrid clouds, all at the scale needed to accommodate the exponential data growth of the digital world.
-FlexPod is the converged infrastructure of choice for many of the largest enterprises around the globe.
-Customers can break free from the limits of first-generation HCI with NetApp HCI and attain guaranteed performance with high levels of flexibility, scale, automation, and integration with the Data Fabric.
-
-
-item3.txt
-Our investment portfolio primarily consists of investments with original maturities greater than three months at the date of purchase, which are classified as available-for-sale investments.
-
-
-item4.txt
-
-
-
-part2.txt
-The following information should be read in conjunction with the condensed consolidated financial statements and the related notes in Part I, Item 1 – Financial Statements and Part I, Item 2 – Management’s Discussion and Analysis of Financial Condition and Results of Operations of this Form 10-Q.
+Our Data Fabric approach enables our customers to manage, secure and protect their data from on-premises to public to hybrid clouds, all at the scale needed to accommodate the exponential data growth of the digital world.The following information should be read in conjunction with the condensed consolidated financial statements and the related notes in Part I, Item 1 – Financial Statements and Part I, Item 2 – Management’s Discussion and Analysis of Financial Condition and Results of Operations of this Form 10-Q.
 Our business may be harmed by technological trends in our market or if we are unable to keep pace with rapid industry, technological and market changes.
 If we are unable to develop, introduce and gain market acceptance for new products and services while managing the transition from older ones, or if we cannot provide the expected level of quality and support for our new products and services, our business, operating results and financial condition could be harmed.
 Our future growth depends upon the successful development and introduction of new hardware and software products and services.
 Due to the complexity of storage software, subsystems and appliances and the difficulty in gauging the engineering effort required to produce new products and services, such products and services are subject to significant technical and quality control risks.
-are introduced, we must also avoid excessive levels of older product inventories and related components and ensure that new products and services can be delivered to meet customers’ demands.
-Further risks inherent in the introduction of new products, services and solutions include the uncertainty of price-performance relative to products of competitors, competitors’ responses to the introductions, delays in sales caused by the desire of customers to evaluate new products for extended periods of time and our partners’ investment in selling our new products and solutions.
-As we enter new or emerging markets, we will likely increase demands on our service and support operations and may be exposed to additional competition.
-
-

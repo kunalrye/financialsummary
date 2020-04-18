@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 See notes to condensed consolidated financial statements.
 See notes to condensed consolidated financial statements.
 See notes to condensed consolidated financial statements.
@@ -12,37 +7,10 @@ The interim financial statements are unaudited, but reflect all adjustments whic
 The results of operations for the interim periods shown in this report are not necessarily indicative of the results that may be expected for the fiscal year ending March 28, 2020 or any future period.
 The Company uses a 52- to 53-week fiscal year ending on the Saturday nearest March 31.
 Accordingly, a lessee recognizes a lease asset for its right to use the underlying asset and a lease liability for the corresponding lease obligation.
-On the commencement date, leases are evaluated for classification, and assets and liabilities are recognized based on the present value of lease payments over the lease term.
-The Company's finance leases were immaterial.
-Avnet, Inc. (Avnet), one of the Company’s distributors, distributes the Company’s products worldwide.
-While the percentage of worldwide net revenues from Avnet fluctuates from period to period, overall the percentage is within historical ranges.
-Xilinx is subject to concentrations of credit risk primarily in its trade accounts receivable and investments in debt securities to the extent of the amounts recorded on the condensed consolidated balance sheet.
-Xilinx generally does not require collateral for receivables from its end customers or distributors.
-
-
-item2.txt
-•Advanced Products include our most recent product offerings and consist of the UltraScale+, UltraScale and 7-series product families and our Alveo boards products.
+On the commencement date, leases are evaluated for classification, and assets and liabilities are recognized based on the present value of lease payments over the lease term.•Advanced Products include our most recent product offerings and consist of the UltraScale+, UltraScale and 7-series product families and our Alveo boards products.
 •Core Products consist of all other product families.
-Specifically, we are grouping the products manufactured at the 28 nanometer (nm), 20nm and 16nm nodes into the Advanced Products category while all other products are grouped in the Core Products category.
-Except for Avnet, no other distributor accounted for more than 10% of our net revenues for the second quarter of fiscal 2020 or 2019.
-
-
-item3.txt
-These securities are subject to interest rate risk and will decrease in value if market interest rates increase.
-
-
-item4.txt
-
-
-
-part2.txt
-Contingencies" to our condensed consolidated financial statements, included in Item 1.
+Specifically, we are grouping the products manufactured at the 28 nanometer (nm), 20nm and 16nm nodes into the Advanced Products category while all other products are grouped in the Core Products category.Contingencies" to our condensed consolidated financial statements, included in Item 1.
 "Financial Statements" for information regarding our legal proceedings.
 •market acceptance of our customers' products.
 Most of our wafers are manufactured in Taiwan by Taiwan Semiconductor Manufacturing Company Limited (TSMC) and United Microelectronics Corporation (UMC).
 We also have wafers manufactured in South Korea by Samsung Electronics Co., Ltd.
-Terms with respect to the volume and timing of wafer production and the pricing of wafers produced by the semiconductor foundries are determined through periodic negotiations with these wafer foundries, which usually result in short-term agreements that do not provide for long-term supply or allocation commitments.
-We rely on TSMC, UMC and our other foundries to produce wafers with competitive performance attributes.
-The insolvency of a foundry or any significant manufacturing problem or insufficient foundry capacity would disrupt our operations and negatively impact our financial condition and results of operations.
-
-

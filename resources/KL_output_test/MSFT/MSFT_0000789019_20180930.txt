@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 Refer to Note 16 – Accumulated Other Comprehensive Income (Loss) for further information.
 Interim results are not necessarily indicative of results for a full year.
 We have recast certain prior period amounts related to investments, derivatives, and fair value measurements to conform to the current period presentation based on our adoption of the new accounting standard for financial instruments.
@@ -12,40 +7,11 @@ We consider all highly liquid interest-earning investments with a maturity of th
 The fair values of these investments approximate their carrying values.
 Investments with maturities beyond one year may be classified as short-term based on their highly liquid nature and because such marketable securities represent the investment of cash that is available for current operations.
 Debt investments are classified as available-for-sale and realized gains and losses are recorded using the specific identification method.
-Changes in fair value, excluding other-than-temporary impairments, are recorded in other comprehensive income (“OCI”).
-Debt investments are impaired when a decline in fair value is judged to be other-than-temporary.
-Fair value is calculated based on publicly available market information or other estimates determined by management.
-We also evaluate whether we have plans to sell the security or it is more likely than not that we will be required to sell the security before recovery.
-Once a decline in fair value is determined to be other-than-temporary, an impairment charge is recorded in other income (expense), net and a new cost basis in the investment is established.
-Equity investments without readily determinable fair values are measured using the equity method, or measured at cost with adjustments for observable changes in price or impairments (referred to as the measurement alternative).
-
-
-item2.txt
-Our platforms and tools help drive small business productivity, large business competitiveness, and public-sector efficiency.
+Changes in fair value, excluding other-than-temporary impairments, are recorded in other comprehensive income (“OCI”).Our platforms and tools help drive small business productivity, large business competitiveness, and public-sector efficiency.
 They also support new startups, improve educational and health outcomes, and empower human ingenuity.
 We generate revenue by licensing and supporting an array of software products; offering a wide range of cloud-based and other services to people and businesses; designing, manufacturing, and selling devices; and delivering relevant online advertising to a global audience.
-Server products and cloud services revenue increased 28%, driven by Azure revenue growth of 76%.
-Windows Commercial revenue increased 12%, driven by an increased volume of multi-year agreements.
-Windows original equipment manufacturer licensing (“Windows OEM”) revenue increased 3%, driven by OEM Pro revenue growth of 8%.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-Our competitors range in size from diversified global companies with significant research and development resources to small, specialized firms whose narrower product lines may let them be more effective in deploying technical, marketing, and financial resources.
+Server products and cloud services revenue increased 28%, driven by Azure revenue growth of 76%.Our competitors range in size from diversified global companies with significant research and development resources to small, specialized firms whose narrower product lines may let them be more effective in deploying technical, marketing, and financial resources.
 Our ability to remain competitive depends on our success in making innovative products, devices, and services that appeal to businesses and consumers.
 Establishing significant scale in the marketplace is necessary to achieve and maintain attractive margins.
 We face significant competition from firms that provide competing platforms.
 Competitors pursuing this model also earn revenue from services integrated with the hardware and software platform, including applications and content sold through their integrated marketplaces.
-We also offer some vertically-integrated hardware and software products and services.
-We face significant competition from competing platforms developed for new devices and form factors such as smartphones and tablet computers.
-Users are increasingly turning to these devices to perform functions that in the past were performed by personal computers.
-Users sometimes incur costs to move data and buy new content and applications when switching platforms.
-
-

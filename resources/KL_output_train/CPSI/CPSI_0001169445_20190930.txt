@@ -1,23 +1,10 @@
-fls.txt
-
-
-
-item1.txt
 All such adjustments are considered of a normal recurring nature.
 Certain footnote disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States of America ("U.S. GAAP") have been condensed or omitted.
 The condensed consolidated balance sheet as of December 31, 2018 was derived from the audited consolidated balance sheet at that date.
 The new guidance requires the recognition of lease assets and lease liabilities by lessees for those leases classified as operating leases under previous U.S. GAAP.
 This guidance will be effective for fiscal years and interim periods within those years beginning after December 15, 2019, which is effective for the Company as of the first quarter of our fiscal year ending December 31, 2020.
 The Company is currently evaluating the impact that the implementation of this standard will have on its consolidated financial statements.
-The SSP of hardware is cost plus a reasonable margin.
-•Software application support and hardware maintenance services sold with software licenses and hardware are separate and distinct performance obligations.
-Payment is due monthly for support services provided.
-•Software as a Service ("SaaS") arrangements for EHR software and related conversion and training services are considered a single performance obligation.
-Payment is due monthly for SaaS services provided.
-
-
-item2.txt
-See Note 16 to the condensed consolidated financial statements included herein for additional information on our three reportable segments.
+The SSP of hardware is cost plus a reasonable margin.See Note 16 to the condensed consolidated financial statements included herein for additional information on our three reportable segments.
 Through much of our history, our strategy has been to achieve meaningful long-term revenue growth through sales of healthcare IT systems and related services to existing and new clients within our target market.
 Our business model is designed such that, as revenue growth materializes, earnings and profitability growth are naturally bolstered through the increased margin realization afforded us by operating leverage.
 The provision of these recurring revenue services typically requires fewer resources than the initial system installation, resulting in increased overall gross margins and operating margins.
@@ -26,23 +13,4 @@ Despite these challenges, we believe healthcare information technology is often 
 Additionally, we believe most hospitals recognize that they must invest in healthcare information technology to meet current and future regulatory, compliance and government reimbursement requirements.
 In recent years, there have been significant changes to provider reimbursement by the U.S. federal government, followed by commercial payers and state governments.
 These financing arrangements include short-term payment plans and longer-term lease financing through us or third-party financing companies.
-This increase in financing arrangements was primarily due to two reasons.
-First, meaningful use stage three ("MU3") installations are primarily financed through short-term payment plans and demand for such installation has increased since late 2017.
-Second, competitor financing options, primarily through accounts receivable management collections and cloud EHR arrangements, have applied pressure to reduce initial customer capital investment requirements for new EHR installations, leading to the offering of long-term lease options.
-We have experienced and continue to expect positive cash flows from financing receivables during 2019 as cash receipts from MU3 installations in the previous year are received.
-Unlike our perpetual license arrangements under which the related revenue is recognized effectively upon installation, the SaaS arrangements result in revenue being recognized monthly as the services are provided over the term of the arrangement.
-In addition, during the first nine months of 2019, we incurred approximately $0.5 million of pre-tax acquisition costs in connection with the acquisition of Get Real Health.
-
-
-item3.txt
-
-
-
-item4.txt
-On May 3, 2019, we acquired Get Real Health, as further described in Note 4 of the notes to the condensed consolidated financial statements.
-
-
-part2.txt
-Item 1.Legal Proceedings.
-
-
+This increase in financing arrangements was primarily due to two reasons.On May 3, 2019, we acquired Get Real Health, as further described in Note 4 of the notes to the condensed consolidated financial statements.Item 1.Legal Proceedings.
