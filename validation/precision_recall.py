@@ -52,6 +52,8 @@ def compute_recall(manual_set, generated_set):
     :param generated_set:
     :return:
     """
+    if len(generated_set) == 0:
+        return 0
     intersect = intersection(manual_set, generated_set)
     return float(len(intersect) / len(generated_set))
 
