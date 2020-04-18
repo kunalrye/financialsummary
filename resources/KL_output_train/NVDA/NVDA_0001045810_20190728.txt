@@ -1,8 +1,3 @@
-fls.txt
-In June 2016, the FASB issued a new accounting standard to replace the incurred loss impairment methodology under current GAAP with a methodology that reflects expected credit losses and requires consideration of a broader range of reasonable and supportable information to inform credit loss estimates.
-
-
-item1.txt
 In the opinion of management, all adjustments, consisting only of normal recurring adjustments considered necessary for a fair statement of results of operations and financial position have been included.
 We determine if an arrangement is or contains a lease at inception.
 Operating leases with lease terms of more than 12 months are included in operating lease assets, accrued and other current liabilities, and long-term operating lease liabilities on our consolidated balance sheet.
@@ -10,15 +5,7 @@ Operating lease assets and liabilities are recognized based on the present value
 Operating lease assets also include initial direct costs incurred and prepaid lease payments, minus any lease incentives.
 We combine the lease and non-lease components in determining the operating lease assets and liabilities.
 We operate on a 52- or 53-week year, ending on the last Sunday in January.
-All intercompany balances and transactions have been eliminated in consolidation.
-other contingencies.
-The Financial Accounting Standards Board, or FASB, issued an accounting standards update regarding the accounting for leases under which lease assets and liabilities are recognized on the balance sheet.
-The standard will be effective for us beginning in the first quarter of fiscal year 2021, with early adoption permitted.
-We are currently evaluating the impact of this standard on our Consolidated Financial Statements.
-
-
-item2.txt
-This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the “safe harbor” created by those sections.
+All intercompany balances and transactions have been eliminated in consolidation.This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the “safe harbor” created by those sections.
 Selected Financial Data” of our Annual Report on Form 10-K for the fiscal year ended January 27, 2019 and “Item 1A.
 Fueled by the sustained demand for better 3D graphics and the scale of the gaming market, NVIDIA has evolved the GPU into a computer brain at the intersection of virtual reality, high performance computing, or HPC, and artificial intelligence, or AI.
 Our GPU product brands are aimed at specialized markets including GeForce for gamers; Quadro for designers; Tesla and DGX for AI data scientists and big data researchers; and GRID for cloud-based visual computing users.
@@ -26,24 +13,4 @@ Our Tegra brand integrates an entire computer onto a single chip, and incorporat
 GPU business revenue was $2.10 billion, down 21% from a year earlier and up 4% sequentially.
 Tegra Processor business revenue - which includes Automotive, SOC modules for gaming platforms, and embedded edge AI platforms - was $475 million, up 2% from a year ago and up 140% sequentially.
 From a market-platforms perspective, Gaming revenue was $1.31 billion, down 27% from a year ago and up 24% sequentially.
-The sequential increase reflects growth from SOC modules for gaming platforms, gaming notebook GPUs, and GeForce RTX SUPER gaming GPUs.
-Professional Visualization revenue was $291 million, up 4% from a year earlier and up 9% sequentially.
-The year-on-year and sequential growth reflects strength across mobile workstation products.
-The sequential increase was due to enterprise revenue growth driven by expanding AI workloads.
-OEM and Other revenue was $111 million, down 4% from a year ago and up 12% sequentially.
-Gross margin for the second quarter of fiscal year 2020 was 59.8%, down 350 basis points from a year earlier and up 140 basis points sequentially.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-Beginning August 2004, our Board of Directors authorized us to repurchase our stock.
-As of July 28, 2019, we were authorized to repurchase additional shares of our common stock up to $7.24 billion through December 2022.
-
-
+The sequential increase reflects growth from SOC modules for gaming platforms, gaming notebook GPUs, and GeForce RTX SUPER gaming GPUs.Beginning August 2004, our Board of Directors authorized us to repurchase our stock.

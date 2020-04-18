@@ -1,50 +1,16 @@
-fls.txt
-
-
-
-item1.txt
-The Company's financial results for prior periods presented herein have been recast to reflect certain businesses that were classified as discontinued operations during the fourth quarter of fiscal year 2017 and second quarter of fiscal year 2018.
+The unaudited condensed consolidated financial statements of Marvell Technology Group Ltd., a Bermuda exempted company, and its wholly owned subsidiaries (the “Company”), as of and for the three months ended May 5, 2018, have been prepared as required by the U.S. Securities and Exchange Commission (the “SEC”).
+These unaudited condensed consolidated financial statements and related notes should be read in conjunction with the Company's fiscal year 2018 audited financial statements included in the Company's Annual Report on Form 10-K for the fiscal year ended February 3, 2018.
 On November 19, 2017, the Company entered into an agreement and plan of merger (the “Merger Agreement”) with Cavium, Inc. (“Cavium”), pursuant to which a subsidiary of the Company will merge with and into Cavium, with Cavium surviving and becoming a wholly-owned indirect subsidiary of the Company (the "Merger").
 Cavium is a provider of highly integrated semiconductor processors that enable intelligent processing for wired and wireless infrastructure and cloud for networking, communications, storage and security applications.
 The Merger is primarily intended to create an opportunity for the combined company to emerge as a leader in infrastructure solutions.
-Pursuant to the Merger Agreement, the Company will issue 2.1757 common shares and pay $40.00 per share in cash, without interest, for each share of Cavium common stock.
 The Company has obtained commitments consisting of an $850 million bridge loan commitment and a $900 million committed term loan from Goldman Sachs Bank USA and Bank of America Merrill Lynch, in each case subject to customary terms and conditions.
-In addition, in connection with the Merger, the Company plans to obtain a $500 million revolving credit facility, borrowings under which will be used for general corporate purposes of the Company and its subsidiaries.
+The Company has recorded $20.1 million of associated deferred debt and equity financing costs on the accompanying consolidated balance sheet as of May 5, 2018.
 In May 2014, the FASB issued a new accounting standard on the recognition of revenue from contracts with customers that superseded nearly all existing revenue recognition guidance under GAAP.
 The new standard requires an entity to recognize revenue from the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services.
-See "Note 3 - Revenue" for additional information on the impact of the adoption of the new standard on the Company’s consolidated financial statements.
-In January 2016, the FASB issued an accounting standard update that changes the accounting for equity investments, financial liabilities under the fair value option, and the presentation and disclosure requirements for financial instruments.
-In August 2016, the FASB issued an accounting standards update to add or clarify guidance on the classification of certain cash receipts and cash payments in the statement of cash flows.
-In October 2016, the FASB issued new guidance that simplifies the accounting for the income tax effects of intra-entity transfers and will require companies to recognize the income tax effects of intra-entity transfers of assets other than inventory when the transfer occurs.
-Previous guidance required companies to defer the income tax effects of intra-entity transfers of assets until the asset had been sold to an outside party or otherwise recognized.
-In November 2016, the FASB issued new guidance that requires entities to include in their cash and cash-equivalent balances in the statement of cash flows those amounts that are deemed to be restricted cash and restricted cash equivalents.
-As a result, companies will no longer present transfers between cash and cash equivalents and restricted cash and restricted cash equivalents in the statement of cash flows.
-
-
-item2.txt
-This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), which are subject to the “safe harbor” created by those sections.
-Our core strength is developing complex System-on-a-Chip (“SoC”) devices, leveraging our technology portfolio of intellectual property in the areas of analog, mixed-signal, digital signal processing, and embedded and standalone integrated circuits.
-We also develop integrated hardware platforms along with software that incorporates digital computing technologies designed and configured to provide an optimized computing solution.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-The information under the caption “Contingencies” as set forth in “Note 8 – Commitments and Contingencies” of our Notes to Unaudited Condensed Consolidated Financial Statements, included in Part I, Item 1, is incorporated herein by reference.
+The guidance addresses, in particular, contracts with more than one performance obligation, as well as the accounting for certain costs to obtain or fulfill a contract with a customer, and provides for additional disclosures with respect to revenue and cash flows arising from contracts with customers.This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), which are subject to the “safe harbor” created by those sections.
+Our core strength is developing complex System-on-a-Chip (“SoC”) devices, leveraging our technology portfolio of intellectual property in the areas of analog, mixed-signal, digital signal processing, and embedded and standalone integrated circuits.The information under the caption “Contingencies” as set forth in “Note 8 – Commitments and Contingencies” of our Notes to Unaudited Condensed Consolidated Financial Statements, included in Part I, Item 1, is incorporated herein by reference.
 Many of these risks and uncertainties are beyond our control, including business cycles and seasonal trends of the computing, semiconductor and related industries and end markets.
 Our proposed acquisition of Cavium, Inc. (“Cavium”) involves a number of risks, including, among others, the risk that we fail to complete the acquisition in a timely manner or at all, regulatory risks, risks associated with our use of a significant portion of our cash and our taking on significant indebtedness, other financial risks, integration risks, and risk associated with the reactions of customers, suppliers and employees.
 The regulatory approvals required in connection with the proposed transaction may not be obtained or may contain materially burdensome conditions.
 If any conditions or changes to the structure of the proposed transaction are required to obtain these regulatory approvals, they may have the effect of jeopardizing or delaying completion of the proposed transaction or reducing our anticipated benefits.
 In addition, the use of a significant portion of our cash and the incurrence of substantial indebtedness in connection with the financing of the proposed transaction will reduce our liquidity and may limit our flexibility in responding to other business opportunities and increase our vulnerability to adverse economic and industry conditions.
-Marvell or Cavium may also elect to terminate the Merger Agreement in certain other circumstances, or they may mutually decide to terminate the Merger Agreement at any time prior to the Effective Time, before or after obtaining shareholder approval, as applicable.
-Until the completion of the Merger or the termination of the Merger Agreement in accordance with its terms, Marvell and Cavium are each prohibited from entering into certain transactions and taking certain actions that might otherwise be beneficial to Marvell or Cavium and their respective shareholders.
-These restrictions may prevent Marvell and Cavium from making appropriate changes to their respective businesses or pursuing attractive business opportunities that may arise prior to the completion of the Merger.
-The Merger Agreement limits each of Marvell’s and Cavium’s ability to pursue alternative transactions and, in certain instances, requires payment of a termination fee, which could deter a third party from proposing an alternative transaction.
-
-

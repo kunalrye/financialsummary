@@ -1,49 +1,16 @@
-fls.txt
-2016-13, Financial Instruments - Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments, which requires measurement and recognition of expected credit losses for financial assets measured at amortized cost, including accounts receivable, upon initial recognition of that financial asset using a forward-looking expected loss model, rather than an incurred loss model for credit losses.
-This Quarterly Report on Form 10-Q contains or incorporates forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.
-
-
-item1.txt
-   (1)  The Company adopted the new revenue recognition standard (ASC 606) on January 1, 2018 and has adjusted prior periods to conform.
+2016-13, Financial Instruments - Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments, which requires measurement and recognition of expected credit losses for financial assets measured at amortized cost, including accounts receivable, upon initial recognition of that financial asset using a forward-looking expected loss model, rather than an incurred loss model for credit losses.   (1)  The Company adopted the new revenue recognition standard (ASC 606) on January 1, 2018 and has adjusted prior periods to conform.
 Pegasystems Inc. (together with its subsidiaries, the Company) has prepared the accompanying unaudited condensed consolidated financial statements pursuant to the rules and regulations of the U.S. Securities and Exchange Commission (SEC) regarding interim financial reporting.
 2014-09, Revenue from Contracts with Customers (Topic 606) using the full retrospective method which required each prior reporting period presented to be adjusted to reflect the application of this ASU.
 2016-13, Financial Instruments - Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments, which requires measurement and recognition of expected credit losses for financial assets measured at amortized cost, including accounts receivable, upon initial recognition of that financial asset using a forward-looking expected loss model, rather than an incurred loss model for credit losses.
-The Company is currently evaluating the effect this ASU will have on its consolidated financial statements and related disclosures.
+Credit losses relating to available-for-sale debt securities should be recorded through an allowance for credit losses when the fair value is below the amortized cost of the asset, removing the concept of other-than-temporary impairments.
 2016-02, Leases (Topic 842), which requires lessees to record most leases on their balance sheets, recognizing a lease liability for the obligation to make lease payments and a right-of-use asset for the right to use the underlying asset for the lease term.
 The Company adopted ASC 606 and ASC 340-40 on January 1, 2018 using the full retrospective method, which required the Company to retrospectively adjust the prior periods presented.
 Previously the Company recognized revenue over the term of the agreements as payments became due or earlier if prepaid.
-ASC 340-40 requires these costs to be recognized as an asset when incurred and to be expensed over the period of expected benefit, which is on average five years.
-This change primarily impacts the Companys contracts related to multi-year cloud offerings, maintenance on term and perpetual licenses, and those long-term term and perpetual licenses with client usage rights that increase over time.
-   (1)  Includes cash and cash equivalents, marketable securities, income taxes receivable, other current assets, property and equipment, intangible assets, goodwill, and other long-term assets (as reflected in the consolidated balance sheets in the Annual Report on Form 10-K for the year ended December 31, 2017).
-As of March 31, 2018, remaining maturities of marketable securities ranged from May 2018 to February 2021, with a weighted-average remaining maturity of approximately 1.4 years.
-Unbilled receivables is the amount due from clients where the only condition on the right of payment is the passage of time.
- (1) Included in other current assets in the unaudited condensed consolidated balance sheets.
-Contract assets are unbilled amounts resulting from client contracts where revenue recognized exceeds the amount billed to the client and the right to payment is subject to conditions other than the passage of time, such as the completion of a related performance obligation.
-During the three months ended March 31, 2018 and 2017, impairment of deferred contract costs was not material.
-
-
-item2.txt
-This Quarterly Report on Form 10-Q contains or incorporates forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.
+Any unrecognized license revenue from these arrangements is recognized in the period that control transfers, as either a cumulative adjustment to retained earnings as of December 31, 2015 or as revenue in periods thereafter.
+Unbilled receivables in the Companys unaudited condensed consolidated balance sheets increased significantly due to the revenue from perpetual license with extended payment terms and term license being recognized prior to amounts billed, or prepaid by, clients.
+ASC 340-40 requires these costs to be recognized as an asset when incurred and to be expensed over the period of expected benefit, which is on average five years.This Quarterly Report on Form 10-Q contains or incorporates forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.
 We develop, market, license, and support software applications for customer engagement and digital process automation, in addition to licensing our Pega Platform application development product for clients that wish to build and extend their own applications.
 The Pega Platform and applications help connect enterprises to their customers in real-time across channels, streamline business operations, and adapt to meet changing requirements.
 Our clients include Global 3000 companies and government agencies that seek to manage complex enterprise systems and customer service issues with greater agility and cost-effectiveness.
 Our strategy is to sell a client a series of licenses, each focused on a specific purpose or area of operations in support of longer term enterprise-wide digital transformation initiatives.
 The decrease in total revenue in the three months ended March 31, 2018 was primarily due to a large term license arrangement recognized in revenue in the three months ended March 31, 2017 and a shift in client preferences to cloud arrangements.
-Cloud arrangements are generally recognized in revenue over the term of the cloud contract, as compared to other arrangements, which are generally recognized in revenue on the contract effective date.
-The change in ACV measures the growth and predictability of future cash flows from committed term, cloud, and maintenance arrangements as of the end of the particular reporting period.
-      The sum of the annual value of each term and cloud contract in effect on such date, with the annual value of a term or cloud contract being equal to the total value of the contract divided by the total number of years of the contract.
-Judgment is required to determine whether each product and service is considered to be a distinct performance obligation that should be accounted for separately under the contract.
-
-
-item3.txt
-Other than the item discussed below, there were no significant changes to our market risk exposure during the first three months ended March 31, 2018.
-
-
-item4.txt
-
-
-
-part2.txt
-Risk Factors of our Annual Report on Form 10-K for the year ended December 31, 2017.
-
-

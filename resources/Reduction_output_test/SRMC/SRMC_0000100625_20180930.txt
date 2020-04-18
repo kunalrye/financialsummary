@@ -1,8 +1,3 @@
-fls.txt
-Our actual results could differ materially from those anticipated in these forward-looking statements as a result of certain factors, including, without limitation, general economic conditions in both foreign and domestic markets, changes in the economy and the credit market, investment and research and development plans and success, market position and penetration, strategic plans and objectives, operating margins, government and regulatory approvals or certifications, cyclical factors affecting our industry, our ability to identify, attract, motivate and retain qualified personnel, lack of growth in our end-markets, our ability to develop and manufacture, seasonality in our products, availability of components and materials used in our products, and our ability to sell both new and existing products at a profitable yet competitive price and those issues described under the heading “Critical Accounting Policies,” below, and those risk factors identified in Item1A, Risk Factors, of our Annual Report on Form 10-K for our fiscal year ended December 31, 2017, which was filed with the SEC on April 2, 2018, as such section may be updated in our subsequent Forms 10-K, 10-Q and 8-K filed with, or furnished to, the SEC.
-
-
-item1.txt
 The accompanying unaudited interim condensed financial statements have been prepared by Sierra Monitor Corporation (the “Company”, “Sierra Monitor”, “we” or “us”), pursuant to the rules and regulations of the Securities and Exchange Commission (the “SEC”).
 In the opinion of the Company, all adjustments, including normal recurring adjustments necessary to present fairly the financial position, results of operations, and cash flows of the Company for the interim period have been included.
 The Company’s FieldServer family of protocol gateways, routers, and network explorers targets facility automation requirements, and is used by original equipment manufacturers (“OEMs”) and system integrators to enable local and remote monitoring and control of assets and facilities.
@@ -10,15 +5,7 @@ The FieldServer family of products works with the SMC Cloud portal; a cloud-base
 With more than 200,000 installed gateways supporting over 140 protocols such as BACnet, LonWorks, MODBUS, and XML in commercial and industrial facilities, FieldServer is the industry’s leading multi-protocol gateway brand and is delivered in a variety of form factors appropriate to the asset being interfaced.
 Additionally, the embedded software enables the assets or devices in the facility to securely connect to third-party clouds and to the Company’s own SMC Cloud portal.
 The SMC Cloud portal is a proprietary, secure, and scalable Software-as-a-Service product and is developed and deployed using the same core technologies and providers that are used by many of the world’s leading web sites and Internet-based services.
-The Company’s solutions are also sold to telecommunication companies and their suppliers to manage environmental and security conditions such as temperature, gas, and smoke in remote structures such as local DSL distribution nodes and buildings at cell tower sites.
-The Company was founded in 1978 and its common stock is quoted on the OTC Bulletin Board under the symbol “SRMC”.
-ASC 606 requires the recognition of revenue when promised goods or services are transferred to customers in an amount that reflects the considerations to which the entity expects to be entitled to in exchange for those goods or services.
-The majority of the impact has been on sales returns and the impact has been deemed immaterial.
-The Company’s revenues are derived from the sale of FieldServer products, FieldServer products services, Gas Detection and Environment Control products, and Gas Detection and Environment Control products services.
-
-
-item2.txt
-This Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”).
+The Company’s solutions are also sold to telecommunication companies and their suppliers to manage environmental and security conditions such as temperature, gas, and smoke in remote structures such as local DSL distribution nodes and buildings at cell tower sites.This Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”).
 For the three-month period ended September 30, 2018, Sierra Monitor Corporation (“we” or the “Company”) reported net sales of $5,994,234 compared to $5,177,199 for the three-month period ended September 30, 2017.
 For the three-month period ended September 30, 2018, sales of our instrumentation products, including fire and gas detection, military sales and environment controllers, were approximately $2,813,000 compared to approximately $2,536,000 in the three-month period ended September 30, 2017, representing an 11% increase.
 For the nine-month period ended September 30, 2018, sales of our instrumentation products were approximately $8,116,000 compared to approximately $6,906,000 in the same period in 2017 representing an 18% increase.
@@ -28,18 +15,3 @@ Gross profit for the three-month period ended September 30, 2018 was approximate
 Gross profit for the nine-month period ended September 30, 2018 was approximately $10,006,000, or 60% of net sales, compared to approximately $8,626,000, or 59% of net sales, in the same period in the previous year.
 Expenses for research and development, which include new product development and engineering to sustain existing products, were approximately $805,000, or 13% of net sales, for the three-month period ended September 30, 2018 compared to approximately $768,000, or 15% of net sales, in the comparable period in 2017.
 In the nine-month periods ended September 30, 2018 and September 30, 2017, research and development expenses were approximately $2,371,000, or 14% of net sales, and approximately $2,296,000, or 16% of net sales, respectively.
-Selling and marketing expenses, which consist primarily of salaries, commissions and promotional expenses were approximately $1,490,000, or 25% of net sales for the three-month period ended September 30, 2018, compared to approximately $1,225,000, or 24% of net sales, in the comparable period in the prior year.
-For the nine-month periods ended September 30, 2018 and 2017, selling and marketing expenses were approximately $4,220,000, or 25% of net sales, and approximately 3,841,000, or 26% of net sales, respectively.
-The increase in our selling expenses in the three and nine-month periods ended September 30, 2018 compared to the same period in the prior year are primarily attributed to the addition of resources.
-General and administrative expenses, which consist primarily of salaries, building rent, insurance expenses, information technology expenses and fees for professional services, were approximately $1,014,000, or 17% of net sales, for the three-month period ended September 30, 2018 compared to approximately $743,000, or 14% of net sales, in the three-month period ended September 30, 2017.
-For the nine-month periods ended September 30, 2018 and September 2017, general and administrative expenses were approximately $2,917,000, or 17% of net sales, and approximately $2,356,000, or 16% of net sales, respectively.
-
-
-item4.txt
-A list of exhibits to this Quarterly Report on Form 10-Q is set forth on the Index to Exhibits immediately preceding such exhibits and is incorporated herein by reference.
-
-
-part2.txt
-The Company’s risk factors have not changed materially since December 31, 2017.
-
-

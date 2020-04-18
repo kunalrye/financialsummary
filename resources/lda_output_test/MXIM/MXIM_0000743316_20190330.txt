@@ -1,4 +1,3 @@
-item1.txt
 The accompanying unaudited condensed consolidated financial statements of Maxim Integrated Products, Inc. and all of its majority-owned subsidiaries (collectively, the “Company” or “Maxim Integrated”) included herein have been prepared by the Company pursuant to the rules and regulations of the Securities and Exchange Commission (the “SEC”).
 The year-end condensed consolidated balance sheet data were derived from audited consolidated financial statements but do not include all disclosures required by GAAP.
 In May 2014, the Financial Accounting Standards Board ("FASB") issued Accounting Standard Update ("ASU") 2014-09, Revenue from Contracts with Customers (Topic 606).
@@ -6,40 +5,13 @@ Under the new standard, revenue is recognized when a customer obtains control of
 On July 1, 2018, the Company adopted Topic 606 and related amendments (ASU 2015-14, Deferral of the Effective Date; ASU 2016-08, Principal versus Agent Considerations; ASU 2016-10, Identifying Performance Obligations and Licensing, ASU 2016-12, Narrow-Scope Improvements and Practical Expedients and ASU 2016-20, Technical Corrections and Improvements to Topic 606, Revenue from Contracts with Customers) using the modified retrospective method applied to all contracts that are not completed at the date of initial application (i.e., July 1, 2018).
 Results for reporting periods beginning after July 1, 2018 are presented under Topic 606, while prior period amounts are not adjusted and continue to be reported in accordance with historic accounting standards under Topic 605.
 Under Topic 605, the gross amount of accrued revenue reserves for price adjustments and other revenue reserves of $141.7 million was included within accounts receivable, net as of June 30, 2018.
-The adoption of Topic 606 has no impact on the total cash flows from operating, investing, or financing activities on the Condensed Consolidated Statements of Cash Flows.
 •The Company does not disclose the value of unsatisfied performance obligations for (i) contracts with an original expected length of one year or less and (ii) contracts for which the Company recognizes revenue at the amount to which it has the right to invoice for services performed.
 •The Company has elected to exclude sales, use, value added, and some excise taxes, if applicable, from the measurement of the transaction price.
 The Company recognizes revenue for sales to direct customers and distribution customers ("distributors") when a customer obtains control of promised goods or services in an amount that reflects the consideration which the Company expects to receive in exchange for those goods or services.
-The transaction price is calculated as selling price net of variable considerations, such as distributor price adjustments.
-The Company elected the practical expedient to not disclose the value of unsatisfied performance obligations for (i) contracts with an original expected length of one year or less and (ii) contracts for which it recognizes revenue at the amount to which it has the right to invoice for services performed.
-Accounts receivable related to consigned inventory is recognized when the customer takes title to such inventory from its consigned location, at which point inventory is relieved, title transfers, and the Company has a legally enforceable right to collection under the terms of the agreement with the related customers.
-To date, actual distributor claims activity has been materially consistent with the estimates that the Company has made based on its historical rates.
-The rule also requires registrants to include in their interim financial statements a reconciliation of changes in stockholders' equity in the notes or as a separate statement.
-Level 2 - Observable inputs other than quoted prices included in Level 1, such as quoted prices for similar assets or liabilities in active markets, quoted prices for identical or similar assets or liabilities in markets that are not active, or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the asset or liability.
-The Company invests in various financial instruments including U.S. Treasury securities, corporate debt securities, commercial paper, and certificates of deposit which include instruments issued or managed by industrial, financial, and utility institutions and U.S. Treasury securities which include U.S. government Treasury bills and Treasury notes.
-
-
-item2.txt
-Readers should carefully review future reports and documents that the Company files with or furnishes to the SEC from time to time, such as its Annual Reports on Form 10-K, its Quarterly Reports on Form 10-Q, and any Current Reports on Form 8-K.
+In determining the transaction price, the Company evaluates whether the price is subject to refund or adjustment to determine the net consideration to which it is expected to be entitled.
+The Company elected the practical expedient to not disclose the value of unsatisfied performance obligations for (i) contracts with an original expected length of one year or less and (ii) contracts for which it recognizes revenue at the amount to which it has the right to invoice for services performed.Readers should carefully review future reports and documents that the Company files with or furnishes to the SEC from time to time, such as its Annual Reports on Form 10-K, its Quarterly Reports on Form 10-Q, and any Current Reports on Form 8-K.
 The major end-markets in which our products are sold are the Automotive, Communications and Data Center, Computing, Consumer and Industrial markets.
 Based on this definition, our most critical accounting policies include revenue recognition, which impacts the recording of net revenues; valuation of inventories, which impacts costs of goods sold and gross margins; the assessment of recoverability of long-lived assets, which impacts impairment of long-lived assets; assessment of recoverability of intangible assets and goodwill, which impacts impairment of goodwill and intangible assets; accounting for income taxes, which impacts the income tax provision; and assessment of litigation and contingencies, which impacts charges recorded in cost of goods sold, selling, general and administrative expenses and income taxes.
 Net revenues were $542.4 million and $648.6 million for the three months ended March 30, 2019 and March 31, 2018, respectively.
-Revenue from industrial products was down by 18%, mainly due to a decline in shipments of control, automation and automatic test equipment products.
 Revenue from communications and data center products was down by 22%, due to generally lower shipments of server, network and data center products.
-Revenue from communications and data center products was down by 12% due to generally lower shipments of network, server, and data center products.
-Revenue from industrial products was down by 7%, driven by lower demand for control, automation, security and other industrial products, partially offset by higher demand for USB extension products.
-The decrease in revenues in these markets was partially driven by the 13-week second quarter of fiscal year 2019, compared to the 14-week second quarter of fiscal year 2018.
-
-
-item3.txt
-
-
-
-item4.txt
-Our management, with the participation of our chief executive officer (“CEO”) and our chief financial officer (“CFO”), evaluated the effectiveness of our disclosure controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934 (the “Exchange Act”) as of March 30, 2019.
-
-
-part2.txt
-The information set forth above under Part I, Item 1, Note 11 “Commitments and Contingencies” to the Condensed Consolidated Financial Statements is incorporated herein by reference.
-
-
+Revenue from communications and data center products was down by 12% due to generally lower shipments of network, server, and data center products.The information set forth above under Part I, Item 1, Note 11 “Commitments and Contingencies” to the Condensed Consolidated Financial Statements is incorporated herein by reference.

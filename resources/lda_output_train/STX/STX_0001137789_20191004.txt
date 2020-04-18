@@ -1,49 +1,15 @@
-fls.txt
-This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 or Section 21E of the Securities Exchange Act of 1934, each as amended, including, among other things, statements about our plans, strategies and prospects, market demand for our products, shifts in technology, estimates of industry growth, our ability to effectively manage our debt obligations and our cash liquidity position, our restructuring efforts, the sufficiency of our sources of cash to meet our cash needs for the next 12 months and our expectations regarding capital expenditures and projected cost savings for the fiscal year ending July 3, 2020.
-
-
-item1.txt
 Seagate Technology plc (“STX”) and its subsidiaries (collectively, unless the context otherwise indicates, the “Company”) is a leading provider of data storage technology and solutions.
 In addition to HDDs, the Company produces a broad range of data storage products including solid state drives (“SSDs”), solid state hybrid drives (“SSHDs”) and storage subsystems.
 Hard disk drives are devices that store digitally encoded data on rapidly rotating disks with magnetic surfaces.
 Disk drives continue to be the primary medium of mass data storage due to their performance attributes, reliability, high quality and cost effectiveness.
 The Company’s SSD product portfolio is mainly comprised of Serial Attached SCSI (“SAS”) and Non-Volatile Memory Express (“NVMe”) and is designed for applications in enterprise servers and storage systems.
 The Company’s enterprise data solutions (“EDS”) portfolio includes storage subsystems for enterprises, cloud service providers, scale-out storage servers and original equipment manufacturers (“OEMs”).
-The Company’s unaudited condensed consolidated financial statements include the accounts of the Company and all its wholly-owned and majority-owned subsidiaries, after elimination of intercompany transactions and balances.
+The Company operates and reports financial results on a fiscal year of 52 or 53 weeks ending on the Friday closest to June 30.
 The three months ended October 4, 2019 consisted of 14 weeks and the three months ended September 28, 2018 consisted of 13 weeks.
-The fiscal quarters ended October 4, 2019, June 28, 2019 and September 28, 2018, are also referred to herein as the “September 2019 quarter”, the “June 2019 quarter”, and the “September 2018 quarter”, respectively.
 In accordance with its policy, the Company reviews the estimated useful lives of its fixed assets on an ongoing basis.
 This review indicated that the actual lives of certain manufacturing equipment at its manufacturing facilities were longer than the estimated useful lives used for deprecation purposes in the Company’s condensed consolidated financial statements.
-As a result, effective June 29, 2019, the Company changed its estimate of the useful lives of its manufacturing equipment from a range of three to five years to a range of three to seven years.
-The effect of this change in estimate increased the September 2019 quarter net income by $23 million and diluted earnings per share by $0.09.
-The Company elected to apply the practical expedients which allow for not reassessing whether existing contracts contain leases, the classification of existing leases and whether the existing initial direct costs meet the new definition.
-In addition, the Company elected to combine lease and non-lease components for facility leases and to not recognize right-of-use (“ROU”) assets and lease liabilities for leases with an initial term of 12 months of less on the balance sheet.
-ROU assets represent the Company’s right to use an underlying asset for the lease term and the corresponding lease liabilities represent its obligation to make lease payments arising from the lease.
-Lease liabilities are measured at the present value of the remaining lease payments and ROU assets are based on the lease liability, adjusted for lease prepayments, lease incentives received and the lessee’s initial direct costs.
-As the Company’s leases do not provide an implicit rate, the net present value of future minimum lease payments is determined using the Company’s estimated incremental borrowing rate based on the information available at the lease commencement date.
-
-
-item2.txt
- The following is a discussion of the financial condition, changes in financial condition, and results of operations for our fiscal quarters ended October 4, 2019, June 28, 2019 and September 28, 2018, referred to herein as the “September 2019 quarter,” the “June 2019 quarter,” and the “September 2018 quarter,” respectively.
+As a result, effective June 29, 2019, the Company changed its estimate of the useful lives of its manufacturing equipment from a range of three to five years to a range of three to seven years. The following is a discussion of the financial condition, changes in financial condition, and results of operations for our fiscal quarters ended October 4, 2019, June 28, 2019 and September 28, 2018, referred to herein as the “September 2019 quarter,” the “June 2019 quarter,” and the “September 2018 quarter,” respectively.
 Unless the context indicates otherwise, as used herein, the terms “we,” “us,” “Seagate,” the “Company” and “our” refer to Seagate Technology plc, an Irish public limited company, and its subsidiaries.
 We repurchased an aggregate principal amount of $620 million of certain outstanding senior notes in connection with the Tender Offers and borrowed $500 million under the Term Loan.
-Additionally, we changed our estimate of the useful lives of our manufacturing equipment from a range of three to five years to a range of three to seven years.
-Revenue in the September 2019 quarter increased by $207 million from the June 2019 quarter primarily due to an increase in exabytes shipped and improved product mix, partially offset by price erosion.
-Revenue in the September 2019 quarter decreased by $413 million from the September 2018 quarter primarily due to less favorable market conditions and price erosion.
-Sales incentive programs were approximately 13%, 11% and 11% of gross HDD revenue for the September 2019 quarter, June 2019 quarter and September 2018 quarter, respectively.
-
-
-item3.txt
-As of October 4, 2019, we had no available-for-sale debt securities that had been in a continuous unrealized loss position for a period greater than 12 months.
-In the September 2019 quarter, we entered into certain interest rate swap agreements with a notional amount of $500 million to convert the variable interest rate on the Term Loan to fixed interest rates.
-The objective of the interest rate swap agreements is to eliminate the variability of interest payment cash flows associated with variable interest rates.
-
-
-item4.txt
-
-
-
-part2.txt
-Legal, Environmental and Other Contingencies” of this Quarterly Report on Form 10-Q.
-
-
+Additionally, we changed our estimate of the useful lives of our manufacturing equipment from a range of three to five years to a range of three to seven years.As of October 4, 2019, we had no available-for-sale debt securities that had been in a continuous unrealized loss position for a period greater than 12 months.
+In the September 2019 quarter, we entered into certain interest rate swap agreements with a notional amount of $500 million to convert the variable interest rate on the Term Loan to fixed interest rates.Legal, Environmental and Other Contingencies” of this Quarterly Report on Form 10-Q.

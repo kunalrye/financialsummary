@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 In addition to HDDs, the Company produces a broad range of data storage products including solid state drives (SSD) and their related controllers, solid state hybrid drives (SSHD) and storage subsystems.
 Hard disk drives are devices that store digitally encoded data on rapidly rotating disks with magnetic surfaces.
 Complementing existing data center storage architecture, solid-state storage devices use integrated circuit assemblies as memory to store data with most SSDs using NAND-based flash memory.
@@ -10,21 +5,7 @@ The Companys cloud systems and solutions extend innovation from the device int
 Its portfolio includes modular original equipment manufacturers (OEM) storage systems and scale-out storage servers.
 The unaudited condensed consolidated financial statements include the accounts of the Company and all its wholly-owned and majority-owned subsidiaries, after elimination of intercompany transactions and balances.
 Certain prior period amounts in the condensed consolidated financial statements and notes to the condensed consolidated financial statements have been reclassified to conform to the current periods presentation.
+The Company operates and reports financial results on a fiscal year of 52 or 53 weeks ending on the Friday closest to June 30.
 The fiscal quarters ended December 29, 2017, September 29, 2017, and December 30, 2016, are also referred to herein as the December 2017 quarter, the September 2017 quarter, and the December 2016 quarter, respectively.
 In May 2014, August 2015, April 2016, May 2016 and December 2016, the Financial Accounting Standards Board (FASB) issued ASU 2014-09 (ASC Topic 606), Revenue from Contracts with Customers, ASU 2015-14 (ASC Topic 606) Revenue from Contracts with Customers, Deferral of the Effective Date, ASU 2016-10 (ASC Topic 606) Revenue from Contracts with Customers, Identifying Performance Obligations and Licensing, ASU 2016-12 (ASC Topic 606) Revenue from Contracts with Customers, Narrow-Scope Improvements and Practical Expedients, and ASU 2016-20 (ASC Topic 606) Technical Corrections and Improvements to Topic 606, Revenue from Contracts with Customers, respectively.
-ASC Topic 606 outlines a single comprehensive model for entities to use in accounting for revenue arising from contracts with customers and supersedes most current revenue recognition guidance, including industry-specific guidance.
-Based on its assessment, the Company plans to adopt the new revenue standard in the first quarter of fiscal 2019, utilizing the modified retrospective method of transition.
-In January 2016, the FASB issued ASU 2016-01 (ASC Subtopic 825-10), Financial InstrumentsOverall Recognition and Measurement of Financial Assets and Financial Liabilities.
-This requirement does not apply to investments that qualify for the equity method of accounting, to those that result in consolidation of the investee, or for which the entity meets a practicability exception to fair value measurement.
-Additionally, the amendments eliminate certain disclosure requirements related to financial instruments measured at amortized cost and add disclosures related to the measurement categories of financial assets and financial liabilities.
-The Company expects to elect the measurement alternative for measurement of equity investments, defined as cost, less impairments, if any, plus or minus changes resulting from observable price changes in orderly transactions for an identical or similar investment in the same issuer (the Price Changes) until the equity investments fair value becomes readily determinable.
-The ASU amends a number of aspects of lease accounting, including requiring lessees to recognize operating leases with a term greater than one year on their balance sheet as a right-of-use asset and corresponding lease liability, measured at the present value of the lease payments.
-Upon adoption, excess tax benefits or deficiencies from share-based award activity are reflected in the condensed consolidated statements of operations as a component of the provision for income taxes, whereas they previously were recognized in the Shareholders equity in the condensed consolidated balance sheets.
-The Company also elected to continue to account for share-based compensation expense net of estimated forfeitures.
-
-
-item3.txt
-As of December 29, 2017, we had no available-for-sale securities that had been in a continuous unrealized loss position for a period greater than 12 months.
-The table below presents principal amounts and related weighted-average interest rates by year of maturity for our investment portfolio and debt obligations as of December 29, 2017.
-
-
+ASC Topic 606 outlines a single comprehensive model for entities to use in accounting for revenue arising from contracts with customers and supersedes most current revenue recognition guidance, including industry-specific guidance.As of December 29, 2017, we had no available-for-sale securities that had been in a continuous unrealized loss position for a period greater than 12 months.

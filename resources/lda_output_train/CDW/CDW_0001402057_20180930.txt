@@ -1,23 +1,10 @@
-fls.txt
-This ASU introduces a new forward-looking approach, based on expected losses, to estimate credit losses on certain types of financial instruments, including trade receivables.
-The estimate of expected credit losses will require considerations of historical information, current information and reasonable and supportable forecasts.
-
-
-item1.txt
-CDW Corporation ("Parent") is a Fortune 500 company with multi-national capabilities and a leading provider of integrated information technology ("IT") solutions to small, medium and large business, government, education and healthcare customers in the United States ("US"), the United Kingdom ("UK") and Canada.
+This ASU introduces a new forward-looking approach, based on expected losses, to estimate credit losses on certain types of financial instruments, including trade receivables.CDW Corporation ("Parent") is a Fortune 500 company with multi-national capabilities and a leading provider of integrated information technology ("IT") solutions to small, medium and large business, government, education and healthcare customers in the United States ("US"), the United Kingdom ("UK") and Canada.
 The Company's offerings range from discrete hardware and software products to integrated IT solutions such as mobility, security, data center optimization, cloud computing, virtualization and collaboration.
+CDW Finance Corporation is a Delaware corporation formed for the sole purpose of acting as co-issuer of certain debt obligations as described in Note 13 (Supplemental Guarantor Information) and does not hold any material assets or engage in any business activities or operations.
+The accompanying unaudited interim Consolidated Financial Statements as of September 30, 2018 and for the three and nine months ended September 30, 2018 and 2017 (the "Consolidated Financial Statements") have been prepared in conformity with accounting principles generally accepted in the United States of America ("GAAP") and the rules and regulations of the US Securities and Exchange Commission (the "SEC") for interim financial statements.
 Effective January 1, 2018, the Company adopted the requirements of Topic 606 utilizing the full retrospective method as discussed in Note 2 (Recent Accounting Pronouncements).
 Except as noted above for the adoption of Topic 606, there have been no material changes to the Company's significant accounting policies and estimates during the nine months ended September 30, 2018.
 The Company is a primary distribution channel for a large group of vendors and suppliers, including original equipment manufacturers ("OEMs"), software publishers and wholesale distributors.
+The Company is the principal in the transaction and recognizes revenue for drop-shipment arrangements on a gross basis.
 The Company recognizes revenue from these transactions when control has passed to the customer, which is usually upon delivery of the product to the customer.
-These extended warranties are sold separately and provide the customer with a service in addition to assurance that the product will function as expected.
-For service-type warranties, the Company is arranging for those services to be provided by the third-party and therefore is acting as an agent in the transaction and records revenue on a net basis at the point of sale.
-The Company evaluates whether the software assurance is a separate performance obligation by assessing if the third-party delivered software assurance is critical or essential to the core functionality of the software itself.
-If the Company determines that the accompanying third-party delivered software assurance is critical or essential to the core functionality of the software license, the software license and the accompanying third-party delivered software assurance are recognized as a single performance obligation.
-SaaS solutions utilize third-party partners to offer the Company's customers access to software in the cloud that enhances office productivity, provides security or assists in collaboration.
-IaaS solutions utilize third-party partners to enable customers to access data center functionality in a cloud-based solution, including storage, computing and networking.
-The Company recognizes revenue for cloud computing solutions for arrangements with one-time invoicing to the customer at the time of invoice on a net basis as the Company is acting as an agent in the transaction.
-For monthly subscription-based arrangements, the Company is acting as an agent in the transaction and recognizes revenue as it invoices the customer for its monthly usage on a net basis.
-Revenues from the sale of data center services, such as managed and remote managed services, server co-location, internet connectivity and data backup and storage provided by the Company, are recognized over the period the service is provided.
-
-
+For these transactions, the Company deems that control passes to the customer when the product is ready for delivery.

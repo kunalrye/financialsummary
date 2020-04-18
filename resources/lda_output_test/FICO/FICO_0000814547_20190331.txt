@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 We have prepared the accompanying unaudited interim condensed consolidated financial statements in accordance with the instructions to Form 10-Q and the applicable accounting guidance.
 In our opinion, the accompanying unaudited interim condensed consolidated financial statements reflect all adjustments (consisting only of normal recurring adjustments, except as otherwise indicated) necessary for a fair presentation of our financial position and results of operations.
 These unaudited condensed consolidated financial statements and notes thereto should be read in conjunction with our audited consolidated financial statements and notes thereto presented in our Annual Report on Form 10-K for the fiscal year ended September 30, 2018.
@@ -10,37 +5,12 @@ The interim financial information contained in this report is not necessarily in
 In connection with this adoption, the results and related disclosures for the comparative fiscal 2018 periods presented in this Form 10-Q were adjusted to be presented as if ASU 2014‑09 had been in effect during such fiscal 2018 periods.
 For example, we use estimates in determining the collectability of accounts receivable; the appropriate levels of various accruals; labor hours in connection with fixed-fee service contracts; the amount of our tax provision and the realizability of deferred tax assets.
 We also use estimates in determining the remaining economic lives and carrying values of acquired intangible assets, property and equipment, and other long-lived assets.
-Revenue is recognized when control of the promised goods or services is transferred to our customers, in an amount that reflects the consideration to which we expect to be entitled to in exchange for those goods or services.
-This adoption primarily affected timing of revenue recognition of license revenue on term licenses and transactional revenue on guaranteed minimum fees related to our on-premises software products.
-Under the new standard, we recognize revenue when control of the license is transferred to the customer, rather than at the date payments become due and payable when there are extended payment terms, or ratably over the term of the contract as required under the previous standard.
-In addition, revenue attributable to a software license renewal is recognized at the beginning of the applicable renewal period rather than at the signing of the renewal agreement as required under the previous standard.
-Additionally, under the new standard, when we enter into noncancellable contracts that provide unconditional rights to payment from our customers for services we have not yet completed or services we will provide in the near future, we present receivables — our unconditional rights to payments — and deferred revenues on a gross basis, rather than on a net basis.
-Following the adoption of ASU 2014-09, the revenue recognition for our other sales arrangements remained materially consistent with our historical practice.
-
-
-item2.txt
-We use analytics to help businesses automate, improve and connect decisions across their enterprise — an approach we commonly refer to as decision management.
+Revenue is recognized when control of the promised goods or services is transferred to our customers, in an amount that reflects the consideration to which we expect to be entitled to in exchange for those goods or services.We use analytics to help businesses automate, improve and connect decisions across their enterprise — an approach we commonly refer to as decision management.
 Our predictive analytics, which includes the industry-standard FICO® Score, and our decision management systems leverage the use of big data and mathematical algorithms to predict, categorize, and describe consumer behavior in order to power hundreds of billions of customer decisions each year.
 We also serve consumers through online services that enable people to purchase and understand their FICO® Scores, the standard measure of consumer credit risk in the U.S., and empower them to manage their financial health.
 Most of our solutions address customer engagement, including customer acquisition, customer onboarding, customer servicing and management, and customer protection.
-We also help businesses improve non-customer decisions such as streamlining transaction and claims processing, optimizing logistics, and identifying and quantifying security risk.
-We derive a significant portion of our revenues from clients outside the U.S. International revenues accounted for 31% and 33% of total consolidated revenues for the quarters ended March 31, 2019 and 2018, respectively, and 34% of total consolidated revenues for each of the six months ended March 31, 2019 and 2018.
-In addition, we derive a significant share of revenues from transactional or unit-based software license fees, transactional fees derived under credit scoring, data processing, data management and SaaS subscription services arrangements, and annual software maintenance fees.
-Bookings represent contracts signed in the current reporting period that generate current and future revenue streams.
-
-
-item3.txt
-
-
-
-part2.txt
-We continue to expand the pursuit of our business objective to become a leader in helping businesses automate and improve decisions across their enterprises, an approach that we commonly refer to as Decision Management, or “DM.” Our DM strategy is designed to enable us to increase our business by selling multiple products to clients, as well as to enable the development of custom client solutions that may lead to opportunities to develop new proprietary scores or other new proprietary products.
+We also help businesses improve non-customer decisions such as streamlining transaction and claims processing, optimizing logistics, and identifying and quantifying security risk.We continue to expand the pursuit of our business objective to become a leader in helping businesses automate and improve decisions across their enterprises, an approach that we commonly refer to as Decision Management, or “DM.” Our DM strategy is designed to enable us to increase our business by selling multiple products to clients, as well as to enable the development of custom client solutions that may lead to opportunities to develop new proprietary scores or other new proprietary products.
+The market may be unreceptive to our general DM business approach, including being unreceptive to purchasing multiple products from us, unreceptive to our customized solutions, or unreceptive to our cloud-based offerings.
 As we continue to pursue our DM strategy, we may experience volatility in our revenues and operating results caused by various factors, including differences in revenue recognition treatment between our cloud-based offerings and on-premise software licenses, the timing of investments and other expenditures necessary to develop and operate our cloud-based offerings, and the adoption of new sales and delivery methods.
 We derive a substantial portion of our revenues from a small number of products and services, and if the market does not continue to accept these products and services, our revenues will decline.
 We expect that part of the growth that we seek to achieve through our DM strategy will be derived from the sale of DM products and service solutions in industries and markets we do not currently serve.
-Our growth and the success of our DM strategy depend upon our ability to develop and sell new products or suites of products, including the development and sale of our cloud-based product offerings.
-In the past, we have experienced delays while developing and introducing new products and product enhancements, primarily due to difficulties developing models, acquiring data, and adapting to particular operating environments or certain client or other systems.
-Software errors in our products could affect the ability of our products to work with other hardware or software products, could delay the development or release of new products or new versions of products, and could adversely affect market acceptance of our products.
-We rely on relatively few customers, as well as our contracts with the three major credit reporting agencies, for a significant portion of our revenues and profits.
-
-

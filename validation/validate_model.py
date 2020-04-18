@@ -13,7 +13,7 @@ from validation.topic_coverage import TopicCoverageValidation
 
 
 # removed LSA from MODEL_LIST
-MODEL_LIST = ["lda",  "textrank", "Lunh", "SumBasic", "Reduction", "KL", "Random"]
+MODEL_LIST = ["lda",  "textrank", "luhn", "LSA",  "SumBasic", "Reduction", "KL", "Random", "LexRank", "semisup_topic"]
 VALIDATION_SET_PATH = "resources/validation_set"
 
 

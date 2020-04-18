@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 Recent Accounting Changes and Accounting Pronouncements."
 Recent Accounting Changes and Accounting Pronouncements."
 Recent Accounting Changes and Accounting Pronouncements."
@@ -13,37 +8,10 @@ The quarters ended September 29, 2018 and September 30, 2017 each consisted of 1
 Note 2.Recent Accounting Changes and Accounting Pronouncements In April 2014, the Financial Accounting Standards Board (FASB) issued the authoritative guidance, as amended, that outlines a new revenue recognition standard that replaces virtually all existing U.S. GAAP guidance on contracts with customers and the related other assets and deferred costs.
 Revenue from software license agreements, software license renewals, and other contracts are recognized at point of sales, whereas previously these were deferred and recognized over the contractual term before the implementation of the authoritative guidance.
 The authoritative guidance also changes certain disclosure requirements and other aspects of current U.S. GAAP on this matter.
-The authoritative guidance does not change the guidance for classifying and measuring investments in debt securities and loans.
-Subsequent changes in fair value from such investments are recorded in the condensed consolidated statements of income.
-In October 2016, the FASB issued authoritative guidance on income taxes which eliminates the deferred tax effects of intra-entity asset transfers other than inventory.
-As a result, a reporting entity would recognize the tax expense from the sale of an asset in the seller’s tax jurisdiction when the transfer occurs, even though the pre-tax effects of that transaction are eliminated in consolidation.
-The new authoritative guidance requires the recognition of assets and liabilities arising from lease transactions on the balance sheet and will also require significant additional disclosures about the amount, timing and uncertainty of cash flows from leases.
-The new authoritative guidance is effective for public business entities for fiscal years beginning after December 15, 2018, and interim periods within those fiscal years, which for Xilinx would be the first quarter of fiscal 2020.
-
-
-item2.txt
-The reader should not place undue reliance on these forward-looking statements.
+The authoritative guidance does not change the guidance for classifying and measuring investments in debt securities and loans.The reader should not place undue reliance on these forward-looking statements.
 We use the acquisition method of accounting and allocate the fair value of purchase consideration to the assets acquired and liabilities assumed in the acquiree based on their respective fair values as of the acquisition date.
-The excess of the fair value of purchase consideration over the fair value of these assets acquired and liabilities assumed is recorded as goodwill.
-Fair value estimates are based on the assumptions management believes a market participant would use in pricing the asset or liability.
-
-
-item3.txt
-These securities are subject to interest rate risk and will decrease in value if market interest rates increase.
-
-
-item4.txt
-
-
-
-part2.txt
-Contingencies" to our condensed consolidated financial statements, included in Item 1.
+The excess of the fair value of purchase consideration over the fair value of these assets acquired and liabilities assumed is recorded as goodwill.Contingencies" to our condensed consolidated financial statements, included in Item 1.
 "Financial Statements" for information regarding patent litigation.
 •market acceptance of our customers' products.
 We rely on independent foundries for the manufacture of all of our products and a manufacturing problem or insufficient foundry capacity could adversely affect our operations.
 Most of our wafers are manufactured in Taiwan by Taiwan Semiconductor Manufacturing Company (TSMC) and United Microelectronics Corporation (UMC).
-In addition, we also have wafers manufactured in South Korea by Samsung Electronics Co., Ltd.
-We rely on TSMC, UMC and our other foundries to produce wafers with competitive performance attributes.
-The insolvency of a foundry or any significant manufacturing problem or insufficient foundry capacity would disrupt our operations and negatively impact our financial condition and results of operations.
-
-

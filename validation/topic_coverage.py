@@ -55,6 +55,25 @@ class TopicCoverageValidation:
                 best_topics.append(doc_topics)
         return best_topics
 
+    def get_sent_topics(self, doc_sents):
+        '''
+        :param doc_sents: list of sentences to calculate the topics of
+        :return: the list of topics for each sentence
+        '''
+
+        sent_topics = list()
+        if not doc_sents:
+            return []
+        for line in doc_sents:
+            doc_topics = np.zeros(15)
+            new_doc = prepare_text_for_lda(line)
+            if not new_doc:
+                continue
+            new_doc_bow = self.dictionary.doc2bow(new_doc)
+            for one, two in self.ldamodel.get_document_topics(new_doc_bow):
+                doc_topics[one] = two
+            sent_topics.append(doc_topics)
+        return sent_topics
 
     def compute_topic_scores(self, doc_sents):
         """
@@ -86,6 +105,8 @@ class TopicCoverageValidation:
         # compare this document's topic vector with each one of the manually generated topic vectors, and choose the highest score
         best_score = max([np.dot(doc_topics, v) for v in self.manual_vecs])
         return best_score
+
+
 
 
     # def plot_topic_vecs(self):

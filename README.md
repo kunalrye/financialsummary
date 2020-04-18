@@ -45,6 +45,8 @@ Prior to storing our data in the resources folder, we used https://github.com/al
 The .py files contain many helper functions called by other py files. However, many of the .py
 files contain small-use case examples under an `if __name__ == "__main__"` block. 
 
+If tensorflow fails to install, one potential solution could be to run `python3 -m pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.12.0-py3-none-any.whl` 
+
 ### Code Reproducibility Testing
 To test code reproducability, we created a blank virtual machine running Ubuntu 18.04 LTS and installed python 3.7 and the supporting packages according to the following procedure: 
 * Use virtual box to [run an Ubuntu 18.04 running the command  LTS virtual machine] (https://www.imore.com/how-use-linux-your-mac-using-virtual-machine)

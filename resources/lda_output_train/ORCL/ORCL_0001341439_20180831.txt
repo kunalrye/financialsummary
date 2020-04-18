@@ -1,46 +1,17 @@
-fls.txt
-This Quarterly Report on Form 10-Q contains statements that are not historical in nature, are predictive in nature, or that depend upon or refer to future events or conditions or otherwise contain forward-looking statements within the meaning of Section 21 of the Securities Exchange Act of 1934, as amended, and the Private Securities Litigation Reform Act of 1995.
-
-
-item1.txt
-However, we believe that the disclosures herein are adequate to ensure the information presented is not misleading.
 We believe that all necessary adjustments, which consisted only of normal recurring items, have been included in the accompanying financial statements to present fairly the results of the interim periods.
 The comparability of our operating results in the first quarter of fiscal 2019 compared to the corresponding prior year period was impacted by the U.S. Tax Cuts and Jobs Act of 2017 (the Tax Act), which was effective for us starting in our third quarter of fiscal 2018.
 License support contracts provide customers with rights to unspecified software product upgrades, maintenance releases and patches released during the term of the support period and include internet access to technical content, as well as internet and telephone access to technical support personnel.
-Cloud services revenues include revenues from Oracle Cloud Software-as-a-Service (SaaS), Platform-as-a-Service (PaaS) and Infrastructure-as-a-Service (IaaS) offerings (collectively, Oracle Cloud Services), which deliver applications, platform and infrastructure technologies, respectively, via cloud-based deployment models that we develop functionality for, provide unspecified updates and enhancements for, host, manage and support and that customers access by entering into a subscription agreement with us for a stated period.
+management, maintenance and security services for customer cloud-based, on-premise or other IT infrastructure for a fee for a stated term.
+Revenues from the sale of hardware products represent amounts earned primarily from the sale of our Oracle Engineered Systems, computer servers, storage, and industry-specific hardware.
+Our hardware support offerings generally provide customers with software updates for the software components that are essential to the functionality of the hardware products purchased and can also include product repairs, maintenance services and technical support services.
 Our consulting services are offered as standalone arrangements or as a part of arrangements to customers buying other products and services.
-We record deferred revenues on our condensed consolidated balance sheets when revenues are recognized subsequent to cash collection for an invoice.
+We record an unbilled receivable which is included within accounts receivable on our condensed consolidated balance sheets, when revenue is recognized prior to invoicing.
 Invoices for license support and hardware support contracts are generally invoiced annually in advance.
 The transaction price for a contract that is financed through our financing division is adjusted to reflect the time value of money and interest revenue is recorded as a component of non-operating income, net within our condensed consolidated statements of operations based on market rates in the country in which the transaction is being financed.
-Our arrangements generally do not include a general right of return relative to the delivered products or services.
-Revenues from cloud services provided on a subscription basis are generally recognized ratably over the contractual period that the services are delivered, beginning on the date our service is made available to our customers.
-Oracle’s primary performance obligations with respect to license support contracts and hardware support contracts are to provide customers with technical support as needed and unspecified software product upgrades, maintenance releases and patches during the term of the support period when they are available.
-Oracle is obligated to make the license and hardware support services available continuously throughout the contract period.
-Therefore, revenues for license support contracts and hardware support contracts are generally recognized ratably over the contractual periods that the support services are provided.
-Revenues for fixed price services are generally recognized over time applying input methods to estimate progress to completion.
-We allocate the transaction price for each contract to each performance obligation based on the relative standalone selling price (SSP) for each performance obligation within each contract.
-License support contracts are generally priced as a percentage of the net fees paid by the customer to access the license.
-
-
-item2.txt
-We market and sell our offerings globally to businesses of many sizes, government agencies, educational institutions and resellers with a worldwide sales force positioned to offer the combinations that best meet customer needs.
+Oracle’s primary performance obligations with respect to license support contracts and hardware support contracts are to provide customers with technical support as needed and unspecified software product upgrades, maintenance releases and patches during the term of the support period when they are available.We market and sell our offerings globally to businesses of many sizes, government agencies, educational institutions and resellers with a worldwide sales force positioned to offer the combinations that best meet customer needs.
+Our cloud and license line of business, which represented 81% of our total revenues in the first quarter of fiscal 2019, markets, sells and delivers a broad spectrum of applications, platform and infrastructure technologies through our cloud and license offerings.
+cloud services revenues, which includes revenues from Oracle Cloud Software-as-a-Service (SaaS), Platform-as-a-Service (PaaS) and Infrastructure-as-a-Service (IaaS) offerings (collectively, Oracle Cloud Services), which provide customers access to applications, platform and infrastructure technologies via cloud-based deployment models that Oracle develops, provides unspecified updates and enhancements for, hosts, manages and supports and that customers access by entering into a subscription agreement with us for a stated period.
 The majority of our Oracle Cloud Services arrangements are billed in advance of the cloud services being performed; have durations of one to three years; are generally renewed; and are generally recognized as revenues ratably over the contractual period of the cloud contract or, in the case of usage model contracts, as the cloud services are consumed.
 Cloud license and on-premise license revenues include revenues from the licensing of our software products including Oracle Applications, Oracle Database, Oracle Fusion Middleware and Java, among others, which our customers use for cloud-based, on-premise and other IT environments.
-Our cloud and license business’ margin has historically trended upward over the course of the four quarters within a particular fiscal year due to the historical upward trend of our cloud license and on-premise license revenues over those quarterly periods and because the majority of our costs for this business are generally fixed in the short term.
-The historical upward trend of our cloud license and on-premise license revenues over the course of the four quarters within a particular fiscal year is primarily due to the addition of new cloud services and license support contracts to the customer contract base; the renewal of existing customers’ cloud services and license support contracts over the course of each fiscal year; and the historical upward trend of our cloud license and on-premise license revenues over those four quarterly periods.
-The hardware product and related software, such as an operating system or firmware, are highly interdependent and interrelated and are accounted for as a combined performance obligation.
-The revenues for this combined performance obligation are generally recognized at the point in time that the hardware product is delivered to the customer and ownership is transferred to the customer.
-We expect to make investments in research and development to improve existing hardware products and services and to develop new hardware products and services.
-Our hardware support offerings can also include product repairs, maintenance services and technical support services.
-Note 2 of Notes to Condensed Consolidated Financial Statements included elsewhere in this Quarterly Report provides additional information related to our recent acquisitions.
-We estimate the financial impact of any potential acquisition with regard to earnings, operating margin, cash flow and return on invested capital targets before deciding to move forward with an acquisition.
-
-
-item3.txt
-
-
-
-part2.txt
-The material set forth in Note 9 (pertaining to information regarding contingencies related to our income taxes) and Note 12 (pertaining to information regarding legal contingencies) of Notes to Condensed Consolidated Financial Statements in Part I, Item 1 of this Quarterly Report on Form 10-Q is incorporated herein by reference.
-
-
+Providing choice and flexibility to our customers as to when and how they deploy our applications, platform and infrastructure technologies are important elements of our corporate strategy.
+To address customer demand and enable customer choice, we have introduced certain programs for customers to pivot their applications, platform and infrastructure licenses and license support to the Oracle Cloud for new deployments and to migrate to and expand with the Oracle Cloud for their existing workloads.

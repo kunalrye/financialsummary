@@ -1,49 +1,17 @@
-fls.txt
-
-
-
-item1.txt
 The unaudited condensed consolidated financial statements of Marvell Technology Group Ltd., a Bermuda exempted company, and its wholly owned subsidiaries (the “Company”), as of and for the three and six months ended August 4, 2018, have been prepared as required by the U.S. Securities and Exchange Commission (the “SEC”).
+Certain information and footnote disclosures normally included in financial statements prepared in accordance with U.S. generally accepted accounting principles (“U.S.
+These unaudited condensed consolidated financial statements and related notes should be read in conjunction with the Company's fiscal year 2018 audited financial statements included in the Company's Annual Report on Form 10-K for the fiscal year ended February 3, 2018.
 In the opinion of management, the financial statements include all adjustments, including normal recurring adjustments and other adjustments, that are considered necessary for fair presentation of the Company’s financial position and results of operations.
 The additional week in a 53-week year is added to the fourth quarter, making such quarter consist of 14 weeks.
 Cavium is a provider of highly integrated semiconductor processors that enable intelligent processing for wired and wireless infrastructure and cloud for networking, communications, storage and security applications.
-The consolidated financial statements include the operating results of Cavium for the period from the date of acquisition to the Company's second quarter ended August 4, 2018.
-The new standard requires an entity to recognize revenue from the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services.
+In May 2014, the FASB issued a new accounting standard on the recognition of revenue from contracts with customers that superseded nearly all existing revenue recognition guidance under GAAP.
 The guidance addresses, in particular, contracts with more than one performance obligation, as well as the accounting for certain costs to obtain or fulfill a contract with a customer, and provides for additional disclosures with respect to revenue and cash flows arising from contracts with customers.
+See "Note 5 - Revenue" for additional information on the impact of the adoption of the new standard on the Company’s consolidated financial statements.
 In August 2016, the FASB issued an accounting standards update to add or clarify guidance on the classification of certain cash receipts and cash payments in the statement of cash flows.
-The amendments to the guidance should be applied using a retrospective transition method for each period presented and, if it is impracticable to apply all of the amendments retrospectively for some of the issues, the amendments for those issues would be applied prospectively as of the earliest date practicable.
-In October 2016, the FASB issued new guidance that simplifies the accounting for the income tax effects of intra-entity transfers and will require companies to recognize the income tax effects of intra-entity transfers of assets other than inventory when the transfer occurs.
-Previous guidance required companies to defer the income tax effects of intra-entity transfers of assets until the asset had been sold to an outside party or otherwise recognized.
-In November 2016, the FASB issued new guidance that requires entities to include in their cash and cash-equivalent balances in the statement of cash flows those amounts that are deemed to be restricted cash and restricted cash equivalents.
-As a result, companies will no longer present transfers between cash and cash equivalents and restricted cash and restricted cash equivalents in the statement of cash flows.
-The update is intended to help companies evaluate whether transactions should be accounted for as acquisitions or disposals of assets or businesses.
-In May 2017, the FASB issued an accounting standards update that provides guidance about which changes to the terms or conditions of a share-based payment award require an entity to apply modification accounting.
-Unless the changes in terms or conditions meet all three criteria outlined in the guidance, modification accounting should be applied.
-
-
-item2.txt
-This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), which are subject to the “safe harbor” created by those sections.
-Our core strength is developing complex System-on-a-Chip (“SoC”) devices, leveraging our technology portfolio of intellectual property in the areas of analog, mixed-signal, digital signal processing, and embedded and standalone integrated circuits.
-We also develop integrated hardware platforms along with software that incorporates digital computing technologies designed and configured to provide an optimized computing solution.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-The information under the caption “Contingencies” as set forth in “Note 12 – Commitments and Contingencies” of our Notes to Unaudited Condensed Consolidated Financial Statements, included in Part I, Item 1, is incorporated herein by reference.
+The amendments to the guidance should be applied using a retrospective transition method for each period presented and, if it is impracticable to apply all of the amendments retrospectively for some of the issues, the amendments for those issues would be applied prospectively as of the earliest date practicable.This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), which are subject to the “safe harbor” created by those sections.
+Our core strength is developing complex System-on-a-Chip (“SoC”) devices, leveraging our technology portfolio of intellectual property in the areas of analog, mixed-signal, digital signal processing, and embedded and standalone integrated circuits.The information under the caption “Contingencies” as set forth in “Note 12 – Commitments and Contingencies” of our Notes to Unaudited Condensed Consolidated Financial Statements, included in Part I, Item 1, is incorporated herein by reference.
 Many of these risks and uncertainties are beyond our control, including business cycles and seasonal trends of the computing, semiconductor and related industries and end markets.
-Our acquisition of Cavium involves a number of risks, including, among others, associated with our use of a significant portion of our cash and our taking on significant indebtedness, other financial risks, integration risks, and risk associated with the reactions of customers, suppliers and employees.
 We used a significant portion of our cash and incurred substantial indebtedness in connection with the financing of our acquisition of Cavium (the "Cavium acquisition") that will reduce our liquidity and may (i) limit our flexibility in responding to other business opportunities and (ii) increase our vulnerability to adverse economic and industry conditions.
-The benefits we expect to realize from the Cavium acquisition will depend, in part, on our ability to integrate the businesses successfully and efficiently.
 We may not fully realize the benefits we expect to receive from the transaction, such as increasing revenue or profits, or receive them in the anticipated time frame.
 •making it more difficult to borrow additional funds in the future to fund growth, acquisitions, working capital, capital expenditures and other purposes.
 Although the Credit Agreement contains restriction on the incurrence of additional indebtedness and the indenture under which the Senior Notes were issued contains restrictions on creating liens and entering into certain sale-leaseback transactions, these restrictions are subject to a number of qualifications and exceptions, and the additional indebtedness, liens or sale-leaseback transactions incurred in compliance with these restrictions could be substantial.
-The Credit Agreement and the Senior Notes contain customary events of default upon the occurrence of which, after any applicable grace period, the lenders would have the ability to immediately declare the loans due and payable in whole or in part.
-
-

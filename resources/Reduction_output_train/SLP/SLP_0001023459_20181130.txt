@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 The accompanying notes are an integral part of these financial statements.
 The accompanying notes are an integral part of these financial statements.
 The accompanying notes are an integral part of these financial statements.
@@ -12,16 +7,7 @@ The interim financial data are unaudited; however, in the opinion of Simulations
 On September 2, 2014, Simulations Plus, Inc. acquired all of the outstanding equity interests of Cognigen Corporation (“Cognigen”, “Buffalo”) and Cognigen became a wholly owned subsidiary of Simulations Plus, Inc. Simulations Plus, Inc., acquired DILIsym Services, Inc. (DILIsym) as a wholly owned subsidiary pursuant to a stock purchase agreement dated May 1, 2017.
 On June 1, 2017, the Company consummated the acquisition of all outstanding equity interests of DILIsym pursuant to the terms of the Stock Agreement, with DILIsym becoming a wholly owned subsidiary of the Company.
 The Company designs and develops pharmaceutical simulation software to promote cost-effective solutions to a number of problems in pharmaceutical research and in the education of pharmacy and medical students, and it provides consulting services to the pharmaceutical and chemical industries.
-Recently, the Company has begun to explore developing software applications for defense and for health care outside of the pharmaceutical industry.
-The consolidated financial statements include the accounts of Simulations Plus, Inc. and, as of September 2, 2014, its wholly owned subsidiary, Cognigen Corporation, and as of June 1, 2017, the accounts of DILIsym Services, Inc. All significant intercompany accounts and transactions are eliminated in consolidation.
-The standard provides principles for recognizing revenue for the transfer of promised goods or services to customers with the consideration to which the entity expects to be entitled in exchange for those goods or services.
-This approach was applied to contracts that were in process as of September 1, 2018, and the corresponding incremental costs of obtaining those contracts, which resulted in a cumulative effect adjustment to the opening balance of retained earnings at the date of adoption.
-The reported results for fiscal year 2019 reflect the application of ASC Topic 606, while the reported results for fiscal year 2018 are not adjusted and continue to be reported under ASC Topic 605.
-We generate revenue primarily from the sale of software licenses and providing consulting services to the pharmaceutical industry for drug development.
-
-
-item2.txt
-The forward-looking statements contained or incorporated by reference in this document are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (“Securities Act”) and Section 21E of the Securities Exchange Act of 1934, as amended (“Exchange Act”) and are subject to the safe harbor created by the Private Securities Litigation Reform Act of 1995.
+Recently, the Company has begun to explore developing software applications for defense and for health care outside of the pharmaceutical industry.The forward-looking statements contained or incorporated by reference in this document are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (“Securities Act”) and Section 21E of the Securities Exchange Act of 1934, as amended (“Exchange Act”) and are subject to the safe harbor created by the Private Securities Litigation Reform Act of 1995.
 We are a global leader focused on improving the ways scientists use knowledge and data to predict the properties and outcomes of pharmaceutical and biotechnology agents, and are one of only two global companies who provide a wide range of early discovery, preclinical, and clinical consulting services and software.
 Our innovations in integrating new and existing science in medicinal chemistry, computational chemistry, pharmaceutical science, biology, physiology, and machine learning into our software have made us the leading software provider for PBPK modeling and simulation, prediction of molecular properties from structure, and prediction of drugs to induce liver injury or to treat nonalcoholic fatty liver disease.
 Pharmaceutical and biotechnology companies use our software programs and scientific consulting services to guide early drug discovery (molecule design and screening), preclinical, and clinical development programs.
@@ -29,21 +15,3 @@ They also use it to enhance their understanding of the properties of potential n
 We have also developed software for harnessing cloud-based computing in support of modeling and simulation activities and secure data archiving, and we provide consulting services to improve interdisciplinary collaborations and research and development productivity.
 GastroPlus mechanistically simulates the absorption, pharmacokinetics, pharmacodynamics, and drug-drug interactions of compounds administered to humans and animals and is currently the most widely used commercial software of its type by pharmaceutical companies, the U.S. Food and Drug Administration (FDA), the U.S. National Institutes of Health (NIH), and other government agencies in the U.S. and other countries.
 Because of the widespread use of GastroPlus, we were the only non-European company invited to join the European Innovative Medicines Initiative (IMI) program for Oral Bioavailability Tools (OrBiTo).
-Because we are outside of the European Union, our participation in this project was at our own expense, while other members were compensated for their work; however, we were a full member with access to all of the data and discussions of all other members.
-We believe our investment to participate in this initiative enabled us to benefit from, and to contribute to, advancing the prediction of human oral bioavailability from preclinical data, and ensured that we are well-known to member pharmaceutical companies and regulatory agencies.
-In September 2014, we entered into a research collaboration agreement (RCA) with the FDA to enhance the Ocular Compartmental Absorption and Transit (OCAT™) model within the Additional Dosing Routes Module of GastroPlus.
-The objective of this agreement was to provide a tool for generic companies and the FDA to assess the likely bioequivalence of generic drug formulations dosed to the eye.
-
-
-item3.txt
-As of November 30, 2018 and August 31, 2018, we had cash and cash equivalents of $9.35 million and $9.40 million, respectively.
-
-
-item4.txt
-
-
-
-part2.txt
-Item 1.
-
-

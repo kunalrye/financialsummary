@@ -1,8 +1,3 @@
-fls.txt
-
-
-
-item1.txt
 Significant intercompany accounts and transactions have been eliminated in consolidation.
 The results for interim periods are not necessarily indicative of the results for the entire year.
 The condensed consolidated financial statements should be read in conjunction with the Power Integrations, Inc. consolidated financial statements and the notes thereto for the year ended December 31, 2018, included in its Form 10-K filed on February 13, 2019, with the Securities and Exchange Commission.
@@ -13,38 +8,9 @@ The difference between the right-of-use assets and lease liabilities was due to 
 There was no impact on the condensed consolidated statement of income or the condensed consolidated statement of cash flows.
 Under the performance-based awards program, the Company grants awards in the performance year in an amount equal to twice the target number of shares to be issued if the maximum performance metrics are met.
 The number of shares that are released at the end of the performance year can range from zero to 200% of the target number depending on the Company’s performance.
-The performance metrics of this program are annual targets consisting of a combination of net revenue, non-GAAP operating income and strategic goals.
-As the net revenue, non-GAAP operating income and strategic goals are considered performance conditions, expense associated with these awards, net of estimated forfeitures, is recognized over the service period based on an assessment of the achievement of the performance targets.
-If the performance conditions are not achieved, no compensation cost is recognized and any previously recognized compensation is reversed.
-PRSUs are granted in an amount equal to twice the target number of shares to be issued if the maximum performance metrics are met.
-The actual number of shares the recipient receives is determined at the end of a three-year performance period based on results achieved versus the Company's performance goals, and may range from zero to 200% of the target number.
-Expense associated with these awards, net of estimated forfeitures, is recorded throughout the year depending on the number of shares expected to vest based on progress toward the performance target.
-If the performance conditions are not achieved, no compensation cost is recognized and any previously recognized compensation is reversed.
-
-
-item2.txt
-See also “Cautionary Note Regarding Forward-Looking Statements” at the beginning of this report.
+The performance metrics of this program are annual targets consisting of a combination of net revenue, non-GAAP operating income and strategic goals.See also “Cautionary Note Regarding Forward-Looking Statements” at the beginning of this report.
 We also supply high-voltage LED drivers, which are AC-DC ICs specifically designed for lighting applications that utilize light-emitting diodes.
 These combinations of switches and drivers are used for power conversion in high-power applications (i.e., power levels ranging from a few kilowatts up to one gigawatt) such as industrial motors, solar- and wind-power systems, electric vehicles and high-voltage DC transmission systems.
 •Increase our penetration of the markets we serve.
 We currently address AC-DC applications with power outputs up to approximately 500 watts, gate-driver applications of approximately ten kilowatts and higher, and motor-drive applications up to approximately 300 watts.
-We also continue to expand our sales and application-engineering staff and our network of distributors, as well as our offerings of technical documentation and design-support tools and services to help customers use our products.
-•Increase the size of our addressable market.
-In 2016 we introduced the SCALE-iDriverTM family of gate-driver ICs, broadening the range of gate-driver applications we can address.
-The increase in the three month period was due primarily to growth in the communications end market, driven by increased demand for our products in cellphone chargers.
-This growth was partially offset by a broad-based decline in demand across the consumer and industrial end markets resulting from global trade disputes.
-
-
-item3.txt
-Interest Rate Risk.
-Our exposure to market risk for changes in interest rates relates primarily to our investment portfolio.
-
-
-item4.txt
-
-
-
-part2.txt
-
-
-
+We also continue to expand our sales and application-engineering staff and our network of distributors, as well as our offerings of technical documentation and design-support tools and services to help customers use our products.Interest Rate Risk.

@@ -1,8 +1,3 @@
-fls.txt
-These statements reflect our current views with respect to future events and our potential financial performance and are subject to risks and uncertainties that could cause our actual results and financial position to differ materially and adversely from what is projected or implied in any forward-looking statements included in this Form 10-Q.
-
-
-item1.txt
 The condensed consolidated financial statements should be read in conjunction with the Power Integrations, Inc. consolidated financial statements and the notes thereto for the year ended December 31, 2017, included in its Form 10-K filed on February 14, 2018, with the Securities and Exchange Commission.
 The Company did not transfer any investments between Level 1 and Level 2 of the fair-value hierarchy in the nine months ended September 30, 2018, and the twelve months ended December 31, 2017.
 As of September 30, 2018, and December 31, 2017, the Company evaluated the nature of the investments with a loss position, which were primarily high-quality corporate securities, and determined the unrealized losses were not other-than-temporary.
@@ -13,37 +8,9 @@ As the net revenue, non-GAAP operating income and strategic goals are considered
 The fair value of these PSUs is determined using the fair value of the Company’s common stock on the date of the grant, reduced by the discounted present value of dividends expected to be declared before the awards vest.
 In January 2018, it was determined that approximately 79,000 shares of the PSUs granted in 2017, vested in aggregate and were released to the Company’s employees and executives in the first quarter of 2018.
 The actual number of shares the recipient receives is determined at the end of a three-year performance period based on results achieved versus the Company's performance goals, and may range from zero to 200% of the target number.
-In January 2018, it was determined that approximately 38,000 shares of the PRSUs granted in 2015, vested in aggregate and were released to the Company’s executives in the first quarter of 2018.
-The Company is organized and operates as one reportable segment, the design, development, manufacture and marketing of integrated circuits and related components for use primarily in the high-voltage power-conversion market.
-In each of the three and nine months ended September 30, 2018 and 2017, one customer, a distributor of the Company's products, accounted for more than 10% of the Company’s net revenues.
-Dilutive common equivalent shares included in this calculation consist of dilutive shares issuable upon the assumed exercise of outstanding common stock options, the assumed vesting of outstanding restricted stock units, the assumed issuance of awards under the stock purchase plan and contingently issuable performance-based awards, as computed using the treasury stock method.
-In the year ended December 31, 2017, the Company recorded a provisional amount of $4.9 million related to the re-measurement of the Company’s deferred tax assets and liabilities.
-The Company's effective tax rates for the three and nine months ended September 30, 2018, were 7.6% and 6.3%, respectively, and 2.6% and 1.2% for the corresponding periods of 2017.
-Under the terms of the Company's wafer-supply agreements with Seiko Epson Corporation ("Epson"), and ROHM Lapis Semiconductor Co., Ltd. ("Lapis") the wafers purchased from these suppliers are priced in U.S. dollars; however, these agreements also allow for mutual sharing of the impact of the exchange rate fluctuation between Japanese yen and the U.S. dollar on future purchases.
-
-
-item2.txt
-Power supplies incorporating our products are used with all manner of electronic products including mobile phones, computing and networking equipment, appliances, electronic utility meters, power tools, industrial controls, and lighting applications that utilize light-emitting diodes (LEDs), and “smart-home,” or “internet of things” applications such as networked thermostats, power strips and other building-automation and security devices.
+In January 2018, it was determined that approximately 38,000 shares of the PRSUs granted in 2015, vested in aggregate and were released to the Company’s executives in the first quarter of 2018.Power supplies incorporating our products are used with all manner of electronic products including mobile phones, computing and networking equipment, appliances, electronic utility meters, power tools, industrial controls, and lighting applications that utilize light-emitting diodes (LEDs), and “smart-home,” or “internet of things” applications such as networked thermostats, power strips and other building-automation and security devices.
 Our products also improve the energy efficiency of power converters, helping our customers meet the increasingly stringent efficiency standards that have been adopted around the world for many electronic products, and improving the efficiency of renewable-energy systems, electric vehicles and other high-power applications.
 the introduction of products that enable us to address higher-power AC-DC applications (such as our Hiper™ product families, which address applications up to about 500 watts) and our entry into the gate-driver market through the acquisition of CT-Concept Technologie AG in 2012.
 For example, applications such as LED lighting, “smart” utility meters, battery-powered lawn equipment and bicycles, and USB power ports (installed alongside traditional AC wall outlets) can incorporate our products; the increased use of electronic intelligence and controls in consumer appliances has also enhanced our SAM.
 Because we purchase a large percentage of our silicon wafers from foundries located in Japan, our gross margin is influenced by fluctuations in the exchange rate between the U.S. dollar and the Japanese yen.
-Our net revenues were $110.1 million and $111.3 million in the three months ended September 30, 2018 and 2017, respectively, and $322.6 million and $323.5 million in the nine months ended September 30, 2018 and 2017, respectively.
-These decreases were mostly offset by growth in the industrial end-market, driven by a broad range of applications, and the computer end-market, driven by growth in power supplies for tablets.
-Our top ten customers, including distributors that resell to OEMs and merchant power supply manufacturers, accounted for approximately 56% and 57% of our net revenues in the three and nine months ended September 30, 2018, respectively, and approximately 56% and 55% of net revenues in each of the respective corresponding periods of 2017.
-Our top customer, a distributor of our products, accounted for approximately 14% of our net revenues in each of the three and nine months ended September 30, 2018, and approximately 15% and 16% in the three and nine months ended September 30, 2017, respectively.
-
-
-item3.txt
-As stated in our policy, we seek to ensure the safety and preservation of our invested principal funds by limiting default risk, market risk and reinvestment risk.
-We mitigate default risk by investing in safe and high-credit quality securities and by constantly positioning our portfolio to respond appropriately to a significant reduction in a credit rating of any investment issuer, guarantor or depository.
-
-
-item4.txt
-The design of any control system is based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions, regardless of how remote.
-
-
-part2.txt
-In January 2018, our board of directors authorized the use of an additional $30.0 million for the repurchase of our common stock, which was announced on February 1, 2018.
-
-
+Our net revenues were $110.1 million and $111.3 million in the three months ended September 30, 2018 and 2017, respectively, and $322.6 million and $323.5 million in the nine months ended September 30, 2018 and 2017, respectively.As stated in our policy, we seek to ensure the safety and preservation of our invested principal funds by limiting default risk, market risk and reinvestment risk.

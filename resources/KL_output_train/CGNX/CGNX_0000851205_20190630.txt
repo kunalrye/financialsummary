@@ -1,8 +1,3 @@
-fls.txt
-Certain statements made in this report, as well as oral statements made by the Company from time to time, constitute forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended.
-
-
-item1.txt
 As permitted by the rules of the Securities and Exchange Commission applicable to Quarterly Reports on Form 10-Q, these notes are condensed and do not contain all disclosures required by generally accepted accounting principles (GAAP).
 The core principle of ASC 842 is that a lessee should recognize on the balance sheet the assets and liabilities that arise from leases.
 Lease contracts may include lease components and non-lease components, such as common area maintenance and utilities for property leases.
@@ -14,32 +9,9 @@ The amendments in this ASU shorten the amortization period for certain callable 
 Specifically, the amendments require the premium to be amortized to the earliest call date.
 The amendments do not require an accounting change for securities held at a discount; the discount continues to be amortized to maturity.
 Under current GAAP, premiums and discounts on callable debt securities generally are amortized to the maturity date.
-If that callable debt security is subsequently called, the entity records a loss equal to the unamortized premium.
-The amendments in this ASU more closely align the amortization period of premiums and discounts to expectations incorporated in market pricing on the underlying securities.
-This ASU should be applied on a modified retrospective basis through a cumulative-effect adjustment directly to retained earnings as of the beginning of the period of adoption, and, in the period of adoption, the entity is required to provide disclosures about the change in accounting principle.
-The amendments in this ASU align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software.
-Accordingly, the amendments in this ASU require an entity in a hosting arrangement that is a service contract to follow the guidance in Subtopic 350-40 to determine which implementation costs to capitalize as an asset related to the service contract and which costs to expense.
-Further, it requires the entity to expense the capitalized implementation costs over the term of the hosting arrangement.
-In addition, it requires the presentation of the expenses related to the capitalized implementation costs in the same line item in the statement of income as the fees associated with the hosting element of the arrangement and the classification of the payments for the capitalized implementation costs in the statement of cash flows in the same manner as the payments made for the fees associated with the hosting element.
-
-
-item2.txt
-Virtually every manufacturer can achieve better quality and manufacturing efficiency by using machine vision, and therefore, Cognex products are used by a broad base of customers across a variety of industries, including consumer electronics, automotive, consumer products, food and beverage, pharmaceuticals, and medical devices.
+If that callable debt security is subsequently called, the entity records a loss equal to the unamortized premium.Virtually every manufacturer can achieve better quality and manufacturing efficiency by using machine vision, and therefore, Cognex products are used by a broad base of customers across a variety of industries, including consumer electronics, automotive, consumer products, food and beverage, pharmaceuticals, and medical devices.
 Cognex products are also used to automate distribution processes in the logistics industry for applications in retail distribution and ecommerce to scan, track, and sort goods through distribution centers.
 Operating expenses in the second quarter of 2019 increased by 3% over the second quarter of 2018 due principally to the impact of headcount additions to support our future growth plans.
 Operating income was 26% of revenue in the second quarter of 2019 compared to 30% of revenue in the second quarter of 2018; net income was 24% of revenue in the second quarter of 2019 compared to 27% of revenue in the second quarter of 2018; and net income per diluted share was $0.28 in the second quarter of 2019 compared to $0.32 in the second quarter of 2018.
 Revenue decreased by $12,217,000, or 6%, for the three-month period and decreased by $8,300,000, or 2%, for the six-month period.
 Excluding the impact of changes in foreign currency exchange rates, constant-currency revenue decreased by 3% for the three-month period and increased by 1% for the six-month period.
-Sales to customers based in Europe decreased by 16% for the three-month period and 6% for the six-month period, with changes in foreign currency exchange rates accounting for approximately 6 percentage points of the decrease in both periods.
-On a constant-currency basis, sales to customers based in Europe decreased by 10% for the three-month period and were relatively flat for the six-month period.
-Sales to customers based in Greater China decreased by 13% for the three-month period and 14% for the six-month period, with changes in foreign currency exchange rates accounting for approximately 6 percentage points of the decrease in both periods.
-
-
-item4.txt
-
-
-
-part2.txt
-Various claims and legal proceedings generally incidental to the normal course of business are pending or threatened on behalf of or against the Company.
-
-

@@ -1,16 +1,12 @@
-fls.txt
-  The discussion of the financial condition and results of operations of the Company set forth below should be read in conjunction with the consolidated financial statements and related notes thereto included elsewhere in this Form10-Q.
-
-
-item1.txt
  The unaudited interim consolidated balance sheet as of March 31, 2019 and statements of income, comprehensive income, stockholders’ equity, and cash flows for the three-month periods ended March 31, 2019 and 2018 included herein, have been prepared in accordance with the instructions for Form 10-Q under the Securities Exchange Act of 1934, as amended (the “Exchange Act”), and Article 10 of Regulation S-X under the Exchange Act.
+ The consolidated financial statements include the accounts of the Company and its wholly owned subsidiaries.
 Diluted net income per share is computed by dividing the net income for the period by the weighted average number of common and dilutive common equivalent shares outstanding during the period.
  Substantially all of the Company’s revenue comes from contracts with customers for subscriptions to its cloud-based products or contracts to perform compliance or other services.
 Customers consist primarily of corporate issuers and professional firms, such as investor relations and public relations firms.
+The Company believes recognizing revenue for subscriptions and stand ready obligations using a time-based measure of progress, best reflects the Company’s performance in satisfying the obligations.
  For bundled contracts, revenue is allocated to each performance obligation based on its relative standalone selling price.
 Standalone selling prices are based on observable prices at which the Company separately sells the subscription or services.
 If a standalone selling price is not directly observable, the Company uses the residual method to allocate any remaining costs to that subscription or service.
-The Company regularly reviews standalone selling prices and updates these estimates if necessary.
  The Company invoices its customers based on the billing schedules designated in its contracts, typically upfront on either a monthly, quarterly or annual basis or per transaction at the completion of the performance obligation.
 Deferred revenue as of March 31, 2019 and December 31, 2018 was $1,464,000 and $1,249,000, respectively, and is expected to be recognized within one year.
 Accounts receivable related to contracts with customers was $2,237,000 and $1,593,000 as of March 31, 2019 and December 31, 2018, respectively.
@@ -18,17 +14,3 @@ Since substantially all of the contracts have terms of one year or less, the Com
 As of March 31, 2019 and December 31, 2018, the Company has capitalized $20,000 and $18,000 of costs to obtain contracts that are expected to be amortized over more than one year.
  We provide an allowance for doubtful accounts, which is based upon a review of outstanding receivables as well as historical collection information.
 The allowance is made up of specific reserves, as deemed necessary, on customer account balances, and a reserve based on our historical experience.
-At the end of each interim period, we estimate the effective tax rate we expect to be applicable for the full year and this rate is applied to our results for the interim year-to-date period and then adjusted for any discrete period items.
- Costs incurred to develop our cloud-based platform products are capitalized when the preliminary project phase is complete, management commits to fund the project and it is probable the project will be completed and used for its intended purposes.
-The Company recorded amortization expense of $204,000 and $201,000 during the three-month periods ended March 31, 2019 and 2018, respectively.
-Our operating lease agreements are primarily for office space and are included within operating lease right-of-use (“ROU”) assets and operating lease liabilities on the consolidated balance sheets.
- ROU assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments arising from the lease.
-ROU assets and lease liabilities are recognized at the commencement date based on the present value of lease payments over the lease term.
-Rental expense for lease payments related to operating leases is recognized on a straight-line basis over the lease term.
-Level 1 – Quoted prices are available in active markets for identical assets or liabilities at the reporting date.
-Level 2 – Observable inputs other than Level 1 prices such as quoted prices for similar assets or liabilities; quoted prices in markets that are not active; or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities.
-Level 3 assets and liabilities include financial instruments whose value is determined using pricing models, discounted cash flow methodologies, or other valuation techniques, as well as instruments for which the determination of fair value requires significant management judgment or estimation.
- As of March 31, 2019 and December 31, 2018, we believe that the fair value of our financial instruments other than cash and cash equivalents, such as, accounts receivable, our line of credit, notes payable, and accounts payable approximate their carrying amounts.
-The gains or losses that result from this process are recorded as a separate component of other accumulated comprehensive income until the entity is sold or substantially liquidated.
-
-

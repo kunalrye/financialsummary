@@ -1,8 +1,3 @@
-fls.txt
-This quarterly report on Form 10-Q contains various “forward-looking statements” (within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended) and information that is based on management’s belief as well as assumptions made by and information currently available to management.
-
-
-item1.txt
 The unaudited consolidated financial statements of Encore Wire Corporation (the “Company”) have been prepared in accordance with U.S. generally accepted accounting principles (“GAAP”) for interim information and the instructions to Form 10-Q and Rule 10-01 of Regulation S-X.
 Amounts billed and due from our customers are classified as accounts receivables on the balance sheet and require payment on a short-term basis through standard payment terms.
 We review and update these estimates regularly and the impact of any adjustments are recognized in the period the adjustments are identified.
@@ -11,18 +6,4 @@ The Financial Accounting Standards Board (the “FASB”) Accounting Standards C
 On January 1, 2018, we adopted the requirements of ASC Topic 606 and all the related amendments to all of our contracts using the modified retrospective method.
 Upon completing our implementation assessment of Topic ASC 606, we concluded that no adjustment was required to the opening balance of retained earnings at the date of initial application.
 2016-02, “Leases (Topic 842).” Under the new guidance, a lessee will be required to recognize a right to use asset and a lease liability for all leases with terms of twelve months or longer.
-Lessor accounting remains largely consistent with existing U.S. generally accepted accounting principles.
-In the first quarter of 2018, LIFO adjustments were recorded, increasing cost of sales by $2.0 million, versus LIFO adjustments increasing cost of sales by $4.4 million in the first quarter of 2017.
-During the first quarter of 2018, the Company liquidated a portion of the LIFO inventory layer in the aluminum wire pool established in prior years.
-Income taxes were accrued at an effective rate of 24.1% in the first quarter of 2018 versus 33.5% in the first quarter of 2017, consistent with the Company’s estimated liabilities.
-Due to the complexities involved in the accounting for the enactment of the new law, the SEC Staff Accounting Bulletin (“SAB”) 118 allowed a provisional estimate for the year ended December 31, 2017, which we made.
-
-
-item4.txt
-
-
-
-part2.txt
-For information on the Company’s legal proceedings, see Note 8 to the Company’s consolidated financial statements included in Item 1 to this report and incorporated herein by reference.
-
-
+Lessor accounting remains largely consistent with existing U.S. generally accepted accounting principles.For information on the Company’s legal proceedings, see Note 8 to the Company’s consolidated financial statements included in Item 1 to this report and incorporated herein by reference.

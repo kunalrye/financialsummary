@@ -1,8 +1,3 @@
-fls.txt
-In June 2016, the FASB issued a new accounting standard to replace the incurred loss impairment methodology under current GAAP with a methodology that reflects expected credit losses and requires consideration of a broader range of reasonable and supportable information to inform credit loss estimates.
-
-
-item1.txt
 The accompanying unaudited condensed consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States of America, or U.S. GAAP, for interim financial information and with the instructions to Form 10-Q and Article 10 of Securities and Exchange Commission, or SEC, Regulation S-X.
 In the opinion of management, all adjustments, consisting only of normal recurring adjustments considered necessary for a fair statement of results of operations and financial position have been included.
 Except for the accounting policy for leases, which was updated as a result of adopting a new accounting standard related to leases, there have been no material changes to our significant accounting policies in Note 1 - Organization and Summary of Significant Accounting Policies, of the Notes to the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019.
@@ -10,15 +5,7 @@ Operating lease assets represent our right to use an underlying asset for the le
 Operating lease assets and liabilities are recognized based on the present value of the remaining lease payments discounted using our incremental borrowing rate.
 We combine the lease and non-lease components in determining the operating lease assets and liabilities.
 Refer to Note 3 of these Notes to Condensed Consolidated Financial Statements for additional information.
-The Financial Accounting Standards Board, or FASB, issued an accounting standards update regarding the accounting for leases under which lease assets and liabilities are recognized on the balance sheet.
-Refer to Note 3 of these Notes to Condensed Consolidated Financial Statements for additional information.
-In June 2016, the FASB issued a new accounting standard to replace the incurred loss impairment methodology under current GAAP with a methodology that reflects expected credit losses and requires consideration of a broader range of reasonable and supportable information to inform credit loss estimates.
-Note 2 - Merger Agreement with Mellanox Technologies, Ltd. On March 10, 2019, we entered into an Agreement and Plan of Merger, or the Merger Agreement, with Mellanox Technologies Ltd., or Mellanox, pursuant to which we will acquire all of the issued and outstanding common shares of Mellanox for $125 per share in cash, representing a total enterprise value of approximately $6.9 billion as of the date of the Merger Agreement.
-If the Merger Agreement is terminated under certain circumstances involving the failure to obtain the required regulatory approvals, we could be obligated to pay Mellanox a termination fee of $350 million.
-
-
-item2.txt
-This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the “safe harbor” created by those sections.
+The Financial Accounting Standards Board, or FASB, issued an accounting standards update regarding the accounting for leases under which lease assets and liabilities are recognized on the balance sheet.This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the “safe harbor” created by those sections.
 Fueled by the sustained demand for better 3D graphics and the scale of the gaming market, NVIDIA has evolved the GPU into a computer brain at the intersection of virtual reality, high performance computing, or HPC, and artificial intelligence, or AI.
 The year-on-year and sequential growth was primarily driven by a development services agreement in the second quarter of fiscal year 2020.
 Income from operations for the second quarter of fiscal year 2020 was $571 million, down 51% from a year earlier and up 59% sequentially.
@@ -26,24 +13,4 @@ Net income and net income per diluted share for the second quarter of fiscal yea
 We previously communicated our intent to return $3.00 billion to shareholders by the end of fiscal year 2020, including $700 million in share repurchases made during the fourth quarter of fiscal year 2019.
 In the first half of fiscal year 2020, we returned $195 million in quarterly cash dividends.
 We intend to return the remaining $2.11 billion through a combination of share repurchases and cash dividends.
-On March 10, 2019, we entered into an Agreement and Plan of Merger, or the Merger Agreement, with Mellanox, pursuant to which we will acquire all of the issued and outstanding common shares of Mellanox for $125 per share in cash, representing a total enterprise value of approximately $6.9 billion as of the date of the Merger Agreement.
-If the Merger Agreement is terminated under certain circumstances involving the failure to obtain the required regulatory approvals, we could be obligated to pay Mellanox a termination fee of $350 million.
-In our Data Center platform, we announced NVIDIA's DGX SuperPOD, which provides the AI infrastructure for our autonomous-vehicle development program; set eight records in AI training performance in the latest MLPerf benchmarking tests; and announced support for Arm CPUs, providing a new path to build highly energy-efficient, AI-enabled exascale supercomputers.
-In our Data Center platform, we introduced the NVIDIA CUDA-X AI platform for accelerating data science; announced availability of NVIDIA T4 Tensor Core GPUs from leading OEMs and Amazon Web Services; partnered with global system builders to create powerful data-science workstations integrating NVIDIA Quadro RTX GPUs and NVIDIA CUDA-X AI; and launched beta access to NVIDIA Quadro Virtual Workstation software in the Alibaba Cloud Marketplace.
-During the second quarter of fiscal year 2020, in our Automotive platform, Volvo Group announced that it is using the NVIDIA DRIVE end-to-end autonomous driving platform to train networks in the data center, test them in simulation, and deploy them in self-driving vehicles, targeting freight transport, refuse and recycling collection, public transport, construction, mining, forestry and more.
-During the first quarter of fiscal year 2020, in our Automotive platform, we announced that we are partnering with Toyota Research Institute-Advanced Development to develop, train and validate self-driving vehicles; unveiled the NVIDIA DRIVE AP2X automated driving solution, encompassing DRIVE AutoPilot software, DRIVE AGX and DRIVE validation tools; introduced NVIDIA DRIVE AV Safety Force Field to enable safe, comfortable driving experiences; and announced availability of the NVIDIA DRIVE Constellation autonomous vehicle simulation platform.
-
-
-item3.txt
-
-
-
-item4.txt
-
-
-
-part2.txt
-Refer to Part I, Item 1, Note 13 of the Notes to Condensed Consolidated Financial Statements for a discussion of significant developments in our legal proceedings since January 27, 2019.
-Also refer to Item 3, “Legal Proceedings” in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019 for a prior discussion of our legal proceedings.
-
-
+On March 10, 2019, we entered into an Agreement and Plan of Merger, or the Merger Agreement, with Mellanox, pursuant to which we will acquire all of the issued and outstanding common shares of Mellanox for $125 per share in cash, representing a total enterprise value of approximately $6.9 billion as of the date of the Merger Agreement.Refer to Part I, Item 1, Note 13 of the Notes to Condensed Consolidated Financial Statements for a discussion of significant developments in our legal proceedings since January 27, 2019.
