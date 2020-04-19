@@ -11,7 +11,10 @@ from collections import defaultdict
 from validation.precision_recall import compute_precision, compute_recall, compute_f1
 
 # removed LSA from MODEL_LIST
-MODEL_LIST = ["lda",  "textrank", "luhn", "LSA",  "SumBasic", "Reduction", "KL", "Random", "LexRank", "semisup_topic"]
+# MODEL_LIST = ["lda",  "textrank", "luhn", "LSA",  "SumBasic", "Reduction", "KL", "Random", "LexRank", "semisup_topic"]
+MODEL_LIST = ["lda", "Reduction", "KL", "Random", "LexRank", "semisup_topic"]
+
+
 VALIDATION_SET_PATH = "resources/validation_set"
 
 
