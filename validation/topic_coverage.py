@@ -13,6 +13,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 VALIDATION_SET_PATH = "resources/validation_set"
+TRAINING_SET_PATH = "resources/training_set"
 
 
 class TopicCoverageValidation:
@@ -28,11 +29,51 @@ class TopicCoverageValidation:
         self.dictionary = corpora.Dictionary(all_tokens)
         self.NUM_TOPICS = 15
         self.ldamodel = LdaModel.load('validation/alltext15.gensim')
-        self.manual_vecs = self.get_manual_topic_vectors()
+        self.manual_vecs = self.get_manual_doc_topic_vectors()
 
 
 
-    def get_manual_topic_vectors(self):
+    def get_sent_topics(self, doc_sents):
+        '''
+        :param doc_sents: list of sentences to calculate the topics of
+        :return: the list of topics for each sentence
+        '''
+
+        sent_topics = list()
+        if not doc_sents:
+            return []
+        for line in doc_sents:
+            doc_topics = np.zeros(15)
+            new_doc = prepare_text_for_lda(line)
+            if not new_doc:
+                continue
+            new_doc_bow = self.dictionary.doc2bow(new_doc)
+            for one, two in self.ldamodel.get_document_topics(new_doc_bow):
+                doc_topics[one] = two
+            sent_topics.append(doc_topics)
+        return sent_topics
+
+
+    def get_training_sent_topic_vectors(self):
+        """
+        Obtains the topic vectors for sentence from the manual summmaries of the training files 
+        :return: a list of topic vectors for the validation files
+        """
+
+        best_topics = list()
+        for root, dirs, files in os.walk(TRAINING_SET_PATH):
+            for file in files:
+                with open(os.path.join(TRAINING_SET_PATH, file), 'r', encoding='utf-8') as f:
+                    validation_doc = f.read().splitlines()
+                    best_topics.extend(self.get_sent_topics(validation_doc))	
+
+        return best_topics
+
+
+
+
+
+    def get_manual_doc_topic_vectors(self):
         """
         Obtains the topic vectors from the manual summmaries of the validation files
         :return: a list of topic vectors for the validation files
@@ -60,25 +101,7 @@ class TopicCoverageValidation:
                 best_topics.append(doc_topics)
         return best_topics
 
-    def get_sent_topics(self, doc_sents):
-        '''
-        :param doc_sents: list of sentences to calculate the topics of
-        :return: the list of topics for each sentence
-        '''
 
-        sent_topics = list()
-        if not doc_sents:
-            return []
-        for line in doc_sents:
-            doc_topics = np.zeros(15)
-            new_doc = prepare_text_for_lda(line)
-            if not new_doc:
-                continue
-            new_doc_bow = self.dictionary.doc2bow(new_doc)
-            for one, two in self.ldamodel.get_document_topics(new_doc_bow):
-                doc_topics[one] = two
-            sent_topics.append(doc_topics)
-        return sent_topics
 
     def compute_topic_scores(self, doc_sents):
         """
