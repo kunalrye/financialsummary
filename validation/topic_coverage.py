@@ -46,10 +46,15 @@ class TopicCoverageValidation:
                     validation_doc = f.read().splitlines()
                 for line in validation_doc:
                     new_doc = prepare_text_for_lda(line)
+                    if not new_doc:
+                        continue
                     new_doc_bow = self.dictionary.doc2bow(new_doc)
                     tmax = np.argmax([two for one, two in self.ldamodel.get_document_topics(new_doc_bow)])
-                    sent_topic = self.ldamodel.get_document_topics(new_doc_bow)[tmax][0]
-                    doc_topics[sent_topic] += 1
+                    try:
+                        sent_topic = self.ldamodel.get_document_topics(new_doc_bow)[tmax][0]
+                        doc_topics[sent_topic] += 1
+                    except:
+                        continue
                 # print(doc_topics)
                 doc_topics = doc_topics / np.linalg.norm(doc_topics)
                 best_topics.append(doc_topics)
