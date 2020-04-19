@@ -8,9 +8,7 @@ from tabulate import tabulate
 from statistics import mean, median, stdev
 import os
 from collections import defaultdict
-from validation.precision_recall import compute_jaccard_index, compute_precision, compute_recall, compute_f1
-from validation.topic_coverage import TopicCoverageValidation
-
+from validation.precision_recall import compute_precision, compute_recall, compute_f1
 
 # removed LSA from MODEL_LIST
 MODEL_LIST = ["lda",  "textrank", "luhn", "LSA",  "SumBasic", "Reduction", "KL", "Random", "LexRank", "semisup_topic"]

@@ -1,4 +1,4 @@
-from validation.topic_coverage import *
+from modeling.topic_coverage import *
 model = TopicCoverageValidation()
 training_vectors = model.get_training_sent_topic_vectors()
 AVG_VEC = np.mean(training_vectors,axis=0)
