@@ -68,9 +68,9 @@ def assess_models(annotated_fname, manual_set):
         recall_results[model] = compute_recall(manual_set, generated_set)
         f1_results[model] = compute_f1(manual_set, generated_set)
         # compute the jaccard index scores for this model
-        jaccard_results[model] = compute_jaccard_index(manual_set, generated_set)
+        # jaccard_results[model] = compute_jaccard_index(manual_set, generated_set)
         # compute the topic scores for this model
-        topic_results[model] = topic_validator.compute_topic_scores(generated_set)
+        # topic_results[model] = topic_validator.compute_topic_scores(generated_set)
 
     print("assessed models against " + annotated_fname)
     return precision_results, recall_results, f1_results, jaccard_results, topic_results
@@ -166,11 +166,13 @@ def tabulate_results(results):
 
 
 if __name__ == "__main__":
-    topic_validator = TopicCoverageValidation()
-    headers = ['precision_results', 'recall_results', 'f1_results', 'jaccard_results', 'topic_results']
+    # topic_validator = TopicCoverageValidation()
+    # headers = ['precision_results', 'recall_results', 'f1_results', 'jaccard_results', 'topic_results']
+    headers = ['precision_results', 'recall_results', 'f1_results']
+
     results = run_assessment()
     scoring_results = ""
-    for header, result in zip(headers, results):
+    for header, result in zip(headers, results[:len(headers)]):
         print("\n\n" + header)
         table = tabulate_results(result)
         scoring_results += header
