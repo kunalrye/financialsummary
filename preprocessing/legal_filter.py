@@ -1,8 +1,8 @@
 """
-Compare the sentences from the 10Qs to a corpus of legal sentences
+Filters out sentences that are considered legal boilerplate.
 
-Any sentences above a certain threshold will be removed, and this
-script will return the remaining sentences
+Any sentences above one standard deviation from the mean will be removed, and the remaining
+sentences will be returned
 """
 from absl import logging
 import tensorflow_hub as hub
@@ -35,6 +35,10 @@ def file_to_sents(fname):
     return cleaned_lines
 
 def get_legal_bank():
+    """
+    Gets the bank of legal statments from the corresponding text file
+    :return: a list of legal statements
+    """
     legal_text = open(f"resources/forward_looking.txt").read()
     legal_sents = tokenize.sent_tokenize(legal_text)
     legal_non_empty = [sentence for sentence in legal_sents if len(sentence) > 0]
@@ -43,6 +47,13 @@ def get_legal_bank():
 
 
 def filter():
+    """
+    Filters out sentences that are considered legal boilerplate.
+    Any sentences above one standard deviation from the mean will be removed. This is determined by
+    vectorizing the legal bank and the 10Qs using Universal Sentence Encoder, computing their dot product, and
+    creating the distribution of scores.
+    :return: nothing, simply writes the filtered files to the legal_filter folders"
+    """
     print("loading tf hub")
     module_url = "https://tfhub.dev/google/universal-sentence-encoder/4"  # @param ["https://tfhub.dev/google/universal-sentence-encoder/4", "https://tfhub.dev/google/universal-sentence-encoder-large/5"]
     model = hub.load(module_url)

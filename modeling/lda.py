@@ -21,8 +21,8 @@ parser = English()
 def tokenize(text):
     '''
     takes in a line of text and tokenizes by word
-    :param text:
-    :return:
+    :param text: a line of text
+    :return: a list of tokens
     '''
     lda_tokens = []
     tokens = parser(text)
@@ -41,6 +41,11 @@ def tokenize(text):
 
 
 def get_lemma(word):
+    """
+    The lemmas corresponding to a word
+    :param word: a single word from the dictionary
+    :return: the lemma
+    """
     lemma = wn.morphy(word)
     if lemma is None:
         return word
@@ -52,6 +57,11 @@ def get_lemma2(word):
     return WordNetLemmatizer().lemmatize(word)
 
 def prepare_text_for_lda(text):
+    """
+    Basic token filtering for the text to filter out lines that result in empty token lists
+    :param text: the line of text to be prepared
+    :return: the tokens
+    """
     tokens = tokenize(text)
     tokens = [token for token in tokens if len(token) > 4]
     tokens = [token for token in tokens if token not in en_stop]

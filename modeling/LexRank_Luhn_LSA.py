@@ -1,3 +1,6 @@
+"""
+A collection of models from the sumy library for text summarization
+"""
 import sumy
 import summa
 from sumy.parsers.plaintext import PlaintextParser
