@@ -279,6 +279,66 @@ def forward_looking(new_path, file_key, data):
     outF.close()
 
 
+
+def specific_item(new_path, file_key, data, item):
+    """
+    extracts information about forward looking statements to a text file
+    :param new_path: the new path that the file is being saved to
+    :param file_key: the key made for the file so that filename is unique
+    :param data: the string data from parsing that is being iterated over in separate_item
+    :param item: number indicating the specific section, items 1->4 are 1 to 4, part 2 is 5 and fls 6
+    :return: None
+    """
+    parsing = False
+    file_ending = {1:"_item1.txt", 2: "_item2.txt", 3: "_item3.txt", 4: "_item4.txt", 5: "_part2.txt", 6: "_fls.txt"}
+
+    outF = open(new_path + file_key + file_ending[item], "w")
+    for line in data:
+        line2 = line.lower()
+        if item == 1:
+            if line2.startswith("item 1. F") or line2.startswith("item 1.F") or line2.startswith("item 1")\
+                or line2.startswith(' item 1'):
+                parsing = True
+            elif line2.startswith("item 2.M") or line2.startswith("item 2. M") or line2.startswith("item 2")\
+                or line2.startswith(" item 2"):
+                parsing = False
+        if item == 2:
+            if line2.startswith("item 2.M") or line2.startswith("item 2. M") or line2.startswith(" item 2")\
+                or line2.startswith("item 2"):
+                parsing = True
+            elif line2.startswith("item 3.Q") or line2.startswith("item 3. Q") or line2.startswith(" item 3")\
+                or line2.startswith("item 3"):
+                parsing = False
+        if item == 3:
+            if line2.startswith("item 3.Q") or line2.startswith("item 3. Q") or line2.startswith(" item 3")\
+                or line2.startswith("item 3"):
+                parsing = True
+            elif line2.startswith("item 4.C") or line2.startswith("item 4. C") or line2.startswith(" item 4")\
+                or line2.startswith("item 4"):
+                parsing = False
+        if item == 4:
+            if line2.startswith("item 4.C") or line2.startswith("item 4. C") or line2.startswith(" item 4")\
+                or line2.startswith("item 4"):
+                parsing = True
+            elif line2.startswith("part II") or line2.startswith("part ii") or line2.startswith(" part ii"):
+                parsing = False
+        if item == 5:
+            if line2.startswith("part ii") or line2.startswith("part ii.") or line2.startswith(" part ii"):
+                parsing = True
+            elif line2.startswith("SIGNATURE"):
+                parsing = False
+        if item == 6:
+            if "forward-looking" in line2:
+                parsing = True
+            elif len(line2) <= 150:
+                parsing = False
+        if parsing:
+            # write line to output file
+            outF.write(line)
+            outF.write("\n")
+    outF.close()
+
+
 def post_item_tokenize(directory):
     """
     Parse all the files and clean any remaining symbols and small phrases out
@@ -305,7 +365,7 @@ def post_item_tokenize(directory):
             move(abs_path, file_path)
 
     return None
-
+    
 
 def separate_item(directory, tokenized):
     """
@@ -327,20 +387,18 @@ def separate_item(directory, tokenized):
                 filename_list = filename.rsplit('_')
                 file_key = str(filename_list[0] + "_" + filename_list[1] + "_" + filename_list[3])
                 data = open(name_path).readlines()
-                # data2 = []
-                # for line in data:
-                #     if len(line) > 3:
-                #         if (not (line[0] == "(" or \
-                #                  sum(1 for c in line if c.isupper()) / len(line) > .5 or \
-                #                  "|" in line or "see accompanying notes" in line.lower())) and ("." in line):
-                #             data2.append(line)
-                item_one(new_path, file_key, data)
-                item_two(new_path, file_key, data)
-                item_three(new_path, file_key, data)
-                item_four(new_path,file_key, data)
-                part_two(new_path, file_key, data)
-                forward_looking(new_path, file_key, data)
-
+                # item_one(new_path, file_key, data)
+                # item_two(new_path, file_key, data)
+                # item_three(new_path, file_key, data)
+                # item_four(new_path,file_key, data)
+                # part_two(new_path, file_key, data)
+                # forward_looking(new_path, file_key, data)
+                specific_item(new_path, file_key, data, 1)
+                specific_item(new_path, file_key, data, 2)
+                specific_item(new_path, file_key, data, 3)
+                specific_item(new_path, file_key, data, 4)
+                specific_item(new_path, file_key, data, 5)
+                specific_item(new_path, file_key, data, 6)
                 print(company + " completed separating into sections")
 
                 if tokenized:
