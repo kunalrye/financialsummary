@@ -11,7 +11,7 @@ A Rice University D2K Lab Project - DSCI 400
 # About:
 financialsummary is a repo dedicated to identification of key information in quarterly reports.
 Specifically, financialsummary analyzes 10-Q reports from various companies in the Information Technology sector,
-and extracts the most important sentences to form a summary.
+and extracts the most important sentences to form a summary. For more information, refer to `DSCI 400 project report.pdf`
 
 # Running Code
 The entire text-to-summary pipline can be run by running `financialsummary.ipynb`, located at the root of the repo. 
