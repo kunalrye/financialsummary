@@ -1,5 +1,6 @@
 # Modeling
 
+## Higher Order Function To Run Models
 For convenience, `summarize_train_docs`, `summarize_test_docs`, and `summarize_company_docs` functions have been supplied in `run_model.py` so that a caller can apply a model to some or all files in the corpus
 
 *These functions standardize and encapsulate the process of running every section individually through a model and concatenating the outputs of sections into a single summary.* 
@@ -13,3 +14,7 @@ To use these functions, write a wrapper function that calls your model, where th
  * `summarize_train_docs` summarizes all the training documents 
  * `summarize_test_docs` summarizes all the testing documents
  * `summarize_company_docs` summarizes all the documents for a single company (SHOULD BE USED FOR PRELIMINARY MODEL TESTING)
+
+
+## Notes
+`compute_num_clusters.py` computes the number of sentences to take from each of the 10-Q sections, which includes a bias towards Item 2: Management's Discussion
