@@ -239,12 +239,7 @@ def separate_item(directory, tokenized):
                 filename_list = filename.rsplit('_')
                 file_key = str(filename_list[0] + "_" + filename_list[1] + "_" + filename_list[3])
                 data = open(name_path).readlines()
-                # item_one(new_path, file_key, data)
-                # item_two(new_path, file_key, data)
-                # item_three(new_path, file_key, data)
-                # item_four(new_path,file_key, data)
-                # part_two(new_path, file_key, data)
-                # forward_looking(new_path, file_key, data)
+                
                 specific_item(new_path, file_key, data, 1)
                 specific_item(new_path, file_key, data, 2)
                 specific_item(new_path, file_key, data, 3)
