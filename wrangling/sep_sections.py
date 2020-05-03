@@ -381,7 +381,7 @@ def separate_item(directory, tokenized):
                 name_path = os.path.join(subdir, filename)
                 filename_list = filename.rsplit("_")
                 company = str(filename_list[0])
-                new_path = str("resources" + "/itemized/" + company + "/")
+                new_path = str("resources" + "/itemized3/" + company + "/")
                 if not os.path.exists(new_path):
                     os.makedirs(new_path)
                 filename_list = filename.rsplit('_')
@@ -412,3 +412,6 @@ def separate_item(directory, tokenized):
 
 #######################################################################################################################
 
+if __name__ == "__main__":
+    original_files = "resources/full_text/"
+    separate_item(original_files, False)

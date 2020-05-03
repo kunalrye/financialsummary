@@ -14,7 +14,10 @@ import matplotlib.pyplot as plt
 
 # removed LSA from MODEL_LIST
 # MODEL_LIST = ["lda",  "textrank", "luhn", "LSA",  "SumBasic", "Reduction", "KL", "Random", "LexRank", "semisup_topic"]
-MODEL_LIST = ["lda", "Reduction", "KL", "Random", "LexRank", "semisup_topic"]
+MODEL_LIST = ["lda", "Reduction", "KL", "Random", "LSA", "semisup_topic"]
+# MODEL_LIST = ["Reduction", "KL", "LSA"]
+
+# MODEL_LIST = ["lda", "textrank",  "Random", "semisup_topic"]
 
 
 VALIDATION_SET_PATH = "resources/validation_set"
@@ -186,23 +189,23 @@ if __name__ == "__main__":
         f.write(str(scoring_results))
     f.close()
 
-    # precision list
-    print([results[0][file]["semisup_topic"] for file in results[0].keys()])
-    plt.hist([results[0][file]["semisup_topic"] for file in results[0].keys()])
-    plt.title("precision results for semisupervised lda ")
-    plt.show()
-
-    # recall list
-    print([results[1][file]["semisup_topic"] for file in results[1].keys()])
-    plt.hist([results[1][file]["semisup_topic"] for file in results[1].keys()])
-    plt.title("recall results for semisupervised lda ")
-    plt.show()
-
-    # f1 list
-    print([results[2][file]["semisup_topic"] for file in results[2].keys()])
-    plt.hist([results[2][file]["semisup_topic"] for file in results[2].keys()])
-    plt.title("f1 results for semisupervised lda")
-    plt.show()
+    # # precision list
+    # print([results[0][file]["semisup_topic"] for file in results[0].keys()])
+    # plt.hist([results[0][file]["semisup_topic"] for file in results[0].keys()])
+    # plt.title("precision results for semisupervised lda ")
+    # plt.show()
+    #
+    # # recall list
+    # print([results[1][file]["semisup_topic"] for file in results[1].keys()])
+    # plt.hist([results[1][file]["semisup_topic"] for file in results[1].keys()])
+    # plt.title("recall results for semisupervised lda ")
+    # plt.show()
+    #
+    # # f1 list
+    # print([results[2][file]["semisup_topic"] for file in results[2].keys()])
+    # plt.hist([results[2][file]["semisup_topic"] for file in results[2].keys()])
+    # plt.title("f1 results for semisupervised lda")
+    # plt.show()
 
 
 
