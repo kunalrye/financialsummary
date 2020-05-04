@@ -261,4 +261,4 @@ def separate_item(directory, tokenized):
 
 if __name__ == "__main__":
     original_files = "resources/full_text/"
-    separate_item(original_files, False)
+    separate_item(original_files, True)
