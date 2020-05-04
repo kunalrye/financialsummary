@@ -14,7 +14,7 @@ Specifically, financialsummary analyzes 10-Q reports from various companies in t
 and extracts the most important sentences to form a summary. For more information, refer to `DSCI 400 project report.pdf`
 
 # Running Code
-The entire text-to-summary pipline can be run by running `financialsummary.ipynb`, located at the root of the repo. 
+The entire text-to-summary pipline can be run by running `financialsummary.ipynb`, located at the root of the repo. The final output of the notebook is the scoring table for our models. 
 Files that can be directly run are highlighted in the Pipeline Overview section. 
 
 *Note, all paths originate from the root of the project, so all files must be run with the working directory set to the root of the project.* 
