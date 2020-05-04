@@ -1,478 +1,221 @@
-Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
-
-
-
-This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). Any statements contained herein regarding our future financial performance, operations or other matters (including, without limitation, statements to the effect that we “believe,” “expect,” “plan,” “intend to,” “may,” “will,” “project,” “anticipate,” “continue,” “are encouraged by,” "are cautious", "are optimistic", or “estimate”; statements of “goals” or “visions”; or other variations thereof or comparable terminology or the negative thereof) should be considered forward-looking statements. Actual results could differ materially from those projected in the forward-looking statements as a result of a number of important factors, including those set forth under the heading “Risk Factors” beginning on page 46, and in the discussion below. Readers are also encouraged to refer to the documents regularly filed by us with the Securities and Exchange Commission, including our Annual Report on Form 10-K for the year ended December 31, 2018, for further discussion of our business and the risks attendant thereto. 
-
-
-
-Overview 
-
-
-
-For more than 40 years, National Instruments Corporation (the “Company”, “we”, “us” or “our”) has enabled engineers and scientists around the world to accelerate productivity, innovation and discovery. Our software-centric platform provides an advanced approach through integration of software and modular hardware to create automated test and automated measurement systems. We believe our long-term track record of innovation and our differentiated platform help support the success of our customers, employees, suppliers and stockholders. We have been profitable in every year since 1990. We sell to a large number of customers in a wide variety of industries. 
-
-
-
-
-
-Expanding our broad customer base 
-
-
-
-We strive to increase our already broad customer base and to grow our large order business by serving a large market on many computer platforms, through a global marketing and distribution network. We also seek to acquire new technologies and expertise from time to time to open new opportunities for our existing product portfolio. 
-
-
-
-Maintaining a high level of customer satisfaction 
-
-
-
-To maintain a high level of customer satisfaction we strive to offer innovative, modular and integrated products through a global sales and support network. We strive to maintain a high degree of backwards compatibility across different platforms to preserve the customer’s investment in our products. In this time of intense global competition, we believe that it is crucial that we continue to offer products with high quality and reliability, and that our products provide cost-effective solutions for our customers. 
-
-
-
-Leveraging external and internal technology 
-
-
-
-Our product strategy is to provide superior products by leveraging generally available technology, supporting open architectures on multiple platforms and leveraging our core technologies across multiple products.
-
-
-
-
-
-
-
-Leveraging a worldwide sales, distribution and manufacturing network 
-
-
-
-We distribute and sell our software and hardware products primarily through a direct sales organization. We also use independent distributors, original equipment manufacturers, value-added resellers, system integrators, and consultants to market and sell our products. We have sales offices in the U.S. and sales offices and distributors in key international markets. Sales outside of the Americas accounted for approximately 58% and 59% of our net sales during the three months ended September 30, 2019 and 2018, respectively, and approximately 60% and 61% of our net sales during the nine months ended September 30, 2019 and 2018, respectively. The vast majority of our foreign sales are denominated in the customers’ local currency, which exposes us to the effects of changes in foreign currency exchange rates. We expect that a significant portion of our total net sales will continue to be derived from international sales. (See Note 2 - Revenue of Notes to Consolidated Financial Statements for details concerning the geographic breakdown of our net sales).
-
-
-
-
-
-Delivering high quality, reliable products
-
-
-
-We believe that our long-term growth and success depend on delivering high quality software and hardware products on a timely basis. Accordingly, we focus significant efforts on research and development. We focus our research and development efforts on enhancing existing products and developing new products that incorporate appropriate features and functionality to be competitive with respect to technology, price and performance. Our success also depends on our ability to obtain and maintain patents and other proprietary rights related to technologies used in our products. We have engaged in litigation and where necessary, will likely engage in future litigation to protect our intellectual property rights. In monitoring and policing our intellectual property rights, we have been and may be required to spend significant resources.
-
-
-
-Our operating results fluctuate from period to period due to changes in global economic conditions and a number of other factors. As a result, we believe our historical results of operations should not be relied upon as indications of future performance. There can be no assurance that our net sales will grow, or not decline, or that we will remain profitable in future periods. 
-
-
-
-Current business outlook 
-
-
-
-Many of the industries we serve have historically been cyclical and have experienced periodic downturns. In assessing our business, we consider the trends in the Global Purchasing Managers’ Index (“PMI”), global industrial production as well as industry reports on the specific vertical industries that we target. Historically, our business cycles have generally followed the expansion and contraction cycles in the global industrial economy as measured by the Global PMI. For the three months ended September 30, 2019, the average of the Global PMI was 49.5 and the average of the new order element of the Global PMI was 49.2. For the nine months ended September 30, 2019, the average of the Global PMI was 50.0 and the average of the new order element of the Global PMI was 49.6. A Global PMI of 50.0 is a neutral rating, a number greater than 50.0 is indicative of expansion and a number less than 50.0 is indicative of contraction. 
-
-
-
-We continue to face headwinds related to global trade tensions and softening demand as a result of the slowdown in the global industrial economy. These factors could have an adverse effect on the spending patterns of businesses, including our current and potential customers, which could negatively impact our revenues and results of operations. We remain cautious about economic uncertainty indicated by these headwinds along with the weakened Global PMI. We remain committed to operational excellence and the disciplined execution of our long-term growth strategy and we remain optimistic about our long-term position in the industry through our differentiated software-centric platform and the increased system-level value we deliver to our customers to help them decrease their time to market.
-
-
-
-Since the first quarter of 2017, we have been taking steps to optimize our processes, reduce job duplication, evaluate where we should shift and centralize activities, improve efficiencies, and rebalance our resources on higher return activities. We incurred $3 million in severance and other restructuring-related charges, net of tax during the three months ended September 30, 2019. The timing and scope of any future headcount reductions will vary.
-
-
-
-
-
-During the three and nine months ended September 30, 2019, we saw continued volatility in the exchange rates between the U.S. dollar and many of the currency markets where we have exposure. This volatility had a negative impact on our net sales and results of operations for the three and nine months ended September 30, 2019. As of the date of this filing, the U.S. dollar index, as tracked by the St. Louis Federal Reserve, remains near its ten-year high. See “Results of Operations” below for additional discussion on the impact of foreign exchange rates on our business for the three and nine months ended September 30, 2019. See “Our Revenues are Subject to Seasonal Variations” under “Risk Factors” for additional discussion of potential fluctuations in our net sales. 
-
-
-
-We have hedging programs in place to help mitigate the risks associated with foreign currency exchange rate fluctuations. However, there can be no assurance the hedges will offset more than a portion of the financial impact resulting from movements in the foreign currency markets in which we do business. (See Note 5 – Derivative instruments and hedging activities of Notes to Consolidated Financial Statements for additional details concerning our hedging programs.)
-
-
-
-Results of Operations 
-
-
-
-
-
-
-
- Figures may not sum due to rounding.
-
-
-
-
-
-Results of Operations for the three and nine months ended September 30, 2019 and 2018
-
-
-
-Net Sales. The following table sets forth our net sales for the three and nine months ended September 30, 2019 and 2018 along with the changes between the corresponding periods.
-
-
-
-
-
-Figures may not sum due to rounding.
-
-
-
-The slight decreases in our net sales during the three and nine month periods ended September 30, 2019 were primarily related to the adverse impact of changes in foreign currency exchange rates. Orders with a value greater than $20,000 decreased by 4% year over year during the three months ended September 30, 2019, compared to the year over year increase of 21% in the three months ended September 30, 2018. During the nine months ended September 30, 2019, orders with a value greater than $20,000 decreased by 1% year over year compared to the year over year increase of 16% in the nine months ended September 30, 2018.
-
-
-
-During the three months ended September 30, 2019 and 2018, orders over $20,000 were 60% and 59% of our total orders, respectively, and for the nine months ended September 30, 2019 and 2018, these orders were 59% and 58% of our total orders, respectively. Orders with a value greater than $20,000, particularly those orders with a value greater than $100,000, are more volatile, are subject to greater discount variability, and may contract at a faster pace during an economic downturn compared to our other orders.
-
-
-
-The following table sets forth our net sales by geographic region for the three and nine months ended September 30, 2019 and 2018 along with the changes between the corresponding periods and the region’s percentage of total net sales.
-
-
-
-
-
-Figures may not sum due to rounding.
-
-
-
-
-
-We expect sales outside of the Americas to continue to represent a significant portion of our net sales. We intend to continue to expand our international operations by increasing our presence in existing markets, adding a presence in some new geographical markets and continuing the use of distributors to sell our products in some countries. Almost all of the sales made by our direct sales offices in the Americas (excluding the U.S.), EMEIA, and APAC are denominated in local currencies, and accordingly, the U.S. dollar equivalent of these sales is affected by changes in foreign currency exchange rates. In order to provide a framework for assessing how our underlying business performed excluding the effects of foreign currency fluctuations between periods, we compare the percentage change in our results from period to period using constant currency disclosure. To calculate the change in constant currency, current and comparative prior period results for entities reporting in currencies other than U.S. Dollars are converted into U.S. Dollars at constant exchange rates (i.e., the average rates in effect during the three and nine months ended September 30, 2018). The following tables present this information, along with the impact of changes in foreign currency exchange rates on sales denominated in local currencies, for the three and nine months ended September 30, 2019.
-
-
-
-
-
- Figures may not sum due to rounding.
-
-
-
-To help protect against changes in U.S. dollar equivalent value caused by fluctuations in foreign currency exchange rates of forecasted foreign currency cash flows resulting from international sales, we maintain a foreign currency cash flow hedging program. We hedge portions of our forecasted net sales denominated in foreign currencies with average rate forward contracts. During the three months ended September 30, 2019 and 2018, these hedges had the effect of increasing our net sales by $3.3 million and increasing our net sales by $1.4 million, respectively. During the nine months ended September 30, 2019 and 2018, these hedges had the effect of increasing our net sales by $7.7 million and decreasing our net sales by $2.5 million, respectively. (See Note 5 - Derivative instruments and hedging activities of Notes to Consolidated Financial Statements for further discussion regarding our cash flow hedging program and its related impact on our net sales for 2019 and 2018). 
-
-
-
-
-
-Gross Profit. Our gross profit as a percentage of sales is impacted by many factors including changes in the amount of revenues from our large customers and changes in the foreign currency exchange markets. We continue to focus on cost control and cost reduction measures throughout our manufacturing cycle. The following table sets forth our gross profit and gross profit as a percentage of net sales for the three and nine months ended September 30, 2019 and 2018 along with the percentage changes in gross profit for the corresponding periods.
-
-
-
-
-
-The decreases in our gross profit during the three and nine months ended September 30, 2019, compared to the same periods in 2018 are primarily attributable to lower net sales. The increase in our gross profit as a percentage of net sales for the three months ended September 30, 2019, compared to the same period in 2018 is primarily attributable to lower restructuring charges partially offset by unfavorable changes in foreign currency exchange rates. The decrease in our gross profit as a percentage of net sales for the nine months ended September 30, 2019, compared to the same period in 2018 is primarily attributable to unfavorable changes in foreign currency exchange rates. For the three months ended September 30, 2019 and 2018, the change in exchange rates had the effect of decreasing our cost of sales by $0.7 million and increasing our cost of sales by $0.02 million, respectively. For the nine months ended September 30, 2019 and 2018, the change in exchange rates had the effect of decreasing our cost of sales by $3.6 million and increasing our cost of sales by $4.0 million, respectively. To help protect against changes in our cost of sales caused by a fluctuation in foreign currency exchange rates of forecasted foreign currency cash flows, we have a foreign currency cash flow hedging program. We hedge portions of our forecasted costs of sales denominated in foreign currencies with average rate forward contracts. During the three months ended September 30, 2019 and 2018, these hedges had the effect of increasing our cost of sales by $0.2 million and decreasing our cost of sales by $0.1 million, respectively. During the nine months ended September 30, 2019 and 2018, these hedges had the effect of increasing our cost of sales by $0.2 million and decreasing our cost of sales by $0.7 million, respectively. (See Note 5 - Derivative instruments and hedging activities of Notes to Consolidated Financial Statements for further discussion regarding our cash flow hedging program and its related impact on our cost of sales for 2019 and 2018).
-
-
-
-We do not typically maintain a large amount of order backlog as orders typically translate to sales quickly. As such, any weakness in orders typically has a pronounced impact on our net sales in the short term.
-
-
-
-
-
-Operating Expenses. The following table sets forth our operating expenses for the three and nine months ended September 30, 2019 and 2018, along with the percentage changes between the corresponding periods and the line item as a percentage of total net sales.
-
-
-
-
-
-As previously disclosed, on August 29, 2019, we sold Millennium Property and recognized a gain on the sale of $26.8 million, which is presented as "Gain on sale of assets" on the Consolidated Statements of Income.
-
-
-
-
-
-•$7 million increase due to a charitable contribution to a donor-advised fund using a portion of 
-
-
-
-the proceeds from the sale of the Millennium Property;
-
-
-
-•$4 million increase due to additional stock-based compensation expense, primarily attributable to comparatively higher stock prices on the grant date of unvested RSU awards and a shorter average service period for our awards;
-
-
-
-•$2 million decrease related to the year over year impact of changes in foreign currency exchange rates;
-
-
-
-•$3 million decrease in personnel costs, primarily attributable to a decrease in variable compensation cost; and
-
-
-
-•$1 million decrease in restructuring costs.
-
-
-
-The year over year increase in our general and administrative expenses is primarily related to the charitable contribution discussed above. 
-
-
-
-
-
-•$11 million decrease related to the year over year impact of changes in foreign currency exchange rates;
-
-
-
-•$10 million increase due to additional stock-based compensation expense, primarily attributable to
-
-
-
-comparatively higher stock prices on the grant date of unvested RSU awards and a shorter average service period 
-
-
-
-for our awards;
-
-
-
-•$7 million increase due to a charitable contribution to a donor-advised fund using a portion of 
-
-
-
-the proceeds from the sale of the Millennium Property;
-
-
-
-•$7 million decrease in personnel costs, primarily attributable to a decrease in variable compensation costs;
-
-
-
-•$6 million increase in our research and development expenses, primarily attributable to a decrease in our software 
-
-
-
-development costs eligible for capitalization, as described in more detail below; and
-
-
-
-•$1 million decrease in marketing and outside service costs.
-
-
-
-
-
-In the three months ended September 30, 2019, we capitalized $2.8 million of software development costs compared to $1.9 million in the three months ended September 30, 2018. In the second quarter of 2018, we began moving toward more frequent releases for many of our software products. Specifically, for many of our software development projects we started applying agile development methodologies which are characterized by a more dynamic development process with more frequent and iterative revisions to a product release's features and functions as the software is being developed. Due to the shorter development cycle and focus on rapid production associated with agile development, we expect that for a significant majority of our software development projects the costs incurred subsequent to the achievement of technological feasibility will be immaterial in future periods and we expect to record significantly less capitalized software development costs than under our historical software development approaches. Consequently, a larger portion of our software development expenditures have been recognized as operating expenses starting in the second quarter of 2018. We also expect amortization of previously capitalized software development costs will begin to steadily decline as previously capitalized software development costs become fully amortized over the next four years.
-
-
-
-We believe that our long-term growth and success depends on developing high quality software and hardware products on a timely basis. We are focused on leveraging our investments in research and development and in our field sales force and taking actions to help ensure that those resources are concentrated in areas and on initiatives that will contribute to future growth in our business. 
-
-
-
-Operating Income. For the three months ended September 30, 2019 and 2018, operating income was $65 million and $46 million, respectively, an increase of 42%. As a percentage of net sales, operating income was 19.1% and 13.3% for the three months ended September 30, 2019 and 2018, respectively. For the nine months ended September 30, 2019 and 2018, operating income was $121 million and $111 million, respectively, an increase of 9%. As a percentage of net sales, operating income was 12.3% and 11.1% for the nine months ended September 30, 2019 and 2018, respectively. The increase in operating income in absolute dollars for the three months ended September 30, 2019, compared to the three months ended September 30, 2018, and for the nine months ended September 30, 2019, compared to the nine months ended September 30, 2018, are attributable to the factors discussed in Net Sales, Gross Profit and Operating Expenses above.
-
-
-
-Interest Income.  For the three months ended September 30, 2019 and 2018, interest income was $1.9 million and $1.5 million, respectively. For the nine months ended September 30, 2019 and 2018, interest income was $6.2 million and $3.8 million, respectively. During 2019, the federal reserve cut the Federal Funds Rate which resulted in declines in the yields for high quality investment alternatives (that comply with our corporate investment policy), and could negatively impact the amount of interest income from our investment portfolio for the remainder of 2019. 
-
-
-
-Net Foreign Exchange Loss.  For the three months ended September 30, 2019 and 2018, net foreign exchange loss was $(0.4) million and $(1.0) million, respectively. During the nine months ended September 30, 2019 and 2018, net foreign exchange loss was $(1.6) million and $(2.1) million, respectively. These results are attributable to movements in the foreign currency exchange rates between the U.S. dollar and foreign currencies in subsidiaries for which our functional currency is not the U.S. dollar. For the first nine months of 2019, we saw continued volatility in the exchange rates between the U.S. dollar and many of the currency markets where we have exposure. In the past, we have noted that volatility in the foreign currency exchange markets in which we do business has had a significant impact on the revaluation of our foreign currency denominated firm commitments, on our ability to forecast our U.S. dollar equivalent net sales and expenses and on the effectiveness of our hedging programs. We cannot predict to what degree foreign currency markets will fluctuate in the future. In the past, these dynamics have also adversely affected our net sales growth in international markets and may pose similar challenges in the future. We recognize the local currency as the functional currency in virtually all of our international subsidiaries. See “Results of Operations - Net Sales” above for additional discussion on the impact of foreign exchange rates on our net sales of operations for the three and nine months ended September 30, 2019.
-
-
-
-We utilize foreign currency forward contracts to hedge our foreign denominated net foreign currency balance sheet positions to help protect against the change in value caused by a fluctuation in foreign currency exchange rates. We typically hedge up to 90% of our outstanding foreign denominated net receivable or payable positions and typically limit the duration of these foreign currency forward contracts to approximately 90 days. The gain or loss on these derivatives as well as the offsetting gain or loss on the hedged item attributable to the hedged risk is recognized in current earnings under the line item “Net foreign exchange loss.” Our hedging strategy decreased our foreign exchange loss by $0.3 million and decreased our foreign exchange loss by $0.9 million in the three months ended September 30, 2019 and September 30, 2018, respectively. Our hedging strategy increased our foreign exchange loss by $0.1 million and decreased our foreign exchange loss by $0.7 million in the nine months ended September 30, 2019 and 2018, respectively. (See Note 5 - Derivative instruments and hedging activities of Notes to Consolidated Financial Statements for a further description of our derivative instruments and hedging activities).
-
-
-
-
-
-
-
-
-
-
-
-Other operational metrics 
-
-
-
-We believe that the following additional unaudited operational metrics assist investors in assessing our operational performance relative to others in our industry and to our historical results. The following tables provide details with respect to the amount of GAAP charges related to stock-based compensation, amortization of acquisition related intangibles, acquisition related transaction costs, restructuring charges, capitalization and amortization of internally developed software costs, disposal gains on office buildings and related charitable contributions, and other items that were recorded in the line items indicated below (in thousands).
-
-
-
-໿
-
-
-
-
-
-
-
-໿
-
-
-
-
-
-
-
-
-
-Liquidity and Capital Resources 
-
-
-
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”).
+Any statements contained herein regarding our future financial performance, operations or other matters (including, without limitation, statements to the effect that we “believe,” “expect,” “plan,” “intend to,” “may,” “will,” “project,” “anticipate,” “continue,” “are encouraged by,” "are cautious", "are optimistic", or “estimate”; statements of “goals” or “visions”; or other variations thereof or comparable terminology or the negative thereof) should be considered forward-looking statements.
+Actual results could differ materially from those projected in the forward-looking statements as a result of a number of important factors, including those set forth under the heading “Risk Factors” beginning on page 46, and in the discussion below.
+Readers are also encouraged to refer to the documents regularly filed by us with the Securities and Exchange Commission, including our Annual Report on Form 10-K for the year ended December 31, 2018, for further discussion of our business and the risks attendant thereto.
 Overview
-
-
-
-
-
-
-
-
-
-
-
+For more than 40 years, National Instruments Corporation (the “Company”, “we”, “us” or “our”) has enabled engineers and scientists around the world to accelerate productivity, innovation and discovery.
+Our software-centric platform provides an advanced approach through integration of software and modular hardware to create automated test and automated measurement systems.
+We believe our long-term track record of innovation and our differentiated platform help support the success of our customers, employees, suppliers and stockholders.
+We have been profitable in every year since 1990.
+We sell to a large number of customers in a wide variety of industries.
+Expanding our broad customer base
+We strive to increase our already broad customer base and to grow our large order business by serving a large market on many computer platforms, through a global marketing and distribution network.
+We also seek to acquire new technologies and expertise from time to time to open new opportunities for our existing product portfolio.
+Maintaining a high level of customer satisfaction
+To maintain a high level of customer satisfaction we strive to offer innovative, modular and integrated products through a global sales and support network.
+We strive to maintain a high degree of backwards compatibility across different platforms to preserve the customer’s investment in our products.
+In this time of intense global competition, we believe that it is crucial that we continue to offer products with high quality and reliability, and that our products provide cost-effective solutions for our customers.
+Leveraging external and internal technology
+Our product strategy is to provide superior products by leveraging generally available technology, supporting open architectures on multiple platforms and leveraging our core technologies across multiple products.
+Leveraging a worldwide sales, distribution and manufacturing network
+We distribute and sell our software and hardware products primarily through a direct sales organization.
+We also use independent distributors, original equipment manufacturers, value-added resellers, system integrators, and consultants to market and sell our products.
+We have sales offices in the U.S. and sales offices and distributors in key international markets.
+Sales outside of the Americas accounted for approximately 58% and 59% of our net sales during the three months ended September 30, 2019 and 2018, respectively, and approximately 60% and 61% of our net sales during the nine months ended September 30, 2019 and 2018, respectively.
+The vast majority of our foreign sales are denominated in the customers’ local currency, which exposes us to the effects of changes in foreign currency exchange rates.
+We expect that a significant portion of our total net sales will continue to be derived from international sales.
+(See Note 2 - Revenue of Notes to Consolidated Financial Statements for details concerning the geographic breakdown of our net sales).
+Delivering high quality, reliable products
+We believe that our long-term growth and success depend on delivering high quality software and hardware products on a timely basis.
+Accordingly, we focus significant efforts on research and development.
+We focus our research and development efforts on enhancing existing products and developing new products that incorporate appropriate features and functionality to be competitive with respect to technology, price and performance.
+Our success also depends on our ability to obtain and maintain patents and other proprietary rights related to technologies used in our products.
+We have engaged in litigation and where necessary, will likely engage in future litigation to protect our intellectual property rights.
+In monitoring and policing our intellectual property rights, we have been and may be required to spend significant resources.
+Our operating results fluctuate from period to period due to changes in global economic conditions and a number of other factors.
+As a result, we believe our historical results of operations should not be relied upon as indications of future performance.
+There can be no assurance that our net sales will grow, or not decline, or that we will remain profitable in future periods.
+Current business outlook
+Many of the industries we serve have historically been cyclical and have experienced periodic downturns.
+In assessing our business, we consider the trends in the Global Purchasing Managers’ Index (“PMI”), global industrial production as well as industry reports on the specific vertical industries that we target.
+Historically, our business cycles have generally followed the expansion and contraction cycles in the global industrial economy as measured by the Global PMI.
+For the three months ended September 30, 2019, the average of the Global PMI was 49.5 and the average of the new order element of the Global PMI was 49.2.
+For the nine months ended September 30, 2019, the average of the Global PMI was 50.0 and the average of the new order element of the Global PMI was 49.6.
+A Global PMI of 50.0 is a neutral rating, a number greater than 50.0 is indicative of expansion and a number less than 50.0 is indicative of contraction.
+We continue to face headwinds related to global trade tensions and softening demand as a result of the slowdown in the global industrial economy.
+These factors could have an adverse effect on the spending patterns of businesses, including our current and potential customers, which could negatively impact our revenues and results of operations.
+We remain cautious about economic uncertainty indicated by these headwinds along with the weakened Global PMI.
+We remain committed to operational excellence and the disciplined execution of our long-term growth strategy and we remain optimistic about our long-term position in the industry through our differentiated software-centric platform and the increased system-level value we deliver to our customers to help them decrease their time to market.
+Since the first quarter of 2017, we have been taking steps to optimize our processes, reduce job duplication, evaluate where we should shift and centralize activities, improve efficiencies, and rebalance our resources on higher return activities.
+We incurred $3 million in severance and other restructuring-related charges, net of tax during the three months ended September 30, 2019.
+The timing and scope of any future headcount reductions will vary.
+During the three and nine months ended September 30, 2019, we saw continued volatility in the exchange rates between the U.S. dollar and many of the currency markets where we have exposure.
+This volatility had a negative impact on our net sales and results of operations for the three and nine months ended September 30, 2019.
+As of the date of this filing, the U.S. dollar index, as tracked by the St. Louis Federal Reserve, remains near its ten-year high.
+See “Results of Operations” below for additional discussion on the impact of foreign exchange rates on our business for the three and nine months ended September 30, 2019.
+See “Our Revenues are Subject to Seasonal Variations” under “Risk Factors” for additional discussion of potential fluctuations in our net sales.
+We have hedging programs in place to help mitigate the risks associated with foreign currency exchange rate fluctuations.
+However, there can be no assurance the hedges will offset more than a portion of the financial impact resulting from movements in the foreign currency markets in which we do business.
+(See Note 5 – Derivative instruments and hedging activities of Notes to Consolidated Financial Statements for additional details concerning our hedging programs.)
+Results of Operations
+ Figures may not sum due to rounding.
+Results of Operations for the three and nine months ended September 30, 2019 and 2018
+Net Sales.
+The following table sets forth our net sales for the three and nine months ended September 30, 2019 and 2018 along with the changes between the corresponding periods.
+Figures may not sum due to rounding.
+The slight decreases in our net sales during the three and nine month periods ended September 30, 2019 were primarily related to the adverse impact of changes in foreign currency exchange rates.
+Orders with a value greater than $20,000 decreased by 4% year over year during the three months ended September 30, 2019, compared to the year over year increase of 21% in the three months ended September 30, 2018.
+During the nine months ended September 30, 2019, orders with a value greater than $20,000 decreased by 1% year over year compared to the year over year increase of 16% in the nine months ended September 30, 2018.
+During the three months ended September 30, 2019 and 2018, orders over $20,000 were 60% and 59% of our total orders, respectively, and for the nine months ended September 30, 2019 and 2018, these orders were 59% and 58% of our total orders, respectively.
+Orders with a value greater than $20,000, particularly those orders with a value greater than $100,000, are more volatile, are subject to greater discount variability, and may contract at a faster pace during an economic downturn compared to our other orders.
+The following table sets forth our net sales by geographic region for the three and nine months ended September 30, 2019 and 2018 along with the changes between the corresponding periods and the region’s percentage of total net sales.
+Figures may not sum due to rounding.
+We expect sales outside of the Americas to continue to represent a significant portion of our net sales.
+We intend to continue to expand our international operations by increasing our presence in existing markets, adding a presence in some new geographical markets and continuing the use of distributors to sell our products in some countries.
+Almost all of the sales made by our direct sales offices in the Americas (excluding the U.S.), EMEIA, and APAC are denominated in local currencies, and accordingly, the U.S. dollar equivalent of these sales is affected by changes in foreign currency exchange rates.
+In order to provide a framework for assessing how our underlying business performed excluding the effects of foreign currency fluctuations between periods, we compare the percentage change in our results from period to period using constant currency disclosure.
+To calculate the change in constant currency, current and comparative prior period results for entities reporting in currencies other than U.S.
+Dollars are converted into U.S.
+Dollars at constant exchange rates (i.e., the average rates in effect during the three and nine months ended September 30, 2018).
+The following tables present this information, along with the impact of changes in foreign currency exchange rates on sales denominated in local currencies, for the three and nine months ended September 30, 2019.
+ Figures may not sum due to rounding.
+To help protect against changes in U.S. dollar equivalent value caused by fluctuations in foreign currency exchange rates of forecasted foreign currency cash flows resulting from international sales, we maintain a foreign currency cash flow hedging program.
+We hedge portions of our forecasted net sales denominated in foreign currencies with average rate forward contracts.
+During the three months ended September 30, 2019 and 2018, these hedges had the effect of increasing our net sales by $3.3 million and increasing our net sales by $1.4 million, respectively.
+During the nine months ended September 30, 2019 and 2018, these hedges had the effect of increasing our net sales by $7.7 million and decreasing our net sales by $2.5 million, respectively.
+(See Note 5 - Derivative instruments and hedging activities of Notes to Consolidated Financial Statements for further discussion regarding our cash flow hedging program and its related impact on our net sales for 2019 and 2018).
+Gross Profit.
+Our gross profit as a percentage of sales is impacted by many factors including changes in the amount of revenues from our large customers and changes in the foreign currency exchange markets.
+We continue to focus on cost control and cost reduction measures throughout our manufacturing cycle.
+The following table sets forth our gross profit and gross profit as a percentage of net sales for the three and nine months ended September 30, 2019 and 2018 along with the percentage changes in gross profit for the corresponding periods.
+The decreases in our gross profit during the three and nine months ended September 30, 2019, compared to the same periods in 2018 are primarily attributable to lower net sales.
+The increase in our gross profit as a percentage of net sales for the three months ended September 30, 2019, compared to the same period in 2018 is primarily attributable to lower restructuring charges partially offset by unfavorable changes in foreign currency exchange rates.
+The decrease in our gross profit as a percentage of net sales for the nine months ended September 30, 2019, compared to the same period in 2018 is primarily attributable to unfavorable changes in foreign currency exchange rates.
+For the three months ended September 30, 2019 and 2018, the change in exchange rates had the effect of decreasing our cost of sales by $0.7 million and increasing our cost of sales by $0.02 million, respectively.
+For the nine months ended September 30, 2019 and 2018, the change in exchange rates had the effect of decreasing our cost of sales by $3.6 million and increasing our cost of sales by $4.0 million, respectively.
+To help protect against changes in our cost of sales caused by a fluctuation in foreign currency exchange rates of forecasted foreign currency cash flows, we have a foreign currency cash flow hedging program.
+We hedge portions of our forecasted costs of sales denominated in foreign currencies with average rate forward contracts.
+During the three months ended September 30, 2019 and 2018, these hedges had the effect of increasing our cost of sales by $0.2 million and decreasing our cost of sales by $0.1 million, respectively.
+During the nine months ended September 30, 2019 and 2018, these hedges had the effect of increasing our cost of sales by $0.2 million and decreasing our cost of sales by $0.7 million, respectively.
+(See Note 5 - Derivative instruments and hedging activities of Notes to Consolidated Financial Statements for further discussion regarding our cash flow hedging program and its related impact on our cost of sales for 2019 and 2018).
+We do not typically maintain a large amount of order backlog as orders typically translate to sales quickly.
+As such, any weakness in orders typically has a pronounced impact on our net sales in the short term.
+Operating Expenses.
+The following table sets forth our operating expenses for the three and nine months ended September 30, 2019 and 2018, along with the percentage changes between the corresponding periods and the line item as a percentage of total net sales.
+As previously disclosed, on August 29, 2019, we sold Millennium Property and recognized a gain on the sale of $26.8 million, which is presented as "Gain on sale of assets" on the Consolidated Statements of Income.
+•$7 million increase due to a charitable contribution to a donor-advised fund using a portion of
+the proceeds from the sale of the Millennium Property;
+•$4 million increase due to additional stock-based compensation expense, primarily attributable to comparatively higher stock prices on the grant date of unvested RSU awards and a shorter average service period for our awards;
+•$2 million decrease related to the year over year impact of changes in foreign currency exchange rates;
+•$3 million decrease in personnel costs, primarily attributable to a decrease in variable compensation cost; and
+•$1 million decrease in restructuring costs.
+The year over year increase in our general and administrative expenses is primarily related to the charitable contribution discussed above.
+•$11 million decrease related to the year over year impact of changes in foreign currency exchange rates;
+•$10 million increase due to additional stock-based compensation expense, primarily attributable to
+comparatively higher stock prices on the grant date of unvested RSU awards and a shorter average service period
+for our awards;
+•$7 million increase due to a charitable contribution to a donor-advised fund using a portion of
+the proceeds from the sale of the Millennium Property;
+•$7 million decrease in personnel costs, primarily attributable to a decrease in variable compensation costs;
+•$6 million increase in our research and development expenses, primarily attributable to a decrease in our software
+development costs eligible for capitalization, as described in more detail below; and
+•$1 million decrease in marketing and outside service costs.
+In the three months ended September 30, 2019, we capitalized $2.8 million of software development costs compared to $1.9 million in the three months ended September 30, 2018.
+In the second quarter of 2018, we began moving toward more frequent releases for many of our software products.
+Specifically, for many of our software development projects we started applying agile development methodologies which are characterized by a more dynamic development process with more frequent and iterative revisions to a product release's features and functions as the software is being developed.
+Due to the shorter development cycle and focus on rapid production associated with agile development, we expect that for a significant majority of our software development projects the costs incurred subsequent to the achievement of technological feasibility will be immaterial in future periods and we expect to record significantly less capitalized software development costs than under our historical software development approaches.
+Consequently, a larger portion of our software development expenditures have been recognized as operating expenses starting in the second quarter of 2018.
+We also expect amortization of previously capitalized software development costs will begin to steadily decline as previously capitalized software development costs become fully amortized over the next four years.
+We believe that our long-term growth and success depends on developing high quality software and hardware products on a timely basis.
+We are focused on leveraging our investments in research and development and in our field sales force and taking actions to help ensure that those resources are concentrated in areas and on initiatives that will contribute to future growth in our business.
+Operating Income.
+For the three months ended September 30, 2019 and 2018, operating income was $65 million and $46 million, respectively, an increase of 42%.
+As a percentage of net sales, operating income was 19.1% and 13.3% for the three months ended September 30, 2019 and 2018, respectively.
+For the nine months ended September 30, 2019 and 2018, operating income was $121 million and $111 million, respectively, an increase of 9%.
+As a percentage of net sales, operating income was 12.3% and 11.1% for the nine months ended September 30, 2019 and 2018, respectively.
+The increase in operating income in absolute dollars for the three months ended September 30, 2019, compared to the three months ended September 30, 2018, and for the nine months ended September 30, 2019, compared to the nine months ended September 30, 2018, are attributable to the factors discussed in Net Sales, Gross Profit and Operating Expenses above.
+Interest Income.
+For the three months ended September 30, 2019 and 2018, interest income was $1.9 million and $1.5 million, respectively.
+For the nine months ended September 30, 2019 and 2018, interest income was $6.2 million and $3.8 million, respectively.
+During 2019, the federal reserve cut the Federal Funds Rate which resulted in declines in the yields for high quality investment alternatives (that comply with our corporate investment policy), and could negatively impact the amount of interest income from our investment portfolio for the remainder of 2019.
+Net Foreign Exchange Loss.
+For the three months ended September 30, 2019 and 2018, net foreign exchange loss was $(0.4) million and $(1.0) million, respectively.
+During the nine months ended September 30, 2019 and 2018, net foreign exchange loss was $(1.6) million and $(2.1) million, respectively.
+These results are attributable to movements in the foreign currency exchange rates between the U.S. dollar and foreign currencies in subsidiaries for which our functional currency is not the U.S. dollar.
+For the first nine months of 2019, we saw continued volatility in the exchange rates between the U.S. dollar and many of the currency markets where we have exposure.
+In the past, we have noted that volatility in the foreign currency exchange markets in which we do business has had a significant impact on the revaluation of our foreign currency denominated firm commitments, on our ability to forecast our U.S. dollar equivalent net sales and expenses and on the effectiveness of our hedging programs.
+We cannot predict to what degree foreign currency markets will fluctuate in the future.
+In the past, these dynamics have also adversely affected our net sales growth in international markets and may pose similar challenges in the future.
+We recognize the local currency as the functional currency in virtually all of our international subsidiaries.
+See “Results of Operations - Net Sales” above for additional discussion on the impact of foreign exchange rates on our net sales of operations for the three and nine months ended September 30, 2019.
+We utilize foreign currency forward contracts to hedge our foreign denominated net foreign currency balance sheet positions to help protect against the change in value caused by a fluctuation in foreign currency exchange rates.
+We typically hedge up to 90% of our outstanding foreign denominated net receivable or payable positions and typically limit the duration of these foreign currency forward contracts to approximately 90 days.
+The gain or loss on these derivatives as well as the offsetting gain or loss on the hedged item attributable to the hedged risk is recognized in current earnings under the line item “Net foreign exchange loss.” Our hedging strategy decreased our foreign exchange loss by $0.3 million and decreased our foreign exchange loss by $0.9 million in the three months ended September 30, 2019 and September 30, 2018, respectively.
+Our hedging strategy increased our foreign exchange loss by $0.1 million and decreased our foreign exchange loss by $0.7 million in the nine months ended September 30, 2019 and 2018, respectively.
+(See Note 5 - Derivative instruments and hedging activities of Notes to Consolidated Financial Statements for a further description of our derivative instruments and hedging activities).
+Other operational metrics
+We believe that the following additional unaudited operational metrics assist investors in assessing our operational performance relative to others in our industry and to our historical results.
+The following tables provide details with respect to the amount of GAAP charges related to stock-based compensation, amortization of acquisition related intangibles, acquisition related transaction costs, restructuring charges, capitalization and amortization of internally developed software costs, disposal gains on office buildings and related charitable contributions, and other items that were recorded in the line items indicated below (in thousands).
+໿
+໿
+Liquidity and Capital Resources
+Overview
 Our principal sources of liquidity include cash, cash equivalents, and marketable securities, as well as the cash flows generated from our operations.
-
-
-
-
-
-
-
-
-
 ◦Prepaid expenses and other current assets increased by $12 million which was primarily related to an increase in prepaid freight costs and the timing of insurance and maintenance renewals.
-
-
-
-◦Accrued compensation decreased by $3 million which can primarily be attributed to a decrease in payments expected under our company profit sharing and bonus plans. 
-
-
-
-◦Accounts payable and accrued expenses increased by $8 million, primarily due to the timing of payments for inventory and other services. 
-
-
-
-
-
+◦Accrued compensation decreased by $3 million which can primarily be attributed to a decrease in payments expected under our company profit sharing and bonus plans.
+◦Accounts payable and accrued expenses increased by $8 million, primarily due to the timing of payments for inventory and other services.
 ◦Other current liabilities decreased by $3 million due to the timing and amount of income tax related payments offset by changes in the fair value of certain hedging instruments.
-
-
-
 ◦Operating lease liabilities, current increased by $14 million which was entirely related to the adoption of the new leasing standard on January 1, 2019, as discussed in Note 1 - Basis of presentation and Note 8 - Leases.
-
-
-
 ◦Other taxes payable decreased by $4 million related to the timing of payments for VAT and other indirect taxes.
-
-
-
 Analysis of Cash Flow
-
-
-
 The following table summarizes our cash flow results for the nine months ended September 30, 2019 and 2018.
-
-
-
-
-
-Operating Activities, Cash provided by operating activities is comprised of net income adjusted for certain non-cash items and changes in working capital. Cash provided by operating activities for the nine months ended September 30, 2019 decreased by $38 million compared to the same period in 2018. This was primarily due to an $10 million decrease in net income adjusted for certain non-cash items, including stock-based compensation, depreciation and amortization, and gain on sale of assets, and $25 million related to unfavorable changes in operating assets and liabilities. The changes in operating assets and liabilities primarily related to unfavorable changes in prepaids, taxes, and other liabilities compared to the same period in 2018. 
-
-
-
-Investing Activities Cash provided (used in) by investing activities for the nine months ended September 30, 2019 increased by $122 million compared to the, same period in 2018. This was primarily attributable to a net sale of short-term investments of $63 million compared to a net purchase of short-term investments of $50 million during the same period in 2018 and proceeds from the sale of the Millennium Property of $32.5 million, partially offset by an increase of $20 million in capital expenditures. The net sale of short-term investments was primarily driven by funding needs for our stock repurchase activities during 2019. Investing cash outflows related to capitalized software development decreased by $6 million compared to the same period in 2018 due to a decrease in development costs eligible for capitalization related to a recent shift for several of our software projects to a more iterative software development cycle. Due to this change in how we develop these software products, we expect the portion of software development expenditures that will be recognized as research and development expenses when incurred, and consequently, classified as operating cash flows, to increase in future periods. 
-
-
-
-Financing Activities, Cash used by financing activities increased by $144 million for the nine months ended September 30, 2019 compared to the same period in 2018. This was primarily related to an increase of $137 million in cash outflows used to repurchase 3.2 million shares of our common stock and an $8 million increase in cash outflows related to our quarterly dividend partially offset by a $1 million increase in proceeds from issuance of our common stock under our employee stock purchase plan.
-
-
-
-Contractual Cash Obligations.  Information related to our contractual obligations as of December 31, 2018 can be found in “Management’s Discussion and Analysis of Financial Condition and Results of Operations-Contractual Obligations,” in Part II-Item 7 of our Annual Report on Form 10-K for the fiscal year ended December 31, 2018 filed with the SEC on February 21, 2019 (the “2018 Form 10-K”). At September 30, 2019, there were no material changes outside the ordinary course of business to our contractual obligations from those reported in our 2018 Form 10-K. See Note 8 - Leases of Notes to Consolidated Financial Statements for additional information regarding our non-cancellable operating lease obligations as of September 30, 2019.
-
-
-
-
-
-Loan Agreement. As amended on April 27, 2018, the Loan Agreement provides for (i) a revolving line of credit of $5.0 million, (ii) a letter of credit sublimit under the line of credit of $5.0 million, and (iii) requires us and our subsidiaries to comply with certain of the affirmative and negative covenants under the Loan Agreement only if loans are outstanding under the Loan Agreement or if we have not reimbursed any drawing under a letter of credit issued under the Loan Agreement within five business days following the request of the Lender. Proceeds of loans made under the Loan Agreement may be used for working capital and other general corporate purposes. We may prepay the loans under the Loan Agreement in whole or in part at any time without premium or penalty. Certain of our existing and future material domestic subsidiaries are required to guaranty our obligations under the Loan Agreement. (See Note 13 – Debt of Notes to Consolidated Financial Statements for additional details on our revolving line of credit).
-
-
-
-Off-Balance Sheet Arrangements.  We do not have any off-balance sheet debt. At September 30, 2019, we did not have any relationships with any unconsolidated entities or financial partnerships, such as entities often referred to as structured finance entities, which would have been established for the purpose of facilitating off-balance sheet arrangements. As such, we are not exposed to any financing, liquidity, market or credit risk that could arise if we were engaged in such relationships. 
-
-
-
-Prospective Capital Needs. We believe that our existing cash, cash equivalents and short-term investments, together with cash generated from operations as well as from the purchase of common stock through our employee stock purchase plan, will be sufficient to cover our working capital needs, capital expenditures, investment requirements, commitments, payment of dividends to our stockholders and repurchases of our common stock for at least the next 12 months. Additionally, the enactment of the Tax Cuts and Jobs Act allows us to repatriate our foreign cash for domestic needs without additional taxation. We may also seek to pursue additional financing or to raise additional funds by seeking an increase in our unsecured revolving line of credit under our Loan Agreement or selling equity or debt to the public or in private transactions from time to time. If we elect to raise additional funds, we may not be able to obtain such funds on a timely basis or on acceptable terms, if at all. If we raise additional funds by issuing additional equity or convertible debt securities, the ownership percentages of our existing stockholders would be reduced. In addition, the equity or debt securities that we issue may have rights, preferences or privileges senior to those of our common stock.
-
-
-
-
-
+Operating Activities, Cash provided by operating activities is comprised of net income adjusted for certain non-cash items and changes in working capital.
+Cash provided by operating activities for the nine months ended September 30, 2019 decreased by $38 million compared to the same period in 2018.
+This was primarily due to an $10 million decrease in net income adjusted for certain non-cash items, including stock-based compensation, depreciation and amortization, and gain on sale of assets, and $25 million related to unfavorable changes in operating assets and liabilities.
+The changes in operating assets and liabilities primarily related to unfavorable changes in prepaids, taxes, and other liabilities compared to the same period in 2018.
+Investing Activities Cash provided (used in) by investing activities for the nine months ended September 30, 2019 increased by $122 million compared to the, same period in 2018.
+This was primarily attributable to a net sale of short-term investments of $63 million compared to a net purchase of short-term investments of $50 million during the same period in 2018 and proceeds from the sale of the Millennium Property of $32.5 million, partially offset by an increase of $20 million in capital expenditures.
+The net sale of short-term investments was primarily driven by funding needs for our stock repurchase activities during 2019.
+Investing cash outflows related to capitalized software development decreased by $6 million compared to the same period in 2018 due to a decrease in development costs eligible for capitalization related to a recent shift for several of our software projects to a more iterative software development cycle.
+Due to this change in how we develop these software products, we expect the portion of software development expenditures that will be recognized as research and development expenses when incurred, and consequently, classified as operating cash flows, to increase in future periods.
+Financing Activities, Cash used by financing activities increased by $144 million for the nine months ended September 30, 2019 compared to the same period in 2018.
+This was primarily related to an increase of $137 million in cash outflows used to repurchase 3.2 million shares of our common stock and an $8 million increase in cash outflows related to our quarterly dividend partially offset by a $1 million increase in proceeds from issuance of our common stock under our employee stock purchase plan.
+Contractual Cash Obligations.
+Information related to our contractual obligations as of December 31, 2018 can be found in “Management’s Discussion and Analysis of Financial Condition and Results of Operations-Contractual Obligations,” in Part II-Item 7 of our Annual Report on Form 10-K for the fiscal year ended December 31, 2018 filed with the SEC on February 21, 2019 (the “2018 Form 10-K”).
+At September 30, 2019, there were no material changes outside the ordinary course of business to our contractual obligations from those reported in our 2018 Form 10-K. See Note 8 - Leases of Notes to Consolidated Financial Statements for additional information regarding our non-cancellable operating lease obligations as of September 30, 2019.
+Loan Agreement.
+As amended on April 27, 2018, the Loan Agreement provides for (i) a revolving line of credit of $5.0 million, (ii) a letter of credit sublimit under the line of credit of $5.0 million, and (iii) requires us and our subsidiaries to comply with certain of the affirmative and negative covenants under the Loan Agreement only if loans are outstanding under the Loan Agreement or if we have not reimbursed any drawing under a letter of credit issued under the Loan Agreement within five business days following the request of the Lender.
+Proceeds of loans made under the Loan Agreement may be used for working capital and other general corporate purposes.
+We may prepay the loans under the Loan Agreement in whole or in part at any time without premium or penalty.
+Certain of our existing and future material domestic subsidiaries are required to guaranty our obligations under the Loan Agreement.
+(See Note 13 – Debt of Notes to Consolidated Financial Statements for additional details on our revolving line of credit).
+Off-Balance Sheet Arrangements.
+We do not have any off-balance sheet debt.
+At September 30, 2019, we did not have any relationships with any unconsolidated entities or financial partnerships, such as entities often referred to as structured finance entities, which would have been established for the purpose of facilitating off-balance sheet arrangements.
+As such, we are not exposed to any financing, liquidity, market or credit risk that could arise if we were engaged in such relationships.
+Prospective Capital Needs.
+We believe that our existing cash, cash equivalents and short-term investments, together with cash generated from operations as well as from the purchase of common stock through our employee stock purchase plan, will be sufficient to cover our working capital needs, capital expenditures, investment requirements, commitments, payment of dividends to our stockholders and repurchases of our common stock for at least the next 12 months.
+Additionally, the enactment of the Tax Cuts and Jobs Act allows us to repatriate our foreign cash for domestic needs without additional taxation.
+We may also seek to pursue additional financing or to raise additional funds by seeking an increase in our unsecured revolving line of credit under our Loan Agreement or selling equity or debt to the public or in private transactions from time to time.
+If we elect to raise additional funds, we may not be able to obtain such funds on a timely basis or on acceptable terms, if at all.
+If we raise additional funds by issuing additional equity or convertible debt securities, the ownership percentages of our existing stockholders would be reduced.
+In addition, the equity or debt securities that we issue may have rights, preferences or privileges senior to those of our common stock.
 •payment of dividends to our stockholders;
-
-
-
-•repurchases of our common stock; 
-
-
-
+•repurchases of our common stock;
 •required levels of research and development and other operating costs;
-
-
-
-•our business, product, capital expenditure and research and development plans, and product and technology roadmaps; 
-
-
-
-•acquisitions of other businesses, assets, products or technologies; 
-
-
-
+•our business, product, capital expenditure and research and development plans, and product and technology roadmaps;
+•acquisitions of other businesses, assets, products or technologies;
 •the overall levels of sales of our products and gross profit margins;
-
-
-
 •the levels of inventory and accounts receivable that we maintain;
-
-
-
 •general economic and political uncertainty and specific conditions in the markets we address, including any volatility in the industrial economy in the various geographic regions in which we do business;
-
-
-
 •the inability of certain of our customers who depend on credit to have access to their traditional sources of credit to finance the purchase of products from us, which may lead them to reduce their level of purchases or to seek credit or other accommodations from us;
-
-
-
-•capital improvements for facilities; 
-
-
-
-•our relationships with suppliers and customers; and 
-
-
-
-•the level of stock purchases under our employee stock purchase plan. 
-
-
-
-Recently Issued Accounting Pronouncements 
-
-
-
-See Note 1 – Basis of presentation in Notes to Consolidated Financial Statements. 
-
-
-
-
-
-Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
-
-
-
+•capital improvements for facilities;
+•our relationships with suppliers and customers; and
+•the level of stock purchases under our employee stock purchase plan.
+Recently Issued Accounting Pronouncements
+See Note 1 – Basis of presentation in Notes to Consolidated Financial Statements.
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
 The following table provides information as of September 30, 2019 with respect to the shares of our common stock that we repurchased during the third quarter of 2019.
-
-
-
-
-

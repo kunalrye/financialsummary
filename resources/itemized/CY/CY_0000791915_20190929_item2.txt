@@ -1,346 +1,118 @@
-ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
-
-
-
+ITEM 2.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
 The Management’s Discussion and Analysis of Financial Condition and Results of Operations ("MD&A") in this Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, that involve risks and uncertainties, which are discussed in the "Cautionary Note Regarding Forward-Looking Statements" section in Part I of this Quarterly Report on Form 10-Q.
-
-
-
 Overview
-
-
-
-Cypress manufactures and sells advanced embedded system solutions for IoT, automotive, industrial, and consumer applications. Cypress' microcontrollers, analog ICs, wireless and wired connectivity solutions and memories help engineers design differentiated products and help with speed to market. Cypress is committed to providing customers with quality support and engineering resources. 
-
-
-
+Cypress manufactures and sells advanced embedded system solutions for IoT, automotive, industrial, and consumer applications.
+Cypress' microcontrollers, analog ICs, wireless and wired connectivity solutions and memories help engineers design differentiated products and help with speed to market.
+Cypress is committed to providing customers with quality support and engineering resources.
 Proposed Merger
-
-
-
 Refer to Note 2 Merger Agreement of the Notes to Condensed Consolidated Financial Statements in this Quarterly Report for a description of our pending acquisition by Infineon Technologies AG ("Infineon").
-
-
-
 Business Segments
-
-
-
-
-
 Business Segments Description
-
-
-
-Microcontroller and Connectivity Division  MCD focuses on connectivity and computing solutions for the Internet of Things and automotive solutions that enhance the in-cabin user experience. MCD offerings include robust wireless and wired connectivity solutions that combine with flexible, high-performance microcontroller ("MCU") and analog solutions, backed with a focus on superior design software. The portfolio includes Wi-Fi® and Bluetooth® and Bluetooth Low Energy (BLE), and Wi-Fi plus Bluetooth combo solutions; Traveo™ automotive MCUs, PSoC® programmable MCUs and general-purpose MCUs; CapSense® capacitive-sensing controllers and automotive TrueTouch® touchscreen solutions; a broad line of USB controllers, including solutions for the USB-C and USB Power Delivery standards; and analog PMIC Power Management ICs. This division also includes our intellectual property ("IP") business.
-
-
-
-Memory Products Division  MPD focuses on fail-safe storage and datalogging solutions for mission critical applications. The portfolio includes specialized, high-performance parallel and serial NOR flash memories, static random access memories ("SRAM"), F-RAM™ ferroelectric memory devices, nonvolatile SRAMs ("nvSRAM"), nonvolatile DIMM (''NVDIMM"), PowerGEM® energy modules and other specialty memories. 
-
-
-
+Microcontroller and Connectivity Division  MCD focuses on connectivity and computing solutions for the Internet of Things and automotive solutions that enhance the in-cabin user experience.
+MCD offerings include robust wireless and wired connectivity solutions that combine with flexible, high-performance microcontroller ("MCU") and analog solutions, backed with a focus on superior design software.
+The portfolio includes Wi-Fi® and Bluetooth® and Bluetooth Low Energy (BLE), and Wi-Fi plus Bluetooth combo solutions; Traveo™ automotive MCUs, PSoC® programmable MCUs and general-purpose MCUs; CapSense® capacitive-sensing controllers and automotive TrueTouch® touchscreen solutions; a broad line of USB controllers, including solutions for the USB-C and USB Power Delivery standards; and analog PMIC Power Management ICs.
+This division also includes our intellectual property ("IP") business.
+Memory Products Division  MPD focuses on fail-safe storage and datalogging solutions for mission critical applications.
+The portfolio includes specialized, high-performance parallel and serial NOR flash memories, static random access memories ("SRAM"), F-RAM™ ferroelectric memory devices, nonvolatile SRAMs ("nvSRAM"), nonvolatile DIMM (''NVDIMM"), PowerGEM® energy modules and other specialty memories.
 Business Strategy
-
-
-
 Refer to Part I, Item 1 (Business) in our Annual Report on Form 10-K for the year ended December 30, 2018 for a discussion of our strategies.
-
-
-
-As we continue to implement our strategies, there are many internal and external factors that could impact our ability to meet any or all of our objectives. Some of these factors are discussed in Part I, Item 1A (Risk Factors) in our Annual Report on Form 10-K for the year ended December 30, 2018 as well as in Part II, Item 1A (Risk Factors) in this Quarterly Report on Form 10-Q.
-
-
-
-
-
+As we continue to implement our strategies, there are many internal and external factors that could impact our ability to meet any or all of our objectives.
+Some of these factors are discussed in Part I, Item 1A (Risk Factors) in our Annual Report on Form 10-K for the year ended December 30, 2018 as well as in Part II, Item 1A (Risk Factors) in this Quarterly Report on Form 10-Q.
 Results of Operations
-
-
-
 Revenues
-
-
-
-Our total revenue decreased by $98.5 million, or 14.6%, to $574.5 million in the three months ended September 29, 2019 compared to the same period in the prior year. Revenue from the NAND flash business which was divested on April 1, 2019 was $43.3 million in the three months ended September 30, 2018. Excluding the impact of the NAND flash business divestiture, our total revenues decreased by $55.2 million, or 8.8%, for the three months ended September 29, 2019 compared to the same period in the prior year. The decrease was primarily due to demand softening across our NOR flash and microcontroller businesses.
-
-
-
-Our total revenues decreased by $233.6 million, or 12.4%, to $1,645.7 million in the nine months ended September 29, 2019 compared to the same period in the prior year. The decrease was attributable in part to the divestiture of our NAND flash business, which was completed on April 1, 2019. Revenue from the NAND flash business decreased by $106.8 million to $31.1 million in the nine months ended September 29, 2019 compared to the same period in the prior year. The remainder of the decrease was primarily due to demand softening across our NOR flash, microcontroller and wireless connectivity businesses.
-
-
-
-
-
-
-
-
-
-Revenues recorded by MCD decreased by $2.7 million, or 0.6%, in the three months ended September 29, 2019 compared to the same prior year period. The decrease was primarily due to a decline in demand for microcontroller products. 
-
-
-
-Revenues recorded by MCD decreased by $43.3 million, or 3.9%, in the nine months ended September 29, 2019 compared to the same prior year period. The decrease was primarily due to a decline in demand for microcontroller and wireless connectivity products. 
-
-
-
-
-
-Revenues recorded by MPD decreased by $95.8 million, or 36.9%, in the three months ended September 29, 2019 compared to the same prior year period. The decrease was primarily due to the divestiture of our NAND flash business, which was completed on April 1, 2019, and due to a decline in revenue from NOR flash products. Revenue from the divested NAND flash business was $43.3 million in the three months ended September 30, 2018. 
-
-
-
-Revenues recorded by MPD decreased by $190.3 million, or 25.0%, in the nine months ended September 29, 2019 compared to the same prior year period. The decrease was primarily due to a decline in demand for NAND flash and NOR flash products, and the divestiture of our NAND flash business, which was completed on April 1, 2019. Revenue from the NAND flash business decreased by $106.8 million to $31.1 million in the nine months ended September 29, 2019 compared to the same period in the prior year.
-
-
-
-
-
-
-
-
-
-Our gross margin decreased to 37.7% in the three months ended September 29, 2019 from 38.6% in the three months ended September 30, 2018. A primary driver was the decrease in revenue in the third quarter of fiscal 2019 compared to the same period a year ago causing an increase in amortization expense from intangible assets as a percentage of revenue. Amortization of intangible assets included in cost of revenue was $46.9 million or 8.2% of revenues in the third quarter of fiscal 2019 compared to $50.2 million or 7.5% of revenues in the third quarter of fiscal 2018. This impact was partially offset by certain items which improved gross margin recorded in the third quarter of fiscal 2019 compared to same period in 2018. These favorable items included a shift in the product mix toward higher density memory products, a decrease in sales of commoditized products, which was due in part to the divestiture of the NAND business effective the second quarter of fiscal 2019, and a reduction in the cost of certain products. 
-
-
-
-Our gross margin remained relatively flat in the nine months ended September 29, 2019 as compared to the nine months ended September 30, 2018. We experienced a decrease in revenue in the nine months ended September 29, 2019 as compared to the same prior year period causing an increase in amortization expense from intangible assets as a percentage of revenue. Amortization of intangible assets included in cost of revenue was $140.6 million or 8.5% of revenues in the nine months ended September 29, 2019 compared to $146.4 million or 7.8% of revenues in the same prior year period. Gross margin was also unfavorably impacted by a decrease in the sale of inventory that was previously written off or written down for the nine months ended September 29, 2019 as compared to the same prior year period. Gross margins in the nine months ended September 29, 2019 and September 30, 2018 benefited 0.5% and 0.9%, respectively, from the sale of previously reserved inventory. The above unfavorable items impacting gross margin were offset by certain items which improved gross margin. The primary drivers of the offsetting improvements in gross margin were a shift in the product mix toward higher density memory products, a decrease in sales of commoditized products, which was due in part to the divestiture of the NAND business effective the second quarter of fiscal 2019, and a reduction in the cost of certain products. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Our total revenue decreased by $98.5 million, or 14.6%, to $574.5 million in the three months ended September 29, 2019 compared to the same period in the prior year.
+Revenue from the NAND flash business which was divested on April 1, 2019 was $43.3 million in the three months ended September 30, 2018.
+Excluding the impact of the NAND flash business divestiture, our total revenues decreased by $55.2 million, or 8.8%, for the three months ended September 29, 2019 compared to the same period in the prior year.
+The decrease was primarily due to demand softening across our NOR flash and microcontroller businesses.
+Our total revenues decreased by $233.6 million, or 12.4%, to $1,645.7 million in the nine months ended September 29, 2019 compared to the same period in the prior year.
+The decrease was attributable in part to the divestiture of our NAND flash business, which was completed on April 1, 2019.
+Revenue from the NAND flash business decreased by $106.8 million to $31.1 million in the nine months ended September 29, 2019 compared to the same period in the prior year.
+The remainder of the decrease was primarily due to demand softening across our NOR flash, microcontroller and wireless connectivity businesses.
+Revenues recorded by MCD decreased by $2.7 million, or 0.6%, in the three months ended September 29, 2019 compared to the same prior year period.
+The decrease was primarily due to a decline in demand for microcontroller products.
+Revenues recorded by MCD decreased by $43.3 million, or 3.9%, in the nine months ended September 29, 2019 compared to the same prior year period.
+The decrease was primarily due to a decline in demand for microcontroller and wireless connectivity products.
+Revenues recorded by MPD decreased by $95.8 million, or 36.9%, in the three months ended September 29, 2019 compared to the same prior year period.
+The decrease was primarily due to the divestiture of our NAND flash business, which was completed on April 1, 2019, and due to a decline in revenue from NOR flash products.
+Revenue from the divested NAND flash business was $43.3 million in the three months ended September 30, 2018.
+Revenues recorded by MPD decreased by $190.3 million, or 25.0%, in the nine months ended September 29, 2019 compared to the same prior year period.
+The decrease was primarily due to a decline in demand for NAND flash and NOR flash products, and the divestiture of our NAND flash business, which was completed on April 1, 2019.
+Revenue from the NAND flash business decreased by $106.8 million to $31.1 million in the nine months ended September 29, 2019 compared to the same period in the prior year.
+Our gross margin decreased to 37.7% in the three months ended September 29, 2019 from 38.6% in the three months ended September 30, 2018.
+A primary driver was the decrease in revenue in the third quarter of fiscal 2019 compared to the same period a year ago causing an increase in amortization expense from intangible assets as a percentage of revenue.
+Amortization of intangible assets included in cost of revenue was $46.9 million or 8.2% of revenues in the third quarter of fiscal 2019 compared to $50.2 million or 7.5% of revenues in the third quarter of fiscal 2018.
+This impact was partially offset by certain items which improved gross margin recorded in the third quarter of fiscal 2019 compared to same period in 2018.
+These favorable items included a shift in the product mix toward higher density memory products, a decrease in sales of commoditized products, which was due in part to the divestiture of the NAND business effective the second quarter of fiscal 2019, and a reduction in the cost of certain products.
+Our gross margin remained relatively flat in the nine months ended September 29, 2019 as compared to the nine months ended September 30, 2018.
+We experienced a decrease in revenue in the nine months ended September 29, 2019 as compared to the same prior year period causing an increase in amortization expense from intangible assets as a percentage of revenue.
+Amortization of intangible assets included in cost of revenue was $140.6 million or 8.5% of revenues in the nine months ended September 29, 2019 compared to $146.4 million or 7.8% of revenues in the same prior year period.
+Gross margin was also unfavorably impacted by a decrease in the sale of inventory that was previously written off or written down for the nine months ended September 29, 2019 as compared to the same prior year period.
+Gross margins in the nine months ended September 29, 2019 and September 30, 2018 benefited 0.5% and 0.9%, respectively, from the sale of previously reserved inventory.
+The above unfavorable items impacting gross margin were offset by certain items which improved gross margin.
+The primary drivers of the offsetting improvements in gross margin were a shift in the product mix toward higher density memory products, a decrease in sales of commoditized products, which was due in part to the divestiture of the NAND business effective the second quarter of fiscal 2019, and a reduction in the cost of certain products.
 Income Taxes
-
-
-
-
-
 Impairment of Equity-Method Investment in Deca Technologies, Inc.
-
-
-
-In the second quarter of fiscal 2019, we recorded a $29.5 million impairment charge for the equity-method investment in Deca Technologies, Inc. ("Deca"). The carrying value of our investment in Deca was $25.6 million and $65.1 million as of September 29, 2019 and December 30, 2018, respectively. There continues to be a substantial risk that the carrying value of this investment may be further impaired in the future as described in Note 7 Equity-Method Investments of the Notes to Condensed Consolidated Financial Statements and Part II, Item 1A Risk Factors in this Quarterly Report.
-
-
-
+In the second quarter of fiscal 2019, we recorded a $29.5 million impairment charge for the equity-method investment in Deca Technologies, Inc. ("Deca").
+The carrying value of our investment in Deca was $25.6 million and $65.1 million as of September 29, 2019 and December 30, 2018, respectively.
+There continues to be a substantial risk that the carrying value of this investment may be further impaired in the future as described in Note 7 Equity-Method Investments of the Notes to Condensed Consolidated Financial Statements and Part II, Item 1A Risk Factors in this Quarterly Report.
 Liquidity and Capital Resources
-
-
-
-On July 31, 2019, we amended our existing revolving credit facility (the "Revolving Credit Facility") thereby increasing the available amount from $540 million to $700 million and extending its maturity from March 12, 2020 to January 31, 2021. We may, at our sole discretion, extend the maturity for another six months to July 31, 2021. The financial covenants were amended to increase the maximum total leverage ratio from 3.75 to 4.0. Subject to the terms and conditions set forth in the amended Revolving Credit Facility, at the effective time of the Merger, the Merger will trigger the change of control provision of the Revolving Credit Facility causing the debt to become payable immediately. We borrowed $447 million under the amended Revolving Credit Facility and repaid the entire outstanding Term Loan B principal balance of approximately $448 million as of July 31, 2019, resulting in an extinguishment of Term Loan B, which was otherwise scheduled to mature on July 5, 2021. Our Revolving Credit Facility had a balance of $397.0 million as of September 29, 2019. On September 30, 2019, we repaid $50.0 million of the outstanding Revolving Credit Facility. 
-
-
-
-
-
-
-
-
-
+On July 31, 2019, we amended our existing revolving credit facility (the "Revolving Credit Facility") thereby increasing the available amount from $540 million to $700 million and extending its maturity from March 12, 2020 to January 31, 2021.
+We may, at our sole discretion, extend the maturity for another six months to July 31, 2021.
+The financial covenants were amended to increase the maximum total leverage ratio from 3.75 to 4.0.
+Subject to the terms and conditions set forth in the amended Revolving Credit Facility, at the effective time of the Merger, the Merger will trigger the change of control provision of the Revolving Credit Facility causing the debt to become payable immediately.
+We borrowed $447 million under the amended Revolving Credit Facility and repaid the entire outstanding Term Loan B principal balance of approximately $448 million as of July 31, 2019, resulting in an extinguishment of Term Loan B, which was otherwise scheduled to mature on July 5, 2021.
+Our Revolving Credit Facility had a balance of $397.0 million as of September 29, 2019.
+On September 30, 2019, we repaid $50.0 million of the outstanding Revolving Credit Facility.
 Key Components of Cash Flows
-
-
-
-
-
 Operating Activities
-
-
-
-
-
-•depreciation and amortization of $213.6 million; 
-
-
-
+•depreciation and amortization of $213.6 million;
 •stock-based compensation expense of $75.8 million;
-
-
-
 •impairment of investment in Deca of $29.5 million;
-
-
-
-•accretion of interest expense on senior exchangeable notes and amortization of debt and financing costs on other debt of $13.9 million; 
-
-
-
+•accretion of interest expense on senior exchangeable notes and amortization of debt and financing costs on other debt of $13.9 million;
 •loss on extinguishment of debt of $6.4 million;
-
-
-
-•restructuring costs and other adjustments of $4.4 million; and 
-
-
-
+•restructuring costs and other adjustments of $4.4 million; and
 •loss on sale of NAND business to joint venture of $1.7 million.
-
-
-
-
-
 •$53.8 million in operating lease right-of-use assets recorded upon adoption of ASC 842, partially offset by $46.4 million of operating lease liability;
-
-
-
 •an increase in inventories of $32.5 million primarily due to inventory builds to support certain supplier transitions; and
-
-
-
-•a decrease in accounts payable and accrued and other liabilities of $73.0 million mainly due to timing of payments to vendors (days payable outstanding for the nine months ended September 29, 2019 was 54 days as compared to 58 days in the nine months ended September 30, 2018). 
-
-
-
-The increase in operating assets and liabilities was partially offset by an increase of $43.6 million in price adjustments and other revenue reserves for sales to distributors (the "DPA Reserve"). The increase in the DPA Reserve was mainly due to a transition of business between certain distributors in Japan during the third quarter of fiscal 2019. 
-
-
-
+•a decrease in accounts payable and accrued and other liabilities of $73.0 million mainly due to timing of payments to vendors (days payable outstanding for the nine months ended September 29, 2019 was 54 days as compared to 58 days in the nine months ended September 30, 2018).
+The increase in operating assets and liabilities was partially offset by an increase of $43.6 million in price adjustments and other revenue reserves for sales to distributors (the "DPA Reserve").
+The increase in the DPA Reserve was mainly due to a transition of business between certain distributors in Japan during the third quarter of fiscal 2019.
 Investing Activities
-
-
-
-
-
 •property and equipment expenditures of $28.6 million relating to purchases of certain manufacturing facility equipment; and
-
-
-
 •cash paid for equity method investments of $2.4 million.
-
-
-
 These cash outflows were partially offset by $6.6 million in net distributions for the deferred compensation plan and proceeds of $11.1 million from our sale of the NAND business to a joint venture.
-
-
-
-
-
 Financing Activities
-
-
-
-
-
-•payments of $476.3 million on Term Loan B; 
-
-
-
+•payments of $476.3 million on Term Loan B;
 •dividend payments of $120.2 million;
-
-
-
 •payments of $50.0 million on our Revolving Credit Facility;
-
-
-
 •payments of $6.5 million on net shares settlement of restricted stock units; and
-
-
-
 •payments of $1.3 million on finance lease liabilities.
-
-
-
-These payments were partially offset by proceeds of $447.0 million from draws on our Revolving Credit Facility and proceeds of $35.3 million from employee equity awards. 
-
-
-
+These payments were partially offset by proceeds of $447.0 million from draws on our Revolving Credit Facility and proceeds of $35.3 million from employee equity awards.
 Liquidity and Contractual Obligations
-
-
-
 Contractual Obligations
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Capital Resources and Financial Condition
-
-
-
-
-
-As of September 29, 2019, our cash, cash equivalents and short-term investment balance was $343.0 million as compared to $285.7 million as of December 30, 2018. As of September 29, 2019, approximately 10.3% of our cash and cash equivalents were held by our non-U.S. subsidiaries. While these amounts are primarily denominated in U.S. dollars, a portion is denominated in foreign currencies. All non-U.S. cash balances are exposed to local political, banking, currency control, and other risks. In addition, these amounts, if repatriated, may be subject to tax and other transfer restrictions. 
-
-
-
-
-
+As of September 29, 2019, our cash, cash equivalents and short-term investment balance was $343.0 million as compared to $285.7 million as of December 30, 2018.
+As of September 29, 2019, approximately 10.3% of our cash and cash equivalents were held by our non-U.S. subsidiaries.
+While these amounts are primarily denominated in U.S. dollars, a portion is denominated in foreign currencies.
+All non-U.S. cash balances are exposed to local political, banking, currency control, and other risks.
+In addition, these amounts, if repatriated, may be subject to tax and other transfer restrictions.
 Critical Policies and Estimates
-
-
-
-The discussion and analysis of our financial condition and results of operations are based upon our Condensed Consolidated Financial Statements included in this Quarterly Report on Form 10-Q and the data used to prepare them. Our Condensed Consolidated Financial Statements have been prepared in accordance with accounting principles generally accepted in the United States and we are required to make estimates, judgments and assumptions in the course of such preparation. Note 1 of the Notes to Condensed Consolidated Financial Statements under Part I, Item 1 describes the significant accounting policies and methods used in the preparation of the consolidated financial statements. On an ongoing basis, we re-evaluate our judgments and estimates including those related to revenue recognition, allowances for doubtful accounts receivable, inventory valuation, valuation of long-lived assets, goodwill and financial instruments, stock-based compensation, settlement costs, and income taxes. We base our estimates and judgments on historical experience, knowledge of current conditions and our beliefs of what could occur in the future considering available information. Actual results may differ from these estimates under different assumptions or conditions.
-
-
-
-
-
-•Estimation of price adjustment reserves related to sales to distributors which impacts revenue 
-
-
-
+The discussion and analysis of our financial condition and results of operations are based upon our Condensed Consolidated Financial Statements included in this Quarterly Report on Form 10-Q and the data used to prepare them.
+Our Condensed Consolidated Financial Statements have been prepared in accordance with accounting principles generally accepted in the United States and we are required to make estimates, judgments and assumptions in the course of such preparation.
+Note 1 of the Notes to Condensed Consolidated Financial Statements under Part I, Item 1 describes the significant accounting policies and methods used in the preparation of the consolidated financial statements.
+On an ongoing basis, we re-evaluate our judgments and estimates including those related to revenue recognition, allowances for doubtful accounts receivable, inventory valuation, valuation of long-lived assets, goodwill and financial instruments, stock-based compensation, settlement costs, and income taxes.
+We base our estimates and judgments on historical experience, knowledge of current conditions and our beliefs of what could occur in the future considering available information.
+Actual results may differ from these estimates under different assumptions or conditions.
+•Estimation of price adjustment reserves related to sales to distributors which impacts revenue
 recognition;
-
-
-
 •Assessment of excess and obsolete inventory which impacts valuation of inventories;
-
-
-
 •Estimation of fair value of investments in equity interests;
-
-
-
 •Valuation of certain awards that contain market based vesting condition which impacts our share-based compensation expense;
-
-
-
 •Actuarial valuation of certain defined benefit plans; and
-
-
-
 •Estimation of exposure related to uncertain tax positions which impacts our accounting for income taxes.
-
-
-
-As discussed in Note 1, we adopted ASC Topic 842 on December 31, 2018. There have been no other changes to our critical accounting policies and estimates since the filing of our Annual Report on Form 10-K for the year ended December 30, 2018.
-
-
-
-ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
-
-
-
+As discussed in Note 1, we adopted ASC Topic 842 on December 31, 2018.
+There have been no other changes to our critical accounting policies and estimates since the filing of our Annual Report on Form 10-K for the year ended December 30, 2018.
+ITEM 2.
+UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
 None.
-
-
-

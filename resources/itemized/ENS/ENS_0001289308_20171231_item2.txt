@@ -1,610 +1,234 @@
 ITEM 2.MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
-
-
-
 CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
-
-
-
-The Private Securities Litigation Reform Act of 1995 (the “Reform Act”) provides a safe harbor for forward-looking statements made by or on behalf of EnerSys. EnerSys and its representatives may, from time to time, make written or verbal forward-looking statements, including statements contained in EnerSys’ filings with the Securities and Exchange Commission and its reports to stockholders. Generally, the inclusion of the words “anticipate,” “believe,” “expect,” “future,” “intend,” “estimate,” “will,” “plans,” or the negative of such terms and similar expressions identify statements that constitute “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934 and that are intended to come within the safe harbor protection provided by those sections. All statements addressing operating performance, events, or developments that EnerSys expects or anticipates will occur in the future, including statements relating to sales growth, earnings or earnings per share growth, and market share, as well as statements expressing optimism or pessimism about future operating results, are forward-looking statements within the meaning of the Reform Act. The forward-looking statements are and will be based on management’s then-current beliefs and assumptions regarding future events and operating performance and on information currently available to management, and are applicable only as of the dates of such statements.
-
-
-
-Forward-looking statements involve risks, uncertainties and assumptions. Although we do not make forward-looking statements unless we believe we have a reasonable basis for doing so, we cannot guarantee their accuracy. Actual results may differ materially from those expressed in these forward-looking statements due to a number of uncertainties and risks, including the risks described in the Company’s 2017 Annual Report on Form 10-K (the "2017 Annual Report") and other unforeseen risks. You should not put undue reliance on any forward-looking statements. These statements speak only as of the date of this Quarterly Report on Form 10-Q, even if subsequently made available by us on our website or otherwise, and we undertake no obligation to update or revise these statements to reflect events or circumstances occurring after the date of this Quarterly Report on Form 10-Q.
-
-
-
+The Private Securities Litigation Reform Act of 1995 (the “Reform Act”) provides a safe harbor for forward-looking statements made by or on behalf of EnerSys.
+EnerSys and its representatives may, from time to time, make written or verbal forward-looking statements, including statements contained in EnerSys’ filings with the Securities and Exchange Commission and its reports to stockholders.
+Generally, the inclusion of the words “anticipate,” “believe,” “expect,” “future,” “intend,” “estimate,” “will,” “plans,” or the negative of such terms and similar expressions identify statements that constitute “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934 and that are intended to come within the safe harbor protection provided by those sections.
+All statements addressing operating performance, events, or developments that EnerSys expects or anticipates will occur in the future, including statements relating to sales growth, earnings or earnings per share growth, and market share, as well as statements expressing optimism or pessimism about future operating results, are forward-looking statements within the meaning of the Reform Act.
+The forward-looking statements are and will be based on management’s then-current beliefs and assumptions regarding future events and operating performance and on information currently available to management, and are applicable only as of the dates of such statements.
+Forward-looking statements involve risks, uncertainties and assumptions.
+Although we do not make forward-looking statements unless we believe we have a reasonable basis for doing so, we cannot guarantee their accuracy.
+Actual results may differ materially from those expressed in these forward-looking statements due to a number of uncertainties and risks, including the risks described in the Company’s 2017 Annual Report on Form 10-K (the "2017 Annual Report") and other unforeseen risks.
+You should not put undue reliance on any forward-looking statements.
+These statements speak only as of the date of this Quarterly Report on Form 10-Q, even if subsequently made available by us on our website or otherwise, and we undertake no obligation to update or revise these statements to reflect events or circumstances occurring after the date of this Quarterly Report on Form 10-Q.
 Our actual results may differ materially from those contemplated by the forward-looking statements for a number of reasons, including the following factors:
-
-
-
 •general cyclical patterns of the industries in which our customers operate;
-
-
-
 •the extent to which we cannot control our fixed and variable costs;
-
-
-
 •the raw materials in our products may experience significant fluctuations in market price and availability;
-
-
-
 •certain raw materials constitute hazardous materials that may give rise to costly environmental and safety claims;
-
-
-
 •legislation regarding the restriction of the use of certain hazardous substances in our products;
-
-
-
 •risks involved in our operations such as disruption of markets, changes in import and export laws, environmental regulations, currency restrictions and local currency exchange rate fluctuations;
-
-
-
 •our ability to raise our selling prices to our customers when our product costs increase;
-
-
-
 •the extent to which we are able to efficiently utilize our global manufacturing facilities and optimize our capacity;
-
-
-
 •general economic conditions in the markets in which we operate;
-
-
-
 •competitiveness of the battery markets and other energy solutions for industrial applications throughout the world;
-
-
-
 •our timely development of competitive new products and product enhancements in a changing environment and the acceptance of such products and product enhancements by customers;
-
-
-
 •our ability to adequately protect our proprietary intellectual property, technology and brand names;
-
-
-
 •litigation and regulatory proceedings to which we might be subject;
-
-
-
 •our expectations concerning indemnification obligations;
-
-
-
 •changes in our market share in the geographic business segments where we operate;
-
-
-
 •our ability to implement our cost reduction initiatives successfully and improve our profitability;
-
-
-
 •quality problems associated with our products;
-
-
-
 •our ability to implement business strategies, including our acquisition strategy, manufacturing expansion and restructuring plans;
-
-
-
 •our acquisition strategy may not be successful in locating advantageous targets;
-
-
-
 •our ability to successfully integrate any assets, liabilities, customers, systems and management personnel we acquire into our operations and our ability to realize related revenue synergies and cost savings within expected time frames;
-
-
-
 •potential goodwill impairment charges, future impairment charges and fluctuations in the fair values of reporting units or of assets in the event projected financial results are not achieved within expected time frames;
-
-
-
 •our debt and debt service requirements which may restrict our operational and financial flexibility, as well as imposing unfavorable interest and financing costs;
-
-
-
 •our ability to maintain our existing credit facilities or obtain satisfactory new credit facilities;
-
-
-
 •adverse changes in our short and long-term debt levels under our credit facilities;
-
-
-
 •our exposure to fluctuations in interest rates on our variable-rate debt;
-
-
-
 •our ability to attract and retain qualified management and personnel;
-
-
-
 •our ability to maintain good relations with labor unions;
-
-
-
 •credit risk associated with our customers, including risk of insolvency and bankruptcy;
-
-
-
 •our ability to successfully recover in the event of a disaster affecting our infrastructure;
-
-
-
 •terrorist acts or acts of war, could cause damage or disruption to our operations, our suppliers, channels to market or customers, or could cause costs to increase, or create political or economic instability; and
-
-
-
 •the operation, capacity and security of our information systems and infrastructure.
-
-
-
-This list of factors that may affect future performance is illustrative, but by no means exhaustive. Accordingly, all forward-looking statements should be evaluated with the understanding of their inherent uncertainty.
-
-
-
-In the following discussion and analysis of results of operations and financial condition, certain financial measures may be considered “non-GAAP financial measures” under Securities and Exchange Commission rules. These rules require supplemental explanation and reconciliation, which is provided in this Quarterly Report on Form 10-Q. EnerSys’ management uses the non-GAAP measures “primary working capital” and “primary working capital percentage” in its evaluation of business segment cash flow and financial position performance. These disclosures have limitations as an analytical tool, should not be viewed as a substitute for cash flow determined in accordance with GAAP, and should not be considered in isolation or as a substitute for analysis of the Company’s results as reported under GAAP, nor are they necessarily comparable to non-GAAP performance measures that may be presented by other companies. Management believes that this non-GAAP supplemental information is helpful in understanding the Company’s ongoing operating results.
-
-
-
+This list of factors that may affect future performance is illustrative, but by no means exhaustive.
+Accordingly, all forward-looking statements should be evaluated with the understanding of their inherent uncertainty.
+In the following discussion and analysis of results of operations and financial condition, certain financial measures may be considered “non-GAAP financial measures” under Securities and Exchange Commission rules.
+These rules require supplemental explanation and reconciliation, which is provided in this Quarterly Report on Form 10-Q.
+EnerSys’ management uses the non-GAAP measures “primary working capital” and “primary working capital percentage” in its evaluation of business segment cash flow and financial position performance.
+These disclosures have limitations as an analytical tool, should not be viewed as a substitute for cash flow determined in accordance with GAAP, and should not be considered in isolation or as a substitute for analysis of the Company’s results as reported under GAAP, nor are they necessarily comparable to non-GAAP performance measures that may be presented by other companies.
+Management believes that this non-GAAP supplemental information is helpful in understanding the Company’s ongoing operating results.
 Overview
-
-
-
-EnerSys (the “Company,” “we,” or “us”) is the world’s largest manufacturer, marketer and distributor of industrial batteries. We also manufacture, market and distribute products such as battery chargers, power equipment, battery accessories, and outdoor cabinet enclosures. Additionally, we provide related aftermarket and customer-support services for our products. We market our products globally to over 10,000 customers in more than 100 countries through a network of distributors, independent representatives and our internal sales force.
-
-
-
-
-
+EnerSys (the “Company,” “we,” or “us”) is the world’s largest manufacturer, marketer and distributor of industrial batteries.
+We also manufacture, market and distribute products such as battery chargers, power equipment, battery accessories, and outdoor cabinet enclosures.
+Additionally, we provide related aftermarket and customer-support services for our products.
+We market our products globally to over 10,000 customers in more than 100 countries through a network of distributors, independent representatives and our internal sales force.
 •Americas, which includes North and South America, with our segment headquarters in Reading, Pennsylvania, USA;
-
-
-
 •EMEA, which includes Europe, the Middle East and Africa, with our segment headquarters in Zug, Switzerland; and
-
-
-
 •Asia, which includes Asia, Australia and Oceania, with our segment headquarters in Singapore.
-
-
-
-
-
-•Reserve power products are used for backup power for the continuous operation of critical applications in telecommunications systems, uninterruptible power systems, or “UPS” applications for computer and computer-controlled systems, and other specialty power applications, including medical and security systems, premium starting, lighting and ignition applications, in switchgear, electrical control systems used in electric utilities, large-scale energy storage, energy pipelines, in commercial aircraft, satellites, military aircraft, submarines, ships and tactical vehicles. Reserve power products also include thermally managed cabinets and enclosures for electronic equipment and batteries.
-
-
-
-•Motive power products are used to provide power for electric industrial forklifts used in manufacturing, warehousing and other material handling applications as well as mining equipment, diesel locomotive starting and other rail equipment. 
-
-
-
+•Reserve power products are used for backup power for the continuous operation of critical applications in telecommunications systems, uninterruptible power systems, or “UPS” applications for computer and computer-controlled systems, and other specialty power applications, including medical and security systems, premium starting, lighting and ignition applications, in switchgear, electrical control systems used in electric utilities, large-scale energy storage, energy pipelines, in commercial aircraft, satellites, military aircraft, submarines, ships and tactical vehicles.
+Reserve power products also include thermally managed cabinets and enclosures for electronic equipment and batteries.
+•Motive power products are used to provide power for electric industrial forklifts used in manufacturing, warehousing and other material handling applications as well as mining equipment, diesel locomotive starting and other rail equipment.
 Economic Climate
-
-
-
-Recent indicators continue to suggest a mixed trend in economic activity among the different geographical regions. North America and EMEA are experiencing moderate economic growth. Our Asia region continues to grow faster than any other region in which we do business.
-
-
-
+Recent indicators continue to suggest a mixed trend in economic activity among the different geographical regions.
+North America and EMEA are experiencing moderate economic growth.
+Our Asia region continues to grow faster than any other region in which we do business.
 Volatility of Commodities and Foreign Currencies
-
-
-
-Our most significant commodity and foreign currency exposures are related to lead and the Euro, respectively. Historically, volatility of commodity costs and foreign currency exchange rates have caused large swings in our production costs. As the global economic climate changes, we anticipate that our commodity costs and foreign currency exposures may continue to fluctuate as they have in the past several years. Over the past year, on a consolidated basis, we have experienced rising commodity costs. 
-
-
-
+Our most significant commodity and foreign currency exposures are related to lead and the Euro, respectively.
+Historically, volatility of commodity costs and foreign currency exchange rates have caused large swings in our production costs.
+As the global economic climate changes, we anticipate that our commodity costs and foreign currency exposures may continue to fluctuate as they have in the past several years.
+Over the past year, on a consolidated basis, we have experienced rising commodity costs.
 Customer Pricing
-
-
-
-Our selling prices fluctuated during the last several years to offset the volatile cost of commodities. Approximately 30% of our revenue is currently subject to agreements that adjust pricing to a market-based index for lead. During the nine months of fiscal 2018, we increased our selling prices in response to increased commodity costs.
-
-
-
+Our selling prices fluctuated during the last several years to offset the volatile cost of commodities.
+Approximately 30% of our revenue is currently subject to agreements that adjust pricing to a market-based index for lead.
+During the nine months of fiscal 2018, we increased our selling prices in response to increased commodity costs.
 Liquidity and Capital Resources
-
-
-
 We believe that our financial position is strong, and we have substantial liquidity with $571 million of available cash and cash equivalents and available and undrawn credit lines of approximately $504 million at December 31, 2017 to cover short-term liquidity requirements and anticipated growth in the foreseeable future.
-
-
-
-In the second quarter of fiscal 2018, we entered into a new credit facility (“2017 Credit Facility”) that comprises a $600 million senior secured revolving credit facility (“2017 Revolver”) and a $150 million senior secured term loan (“2017 Term Loan”) with a maturity date of September 30, 2022. We repaid the existing facility (“2011 Credit Facility”), which comprised a $500 million senior secured revolving credit facility (“2011 Revolver”) and a $150 million senior secured incremental term loan (the “2011 Term Loan”) with the proceeds of the new facility. We believe that the 2017 Credit Facility provides us with sufficient liquidity to fund acquisitions and stock repurchase programs.
-
-
-
-In the nine months of fiscal 2018, we repurchased $121 million of treasury stock through an accelerated share repurchase (“ASR”) agreement with a major financial institution and through open market purchases. Share repurchases and a decline in our share price helped offset the dilutive impact of stock awards in the nine months of fiscal 2018. 
-
-
-
-A substantial majority of the Company’s cash and investments are held by foreign subsidiaries and are considered to be indefinitely reinvested and expected to be utilized to fund local operating activities, capital expenditure requirements and acquisitions. The Company believes that it has sufficient sources of domestic and foreign liquidity.
-
-
-
+In the second quarter of fiscal 2018, we entered into a new credit facility (“2017 Credit Facility”) that comprises a $600 million senior secured revolving credit facility (“2017 Revolver”) and a $150 million senior secured term loan (“2017 Term Loan”) with a maturity date of September 30, 2022.
+We repaid the existing facility (“2011 Credit Facility”), which comprised a $500 million senior secured revolving credit facility (“2011 Revolver”) and a $150 million senior secured incremental term loan (the “2011 Term Loan”) with the proceeds of the new facility.
+We believe that the 2017 Credit Facility provides us with sufficient liquidity to fund acquisitions and stock repurchase programs.
+In the nine months of fiscal 2018, we repurchased $121 million of treasury stock through an accelerated share repurchase (“ASR”) agreement with a major financial institution and through open market purchases.
+Share repurchases and a decline in our share price helped offset the dilutive impact of stock awards in the nine months of fiscal 2018.
+A substantial majority of the Company’s cash and investments are held by foreign subsidiaries and are considered to be indefinitely reinvested and expected to be utilized to fund local operating activities, capital expenditure requirements and acquisitions.
+The Company believes that it has sufficient sources of domestic and foreign liquidity.
 We believe that our strong capital structure and liquidity affords us access to capital for future acquisition and stock repurchase opportunities and continued dividend payments.
-
-
-
 Results of Operations
-
-
-
 Net Sales
-
-
-
 Segment sales
-
-
-
-
-
-
-
-Net sales increased $95.2 million or 16.9% in the third quarter of fiscal 2018 as compared to the third quarter of fiscal 2017. This increase was the result of an 8% increase in organic volume, a 5% increase in foreign currency translation impact and a 4% increase in pricing. 
-
-
-
-Net sales increased $158.5 million or 9.1% in the nine months of fiscal 2018 from the comparable period in fiscal 2017. This increase was the result of a 4% increase in pricing, a 3% increase in organic volume and a 2% increase in foreign currency translation impact. 
-
-
-
-The Americas segment’s net sales increased $39.2 million or 12.5% in the third quarter of fiscal 2018 as compared to the third quarter of fiscal 2017, primarily due to a 9% increase in organic volume and a 3% increase in pricing. Net sales increased $80.8 million or 8.3% in the nine months of fiscal 2018, as compared to the nine months of fiscal 2017, primarily due to a 5% increase in organic volume and a 3% increase in pricing.
-
-
-
-The EMEA segment’s net sales increased $38.8 million or 20.9% in the third quarter of fiscal 2018 as compared to the third quarter of fiscal 2017, primarily due to a 13% increase due to foreign currency translation impact, a 5% increase in pricing and a 3% increase in organic volume. Net sales increased $58.1 million or 10.3% in the nine months of fiscal 2018, as compared to the nine months of fiscal 2017, primarily due to a 5% increase each in pricing and foreign currency translation impact.
-
-
-
-The Asia segment’s net sales increased $17.2 million or 26.9% in the third quarter of fiscal 2018 as compared to the third quarter of fiscal 2017, primarily due to a 17% increase in organic volume and a 5% increase each in pricing and foreign currency translation impact. Net sales increased $19.6 million or 9.4% in the nine months of fiscal 2018, as compared to the nine months of fiscal 2017, primarily due to a 4% increase each in pricing and organic volume and a 1% increase due to foreign currency translation impact.
-
-
-
+Net sales increased $95.2 million or 16.9% in the third quarter of fiscal 2018 as compared to the third quarter of fiscal 2017.
+This increase was the result of an 8% increase in organic volume, a 5% increase in foreign currency translation impact and a 4% increase in pricing.
+Net sales increased $158.5 million or 9.1% in the nine months of fiscal 2018 from the comparable period in fiscal 2017.
+This increase was the result of a 4% increase in pricing, a 3% increase in organic volume and a 2% increase in foreign currency translation impact.
+The Americas segment’s net sales increased $39.2 million or 12.5% in the third quarter of fiscal 2018 as compared to the third quarter of fiscal 2017, primarily due to a 9% increase in organic volume and a 3% increase in pricing.
+Net sales increased $80.8 million or 8.3% in the nine months of fiscal 2018, as compared to the nine months of fiscal 2017, primarily due to a 5% increase in organic volume and a 3% increase in pricing.
+The EMEA segment’s net sales increased $38.8 million or 20.9% in the third quarter of fiscal 2018 as compared to the third quarter of fiscal 2017, primarily due to a 13% increase due to foreign currency translation impact, a 5% increase in pricing and a 3% increase in organic volume.
+Net sales increased $58.1 million or 10.3% in the nine months of fiscal 2018, as compared to the nine months of fiscal 2017, primarily due to a 5% increase each in pricing and foreign currency translation impact.
+The Asia segment’s net sales increased $17.2 million or 26.9% in the third quarter of fiscal 2018 as compared to the third quarter of fiscal 2017, primarily due to a 17% increase in organic volume and a 5% increase each in pricing and foreign currency translation impact.
+Net sales increased $19.6 million or 9.4% in the nine months of fiscal 2018, as compared to the nine months of fiscal 2017, primarily due to a 4% increase each in pricing and organic volume and a 1% increase due to foreign currency translation impact.
 Product line sales
-
-
-
-
-
-
-
-Net sales of our reserve power products in the third quarter of fiscal 2018 increased $55.7 million or 20.5% compared to the third quarter of fiscal 2017. The increase was primarily due to a 11% increase in organic volume and a 5% increase each in pricing and foreign currency translation impact. Net sales of our reserve power products in the nine months of fiscal 2018 increased $79.7 million or 9.4% compared to the nine months of fiscal 2017, primarily due to a 4% increase each in organic volume and pricing and a 1% increase due to foreign currency translation impact. 
-
-
-
-Net sales of our motive power products in the third quarter of fiscal 2018 increased by $39.5 million or 13.5% compared to the third quarter of fiscal 2017. The increase was primarily due to a 5% increase each in organic volume and foreign currency translation impact and a 4% increase in pricing. Net sales of our motive power products in the nine months of fiscal 2018 increased $78.8 million or 8.8% compared to the nine months of fiscal 2017. The increase was primarily due to a 4% increase in pricing, a 3% increase due to organic volume and a 2% increase due to foreign currency translation impact. 
-
-
-
-Gross Profit 
-
-
-
-
-
-
-
-Gross profit increased $11.0 million or 7.1% in the third quarter and $6.4 million or 1.3% in the nine months of fiscal 2018 compared to comparable prior year periods of fiscal 2017. Gross profit, as a percentage of net sales, decreased 240 basis points and 200 basis points in the third quarter and nine months of fiscal 2018 as compared to the third quarter and nine months of fiscal 2017, respectively. The decrease in the gross profit margin in both the third quarter and nine months is primarily due to an increase in commodity costs of approximately $34 million and $102 million, respectively, partially offset by an increase in organic volume and pricing.
-
-
-
-Operating Items 
-
-
-
-
-
-
-
+Net sales of our reserve power products in the third quarter of fiscal 2018 increased $55.7 million or 20.5% compared to the third quarter of fiscal 2017.
+The increase was primarily due to a 11% increase in organic volume and a 5% increase each in pricing and foreign currency translation impact.
+Net sales of our reserve power products in the nine months of fiscal 2018 increased $79.7 million or 9.4% compared to the nine months of fiscal 2017, primarily due to a 4% increase each in organic volume and pricing and a 1% increase due to foreign currency translation impact.
+Net sales of our motive power products in the third quarter of fiscal 2018 increased by $39.5 million or 13.5% compared to the third quarter of fiscal 2017.
+The increase was primarily due to a 5% increase each in organic volume and foreign currency translation impact and a 4% increase in pricing.
+Net sales of our motive power products in the nine months of fiscal 2018 increased $78.8 million or 8.8% compared to the nine months of fiscal 2017.
+The increase was primarily due to a 4% increase in pricing, a 3% increase due to organic volume and a 2% increase due to foreign currency translation impact.
+Gross Profit
+Gross profit increased $11.0 million or 7.1% in the third quarter and $6.4 million or 1.3% in the nine months of fiscal 2018 compared to comparable prior year periods of fiscal 2017.
+Gross profit, as a percentage of net sales, decreased 240 basis points and 200 basis points in the third quarter and nine months of fiscal 2018 as compared to the third quarter and nine months of fiscal 2017, respectively.
+The decrease in the gross profit margin in both the third quarter and nine months is primarily due to an increase in commodity costs of approximately $34 million and $102 million, respectively, partially offset by an increase in organic volume and pricing.
+Operating Items
 NM = not meaningful
-
-
-
-Operating expenses for the third quarter of fiscal 2018, increased $11.7 million but decreased as a percentage of net sales by 40 basis points. The impact of foreign currency translation resulted in an increase of $2.4 million. Excluding this impact of the foreign currency translation, the increase in dollars was primarily due to payroll related expenses and our investment relating to the development of our digital core and new products, which were partially offset by our cost saving initiatives. 
-
-
-
-Operating expenses for the nine months of fiscal 2018 increased $6.0 million but decreased as a percentage of net sales by 100 basis points. The impact of foreign currency translation resulted in an increase of $2.8 million. Excluding this impact of the foreign currency translation, the increase in dollars was primarily due to the aforementioned investment in our digital core and new products, partially offset by cost saving initiatives.
-
-
-
+Operating expenses for the third quarter of fiscal 2018, increased $11.7 million but decreased as a percentage of net sales by 40 basis points.
+The impact of foreign currency translation resulted in an increase of $2.4 million.
+Excluding this impact of the foreign currency translation, the increase in dollars was primarily due to payroll related expenses and our investment relating to the development of our digital core and new products, which were partially offset by our cost saving initiatives.
+Operating expenses for the nine months of fiscal 2018 increased $6.0 million but decreased as a percentage of net sales by 100 basis points.
+The impact of foreign currency translation resulted in an increase of $2.8 million.
+Excluding this impact of the foreign currency translation, the increase in dollars was primarily due to the aforementioned investment in our digital core and new products, partially offset by cost saving initiatives.
 Selling expenses, our main component of operating expenses, were 51.9% and 52.4% of total operating expenses in the third quarter and nine months of fiscal 2018, respectively, compared to 56.9% and 54.5% of total operating expenses in the third quarter and nine months of fiscal 2017, respectively.
-
-
-
 Restructuring Charges
-
-
-
-Included in our third quarter of fiscal 2018 operating results are restructuring charges of $1.0 million in the Americas and $0.8 million in EMEA. The charges in the Americas relate to improving efficiencies of our general operations, while charges in EMEA relate to restructuring programs to improve efficiencies in our motive power production, supply chain and general operations. 
-
-
-
-Included in our third quarter of fiscal 2017 operating results is a credit of $1.2 million relating to restructuring and other exit charges in EMEA consisting of cash charges of $0.5 million primarily relating to severance and a credit of $1.7 million relating to South Africa joint venture exit activities. In addition, cost of goods sold also includes a $0.5 million credit of inventory adjustment relating to the South Africa joint venture. Included in our nine months of fiscal 2017 operating results is a $5.0 million charge consisting of restructuring and other exit charges in EMEA of $3.7 million, restructuring charges of $0.9 million in the Americas and $0.4 million in Asia. Of the restructuring and exit charges in EMEA of $3.7 million, $2.5 million of restructuring charges related to European manufacturing operations and $1.2 million of exit charges related to our joint venture in South Africa. In addition, cost of goods sold also includes a $2.1 million inventory adjustment charge relating to the South Africa joint venture. 
-
-
-
-Fiscal 2017 - Legal Proceedings Charge 
-
-
-
-In connection with previously disclosed matters involving European anticompetition authorities, included in the operating results for the third quarter and nine months of fiscal 2017 were $17.0 million of charges involving the German competition authority. In July 2017, we paid a fine of $14.8 million relating to conduct involving our motive power business. We are currently appealing the German competition authority’s fining decision related to our reserve power battery business. For more detailed information, see Note 7 to the Consolidated Condensed Financial Statements.
-
-
-
+Included in our third quarter of fiscal 2018 operating results are restructuring charges of $1.0 million in the Americas and $0.8 million in EMEA.
+The charges in the Americas relate to improving efficiencies of our general operations, while charges in EMEA relate to restructuring programs to improve efficiencies in our motive power production, supply chain and general operations.
+Included in our third quarter of fiscal 2017 operating results is a credit of $1.2 million relating to restructuring and other exit charges in EMEA consisting of cash charges of $0.5 million primarily relating to severance and a credit of $1.7 million relating to South Africa joint venture exit activities.
+In addition, cost of goods sold also includes a $0.5 million credit of inventory adjustment relating to the South Africa joint venture.
+Included in our nine months of fiscal 2017 operating results is a $5.0 million charge consisting of restructuring and other exit charges in EMEA of $3.7 million, restructuring charges of $0.9 million in the Americas and $0.4 million in Asia.
+Of the restructuring and exit charges in EMEA of $3.7 million, $2.5 million of restructuring charges related to European manufacturing operations and $1.2 million of exit charges related to our joint venture in South Africa.
+In addition, cost of goods sold also includes a $2.1 million inventory adjustment charge relating to the South Africa joint venture.
+Fiscal 2017 - Legal Proceedings Charge
+In connection with previously disclosed matters involving European anticompetition authorities, included in the operating results for the third quarter and nine months of fiscal 2017 were $17.0 million of charges involving the German competition authority.
+In July 2017, we paid a fine of $14.8 million relating to conduct involving our motive power business.
+We are currently appealing the German competition authority’s fining decision related to our reserve power battery business.
+For more detailed information, see Note 7 to the Consolidated Condensed Financial Statements.
 Operating Earnings
-
-
-
-
-
-
-
 NM = not meaningful
-
-
-
-
-
-
-
 NM = not meaningful
-
-
-
-Operating earnings increased $13.3 million or 24.4% and increased $18.0 million or 9.8% in the third quarter and nine months of fiscal 2018, respectively, compared to the third quarter and nine months of fiscal 2017. Operating earnings, as a percentage of net sales, increased 60 basis points and 10 basis points, in the third quarter and nine months of fiscal 2018, respectively, compared to the third quarter and nine months of fiscal 2017. Excluding the impact of the $6.3 million write-off of previously capitalized costs relating to the ERP system implementation in our Americas region during the first quarter of fiscal 2017, operating earnings in the current nine months decreased 30 basis points due to an increase in lead cost, partially offset by price recoveries and cost saving initiatives. 
-
-
-
-The Americas segment's operating earnings, excluding restructuring charges, decreased 240 basis points and 100 basis points, in the third quarter and nine months of fiscal 2018, respectively, when compared to the third quarter and nine months of fiscal 2017, primarily due to higher commodity costs partially offset by price recoveries and cost saving initiatives. Excluding the impact of the $6.3 million write-off of previously capitalized costs relating to the ERP system implementation during the nine months of fiscal 2017, operating earnings in the nine months of fiscal 2018 decreased by 160 basis points compared to the prior year period.
-
-
-
-The EMEA segment's operating earnings, excluding restructuring charges and legal proceedings charge discussed above, decreased 40 and 140 basis points in the third quarter and nine months of fiscal 2018, respectively, compared to the third quarter and nine months of fiscal 2017, primarily due to an increase in lead cost, partially offset by price recoveries and cost saving initiatives. 
-
-
-
+Operating earnings increased $13.3 million or 24.4% and increased $18.0 million or 9.8% in the third quarter and nine months of fiscal 2018, respectively, compared to the third quarter and nine months of fiscal 2017.
+Operating earnings, as a percentage of net sales, increased 60 basis points and 10 basis points, in the third quarter and nine months of fiscal 2018, respectively, compared to the third quarter and nine months of fiscal 2017.
+Excluding the impact of the $6.3 million write-off of previously capitalized costs relating to the ERP system implementation in our Americas region during the first quarter of fiscal 2017, operating earnings in the current nine months decreased 30 basis points due to an increase in lead cost, partially offset by price recoveries and cost saving initiatives.
+The Americas segment's operating earnings, excluding restructuring charges, decreased 240 basis points and 100 basis points, in the third quarter and nine months of fiscal 2018, respectively, when compared to the third quarter and nine months of fiscal 2017, primarily due to higher commodity costs partially offset by price recoveries and cost saving initiatives.
+Excluding the impact of the $6.3 million write-off of previously capitalized costs relating to the ERP system implementation during the nine months of fiscal 2017, operating earnings in the nine months of fiscal 2018 decreased by 160 basis points compared to the prior year period.
+The EMEA segment's operating earnings, excluding restructuring charges and legal proceedings charge discussed above, decreased 40 and 140 basis points in the third quarter and nine months of fiscal 2018, respectively, compared to the third quarter and nine months of fiscal 2017, primarily due to an increase in lead cost, partially offset by price recoveries and cost saving initiatives.
 Operating earnings decreased 220 basis points and 90 basis points in the Asia segment in the third quarter and nine months of fiscal 2018, respectively, compared to the third quarter and nine months of fiscal 2017 primarily due to higher commodity costs, partially offset by price recoveries and a slow down in telecom spending during the first half of fiscal 2018 in the People's Republic of China.
-
-
-
 Interest Expense
-
-
-
-
-
-
-
-Interest expense of $6.5 million in the third quarter of fiscal 2018 (net of interest income of $0.8 million) was $0.9 million higher than the interest expense of $5.6 million in the third quarter of fiscal 2017 (net of interest income of $0.5 million). Interest expense of $18.7 million in the nine months of fiscal 2018 (net of interest income of $2.2 million) was $1.9 million higher than the interest expense of $16.8 million in the nine months of fiscal 2017 (net of interest income of $1.3 million). 
-
-
-
-The increase in interest expense in both the third quarter and nine months of fiscal 2018 is primarily due to higher average debt outstanding. Our average debt outstanding was $727.1 million and $674.2 million in the third quarter and nine months of fiscal 2018, respectively, compared to $626.4 million and $629.2 million in the third quarter and nine months of fiscal 2017, respectively. The increase in our average debt was primarily to fund treasury repurchase activity as discussed in Note 12 to the Consolidated Condensed Financial Statements.
-
-
-
+Interest expense of $6.5 million in the third quarter of fiscal 2018 (net of interest income of $0.8 million) was $0.9 million higher than the interest expense of $5.6 million in the third quarter of fiscal 2017 (net of interest income of $0.5 million).
+Interest expense of $18.7 million in the nine months of fiscal 2018 (net of interest income of $2.2 million) was $1.9 million higher than the interest expense of $16.8 million in the nine months of fiscal 2017 (net of interest income of $1.3 million).
+The increase in interest expense in both the third quarter and nine months of fiscal 2018 is primarily due to higher average debt outstanding.
+Our average debt outstanding was $727.1 million and $674.2 million in the third quarter and nine months of fiscal 2018, respectively, compared to $626.4 million and $629.2 million in the third quarter and nine months of fiscal 2017, respectively.
+The increase in our average debt was primarily to fund treasury repurchase activity as discussed in Note 12 to the Consolidated Condensed Financial Statements.
 Included in interest expense are non-cash charges for deferred financing fees of $0.3 million and $1.3 million, in the third quarter and nine months of fiscal 2018, respectively, and $0.3 million and $1.0 million, in the third quarter and nine months of fiscal 2017, respectively.
-
-
-
 Other (Income) Expense, Net
-
-
-
-
-
-
-
 NM = not meaningful
-
-
-
-Other (income) expense, net in the third quarter of fiscal 2018 was income of $0.6 million compared to income of $1.1 million in the third quarter of fiscal 2017. Other (income) expense, net in the nine months of fiscal 2018 was expense of $4.7 million compared to income of $0.4 million in the nine months of fiscal 2017. Foreign currency impact resulted in a gain of $0.7 million in the third quarter of fiscal 2018, and a loss of $4.4 million in nine months of fiscal 2018, compared to foreign currency gain of $1.6 million and $1.2 million, respectively, in the comparable prior year periods. 
-
-
-
+Other (income) expense, net in the third quarter of fiscal 2018 was income of $0.6 million compared to income of $1.1 million in the third quarter of fiscal 2017.
+Other (income) expense, net in the nine months of fiscal 2018 was expense of $4.7 million compared to income of $0.4 million in the nine months of fiscal 2017.
+Foreign currency impact resulted in a gain of $0.7 million in the third quarter of fiscal 2018, and a loss of $4.4 million in nine months of fiscal 2018, compared to foreign currency gain of $1.6 million and $1.2 million, respectively, in the comparable prior year periods.
 Earnings Before Income Taxes
-
-
-
-
-
-
-
-As a result of the above, earnings before income taxes in the third quarter of fiscal 2018 increased $11.9 million, or 23.5%, compared to the third quarter of fiscal 2017 and increased $11.0 million, or 6.5%, in the nine months of fiscal 2018 compared to the nine months of fiscal 2017. 
-
-
-
-Income Tax Expense 
-
-
-
-
-
-
-
+As a result of the above, earnings before income taxes in the third quarter of fiscal 2018 increased $11.9 million, or 23.5%, compared to the third quarter of fiscal 2017 and increased $11.0 million, or 6.5%, in the nine months of fiscal 2018 compared to the nine months of fiscal 2017.
+Income Tax Expense
 NM = not meaningful
-
-
-
-The Company’s income tax provision consists of federal, state and foreign income taxes. The tax provision for the third quarters of fiscal 2018 and 2017 was based on the estimated effective tax rates applicable for the full years ending March 31, 2018 and March 31, 2017, respectively, after giving effect to items specifically related to the interim periods. Our effective income tax rate with respect to any period may be volatile based on the mix of income in the tax jurisdictions in which we operate, change in tax laws and the amount of our consolidated income before taxes. 
-
-
-
-On December 22, 2017, the Tax Cuts and Jobs Act (“Tax Act”) was enacted into law. Among the significant changes resulting from the law, the Tax Act reduces the U.S. federal income tax rate from 35% to 21% effective January 1, 2018, and requires companies to pay a one-time transition tax on unrepatriated cumulative non-U.S. earnings of foreign subsidiaries and creates new taxes on certain foreign sourced earnings. In accordance with ASC 740, “Income Taxes,” we are required to record the effects of tax law changes in the period enacted. The rate change is administratively effective at the beginning of our fiscal year, using a blended rate for the annual period. As a result, our blended U.S. statutory tax rate for fiscal 2018 is 31.5%.
-
-
-
-As of December 31, 2017, we have not completed our accounting for the tax effects of enactment of the Tax Act; however, in certain cases, as described below, we have made a reasonable estimate of the effects on our existing deferred tax balances and the one-time transition tax. Our results for the three and nine months ended December 31, 2017, contain estimates of the impact of the Tax Act as permitted by Staff Accounting Bulletin 118 “SAB 118” issued by the Securities and Exchange Commission on December 22, 2017. These amounts are considered provisional and may be affected by future guidance if and when issued. 
-
-
-
-
-
-
-
-
-
-
-
-Finally, we recorded a provisional tax benefit of $2.0 million related to the reduction of the fiscal 2018 federal tax rate to 31.5%. 
-
-
-
+The Company’s income tax provision consists of federal, state and foreign income taxes.
+The tax provision for the third quarters of fiscal 2018 and 2017 was based on the estimated effective tax rates applicable for the full years ending March 31, 2018 and March 31, 2017, respectively, after giving effect to items specifically related to the interim periods.
+Our effective income tax rate with respect to any period may be volatile based on the mix of income in the tax jurisdictions in which we operate, change in tax laws and the amount of our consolidated income before taxes.
+On December 22, 2017, the Tax Cuts and Jobs Act (“Tax Act”) was enacted into law.
+Among the significant changes resulting from the law, the Tax Act reduces the U.S. federal income tax rate from 35% to 21% effective January 1, 2018, and requires companies to pay a one-time transition tax on unrepatriated cumulative non-U.S. earnings of foreign subsidiaries and creates new taxes on certain foreign sourced earnings.
+In accordance with ASC 740, “Income Taxes,” we are required to record the effects of tax law changes in the period enacted.
+The rate change is administratively effective at the beginning of our fiscal year, using a blended rate for the annual period.
+As a result, our blended U.S. statutory tax rate for fiscal 2018 is 31.5%.
+As of December 31, 2017, we have not completed our accounting for the tax effects of enactment of the Tax Act; however, in certain cases, as described below, we have made a reasonable estimate of the effects on our existing deferred tax balances and the one-time transition tax.
+Our results for the three and nine months ended December 31, 2017, contain estimates of the impact of the Tax Act as permitted by Staff Accounting Bulletin 118 “SAB 118” issued by the Securities and Exchange Commission on December 22, 2017.
+These amounts are considered provisional and may be affected by future guidance if and when issued.
+Finally, we recorded a provisional tax benefit of $2.0 million related to the reduction of the fiscal 2018 federal tax rate to 31.5%.
 In all cases, we may adjust these provisional amounts which could potentially affect the measurement and impact on tax expense as we refine our calculations within a reasonable period not to exceed one year from the enactment date.
-
-
-
-The consolidated effective income tax rates were 141.2% and 26.7%, respectively, for the third quarters of fiscal 2018 and 2017 and 63.2% and 25.7%, respectively, for the nine months of fiscal 2018 and 2017. The rate increase in the third quarter and nine months of fiscal 2018 compared to the comparable prior year periods of fiscal 2017 is primarily due to the impact of the Tax Act in the third quarter of fiscal 2018, offset by the German regulatory proceedings charge of $17.0 million (with no associated tax benefit) recorded in the third quarter of fiscal 2017 and changes in the mix of earnings among tax jurisdictions. 
-
-
-
-Foreign income as a percentage of worldwide income is estimated to be 64% for fiscal 2018 compared to 60% for fiscal 2017. The foreign effective income tax rates for the nine months of fiscal 2018 and 2017 were 11.4% and 15.9%, respectively. The rate decrease compared to the prior year period is primarily due to the German regulatory proceedings charge of $17.0 million (with no associated tax benefit) recorded in the third quarter of fiscal 2017 and changes in the mix of earnings among tax jurisdictions. Income from our Swiss subsidiary comprised a substantial portion of our overall foreign mix of income and is taxed at an effective income tax rate of approximately 6%.
-
-
-
+The consolidated effective income tax rates were 141.2% and 26.7%, respectively, for the third quarters of fiscal 2018 and 2017 and 63.2% and 25.7%, respectively, for the nine months of fiscal 2018 and 2017.
+The rate increase in the third quarter and nine months of fiscal 2018 compared to the comparable prior year periods of fiscal 2017 is primarily due to the impact of the Tax Act in the third quarter of fiscal 2018, offset by the German regulatory proceedings charge of $17.0 million (with no associated tax benefit) recorded in the third quarter of fiscal 2017 and changes in the mix of earnings among tax jurisdictions.
+Foreign income as a percentage of worldwide income is estimated to be 64% for fiscal 2018 compared to 60% for fiscal 2017.
+The foreign effective income tax rates for the nine months of fiscal 2018 and 2017 were 11.4% and 15.9%, respectively.
+The rate decrease compared to the prior year period is primarily due to the German regulatory proceedings charge of $17.0 million (with no associated tax benefit) recorded in the third quarter of fiscal 2017 and changes in the mix of earnings among tax jurisdictions.
+Income from our Swiss subsidiary comprised a substantial portion of our overall foreign mix of income and is taxed at an effective income tax rate of approximately 6%.
 Critical Accounting Policies and Estimates
-
-
-
-There have been no material changes to our critical accounting policies from those discussed under the caption “Critical Accounting Policies and Estimates” in “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our 2017 Annual Report. 
-
-
-
+There have been no material changes to our critical accounting policies from those discussed under the caption “Critical Accounting Policies and Estimates” in “Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our 2017 Annual Report.
 Liquidity and Capital Resources
-
-
-
-Operating activities provided cash of $129.9 million in the nine months of fiscal 2018 compared to $166.7 million in the comparable period of fiscal 2017. In the nine months of fiscal 2018, cash provided by operating activities was primarily from net earnings of $65.7 million, depreciation and amortization of $40.3 million, stock-based compensation of $14.8 million, deferred taxes benefit of $7.2 million, non-cash interest of $1.3 million and provision for doubtful accounts of $0.8 million. Cash provided by earnings as adjusted for non-cash items was improved by an increase of $89.2 million in long term liabilities primarily due to the one-time transition tax liability the Tax Act and was partially offset by the increase in primary working capital of $42.0 million, net of currency translation changes, and a decrease in accrued expenses of $30.5 million, comprising primarily of legal proceedings related payments, payroll related expenses and income taxes.
-
-
-
-In the nine months of fiscal 2017, cash provided by operating activities was primarily from net earnings of $124.5 million, depreciation and amortization of $40.5 million, non-cash charges consisting of write-offs relating to restructuring and other exit charges and ERP implementation of $7.7 million, stock-based compensation of $14.6 million, provision of doubtful accounts of $2.0 million and non-cash interest of $1.0 million. Cash provided by operating activities were partially offset by the increase in primary working capital of $47.7 million, net of currency translation changes. Cash provided by operating activities were positively impacted by legal proceedings accrual of $17.0 million and accrued expenses of $13.9 million, comprising primarily of income and other taxes, while prepaid and other current assets, comprising primarily of prepaid taxes, resulted in an outflow of $11.5 million.
-
-
-
-As explained in the discussion of our use of “non-GAAP financial measures,” we monitor the level and percentage of primary working capital to sales. Primary working capital for this purpose is trade accounts receivable, plus inventories, minus trade accounts payable. The resulting net amount is divided by the trailing three month net sales (annualized) to derive a primary working capital percentage. Primary working capital was $689.6 million (yielding a primary working capital percentage of 26.2%) at December 31, 2017, $624.8 million (yielding a primary working capital percentage of 24.9%) at March 31, 2017 and $611.6 million at January 1, 2017 (yielding a primary working capital percentage of 27.1%). The primary working capital percentage of 26.2% at December 31, 2017 is 130 basis points higher than that for March 31, 2017, and is 90 basis points lower than that for the prior year period. Primary working capital percentage increased during the nine months of fiscal 2018 largely due to higher inventory levels. The reason for the increase in inventory is due to rising lead costs, a longer supply chain on selective products and to meet rising fourth quarter demand.
-
-
-
-
-
-
-
+Operating activities provided cash of $129.9 million in the nine months of fiscal 2018 compared to $166.7 million in the comparable period of fiscal 2017.
+In the nine months of fiscal 2018, cash provided by operating activities was primarily from net earnings of $65.7 million, depreciation and amortization of $40.3 million, stock-based compensation of $14.8 million, deferred taxes benefit of $7.2 million, non-cash interest of $1.3 million and provision for doubtful accounts of $0.8 million.
+Cash provided by earnings as adjusted for non-cash items was improved by an increase of $89.2 million in long term liabilities primarily due to the one-time transition tax liability the Tax Act and was partially offset by the increase in primary working capital of $42.0 million, net of currency translation changes, and a decrease in accrued expenses of $30.5 million, comprising primarily of legal proceedings related payments, payroll related expenses and income taxes.
+In the nine months of fiscal 2017, cash provided by operating activities was primarily from net earnings of $124.5 million, depreciation and amortization of $40.5 million, non-cash charges consisting of write-offs relating to restructuring and other exit charges and ERP implementation of $7.7 million, stock-based compensation of $14.6 million, provision of doubtful accounts of $2.0 million and non-cash interest of $1.0 million.
+Cash provided by operating activities were partially offset by the increase in primary working capital of $47.7 million, net of currency translation changes.
+Cash provided by operating activities were positively impacted by legal proceedings accrual of $17.0 million and accrued expenses of $13.9 million, comprising primarily of income and other taxes, while prepaid and other current assets, comprising primarily of prepaid taxes, resulted in an outflow of $11.5 million.
+As explained in the discussion of our use of “non-GAAP financial measures,” we monitor the level and percentage of primary working capital to sales.
+Primary working capital for this purpose is trade accounts receivable, plus inventories, minus trade accounts payable.
+The resulting net amount is divided by the trailing three month net sales (annualized) to derive a primary working capital percentage.
+Primary working capital was $689.6 million (yielding a primary working capital percentage of 26.2%) at December 31, 2017, $624.8 million (yielding a primary working capital percentage of 24.9%) at March 31, 2017 and $611.6 million at January 1, 2017 (yielding a primary working capital percentage of 27.1%).
+The primary working capital percentage of 26.2% at December 31, 2017 is 130 basis points higher than that for March 31, 2017, and is 90 basis points lower than that for the prior year period.
+Primary working capital percentage increased during the nine months of fiscal 2018 largely due to higher inventory levels.
+The reason for the increase in inventory is due to rising lead costs, a longer supply chain on selective products and to meet rising fourth quarter demand.
 Investing activities used cash of $45.7 million in the nine months of fiscal 2018 and primarily consisted of capital expenditures of $43.1 million, and a $3.0 million acquisition.
-
-
-
 Investing activities used cash of $47.8 million in the nine months of fiscal 2017 and primarily consisted of capital expenditures of $36.0 million, and acquisitions of $12.4 million.
-
-
-
-Financing activities used cash of $51.5 million in the nine months of fiscal 2018. During the second quarter of fiscal 2018, we entered into a 2017 Credit Facility. During the nine months of fiscal 2018, we borrowed $356.8 million under the 2017 Revolver and $150.0 million under the 2018 Term loan. Repayments on the 2017 Revolver during the nine months of fiscal 2018 were $111.5 million. Borrowings and repayments on the 2011 Revolver during the nine months of fiscal 2018 were $147.1 million and $312.1 million, respectively, and repayment of the 2011 Term loan was $127.5 million. On August 4, 2017, the outstanding balance on the 2011 Revolver and the 2011 Term Loan of $240.0 million and $123.0 million, respectively, was repaid utilizing the proceeds from the 2017 Credit Facility. We also paid $100.0 million under the ASR agreement, which was settled on January 9, 2018. Treasury stock open market purchases were $21.2 million, payment of cash dividends to our stockholders were $22.3 million, payment of taxes related to net share settlement of equity awards were $7.5 million and debt issuance costs were $2.7 million. Net repayments on short-term debt were $1.4 million and proceeds from stock options were $0.8 million. 
-
-
-
-Financing activities used cash of $23.6 million in the nine months of fiscal 2017 primarily due to revolver borrowings of $191.3 million and repayments of $186.8 million, repayment of our Term Loan of $11.3 million, payment of cash dividends to our stockholders of $22.8 million, and payment of taxes related to net share settlement of equity awards of $7.7 million. Net borrowings on short-term debt were $13.6 million. 
-
-
-
-Currency translation had a positive impact of $38.3 million on our cash balance in the nine months of fiscal 2018 compared to a negative impact of $25.4 million in the nine months of fiscal 2017. During the nine months of fiscal 2018, principal currencies in which we do business such as the Euro, Swiss franc, British pound, Polish zloty, Chinese renminbi and Mexican peso strengthened versus the U.S. dollar. 
-
-
-
+Financing activities used cash of $51.5 million in the nine months of fiscal 2018.
+During the second quarter of fiscal 2018, we entered into a 2017 Credit Facility.
+During the nine months of fiscal 2018, we borrowed $356.8 million under the 2017 Revolver and $150.0 million under the 2018 Term loan.
+Repayments on the 2017 Revolver during the nine months of fiscal 2018 were $111.5 million.
+Borrowings and repayments on the 2011 Revolver during the nine months of fiscal 2018 were $147.1 million and $312.1 million, respectively, and repayment of the 2011 Term loan was $127.5 million.
+On August 4, 2017, the outstanding balance on the 2011 Revolver and the 2011 Term Loan of $240.0 million and $123.0 million, respectively, was repaid utilizing the proceeds from the 2017 Credit Facility.
+We also paid $100.0 million under the ASR agreement, which was settled on January 9, 2018.
+Treasury stock open market purchases were $21.2 million, payment of cash dividends to our stockholders were $22.3 million, payment of taxes related to net share settlement of equity awards were $7.5 million and debt issuance costs were $2.7 million.
+Net repayments on short-term debt were $1.4 million and proceeds from stock options were $0.8 million.
+Financing activities used cash of $23.6 million in the nine months of fiscal 2017 primarily due to revolver borrowings of $191.3 million and repayments of $186.8 million, repayment of our Term Loan of $11.3 million, payment of cash dividends to our stockholders of $22.8 million, and payment of taxes related to net share settlement of equity awards of $7.7 million.
+Net borrowings on short-term debt were $13.6 million.
+Currency translation had a positive impact of $38.3 million on our cash balance in the nine months of fiscal 2018 compared to a negative impact of $25.4 million in the nine months of fiscal 2017.
+During the nine months of fiscal 2018, principal currencies in which we do business such as the Euro, Swiss franc, British pound, Polish zloty, Chinese renminbi and Mexican peso strengthened versus the U.S. dollar.
 As a result of the above, total cash and cash equivalents increased by $71.0 million to $571.3 million, in the nine months of fiscal 2018 compared to an increase by $69.8 million to $467.1 million, in the comparable period of fiscal 2017.
-
-
-
-All obligations under our 2017 Credit Facility are secured by, among other things, substantially all of our U.S. assets. The 2017 Credit Facility contains various covenants which, absent prepayment in full of the indebtedness and other obligations, or the receipt of waivers, limit our ability to conduct certain specified business transactions, buy or sell assets out of the ordinary course of business, engage in sale and leaseback transactions, pay dividends and take certain other actions. There are no prepayment penalties on loans under this credit facility.
-
-
-
-We are in compliance with all covenants and conditions under our credit agreement and our 5.00% Senior Notes due 2023. We believe that we will continue to comply with these covenants and conditions, and that we have the financial resources and the capital available to fund the foreseeable organic growth in our business and to remain active in pursuing further acquisition opportunities. See Note 8 to the Consolidated Financial Statements included in our 2017 Annual Report and Note 9 to the Consolidated Condensed Financial Statements included in this Quarterly Report on Form 10-Q for a detailed description of our debt.
-
-
-
+All obligations under our 2017 Credit Facility are secured by, among other things, substantially all of our U.S. assets.
+The 2017 Credit Facility contains various covenants which, absent prepayment in full of the indebtedness and other obligations, or the receipt of waivers, limit our ability to conduct certain specified business transactions, buy or sell assets out of the ordinary course of business, engage in sale and leaseback transactions, pay dividends and take certain other actions.
+There are no prepayment penalties on loans under this credit facility.
+We are in compliance with all covenants and conditions under our credit agreement and our 5.00% Senior Notes due 2023.
+We believe that we will continue to comply with these covenants and conditions, and that we have the financial resources and the capital available to fund the foreseeable organic growth in our business and to remain active in pursuing further acquisition opportunities.
+See Note 8 to the Consolidated Financial Statements included in our 2017 Annual Report and Note 9 to the Consolidated Condensed Financial Statements included in this Quarterly Report on Form 10-Q for a detailed description of our debt.
 Contractual Obligations and Commercial Commitments
-
-
-
-A table of our obligations is contained in Part II, Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations — Contractual Obligations of our 2017 Annual Report for the year ended March 31, 2017. As of December 31, 2017, we entered into the new 2017 Credit Facility, comprising a $600 million senior secured revolving credit facility (“2017 Revolver”) and a $150 million senior secured term loan (“2017 Term Loan”) with a maturity date of September 30, 2022. We repaid all outstanding balances on our 2011 Credit Facility as of August 4, 2017. 
-
-
-
-
-
-
-
+A table of our obligations is contained in Part II, Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations — Contractual Obligations of our 2017 Annual Report for the year ended March 31, 2017.
+As of December 31, 2017, we entered into the new 2017 Credit Facility, comprising a $600 million senior secured revolving credit facility (“2017 Revolver”) and a $150 million senior secured term loan (“2017 Term Loan”) with a maturity date of September 30, 2022.
+We repaid all outstanding balances on our 2011 Credit Facility as of August 4, 2017.
 $7.5 million payable in the first five years, beginning fiscal 2019 through fiscal 2024, $14.1 million in fiscal 2025, $18.9 in fiscal 2026 and the final payment of $23.5 million in fiscal 2027.
-
-
-
 Item 2.Unregistered Sales of Equity Securities and Use of Proceeds
-
-
-
  Purchases of Equity Securities by the Issuer and Affiliated Purchasers
-
-
-
-The following table summarizes the number of shares of common stock we purchased from participants in our equity incentive plans as well as repurchases of common stock authorized by the Board of Directors. As provided by the Company’s equity incentive plans, (a) vested options outstanding may be exercised through surrender to the Company of option shares or vested options outstanding under the Company’s equity incentive plans to satisfy the applicable aggregate exercise price (and any withholding tax) required to be paid upon such exercise and (b) the withholding tax requirements related to the vesting and settlement of restricted stock units and market condition-based share units may be satisfied by the surrender of shares of the Company’s common stock.
-
-
-
+The following table summarizes the number of shares of common stock we purchased from participants in our equity incentive plans as well as repurchases of common stock authorized by the Board of Directors.
+As provided by the Company’s equity incentive plans, (a) vested options outstanding may be exercised through surrender to the Company of option shares or vested options outstanding under the Company’s equity incentive plans to satisfy the applicable aggregate exercise price (and any withholding tax) required to be paid upon such exercise and (b) the withholding tax requirements related to the vesting and settlement of restricted stock units and market condition-based share units may be satisfied by the surrender of shares of the Company’s common stock.
 Purchases of Equity Securities
-
-
-
-
-
-
-
-
-
-
-
 Item 4.Mine Safety Disclosures
-
-
-
 Not applicable.
-
-
-
 ITEM 6.EXHIBITS
-
-
-
-
-
 SIGNATURES
-
-
-
 Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
-
-
-
-ENERSYS (Registrant) 
-
-
-
-
-
+ENERSYS (Registrant)
  Michael J. Schmidtlein
-
-
-
  Chief Financial Officer
-
-
-
-
-

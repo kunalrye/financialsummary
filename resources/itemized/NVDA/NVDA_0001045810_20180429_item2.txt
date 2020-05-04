@@ -1,474 +1,179 @@
-ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
-
-
-
-Forward-Looking Statements 
-
-
-
-This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the “safe harbor” created by those sections. Forward-looking statements are based on our management’s beliefs and assumptions and on information currently available to our management. In some cases, you can identify forward-looking statements by terms such as “may,” “will,” “should,” “could,” “goal,” “would,” “expect,” “plan,” “anticipate,” “believe,” “estimate,” “project,” “predict,” “potential” and similar expressions intended to identify forward-looking statements. These statements involve known and unknown risks, uncertainties and other factors, which may cause our actual results, performance, time frames or achievements to be materially different from any future results, performance, time frames or achievements expressed or implied by the forward-looking statements. We discuss many of these risks, uncertainties and other factors in this Quarterly Report on Form 10-Q in greater detail under the heading “Risk Factors.” Given these risks, uncertainties and other factors, you should not place undue reliance on these forward-looking statements. Also, these forward-looking statements represent our estimates and assumptions only as of the date of this filing. You should read this Quarterly Report on Form 10-Q completely and with the understanding that our actual future results may be materially different from what we expect. We hereby qualify our forward-looking statements by these cautionary statements. Except as required by law, we assume no obligation to update these forward-looking statements publicly, or to update the reasons actual results could differ materially from those anticipated in these forward-looking statements, even if new information becomes available in the future.
-
-
-
+ITEM 2.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Forward-Looking Statements
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the “safe harbor” created by those sections.
+Forward-looking statements are based on our management’s beliefs and assumptions and on information currently available to our management.
+In some cases, you can identify forward-looking statements by terms such as “may,” “will,” “should,” “could,” “goal,” “would,” “expect,” “plan,” “anticipate,” “believe,” “estimate,” “project,” “predict,” “potential” and similar expressions intended to identify forward-looking statements.
+These statements involve known and unknown risks, uncertainties and other factors, which may cause our actual results, performance, time frames or achievements to be materially different from any future results, performance, time frames or achievements expressed or implied by the forward-looking statements.
+We discuss many of these risks, uncertainties and other factors in this Quarterly Report on Form 10-Q in greater detail under the heading “Risk Factors.” Given these risks, uncertainties and other factors, you should not place undue reliance on these forward-looking statements.
+Also, these forward-looking statements represent our estimates and assumptions only as of the date of this filing.
+You should read this Quarterly Report on Form 10-Q completely and with the understanding that our actual future results may be materially different from what we expect.
+We hereby qualify our forward-looking statements by these cautionary statements.
+Except as required by law, we assume no obligation to update these forward-looking statements publicly, or to update the reasons actual results could differ materially from those anticipated in these forward-looking statements, even if new information becomes available in the future.
 All references to “NVIDIA,” “we,” “us,” “our” or the “Company” mean NVIDIA Corporation and its subsidiaries, except where it is made clear that the term means only the parent company.
-
-
-
-
-
-The following discussion and analysis of our financial condition and results of operations should be read in conjunction with “Item 6. Selected Financial Data” of our Annual Report on Form 10-K for the fiscal year ended January 28, 2018 and “Item 1A. Risk Factors” of this Quarterly Report on Form 10-Q and our Condensed Consolidated Financial Statements and 
-
-
-
-
-
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with “Item 6.
+Selected Financial Data” of our Annual Report on Form 10-K for the fiscal year ended January 28, 2018 and “Item 1A.
+Risk Factors” of this Quarterly Report on Form 10-Q and our Condensed Consolidated Financial Statements and
 related Notes thereto, as well as other cautionary statements and risks described elsewhere in this Quarterly Report on Form 10-Q, before deciding to purchase or sell shares of our common stock.
-
-
-
 Overview
-
-
-
 Our Company and Our Businesses
-
-
-
-Starting with a focus on PC graphics, NVIDIA invented the GPU to solve some of the most complex problems in computer science. We have extended our focus in recent years to the revolutionary field of AI. Fueled by the sustained demand for better 3D graphics and the scale of the gaming market, NVIDIA has evolved the GPU into a computer brain at the intersection of virtual reality, high performance computing, or HPC, and artificial intelligence, or AI.
-
-
-
-
-
-While our GPU and CUDA architecture is unified, our GPU product brands are aimed at specialized markets including GeForce for gamers; Quadro for designers; Tesla and DGX for AI data scientists and big data researchers; and GRID for cloud-based visual computing users. Our Tegra brand integrates an entire computer onto a single chip, and incorporates GPUs and multi-core CPUs to drive supercomputing for autonomous robots, drones, and cars, as well as for consoles and mobile gaming and entertainment devices. 
-
-
-
+Starting with a focus on PC graphics, NVIDIA invented the GPU to solve some of the most complex problems in computer science.
+We have extended our focus in recent years to the revolutionary field of AI.
+Fueled by the sustained demand for better 3D graphics and the scale of the gaming market, NVIDIA has evolved the GPU into a computer brain at the intersection of virtual reality, high performance computing, or HPC, and artificial intelligence, or AI.
+While our GPU and CUDA architecture is unified, our GPU product brands are aimed at specialized markets including GeForce for gamers; Quadro for designers; Tesla and DGX for AI data scientists and big data researchers; and GRID for cloud-based visual computing users.
+Our Tegra brand integrates an entire computer onto a single chip, and incorporates GPUs and multi-core CPUs to drive supercomputing for autonomous robots, drones, and cars, as well as for consoles and mobile gaming and entertainment devices.
 Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998.
-
-
-
 Recent Developments, Future Objectives and Challenges
-
-
-
 First Quarter of Fiscal Year 2019 Summary
-
-
-
-
-
-Revenue for the first quarter of fiscal year 2019 increased 66% year over year and 10% sequentially. All of our market platforms - gaming, professional visualization, datacenter, and automotive - produced year-over-year growth.
-
-
-
-GPU business revenue was $2.77 billion, up 77% from a year earlier and up 12% sequentially, led by gaming and datacenter. Gaming revenue was up 68% from a year ago and down 1% sequentially. Gaming GPU growth was fueled by demand from gamers playing eSports, momentum of the Battle Royale genre, and AAA cinematic games. Datacenter revenue was $701 million, up 71% from a year ago and up 16% sequentially, led by strong sales of our Volta architecture, including NVIDIA Tesla V100, new DGX systems, and HPC design wins. Professional visualization revenue was $251 million, up 22% from a year earlier and down 1% sequentially. OEM sales included $289 million related to GPUs for cryptocurrency mining.
-
-
-
-Tegra processor business revenue, which includes SOC modules for the Nintendo Switch gaming console, was $442 million, up 33% from a year ago and down 2% sequentially. Also included was Automotive revenue of $145 million, which was up 4% from a year earlier and up 10% sequentially, incorporating infotainment modules, production DRIVE PX platforms, and development agreements with automotive companies. 
-
-
-
+Revenue for the first quarter of fiscal year 2019 increased 66% year over year and 10% sequentially.
+All of our market platforms - gaming, professional visualization, datacenter, and automotive - produced year-over-year growth.
+GPU business revenue was $2.77 billion, up 77% from a year earlier and up 12% sequentially, led by gaming and datacenter.
+Gaming revenue was up 68% from a year ago and down 1% sequentially.
+Gaming GPU growth was fueled by demand from gamers playing eSports, momentum of the Battle Royale genre, and AAA cinematic games.
+Datacenter revenue was $701 million, up 71% from a year ago and up 16% sequentially, led by strong sales of our Volta architecture, including NVIDIA Tesla V100, new DGX systems, and HPC design wins.
+Professional visualization revenue was $251 million, up 22% from a year earlier and down 1% sequentially.
+OEM sales included $289 million related to GPUs for cryptocurrency mining.
+Tegra processor business revenue, which includes SOC modules for the Nintendo Switch gaming console, was $442 million, up 33% from a year ago and down 2% sequentially.
+Also included was Automotive revenue of $145 million, which was up 4% from a year earlier and up 10% sequentially, incorporating infotainment modules, production DRIVE PX platforms, and development agreements with automotive companies.
 Revenue from our patent license agreement with Intel concluded in the first quarter of fiscal year 2018.
-
-
-
-We adopted the new accounting standard for revenue recognition in the first quarter of fiscal year 2019 using the modified retrospective approach. The impact of adopting the new revenue standard was not significant to our consolidated financial statements in the first quarter.
-
-
-
-
-
-Gross margin for the first quarter of fiscal year 2019 was 64.5%, increasing from the prior year and the previous quarter due to strong growth in datacenter revenue and the mix within our GeForce gaming GPUs. 
-
-
-
+We adopted the new accounting standard for revenue recognition in the first quarter of fiscal year 2019 using the modified retrospective approach.
+The impact of adopting the new revenue standard was not significant to our consolidated financial statements in the first quarter.
+Gross margin for the first quarter of fiscal year 2019 was 64.5%, increasing from the prior year and the previous quarter due to strong growth in datacenter revenue and the mix within our GeForce gaming GPUs.
 Operating expenses for the first quarter of fiscal year 2019 were $773 million, up 30% from a year earlier and up 6% sequentially, reflecting increased headcount and related costs for our growth initiatives - gaming, AI, and autonomous driving.
-
-
-
-Income from operations for the first quarter of fiscal year 2019 was $1.29 billion, up 134% from a year earlier and up 21% sequentially. Net income and net income per diluted share for the first quarter of fiscal year 2019 were $1.24 billion and $1.98, respectively, up 145% and 151%, respectively, from a year earlier, fueled by strong revenue growth and improved gross and operating margins. 
-
-
-
-During the first quarter of fiscal year 2019, we returned to shareholders $655 million in share repurchases and $91 million in cash dividends. For fiscal year 2019, we intend to return $1.25 billion to shareholders through ongoing quarterly cash dividends and share repurchases.
-
-
-
-Cash, cash equivalents and marketable securities were $7.30 billion as of April 29, 2018, compared with $7.11 billion at the end of the prior quarter. The sequential increase was primarily related to the increase in operating income, as well as strong collections of outstanding accounts receivable, and partially offset by an increase in share repurchases.
-
-
-
+Income from operations for the first quarter of fiscal year 2019 was $1.29 billion, up 134% from a year earlier and up 21% sequentially.
+Net income and net income per diluted share for the first quarter of fiscal year 2019 were $1.24 billion and $1.98, respectively, up 145% and 151%, respectively, from a year earlier, fueled by strong revenue growth and improved gross and operating margins.
+During the first quarter of fiscal year 2019, we returned to shareholders $655 million in share repurchases and $91 million in cash dividends.
+For fiscal year 2019, we intend to return $1.25 billion to shareholders through ongoing quarterly cash dividends and share repurchases.
+Cash, cash equivalents and marketable securities were $7.30 billion as of April 29, 2018, compared with $7.11 billion at the end of the prior quarter.
+The sequential increase was primarily related to the increase in operating income, as well as strong collections of outstanding accounts receivable, and partially offset by an increase in share repurchases.
 GPU Business
-
-
-
-During the first quarter of fiscal year 2019, we announced NVIDIA RTX, a computer graphics technology that produces movie-quality images in real time. We also unveiled advances to our deep learning computing platform - including NVIDIA Tesla V100 GPUs with 32GB memory, NVIDIA NVSwitch GPU interconnect fabric, NVIDIA DGX-2, and TensorRT 4, the latest version of the TensorRT AI inference accelerator software. In addition, we announced GPU acceleration for Kubernetes to facilitate enterprise inference deployment on multi-cloud GPU clusters and the Quadro GV100 GPU with RTX technology, making real-time ray tracing possible on professional design and content creation applications. 
-
-
-
+During the first quarter of fiscal year 2019, we announced NVIDIA RTX, a computer graphics technology that produces movie-quality images in real time.
+We also unveiled advances to our deep learning computing platform - including NVIDIA Tesla V100 GPUs with 32GB memory, NVIDIA NVSwitch GPU interconnect fabric, NVIDIA DGX-2, and TensorRT 4, the latest version of the TensorRT AI inference accelerator software.
+In addition, we announced GPU acceleration for Kubernetes to facilitate enterprise inference deployment on multi-cloud GPU clusters and the Quadro GV100 GPU with RTX technology, making real-time ray tracing possible on professional design and content creation applications.
 Tegra Processor Business
-
-
-
 During the first quarter of fiscal year 2019, we introduced the NVIDIA DRIVE Constellation server with DRIVE Sim software, a complete system to safely test drive autonomous vehicles over billions of miles in virtual reality by leveraging NVIDIA GPUs and NVIDIA DRIVE Pegasus.
-
-
-
 Financial Information by Business Segment and Geographic Data
-
-
-
 Refer to Note 15 of the Notes to Condensed Consolidated Financial Statements for disclosure regarding segment information.
-
-
-
-
-
 Results of Operations
-
-
-
 The following table sets forth, for the periods indicated, certain items in our Condensed Consolidated Statements of Income expressed as a percentage of revenue.
-
-
-
-
-
 Revenue
-
-
-
 Revenue by Reportable Segments
-
-
-
-
-
-GPU Business. GPU business revenue increased by 77% for the first quarter of fiscal year 2019 compared to the first quarter of fiscal year 2018. This increase was due primarily to increased revenue from sales of GeForce GPU products for gaming, which increased 70%, reflecting continued strong demand from gamers playing eSports, momentum of the Battle Royale genre, and AAA cinematic games. Datacenter revenue, including Tesla, GRID and DGX, increased 71%, reflecting strong sales of our Volta architecture, including NVIDIA Tesla V100, new DGX systems, and strong demand for HPC. Revenue from Quadro GPUs for professional visualization increased 22% due primarily to higher sales in overall desktop workstation products and mid-range mobile workstation products. Our PC OEM revenue increased by over 320% due primarily to strong demand for GPU products targeted for use in cryptocurrency mining.
-
-
-
-Tegra Processor Business. Tegra Processor business revenue increased by 33% for the first quarter of fiscal year 2019 compared to the first quarter of fiscal year 2018. This was driven by an increase of over 85% in revenue from SOC modules for gaming platforms and development services, and an increase of 4% in automotive revenue, primarily from infotainment modules, DRIVE PX platforms and development agreements for self-driving cars.
-
-
-
-All Other. Our patent license agreement with Intel concluded in the first quarter of fiscal year 2018.
-
-
-
-
-
-Concentration of Revenue 
-
-
-
-Revenue from sales to customers outside of the United States and Other Americas accounted for 79% and 77% of total revenue for the first quarter of fiscal years 2019 and 2018, respectively. Revenue by geographic region is allocated to individual countries based on the location to which the products are initially billed even if the revenue is attributable to end customers in a different location.
-
-
-
-Revenue from significant customers, those representing 10% or more of total revenue, aggregated approximately 20% of our total revenue from two customers for the first quarter of fiscal year 2019. No single customer represented 10% or more of total revenue for the first quarter of fiscal year 2018.
-
-
-
+GPU Business.
+GPU business revenue increased by 77% for the first quarter of fiscal year 2019 compared to the first quarter of fiscal year 2018.
+This increase was due primarily to increased revenue from sales of GeForce GPU products for gaming, which increased 70%, reflecting continued strong demand from gamers playing eSports, momentum of the Battle Royale genre, and AAA cinematic games.
+Datacenter revenue, including Tesla, GRID and DGX, increased 71%, reflecting strong sales of our Volta architecture, including NVIDIA Tesla V100, new DGX systems, and strong demand for HPC.
+Revenue from Quadro GPUs for professional visualization increased 22% due primarily to higher sales in overall desktop workstation products and mid-range mobile workstation products.
+Our PC OEM revenue increased by over 320% due primarily to strong demand for GPU products targeted for use in cryptocurrency mining.
+Tegra Processor Business.
+Tegra Processor business revenue increased by 33% for the first quarter of fiscal year 2019 compared to the first quarter of fiscal year 2018.
+This was driven by an increase of over 85% in revenue from SOC modules for gaming platforms and development services, and an increase of 4% in automotive revenue, primarily from infotainment modules, DRIVE PX platforms and development agreements for self-driving cars.
+All Other.
+Our patent license agreement with Intel concluded in the first quarter of fiscal year 2018.
+Concentration of Revenue
+Revenue from sales to customers outside of the United States and Other Americas accounted for 79% and 77% of total revenue for the first quarter of fiscal years 2019 and 2018, respectively.
+Revenue by geographic region is allocated to individual countries based on the location to which the products are initially billed even if the revenue is attributable to end customers in a different location.
+Revenue from significant customers, those representing 10% or more of total revenue, aggregated approximately 20% of our total revenue from two customers for the first quarter of fiscal year 2019.
+No single customer represented 10% or more of total revenue for the first quarter of fiscal year 2018.
 Gross Margin
-
-
-
 Our overall gross margin increased to 64.5% for the first quarter of fiscal year 2019 from 59.4% for the first quarter of fiscal year 2018, primarily due to a favorable mix shift within our GPU segment.
-
-
-
-Inventory provision costs totaled $33 million and $3 million for the first quarter of fiscal years 2019 and 2018, respectively. Sales of inventory that was previously written-off or written-down totaled $4 million and $13 million for the first quarter of fiscal years 2019 and 2018, respectively. As a result, the overall net effect on our gross margin from charges for inventory provision costs and sales of items previously written-off or written-down was a 0.9% unfavorable impact for the first quarter of fiscal year 2019 and a 0.6% favorable impact for the first quarter of fiscal year 2018.
-
-
-
-
-
-GPU Business. The gross margin of our GPU business increased during the first quarter of fiscal year 2019 compared to the first quarter of fiscal year 2018, primarily due to strong sales of high-end GeForce gaming GPU products. 
-
-
-
-Tegra Processor Business. The gross margin of our Tegra Processor business increased during the first quarter of fiscal year 2019 compared to the first quarter of fiscal year 2018. The increase in Tegra margins was primarily due to a favorable mix shift and revenue growth in gaming development platforms.
-
-
-
-Operating Expenses 
-
-
-
-
-
+Inventory provision costs totaled $33 million and $3 million for the first quarter of fiscal years 2019 and 2018, respectively.
+Sales of inventory that was previously written-off or written-down totaled $4 million and $13 million for the first quarter of fiscal years 2019 and 2018, respectively.
+As a result, the overall net effect on our gross margin from charges for inventory provision costs and sales of items previously written-off or written-down was a 0.9% unfavorable impact for the first quarter of fiscal year 2019 and a 0.6% favorable impact for the first quarter of fiscal year 2018.
+GPU Business.
+The gross margin of our GPU business increased during the first quarter of fiscal year 2019 compared to the first quarter of fiscal year 2018, primarily due to strong sales of high-end GeForce gaming GPU products.
+Tegra Processor Business.
+The gross margin of our Tegra Processor business increased during the first quarter of fiscal year 2019 compared to the first quarter of fiscal year 2018.
+The increase in Tegra margins was primarily due to a favorable mix shift and revenue growth in gaming development platforms.
+Operating Expenses
 Research and Development
-
-
-
 Research and development expenses increased by 32% during the first quarter of fiscal year 2019, compared to the first quarter of fiscal year 2018, driven primarily by employee additions and increases in employee compensation and other related costs, including stock-based compensation expense.
-
-
-
 Sales, General and Administrative
-
-
-
 Sales, general and administrative expenses increased by 25% during the first quarter of fiscal year 2019, compared to the first quarter of fiscal year 2018, driven primarily by employee additions and increases in employee compensation and other related costs, including stock-based compensation expense.
-
-
-
 Total Other Income (Expense)
-
-
-
 Interest Income and Interest Expense
-
-
-
-Interest income consists of interest earned on cash, cash equivalents and marketable securities. Interest income was $25 million and $16 million during the first quarter of fiscal years 2019 and 2018, respectively. The increase in interest income 
-
-
-
-
-
-was primarily due to higher average cash balances invested in interest bearing securities, as well as higher purchased yields. 
-
-
-
-Interest expense is primarily comprised of coupon interest and debt discount amortization related to the 2.20% Notes Due 2021 and 3.20% Notes Due 2026 issued in September 2016, and the 1.00% Convertible Notes Due 2018, or the Convertible Notes, issued in December 2013. Interest expense was $15 million and $16 million during the first quarter of fiscal years 2019 and 2018, respectively.
-
-
-
+Interest income consists of interest earned on cash, cash equivalents and marketable securities.
+Interest income was $25 million and $16 million during the first quarter of fiscal years 2019 and 2018, respectively.
+The increase in interest income
+was primarily due to higher average cash balances invested in interest bearing securities, as well as higher purchased yields.
+Interest expense is primarily comprised of coupon interest and debt discount amortization related to the 2.20% Notes Due 2021 and 3.20% Notes Due 2026 issued in September 2016, and the 1.00% Convertible Notes Due 2018, or the Convertible Notes, issued in December 2013.
+Interest expense was $15 million and $16 million during the first quarter of fiscal years 2019 and 2018, respectively.
 Other, Net
-
-
-
-Other, net, consists primarily of realized gains and losses from the sale of marketable securities, sales or impairments of investments in non-affiliated companies, realized and unrealized gains and losses from non-affiliated investments, losses on early debt conversions of the Convertible Notes, and the impact of changes in foreign currency rates. Other, net, was not significant during the first quarter of fiscal year 2019. Other, net, was an expense of $18 million during the first quarter of fiscal year 2018, consisting primarily of $14 million of losses recognized from early conversions of the Convertible Notes.
-
-
-
+Other, net, consists primarily of realized gains and losses from the sale of marketable securities, sales or impairments of investments in non-affiliated companies, realized and unrealized gains and losses from non-affiliated investments, losses on early debt conversions of the Convertible Notes, and the impact of changes in foreign currency rates.
+Other, net, was not significant during the first quarter of fiscal year 2019.
+Other, net, was an expense of $18 million during the first quarter of fiscal year 2018, consisting primarily of $14 million of losses recognized from early conversions of the Convertible Notes.
 Income Taxes
-
-
-
-We recognized income tax expense of $67 million and $29 million for the first quarter of fiscal years 2019 and 2018, respectively. Income tax expense as a percentage of income before income tax was 5.1% and 5.5% for the first quarter of fiscal years 2019 and 2018, respectively.
-
-
-
-The decrease in our effective tax rate in the first quarter of fiscal year 2019 as compared to the same period in the prior fiscal year is primarily due to a decrease in the U.S. statutory tax rate from 35% to 21%, partially offset by a decrease in the impact of tax benefits from stock-based compensation. 
-
-
-
+We recognized income tax expense of $67 million and $29 million for the first quarter of fiscal years 2019 and 2018, respectively.
+Income tax expense as a percentage of income before income tax was 5.1% and 5.5% for the first quarter of fiscal years 2019 and 2018, respectively.
+The decrease in our effective tax rate in the first quarter of fiscal year 2019 as compared to the same period in the prior fiscal year is primarily due to a decrease in the U.S. statutory tax rate from 35% to 21%, partially offset by a decrease in the impact of tax benefits from stock-based compensation.
 Refer to Note 5 of the Notes to Condensed Consolidated Financial Statements for further information.
-
-
-
-Liquidity and Capital Resources 
-
-
-
-
-
-
-
-As of April 29, 2018, we had $7.30 billion in cash, cash equivalents and marketable securities, an increase of $192 million from the end of fiscal year 2018. Our portfolio of cash equivalents and marketable securities is managed both internally as well as on our behalf by several financial institutions. Our portfolio managers are required to follow our investment policy, which requires the purchase of high grade investment securities, the diversification of asset types, and certain limits on our portfolio duration.
-
-
-
-Cash provided by operating activities increased in the first quarter of fiscal year 2019 compared to the first quarter of fiscal year 2018, primarily due to higher net income and changes in working capital. 
-
-
-
+Liquidity and Capital Resources
+As of April 29, 2018, we had $7.30 billion in cash, cash equivalents and marketable securities, an increase of $192 million from the end of fiscal year 2018.
+Our portfolio of cash equivalents and marketable securities is managed both internally as well as on our behalf by several financial institutions.
+Our portfolio managers are required to follow our investment policy, which requires the purchase of high grade investment securities, the diversification of asset types, and certain limits on our portfolio duration.
+Cash provided by operating activities increased in the first quarter of fiscal year 2019 compared to the first quarter of fiscal year 2018, primarily due to higher net income and changes in working capital.
 Cash used in investing activities increased in the first quarter of fiscal year 2019 compared to the first quarter of fiscal year 2018, primarily due to higher purchases of marketable securities and lower sales of marketable securities.
-
-
-
 Cash used in financing activities increased in the first quarter of fiscal year 2019 compared to the first quarter of fiscal year 2018, primarily due to share repurchases and higher tax payments related to employee stock plans, partially offset by lower repayments of Convertible Notes.
-
-
-
-
-
 Liquidity
-
-
-
-Our primary sources of liquidity are our cash and cash equivalents, our marketable securities, and the cash generated by our operations. As of April 29, 2018 and January 28, 2018, we had $7.30 billion and $7.11 billion, respectively, in cash, cash equivalents and marketable securities. Our marketable securities consist of debt securities issued by the United States government and its agencies, highly rated corporations and financial institutions, asset-backed issuers, mortgage-backed securities by government-sponsored enterprises, and foreign government entities. These marketable securities are denominated in United States dollars. Refer to Note 6 of the Notes to Condensed Consolidated Financial Statements for additional information.
-
-
-
-As a result of the Tax Cuts and Job Acts that was signed into law in December 2017, substantially all of our cash, cash equivalents and marketable securities held outside of the United States as of April 29, 2018 are available for use in the U.S. without incurring additional U.S. federal income taxes. Refer to Note 5 of the Notes to Condensed Consolidated Financial Statements for additional information.
-
-
-
+Our primary sources of liquidity are our cash and cash equivalents, our marketable securities, and the cash generated by our operations.
+As of April 29, 2018 and January 28, 2018, we had $7.30 billion and $7.11 billion, respectively, in cash, cash equivalents and marketable securities.
+Our marketable securities consist of debt securities issued by the United States government and its agencies, highly rated corporations and financial institutions, asset-backed issuers, mortgage-backed securities by government-sponsored enterprises, and foreign government entities.
+These marketable securities are denominated in United States dollars.
+Refer to Note 6 of the Notes to Condensed Consolidated Financial Statements for additional information.
+As a result of the Tax Cuts and Job Acts that was signed into law in December 2017, substantially all of our cash, cash equivalents and marketable securities held outside of the United States as of April 29, 2018 are available for use in the U.S. without incurring additional U.S. federal income taxes.
+Refer to Note 5 of the Notes to Condensed Consolidated Financial Statements for additional information.
 Capital Return to Shareholders
-
-
-
 During the first quarter of fiscal year 2019, we repurchased a total of 3 million shares for $655 million and paid $91 million in cash dividends to our shareholders.
-
-
-
-For fiscal year 2019, we intend to return $1.25 billion to shareholders through ongoing quarterly cash dividends and share repurchases. 
-
-
-
-Our cash dividend program and the payment of future cash dividends under that program are subject to our Board's continuing determination that the dividend program and the declaration of dividends thereunder are in the best interests of our shareholders. Refer to Note 14 of the Notes to Condensed Consolidated Financial Statements for additional information.
-
-
-
-Notes Due 2021 and Notes Due 2026 
-
-
-
-In fiscal year 2017, we issued $1.00 billion of the 2.20% Notes Due 2021 and $1.00 billion of the 3.20% Notes Due 2026, collectively, the Notes. The net proceeds from the Notes were $1.98 billion, after deducting debt discounts and issuance costs.
-
-
-
+For fiscal year 2019, we intend to return $1.25 billion to shareholders through ongoing quarterly cash dividends and share repurchases.
+Our cash dividend program and the payment of future cash dividends under that program are subject to our Board's continuing determination that the dividend program and the declaration of dividends thereunder are in the best interests of our shareholders.
+Refer to Note 14 of the Notes to Condensed Consolidated Financial Statements for additional information.
+Notes Due 2021 and Notes Due 2026
+In fiscal year 2017, we issued $1.00 billion of the 2.20% Notes Due 2021 and $1.00 billion of the 3.20% Notes Due 2026, collectively, the Notes.
+The net proceeds from the Notes were $1.98 billion, after deducting debt discounts and issuance costs.
 Convertible Notes
-
-
-
-As of April 29, 2018, we had $14 million of Convertible Notes outstanding. Refer to Note 12 of the Notes to Condensed Consolidated Financial Statements for further discussion.
-
-
-
-Revolving Credit Facility 
-
-
-
-
-
-Commercial Paper 
-
-
-
-In fiscal year 2018, we established a commercial paper program to support general corporate purposes. Under the program, we can issue up to $575 million in commercial paper. As of April 29, 2018, there was no commercial paper outstanding.
-
-
-
+As of April 29, 2018, we had $14 million of Convertible Notes outstanding.
+Refer to Note 12 of the Notes to Condensed Consolidated Financial Statements for further discussion.
+Revolving Credit Facility
+Commercial Paper
+In fiscal year 2018, we established a commercial paper program to support general corporate purposes.
+Under the program, we can issue up to $575 million in commercial paper.
+As of April 29, 2018, there was no commercial paper outstanding.
 Operating Capital and Capital Expenditure Requirements
-
-
-
-In the second quarter of fiscal 2019, we intend to begin construction on a 750,000 square foot building on our Santa Clara campus. We believe that our existing cash balances and anticipated cash flows from operations will be sufficient to meet our operating requirements for at least the next twelve months.
-
-
-
+In the second quarter of fiscal 2019, we intend to begin construction on a 750,000 square foot building on our Santa Clara campus.
+We believe that our existing cash balances and anticipated cash flows from operations will be sufficient to meet our operating requirements for at least the next twelve months.
 Off-Balance Sheet Arrangements
-
-
-
 As of April 29, 2018, we had no material off-balance sheet arrangements as defined by applicable SEC regulations.
-
-
-
 Contractual Obligations
-
-
-
 There were no material changes in our contractual obligations from those disclosed in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018.
-
-
-
-
-
 Refer to Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations - Liquidity and Capital Resources” in our Annual Report on Form 10-K for the fiscal year ended January 28, 2018 for a description of our contractual obligations.
-
-
-
 Adoption of New and Recently Issued Accounting Pronouncements
-
-
-
 Refer to Note 1 of the Notes to Condensed Consolidated Financial Statements for a discussion of adoption of new and recently issued accounting pronouncements.
-
-
-
-ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
-
-
-
+ITEM 2.
+UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
 Issuer Purchases of Equity Securities
-
-
-
-Beginning August 2004, our Board of Directors authorized us to repurchase our stock. In November 2016, the Board authorized an additional $2.00 billion under our repurchase program and extended it through December 2020. 
-
-
-
-Since the inception of our share repurchase program, we have repurchased an aggregate of 254 million shares under our share repurchase program for a total cost of $6.16 billion through April 29, 2018. All shares delivered from these repurchases have been placed into treasury stock. As of April 29, 2018, we were authorized, subject to certain specifications, to repurchase additional shares of our common stock up to $1.16 billion through December 2020. For fiscal year 2019, we intend to return $1.25 billion to our shareholders through ongoing quarterly cash dividends and share repurchases.
-
-
-
-The repurchases can be made in the open market, in privately negotiated transactions, or in structured share repurchase programs, and can be made in one or more larger repurchases, in compliance with Rule 10b-18 of the Securities Exchange Act of 1934, as amended, subject to market conditions, applicable legal requirements, and other factors. The program does not obligate NVIDIA to acquire any particular amount of common stock and the program may be suspended at any time at our discretion. As part of our share repurchase program, we may enter into structured share repurchase transactions with financial institutions. These agreements generally require that we make an up-front payment in exchange for the right to receive a fixed number of shares of our common stock upon execution of the agreement, and a potential incremental number of shares of our common stock, within a pre-determined range, at the end of the term of the agreement.
-
-
-
-
-
-
-
-
-
+Beginning August 2004, our Board of Directors authorized us to repurchase our stock.
+In November 2016, the Board authorized an additional $2.00 billion under our repurchase program and extended it through December 2020.
+Since the inception of our share repurchase program, we have repurchased an aggregate of 254 million shares under our share repurchase program for a total cost of $6.16 billion through April 29, 2018.
+All shares delivered from these repurchases have been placed into treasury stock.
+As of April 29, 2018, we were authorized, subject to certain specifications, to repurchase additional shares of our common stock up to $1.16 billion through December 2020.
+For fiscal year 2019, we intend to return $1.25 billion to our shareholders through ongoing quarterly cash dividends and share repurchases.
+The repurchases can be made in the open market, in privately negotiated transactions, or in structured share repurchase programs, and can be made in one or more larger repurchases, in compliance with Rule 10b-18 of the Securities Exchange Act of 1934, as amended, subject to market conditions, applicable legal requirements, and other factors.
+The program does not obligate NVIDIA to acquire any particular amount of common stock and the program may be suspended at any time at our discretion.
+As part of our share repurchase program, we may enter into structured share repurchase transactions with financial institutions.
+These agreements generally require that we make an up-front payment in exchange for the right to receive a fixed number of shares of our common stock upon execution of the agreement, and a potential incremental number of shares of our common stock, within a pre-determined range, at the end of the term of the agreement.
 Transactions Related to our Convertible Notes and Note Hedges
-
-
-
-During the first quarter of fiscal year 2019, we issued 74 thousand shares of our common stock upon settlement of $2 million in principal amount of Convertible Notes submitted for conversion. In connection with these conversions, we exercised a portion of our Note Hedges to acquire an equal number of shares of our common stock. The counterparty to the Note Hedges may be deemed an “affiliated purchaser” and may have purchased the shares of our common stock deliverable to us upon this exercise of our option. Refer to Note 12 of the Notes to Condensed Consolidated Financial Statements for further discussion regarding the Convertible Notes and the Note Hedges.
-
-
-
+During the first quarter of fiscal year 2019, we issued 74 thousand shares of our common stock upon settlement of $2 million in principal amount of Convertible Notes submitted for conversion.
+In connection with these conversions, we exercised a portion of our Note Hedges to acquire an equal number of shares of our common stock.
+The counterparty to the Note Hedges may be deemed an “affiliated purchaser” and may have purchased the shares of our common stock deliverable to us upon this exercise of our option.
+Refer to Note 12 of the Notes to Condensed Consolidated Financial Statements for further discussion regarding the Convertible Notes and the Note Hedges.
 Restricted Stock Unit Share Withholding
-
-
-
-We also withhold common stock shares associated with net share settlements to cover tax withholding obligations upon the vesting of restricted stock unit awards under our employee equity incentive program. During the first quarter of fiscal year 2019, we withheld approximately 2 million shares at a total cost of $449 million through net share settlements. Refer to Note 3 of the Notes to Condensed Consolidated Financial Statements for further discussion regarding our equity incentive plans.
-
-
-
-
-
-ITEM 6. EXHIBITS
-
-
-
-
-
-
-
+We also withhold common stock shares associated with net share settlements to cover tax withholding obligations upon the vesting of restricted stock unit awards under our employee equity incentive program.
+During the first quarter of fiscal year 2019, we withheld approximately 2 million shares at a total cost of $449 million through net share settlements.
+Refer to Note 3 of the Notes to Condensed Consolidated Financial Statements for further discussion regarding our equity incentive plans.
+ITEM 6.
+EXHIBITS
 + Management contract or compensatory plan or arrangement
-
-
-
-
-
-
-
-
-
-
-
 SIGNATURE
-
-
-
 Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
-
-
-
-
-
- NVIDIA Corporation 
-
-
-
-
-
+ NVIDIA Corporation
  Colette M. Kress
-
-
-
  Executive Vice President and Chief Financial Officer (Duly Authorized Officer and Principal Financial Officer)
-
-
-

@@ -1,1122 +1,503 @@
 Item 1.Financial Statements
-
-
-
 XILINX, INC.
-
-
-
 CONDENSED CONSOLIDATED STATEMENTS OF INCOME
-
-
-
-
-
-
-
 See notes to condensed consolidated financial statements.
-
-
-
 XILINX, INC.
-
-
-
 CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
-
-
-
-
-
-
-
 See notes to condensed consolidated financial statements.
-
-
-
 XILINX, INC.
-
-
-
 CONDENSED CONSOLIDATED BALANCE SHEETS
-
-
-
-
-
 See notes to condensed consolidated financial statements.
-
-
-
 XILINX, INC.
-
-
-
 CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
-
-
-
-
-
-
-
 See notes to condensed consolidated financial statements.
-
-
-
 XILINX, INC.
-
-
-
 CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
-
-
-
-
-
-
-
-
-
 See notes to condensed consolidated financial statements.
-
-
-
 XILINX, INC.
-
-
-
 NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
-
-
-
-
-
-
-
 Basis of Presentation
-
-
-
-The accompanying interim condensed consolidated financial statements have been prepared in conformity with United States (U.S.) generally accepted accounting principles (GAAP) for interim financial information and the instructions to Form 10-Q and Article 10 of Regulation S-X, and should be read in conjunction with the Xilinx, Inc. (Xilinx or the Company) consolidated financial statements filed with the U.S. Securities and Exchange Commission (SEC) on Form 10-K for the fiscal year ended March 30, 2019. The interim financial statements are unaudited, but reflect all adjustments which are, in the opinion of management, of a normal, recurring nature necessary to provide a fair statement of results for the interim periods presented. The results of operations for the interim periods shown in this report are not necessarily indicative of the results that may be expected for the fiscal year ending March 28, 2020 or any future period.
-
-
-
-The Company uses a 52- to 53-week fiscal year ending on the Saturday nearest March 31. Fiscal 2020 and fiscal 2019 are both 52-week years ending on March 28, 2020 and March 30, 2019, respectively. The quarters ended June 29, 2019 and June 30, 2018 each consisted of 13 weeks.
-
-
-
-
-
+The accompanying interim condensed consolidated financial statements have been prepared in conformity with United States (U.S.) generally accepted accounting principles (GAAP) for interim financial information and the instructions to Form 10-Q and Article 10 of Regulation S-X, and should be read in conjunction with the Xilinx, Inc. (Xilinx or the Company) consolidated financial statements filed with the U.S. Securities and Exchange Commission (SEC) on Form 10-K for the fiscal year ended March 30, 2019.
+The interim financial statements are unaudited, but reflect all adjustments which are, in the opinion of management, of a normal, recurring nature necessary to provide a fair statement of results for the interim periods presented.
+The results of operations for the interim periods shown in this report are not necessarily indicative of the results that may be expected for the fiscal year ending March 28, 2020 or any future period.
+The Company uses a 52- to 53-week fiscal year ending on the Saturday nearest March 31.
+Fiscal 2020 and fiscal 2019 are both 52-week years ending on March 28, 2020 and March 30, 2019, respectively.
+The quarters ended June 29, 2019 and June 30, 2018 each consisted of 13 weeks.
 Recent Accounting Changes and Accounting Pronouncements
-
-
-
 Recent Accounting Pronouncements Adopted
-
-
-
 Leases
-
-
-
-In February 2016, the Financial Accounting Standards Board (FASB) issued authoritative guidance on leases. The new authoritative guidance requires the recognition of assets and liabilities arising from lease transactions on the balance sheet and additional disclosures about the amount, timing and uncertainty of cash flows from leases. Accordingly, a lessee recognizes a lease asset for its right to use the underlying asset and a lease liability for the corresponding lease obligation. The Company adopted this authoritative guidance using modified retrospective method during first quarter of fiscal 2020 and resulted in the recognition of right-of-use assets of approximately $50.0 million and lease liabilities for operating leases of approximately $50.0 million on March 31, 2019, the beginning of fiscal 2020. The Company determines if an arrangement is a lease, or contains a lease, at the inception of the arrangement. On the commencement date, leases are evaluated for classification, and assets and liabilities are recognized based on the present value of lease payments over the lease term. The Company uses the incremental borrowing rate based on the information available at commencement in determining the present value of lease payments. Operating lease expense is generally recognized on a straight-line basis over the lease term. The Company has elected the practical expedients to not separate lease and non-lease components within lease transactions, and not to record on the balance sheet leases with a term of 12 months or less. The Company also has elected the package of practical expedients, which allows the Company not to reassess (1) whether any expired or existing contracts as of the adoption date are or contain a lease, (2) lease classification for any expired or existing leases as of the adoption date and (3) initial direct costs for any existing leases as of the adoption date. The Company did not elect to apply the hindsight practical expedient when determining lease term and assessing impairment of right-of-use assets. 
-
-
-
-The Company recognizes its operating leases within its other assets, other accrued liabilities and other long-term liabilities on the Company's condensed consolidated balance sheets. The Company's finance leases were immaterial. 
-
-
-
-
-
+In February 2016, the Financial Accounting Standards Board (FASB) issued authoritative guidance on leases.
+The new authoritative guidance requires the recognition of assets and liabilities arising from lease transactions on the balance sheet and additional disclosures about the amount, timing and uncertainty of cash flows from leases.
+Accordingly, a lessee recognizes a lease asset for its right to use the underlying asset and a lease liability for the corresponding lease obligation.
+The Company adopted this authoritative guidance using modified retrospective method during first quarter of fiscal 2020 and resulted in the recognition of right-of-use assets of approximately $50.0 million and lease liabilities for operating leases of approximately $50.0 million on March 31, 2019, the beginning of fiscal 2020.
+The Company determines if an arrangement is a lease, or contains a lease, at the inception of the arrangement.
+On the commencement date, leases are evaluated for classification, and assets and liabilities are recognized based on the present value of lease payments over the lease term.
+The Company uses the incremental borrowing rate based on the information available at commencement in determining the present value of lease payments.
+Operating lease expense is generally recognized on a straight-line basis over the lease term.
+The Company has elected the practical expedients to not separate lease and non-lease components within lease transactions, and not to record on the balance sheet leases with a term of 12 months or less.
+The Company also has elected the package of practical expedients, which allows the Company not to reassess (1) whether any expired or existing contracts as of the adoption date are or contain a lease, (2) lease classification for any expired or existing leases as of the adoption date and (3) initial direct costs for any existing leases as of the adoption date.
+The Company did not elect to apply the hindsight practical expedient when determining lease term and assessing impairment of right-of-use assets.
+The Company recognizes its operating leases within its other assets, other accrued liabilities and other long-term liabilities on the Company's condensed consolidated balance sheets.
+The Company's finance leases were immaterial.
 Significant Customers and Concentrations of Credit Risk
-
-
-
-Avnet, Inc. (Avnet), one of the Company’s distributors, distributes the Company’s products worldwide. As of June 29, 2019 and March 30, 2019, Avnet accounted for 40% and 37% of the Company’s total net accounts receivable, respectively. Net revenues from Avnet accounted for 40% and 52% of the Company’s worldwide net revenues in the first quarter of fiscal 2020 and 2019, respectively. While the percentage of worldwide net revenues from Avnet fluctuates from period to period, overall the percentage is within historical ranges.
-
-
-
+Avnet, Inc. (Avnet), one of the Company’s distributors, distributes the Company’s products worldwide.
+As of June 29, 2019 and March 30, 2019, Avnet accounted for 40% and 37% of the Company’s total net accounts receivable, respectively.
+Net revenues from Avnet accounted for 40% and 52% of the Company’s worldwide net revenues in the first quarter of fiscal 2020 and 2019, respectively.
+While the percentage of worldwide net revenues from Avnet fluctuates from period to period, overall the percentage is within historical ranges.
 For the first quarter of fiscal 2020 and 2019, approximately 50% and 63%, respectively, of the Company's net revenues were from products sold to distributors for subsequent resale to original equipment manufacturers (OEMs) or their subcontract manufacturers.
-
-
-
-Xilinx is subject to concentrations of credit risk primarily in its trade accounts receivable and investments in debt securities to the extent of the amounts recorded on the condensed consolidated balance sheet. The Company attempts to mitigate the concentration of credit risk in its trade receivables through its credit evaluation process, collection terms, distributor sales to diverse end customers 
-
-
-
-and through geographical dispersion of sales. Xilinx generally does not require collateral for receivables from its end customers or distributors.
-
-
-
+Xilinx is subject to concentrations of credit risk primarily in its trade accounts receivable and investments in debt securities to the extent of the amounts recorded on the condensed consolidated balance sheet.
+The Company attempts to mitigate the concentration of credit risk in its trade receivables through its credit evaluation process, collection terms, distributor sales to diverse end customers
+and through geographical dispersion of sales.
+Xilinx generally does not require collateral for receivables from its end customers or distributors.
 No other distributor or end customer accounted for more than 10% of the Company’s worldwide net revenues for the first quarter of fiscal 2020 and 2019.
-
-
-
-
-
-
-
-
-
 Fair Value Measurements
-
-
-
-The authoritative guidance for fair value measurements established by the FASB defines fair value as the exchange price that would be received from selling an asset or paid to transfer a liability (an exit price) in an orderly transaction between market participants at the measurement date. When determining the fair value measurements for assets and liabilities required or permitted to be recorded at fair value, the Company considers the principal or most advantageous market in which Xilinx would transact and also considers assumptions that market participants would use when pricing the asset or liability, such as inherent risk, transfer restrictions and risk of nonperformance.
-
-
-
-
-
-
-
+The authoritative guidance for fair value measurements established by the FASB defines fair value as the exchange price that would be received from selling an asset or paid to transfer a liability (an exit price) in an orderly transaction between market participants at the measurement date.
+When determining the fair value measurements for assets and liabilities required or permitted to be recorded at fair value, the Company considers the principal or most advantageous market in which Xilinx would transact and also considers assumptions that market participants would use when pricing the asset or liability, such as inherent risk, transfer restrictions and risk of nonperformance.
 Fair Value Hierarchy
-
-
-
-
-
 Level 1 — Quoted (unadjusted) prices in active markets for identical assets or liabilities.
-
-
-
-The Company’s Level 1 assets consist of U.S. government securities and money market funds. 
-
-
-
+The Company’s Level 1 assets consist of U.S. government securities and money market funds.
 Level 2 — Observable inputs other than quoted prices included in Level 1, such as quoted prices for similar assets or liabilities in active markets; quoted prices for identical or similar assets or liabilities in markets that are not active; or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the asset or liability.
-
-
-
-The Company’s Level 2 assets consist of financial institution securities, non-financial institution securities, U.S. agency securities, foreign government and agency securities, mortgage-backed securities, debt mutual funds, asset-backed securities and commercial 
-
-
-
-mortgage-backed securities. The Company’s Level 2 assets and liabilities also include foreign currency forward contracts and interest rate swap contracts.
-
-
-
-Level 3 — Unobservable inputs to the valuation methodology that are supported by little or no market activity and that are significant to the measurement of the fair value of the assets or liabilities. Level 3 assets and liabilities include those whose fair value measurements are determined using pricing models, discounted cash flow methodologies or similar valuation techniques, as well as significant management judgment or estimation.
-
-
-
-The Company has no Level 3 assets and liabilities measured at fair value on a recurring basis. 
-
-
-
+The Company’s Level 2 assets consist of financial institution securities, non-financial institution securities, U.S. agency securities, foreign government and agency securities, mortgage-backed securities, debt mutual funds, asset-backed securities and commercial
+mortgage-backed securities.
+The Company’s Level 2 assets and liabilities also include foreign currency forward contracts and interest rate swap contracts.
+Level 3 — Unobservable inputs to the valuation methodology that are supported by little or no market activity and that are significant to the measurement of the fair value of the assets or liabilities.
+Level 3 assets and liabilities include those whose fair value measurements are determined using pricing models, discounted cash flow methodologies or similar valuation techniques, as well as significant management judgment or estimation.
+The Company has no Level 3 assets and liabilities measured at fair value on a recurring basis.
 Assets and Liabilities Measured at Fair Value on a Recurring Basis
-
-
-
-
-
-
-
-
-
 For certain of the Company’s financial instruments, including cash held in banks, accounts receivable and accounts payable, the carrying amounts approximate fair value due to their short maturities, and are therefore excluded from the fair value tables above.
-
-
-
 Financial Instruments Not Recorded at Fair Value on a Recurring Basis
-
-
-
-The Company's $500.0 million principal amount of 3.000% notes due March 15, 2021 (2021 Notes) and $750.0 million principal amount of 2.950% senior notes due June 1, 2024 (2024 Notes) are measured at fair value on a quarterly basis for disclosure purposes. The fair values of the 2021 Notes and 2024 Notes as of June 29, 2019 were approximately $503.7 million and $762.5 million, respectively, based on the last trading price for the period (classified as Level 2 in fair value hierarchy due to relatively low trading volume). 
-
-
-
-Assets and Liabilities Measured at Fair Value on a Non-Recurring Basis 
-
-
-
-As of June 29, 2019, the Company had non-marketable equity securities in private companies of $72.8 million, which were classified as Level 3 assets. The Company’s investments in non-marketable securities of private companies are recorded at fair value if the Company recognizes an observable price adjustment or an impairment. Such impairment losses or observable price adjustments were not material during all periods presented. The Company’s investments in non-financial assets such as property, plant and equipment, goodwill and acquisition-related intangibles, are recorded at cost (net of accumulated depreciation or amortization, where applicable). These non-financial assets are reduced to fair value when impaired.
-
-
-
-
-
+The Company's $500.0 million principal amount of 3.000% notes due March 15, 2021 (2021 Notes) and $750.0 million principal amount of 2.950% senior notes due June 1, 2024 (2024 Notes) are measured at fair value on a quarterly basis for disclosure purposes.
+The fair values of the 2021 Notes and 2024 Notes as of June 29, 2019 were approximately $503.7 million and $762.5 million, respectively, based on the last trading price for the period (classified as Level 2 in fair value hierarchy due to relatively low trading volume).
+Assets and Liabilities Measured at Fair Value on a Non-Recurring Basis
+As of June 29, 2019, the Company had non-marketable equity securities in private companies of $72.8 million, which were classified as Level 3 assets.
+The Company’s investments in non-marketable securities of private companies are recorded at fair value if the Company recognizes an observable price adjustment or an impairment.
+Such impairment losses or observable price adjustments were not material during all periods presented.
+The Company’s investments in non-financial assets such as property, plant and equipment, goodwill and acquisition-related intangibles, are recorded at cost (net of accumulated depreciation or amortization, where applicable).
+These non-financial assets are reduced to fair value when impaired.
 Financial Instruments
-
-
-
-
-
-
-
-Financial institution securities include securities issued or managed by financial institutions in various forms, such as commercial paper and time deposits. Substantially all time deposits were issued by institutions outside the U.S. as of June 29, 2019 and March 30, 2019.
-
-
-
-
-
-
-
-
-
-As of June 29, 2019, the gross unrealized losses that had been outstanding for both less than twelve months and more than twelve months were primarily related to mortgage-backed securities, which was primarily due to the general rising of the interest-rate environment although the percentage of such losses to the total estimated fair value of the mortgage-backed securities was relatively insignificant. 
-
-
-
-The Company reviewed the investment portfolio and determined that the gross unrealized losses on these investments as of June 29, 2019 and March 30, 2019 were temporary in nature as evidenced by the fluctuations in the gross unrealized losses within the investment categories. The marketable debt securities (financial institution securities, non-financial institution securities, U.S. and foreign government and agency securities, asset-backed securities, mortgage-backed securities and commercial mortgage-backed securities) are highly rated by the credit rating agencies, there have been no defaults on any of these securities and the Company has received interest payments as they become due. Therefore, the Company believes that it will be able to collect both principal and interest amount due to the Company. Additionally, in the past several years a portion of the Company's investment in the mortgage-backed securities was redeemed or prepaid by the debtors at par. Furthermore, the aggregate of individual unrealized losses that had been outstanding for twelve months or more was not significant as of June 29, 2019 and March 30, 2019. The Company neither intends to sell these investments nor concludes that it is more-likely-than-not that it will have to sell them until recovery of their carrying values. 
-
-
-
-The amortized cost and estimated fair value of marketable debt securities, by contractual maturity, are shown in the table below. Actual maturities may differ from contractual maturities because issuers may have the right to call or prepay obligations without call or prepayment penalties.
-
-
-
-
-
-As of June 29, 2019, $759.3 million of marketable debt securities with contractual maturities of greater than one year were classified as short-term investments. Additionally, the above table does not include investments in money market funds and debt mutual funds because these investments do not have specific contractual maturities.
-
-
-
-
-
-
-
+Financial institution securities include securities issued or managed by financial institutions in various forms, such as commercial paper and time deposits.
+Substantially all time deposits were issued by institutions outside the U.S. as of June 29, 2019 and March 30, 2019.
+As of June 29, 2019, the gross unrealized losses that had been outstanding for both less than twelve months and more than twelve months were primarily related to mortgage-backed securities, which was primarily due to the general rising of the interest-rate environment although the percentage of such losses to the total estimated fair value of the mortgage-backed securities was relatively insignificant.
+The Company reviewed the investment portfolio and determined that the gross unrealized losses on these investments as of June 29, 2019 and March 30, 2019 were temporary in nature as evidenced by the fluctuations in the gross unrealized losses within the investment categories.
+The marketable debt securities (financial institution securities, non-financial institution securities, U.S. and foreign government and agency securities, asset-backed securities, mortgage-backed securities and commercial mortgage-backed securities) are highly rated by the credit rating agencies, there have been no defaults on any of these securities and the Company has received interest payments as they become due.
+Therefore, the Company believes that it will be able to collect both principal and interest amount due to the Company.
+Additionally, in the past several years a portion of the Company's investment in the mortgage-backed securities was redeemed or prepaid by the debtors at par.
+Furthermore, the aggregate of individual unrealized losses that had been outstanding for twelve months or more was not significant as of June 29, 2019 and March 30, 2019.
+The Company neither intends to sell these investments nor concludes that it is more-likely-than-not that it will have to sell them until recovery of their carrying values.
+The amortized cost and estimated fair value of marketable debt securities, by contractual maturity, are shown in the table below.
+Actual maturities may differ from contractual maturities because issuers may have the right to call or prepay obligations without call or prepayment penalties.
+As of June 29, 2019, $759.3 million of marketable debt securities with contractual maturities of greater than one year were classified as short-term investments.
+Additionally, the above table does not include investments in money market funds and debt mutual funds because these investments do not have specific contractual maturities.
 The cost of securities matured or sold is based on the specific identification method.
-
-
-
-The Company records the change in the fair value of its investment in debt mutual funds as part of its interest and other income (expense), net. This change in fair value was a net increase of $1.4 million for the three months ended June 29, 2019 and resulted in a gain within interest and other income (expense) net for the period. During the three months ended June 29, 2019, the Company sold a debt mutual fund and recognized a loss of an immaterial amount. 
-
-
-
-
-
+The Company records the change in the fair value of its investment in debt mutual funds as part of its interest and other income (expense), net.
+This change in fair value was a net increase of $1.4 million for the three months ended June 29, 2019 and resulted in a gain within interest and other income (expense) net for the period.
+During the three months ended June 29, 2019, the Company sold a debt mutual fund and recognized a loss of an immaterial amount.
 Derivative Financial Instruments
-
-
-
-The Company’s primary objective for holding derivative financial instruments is to manage foreign currency exchange rate risk and interest rate risk. As a result of the use of derivative financial instruments, the Company is exposed to the risk that counterparties to derivative contracts may fail to meet their contractual obligations. The Company manages counterparty credit risk in derivative contracts by reviewing counterparty creditworthiness on a regular basis, establishing collateral requirement and limiting exposure to any single counterparty. The right of set-off that exists with certain transactions enables the Company to net amounts due to and from the counterparty, reducing the maximum loss from credit risk in the event of counterparty default.
-
-
-
-In May 2017, the Company entered into interest rate swap contracts with certain independent financial institutions to manage interest rate risks related to fixed interest rate expenses from its 2024 Notes and floating interest rate income from its investments in marketable debt securities. The interest rate swap contracts were designated and qualified as fair value hedges of the 2024 Notes and were separately accounted for as a derivative. The interest rate swap contracts and the 2024 Notes were initially measured at fair value. Changes in fair values of the interest rate swap contracts and the 2024 Notes were recorded in the Company’s consolidated balance sheets. During the three months ended June 29, 2019, the Company sold the interest rate swap contracts for an immaterial gain. The gain will be amortized as a reduction to interest expense over the remaining life of the 2024 Notes. As a result of the sale, the Company recorded the net change in fair value of the interest rate swap contracts of $11.7 million in the Company's condensed consolidated balance sheets for the period ended June 29, 2019. See “Note 10. Debt and Credit Facility” for more discussion related to interest rate swap contracts. There was no ineffectiveness during all periods presented.
-
-
-
-Note 7. Stock-Based Compensation Plans
-
-
-
-The Company’s equity incentive plans are broad-based, long-term retention programs that cover employees, consultants and non-employee directors of the Company. These plans are intended to attract and retain talented employees, consultants and non-employee directors and to provide such persons with a proprietary interest in the Company.
-
-
-
+The Company’s primary objective for holding derivative financial instruments is to manage foreign currency exchange rate risk and interest rate risk.
+As a result of the use of derivative financial instruments, the Company is exposed to the risk that counterparties to derivative contracts may fail to meet their contractual obligations.
+The Company manages counterparty credit risk in derivative contracts by reviewing counterparty creditworthiness on a regular basis, establishing collateral requirement and limiting exposure to any single counterparty.
+The right of set-off that exists with certain transactions enables the Company to net amounts due to and from the counterparty, reducing the maximum loss from credit risk in the event of counterparty default.
+In May 2017, the Company entered into interest rate swap contracts with certain independent financial institutions to manage interest rate risks related to fixed interest rate expenses from its 2024 Notes and floating interest rate income from its investments in marketable debt securities.
+The interest rate swap contracts were designated and qualified as fair value hedges of the 2024 Notes and were separately accounted for as a derivative.
+The interest rate swap contracts and the 2024 Notes were initially measured at fair value.
+Changes in fair values of the interest rate swap contracts and the 2024 Notes were recorded in the Company’s consolidated balance sheets.
+During the three months ended June 29, 2019, the Company sold the interest rate swap contracts for an immaterial gain.
+The gain will be amortized as a reduction to interest expense over the remaining life of the 2024 Notes.
+As a result of the sale, the Company recorded the net change in fair value of the interest rate swap contracts of $11.7 million in the Company's condensed consolidated balance sheets for the period ended June 29, 2019.
+See “Note 10.
+Debt and Credit Facility” for more discussion related to interest rate swap contracts.
+There was no ineffectiveness during all periods presented.
+Note 7.
+Stock-Based Compensation Plans
+The Company’s equity incentive plans are broad-based, long-term retention programs that cover employees, consultants and non-employee directors of the Company.
+These plans are intended to attract and retain talented employees, consultants and non-employee directors and to provide such persons with a proprietary interest in the Company.
 Stock-Based Compensation
-
-
-
-
-
-
-
 Employee Stock Option Plans
-
-
-
-The types of awards allowed under the 2007 Equity Incentive Plan (2007 Equity Plan) include incentive stock options, non-qualified stock options, restricted stock units (RSUs), restricted stock and stock appreciation rights. As of June 29, 2019, 11.1 million shares remained available for grant under the 2007 Equity Plan.
-
-
-
+The types of awards allowed under the 2007 Equity Incentive Plan (2007 Equity Plan) include incentive stock options, non-qualified stock options, restricted stock units (RSUs), restricted stock and stock appreciation rights.
+As of June 29, 2019, 11.1 million shares remained available for grant under the 2007 Equity Plan.
 RSU Awards
-
-
-
-
-
-
-
-
-
-
-
-For the majority of RSUs granted, the number of shares of common stock issued on the date the RSU awards vest is net of the minimum statutory withholding requirements that the Company pays in cash to the appropriate taxing authorities on behalf of the Company's employees. During the first three months of fiscal 2020 and 2019, the Company withheld $4.1 million and $5.5 million worth of RSU awards, respectively, to satisfy the employees’ tax obligations. The amounts of excess tax benefits, primarily from RSU vesting, were immaterial for all periods presented.
-
-
-
+For the majority of RSUs granted, the number of shares of common stock issued on the date the RSU awards vest is net of the minimum statutory withholding requirements that the Company pays in cash to the appropriate taxing authorities on behalf of the Company's employees.
+During the first three months of fiscal 2020 and 2019, the Company withheld $4.1 million and $5.5 million worth of RSU awards, respectively, to satisfy the employees’ tax obligations.
+The amounts of excess tax benefits, primarily from RSU vesting, were immaterial for all periods presented.
 Employee Stock Purchase Plan
-
-
-
-The fair values of stock purchase plan rights under the Company’s ESPP were estimated using the Black-Scholes option pricing model. Under the Company’s ESPP, shares are only issued during the second and fourth quarters of each fiscal year. Therefore, no shares were issued during the first quarter of fiscal 2020 or 2019. The next scheduled purchase under the ESPP is in the second quarter of fiscal 2020. As of June 29, 2019, 11.4 million shares were available for future issuance under the Company's ESPP. 
-
-
-
-Note 8. Net Income Per Common Share
-
-
-
-
-
-
-
-The total shares used in the denominator of the diluted net income per common share calculation include potentially dilutive common equivalent shares outstanding that are not included in basic net income per common share calculation. The diluted shares were calculated by applying the treasury stock method to the impact of the equity incentive plans.
-
-
-
-Certain shares of outstanding stock options and RSUs were excluded from diluted net income per common share calculation by applying the treasury stock method, as their inclusion would have been anti-dilutive. These options and RSUs were immaterial for the first quarter of fiscal 2020 and 2019, respectively, but could be dilutive in the future if the Company’s average share price increases and is greater than the combined exercise prices and the unamortized fair values of these options and RSUs.
-
-
-
-
-
+The fair values of stock purchase plan rights under the Company’s ESPP were estimated using the Black-Scholes option pricing model.
+Under the Company’s ESPP, shares are only issued during the second and fourth quarters of each fiscal year.
+Therefore, no shares were issued during the first quarter of fiscal 2020 or 2019.
+The next scheduled purchase under the ESPP is in the second quarter of fiscal 2020.
+As of June 29, 2019, 11.4 million shares were available for future issuance under the Company's ESPP.
+Note 8.
+Net Income Per Common Share
+The total shares used in the denominator of the diluted net income per common share calculation include potentially dilutive common equivalent shares outstanding that are not included in basic net income per common share calculation.
+The diluted shares were calculated by applying the treasury stock method to the impact of the equity incentive plans.
+Certain shares of outstanding stock options and RSUs were excluded from diluted net income per common share calculation by applying the treasury stock method, as their inclusion would have been anti-dilutive.
+These options and RSUs were immaterial for the first quarter of fiscal 2020 and 2019, respectively, but could be dilutive in the future if the Company’s average share price increases and is greater than the combined exercise prices and the unamortized fair values of these options and RSUs.
 Inventories
-
-
-
-
-
-
-
-Note 10. Debt and Credit Facility
-
-
-
-
-
-On March 12, 2014, the Company issued the 2021 Notes at a discounted price of 99.281% of par. Interest on the 2021 Notes is payable semi-annually on March 15 and September 15. 
-
-
-
-The Company received net proceeds of $495.4 million from issuance of the 2021 Notes, after the debt discount and deduction of debt issuance costs. The debt discounts and issuance costs are amortized to interest expense over the terms of the 2021 Notes. As of June 29, 2019, the remaining term of the 2021 Notes is 1.7 years respectively.
-
-
-
-
-
-
-
-
-
-
-
-
-
-On May 30, 2017, the Company issued the 2024 Notes at a discounted price of 99.887% of par. Interest on the 2024 Notes is payable semi-annually on June 1 and December 1. 
-
-
-
-The Company received $745.2 million from the issuance of the 2024 Notes, after the debt discount and deduction of debt issuance costs. The debt discounts and issuance costs are amortized to interest expense over the term of the 2024 Notes. As of June 29, 2019, the remaining term of the 2024 Notes is approximately 5.0 years.
-
-
-
-In relation to the issuance of the 2024 Notes, the Company entered into interest rate swap contracts with certain independent financial institutions, whereby the Company pays on a semi-annual basis, a variable interest rate equal to the three-month London Interbank Offered Rate (LIBOR) plus 91.43 bps, and receives on a semi-annual basis, interest income at a fixed interest rate of 2.950%. The Company incurred a net interest expense of $1.0 million for the three months ended June 29, 2019 and earned a net interest income of $851 thousand for the three months ended June 30, 2018, from the interest rate swap contracts, which was included in interest and other income (expense), net on the condensed consolidated statements of income. During the three months ended June 29, 2019, the Company sold the interest rate swap contracts for an immaterial gain. The gain will be amortized as a reduction to interest expense over the remaining life of the 2024 Notes.
-
-
-
-
-
-
-
-
-
-
-
+Note 10.
+Debt and Credit Facility
+On March 12, 2014, the Company issued the 2021 Notes at a discounted price of 99.281% of par.
+Interest on the 2021 Notes is payable semi-annually on March 15 and September 15.
+The Company received net proceeds of $495.4 million from issuance of the 2021 Notes, after the debt discount and deduction of debt issuance costs.
+The debt discounts and issuance costs are amortized to interest expense over the terms of the 2021 Notes.
+As of June 29, 2019, the remaining term of the 2021 Notes is 1.7 years respectively.
+On May 30, 2017, the Company issued the 2024 Notes at a discounted price of 99.887% of par.
+Interest on the 2024 Notes is payable semi-annually on June 1 and December 1.
+The Company received $745.2 million from the issuance of the 2024 Notes, after the debt discount and deduction of debt issuance costs.
+The debt discounts and issuance costs are amortized to interest expense over the term of the 2024 Notes.
+As of June 29, 2019, the remaining term of the 2024 Notes is approximately 5.0 years.
+In relation to the issuance of the 2024 Notes, the Company entered into interest rate swap contracts with certain independent financial institutions, whereby the Company pays on a semi-annual basis, a variable interest rate equal to the three-month London Interbank Offered Rate (LIBOR) plus 91.43 bps, and receives on a semi-annual basis, interest income at a fixed interest rate of 2.950%.
+The Company incurred a net interest expense of $1.0 million for the three months ended June 29, 2019 and earned a net interest income of $851 thousand for the three months ended June 30, 2018, from the interest rate swap contracts, which was included in interest and other income (expense), net on the condensed consolidated statements of income.
+During the three months ended June 29, 2019, the Company sold the interest rate swap contracts for an immaterial gain.
+The gain will be amortized as a reduction to interest expense over the remaining life of the 2024 Notes.
 Revolving Credit Facility
-
-
-
-On December 7, 2016, the Company entered into a $400.0 million senior unsecured revolving credit facility that, upon certain conditions, may be extended by an additional $150.0 million, with a syndicate of banks (expiring in December 2021). Borrowings under the credit facility will bear interest at a benchmark rate plus an applicable margin based upon the Company’s credit rating. In connection with the credit facility, the Company is required to maintain certain financial and nonfinancial covenants. As of June 29, 2019, the Company had made no borrowings under this credit facility and was not in violation of any of the covenants.
-
-
-
-Note 11. Common Stock Repurchase Program
-
-
-
-The Board of Directors (Board) has approved stock repurchase programs enabling the Company to repurchase its common stock in the open market or through negotiated transactions with independent financial institutions. On May 16, 2016, the Board authorized the repurchase of up to $1.00 billion of the Company's common stock and debentures (2016 Repurchase Program). On May 16, 2018, the Board authorized another program (2018 Repurchase Program) to repurchase the Company's common stock and debentures up to $500.0 million. The 2016 and 2018 Repurchase Programs have no stated expiration date. 
-
-
-
-Through June 29, 2019, the Company fully utilized the entire amount authorized under the 2016 Repurchase Program and used $266.7 million of the $500.0 million authorized under the 2018 Repurchase Program, leaving $233.3 million available for future repurchases. The Company’s current policy is to retire all repurchased shares, and consequently, no treasury shares were held as of June 29, 2019 and March 30, 2019.
-
-
-
-During the first quarter of fiscal 2020, the Company repurchased 1.4 million shares of common stock in the open market for a total of $145.0 million. Additionally, the Company entered into a stock repurchase agreement with an independent financial institution to repurchase shares under the 2018 Repurchase Program. Under the agreement, the Company provided the financial institution with an up-front payment totaling $300.0 million and the financial institution agreed to deliver to the Company a certain number of shares based upon the volume weighted-average price, during an averaging period, less a specified discount. Under this arrangement, the Company received an initial 1.6 million shares of common stock during the first quarter of fiscal 2020 for $168.1 million (estimated based on volume-weighted average price up to June 29, 2019). The initial shares received by the Company were retired, accounted for as a reduction to stockholders' equity in the condensed consolidated balance sheets and treated as a repurchase of common stock for purposes of calculating earnings per share. The remaining estimated $131.9 million under this arrangement is considered indexed to the Company's common stock and met all of the applicable criteria for equity classification. The Company expects to receive additional shares and a portion of the remaining estimated $131.9 million back during the next quarter. 
-
-
-
+On December 7, 2016, the Company entered into a $400.0 million senior unsecured revolving credit facility that, upon certain conditions, may be extended by an additional $150.0 million, with a syndicate of banks (expiring in December 2021).
+Borrowings under the credit facility will bear interest at a benchmark rate plus an applicable margin based upon the Company’s credit rating.
+In connection with the credit facility, the Company is required to maintain certain financial and nonfinancial covenants.
+As of June 29, 2019, the Company had made no borrowings under this credit facility and was not in violation of any of the covenants.
+Note 11.
+Common Stock Repurchase Program
+The Board of Directors (Board) has approved stock repurchase programs enabling the Company to repurchase its common stock in the open market or through negotiated transactions with independent financial institutions.
+On May 16, 2016, the Board authorized the repurchase of up to $1.00 billion of the Company's common stock and debentures (2016 Repurchase Program).
+On May 16, 2018, the Board authorized another program (2018 Repurchase Program) to repurchase the Company's common stock and debentures up to $500.0 million.
+The 2016 and 2018 Repurchase Programs have no stated expiration date.
+Through June 29, 2019, the Company fully utilized the entire amount authorized under the 2016 Repurchase Program and used $266.7 million of the $500.0 million authorized under the 2018 Repurchase Program, leaving $233.3 million available for future repurchases.
+The Company’s current policy is to retire all repurchased shares, and consequently, no treasury shares were held as of June 29, 2019 and March 30, 2019.
+During the first quarter of fiscal 2020, the Company repurchased 1.4 million shares of common stock in the open market for a total of $145.0 million.
+Additionally, the Company entered into a stock repurchase agreement with an independent financial institution to repurchase shares under the 2018 Repurchase Program.
+Under the agreement, the Company provided the financial institution with an up-front payment totaling $300.0 million and the financial institution agreed to deliver to the Company a certain number of shares based upon the volume weighted-average price, during an averaging period, less a specified discount.
+Under this arrangement, the Company received an initial 1.6 million shares of common stock during the first quarter of fiscal 2020 for $168.1 million (estimated based on volume-weighted average price up to June 29, 2019).
+The initial shares received by the Company were retired, accounted for as a reduction to stockholders' equity in the condensed consolidated balance sheets and treated as a repurchase of common stock for purposes of calculating earnings per share.
+The remaining estimated $131.9 million under this arrangement is considered indexed to the Company's common stock and met all of the applicable criteria for equity classification.
+The Company expects to receive additional shares and a portion of the remaining estimated $131.9 million back during the next quarter.
 During the first quarter of fiscal 2019, the Company repurchased 2.1 million shares of common stock in the open market for a total of $136.8 million.
-
-
-
-Note 12. Interest and Other Income (Expense), Net
-
-
-
-
-
-
-
-Note 13. Accumulated Other Comprehensive Loss
-
-
-
-
-
-
-
+Note 12.
+Interest and Other Income (Expense), Net
+Note 13.
+Accumulated Other Comprehensive Loss
 The related tax effects of other comprehensive income (loss) were not material for all periods presented.
-
-
-
-Note 14. Income Taxes
-
-
-
-The Company recorded a tax provision of $21.1 million for the first quarter of fiscal 2020 as compared to $22.9 million in the same prior year period, representing effective tax rates of 8% and 11%, respectively. 
-
-
-
-The difference between the U.S. federal statutory tax rate of 21% and the Company's effective tax rate in all periods presented was primarily due to the beneficial impact of income earned in lower tax rate jurisdictions, which was partially offset by U.S. tax on global intangible low-taxed income (GILTI). 
-
-
-
-The Company’s total gross unrecognized tax benefits as of June 29, 2019, determined in accordance with FASB authoritative guidance for measuring uncertain tax positions, increased by $1.2 million in the first quarter of fiscal 2020 to $148.8 million. The total amount of unrecognized tax benefits that, if realized in a future period, would favorably affect the effective tax rate was $36.5 million as of June 29, 2019. Another $85.5 million would increase additional paid-in capital. The $85.5 million relates to an additional deduction claimed on federal and state amended tax returns for fiscal 2014 for repurchase premium paid in that year in connection with the early redemption of the Company’s 3.125% Junior Convertible debenture due March 15, 2037. It is reasonably possible that changes to the Company's unrecognized tax benefits could be significant in the next twelve months due to tax audit settlements and lapses of statutes of limitation. As a result of uncertainties regarding tax audit settlements and their possible outcomes, an estimate of the range of increase or decrease that could occur in the next twelve months cannot be made.
-
-
-
-The Company’s policy is to include interest and penalties related to income tax liabilities within the provision for income taxes on the condensed consolidated statements of income. The balance of accrued interest and penalties recorded in the condensed consolidated balance sheets and the amounts of interest and penalties included in the Company's provision for income taxes were not material for all periods presented.
-
-
-
+Note 14.
+Income Taxes
+The Company recorded a tax provision of $21.1 million for the first quarter of fiscal 2020 as compared to $22.9 million in the same prior year period, representing effective tax rates of 8% and 11%, respectively.
+The difference between the U.S. federal statutory tax rate of 21% and the Company's effective tax rate in all periods presented was primarily due to the beneficial impact of income earned in lower tax rate jurisdictions, which was partially offset by U.S. tax on global intangible low-taxed income (GILTI).
+The Company’s total gross unrecognized tax benefits as of June 29, 2019, determined in accordance with FASB authoritative guidance for measuring uncertain tax positions, increased by $1.2 million in the first quarter of fiscal 2020 to $148.8 million.
+The total amount of unrecognized tax benefits that, if realized in a future period, would favorably affect the effective tax rate was $36.5 million as of June 29, 2019.
+Another $85.5 million would increase additional paid-in capital.
+The $85.5 million relates to an additional deduction claimed on federal and state amended tax returns for fiscal 2014 for repurchase premium paid in that year in connection with the early redemption of the Company’s 3.125% Junior Convertible debenture due March 15, 2037.
+It is reasonably possible that changes to the Company's unrecognized tax benefits could be significant in the next twelve months due to tax audit settlements and lapses of statutes of limitation.
+As a result of uncertainties regarding tax audit settlements and their possible outcomes, an estimate of the range of increase or decrease that could occur in the next twelve months cannot be made.
+The Company’s policy is to include interest and penalties related to income tax liabilities within the provision for income taxes on the condensed consolidated statements of income.
+The balance of accrued interest and penalties recorded in the condensed consolidated balance sheets and the amounts of interest and penalties included in the Company's provision for income taxes were not material for all periods presented.
 The statutes of limitations have closed for U.S. federal income tax purposes for years through fiscal 2014, for U.S. state income tax purposes for years through fiscal 2010, and for Ireland income tax purposes for years through fiscal 2014.
-
-
-
-On July 27, 2015, the United States Tax Court (Tax Court) issued its opinion in Altera Corp. v. Commissioner, and, in a 15-0 decision, concluded that related parties in a cost sharing arrangement are not required to share expenses related to stock-based compensation. The Commissioner appealed the Tax Court decision to the Ninth Circuit Court of Appeals (Ninth Circuit). The Ninth Circuit overturned the Tax Court’s decision in an opinion issued on July 24, 2018, but subsequently withdrew it. After 
-
-
-
-rehearing the arguments on October 16, 2018, the Ninth Circuit issued a subsequent opinion on June 7, 2019. In a 2-1 decision, the Ninth Circuit overturned the Tax Court’s decision. On July 22, 2019, Altera filed a petition for an en banc rehearing with the Ninth Circuit, which will consist of a panel of 11 judges. In the case of a denial of a Ninth Circuit en banc rehearing or a decision against Altera following an en banc rehearing, Altera can appeal to the United States Supreme Court for review. Since the Altera decision is not yet final, we believe the law to be unsettled and continue to record tax benefits as we exclude stock-based compensation costs from our cost sharing arrangement. As of the fiscal quarter ended June 29, 2019, the potential impact of a final adverse decision to the consolidated statement of income could be as much as $45.0 million for prior years' taxes and interest. We will continue to monitor developments in the Altera case and the potential effect on our consolidated financial statements.
-
-
-
-Note 15. Leases and Commitments
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Other commitments as of June 29, 2019 totaled $197.4 million and consisted of purchases of inventory and other non-cancelable purchase obligations related to subcontractors that manufacture silicon wafers and provide assembly and some test services. The Company expects to receive and pay for these materials and services in the next three to six months, as the products meet delivery and quality specifications. Additionally, as of June 29, 2019, the Company also had $2.9 million of non-cancelable license 
-
-
-
-
-
-Note 16. Product Warranty and Indemnification
-
-
-
-The Company generally sells products with a limited warranty for product quality. The Company provides an accrual for known product issues if a loss is probable and can be reasonably estimated. As of the end of the first quarter of fiscal 2020 and the end of fiscal 2019, the accrual balances of the product warranty liability were immaterial. 
-
-
-
-The Company offers, subject to certain terms and conditions, to indemnify customers and distributors for costs and damages awarded against these parties in the event the Company’s hardware products are found to infringe third-party intellectual property rights, including patents, copyrights or trademarks, and to compensate certain customers for limited specified costs they actually incur in the event the Company's hardware products experience epidemic failure. To a lesser extent, the Company may from time-to-time offer limited indemnification with respect to its software products. The terms and conditions of these indemnity obligations are limited by contract, which obligations are typically perpetual from the effective date of the agreement. The Company has historically received only a limited number of requests for indemnification under these provisions and has not made any significant payments pursuant to these provisions. The Company cannot estimate the maximum amount of potential future payments, if any, that the Company may be required to make as a result of these obligations due to the limited history of indemnification claims and the unique facts and circumstances that are likely to be involved in each particular claim and indemnification provision. However, there can be no assurances that the Company will not incur any financial liabilities in the future as a result of these obligations.
-
-
-
-
-
+On July 27, 2015, the United States Tax Court (Tax Court) issued its opinion in Altera Corp. v. Commissioner, and, in a 15-0 decision, concluded that related parties in a cost sharing arrangement are not required to share expenses related to stock-based compensation.
+The Commissioner appealed the Tax Court decision to the Ninth Circuit Court of Appeals (Ninth Circuit).
+The Ninth Circuit overturned the Tax Court’s decision in an opinion issued on July 24, 2018, but subsequently withdrew it.
+After
+rehearing the arguments on October 16, 2018, the Ninth Circuit issued a subsequent opinion on June 7, 2019.
+In a 2-1 decision, the Ninth Circuit overturned the Tax Court’s decision.
+On July 22, 2019, Altera filed a petition for an en banc rehearing with the Ninth Circuit, which will consist of a panel of 11 judges.
+In the case of a denial of a Ninth Circuit en banc rehearing or a decision against Altera following an en banc rehearing, Altera can appeal to the United States Supreme Court for review.
+Since the Altera decision is not yet final, we believe the law to be unsettled and continue to record tax benefits as we exclude stock-based compensation costs from our cost sharing arrangement.
+As of the fiscal quarter ended June 29, 2019, the potential impact of a final adverse decision to the consolidated statement of income could be as much as $45.0 million for prior years' taxes and interest.
+We will continue to monitor developments in the Altera case and the potential effect on our consolidated financial statements.
+Note 15.
+Leases and Commitments
+Other commitments as of June 29, 2019 totaled $197.4 million and consisted of purchases of inventory and other non-cancelable purchase obligations related to subcontractors that manufacture silicon wafers and provide assembly and some test services.
+The Company expects to receive and pay for these materials and services in the next three to six months, as the products meet delivery and quality specifications.
+Additionally, as of June 29, 2019, the Company also had $2.9 million of non-cancelable license
+Note 16.
+Product Warranty and Indemnification
+The Company generally sells products with a limited warranty for product quality.
+The Company provides an accrual for known product issues if a loss is probable and can be reasonably estimated.
+As of the end of the first quarter of fiscal 2020 and the end of fiscal 2019, the accrual balances of the product warranty liability were immaterial.
+The Company offers, subject to certain terms and conditions, to indemnify customers and distributors for costs and damages awarded against these parties in the event the Company’s hardware products are found to infringe third-party intellectual property rights, including patents, copyrights or trademarks, and to compensate certain customers for limited specified costs they actually incur in the event the Company's hardware products experience epidemic failure.
+To a lesser extent, the Company may from time-to-time offer limited indemnification with respect to its software products.
+The terms and conditions of these indemnity obligations are limited by contract, which obligations are typically perpetual from the effective date of the agreement.
+The Company has historically received only a limited number of requests for indemnification under these provisions and has not made any significant payments pursuant to these provisions.
+The Company cannot estimate the maximum amount of potential future payments, if any, that the Company may be required to make as a result of these obligations due to the limited history of indemnification claims and the unique facts and circumstances that are likely to be involved in each particular claim and indemnification provision.
+However, there can be no assurances that the Company will not incur any financial liabilities in the future as a result of these obligations.
 Other Matters
-
-
-
-
-
-From time to time, the Company is involved in various disputes and litigation matters that arise in the ordinary course of its business. These include disputes and lawsuits related to intellectual property, mergers and acquisitions, licensing, contract law, tax, regulatory, distribution arrangements, employee relations and other matters. Periodically, the Company reviews the status of each matter and assesses its potential financial exposure. If the potential loss from any claim or legal proceeding is considered probable and a range of possible losses can be estimated, the Company accrues a liability for the estimated loss. Legal proceedings are subject to uncertainties, and the outcomes are difficult to predict. Because of such uncertainties, accruals are based only on the best information available at the time. As additional information becomes available, the Company continues to reassess the potential liability related to pending claims and litigation and may revise estimates.
-
-
-
-Note 18. Goodwill and Acquisition-Related Intangibles
-
-
-
-
-
-
-
-
-
-
-
-In-process research and development is not subject to amortization prior to the completion of the projects and therefore the balance is excluded from the above annual amortization expense schedule. 
-
-
-
-Note 19. Segment Information
-
-
-
-
-
-
-
-Geographic revenue information for the first quarter of fiscal 2020 and 2019 reflects the geographic location of the distributors or OEMs who purchased the Company's products. This may differ from the geographic location of the end customers.
-
-
-
-Note 20. Subsequent Events
-
-
-
-On July 23, 2019, the Board declared a cash dividend of $0.37 per common share for the second quarter of fiscal 2020. The dividend is payable on August 27, 2019 to stockholders of record on August 7, 2019. 
-
-
-
+From time to time, the Company is involved in various disputes and litigation matters that arise in the ordinary course of its business.
+These include disputes and lawsuits related to intellectual property, mergers and acquisitions, licensing, contract law, tax, regulatory, distribution arrangements, employee relations and other matters.
+Periodically, the Company reviews the status of each matter and assesses its potential financial exposure.
+If the potential loss from any claim or legal proceeding is considered probable and a range of possible losses can be estimated, the Company accrues a liability for the estimated loss.
+Legal proceedings are subject to uncertainties, and the outcomes are difficult to predict.
+Because of such uncertainties, accruals are based only on the best information available at the time.
+As additional information becomes available, the Company continues to reassess the potential liability related to pending claims and litigation and may revise estimates.
+Note 18.
+Goodwill and Acquisition-Related Intangibles
+In-process research and development is not subject to amortization prior to the completion of the projects and therefore the balance is excluded from the above annual amortization expense schedule.
+Note 19.
+Segment Information
+Geographic revenue information for the first quarter of fiscal 2020 and 2019 reflects the geographic location of the distributors or OEMs who purchased the Company's products.
+This may differ from the geographic location of the end customers.
+Note 20.
+Subsequent Events
+On July 23, 2019, the Board declared a cash dividend of $0.37 per common share for the second quarter of fiscal 2020.
+The dividend is payable on August 27, 2019 to stockholders of record on August 7, 2019.
 Item 1.Legal Proceedings
-
-
-
-See "Note 17. Contingencies" to our condensed consolidated financial statements, included in Item 1. "Financial Statements" for information regarding patent litigation.
-
-
-
-Item 1A. Risk Factors
-
-
-
-The following risk factors and other information included in this Quarterly Report on Form 10-Q should be carefully considered. The risks and uncertainties described below are not the only risks to the Company. Additional risks and uncertainties not presently known to the Company or that the Company’s management currently deems immaterial also may impair its business operations. If any of the risks described below were to occur, our business, financial condition, operating results and cash flows could be materially adversely affected.
-
-
-
-Our success depends on our ability to develop and introduce new products and our failure to do so would have a material adverse impact on our financial condition and results of operations. 
-
-
-
-
-
-•timely completion of new product designs; 
-
-
-
-•ability to generate new design opportunities and design wins; 
-
-
-
-•availability of specialized field application engineering resources supporting demand creation and customer adoption of new products; 
-
-
-
-•ability to utilize advanced manufacturing process technologies on circuit geometries of 28nm and smaller; 
-
-
-
-•achieving acceptable yields; 
-
-
-
-•ability to obtain adequate production capacity from our wafer foundries and assembly and test subcontractors; 
-
-
-
-•ability to obtain advanced packaging; 
-
-
-
-•availability and completeness of supporting software design tools; 
-
-
-
-•utilization of predefined IP logic; 
-
-
-
-•customer acceptance of advanced features in our new products; 
-
-
-
+See "Note 17.
+Contingencies" to our condensed consolidated financial statements, included in Item 1.
+"Financial Statements" for information regarding patent litigation.
+Item 1A.
+Risk Factors
+The following risk factors and other information included in this Quarterly Report on Form 10-Q should be carefully considered.
+The risks and uncertainties described below are not the only risks to the Company.
+Additional risks and uncertainties not presently known to the Company or that the Company’s management currently deems immaterial also may impair its business operations.
+If any of the risks described below were to occur, our business, financial condition, operating results and cash flows could be materially adversely affected.
+Our success depends on our ability to develop and introduce new products and our failure to do so would have a material adverse impact on our financial condition and results of operations.
+•timely completion of new product designs;
+•ability to generate new design opportunities and design wins;
+•availability of specialized field application engineering resources supporting demand creation and customer adoption of new products;
+•ability to utilize advanced manufacturing process technologies on circuit geometries of 28nm and smaller;
+•achieving acceptable yields;
+•ability to obtain adequate production capacity from our wafer foundries and assembly and test subcontractors;
+•ability to obtain advanced packaging;
+•availability and completeness of supporting software design tools;
+•utilization of predefined IP logic;
+•customer acceptance of advanced features in our new products;
 •ability of our customers to complete their product designs and bring them to market; and
-
-
-
-•market acceptance of our customers' products. 
-
-
-
-
-
-We rely on independent foundries for the manufacture of all of our products and a manufacturing problem or insufficient foundry capacity could adversely affect our operations. 
-
-
-
-Most of our wafers are manufactured in Taiwan by Taiwan Semiconductor Manufacturing Company Limited (TSMC) and United Microelectronics Corporation (UMC). We also have wafers manufactured in South Korea by Samsung Electronics Co., Ltd. Terms with respect to the volume and timing of wafer production and the pricing of wafers produced by the semiconductor foundries are determined through periodic negotiations with these wafer foundries, which usually result in short-term agreements that do not provide for long-term supply or allocation commitments. We are dependent on these foundries to supply the substantial majority of our wafers. We rely on TSMC, UMC and our other foundries to produce wafers with competitive performance attributes. Therefore, the foundries, particularly TSMC which manufactures our newest products, must be able to transition to advanced manufacturing process technologies and increased wafer sizes, produce wafers at acceptable yields and deliver them in a timely 
-
-
-
-manner. Furthermore, we cannot guarantee that the foundries that supply our wafers will offer us competitive pricing terms or other commercial terms important to our business. 
-
-
-
-We cannot guarantee that our foundries will not experience manufacturing problems, including delays in the realization of advanced manufacturing process technologies or difficulties due to limitations of new and existing process technologies. For example, we may experience supply shortages due to the difficulties foundries may encounter if they must rapidly increase their production capacities from low utilization levels to high utilization levels because of an unexpected increase in demand. Furthermore, we cannot guarantee that the foundries will be able to manufacture sufficient quantities of our products or that they will continue to manufacture a given product for the full life of the product. We could also experience supply shortages due to very strong demand for our products, or a surge in demand for semiconductors in general, which may lead to tightening of foundry capacity across the industry. In addition, weak economic conditions may adversely impact the financial health and viability of the foundries and result in their insolvency or their inability to meet their commitments to us. The insolvency of a foundry or any significant manufacturing problem or insufficient foundry capacity would disrupt our operations and negatively impact our financial condition and results of operations.
-
-
-
+•market acceptance of our customers' products.
+We rely on independent foundries for the manufacture of all of our products and a manufacturing problem or insufficient foundry capacity could adversely affect our operations.
+Most of our wafers are manufactured in Taiwan by Taiwan Semiconductor Manufacturing Company Limited (TSMC) and United Microelectronics Corporation (UMC).
+We also have wafers manufactured in South Korea by Samsung Electronics Co., Ltd.
+Terms with respect to the volume and timing of wafer production and the pricing of wafers produced by the semiconductor foundries are determined through periodic negotiations with these wafer foundries, which usually result in short-term agreements that do not provide for long-term supply or allocation commitments.
+We are dependent on these foundries to supply the substantial majority of our wafers.
+We rely on TSMC, UMC and our other foundries to produce wafers with competitive performance attributes.
+Therefore, the foundries, particularly TSMC which manufactures our newest products, must be able to transition to advanced manufacturing process technologies and increased wafer sizes, produce wafers at acceptable yields and deliver them in a timely
+manner.
+Furthermore, we cannot guarantee that the foundries that supply our wafers will offer us competitive pricing terms or other commercial terms important to our business.
+We cannot guarantee that our foundries will not experience manufacturing problems, including delays in the realization of advanced manufacturing process technologies or difficulties due to limitations of new and existing process technologies.
+For example, we may experience supply shortages due to the difficulties foundries may encounter if they must rapidly increase their production capacities from low utilization levels to high utilization levels because of an unexpected increase in demand.
+Furthermore, we cannot guarantee that the foundries will be able to manufacture sufficient quantities of our products or that they will continue to manufacture a given product for the full life of the product.
+We could also experience supply shortages due to very strong demand for our products, or a surge in demand for semiconductors in general, which may lead to tightening of foundry capacity across the industry.
+In addition, weak economic conditions may adversely impact the financial health and viability of the foundries and result in their insolvency or their inability to meet their commitments to us.
+The insolvency of a foundry or any significant manufacturing problem or insufficient foundry capacity would disrupt our operations and negatively impact our financial condition and results of operations.
 Earthquakes or other natural disasters could disrupt our operations and have a material adverse effect on our financial condition and results of operations.
-
-
-
-Our worldwide operations could be disrupted by earthquakes or other natural disasters such as typhoons, tsunamis, volcano eruptions, fires or floods, as well as disruptions in access to adequate supplies of electricity, natural gas or water. The independent foundries, upon which we rely to manufacture our products, as well as our California and Singapore facilities, are located in regions that are subject to earthquakes and other natural disasters. TSMC's and UMC's foundries in Taiwan and our assembly and test partners in other regions as well as many of our operations in California are located in areas that have been seismically active in the past and some of these areas have also been affected by other natural disasters such as typhoons. Disruption of operations at these foundries and our facilities could cause delays in manufacturing and shipments of our products, and could have a material adverse effect on our results of operations. Any catastrophic event in these locations would disrupt our operations, and our insurance may not cover losses resulting from such disruptions of our operations, thereby materially adversely affecting our financial condition and results of operations. For example, as a result of the March 2011 earthquake in Japan, production at the Seiko factory at Sakata was halted temporarily, impacting production of some of our older devices. In addition, suppliers of wafers and substrates were forced to halt production temporarily. Furthermore, natural disasters can also indirectly impact us. For example, our customers' supply of other complimentary products may be disrupted by a natural disaster and may cause them to delay orders of our products. More vertically-integrated competitors may be less exposed to some or all of these and other risks.
-
-
-
-The semiconductor industry is characterized by cyclical market patterns and a significant industry downturn could adversely affect our operating results. 
-
-
-
-The semiconductor industry is highly cyclical and our financial performance has been affected by downturns in the industry. Down cycles are generally characterized by price erosion and weaker demand for our products. Weaker demand for our products resulting from economic conditions in the end markets we serve and reduced capital spending by our customers can result, and in the past has resulted, in excess and obsolete inventories and corresponding inventory write-downs. We attempt to identify changes in market conditions as soon as possible; however, the dynamics of the market in which we operate make prediction of and timely reaction to such events difficult. Due to these and other factors, our past results are not reliable predictors of our future results.
-
-
-
-The nature of our business makes our revenues difficult to predict which could have an adverse impact on our business. 
-
-
-
-In addition to the challenging market conditions we may face, we have limited visibility into the demand for our products, particularly new products, because demand for our products depends upon our products being designed into our end customers' products and those products achieving market acceptance. Due to the complexity of our customers' designs, the design to volume production process for our customers requires a substantial amount of time, frequently longer than a year. In addition, other factors may affect our end customers' demand for our products, including, but not limited to, end customer program delays and the ability of end customers to secure other complementary products. We also are dependent upon "turns," orders received and turned for shipment in the same quarter. These factors make it difficult for us to forecast future sales and project quarterly revenues. The difficulty in forecasting future sales impairs our ability to project our inventory requirements, which could result, and in the past has resulted, in inventory write-downs or failure to meet customer product demands in a timely manner. In addition, difficulty in forecasting revenues compromises our ability to provide forward-looking revenue and earnings guidance.
-
-
-
-If we are not able to compete successfully in our industry, our financial results and future prospects will be adversely affected. 
-
-
-
-
-
-•product pricing; 
-
-
-
-•time-to-market; 
-
-
-
-•product performance, reliability, quality, power consumption and density; 
-
-
-
-•field upgradeability; 
-
-
-
-•adaptability of products to specific applications; 
-
-
-
-•ease of use and functionality of software design tools; 
-
-
-
-•availability and functionality of predefined IP logic; 
-
-
-
+Our worldwide operations could be disrupted by earthquakes or other natural disasters such as typhoons, tsunamis, volcano eruptions, fires or floods, as well as disruptions in access to adequate supplies of electricity, natural gas or water.
+The independent foundries, upon which we rely to manufacture our products, as well as our California and Singapore facilities, are located in regions that are subject to earthquakes and other natural disasters.
+TSMC's and UMC's foundries in Taiwan and our assembly and test partners in other regions as well as many of our operations in California are located in areas that have been seismically active in the past and some of these areas have also been affected by other natural disasters such as typhoons.
+Disruption of operations at these foundries and our facilities could cause delays in manufacturing and shipments of our products, and could have a material adverse effect on our results of operations.
+Any catastrophic event in these locations would disrupt our operations, and our insurance may not cover losses resulting from such disruptions of our operations, thereby materially adversely affecting our financial condition and results of operations.
+For example, as a result of the March 2011 earthquake in Japan, production at the Seiko factory at Sakata was halted temporarily, impacting production of some of our older devices.
+In addition, suppliers of wafers and substrates were forced to halt production temporarily.
+Furthermore, natural disasters can also indirectly impact us.
+For example, our customers' supply of other complimentary products may be disrupted by a natural disaster and may cause them to delay orders of our products.
+More vertically-integrated competitors may be less exposed to some or all of these and other risks.
+The semiconductor industry is characterized by cyclical market patterns and a significant industry downturn could adversely affect our operating results.
+The semiconductor industry is highly cyclical and our financial performance has been affected by downturns in the industry.
+Down cycles are generally characterized by price erosion and weaker demand for our products.
+Weaker demand for our products resulting from economic conditions in the end markets we serve and reduced capital spending by our customers can result, and in the past has resulted, in excess and obsolete inventories and corresponding inventory write-downs.
+We attempt to identify changes in market conditions as soon as possible; however, the dynamics of the market in which we operate make prediction of and timely reaction to such events difficult.
+Due to these and other factors, our past results are not reliable predictors of our future results.
+The nature of our business makes our revenues difficult to predict which could have an adverse impact on our business.
+In addition to the challenging market conditions we may face, we have limited visibility into the demand for our products, particularly new products, because demand for our products depends upon our products being designed into our end customers' products and those products achieving market acceptance.
+Due to the complexity of our customers' designs, the design to volume production process for our customers requires a substantial amount of time, frequently longer than a year.
+In addition, other factors may affect our end customers' demand for our products, including, but not limited to, end customer program delays and the ability of end customers to secure other complementary products.
+We also are dependent upon "turns," orders received and turned for shipment in the same quarter.
+These factors make it difficult for us to forecast future sales and project quarterly revenues.
+The difficulty in forecasting future sales impairs our ability to project our inventory requirements, which could result, and in the past has resulted, in inventory write-downs or failure to meet customer product demands in a timely manner.
+In addition, difficulty in forecasting revenues compromises our ability to provide forward-looking revenue and earnings guidance.
+If we are not able to compete successfully in our industry, our financial results and future prospects will be adversely affected.
+•product pricing;
+•time-to-market;
+•product performance, reliability, quality, power consumption and density;
+•field upgradeability;
+•adaptability of products to specific applications;
+•ease of use and functionality of software design tools;
+•availability and functionality of predefined IP logic;
 •completeness of applicable software solutions;
-
-
-
-•adherence to industry-standard programming environments; 
-
-
-
-•inventory and supply chain management; 
-
-
-
-•access to leading-edge process technology and assembly capacity; 
-
-
-
+•adherence to industry-standard programming environments;
+•inventory and supply chain management;
+•access to leading-edge process technology and assembly capacity;
 •ability to provide timely customer service and support; and
-
-
-
 •access to advanced packaging technology.
-
-
-
-Our strategy for expansion in the logic market includes continued introduction of new product architectures that address high-volume, low-cost and low-power applications as well as high-performance, high-density applications. However, we may not be successful in executing this strategy. In addition, we anticipate continued pressure from our customers to reduce prices, which may outpace our ability to lower the cost for established products. 
-
-
-
-
-
-•high-density programmable logic products characterized by FPGA-type architectures; 
-
-
-
-•high-volume and low-cost FPGAs as programmable replacements for ASICs and ASSPs; 
-
-
-
-•ASICs and ASSPs with incremental amounts of embedded programmable logic; 
-
-
-
-•high-speed, low-density complex programmable logic devices; 
-
-
-
-•high-performance digital signal processing devices; 
-
-
-
-•products with embedded processors; 
-
-
-
-•products with embedded multi-gigabit transceivers; 
-
-
-
+Our strategy for expansion in the logic market includes continued introduction of new product architectures that address high-volume, low-cost and low-power applications as well as high-performance, high-density applications.
+However, we may not be successful in executing this strategy.
+In addition, we anticipate continued pressure from our customers to reduce prices, which may outpace our ability to lower the cost for established products.
+•high-density programmable logic products characterized by FPGA-type architectures;
+•high-volume and low-cost FPGAs as programmable replacements for ASICs and ASSPs;
+•ASICs and ASSPs with incremental amounts of embedded programmable logic;
+•high-speed, low-density complex programmable logic devices;
+•high-performance digital signal processing devices;
+•products with embedded processors;
+•products with embedded multi-gigabit transceivers;
 •discrete general-purpose Graphics Processing Units (GPUs) targeting data center and automotive applications;
-
-
-
 •other new or emerging programmable logic products; and
-
-
-
 •large enterprises, like hyperscalers, that have the resources to develop proprietary semiconductors.
-
-
-
-Several companies have introduced products that compete with ours or have announced their intention to sell PLD products. To the extent that our efforts to compete are not successful, our financial condition and results of operations could be materially adversely affected. 
-
-
-
-The benefits of programmable logic have attracted a number of competitors to this segment. We recognize that different applications require different programmable technologies, and we are developing architectures, processes and products to meet these varying customer needs. Recognizing the increasing importance of standard software solutions, we have developed common software design tools that support the full range of our IC products. We believe that automation and ease of design are significant competitive factors in this segment. 
-
-
-
-We could also face competition from our licensees. In the past we have granted limited rights to other companies with respect to certain aspects of our older technology, and we may do so in the future. Granting such rights may enable these companies to manufacture and market products that may be competitive with some of our older products.
-
-
-
-Increased costs of wafers and materials, or shortages in wafers and materials, could adversely impact our gross margins and lead to reduced revenues. 
-
-
-
-If greater demand for wafers is not offset by an increase in foundry capacity, market demand for wafers or production and assembly materials increases, or if a supplier of our wafers or other materials ceases or suspends operations, our supply of wafers and other materials could become limited. Such shortages raise the likelihood of potential wafer price increases, wafer shortages or shortages in materials at production and test facilities, resulting in potential inability to address customer product demands in a timely manner. For example, in 2011, when certain suppliers located in Japan were forced to temporarily halt production as the result of a natural disaster, this resulted in a tightening of supply for those materials. Such shortages of wafers and materials as well as increases in wafer or materials prices could adversely affect our gross margins and would adversely affect our ability to meet customer demands and lead to reduced revenue. 
-
-
-
-We depend on distributors, primarily Avnet, to generate a significant portion of our sales and complete order fulfillment. 
-
-
-
-Resale of product through Avnet accounted for 40% of our worldwide net revenues in the first quarter of fiscal 2020 and as of June 29, 2019, Avnet accounted for 40% of our total net accounts receivable. Any adverse change to our relationship with Avnet or our other distributors could have a material impact on our business. Furthermore, if a key distributor materially defaulted on a contract or otherwise failed to perform, our business and financial results would suffer. In addition, we are subject to concentrations of credit risk in our trade accounts receivable, which includes accounts of our distributors. A significant reduction of effort by a distributor to sell our products or a material change in our relationship with one or more distributors may reduce our access to certain end customers and adversely affect our ability to sell our products. 
-
-
-
-In addition, the financial health of our distributors and our continuing relationships with them are important to our success. Unpredictable economic conditions may adversely impact the financial health of some of these distributors, particularly our smaller distributors. This could increase our credit risk exposure relating to the insolvency of certain distributors, the inability of distributors to obtain credit to finance the purchase of our products, or delayed payment for such purchases. Our business could be harmed if the financial health of these distributors impaired their performance and we were unable to secure alternate distributors.
-
-
-
-We are dependent on independent subcontractors for most of our assembly and test services, and unavailability or disruption of these services could negatively impact our financial condition and results of operations. 
-
-
-
-We are dependent on subcontractors to provide semiconductor assembly, substrate, test and shipment services. Any (i) prolonged inability to obtain wafers with competitive performance and cost attributes, adequate yields or timely delivery, (ii) disruption in assembly, test or shipment services, (iii) delays in stabilizing manufacturing processes and ramping up volume for new products, (iv) transitions to new service providers, or (v) other circumstance that would require us to seek alternative sources of supply, could delay shipments and have a material adverse effect on our ability to meet customer demands. In addition, unpredictable economic conditions may adversely impact the financial health and viability of these subcontractors and result in their insolvency or their inability to meet their commitments to us. These factors would result in reduced net revenues and could negatively impact our financial condition and results of operations.
-
-
-
+Several companies have introduced products that compete with ours or have announced their intention to sell PLD products.
+To the extent that our efforts to compete are not successful, our financial condition and results of operations could be materially adversely affected.
+The benefits of programmable logic have attracted a number of competitors to this segment.
+We recognize that different applications require different programmable technologies, and we are developing architectures, processes and products to meet these varying customer needs.
+Recognizing the increasing importance of standard software solutions, we have developed common software design tools that support the full range of our IC products.
+We believe that automation and ease of design are significant competitive factors in this segment.
+We could also face competition from our licensees.
+In the past we have granted limited rights to other companies with respect to certain aspects of our older technology, and we may do so in the future.
+Granting such rights may enable these companies to manufacture and market products that may be competitive with some of our older products.
+Increased costs of wafers and materials, or shortages in wafers and materials, could adversely impact our gross margins and lead to reduced revenues.
+If greater demand for wafers is not offset by an increase in foundry capacity, market demand for wafers or production and assembly materials increases, or if a supplier of our wafers or other materials ceases or suspends operations, our supply of wafers and other materials could become limited.
+Such shortages raise the likelihood of potential wafer price increases, wafer shortages or shortages in materials at production and test facilities, resulting in potential inability to address customer product demands in a timely manner.
+For example, in 2011, when certain suppliers located in Japan were forced to temporarily halt production as the result of a natural disaster, this resulted in a tightening of supply for those materials.
+Such shortages of wafers and materials as well as increases in wafer or materials prices could adversely affect our gross margins and would adversely affect our ability to meet customer demands and lead to reduced revenue.
+We depend on distributors, primarily Avnet, to generate a significant portion of our sales and complete order fulfillment.
+Resale of product through Avnet accounted for 40% of our worldwide net revenues in the first quarter of fiscal 2020 and as of June 29, 2019, Avnet accounted for 40% of our total net accounts receivable.
+Any adverse change to our relationship with Avnet or our other distributors could have a material impact on our business.
+Furthermore, if a key distributor materially defaulted on a contract or otherwise failed to perform, our business and financial results would suffer.
+In addition, we are subject to concentrations of credit risk in our trade accounts receivable, which includes accounts of our distributors.
+A significant reduction of effort by a distributor to sell our products or a material change in our relationship with one or more distributors may reduce our access to certain end customers and adversely affect our ability to sell our products.
+In addition, the financial health of our distributors and our continuing relationships with them are important to our success.
+Unpredictable economic conditions may adversely impact the financial health of some of these distributors, particularly our smaller distributors.
+This could increase our credit risk exposure relating to the insolvency of certain distributors, the inability of distributors to obtain credit to finance the purchase of our products, or delayed payment for such purchases.
+Our business could be harmed if the financial health of these distributors impaired their performance and we were unable to secure alternate distributors.
+We are dependent on independent subcontractors for most of our assembly and test services, and unavailability or disruption of these services could negatively impact our financial condition and results of operations.
+We are dependent on subcontractors to provide semiconductor assembly, substrate, test and shipment services.
+Any (i) prolonged inability to obtain wafers with competitive performance and cost attributes, adequate yields or timely delivery, (ii) disruption in assembly, test or shipment services, (iii) delays in stabilizing manufacturing processes and ramping up volume for new products, (iv) transitions to new service providers, or (v) other circumstance that would require us to seek alternative sources of supply, could delay shipments and have a material adverse effect on our ability to meet customer demands.
+In addition, unpredictable economic conditions may adversely impact the financial health and viability of these subcontractors and result in their insolvency or their inability to meet their commitments to us.
+These factors would result in reduced net revenues and could negatively impact our financial condition and results of operations.
 A number of factors, including our inventory strategy, can impact our gross margins.
-
-
-
-
-
-While our overall inventory levels fluctuate over time, the inventory of newer product lines may be higher than other products due to a planned increase in safety stock in anticipation of future revenue growth. In the event demand does not materialize, we may be subject to incremental obsolescence costs. In addition, future product cost reductions could have impact on our inventory valuation as well as our operating results. 
-
-
-
-Reductions in the average selling prices of our products could have a negative impact on our gross margins. 
-
-
-
-The average selling prices of our products generally decline as the products mature. We seek to offset the decrease in selling prices through yield improvement, manufacturing cost reductions and increased unit sales. We also continue to develop higher value products or product features that increase the average selling prices of our products, or slow the decline of such prices. However, there is no guarantee that our ongoing efforts will be successful or that they will keep pace with the decline in selling prices of our products, which could ultimately lead to a decline in our revenues and gross margins.
-
-
-
+While our overall inventory levels fluctuate over time, the inventory of newer product lines may be higher than other products due to a planned increase in safety stock in anticipation of future revenue growth.
+In the event demand does not materialize, we may be subject to incremental obsolescence costs.
+In addition, future product cost reductions could have impact on our inventory valuation as well as our operating results.
+Reductions in the average selling prices of our products could have a negative impact on our gross margins.
+The average selling prices of our products generally decline as the products mature.
+We seek to offset the decrease in selling prices through yield improvement, manufacturing cost reductions and increased unit sales.
+We also continue to develop higher value products or product features that increase the average selling prices of our products, or slow the decline of such prices.
+However, there is no guarantee that our ongoing efforts will be successful or that they will keep pace with the decline in selling prices of our products, which could ultimately lead to a decline in our revenues and gross margins.
 General negative economic conditions and any related deterioration in the global business environment could have a material adverse effect on our business, operating results and financial condition.
-
-
-
-If weak economic conditions happen, there may be a number of negative effects on our business, including customers or potential customers reducing or delaying orders, the insolvency of key suppliers, potentially causing production delays, the inability of customers to obtain credit, and the insolvency of one or more customers. Any of these effects could impact our ability to effectively manage inventory levels and collect receivables and ultimately decrease our net revenues and profitability.
-
-
-
+If weak economic conditions happen, there may be a number of negative effects on our business, including customers or potential customers reducing or delaying orders, the insolvency of key suppliers, potentially causing production delays, the inability of customers to obtain credit, and the insolvency of one or more customers.
+Any of these effects could impact our ability to effectively manage inventory levels and collect receivables and ultimately decrease our net revenues and profitability.
 We are subject to the risks associated with conducting business operations outside of the U.S. which could adversely affect our business.
-
-
-
-
-
-Because we have international business and operations, we are vulnerable to the economic conditions of the countries in which we operate and currency fluctuations could have a material adverse effect on our business and negatively impact our financial condition and results of operations. 
-
-
-
-
-
+Because we have international business and operations, we are vulnerable to the economic conditions of the countries in which we operate and currency fluctuations could have a material adverse effect on our business and negatively impact our financial condition and results of operations.
 We are exposed to fluctuations in interest rates and changes in credit risk which could have a material adverse impact on our financial condition and results of operations as it relates to the market value of our investment portfolio.
-
-
-
-Our cash, short-term and long-term investments represent significant assets that may be subject to fluctuating or even negative returns depending upon interest rate movements, changes in credit risk and financial market conditions. Global credit market disruptions and economic slowdown and uncertainty have in the past negatively impacted the values of various types of investment and non-investment grade securities. The global credit and capital markets may again experience significant volatility and disruption due to instability in the global financial system, uncertainty related to global economic conditions and concerns regarding sovereign financial stability.
-
-
-
-Therefore, there is a risk that we may incur other-than-temporary impairment charges for certain types of investments should credit market conditions deteriorate or the underlying assets fail to perform as anticipated. Our future investment income may fall short of expectations due to changes in interest rates or if the decline in fair values of our debt securities was judged to be other than temporary. Furthermore, we may suffer losses in principal on our investments if we are forced to sell securities that have declined in market value due to changes in interest rates or financial market conditions. 
-
-
-
+Our cash, short-term and long-term investments represent significant assets that may be subject to fluctuating or even negative returns depending upon interest rate movements, changes in credit risk and financial market conditions.
+Global credit market disruptions and economic slowdown and uncertainty have in the past negatively impacted the values of various types of investment and non-investment grade securities.
+The global credit and capital markets may again experience significant volatility and disruption due to instability in the global financial system, uncertainty related to global economic conditions and concerns regarding sovereign financial stability.
+Therefore, there is a risk that we may incur other-than-temporary impairment charges for certain types of investments should credit market conditions deteriorate or the underlying assets fail to perform as anticipated.
+Our future investment income may fall short of expectations due to changes in interest rates or if the decline in fair values of our debt securities was judged to be other than temporary.
+Furthermore, we may suffer losses in principal on our investments if we are forced to sell securities that have declined in market value due to changes in interest rates or financial market conditions.
 Our failure to protect and defend our IP could impair our ability to compete effectively.
-
-
-
-We rely upon patent, copyright, trade secret, mask work and trademark laws to protect our IP. We cannot provide assurance that such IP rights can be successfully asserted in the future or will not be invalidated, violated, circumvented or challenged. From time to time, third parties, including our competitors, have asserted against us patent, copyright or other IP rights to technologies that are important to us. Third parties may attempt to misappropriate our IP through electronic or other means or assert infringement claims against us or parties we have agreed to indemnify. Such assertions by third parties may result in costly litigation, indemnity claims or other legal actions, and we may not prevail in such matters or be able to license any valid and infringed patents from third parties on commercially reasonable terms. This could result in the loss of our ability to import and sell our products or require us to pay costly royalties to third parties in connection with sales of our products. Any infringement claim, indemnification claim, or impairment or loss of use of our IP could materially adversely affect our financial condition and results of operations.
-
-
-
-Our ability to design and introduce new products in a timely manner is dependent upon third-party IP. 
-
-
-
-In the design and development of new products and product enhancements, we rely on third-party intellectual property such as software development tools and hardware testing tools. Furthermore, certain product features may rely on intellectual property acquired from third parties, including hardware and software tools and products. The design requirements necessary to meet future consumer demands for more features and greater functionality from semiconductor products may exceed the capabilities of the third-party intellectual property or development tools that are available to us. In addition, hardware and software tools and products procured from third parties may contain design or manufacturing defects, including flaws that could unexpectedly interfere with the operation of our products. If the third-party intellectual property that we use becomes unavailable or fails to produce designs that meet consumer demands, our business could be adversely affected. 
-
-
-
+We rely upon patent, copyright, trade secret, mask work and trademark laws to protect our IP.
+We cannot provide assurance that such IP rights can be successfully asserted in the future or will not be invalidated, violated, circumvented or challenged.
+From time to time, third parties, including our competitors, have asserted against us patent, copyright or other IP rights to technologies that are important to us.
+Third parties may attempt to misappropriate our IP through electronic or other means or assert infringement claims against us or parties we have agreed to indemnify.
+Such assertions by third parties may result in costly litigation, indemnity claims or other legal actions, and we may not prevail in such matters or be able to license any valid and infringed patents from third parties on commercially reasonable terms.
+This could result in the loss of our ability to import and sell our products or require us to pay costly royalties to third parties in connection with sales of our products.
+Any infringement claim, indemnification claim, or impairment or loss of use of our IP could materially adversely affect our financial condition and results of operations.
+Our ability to design and introduce new products in a timely manner is dependent upon third-party IP.
+In the design and development of new products and product enhancements, we rely on third-party intellectual property such as software development tools and hardware testing tools.
+Furthermore, certain product features may rely on intellectual property acquired from third parties, including hardware and software tools and products.
+The design requirements necessary to meet future consumer demands for more features and greater functionality from semiconductor products may exceed the capabilities of the third-party intellectual property or development tools that are available to us.
+In addition, hardware and software tools and products procured from third parties may contain design or manufacturing defects, including flaws that could unexpectedly interfere with the operation of our products.
+If the third-party intellectual property that we use becomes unavailable or fails to produce designs that meet consumer demands, our business could be adversely affected.
 Any failure of our information technology systems to function properly could result in business disruption.
-
-
-
-We rely in part on various information technology (IT) systems to manage our operations, including, but not limited to, financial reporting, and we regularly evaluate these systems and make changes to improve them as necessary. Consequently, we periodically implement new, or upgrade or enhance existing, operational and IT systems, procedures and controls. Any delay in the implementation of, or disruption in the transition to, new or enhanced systems, procedures or controls, could harm our ability to record and report financial, management, or operational information on a timely and accurate basis. In addition, hardware and software tools and products procured from third parties included in our IT systems could contain design or manufacturing defects, including flaws that could unexpectedly interfere with the operation of our IT systems. These systems are also subject to power and telecommunication outages or other general system failures. Failure of our IT systems or difficulties in managing them could result in business disruption. 
-
-
-
+We rely in part on various information technology (IT) systems to manage our operations, including, but not limited to, financial reporting, and we regularly evaluate these systems and make changes to improve them as necessary.
+Consequently, we periodically implement new, or upgrade or enhance existing, operational and IT systems, procedures and controls.
+Any delay in the implementation of, or disruption in the transition to, new or enhanced systems, procedures or controls, could harm our ability to record and report financial, management, or operational information on a timely and accurate basis.
+In addition, hardware and software tools and products procured from third parties included in our IT systems could contain design or manufacturing defects, including flaws that could unexpectedly interfere with the operation of our IT systems.
+These systems are also subject to power and telecommunication outages or other general system failures.
+Failure of our IT systems or difficulties in managing them could result in business disruption.
 Cyber-attacks and data breaches could have an adverse effect on our business and reputation and negatively impact our financial condition and results of operations.
-
-
-
-Security breaches, including cyber-attacks, phishing attacks or attempts to misappropriate or compromise confidential or proprietary information or sabotage enterprise IT systems, are becoming increasingly frequent and more sophisticated. We depend on the uninterrupted operation of our IT systems to manage our operations, store and retrieve business and financial data and facilitate internal communications and communications with customers, subcontractors, suppliers and distribution partners. We experience security incidents of varying degrees on an ongoing basis. We take steps to detect and investigate any security incidents 
-
-
-
-
-
+Security breaches, including cyber-attacks, phishing attacks or attempts to misappropriate or compromise confidential or proprietary information or sabotage enterprise IT systems, are becoming increasingly frequent and more sophisticated.
+We depend on the uninterrupted operation of our IT systems to manage our operations, store and retrieve business and financial data and facilitate internal communications and communications with customers, subcontractors, suppliers and distribution partners.
+We experience security incidents of varying degrees on an ongoing basis.
+We take steps to detect and investigate any security incidents
 Acquisitions and strategic investments present risks, and we may not realize the goals that were contemplated at the time of a transaction.
-
-
-
-
-
 •our ongoing business may be disrupted and our management's attention may be diverted by investment, acquisition, transition or integration activities;
-
-
-
 •an acquisition or strategic investment may not further our business strategy as we expected, and we may not integrate an acquired company or technology as successfully as we expected;
-
-
-
 •our operating results or financial condition may be adversely impacted by claims or liabilities that we assume from an acquired company or technology or that are otherwise related to an acquisition;
-
-
-
 •we may have difficulty incorporating acquired technologies or products with our existing product lines;
-
-
-
-•we may have higher than anticipated costs in continuing support and development of acquired products, and in general and administrative functions that support such products; 
-
-
-
+•we may have higher than anticipated costs in continuing support and development of acquired products, and in general and administrative functions that support such products;
 •our strategic investments may not perform as expected, and we may be required to recognize a loss on any or all of our strategic investments; and
-
-
-
 •we may experience unexpected changes in how we are required to account for our acquisitions and strategic investments pursuant to U.S. GAAP.
-
-
-
 The occurrence of any of these risks could have a material adverse effect on our business, results of operations, financial condition or cash flows, particularly in the case of a larger acquisition or several concurrent acquisitions or strategic investments.
-
-
-
 If we are unable to maintain effective internal controls, our stock price could be adversely affected.
-
-
-
-We are subject to the ongoing internal control provisions of Section 404 of the Sarbanes-Oxley Act of 2002 (Sarbanes-Oxley Act). Our controls necessary for continued compliance with the Sarbanes-Oxley Act may not operate effectively at all times and may result in a material weakness disclosure. The identification of material weaknesses in internal control, if any, could indicate a lack of proper controls to generate accurate financial statements and could cause investors to lose confidence and our stock price to drop. 
-
-
-
-We compete with others to attract and retain key personnel, and any loss of, or inability to attract, such personnel would harm us. 
-
-
-
-We depend on the efforts and abilities of certain key members of management and other technical personnel. Our future success depends, in part, upon our ability to retain, develop and transition such personnel and attract and retain other highly qualified personnel, particularly product engineers. Competition for such personnel is intense and we may not be successful in hiring or retaining new or existing qualified personnel. Changes to the U.S. immigration laws may also impact the availability of qualified personnel. From time to time we have effected restructurings that eliminate a number of positions. Even if such personnel are not directly affected by the restructuring effort, such terminations can have a negative impact on morale and our ability to attract and hire new qualified personnel in the future. If we are unable to retain or develop existing qualified personnel or are unable to hire new qualified personnel, as needed, our business, financial condition and results of operations could be seriously harmed. Further, changes to our qualified personnel, including key members of management, may be disruptive to our business, and any failure to successfully assimilate key new hires, or to successfully retain, develop and transition promoted employees, could adversely affect our business and results of operations.
-
-
-
-Unfavorable results of legal proceedings could adversely affect our financial condition and operating results. 
-
-
-
-From time to time we are subject to various legal proceedings and claims that arise out of the ordinary conduct of our business. The amount of damages alleged in certain legal claims may be significant. Certain other claims involving the Company are not yet resolved, including those that are discussed under "Note 17. Contingencies" to our condensed consolidated financial statements, included in Item 1. "Financial Statements " of this Form 10-Q, and additional claims may arise in the future. Results of legal proceedings cannot be predicted with certainty. Regardless of its merit, litigation may be both time-consuming and disruptive to our operations and cause significant expense and diversion of management attention and we may enter into material settlements to avoid these risks. Entering into settlements may result in payment of significant amounts which may materially and adversely affect our financial condition and operation results. Should we fail to prevail in certain matters, or should several of these matters be resolved against us, we may be faced with significant monetary damages or injunctive relief against us that would materially and adversely affect a portion of our business and might materially and adversely affect our financial condition and operating results. 
-
-
-
+We are subject to the ongoing internal control provisions of Section 404 of the Sarbanes-Oxley Act of 2002 (Sarbanes-Oxley Act).
+Our controls necessary for continued compliance with the Sarbanes-Oxley Act may not operate effectively at all times and may result in a material weakness disclosure.
+The identification of material weaknesses in internal control, if any, could indicate a lack of proper controls to generate accurate financial statements and could cause investors to lose confidence and our stock price to drop.
+We compete with others to attract and retain key personnel, and any loss of, or inability to attract, such personnel would harm us.
+We depend on the efforts and abilities of certain key members of management and other technical personnel.
+Our future success depends, in part, upon our ability to retain, develop and transition such personnel and attract and retain other highly qualified personnel, particularly product engineers.
+Competition for such personnel is intense and we may not be successful in hiring or retaining new or existing qualified personnel.
+Changes to the U.S. immigration laws may also impact the availability of qualified personnel.
+From time to time we have effected restructurings that eliminate a number of positions.
+Even if such personnel are not directly affected by the restructuring effort, such terminations can have a negative impact on morale and our ability to attract and hire new qualified personnel in the future.
+If we are unable to retain or develop existing qualified personnel or are unable to hire new qualified personnel, as needed, our business, financial condition and results of operations could be seriously harmed.
+Further, changes to our qualified personnel, including key members of management, may be disruptive to our business, and any failure to successfully assimilate key new hires, or to successfully retain, develop and transition promoted employees, could adversely affect our business and results of operations.
+Unfavorable results of legal proceedings could adversely affect our financial condition and operating results.
+From time to time we are subject to various legal proceedings and claims that arise out of the ordinary conduct of our business.
+The amount of damages alleged in certain legal claims may be significant.
+Certain other claims involving the Company are not yet resolved, including those that are discussed under "Note 17.
+Contingencies" to our condensed consolidated financial statements, included in Item 1.
+"Financial Statements " of this Form 10-Q, and additional claims may arise in the future.
+Results of legal proceedings cannot be predicted with certainty.
+Regardless of its merit, litigation may be both time-consuming and disruptive to our operations and cause significant expense and diversion of management attention and we may enter into material settlements to avoid these risks.
+Entering into settlements may result in payment of significant amounts which may materially and adversely affect our financial condition and operation results.
+Should we fail to prevail in certain matters, or should several of these matters be resolved against us, we may be faced with significant monetary damages or injunctive relief against us that would materially and adversely affect a portion of our business and might materially and adversely affect our financial condition and operating results.
 Our products could have defects which could result in reduced revenues and claims against us.
-
-
-
-We develop complex and evolving products that include both hardware and software. Despite our testing efforts and those of our subcontractors, defects may be discovered in existing or new products. Such defects may cause us to incur significant warranty, support and repair or replacement costs, divert the attention of our engineering personnel from our product development efforts and harm our relationships with customers. Subject to certain terms and conditions, we have agreed to compensate certain customers for limited specified costs they actually incur in the event our hardware products experience epidemic failure. As a result, epidemic failure and other performance problems could result in claims against us or the delay or loss of market acceptance of our products and would likely harm our business. Our customers could also seek damages from us for their losses.
-
-
-
-In addition, we could be subject to product liability claims. A product liability claim brought against us, even if unsuccessful, would likely be time-consuming and costly to defend. Product liability risks are particularly significant with respect to aerospace, automotive and medical applications because of the risk of serious harm to users of these products. Any product liability claim, whether or not determined in our favor, could result in significant expense, divert the efforts of our technical and management personnel, and harm our business.
-
-
-
-In preparing our financial statements, we make good faith estimates and judgments that may change or turn out to be erroneous. 
-
-
-
-In preparing our financial statements in conformity with accounting principles generally accepted in the U.S., we must make estimates and judgments in applying our critical accounting policies. Those estimates and judgments have a significant impact on the results we report in our consolidated financial statements. The most difficult estimates and subjective judgments that we make concern valuation of marketable and non-marketable securities, revenue recognition, inventories, long-lived assets including acquisition-related intangibles, goodwill, taxes and stock-based compensation. We base our estimates on historical experience, input from outside experts and various other assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. We also have other key accounting policies that are not as subjective, and therefore, their application would not require us to make estimates or judgments that are as difficult, but which nevertheless could significantly affect our financial reporting. Actual results may differ materially from these estimates. If these estimates or their related assumptions change, our operating results for the periods in which we revise our estimates or assumptions could be adversely and materially affected.
-
-
-
-Our failure to comply with the requirements of the Export Administration Regulations (EAR) and the International Traffic and Arms Regulations (ITAR) could have a material adverse effect on our financial condition and results of operations. 
-
-
-
-Our FPGAs and related technologies are subject to EAR, which are administered by the U.S. Department of Commerce. In addition, we may, from time to time, receive technical data from third parties that is subject to the ITAR, which are administered by the U.S. Department of State. EAR and ITAR govern the export and re-export of these FPGAs, the transfer of related technologies, whether in the U.S. or abroad, and the provision of services. We are required to maintain an internal compliance program and security infrastructure to meet EAR and ITAR requirements.
-
-
-
-
-
-Our inability to effectively control the sale of our products on the gray market could have a material adverse effect on our business or results of operations. 
-
-
-
-We market and sell our products directly to OEMs and through authorized third-party distributors which helps to ensure that products delivered to our customers are authentic and properly handled. From time to time, customers may purchase products bearing our name from the unauthorized "gray market." These parts may be counterfeit, salvaged or re-marked parts, or parts that have been altered, mishandled, or damaged. Gray market products result in shadow inventory that is not visible to us, thus making it difficult to forecast supply or demand. Also, when gray market products enter the market, we and our authorized distributors may compete with brokers of these discounted products, which can adversely affect demand for our products and negatively impact our margins. In addition, our reputation with customers may be negatively impacted when gray market products bearing our name fail or are found to be substandard.
-
-
-
-The conflict minerals provisions of the Dodd-Frank Wall Street Reform and Consumer Protection Act could result in additional costs and liabilities. 
-
-
-
-In accordance with the Dodd-Frank Wall Street Reform and Consumer Protection Act, the SEC established disclosure and reporting requirements for companies whose products incorporate "conflict" minerals mined from the Democratic Republic of Congo and adjoining countries, regardless of whether such products are manufactured by those companies or by third parties. These requirements could affect the sourcing and availability of minerals used in the manufacture of our semiconductor products. The costs associated with complying with the disclosure requirements include those for due diligence in regard to the sources of any conflict minerals used in our products, remediation and other changes to products, processes, or sources of supply as a consequence of such verification activities. We may face reputational challenges if we are unable to sufficiently verify the origins for all minerals used in our products through the due diligence process we implement. Moreover, some of our customers may require that all of the components of our products are certified as conflict-free, and we may be unable to verify the origin of the raw materials used in our products to the extent necessary to make this certification.
-
-
-
+We develop complex and evolving products that include both hardware and software.
+Despite our testing efforts and those of our subcontractors, defects may be discovered in existing or new products.
+Such defects may cause us to incur significant warranty, support and repair or replacement costs, divert the attention of our engineering personnel from our product development efforts and harm our relationships with customers.
+Subject to certain terms and conditions, we have agreed to compensate certain customers for limited specified costs they actually incur in the event our hardware products experience epidemic failure.
+As a result, epidemic failure and other performance problems could result in claims against us or the delay or loss of market acceptance of our products and would likely harm our business.
+Our customers could also seek damages from us for their losses.
+In addition, we could be subject to product liability claims.
+A product liability claim brought against us, even if unsuccessful, would likely be time-consuming and costly to defend.
+Product liability risks are particularly significant with respect to aerospace, automotive and medical applications because of the risk of serious harm to users of these products.
+Any product liability claim, whether or not determined in our favor, could result in significant expense, divert the efforts of our technical and management personnel, and harm our business.
+In preparing our financial statements, we make good faith estimates and judgments that may change or turn out to be erroneous.
+In preparing our financial statements in conformity with accounting principles generally accepted in the U.S., we must make estimates and judgments in applying our critical accounting policies.
+Those estimates and judgments have a significant impact on the results we report in our consolidated financial statements.
+The most difficult estimates and subjective judgments that we make concern valuation of marketable and non-marketable securities, revenue recognition, inventories, long-lived assets including acquisition-related intangibles, goodwill, taxes and stock-based compensation.
+We base our estimates on historical experience, input from outside experts and various other assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources.
+We also have other key accounting policies that are not as subjective, and therefore, their application would not require us to make estimates or judgments that are as difficult, but which nevertheless could significantly affect our financial reporting.
+Actual results may differ materially from these estimates.
+If these estimates or their related assumptions change, our operating results for the periods in which we revise our estimates or assumptions could be adversely and materially affected.
+Our failure to comply with the requirements of the Export Administration Regulations (EAR) and the International Traffic and Arms Regulations (ITAR) could have a material adverse effect on our financial condition and results of operations.
+Our FPGAs and related technologies are subject to EAR, which are administered by the U.S. Department of Commerce.
+In addition, we may, from time to time, receive technical data from third parties that is subject to the ITAR, which are administered by the U.S. Department of State.
+EAR and ITAR govern the export and re-export of these FPGAs, the transfer of related technologies, whether in the U.S. or abroad, and the provision of services.
+We are required to maintain an internal compliance program and security infrastructure to meet EAR and ITAR requirements.
+Our inability to effectively control the sale of our products on the gray market could have a material adverse effect on our business or results of operations.
+We market and sell our products directly to OEMs and through authorized third-party distributors which helps to ensure that products delivered to our customers are authentic and properly handled.
+From time to time, customers may purchase products bearing our name from the unauthorized "gray market."
+These parts may be counterfeit, salvaged or re-marked parts, or parts that have been altered, mishandled, or damaged.
+Gray market products result in shadow inventory that is not visible to us, thus making it difficult to forecast supply or demand.
+Also, when gray market products enter the market, we and our authorized distributors may compete with brokers of these discounted products, which can adversely affect demand for our products and negatively impact our margins.
+In addition, our reputation with customers may be negatively impacted when gray market products bearing our name fail or are found to be substandard.
+The conflict minerals provisions of the Dodd-Frank Wall Street Reform and Consumer Protection Act could result in additional costs and liabilities.
+In accordance with the Dodd-Frank Wall Street Reform and Consumer Protection Act, the SEC established disclosure and reporting requirements for companies whose products incorporate "conflict" minerals mined from the Democratic Republic of Congo and adjoining countries, regardless of whether such products are manufactured by those companies or by third parties.
+These requirements could affect the sourcing and availability of minerals used in the manufacture of our semiconductor products.
+The costs associated with complying with the disclosure requirements include those for due diligence in regard to the sources of any conflict minerals used in our products, remediation and other changes to products, processes, or sources of supply as a consequence of such verification activities.
+We may face reputational challenges if we are unable to sufficiently verify the origins for all minerals used in our products through the due diligence process we implement.
+Moreover, some of our customers may require that all of the components of our products are certified as conflict-free, and we may be unable to verify the origin of the raw materials used in our products to the extent necessary to make this certification.
 Exposure to greater-than-anticipated income tax liabilities, changes in tax rules and regulations, changes in interpretation of tax rules and regulations, or unfavorable assessments from tax audits could affect our effective tax rates, financial condition and results of operations.
-
-
-
-We are a U.S.-based multinational company subject to tax in multiple U.S. and foreign tax jurisdictions. Our income tax obligations could be affected by many factors, including but not limited to changes to our corporate operating structure, intercompany arrangements and tax planning strategies. 
-
-
-
-Our income tax expense is computed based on tax rates at the time of the respective financial period. Our future effective tax rates, financial condition and results from operations could be unfavorably affected by changes in the tax rates in jurisdictions where our income is earned, by changes in the tax rules and regulations or the interpretation of tax rules and regulations in the jurisdictions in which we do business or by changes in the valuation of our deferred tax assets. 
-
-
-
-The TCJA enacted in December 2017 had a significant impact on our tax obligations and effective tax rate for the third quarter of fiscal 2018. The issuance of additional regulatory or accounting guidance related to the TCJA could materially affect our tax obligation and effective tax rate in the period issued. The TCJA could also be subject to amendments and technical corrections, any of which could lessen or increase certain adverse impacts. A significant portion of our earnings are earned by our subsidiaries outside the U.S. Changes to the taxation of certain foreign earnings resulting from the TCJA, along with the state tax impact of these changes, may have an adverse effect on our effective tax rate. Furthermore, changes to the taxation of undistributed foreign earnings could change our future intentions regarding reinvestment of such earnings. The foregoing items could have a material effect on our business, cash flow, results of operations or financial condition.
-
-
-
-In addition, we are subject to examinations of our income tax returns by domestic and foreign tax authorities. We regularly assess the likelihood of outcomes resulting from these examinations to determine the adequacy of our provision for income taxes and have reserved for potential adjustments that may result from the current examinations. There can be no assurance that the final determination of any of these examinations will not have an adverse effect on our effective tax rates, financial condition and results of operations.
-
-
-
-Considerable amounts of shares of our common stock are available for issuance under our equity incentive plans, and significant issuances in the future may adversely impact the market price of our common stock. 
-
-
-
-As of June 29, 2019 we had 2.00 billion authorized common shares, of which 251.0 million shares were outstanding. In addition, 30.0 million shares of common stock were reserved for issuance pursuant to our equity incentive plans and Amended and Restated 1990 Employee Qualified Stock Purchase Plan. The availability of substantial amounts of our common stock resulting from the exercise or settlement of equity awards outstanding under our equity incentive plans, which would be dilutive to existing stockholders, could adversely affect the prevailing market price of our common stock and could impair our ability to raise additional capital through the sale of equity securities. 
-
-
-
+We are a U.S.-based multinational company subject to tax in multiple U.S. and foreign tax jurisdictions.
+Our income tax obligations could be affected by many factors, including but not limited to changes to our corporate operating structure, intercompany arrangements and tax planning strategies.
+Our income tax expense is computed based on tax rates at the time of the respective financial period.
+Our future effective tax rates, financial condition and results from operations could be unfavorably affected by changes in the tax rates in jurisdictions where our income is earned, by changes in the tax rules and regulations or the interpretation of tax rules and regulations in the jurisdictions in which we do business or by changes in the valuation of our deferred tax assets.
+The TCJA enacted in December 2017 had a significant impact on our tax obligations and effective tax rate for the third quarter of fiscal 2018.
+The issuance of additional regulatory or accounting guidance related to the TCJA could materially affect our tax obligation and effective tax rate in the period issued.
+The TCJA could also be subject to amendments and technical corrections, any of which could lessen or increase certain adverse impacts.
+A significant portion of our earnings are earned by our subsidiaries outside the U.S. Changes to the taxation of certain foreign earnings resulting from the TCJA, along with the state tax impact of these changes, may have an adverse effect on our effective tax rate.
+Furthermore, changes to the taxation of undistributed foreign earnings could change our future intentions regarding reinvestment of such earnings.
+The foregoing items could have a material effect on our business, cash flow, results of operations or financial condition.
+In addition, we are subject to examinations of our income tax returns by domestic and foreign tax authorities.
+We regularly assess the likelihood of outcomes resulting from these examinations to determine the adequacy of our provision for income taxes and have reserved for potential adjustments that may result from the current examinations.
+There can be no assurance that the final determination of any of these examinations will not have an adverse effect on our effective tax rates, financial condition and results of operations.
+Considerable amounts of shares of our common stock are available for issuance under our equity incentive plans, and significant issuances in the future may adversely impact the market price of our common stock.
+As of June 29, 2019 we had 2.00 billion authorized common shares, of which 251.0 million shares were outstanding.
+In addition, 30.0 million shares of common stock were reserved for issuance pursuant to our equity incentive plans and Amended and Restated 1990 Employee Qualified Stock Purchase Plan.
+The availability of substantial amounts of our common stock resulting from the exercise or settlement of equity awards outstanding under our equity incentive plans, which would be dilutive to existing stockholders, could adversely affect the prevailing market price of our common stock and could impair our ability to raise additional capital through the sale of equity securities.
 We have indebtedness that could adversely affect our financial condition and prevent us from fulfilling our debt obligations.
-
-
-
-
-
 •make it difficult for us to satisfy our financial obligations, including making scheduled principal and interest payments on the debentures and our other indebtedness;
-
-
-
 •limit our ability to borrow additional funds for working capital, capital expenditures, acquisitions or other general corporate purposes;
-
-
-
 •limit our ability to use our cash flow or obtain additional financing for future working capital, capital expenditures, acquisitions or other general business purposes;
-
-
-
 •require us to use a portion of our cash flow from operations to make debt service payments;
-
-
-
 •limit our flexibility to plan for, or react to, changes in our business and industry;
-
-
-
 •place us at a competitive disadvantage compared to our less leveraged competitors; and
-
-
-
 •increase our vulnerability to the impact of adverse economic and industry conditions.
-
-
-
 Our ability to meet our debt service obligations will depend on our future performance, which will be subject to financial, business and other factors affecting our operations, many of which are beyond our control.
-
-
-
-The agreements governing the 2021 Notes and 2024 Notes contain covenants that may adversely affect our ability to operate our business. 
-
-
-
-
-
+The agreements governing the 2021 Notes and 2024 Notes contain covenants that may adversely affect our ability to operate our business.
 •create certain liens on principal property or the capital stock of certain subsidiaries;
-
-
-
 •enter into certain sale and leaseback transactions with respect to principal property; and
-
-
-
-•consolidate or merge with, or convey, transfer or lease all or substantially all our assets, taken as a whole, to another person. 
-
-
-
-A failure to comply with these covenants and other provisions in these indentures could result in events of default under the indentures, which could permit acceleration of the 2021 Notes and the 2024 Notes. Any required repayment as a result of such acceleration could have a material adverse effect on our business, results of operations, financial condition or cash flows.
-
-
-
+•consolidate or merge with, or convey, transfer or lease all or substantially all our assets, taken as a whole, to another person.
+A failure to comply with these covenants and other provisions in these indentures could result in events of default under the indentures, which could permit acceleration of the 2021 Notes and the 2024 Notes.
+Any required repayment as a result of such acceleration could have a material adverse effect on our business, results of operations, financial condition or cash flows.

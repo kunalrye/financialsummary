@@ -1,432 +1,162 @@
 ITEM 2.MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
-
-
-
 SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
-
-
-
-This report contains certain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. All statements other than statements of historical fact may be forward-looking statements. You can identify these and other forward-looking statements by the use of words such as “may,” “will,” “could,” “would,” “should,” “expects,” “plans,” “anticipates,” “relies,” “believes,” “estimates,” “predicts,” “intends,” “potential,” “continue,” “thinks,” “seeks,” or the negative of such terms, or other comparable terminology. Forward-looking statements also include the assumptions underlying or relating to any of the foregoing statements. Such forward-looking statements include, among others, forecasts of the future results of our operations, including profitability; orders for our products and capital equipment generally; sales of semiconductors; the investments by our customers in advanced technologies and new materials; the allocation of capital spending by our customers (and, in particular, the percentage of spending that our customers allocate to process control); growth of revenue in the semiconductor industry, the semiconductor capital equipment industry and our business; technological trends in the semiconductor industry; future developments or trends in the global capital and financial markets; our future product offerings and product features; the success and market acceptance of new products; timing of shipment of backlog; our future product shipments and product and service revenues; our future gross margins; our future research and development expenses and selling, general and administrative expenses; our ability to successfully maintain cost discipline; international sales and operations; our ability to maintain or improve our existing competitive position; success of our product offerings; creation and funding of programs for research and development; attraction and retention of employees; results of our investment in leading edge technologies; the effects of hedging transactions; the effect of the sale of trade receivables and promissory notes from customers; our future effective income tax rate; our recognition of tax benefits; future payments of dividends to our stockholders; the completion of any acquisitions of third parties, or the technology or assets thereof; benefits received from any acquisitions and development of acquired technologies; sufficiency of our existing cash balance, investments, cash generated from operations and the unfunded portion of our revolving line of credit under a Credit Agreement (the “Credit Agreement”) to meet our operating and working capital requirements, including debt service and payment thereof; future dividends, and stock repurchases; our compliance with the financial covenants under the Credit Agreement; the adoption of new accounting pronouncements including ASC 606; the tax liabilities resulting from the enactment of the Tax Cuts and Jobs Act; and our repayment of our outstanding indebtedness.
-
-
-
-Our actual results may differ significantly from those projected in the forward-looking statements in this report. Factors that might cause or contribute to such differences include, but are not limited to, those discussed in Part II, Item 1A, “Risk Factors” in this report as well as in Item 1, “Business” and Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report on Form 10-K for the year ended June 30, 2018, filed with the Securities and Exchange Commission on August 6, 2018. You should carefully review these risks and also review the risks described in other documents we file from time to time with the Securities and Exchange Commission. You are cautioned not to place undue reliance on these forward-looking statements, and we expressly assume no obligation and do not intend to update the forward-looking statements in this report after the date hereof.
-
-
-
+This report contains certain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934.
+All statements other than statements of historical fact may be forward-looking statements.
+You can identify these and other forward-looking statements by the use of words such as “may,” “will,” “could,” “would,” “should,” “expects,” “plans,” “anticipates,” “relies,” “believes,” “estimates,” “predicts,” “intends,” “potential,” “continue,” “thinks,” “seeks,” or the negative of such terms, or other comparable terminology.
+Forward-looking statements also include the assumptions underlying or relating to any of the foregoing statements.
+Such forward-looking statements include, among others, forecasts of the future results of our operations, including profitability; orders for our products and capital equipment generally; sales of semiconductors; the investments by our customers in advanced technologies and new materials; the allocation of capital spending by our customers (and, in particular, the percentage of spending that our customers allocate to process control); growth of revenue in the semiconductor industry, the semiconductor capital equipment industry and our business; technological trends in the semiconductor industry; future developments or trends in the global capital and financial markets; our future product offerings and product features; the success and market acceptance of new products; timing of shipment of backlog; our future product shipments and product and service revenues; our future gross margins; our future research and development expenses and selling, general and administrative expenses; our ability to successfully maintain cost discipline; international sales and operations; our ability to maintain or improve our existing competitive position; success of our product offerings; creation and funding of programs for research and development; attraction and retention of employees; results of our investment in leading edge technologies; the effects of hedging transactions; the effect of the sale of trade receivables and promissory notes from customers; our future effective income tax rate; our recognition of tax benefits; future payments of dividends to our stockholders; the completion of any acquisitions of third parties, or the technology or assets thereof; benefits received from any acquisitions and development of acquired technologies; sufficiency of our existing cash balance, investments, cash generated from operations and the unfunded portion of our revolving line of credit under a Credit Agreement (the “Credit Agreement”) to meet our operating and working capital requirements, including debt service and payment thereof; future dividends, and stock repurchases; our compliance with the financial covenants under the Credit Agreement; the adoption of new accounting pronouncements including ASC 606; the tax liabilities resulting from the enactment of the Tax Cuts and Jobs Act; and our repayment of our outstanding indebtedness.
+Our actual results may differ significantly from those projected in the forward-looking statements in this report.
+Factors that might cause or contribute to such differences include, but are not limited to, those discussed in Part II, Item 1A, “Risk Factors” in this report as well as in Item 1, “Business” and Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report on Form 10-K for the year ended June 30, 2018, filed with the Securities and Exchange Commission on August 6, 2018.
+You should carefully review these risks and also review the risks described in other documents we file from time to time with the Securities and Exchange Commission.
+You are cautioned not to place undue reliance on these forward-looking statements, and we expressly assume no obligation and do not intend to update the forward-looking statements in this report after the date hereof.
 EXECUTIVE SUMMARY
-
-
-
-We are a leading supplier of process control and yield management solutions for the semiconductor and related nanoelectronics industries. Our broad portfolio of inspection and metrology products, and related service, software and other offerings primarily supports integrated circuit (“IC” or “chip”) manufacturers throughout the entire semiconductor fabrication process, from research and development to final volume production. We provide leading edge equipment, software and support that enable IC manufacturers to identify, resolve and manage significant advanced technology manufacturing process challenges and obtain higher finished product yields at lower overall cost. In addition to serving the semiconductor industry, we also provide a range of technology solutions to a number of other high technology industries, including advanced packaging, light emitting diode (“LED”), power devices, compound semiconductor, and data storage industries, as well as general materials research.
-
-
-
-Our products and services are used by the vast majority of bare wafer, IC, lithography reticle (“reticle” or “mask”) and hard disk drive manufacturers around the world. Our products, services and expertise are used by our customers to measure, detect, analyze and resolve critical product defects that arise in that environment in order to control nanometric level manufacturing processes. Our revenues are driven largely by our customers’ spending on capital equipment and related maintenance services necessary to support key transitions in their underlying product technologies, or to increase their production volumes in response to market demand or expansion plans. Our semiconductor customers generally operate in one or more of the three major semiconductor markets - memory, foundry and logic. All three of these markets are characterized by rapid technological changes and sudden shifts in end-user demand, which influence the level and pattern of our customers’ spending on our products and services. Although capital spending in all three semiconductor markets has historically been very cyclical, the demand for more advanced and lower cost chips used in a growing number of consumer electronics, communications, data processing, and industrial and automotive products has resulted over the long term in a favorable demand environment for our process control and yield management solutions, particularly in the foundry and logic markets, which have higher levels of process control adoption than the memory market. 
-
-
-
-As we are a supplier to the global semiconductor and semiconductor-related industries, our customer base continues to become more highly concentrated over time, thereby increasing the potential impact of a sudden change in capital spending by a major customer on our revenues and profitability. As our customer base becomes increasingly more concentrated, large orders from a relatively limited number of customers account for a substantial portion of our sales, which potentially exposes us to more volatility for revenues and earnings. In the global semiconductor related industries, China is emerging as a major region for manufacturing of logic and memory chips, adding to its role as the world’s largest consumer of ICs. Government initiatives are propelling China to expand its domestic manufacturing capacity and attracting semiconductor manufacturers from Taiwan, Korea, Japan and the US. China is currently seen as an important long-term growth region for the semiconductor capital equipment sector. We are also subject to the cyclical capital spending that has historically characterized the semiconductor and semiconductor-related industries. The timing, length, intensity and volatility of the capacity-oriented capital spending cycles of our customers are unpredictable. 
-
-
-
-
-
-The demand for our products and our revenue levels are driven by our customers’ needs to solve the process challenges that they face as they adopt new technologies required to fabricate advanced ICs that are incorporated into sophisticated mobile devices. The timing for our customers in ordering and taking delivery of process control and yield management equipment is also determined by our customers’ requirements to meet the next generation production ramp schedules, and the timing for capacity expansion to meet end customer demand. During the three months ended December 31, 2018, revenues for our process control equipment had a modest increase compared to the three months ended September 30, 2018. Our earnings will depend not only on our revenue levels, but also on the amount of research and development spending required to meet our customers’ technology roadmaps. We have maintained production volumes and capacity to meet anticipated customer requirements and remain at risk of incurring significant inventory-related and other restructuring charges if business conditions deteriorate. Over the past year, our customers have taken delivery of higher volumes of process control equipment than they did in the previous year. However, any delay or push out by our customers in taking delivery of process control and yield management equipment may cause earnings volatility, due to increases in the risk of inventory related charges as well as timing of revenue recognition.
-
-
-
-Our view of the current wafer fab equipment demand climate is aligned with consensus industry analyst expectations for the calendar year 2019, which reflects a decline in capital equipment spending by memory customers. In contrast to the memory business, capital equipment spending by foundry and logic customers at the leading edge has begun to ramp, and the momentum is expected to continue in calendar year 2019. We have already seen our mix of business begin to shift toward increased purchases by logic and foundry customers as a percentage of total sales, and we expect spending from these customers to continue to remain strong. Because of a more diversified semiconductor device-end demand, and disciplined capacity planning by wafer fab equipment customers, we believe the long-term growth dynamics for the industry remain strong.
-
-
-
-
-
-
-
-
-
-
-
-
-
+We are a leading supplier of process control and yield management solutions for the semiconductor and related nanoelectronics industries.
+Our broad portfolio of inspection and metrology products, and related service, software and other offerings primarily supports integrated circuit (“IC” or “chip”) manufacturers throughout the entire semiconductor fabrication process, from research and development to final volume production.
+We provide leading edge equipment, software and support that enable IC manufacturers to identify, resolve and manage significant advanced technology manufacturing process challenges and obtain higher finished product yields at lower overall cost.
+In addition to serving the semiconductor industry, we also provide a range of technology solutions to a number of other high technology industries, including advanced packaging, light emitting diode (“LED”), power devices, compound semiconductor, and data storage industries, as well as general materials research.
+Our products and services are used by the vast majority of bare wafer, IC, lithography reticle (“reticle” or “mask”) and hard disk drive manufacturers around the world.
+Our products, services and expertise are used by our customers to measure, detect, analyze and resolve critical product defects that arise in that environment in order to control nanometric level manufacturing processes.
+Our revenues are driven largely by our customers’ spending on capital equipment and related maintenance services necessary to support key transitions in their underlying product technologies, or to increase their production volumes in response to market demand or expansion plans.
+Our semiconductor customers generally operate in one or more of the three major semiconductor markets - memory, foundry and logic.
+All three of these markets are characterized by rapid technological changes and sudden shifts in end-user demand, which influence the level and pattern of our customers’ spending on our products and services.
+Although capital spending in all three semiconductor markets has historically been very cyclical, the demand for more advanced and lower cost chips used in a growing number of consumer electronics, communications, data processing, and industrial and automotive products has resulted over the long term in a favorable demand environment for our process control and yield management solutions, particularly in the foundry and logic markets, which have higher levels of process control adoption than the memory market.
+As we are a supplier to the global semiconductor and semiconductor-related industries, our customer base continues to become more highly concentrated over time, thereby increasing the potential impact of a sudden change in capital spending by a major customer on our revenues and profitability.
+As our customer base becomes increasingly more concentrated, large orders from a relatively limited number of customers account for a substantial portion of our sales, which potentially exposes us to more volatility for revenues and earnings.
+In the global semiconductor related industries, China is emerging as a major region for manufacturing of logic and memory chips, adding to its role as the world’s largest consumer of ICs.
+Government initiatives are propelling China to expand its domestic manufacturing capacity and attracting semiconductor manufacturers from Taiwan, Korea, Japan and the US.
+China is currently seen as an important long-term growth region for the semiconductor capital equipment sector.
+We are also subject to the cyclical capital spending that has historically characterized the semiconductor and semiconductor-related industries.
+The timing, length, intensity and volatility of the capacity-oriented capital spending cycles of our customers are unpredictable.
+The demand for our products and our revenue levels are driven by our customers’ needs to solve the process challenges that they face as they adopt new technologies required to fabricate advanced ICs that are incorporated into sophisticated mobile devices.
+The timing for our customers in ordering and taking delivery of process control and yield management equipment is also determined by our customers’ requirements to meet the next generation production ramp schedules, and the timing for capacity expansion to meet end customer demand.
+During the three months ended December 31, 2018, revenues for our process control equipment had a modest increase compared to the three months ended September 30, 2018.
+Our earnings will depend not only on our revenue levels, but also on the amount of research and development spending required to meet our customers’ technology roadmaps.
+We have maintained production volumes and capacity to meet anticipated customer requirements and remain at risk of incurring significant inventory-related and other restructuring charges if business conditions deteriorate.
+Over the past year, our customers have taken delivery of higher volumes of process control equipment than they did in the previous year.
+However, any delay or push out by our customers in taking delivery of process control and yield management equipment may cause earnings volatility, due to increases in the risk of inventory related charges as well as timing of revenue recognition.
+Our view of the current wafer fab equipment demand climate is aligned with consensus industry analyst expectations for the calendar year 2019, which reflects a decline in capital equipment spending by memory customers.
+In contrast to the memory business, capital equipment spending by foundry and logic customers at the leading edge has begun to ramp, and the momentum is expected to continue in calendar year 2019.
+We have already seen our mix of business begin to shift toward increased purchases by logic and foundry customers as a percentage of total sales, and we expect spending from these customers to continue to remain strong.
+Because of a more diversified semiconductor device-end demand, and disciplined capacity planning by wafer fab equipment customers, we believe the long-term growth dynamics for the industry remain strong.
 Proposed Merger with Orbotech, Ltd.
-
-
-
-On March 18, 2018, we entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Orbotech, Ltd. (“Orbotech”) pursuant to which we would acquire Orbotech for $38.86 in cash and 0.25 of a share of our common stock in exchange for each ordinary share of Orbotech, which at the time of announcement valued Orbotech at $3.2 billion in enterprise value. The merger contemplated by the Merger Agreement (the “Orbotech Merger”) is subject to receipt of required regulatory approvals and satisfaction of the other customary closing conditions. KLA continues to have advanced discussions with the State Administration for Market Regulation of the People’s Republic of China (SAMR) regarding clearance of the proposed merger with a goal of obtaining clearance as soon as practicable in 2019. We intend to fund the cash portion of the purchase price with cash from the combined company’s balance sheet.
-
-
-
-In addition, we announced a share repurchase authorization up to $2 billion. The share repurchase program is targeted to be completed within 12 to 18 months following the close of this transaction. We intend to raise approximately $1 billion in new long-term debt financing to complete the share repurchase program. For additional details, refer to Note 10, “Stock Repurchase Program.” to the condensed consolidated financial statements.
-
-
-
+On March 18, 2018, we entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Orbotech, Ltd. (“Orbotech”) pursuant to which we would acquire Orbotech for $38.86 in cash and 0.25 of a share of our common stock in exchange for each ordinary share of Orbotech, which at the time of announcement valued Orbotech at $3.2 billion in enterprise value.
+The merger contemplated by the Merger Agreement (the “Orbotech Merger”) is subject to receipt of required regulatory approvals and satisfaction of the other customary closing conditions.
+KLA continues to have advanced discussions with the State Administration for Market Regulation of the People’s Republic of China (SAMR) regarding clearance of the proposed merger with a goal of obtaining clearance as soon as practicable in 2019.
+We intend to fund the cash portion of the purchase price with cash from the combined company’s balance sheet.
+In addition, we announced a share repurchase authorization up to $2 billion.
+The share repurchase program is targeted to be completed within 12 to 18 months following the close of this transaction.
+We intend to raise approximately $1 billion in new long-term debt financing to complete the share repurchase program.
+For additional details, refer to Note 10, “Stock Repurchase Program.” to the condensed consolidated financial statements.
 CRITICAL ACCOUNTING ESTIMATES AND POLICIES
-
-
-
-The preparation of our condensed consolidated financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions in applying our accounting policies that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. We base these estimates and assumptions on historical experience and evaluate them on an ongoing basis to ensure that they remain reasonable under current conditions. Actual results could differ from those estimates. We discuss the development and selection of the critical accounting estimates with the Audit Committee of our Board of Directors on a quarterly basis, and the Audit Committee has reviewed our related disclosure in this Quarterly Report on Form 10-Q. 
-
-
-
-We updated our accounting policies for Revenue Recognition, Business Combinations, Global Intangible Low-Taxed Income (“GILTI”), and Derivative Financial Instruments. There have been no other material changes in our critical accounting estimates and policies since our Annual Report on Form 10-K for the fiscal year ended June 30, 2018. Refer to Note 1 “Basis of Presentation” to the condensed consolidated financial statements for additional details. In addition, please refer to Management’s Discussion and Analysis of Financial Condition and Results of Operations contained in Part II, Item 7 of our Annual Report on Form 10-K for our fiscal year ended June 30, 2018 for a more complete discussion of our critical accounting policies and estimates.
-
-
-
+The preparation of our condensed consolidated financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions in applying our accounting policies that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities.
+We base these estimates and assumptions on historical experience and evaluate them on an ongoing basis to ensure that they remain reasonable under current conditions.
+Actual results could differ from those estimates.
+We discuss the development and selection of the critical accounting estimates with the Audit Committee of our Board of Directors on a quarterly basis, and the Audit Committee has reviewed our related disclosure in this Quarterly Report on Form 10-Q.
+We updated our accounting policies for Revenue Recognition, Business Combinations, Global Intangible Low-Taxed Income (“GILTI”), and Derivative Financial Instruments.
+There have been no other material changes in our critical accounting estimates and policies since our Annual Report on Form 10-K for the fiscal year ended June 30, 2018.
+Refer to Note 1 “Basis of Presentation” to the condensed consolidated financial statements for additional details.
+In addition, please refer to Management’s Discussion and Analysis of Financial Condition and Results of Operations contained in Part II, Item 7 of our Annual Report on Form 10-K for our fiscal year ended June 30, 2018 for a more complete discussion of our critical accounting policies and estimates.
 Recent Accounting Pronouncements
-
-
-
 For a description of recent accounting pronouncements, including those recently adopted and the expected dates of adoption as well as estimated effects, if any, on our condensed consolidated financial statements of those not yet adopted, see Note 1, “Basis of Presentation” to the condensed consolidated financial statements for additional details.
-
-
-
 RESULTS OF OPERATIONS
-
-
-
-On July 1, 2018, we adopted ASC 606 using the modified retrospective transition approach. Results for reporting periods beginning after July 1, 2018 are presented under the ASC 606, while prior period amounts are presented under legacy guidance. For additional details, refer to Note 2 “Revenue” to the condensed consolidated financial statements. 
-
-
-
+On July 1, 2018, we adopted ASC 606 using the modified retrospective transition approach.
+Results for reporting periods beginning after July 1, 2018 are presented under the ASC 606, while prior period amounts are presented under legacy guidance.
+For additional details, refer to Note 2 “Revenue” to the condensed consolidated financial statements.
 Revenues and Gross Margin
-
-
-
-
-
-
-
 Product revenues
-
-
-
-Our business is affected by the concentration of our customer base and our customers’ capital equipment procurement patterns as a result of their investment plans. Our product revenues in any particular period are significantly impacted by the amount of new orders that we receive during that period and, depending upon the duration of manufacturing and installation cycles, in the preceding period.
-
-
-
+Our business is affected by the concentration of our customer base and our customers’ capital equipment procurement patterns as a result of their investment plans.
+Our product revenues in any particular period are significantly impacted by the amount of new orders that we receive during that period and, depending upon the duration of manufacturing and installation cycles, in the preceding period.
 Product revenue increased during the three months ended December 31, 2018 compared to the three months ended September 30, 2018 and December 31, 2017, primarily due to a strong demand from our customers in the memory business resulting in the increased next generation and capacity-related investments.
-
-
-
 Product revenues increased during the six months ended December 31, 2018 compared to the six months ended December 31, 2017, primarily due to a strong demand from our customers in the memory and wafer inspection businesses resulting in the increased next generation and capacity-related investments, and a favorable impact from the adoption of ASC 606 due to our assessment of timing of transfer of control.
-
-
-
 Service revenues
-
-
-
-Service revenues are generated from product maintenance and support services, as well as billable time and material service calls made to our customers. The amount of our service revenues is typically a function of the number of systems installed at our customers’ sites and the utilization of those systems, but it is also impacted by other factors, such as our rate of service contract renewals, the types of systems being serviced and fluctuations in foreign exchange rates. 
-
-
-
+Service revenues are generated from product maintenance and support services, as well as billable time and material service calls made to our customers.
+The amount of our service revenues is typically a function of the number of systems installed at our customers’ sites and the utilization of those systems, but it is also impacted by other factors, such as our rate of service contract renewals, the types of systems being serviced and fluctuations in foreign exchange rates.
 Service revenues during the three months ended December 31, 2018 increased compared to the three months ended September 30, 2018, primarily due to an increase in the number of systems installed at our customers’ sites.
-
-
-
 Service revenues during the three and six months ended December 31, 2018 increased compared to the three and six months ended December 31, 2017, primarily due an increase in the number of systems installed at our customers’ sites, and the impact of adoption of ASC 606 whereby revenue from the standard warranty represents a separate performance obligation and included in our services revenue.
-
-
-
 Revenues by region
-
-
-
-
-
-
-
-A significant portion of our revenues continues to be generated in Asia, where a substantial portion of the world’s semiconductor manufacturing capacity is located, and we expect that trend to continue. 
-
-
-
+A significant portion of our revenues continues to be generated in Asia, where a substantial portion of the world’s semiconductor manufacturing capacity is located, and we expect that trend to continue.
 Gross margin
-
-
-
 Our gross margin fluctuates with revenue levels and product mix and is affected by variations in costs related to manufacturing and servicing our products, including our ability to scale our operations efficiently and effectively in response to prevailing business conditions.
-
-
-
-
-
-
-
-Changes in gross margin percentage driven by revenue volume of products and services reflect our ability to leverage existing infrastructure to generate higher revenues. It also includes the effect of fluctuations in foreign exchange rates, average customer pricing and customer revenue deferrals associated with volume purchase agreements. Changes in gross margin percentage from mix of products and services sold reflect the impact of changes in the composition within product and service offerings. Changes in gross margin percentage from manufacturing labor, overhead and efficiencies reflect our ability to manage costs and drive productivity as we scale our manufacturing activity to respond to customer requirements; this includes the impact of capacity utilization, use of overtime and variability of cost structure. Changes in gross margin percentage from other service and manufacturing costs include the impact of customer support costs, including the efficiencies with which we deliver services to our customers, and the effectiveness with which we manage our production plans and inventory risk.
-
-
-
-Our gross margin decreased to 63.5% for three months ended December 31, 2018 from 65.1% during the three months ended September 30, 2018, primarily due to an unfavorable mix of products and services sold. 
-
-
-
- Our gross margin decreased to 63.5% for three months ended December 31, 2018 from 64.4% during the three months ended December 31, 2017, primarily due to an increase in service and manufacturing costs, partially offset by a favorable mix of products and services sold. 
-
-
-
-Our gross margin increased to 64.3% during the six months ended December 31, 2018, from 64.0% during the six months ended December 31, 2017, primarily due to a favorable mix of products and services sold, partially offset by an increase in service and manufacturing costs. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Changes in gross margin percentage driven by revenue volume of products and services reflect our ability to leverage existing infrastructure to generate higher revenues.
+It also includes the effect of fluctuations in foreign exchange rates, average customer pricing and customer revenue deferrals associated with volume purchase agreements.
+Changes in gross margin percentage from mix of products and services sold reflect the impact of changes in the composition within product and service offerings.
+Changes in gross margin percentage from manufacturing labor, overhead and efficiencies reflect our ability to manage costs and drive productivity as we scale our manufacturing activity to respond to customer requirements; this includes the impact of capacity utilization, use of overtime and variability of cost structure.
+Changes in gross margin percentage from other service and manufacturing costs include the impact of customer support costs, including the efficiencies with which we deliver services to our customers, and the effectiveness with which we manage our production plans and inventory risk.
+Our gross margin decreased to 63.5% for three months ended December 31, 2018 from 65.1% during the three months ended September 30, 2018, primarily due to an unfavorable mix of products and services sold.
+ Our gross margin decreased to 63.5% for three months ended December 31, 2018 from 64.4% during the three months ended December 31, 2017, primarily due to an increase in service and manufacturing costs, partially offset by a favorable mix of products and services sold.
+Our gross margin increased to 64.3% during the six months ended December 31, 2018, from 64.0% during the six months ended December 31, 2017, primarily due to a favorable mix of products and services sold, partially offset by an increase in service and manufacturing costs.
 Interest Expense and Other Expense (Income), Net
-
-
-
-
-
-
-
-Interest expense during the three months ended December 31, 2018 remained relatively unchanged compared to the three months ended September 30, 2018, and December 31, 2017. 
-
-
-
+Interest expense during the three months ended December 31, 2018 remained relatively unchanged compared to the three months ended September 30, 2018, and December 31, 2017.
 Decrease in interest expense during the six months ended December 31, 2018 compared the six months ended December 31, 2017 was primarily due to lower outstanding debt.
-
-
-
 Other expense (income), net is comprised primarily of realized gains or losses on sales of marketable securities, gains or losses from revaluations of certain foreign currency denominated assets and liabilities as well as foreign currency contracts, and interest-related accruals (such as interest and penalty accruals related to our tax obligations) and interest income earned on our invested cash, cash equivalents and marketable securities.
-
-
-
 The decrease in other expense (income), net during the three months ended December 31, 2018 compared to the three months ended September 30, 2018 was primarily due to a lower net foreign currency gain of $0.9 million.
-
-
-
 The increase in other expense (income), net during the three months ended December 31, 2018 compared to the three months ended December 31, 2017 was primarily due to an increase in interest income of $2.9 million.
-
-
-
-The increase in other expense (income), net during the six months ended December 31, 2018 compared to the six months ended December 31, 2017 was primarily due to an increase in interest income of $5.4 million and a higher net foreign currency gain of $1.5 million. 
-
-
-
+The increase in other expense (income), net during the six months ended December 31, 2018 compared to the six months ended December 31, 2017 was primarily due to an increase in interest income of $5.4 million and a higher net foreign currency gain of $1.5 million.
 Provision for Income Taxes
-
-
-
-
-
-
-
-
-
-
-
-
-
-As of December 31, 2018, we have completed our accounting for the tax effects of the Act, which was enacted into law on December 22, 2017. We recorded a tax benefit adjustment of $0.3 million and $20.1 million for the transition tax liability provided by the Act during the three and six months ended December 31, 2018, respectively. Future guidance of the Act from U.S. federal and state governments may change the tax liability.
-
-
-
+As of December 31, 2018, we have completed our accounting for the tax effects of the Act, which was enacted into law on December 22, 2017.
+We recorded a tax benefit adjustment of $0.3 million and $20.1 million for the transition tax liability provided by the Act during the three and six months ended December 31, 2018, respectively.
+Future guidance of the Act from U.S. federal and state governments may change the tax liability.
 Our future effective income tax rate depends on various factors, such as tax legislation, the geographic composition of our pre-tax income, the amount of our pre-tax income as business activities fluctuate, non-deductible expenses incurred in connection with acquisitions, research and development credits as a percentage of aggregate pre-tax income, the domestic manufacturing deduction, non-taxable or non-deductible increases or decreases in the assets held within our Executive Deferred Savings Plan, the tax effects of employee stock activity and the effectiveness of our tax planning strategies.
-
-
-
-In the normal course of business, we are subject to examination by tax authorities throughout the world. We are under United States federal income tax examination for the fiscal year ended June 30, 2016. Although we believe our tax estimates are reasonable, the final determination of tax audits and any related litigation could be materially different from our historical income tax provisions and accruals. The results of an audit or litigation could have a material adverse effect on our results of operations or cash flows in the period or periods for which that determination is made.
-
-
-
+In the normal course of business, we are subject to examination by tax authorities throughout the world.
+We are under United States federal income tax examination for the fiscal year ended June 30, 2016.
+Although we believe our tax estimates are reasonable, the final determination of tax audits and any related litigation could be materially different from our historical income tax provisions and accruals.
+The results of an audit or litigation could have a material adverse effect on our results of operations or cash flows in the period or periods for which that determination is made.
 LIQUIDITY AND CAPITAL RESOURCES
-
-
-
-
-
-
-
-As of December 31, 2018, our cash, cash equivalents and marketable securities totaled $2.69 billion, which represents a decrease of $186.2 million from June 30, 2018. The decrease is mainly due to stock repurchases of $550.2 million, and cash used for payment of dividends and dividend equivalents of $237.3 million, partially offset by our cash generated from operations and net proceeds from marketable securities transactions.
-
-
-
- As of December 31, 2018, $2.15 billion of our $2.69 billion of cash, cash equivalents and marketable securities were held by our foreign subsidiaries and branch offices. We currently intend to indefinitely reinvest $1.94 billion of the cash, cash equivalents and marketable securities held by our foreign subsidiaries. If, however, a portion of these funds were to be repatriated to the United States, we would be required to accrue and pay state and foreign taxes of approximately 1%-22% of the funds repatriated. The amount of taxes due will depend on the amount and manner of the repatriation, as well as the location from which the funds are repatriated. We have accrued state and foreign tax on the remaining cash of $203.8 million of the $2.15 billion held by our foreign subsidiaries and branch offices. As such, these funds can be returned to the U.S. without accruing any additional U.S. tax expense.
-
-
-
-
-
-During the three months ended December 31, 2018, our Board of Directors declared a regular quarterly cash dividend of $0.75 per share on our outstanding common stock, which was paid on December 4, 2018 to our stockholders of record as of the close of business on November 17, 2018. During the same period in fiscal year 2017, our Board of Directors declared and paid a regular quarterly cash dividend of $0.59 per share on our outstanding common stock. The total amount of regular quarterly cash dividends and dividend equivalents paid during the three months ended December 31, 2018 and December 31, 2017 was $114.5 million and $92.6 million, respectively. The total amount of regular quarterly cash dividends and dividend equivalents paid during the six months ended December 31, 2018 and December 31, 2017 was $234.4 million and $186.7 million, respectively. The amount of accrued dividends payable for regular quarterly cash dividends on unvested restricted stock units (RSUs) with dividend equivalent rights as of December 31, 2018 and June 30, 2018 was $5.4 million and $6.7 million, respectively. These amounts will be paid upon vesting of the underlying unvested RSU as described in Note 9, “Equity and Long-term Incentive Compensation Plans,” to the condensed consolidated financial statements.
-
-
-
-On November 19, 2014, our Board of Directors declared a special cash dividend of $16.50 per share on our outstanding common stock. The declaration and payment of the special cash dividend was part of our leveraged recapitalization transaction under which the special cash dividend was financed through a combination of existing cash and proceeds from the debt financing disclosed in Note 8 “Debt” to the condensed consolidated financial statements that was completed during the three months ended December 31, 2014. The total amount of the special cash dividend accrued by us at the declaration date was substantially paid out during the three months ended December 31, 2014, except for the aggregate special cash dividend of $43.0 million that was accrued for the unvested RSUs and to be paid when such underlying unvested RSUs vest. During the three months ended December 31, 2018 and 2017, the total special cash dividends paid with respect to vested RSUs were immaterial. During the six months ended December 31, 2018 and 2017, the total special cash dividends paid with respect to vested RSUs were $2.9 million and $6.2 million, respectively. As of December 31, 2018, all of the special cash dividends accrued with respect to outstanding RSUs were vested and paid in full. Other than the special cash dividend declared during the three months ended December 31, 2014, we historically have not declared any special cash dividends. For details of the special cash dividend, refer to Note 8 “Equity and Long-Term Incentive Compensation Plans,” of the Notes to the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended June 30, 2018. 
-
-
-
-
-
-The shares repurchased under our stock repurchase program have reduced our basic and diluted weighted-average shares outstanding for the six months ended December 31, 2018 and 2017. The stock repurchase program is intended, in part, to offset shares issued in connection with the purchases under our ESPP program and the vesting of employee restricted stock units. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Net cash provided by investing activities during the six months ended December 31, 2018 was $523.5 million compared to cash provided by investing activities of $138.9 million during the six months ended December 31, 2017. This change was mainly due to cash received from sale and maturity of marketable securities of $578.7 million during the six months ended December 31, 2018, compared to $172.4 million during the six months ended December 31, 2017.
-
-
-
-
-
-
-
-
-
-In November 2014, we issued $2.50 billion aggregate principal amount of senior, unsecured long-term notes (collectively referred to as “Senior Notes”) as part of the leveraged recapitalization plan. 
-
-
-
-
-
-The original discount on the Senior Notes amounted to $4.0 million and is being amortized over the life of the debt. Interest is payable semi-annually on May 1 and November 1 of each year. The debt indenture (the “Indenture”) includes covenants that limit our ability to grant liens on our facilities and enter into sale and leaseback transactions, subject to certain allowances under which certain sale and leaseback transactions are not restricted. 
-
-
-
-
-
-As of December 31, 2018, we were in compliance with all of our covenants under the Indenture associated with the Senior Notes. 
-
-
-
-
-
-In November 2017, we entered into a Credit Agreement (the “Credit Agreement”) providing for a $750.0 million five-year unsecured Revolving Credit Facility (the “Revolving Credit Facility”), which replaced our prior Credit Facility. Subject to the terms of the Credit Agreement, the Revolving Credit Facility may be increased in an amount up to $250.0 million in the aggregate. In November 2018, we entered into an Incremental Facility, Extension and Amendment Agreement (the “Amendment”), which amends the Credit Agreement to (a) extend the Maturity Date (the “Maturity Date”) from November 30, 2022 to November 30, 2023, (b) increase the total commitment by $250.0 million and (c) effect certain other amendments to the Credit Agreement as set forth in the Amendment. After giving effect to the Amendment, the total commitments under the Credit Agreement are $1.00 billion. 
-
-
-
-We may borrow, repay and reborrow funds under the Revolving Credit Facility until the Maturity Date, at which time such Revolving Credit Facility will terminate, and all outstanding loans under such facility, together with all accrued and unpaid interest, must be repaid. We may prepay the outstanding borrowings under the Revolving Credit Facility at any time without a prepayment penalty.
-
-
-
-
-
-The Revolving Credit Facility requires us to maintain an interest expense coverage ratio as described in the Credit Agreement, on a quarterly basis, covering the trailing four consecutive fiscal quarters of no less than 3.50 to 1.00. In addition, we are required to maintain the maximum leverage ratio as described in the Credit Agreement, on a quarterly basis of 3.00 to 1.00, covering the trailing four consecutive fiscal quarters for each fiscal quarter, which can be increased to 4.00 to 1.00 for a period of time in connection with a material acquisition or a series of material acquisitions. 
-
-
-
-We were in compliance with the financial covenants under the Credit Agreement as of December 31, 2018 (the interest expense coverage ratio was 17.12 to 1.00 and the leverage ratio was 1.20 to 1.00) and had no outstanding borrowings under the unfunded Revolving Credit Facility. Considering our current liquidity position, short-term financial forecasts and ability to prepay the Revolving Credit Facility, if necessary, we expect to continue to be in compliance with our financial covenants at the end of our fiscal year ending June 30, 2019.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-We have adopted a cash-based long-term incentive (“Cash LTI”) program for many of our employees as part of our employee compensation program. Cash LTI awards issued to employees under the Cash Long-Term Incentive Plan (“Cash LTI Plan”) generally vest in three or four equal installments. For additional details, refer to Note 9, “Equity and Long-term Incentive Compensation Plans,” to the condensed consolidated financial statements.
-
-
-
-We have agreements with financial institutions to sell certain of our trade receivables and promissory notes from customers without recourse. In addition, we periodically sell certain letters of credit (“LCs”), without recourse, received from customers in payment for goods and services.
-
-
-
-
-
-
-
-Factoring and LC fees for the sale of certain trade receivables were recorded in other expense (income), net and were not material for the periods presented. 
-
-
-
-We maintain guarantee arrangements available through various financial institutions for up to $22.5 million, of which $18.2 million had been issued as of December 31, 2018, primarily to fund guarantees to customs authorities for VAT and other operating requirements of our subsidiaries in Europe and Asia. 
-
-
-
-
-
-Working capital was $3.00 billion as of December 31, 2018, which is a decrease of $327.9 million compared to our working capital of $3.33 billion as of June 30, 2018. As of December 31, 2018, our principal sources of liquidity consisted of $2.69 billion of cash, cash equivalents and marketable securities. Our liquidity may be affected by many factors, some of which are based on the normal ongoing operations of the business, spending for business acquisitions including the pending acquisition of Orbotech, and other factors such as uncertainty in the global and regional economies and the semiconductor equipment industries. Although cash requirements will fluctuate based on the timing and extent of these factors, we believe that cash generated from operations, together with the liquidity provided by existing cash and cash equivalents balances and our $1.00 billion Revolving Credit Facility, will be sufficient to satisfy our liquidity requirements associated with working capital needs, capital expenditures, cash dividends, stock repurchases and other contractual obligations, including repayment of outstanding debt, for at least the next 12 months. 
-
-
-
-
-
-
-
+As of December 31, 2018, our cash, cash equivalents and marketable securities totaled $2.69 billion, which represents a decrease of $186.2 million from June 30, 2018.
+The decrease is mainly due to stock repurchases of $550.2 million, and cash used for payment of dividends and dividend equivalents of $237.3 million, partially offset by our cash generated from operations and net proceeds from marketable securities transactions.
+ As of December 31, 2018, $2.15 billion of our $2.69 billion of cash, cash equivalents and marketable securities were held by our foreign subsidiaries and branch offices.
+We currently intend to indefinitely reinvest $1.94 billion of the cash, cash equivalents and marketable securities held by our foreign subsidiaries.
+If, however, a portion of these funds were to be repatriated to the United States, we would be required to accrue and pay state and foreign taxes of approximately 1%-22% of the funds repatriated.
+The amount of taxes due will depend on the amount and manner of the repatriation, as well as the location from which the funds are repatriated.
+We have accrued state and foreign tax on the remaining cash of $203.8 million of the $2.15 billion held by our foreign subsidiaries and branch offices.
+As such, these funds can be returned to the U.S. without accruing any additional U.S. tax expense.
+During the three months ended December 31, 2018, our Board of Directors declared a regular quarterly cash dividend of $0.75 per share on our outstanding common stock, which was paid on December 4, 2018 to our stockholders of record as of the close of business on November 17, 2018.
+During the same period in fiscal year 2017, our Board of Directors declared and paid a regular quarterly cash dividend of $0.59 per share on our outstanding common stock.
+The total amount of regular quarterly cash dividends and dividend equivalents paid during the three months ended December 31, 2018 and December 31, 2017 was $114.5 million and $92.6 million, respectively.
+The total amount of regular quarterly cash dividends and dividend equivalents paid during the six months ended December 31, 2018 and December 31, 2017 was $234.4 million and $186.7 million, respectively.
+The amount of accrued dividends payable for regular quarterly cash dividends on unvested restricted stock units (RSUs) with dividend equivalent rights as of December 31, 2018 and June 30, 2018 was $5.4 million and $6.7 million, respectively.
+These amounts will be paid upon vesting of the underlying unvested RSU as described in Note 9, “Equity and Long-term Incentive Compensation Plans,” to the condensed consolidated financial statements.
+On November 19, 2014, our Board of Directors declared a special cash dividend of $16.50 per share on our outstanding common stock.
+The declaration and payment of the special cash dividend was part of our leveraged recapitalization transaction under which the special cash dividend was financed through a combination of existing cash and proceeds from the debt financing disclosed in Note 8 “Debt” to the condensed consolidated financial statements that was completed during the three months ended December 31, 2014.
+The total amount of the special cash dividend accrued by us at the declaration date was substantially paid out during the three months ended December 31, 2014, except for the aggregate special cash dividend of $43.0 million that was accrued for the unvested RSUs and to be paid when such underlying unvested RSUs vest.
+During the three months ended December 31, 2018 and 2017, the total special cash dividends paid with respect to vested RSUs were immaterial.
+During the six months ended December 31, 2018 and 2017, the total special cash dividends paid with respect to vested RSUs were $2.9 million and $6.2 million, respectively.
+As of December 31, 2018, all of the special cash dividends accrued with respect to outstanding RSUs were vested and paid in full.
+Other than the special cash dividend declared during the three months ended December 31, 2014, we historically have not declared any special cash dividends.
+For details of the special cash dividend, refer to Note 8 “Equity and Long-Term Incentive Compensation Plans,” of the Notes to the Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended June 30, 2018.
+The shares repurchased under our stock repurchase program have reduced our basic and diluted weighted-average shares outstanding for the six months ended December 31, 2018 and 2017.
+The stock repurchase program is intended, in part, to offset shares issued in connection with the purchases under our ESPP program and the vesting of employee restricted stock units.
+Net cash provided by investing activities during the six months ended December 31, 2018 was $523.5 million compared to cash provided by investing activities of $138.9 million during the six months ended December 31, 2017.
+This change was mainly due to cash received from sale and maturity of marketable securities of $578.7 million during the six months ended December 31, 2018, compared to $172.4 million during the six months ended December 31, 2017.
+In November 2014, we issued $2.50 billion aggregate principal amount of senior, unsecured long-term notes (collectively referred to as “Senior Notes”) as part of the leveraged recapitalization plan.
+The original discount on the Senior Notes amounted to $4.0 million and is being amortized over the life of the debt.
+Interest is payable semi-annually on May 1 and November 1 of each year.
+The debt indenture (the “Indenture”) includes covenants that limit our ability to grant liens on our facilities and enter into sale and leaseback transactions, subject to certain allowances under which certain sale and leaseback transactions are not restricted.
+As of December 31, 2018, we were in compliance with all of our covenants under the Indenture associated with the Senior Notes.
+In November 2017, we entered into a Credit Agreement (the “Credit Agreement”) providing for a $750.0 million five-year unsecured Revolving Credit Facility (the “Revolving Credit Facility”), which replaced our prior Credit Facility.
+Subject to the terms of the Credit Agreement, the Revolving Credit Facility may be increased in an amount up to $250.0 million in the aggregate.
+In November 2018, we entered into an Incremental Facility, Extension and Amendment Agreement (the “Amendment”), which amends the Credit Agreement to (a) extend the Maturity Date (the “Maturity Date”) from November 30, 2022 to November 30, 2023, (b) increase the total commitment by $250.0 million and (c) effect certain other amendments to the Credit Agreement as set forth in the Amendment.
+After giving effect to the Amendment, the total commitments under the Credit Agreement are $1.00 billion.
+We may borrow, repay and reborrow funds under the Revolving Credit Facility until the Maturity Date, at which time such Revolving Credit Facility will terminate, and all outstanding loans under such facility, together with all accrued and unpaid interest, must be repaid.
+We may prepay the outstanding borrowings under the Revolving Credit Facility at any time without a prepayment penalty.
+The Revolving Credit Facility requires us to maintain an interest expense coverage ratio as described in the Credit Agreement, on a quarterly basis, covering the trailing four consecutive fiscal quarters of no less than 3.50 to 1.00.
+In addition, we are required to maintain the maximum leverage ratio as described in the Credit Agreement, on a quarterly basis of 3.00 to 1.00, covering the trailing four consecutive fiscal quarters for each fiscal quarter, which can be increased to 4.00 to 1.00 for a period of time in connection with a material acquisition or a series of material acquisitions.
+We were in compliance with the financial covenants under the Credit Agreement as of December 31, 2018 (the interest expense coverage ratio was 17.12 to 1.00 and the leverage ratio was 1.20 to 1.00) and had no outstanding borrowings under the unfunded Revolving Credit Facility.
+Considering our current liquidity position, short-term financial forecasts and ability to prepay the Revolving Credit Facility, if necessary, we expect to continue to be in compliance with our financial covenants at the end of our fiscal year ending June 30, 2019.
+We have adopted a cash-based long-term incentive (“Cash LTI”) program for many of our employees as part of our employee compensation program.
+Cash LTI awards issued to employees under the Cash Long-Term Incentive Plan (“Cash LTI Plan”) generally vest in three or four equal installments.
+For additional details, refer to Note 9, “Equity and Long-term Incentive Compensation Plans,” to the condensed consolidated financial statements.
+We have agreements with financial institutions to sell certain of our trade receivables and promissory notes from customers without recourse.
+In addition, we periodically sell certain letters of credit (“LCs”), without recourse, received from customers in payment for goods and services.
+Factoring and LC fees for the sale of certain trade receivables were recorded in other expense (income), net and were not material for the periods presented.
+We maintain guarantee arrangements available through various financial institutions for up to $22.5 million, of which $18.2 million had been issued as of December 31, 2018, primarily to fund guarantees to customs authorities for VAT and other operating requirements of our subsidiaries in Europe and Asia.
+Working capital was $3.00 billion as of December 31, 2018, which is a decrease of $327.9 million compared to our working capital of $3.33 billion as of June 30, 2018.
+As of December 31, 2018, our principal sources of liquidity consisted of $2.69 billion of cash, cash equivalents and marketable securities.
+Our liquidity may be affected by many factors, some of which are based on the normal ongoing operations of the business, spending for business acquisitions including the pending acquisition of Orbotech, and other factors such as uncertainty in the global and regional economies and the semiconductor equipment industries.
+Although cash requirements will fluctuate based on the timing and extent of these factors, we believe that cash generated from operations, together with the liquidity provided by existing cash and cash equivalents balances and our $1.00 billion Revolving Credit Facility, will be sufficient to satisfy our liquidity requirements associated with working capital needs, capital expenditures, cash dividends, stock repurchases and other contractual obligations, including repayment of outstanding debt, for at least the next 12 months.
 Factors that can affect our credit ratings include changes in our operating performance, the economic environment, conditions in the semiconductor and semiconductor equipment industries, our financial position, material acquisitions and changes in our business strategy.
-
-
-
 Off-Balance Sheet Arrangements
-
-
-
-As of December 31, 2018, we did not have any off-balance sheet arrangements, as defined in Item 303(a)(4)(ii) of SEC Regulation S-K, that have or are reasonably likely to have a current or future effect on our financial position, changes in financial condition, revenues and expenses, results of operations, liquidity, capital expenditures, or capital resources that are material to investors. Refer to Note 14 “Commitments and contingencies” to the condensed consolidated financial statements for information related to indemnification obligations. 
-
-
-
+As of December 31, 2018, we did not have any off-balance sheet arrangements, as defined in Item 303(a)(4)(ii) of SEC Regulation S-K, that have or are reasonably likely to have a current or future effect on our financial position, changes in financial condition, revenues and expenses, results of operations, liquidity, capital expenditures, or capital resources that are material to investors.
+Refer to Note 14 “Commitments and contingencies” to the condensed consolidated financial statements for information related to indemnification obligations.
 ITEM 2.UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
-
-
-
 Equity Repurchase Plans
-
-
-
-
-
-
-
-
-
-
-

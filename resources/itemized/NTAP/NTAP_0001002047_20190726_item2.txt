@@ -1,682 +1,263 @@
-Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.  
-
-
-
-This section and other parts of this Form 10-Q contain forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995, that involve risks and uncertainties. Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact. Forward-looking statements also can be identified by words such as “future,” “anticipates,” “believes,” “estimates,” “expects,” “intends,” “will,” “would,” “could,” “can,” “may,” and similar terms. Forward-looking statements are not guarantees of future performance and the actual results of NetApp, Inc. (“we,” “us,” or the “Company”) may differ significantly from the results discussed in the forward-looking statements. Factors that might cause such differences include, but are not limited to, those discussed in Part II, Item 1A of this Form 10-Q under the heading “Risk Factors,” which are incorporated herein by reference. The following discussion should be read in conjunction with our consolidated financial statements as of and for the fiscal year ended April 26, 2019, and the notes thereto, contained in our Annual Report on Form 10-K, and the condensed consolidated financial statements and notes thereto included elsewhere in this Form 10-Q. We assume no obligation to revise or update any forward-looking statements for any reason, except as required by law. 
-
-
-
-
-
-Overview  
-
-
-
-Our Company 
-
-
-
-NetApp is the data authority for hybrid cloud. We provide a full range of hybrid cloud data services that simplify management of applications and data across cloud and on-premises environments to accelerate digital transformation. Together with our partners, we empower global organizations to unleash the full potential of their data to expand customer touchpoints, foster greater innovation and optimize their operations. 
-
-
-
-NetApp delivers a Data Fabric built for the data-driven world. Our Data Fabric simplifies the integration and orchestration of data for applications and analytics in clouds, across clouds and on-premises to accelerate digital transformation. We deliver a Data Fabric with consistent data services for data visibility and insights, data access and control, and data protection and security, that unleashes the power of data to achieve a new competitive advantage.  
-
-
-
-We focus on delivering an exceptional customer experience to become our customers’ preferred data partner. NetApp’s unique approach to data services enables organizations to inspire innovation with the cloud, build clouds to accelerate new services, and modernize IT architecture with cloud-connected flash. 
-
-
-
-
-
-•  
-
-
-
-Continually fuel business growth by delivering data-rich customer experiences through new application deployments that easily use data and services regardless of where they reside or in what form.  
-
-
-
-•  
-
-
-
-Accelerate digital transformation by developing a next-generation, cloud-architected infrastructure that manages data and services as one integrated resource supporting both public and private clouds. 
-
-
-
-•  
-
-
-
-Free the resources necessary to fund transformation by deploying the industry’s leading flash storage solution, which is highly efficient and scales from the edge to the core to the cloud. 
-
-
-
-Customers are attracted by the speed and scale benefits of the public cloud but need new data management capabilities to keep control of data as it moves beyond the walls of the enterprise. NetApp believes the hybrid cloud is fast becoming the dominant model for enterprise IT. Our Data Fabric approach enables our customers to manage, secure and protect their data from on-premises to public to hybrid clouds, all at the scale needed to accommodate the exponential data growth of the digital world. 
-
-
-
-Budget constraints and skill imbalances lead our customers to seek help in integrating, deploying and managing the solutions they need to stay competitive. This drives demand for converged and hyper-converged infrastructure solutions. FlexPod is the converged infrastructure of choice for many of the largest enterprises around the globe. Customers can break free from the limits of first-generation HCI with NetApp HCI and attain guaranteed performance with high levels of flexibility, scale, automation, and integration with the Data Fabric. 
-
-
-
-Flash plays a key role in customers’ digital transformation efforts as they seek to gain advantage through greater speed, responsiveness and value from key business applications - all while lowering total cost of ownership. All-flash array technology is the de facto choice as customers seek performance and economic benefits from replacing hard disk installations. With a highly differentiated and broad portfolio of all-flash and hybrid array offerings, NetApp is well positioned to enable customers to accomplish this transition. 
-
-
-
-To provide visibility into our transition from older products to our newer, higher growth products and clarity into the dynamics of our product revenue, we group our products by “Strategic” and “Mature” solutions. As our product portfolio evolves, market dynamics change, and management continues to assess our largest growth opportunities, we periodically change how we group certain products. Beginning in fiscal 2020, Strategic includes All-flash FAS (AFF) products, including all related add-on hardware and operating system (OS) software, private cloud solutions (including SolidFire, converged and hyper-converged infrastructure products, StorageGrid), enterprise software license agreements (ELAs) and other optional add-on software products. Mature now includes Hybrid FAS products, including all related add-on hardware and OS software, original equipment manufacturers (OEM) products, and branded E-Series. Prior to this grouping change, Hybrid FAS products and branded E-Series were included in Strategic, while all add-on hardware and OS software were included in Mature. For comparability, Strategic and Mature revenues presented for the prior year period have been recast based on the revised groupings. 
-
-
-
-In addition to our products and solutions, we provide a variety of services to our customers, including software maintenance, hardware maintenance and other services including professional services, global support solutions, and customer education and training. Revenues generated by our Cloud Data Services offerings are included in software maintenance revenues. 
-
-
-
-
-
-Financial Results and Key Performance Metrics Overview  
-
-
-
-
-
-
-
-
-
-Stock Repurchase Program and Dividend Activity 
-
-
-
-During the first three months of fiscal 2020, we repurchased four million shares of our common stock at an average price of $64.87 per share, for an aggregate of $250 million. We also declared aggregate cash dividends of $0.48 per share in that period, for which we paid an aggregate of $115 million. 
-
-
-
-Cognigo Acquisition 
-
-
-
-On May 23, 2019, we acquired all the outstanding shares of privately-held Cognigo Research Ltd., a provider of data discovery classification software designed to manage and protect critical data, for $58 million in cash.  
-
-
-
-Restructuring Event 
-
-
-
-In the first quarter of fiscal 2020, we announced a restructuring plan to reduce costs and redirect resources to our highest return activities, which included a reduction in our global workforce by approximately 2%, and incurred charges of approximately $21 million, consisting primarily of employee severance costs. See Note 13 – Restructuring Charges for additional information.  
-
-
-
-Adoption of Lease Accounting Standard 
-
-
-
-In the first quarter of fiscal 2020, we adopted the new accounting standard Leases (ASC 842) using the modified retrospective approach, electing the optional transition method of not adjusting our comparative period financial statements. Adoption of the new standard resulted in the recognition of approximately $149 million of operating lease right-of-use assets, net of deferred rent and restructuring liabilities, and $158 million of lease liabilities on our condensed consolidated balance sheets as of the beginning of fiscal 2020. See Note 10 – Leases in the Notes to Condensed Consolidated Financial Statements for additional information.  
-
-
-
-Critical Accounting Policies and Estimates  
-
-
-
-Our condensed consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America, which require management to make judgments, estimates and assumptions that affect the reported amounts of assets, liabilities, net revenues and expenses, and the disclosure of contingent assets and liabilities. Our estimates are based on historical experience and various other assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities. We believe that the accounting estimates employed and the resulting balances are reasonable; however, actual results may differ from these estimates and such differences may be material.  
-
-
-
-The summary of our significant accounting policies is included under Item 7 – Management’s Discussion and Analysis of Financial Condition and Results of Operations of our fiscal 2019 Form 10-K. An accounting policy is deemed to be critical if it requires an accounting estimate to be made based on assumptions about matters that are highly uncertain at the time the estimate is made, if different estimates reasonably could have been used, or if changes in the estimate that are reasonably possible could materially impact the financial statements. There have been no material changes to the critical accounting policies and estimates as filed in such report.  
-
-
-
-
-
-New Accounting Standards  
-
-
-
-See Note 2 – Recent Accounting Standards Not Yet Effective of the Notes to Condensed Consolidated Financial Statements for a full description of new accounting pronouncements, including the respective expected dates of adoption and effects on our financial statements.  
-
-
-
-Results of Operations  
-
-
-
-Our fiscal year is reported as a 52- or 53-week year that ends on the last Friday in April. Fiscal years 2020 and 2019 are each 52-week years, with 13 weeks in each of their quarters. Unless otherwise stated, references to particular years, quarters, months and periods refer to the Company’s fiscal years ended in April and the associated quarters, months and periods of those fiscal years. 
-
-
-
-
-
-
-
-Percentages may not add due to rounding 
-
-
-
-Discussion and Analysis of Results of Operations  
-
-
-
-Overview  
-
-
-
-Net revenues for the first quarter of fiscal 2020 were $1,236 million, reflecting a decrease of $238 million, or 16%, compared to the corresponding period of the prior year, primarily reflecting lower product revenues, and to a lesser extent, the unfavorable impact of foreign exchange rate fluctuations in the quarter. Hardware maintenance and other services revenues also decreased compared to the corresponding period of the prior year, offset by an increase in software maintenance revenues.  
-
-
-
-Gross profit as a percentage of net revenues for the first quarter increased by one percentage point compared to the corresponding period in fiscal 2019. Gross profit margins on product revenues decreased by three percentage points in the first quarter of fiscal 2020 compared to the corresponding period of fiscal 2019, primarily due to high margins on revenue recognized related to the software license components of several ELAs in the first quarter of fiscal quarter of 2019, which did not repeat in fiscal 2020.  
-
-
-
-Sales and marketing, research and development, and general and administrative expenses for the first quarter of fiscal 2020 totaled $691 million, or 56% of net revenues, representing an increase of nine percentage points when compared to the first quarter of fiscal 2019, primarily due to lower net revenues in the current fiscal period. 
-
-
-
-
-
-
-
-
-
-The decrease in net revenues for the first quarter of fiscal 2020 compared to the corresponding period of fiscal 2019 was primarily due to a decrease in product revenues of $231 million. Product revenues as a percentage of net revenues decreased by seven percentage points in the first quarter of fiscal 2020 compared to the first quarter of fiscal 2019.  
-
-
-
-
-
-
-
-
-
-
-
-
-
-Under the revised Strategic and Mature product groupings, as described in the Overview section above, product revenues from strategic solutions represented 52% of product revenues in the first quarter of fiscal 2020, compared to 54% in the corresponding period of the prior year. Product revenues from mature solutions represented 48% of product revenues in the first quarter of fiscal 2020, compared to 46% in the corresponding period of the prior year. 
-
-
-
-Product revenues declined in the first quarter of fiscal 2020 compared to the corresponding period of the prior year due a combination of less favorable macroeconomic conditions and go-to-market execution issues experienced with some of our largest global customer accounts. 
-
-
-
-Total product revenues from strategic solutions totaled $337 million in the first quarter of fiscal 2020 reflecting a 29% decrease from $475 million in the first quarter of fiscal 2019, primarily due to decreased sales of All-Flash FAS products in the current year period and a substantial amount of revenue recognized in the prior year period related to the software license components of several ELAs which did not repeat, partially offset by an increase in revenues from private cloud solutions.  
-
-
-
-Total product revenue from mature solutions totaled $307 million in the first quarter of fiscal 2020 reflecting a 23% decrease from $400 million in the first quarter of fiscal 2019, primarily due to decreased sales of FAS Hybrid and OEM products in the current year period.  
-
-
-
-
-
-
-
-Software maintenance revenues are associated with contracts which entitle customers to receive unspecified product upgrades and enhancements on a when-and-if-available basis, bug fixes and patch releases, as well as internet and telephone access to technical support personnel located in our global support centers. 
-
-
-
-The fluctuations in software maintenance revenues reflect fluctuations in the aggregate contract value of the installed base under software maintenance contracts, which is recognized as revenue ratably over the terms of the underlying contracts.  
-
-
-
-
-
-
-
-
-
-Hardware maintenance and other services revenues include hardware maintenance, professional services, and educational and training services revenues.  
-
-
-
-Hardware maintenance contract revenues decreased year over year, at $284 million for the first quarter of fiscal 2020, compared to $303 million for the corresponding period of the prior year. The decrease was primarily attributable to a decline in average selling price on contracts executed recently, as well as lower contract renewal rates.  
-
-
-
-Professional services and educational and training services revenues were $58 million for the first quarter of fiscal 2020, compared to $67 million for the corresponding period of the prior year.  
-
-
-
-
-
-
-
-Percentages may not add due to rounding 
-
-
-
-Americas revenues consist of sales to Americas commercial and U.S. public sector markets. During the first quarter of fiscal 2020, Americas revenues were negatively impacted by general macroeconomic conditions in the region and go-to-market execution issues with some of our largest customer accounts, which was reflected in the geographic distribution of revenues as a percentage of net revenues in the first quarter of fiscal 2020 compared to the corresponding period of fiscal 2019. 
-
-
-
-Cost of Revenues  
-
-
-
-
-
-
-
-
-
-
-
-
-
-Cost of product revenues represented 48% of product revenues for the first quarter of fiscal 2020, compared to 45% for the corresponding period of fiscal 2019. Materials costs represented 82% of product costs for the first quarter of fiscal 2020, compared to 87% in the corresponding period of fiscal 2019. 
-
-
-
-Materials costs decreased $92 million in the first quarter of fiscal 2020 compared to the corresponding period of the prior year, primarily due to a decline in product revenue and, to a lesser extent, a decline in the price of certain product components. The average unit materials costs of both All-Flash FAS and FAS Hybrid systems decreased in the first quarter of fiscal 2020 compared to the first quarter of fiscal 2019. 
-
-
-
-
-
-Margins on revenue recognized for strategic solutions increased slightly during the first quarter of fiscal 2020 compared to the first quarter of fiscal 2019, while margins for mature solutions decreased slightly.  
-
-
-
-
-
-
-
-Cost of software maintenance revenues in dollars were relatively flat in the first quarter of fiscal 2020 compared to the corresponding period of fiscal 2019 and represented 4% and 3% of software maintenance revenues in the current year and prior year periods, respectively. 
-
-
-
-
-
-
-
-Cost of hardware maintenance and other services revenues decreased by $8 million, or 8%, for the first quarter of fiscal 2020 compared to the corresponding period of fiscal 2019, in line with the decrease in hardware maintenance and other services revenues. Costs represented 29% of hardware maintenance and other services revenues in both periods.  
-
-
-
-Operating Expenses  
-
-
-
-Sales and Marketing, Research and Development and General and Administrative Expenses  
-
-
-
-Compensation costs represent the largest component of operating expenses. Included in compensation costs are salaries, benefits, other compensation-related costs, stock-based compensation expense and employee incentive compensation plan costs.  
-
-
-
-Total compensation costs included in operating expenses decreased by $4 million, or 1% in the first quarter of fiscal 2020, compared to the corresponding period of the prior year primarily due to lower incentive compensation expense and, to a lesser extent, the favorable impact of foreign exchange rate fluctuations, partially offset by higher salaries expense, reflecting a 2% increase in average headcount.  
-
-
-
-
-
-
-
-Sales and marketing expenses consist primarily of compensation costs, commissions, outside services, allocated facilities and information technology (IT) costs, advertising and marketing promotional expense and travel and entertainment expense.   
-
-
-
-Sales and marketing expenses were relatively flat in the first quarter of fiscal 2020 compared to the corresponding period of the prior year. Compensation costs decreased slightly, reflecting a 2% decrease in average headcount. Sales and marketing expenses in the first quarter of fiscal 2020 also benefitted slightly from foreign exchange rate fluctuations. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-The increase in compensation costs for the first quarter of fiscal 2020 compared to the corresponding period in the prior year was attributable to an increase in average headcount of 8%, resulting in higher salaries, benefits and stock-based compensation expense, partially offset by lower incentive compensation expense and, to a lesser extent, the favorable impact of foreign exchange rate fluctuations. The increase in headcount reflects our investment in additional engineering resources to support the expansion and enhancement of products and solutions targeted at our most important customer and market opportunities. Development projects and outside services expense for the first three months of fiscal 2020 decreased slightly as a result of lower spending on materials and services associated with engineering activities to develop new and enhanced products, due to the timing of new product introductions.  
-
-
-
-
-
-
-
-
-
-
-
-All components of compensation costs decreased for the first quarter of fiscal 2020 compared to the corresponding period of the prior year. While average headcount increased in the current year period, compensation costs decreased because a greater percentage of employees were located in lower cost geographies. The increase in professional and legal fees and outside services expense in the first quarter of fiscal 2020 was primarily due to the higher spending levels on business transformation projects. The decrease in facilities and IT support costs for the first quarter of fiscal 2020 compared to the corresponding period of the prior year was primarily due to lower spending levels on IT projects.  
-
-
-
-
-
-
-
-In the first quarter of fiscal 2020, we announced a restructuring plan (the May 2019 Plan) to reduce costs and redirect resources to our highest return activities, which included a reduction in our global workforce of approximately 2%. Charges related to the plan consisted primarily of employee severance-related costs. We expect to complete all activities associated with the May 2019 plan by the end of second quarter of fiscal 2020 with no significant additional charges. See Note 13 – Restructuring Charges of the Notes to Condensed Consolidated Financial Statements for more details. 
-
-
-
-Other Income, Net (in millions, except percentages) 
-
-
-
-
-
-
-
-
-
-Interest income decreased in the first quarter of fiscal 2020 compared to the corresponding period of the prior year due to a reduction in size of our investment portfolio as a result of our sale of approximately $1.0 billion of available-for-sale debt securities in the second half of the quarter. Other income, net increased in the first quarter of fiscal 2020 as a result of the $14 million gain we realized from the sale of these securities, partially offset by differences in foreign exchange gains and losses year-over-year. Interest expense remained relatively flat in the first quarter of fiscal 2020 compared to the corresponding period of the prior year. 
-
-
-
-
-
-
-
-Our effective tax rate for the first quarter of fiscal 2020 was 13.4% compared to an effective tax rate of (4.0)% for the first quarter of fiscal 2019. Our effective tax rates reflect the impact of a significant amount of our earnings, primarily income from our European operations, being taxed in foreign jurisdictions at rates below the U.S. statutory tax rate. Our effective tax rate increased for the first quarter of fiscal 2020 compared to the corresponding period of the prior year primarily due to discrete tax benefits related to the adoption of the new revenue standard in fiscal 2019 and differences in discrete benefits for stock-based compensation. 
-
-
-
-On December 22, 2017, the Tax Cuts and Jobs Act (“TCJA”) was enacted into law. The TCJA made significant changes to the U.S. corporate income tax system including a reduction of the U.S. federal corporate income tax rate from 35% to 21%, the imposition of a one-time transition tax on deferred foreign earnings, and the creation of new taxes on certain foreign-sourced earnings. As of April 26, 2019, we had completed the accounting for the tax impacts of the TCJA, however, we will continue to assess the impact of further guidance from federal and state tax authorities on our business and consolidated financial statements, and recognize any adjustments in the period in which they are determined. 
-
-
-
-During fiscal 2019, we adopted the new revenue accounting standard and, for the three months ended July 27, 2018, we recognized a $34 million discrete tax benefit for adjustments to certain intercompany transactions resulting from the retrospective application of the new revenue accounting standard. 
-
-
-
-As of July 26, 2019, we had $293 million of gross unrecognized tax benefits. Inclusive of penalties, interest and certain income tax benefits, $244 million would affect our provision for income taxes if recognized, and $249 million has been recorded in other long-term liabilities. 
-
-
-
-We continue to monitor the progress of ongoing discussions with tax authorities and the impact, if any, of the expected expiration of the statute of limitations in various taxing jurisdictions. We believe that within the next 12 months, it is reasonably possible that either certain audits will conclude, certain statutes of limitations will lapse, or both. As a result of uncertainties regarding tax audits and their possible outcomes, an estimate of the range of possible impacts to unrecognized tax benefits in the next twelve months cannot be made at this time. 
-
-
-
-Liquidity, Capital Resources and Cash Requirements  
-
-
-
-
-
-
-
-
-
-
-
-Cash Flows  
-
-
-
-As of July 26, 2019, our cash, cash equivalents and short-term investments were $3.5 billion, a decrease of $0.4 billion from April 26, 2019. The decrease was primarily due to $250 million paid for the repurchase of our common stock, $115 million used for the payment of dividends, $219 million used for the net repayment of commercial paper notes, and $32 million in purchases of property and equipment, partially offset by $310 million of cash provided by operating activities. Working capital decreased by $0.4 billion to $1.3 billion as of July 26, 2019 compared to April 26, 2019 primarily due to the decreases in cash, cash equivalents and short-term investments discussed above. 
-
-
-
-Cash Conversion Cycle 
-
-
-
-
-
-
-
-Days may not add due to rounding 
-
-
-
-
-
-Days sales outstanding, referred to as DSO, calculates the average collection period of our receivables. DSO is based on ending accounts receivable and net revenue for each period. DSO is calculated by dividing accounts receivable by average net revenue per day for the current quarter (91 days for each of the quarters presented above). DSO for the first quarter of fiscal 2020 was relatively consistent with the corresponding period of fiscal 2019, while it decreased compared to the fourth quarter of fiscal 2019 due to lower seasonal invoicing levels and more favorable shipping linearity. 
-
-
-
-
-
-Days inventory outstanding, referred to as DIO, measures the average number of days from procurement to sale of our products. DIO is based on ending inventory and cost of revenues for each period. DIO is calculated by dividing ending inventory by average cost of revenues per day for the current quarter. DIO for the first quarter of fiscal 2020 increased compared to the fourth quarter of fiscal 2019 and the corresponding period of fiscal 2019, primarily due to higher levels of inventory on hand at the end of the current quarter resulting from a decline in sales towards the end of the period.  
-
-
-
-
-
-Days payables outstanding, referred to as DPO, calculates the average number of days our payables remain outstanding before payment. DPO is based on ending accounts payable and cost of revenues for each period. DPO is calculated by dividing accounts payable by average cost of revenues per day for the current quarter. DPO for the first quarter of fiscal 2020 was relatively consistent with the corresponding period of fiscal 2019, while it decreased compared to the fourth quarter of 2019, primarily due to the timing of purchases from contract manufacturers. 
-
-
-
-
-
-The cash conversion cycle is the sum of DSO and DIO less DPO. Items which may cause the cash conversion cycle in a particular period to differ include, but are not limited to, changes in business mix, changes in payment terms (including extended payment terms from suppliers), the extent of shipment linearity, seasonal trends and the timing of revenue recognition and inventory purchases within the period. 
-
-
-
-Cash Flows from Operating Activities  
-
-
-
-During the first three months of fiscal 2020, we generated cash from operating activities of $310 million, reflecting net income of $103 million, adjusted by non-cash depreciation and amortization of $49 million, and stock-based compensation of $42 million, compared to $326 million of cash generated from operating activities during the first three months of fiscal 2019.  
-
-
-
-
-
-•  
-
-
-
-Accounts receivable decreased $672 million, reflecting lower DSO. 
-
-
-
-•  
-
-
-
-Accounts payable decreased $195 million, reflecting lower DPO. 
-
-
-
-•  
-
-
-
-Accrued expenses decreased $277 million, primarily due to employee compensation payouts related to fiscal year 2019 commissions and incentive compensation plans. 
-
-
-
-•  
-
-
-
-Deferred revenue and financed unearned services revenue decreased $154 million, primarily due to a decrease in deferred software and hardware maintenance contract revenues reflecting the seasonality of maintenance contract renewal activities. 
-
-
-
-
-
-We expect that cash provided by operating activities may materially fluctuate in future periods due to a number of factors, including fluctuations in our operating results, shipment linearity, accounts receivable collections performance, inventory and supply chain management, vendor payment initiatives, tax benefits or charges from stock-based compensation, and the timing and amount of compensation and other payments. 
-
-
-
-Cash Flows from Investing Activities  
-
-
-
-During the first three months of fiscal 2020, we generated $1.0 billion from maturities and sales of investments, net of purchases, and paid $32 million for capital expenditures, while during the first three months of fiscal 2019, we generated $248 million from maturities and sales of investments, net of purchases, and paid $64 million for capital expenditures. Additionally, during the first three months of fiscal 2020, we paid $56 million net to acquire a privately-held company. 
-
-
-
-Cash Flows from Financing Activities  
-
-
-
-During the first three months of fiscal 2020, we used $250 million for the repurchase of four million shares of our common stock, $115 million for the payment of dividends, and $219 million for the repayment of commercial paper notes, net, compared to $500 million used for the repurchase of seven million shares of common stock, $105 million used for the payment of dividends, and $185 million for the repayment of commercial paper notes, net, during the first three months of fiscal 2019.  
-
-
-
-Key factors that could affect our cash flows include changes in our revenue mix and profitability, our ability to effectively manage our working capital, in particular, accounts receivable, accounts payable and inventories, the timing and amount of stock repurchases and payment of cash dividends, the impact of foreign exchange rate changes, our ability to effectively integrate acquired products, businesses and technologies and the timing of repayments of our debt. Based on past performance and our current business outlook, we believe that our sources of liquidity, including potential future issuances of debt, equity or other securities, will satisfy our working capital needs, capital expenditures, investment requirements, stock repurchases, cash dividends, contractual obligations, commitments, principal and interest payments on our debt and other liquidity requirements associated with operations and meet our cash requirements for at least the next 12 months. However, in the event our liquidity is insufficient, we may be required to curtail spending and implement additional cost saving measures and restructuring actions or enter into new financing arrangements. We cannot be certain that we will continue to generate cash flows at or above current levels or that we will be able to obtain additional financing, if necessary, on satisfactory terms, if at all. 
-
-
-
-Liquidity  
-
-
-
-Our principal sources of liquidity as of July 26, 2019 consisted of cash, cash equivalents and short-term investments, cash we expect to generate from operations, and our commercial paper program and related credit facility.  
-
-
-
-
-
-
-
-As of July 26, 2019 and April 26, 2019, $2.7 billion and $3.7 billion, respectively, of cash, cash equivalents and short-term investments were held by various foreign subsidiaries and were generally based in U.S. dollar-denominated holdings, while $0.8 billion and $0.2 billion, respectively, were available in the U.S. at the end of each period. The TCJA imposed a one-time transition tax on substantially all accumulated foreign earnings through December 31, 2017, and generally allows companies to make distributions of foreign earnings without incurring additional federal taxes. As a part of the recognition of the impacts of the TCJA, we have reviewed our projected global cash requirements and have determined that certain historical and future foreign earnings will no longer be indefinitely reinvested.  
-
-
-
-Our principal liquidity requirements are primarily to meet our working capital needs, support ongoing business activities, fund research and development, meet capital expenditure needs, invest in critical or complementary technologies, service interest and principal payments on our debt, fund our stock repurchase program, and pay dividends, as and if declared. 
-
-
-
-The principal objectives of our investment policy are the preservation of principal and maintenance of liquidity. We attempt to mitigate default risk by investing in high-quality investment grade securities, limiting the time to maturity and monitoring the counter-parties and underlying obligors closely. We believe our cash equivalents and short-term investments are liquid and accessible. We are not aware of any significant deterioration in the fair value of our cash equivalents or investments from the values reported as of July 26, 2019.  
-
-
-
-
-
-
-
-Senior Notes  
-
-
-
-
-
-
-
-Interest on the Senior Notes is payable semi-annually. For further information on the underlying terms, see Note 9 – Financing Arrangements of the Notes to Condensed Consolidated Financial Statements. 
-
-
-
-Commercial Paper Program and Credit Facility 
-
-
-
-We have a commercial paper program (the Program), under which we may issue unsecured commercial paper notes. Amounts available under the Program may be borrowed, repaid and re-borrowed, with the aggregate face or principal amount of the notes outstanding under the Program at any time not to exceed $1.0 billion. The maturities of the notes can vary, but may not exceed 397 days from the date of issue. The notes are sold under customary terms in the commercial paper market and may be issued at a discount from par or, alternatively, may be sold at par and bear interest at rates dictated by market conditions at the time of their issuance. The proceeds from the issuance of the notes are used for general corporate purposes. As of July 26, 2019, we had commercial paper notes outstanding with an aggregate principal amount of $30 million, a weighted-average interest rate of 2.56% and a maturity of 29 days. 
-
-
-
-In connection with the Program, we have a senior unsecured credit agreement that expires on December 10, 2021. The credit agreement provides a $1.0 billion revolving unsecured credit facility that serves as a back-up for the Program. Proceeds from the facility may also be used for general corporate purposes, providing another potential source of liquidity to the extent that the credit facility exceeds the outstanding debt issued under the Program. The credit agreement also includes options that allow us to request an increase in the facility of up to an additional $300 million and to extend its maturity date for two additional one-year periods, both subject to certain conditions. As of July 26, 2019, we were in compliance with all associated covenants in this agreement. No amounts were drawn against this facility during any of the periods presented. 
-
-
-
-Capital Expenditure Requirements  
-
-
-
-We expect to fund our capital expenditures, including our commitments related to facilities, equipment, operating leases and internal-use software development projects over the next few years through existing cash, cash equivalents, investments and cash generated from operations. The timing and amount of our capital requirements cannot be precisely determined and will depend on a number of factors, including future demand for products, changes in the network storage industry, hiring plans and our decisions related to the financing of our facilities and equipment requirements. We anticipate capital expenditures for the remainder of fiscal 2020 to be between $125 million and $175 million.  
-
-
-
-Dividends and Stock Repurchase Program  
-
-
-
-On August 14, 2019, we declared a cash dividend of $0.48 per share of common stock, payable on October 23, 2019 to holders of record as of the close of business on October 4, 2019. 
-
-
-
-Our Board of Directors has authorized the repurchase of up to $13.6 billion of our common stock under our stock repurchase program. Under this program, we may purchase shares of our outstanding common stock through solicited or unsolicited transactions in the open market, in privately negotiated transactions, through accelerated share repurchase programs, pursuant to a Rule 10b5-1 plan or in such other manner as deemed appropriate by our management. The stock repurchase program may be suspended or discontinued at any time. Since the May 13, 2003 inception of this program through July 26, 2019, we repurchased a total of 317 million shares of our common stock at an average price of $37.80 per share, for an aggregate purchase price of $12.0 billion. As of July 26, 2019, the remaining authorized amount for stock repurchases under this program was $1.6 billion. 
-
-
-
-
-
-The timing and amount of stock repurchase transactions and future dividends will depend on market conditions, corporate business and financial considerations and regulatory requirements.  
-
-
-
-Contractual Obligations  
-
-
-
-Purchase Orders and Other Commitments  
-
-
-
-In the ordinary course of business, we make commitments to our third-party contract manufacturers to manage manufacturer lead times and meet product forecasts, and to other parties to purchase various key components used in the manufacture of our products. A significant portion of our reported purchase commitments arising from these agreements consists of firm, non-cancelable, and unconditional commitments. As of July 26, 2019, we had $392 million in non-cancelable purchase commitments for inventory. We record a liability for firm, non-cancelable and unconditional purchase commitments for quantities in excess of our future demand forecasts consistent with the valuation of our excess and obsolete inventory. To the extent that such forecasts are not achieved, our commitments and associated accruals may change.  
-
-
-
-In addition to inventory commitments with contract manufacturers and component suppliers, we have open purchase orders and construction related obligations associated with our ordinary course of business for which we have not received goods or services. As of July 26, 2019, we had $9 million in construction related obligations and $235 million in other purchase obligations.  
-
-
-
-Unrecognized Tax Benefits  
-
-
-
-As of July 26, 2019, our liability for uncertain tax positions was $249 million, including interest, penalties and certain income tax benefits. Due to uncertainties regarding tax audits and their possible outcomes, we are unable to make reasonably reliable estimates of the period of cash settlement with the taxing authorities. 
-
-
-
-Financing Guarantees 
-
-
-
-While most of our arrangements for sales include short-term payment terms, from time to time we provide long-term financing to creditworthy customers. We have generally sold receivables financed through these arrangements on a non-recourse basis to third party financing institutions within 10 days of the contracts’ dates of execution, and we classify the proceeds from these sales as cash flows from operating activities in our condensed consolidated statements of cash flows. We account for the sales of these receivables as “true sales” as defined in the accounting standards on transfers of financial assets, as we are considered to have surrendered control of these financing receivables. Provided all other revenue recognition criteria have been met, we recognize product revenues for these arrangements, net of any payment discounts from financing transactions, upon product acceptance. We sold $14 million and $30 million of receivables during first quarter of fiscal 2020 and fiscal 2019, respectively. 
-
-
-
-In addition, we enter into arrangements with leasing companies for the sale of our hardware systems products. These leasing companies, in turn, lease our products to end-users. The leasing companies generally have no recourse to us in the event of default by the end-user and we recognize revenue upon delivery to the end-user customer, if all other revenue recognition criteria have been met.  
-
-
-
-Some of the leasing arrangements described above have been financed on a recourse basis through third-party financing institutions. Under the terms of recourse leases, which are generally three years or less, we remain liable for the aggregate unpaid remaining lease payments to the third-party leasing companies in the event of end-user customer default. These arrangements are generally collateralized by a security interest in the underlying assets. Where we provide a guarantee for recourse leases and collectability is probable, we account for these transactions as sales type leases. If collectability is not probable, the cash received is recorded as a deposit liability and revenue is deferred until the arrangement is deemed collectible. For leases that we are not a party to, other than providing recourse, we recognize revenue when control is transferred. As of July 26, 2019 and April 26, 2019, the aggregate amount by which such contingencies exceeded the associated liabilities was not significant. To date, we have not experienced significant losses under our lease financing programs or other financing arrangements. 
-
-
-
-We have entered into service contracts with certain of our end-user customers that are supported by third-party financing arrangements. If a service contract is terminated as a result of our non-performance under the contract or our failure to comply with the terms of the financing arrangement, we could, under certain circumstances, be required to acquire certain assets related to the service contract or to pay the aggregate unpaid payments under such arrangements. As of July 26, 2019, we have not been required to make any payments under these arrangements, and we believe the likelihood of having to acquire a material amount of assets or make payments under these arrangements is remote. The portion of the financial arrangement that represents unearned services revenue is included in deferred revenue and financed unearned services revenue in our condensed consolidated balance sheets.  
-
-
-
-Indemnification Agreements 
-
-
-
-We enter into indemnification agreements with third parties in the ordinary course of business. Generally, these indemnification agreements require us to reimburse losses suffered by the third-parties due to various events, such as lawsuits arising from patent or copyright infringement. These indemnification obligations are considered off-balance sheet arrangements under accounting guidance. 
-
-
-
-
-
-Legal Contingencies  
-
-
-
-We are subject to various legal proceedings and claims which arise in the normal course of business. See further details on such matters in Note 17 – Commitments and Contingencies of the Notes to Condensed Consolidated Financial Statements. 
-
-
-
-
-
-Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.  
-
-
-
-Purchases of equity securities  
-
-
-
-
-
-
-
-In May 2003, our Board of Directors approved a stock repurchase program. As of July 26, 2019, our Board of Directors has authorized the repurchase of up to $13.6 billion of our common stock. Since inception of the program through July 26, 2019, we repurchased a total of 317 million shares of our common stock for an aggregate purchase price of $12.0 billion. Under this program, which we may suspend or discontinue at any time, we may purchase shares of our outstanding common stock through solicited or unsolicited transactions in the open market, in privately negotiated transactions, through accelerated share repurchase programs, pursuant to a Rule 10b5-1 plan or in such other manner as deemed appropriate by our management. 
-
-
-
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+This section and other parts of this Form 10-Q contain forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995, that involve risks and uncertainties.
+Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact.
+Forward-looking statements also can be identified by words such as “future,” “anticipates,” “believes,” “estimates,” “expects,” “intends,” “will,” “would,” “could,” “can,” “may,” and similar terms.
+Forward-looking statements are not guarantees of future performance and the actual results of NetApp, Inc. (“we,” “us,” or the “Company”) may differ significantly from the results discussed in the forward-looking statements.
+Factors that might cause such differences include, but are not limited to, those discussed in Part II, Item 1A of this Form 10-Q under the heading “Risk Factors,” which are incorporated herein by reference.
+The following discussion should be read in conjunction with our consolidated financial statements as of and for the fiscal year ended April 26, 2019, and the notes thereto, contained in our Annual Report on Form 10-K, and the condensed consolidated financial statements and notes thereto included elsewhere in this Form 10-Q.
+We assume no obligation to revise or update any forward-looking statements for any reason, except as required by law.
+Overview
+Our Company
+NetApp is the data authority for hybrid cloud.
+We provide a full range of hybrid cloud data services that simplify management of applications and data across cloud and on-premises environments to accelerate digital transformation.
+Together with our partners, we empower global organizations to unleash the full potential of their data to expand customer touchpoints, foster greater innovation and optimize their operations.
+NetApp delivers a Data Fabric built for the data-driven world.
+Our Data Fabric simplifies the integration and orchestration of data for applications and analytics in clouds, across clouds and on-premises to accelerate digital transformation.
+We deliver a Data Fabric with consistent data services for data visibility and insights, data access and control, and data protection and security, that unleashes the power of data to achieve a new competitive advantage.
+We focus on delivering an exceptional customer experience to become our customers’ preferred data partner.
+NetApp’s unique approach to data services enables organizations to inspire innovation with the cloud, build clouds to accelerate new services, and modernize IT architecture with cloud-connected flash.
+•
+Continually fuel business growth by delivering data-rich customer experiences through new application deployments that easily use data and services regardless of where they reside or in what form.
+•
+Accelerate digital transformation by developing a next-generation, cloud-architected infrastructure that manages data and services as one integrated resource supporting both public and private clouds.
+•
+Free the resources necessary to fund transformation by deploying the industry’s leading flash storage solution, which is highly efficient and scales from the edge to the core to the cloud.
+Customers are attracted by the speed and scale benefits of the public cloud but need new data management capabilities to keep control of data as it moves beyond the walls of the enterprise.
+NetApp believes the hybrid cloud is fast becoming the dominant model for enterprise IT.
+Our Data Fabric approach enables our customers to manage, secure and protect their data from on-premises to public to hybrid clouds, all at the scale needed to accommodate the exponential data growth of the digital world.
+Budget constraints and skill imbalances lead our customers to seek help in integrating, deploying and managing the solutions they need to stay competitive.
+This drives demand for converged and hyper-converged infrastructure solutions.
+FlexPod is the converged infrastructure of choice for many of the largest enterprises around the globe.
+Customers can break free from the limits of first-generation HCI with NetApp HCI and attain guaranteed performance with high levels of flexibility, scale, automation, and integration with the Data Fabric.
+Flash plays a key role in customers’ digital transformation efforts as they seek to gain advantage through greater speed, responsiveness and value from key business applications - all while lowering total cost of ownership.
+All-flash array technology is the de facto choice as customers seek performance and economic benefits from replacing hard disk installations.
+With a highly differentiated and broad portfolio of all-flash and hybrid array offerings, NetApp is well positioned to enable customers to accomplish this transition.
+To provide visibility into our transition from older products to our newer, higher growth products and clarity into the dynamics of our product revenue, we group our products by “Strategic” and “Mature” solutions.
+As our product portfolio evolves, market dynamics change, and management continues to assess our largest growth opportunities, we periodically change how we group certain products.
+Beginning in fiscal 2020, Strategic includes All-flash FAS (AFF) products, including all related add-on hardware and operating system (OS) software, private cloud solutions (including SolidFire, converged and hyper-converged infrastructure products, StorageGrid), enterprise software license agreements (ELAs) and other optional add-on software products.
+Mature now includes Hybrid FAS products, including all related add-on hardware and OS software, original equipment manufacturers (OEM) products, and branded E-Series.
+Prior to this grouping change, Hybrid FAS products and branded E-Series were included in Strategic, while all add-on hardware and OS software were included in Mature.
+For comparability, Strategic and Mature revenues presented for the prior year period have been recast based on the revised groupings.
+In addition to our products and solutions, we provide a variety of services to our customers, including software maintenance, hardware maintenance and other services including professional services, global support solutions, and customer education and training.
+Revenues generated by our Cloud Data Services offerings are included in software maintenance revenues.
+Financial Results and Key Performance Metrics Overview
+Stock Repurchase Program and Dividend Activity
+During the first three months of fiscal 2020, we repurchased four million shares of our common stock at an average price of $64.87 per share, for an aggregate of $250 million.
+We also declared aggregate cash dividends of $0.48 per share in that period, for which we paid an aggregate of $115 million.
+Cognigo Acquisition
+On May 23, 2019, we acquired all the outstanding shares of privately-held Cognigo Research Ltd., a provider of data discovery classification software designed to manage and protect critical data, for $58 million in cash.
+Restructuring Event
+In the first quarter of fiscal 2020, we announced a restructuring plan to reduce costs and redirect resources to our highest return activities, which included a reduction in our global workforce by approximately 2%, and incurred charges of approximately $21 million, consisting primarily of employee severance costs.
+See Note 13 – Restructuring Charges for additional information.
+Adoption of Lease Accounting Standard
+In the first quarter of fiscal 2020, we adopted the new accounting standard Leases (ASC 842) using the modified retrospective approach, electing the optional transition method of not adjusting our comparative period financial statements.
+Adoption of the new standard resulted in the recognition of approximately $149 million of operating lease right-of-use assets, net of deferred rent and restructuring liabilities, and $158 million of lease liabilities on our condensed consolidated balance sheets as of the beginning of fiscal 2020.
+See Note 10 – Leases in the Notes to Condensed Consolidated Financial Statements for additional information.
+Critical Accounting Policies and Estimates
+Our condensed consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America, which require management to make judgments, estimates and assumptions that affect the reported amounts of assets, liabilities, net revenues and expenses, and the disclosure of contingent assets and liabilities.
+Our estimates are based on historical experience and various other assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities.
+We believe that the accounting estimates employed and the resulting balances are reasonable; however, actual results may differ from these estimates and such differences may be material.
+The summary of our significant accounting policies is included under Item 7 – Management’s Discussion and Analysis of Financial Condition and Results of Operations of our fiscal 2019 Form 10-K. An accounting policy is deemed to be critical if it requires an accounting estimate to be made based on assumptions about matters that are highly uncertain at the time the estimate is made, if different estimates reasonably could have been used, or if changes in the estimate that are reasonably possible could materially impact the financial statements.
+There have been no material changes to the critical accounting policies and estimates as filed in such report.
+New Accounting Standards
+See Note 2 – Recent Accounting Standards Not Yet Effective of the Notes to Condensed Consolidated Financial Statements for a full description of new accounting pronouncements, including the respective expected dates of adoption and effects on our financial statements.
+Results of Operations
+Our fiscal year is reported as a 52- or 53-week year that ends on the last Friday in April.
+Fiscal years 2020 and 2019 are each 52-week years, with 13 weeks in each of their quarters.
+Unless otherwise stated, references to particular years, quarters, months and periods refer to the Company’s fiscal years ended in April and the associated quarters, months and periods of those fiscal years.
+Percentages may not add due to rounding
+Discussion and Analysis of Results of Operations
+Overview
+Net revenues for the first quarter of fiscal 2020 were $1,236 million, reflecting a decrease of $238 million, or 16%, compared to the corresponding period of the prior year, primarily reflecting lower product revenues, and to a lesser extent, the unfavorable impact of foreign exchange rate fluctuations in the quarter.
+Hardware maintenance and other services revenues also decreased compared to the corresponding period of the prior year, offset by an increase in software maintenance revenues.
+Gross profit as a percentage of net revenues for the first quarter increased by one percentage point compared to the corresponding period in fiscal 2019.
+Gross profit margins on product revenues decreased by three percentage points in the first quarter of fiscal 2020 compared to the corresponding period of fiscal 2019, primarily due to high margins on revenue recognized related to the software license components of several ELAs in the first quarter of fiscal quarter of 2019, which did not repeat in fiscal 2020.
+Sales and marketing, research and development, and general and administrative expenses for the first quarter of fiscal 2020 totaled $691 million, or 56% of net revenues, representing an increase of nine percentage points when compared to the first quarter of fiscal 2019, primarily due to lower net revenues in the current fiscal period.
+The decrease in net revenues for the first quarter of fiscal 2020 compared to the corresponding period of fiscal 2019 was primarily due to a decrease in product revenues of $231 million.
+Product revenues as a percentage of net revenues decreased by seven percentage points in the first quarter of fiscal 2020 compared to the first quarter of fiscal 2019.
+Under the revised Strategic and Mature product groupings, as described in the Overview section above, product revenues from strategic solutions represented 52% of product revenues in the first quarter of fiscal 2020, compared to 54% in the corresponding period of the prior year.
+Product revenues from mature solutions represented 48% of product revenues in the first quarter of fiscal 2020, compared to 46% in the corresponding period of the prior year.
+Product revenues declined in the first quarter of fiscal 2020 compared to the corresponding period of the prior year due a combination of less favorable macroeconomic conditions and go-to-market execution issues experienced with some of our largest global customer accounts.
+Total product revenues from strategic solutions totaled $337 million in the first quarter of fiscal 2020 reflecting a 29% decrease from $475 million in the first quarter of fiscal 2019, primarily due to decreased sales of All-Flash FAS products in the current year period and a substantial amount of revenue recognized in the prior year period related to the software license components of several ELAs which did not repeat, partially offset by an increase in revenues from private cloud solutions.
+Total product revenue from mature solutions totaled $307 million in the first quarter of fiscal 2020 reflecting a 23% decrease from $400 million in the first quarter of fiscal 2019, primarily due to decreased sales of FAS Hybrid and OEM products in the current year period.
+Software maintenance revenues are associated with contracts which entitle customers to receive unspecified product upgrades and enhancements on a when-and-if-available basis, bug fixes and patch releases, as well as internet and telephone access to technical support personnel located in our global support centers.
+The fluctuations in software maintenance revenues reflect fluctuations in the aggregate contract value of the installed base under software maintenance contracts, which is recognized as revenue ratably over the terms of the underlying contracts.
+Hardware maintenance and other services revenues include hardware maintenance, professional services, and educational and training services revenues.
+Hardware maintenance contract revenues decreased year over year, at $284 million for the first quarter of fiscal 2020, compared to $303 million for the corresponding period of the prior year.
+The decrease was primarily attributable to a decline in average selling price on contracts executed recently, as well as lower contract renewal rates.
+Professional services and educational and training services revenues were $58 million for the first quarter of fiscal 2020, compared to $67 million for the corresponding period of the prior year.
+Percentages may not add due to rounding
+Americas revenues consist of sales to Americas commercial and U.S. public sector markets.
+During the first quarter of fiscal 2020, Americas revenues were negatively impacted by general macroeconomic conditions in the region and go-to-market execution issues with some of our largest customer accounts, which was reflected in the geographic distribution of revenues as a percentage of net revenues in the first quarter of fiscal 2020 compared to the corresponding period of fiscal 2019.
+Cost of Revenues
+Cost of product revenues represented 48% of product revenues for the first quarter of fiscal 2020, compared to 45% for the corresponding period of fiscal 2019.
+Materials costs represented 82% of product costs for the first quarter of fiscal 2020, compared to 87% in the corresponding period of fiscal 2019.
+Materials costs decreased $92 million in the first quarter of fiscal 2020 compared to the corresponding period of the prior year, primarily due to a decline in product revenue and, to a lesser extent, a decline in the price of certain product components.
+The average unit materials costs of both All-Flash FAS and FAS Hybrid systems decreased in the first quarter of fiscal 2020 compared to the first quarter of fiscal 2019.
+Margins on revenue recognized for strategic solutions increased slightly during the first quarter of fiscal 2020 compared to the first quarter of fiscal 2019, while margins for mature solutions decreased slightly.
+Cost of software maintenance revenues in dollars were relatively flat in the first quarter of fiscal 2020 compared to the corresponding period of fiscal 2019 and represented 4% and 3% of software maintenance revenues in the current year and prior year periods, respectively.
+Cost of hardware maintenance and other services revenues decreased by $8 million, or 8%, for the first quarter of fiscal 2020 compared to the corresponding period of fiscal 2019, in line with the decrease in hardware maintenance and other services revenues.
+Costs represented 29% of hardware maintenance and other services revenues in both periods.
+Operating Expenses
+Sales and Marketing, Research and Development and General and Administrative Expenses
+Compensation costs represent the largest component of operating expenses.
+Included in compensation costs are salaries, benefits, other compensation-related costs, stock-based compensation expense and employee incentive compensation plan costs.
+Total compensation costs included in operating expenses decreased by $4 million, or 1% in the first quarter of fiscal 2020, compared to the corresponding period of the prior year primarily due to lower incentive compensation expense and, to a lesser extent, the favorable impact of foreign exchange rate fluctuations, partially offset by higher salaries expense, reflecting a 2% increase in average headcount.
+Sales and marketing expenses consist primarily of compensation costs, commissions, outside services, allocated facilities and information technology (IT) costs, advertising and marketing promotional expense and travel and entertainment expense.
+Sales and marketing expenses were relatively flat in the first quarter of fiscal 2020 compared to the corresponding period of the prior year.
+Compensation costs decreased slightly, reflecting a 2% decrease in average headcount.
+Sales and marketing expenses in the first quarter of fiscal 2020 also benefitted slightly from foreign exchange rate fluctuations.
+The increase in compensation costs for the first quarter of fiscal 2020 compared to the corresponding period in the prior year was attributable to an increase in average headcount of 8%, resulting in higher salaries, benefits and stock-based compensation expense, partially offset by lower incentive compensation expense and, to a lesser extent, the favorable impact of foreign exchange rate fluctuations.
+The increase in headcount reflects our investment in additional engineering resources to support the expansion and enhancement of products and solutions targeted at our most important customer and market opportunities.
+Development projects and outside services expense for the first three months of fiscal 2020 decreased slightly as a result of lower spending on materials and services associated with engineering activities to develop new and enhanced products, due to the timing of new product introductions.
+All components of compensation costs decreased for the first quarter of fiscal 2020 compared to the corresponding period of the prior year.
+While average headcount increased in the current year period, compensation costs decreased because a greater percentage of employees were located in lower cost geographies.
+The increase in professional and legal fees and outside services expense in the first quarter of fiscal 2020 was primarily due to the higher spending levels on business transformation projects.
+The decrease in facilities and IT support costs for the first quarter of fiscal 2020 compared to the corresponding period of the prior year was primarily due to lower spending levels on IT projects.
+In the first quarter of fiscal 2020, we announced a restructuring plan (the May 2019 Plan) to reduce costs and redirect resources to our highest return activities, which included a reduction in our global workforce of approximately 2%.
+Charges related to the plan consisted primarily of employee severance-related costs.
+We expect to complete all activities associated with the May 2019 plan by the end of second quarter of fiscal 2020 with no significant additional charges.
+See Note 13 – Restructuring Charges of the Notes to Condensed Consolidated Financial Statements for more details.
+Other Income, Net (in millions, except percentages)
+Interest income decreased in the first quarter of fiscal 2020 compared to the corresponding period of the prior year due to a reduction in size of our investment portfolio as a result of our sale of approximately $1.0 billion of available-for-sale debt securities in the second half of the quarter.
+Other income, net increased in the first quarter of fiscal 2020 as a result of the $14 million gain we realized from the sale of these securities, partially offset by differences in foreign exchange gains and losses year-over-year.
+Interest expense remained relatively flat in the first quarter of fiscal 2020 compared to the corresponding period of the prior year.
+Our effective tax rate for the first quarter of fiscal 2020 was 13.4% compared to an effective tax rate of (4.0)% for the first quarter of fiscal 2019.
+Our effective tax rates reflect the impact of a significant amount of our earnings, primarily income from our European operations, being taxed in foreign jurisdictions at rates below the U.S. statutory tax rate.
+Our effective tax rate increased for the first quarter of fiscal 2020 compared to the corresponding period of the prior year primarily due to discrete tax benefits related to the adoption of the new revenue standard in fiscal 2019 and differences in discrete benefits for stock-based compensation.
+On December 22, 2017, the Tax Cuts and Jobs Act (“TCJA”) was enacted into law.
+The TCJA made significant changes to the U.S. corporate income tax system including a reduction of the U.S. federal corporate income tax rate from 35% to 21%, the imposition of a one-time transition tax on deferred foreign earnings, and the creation of new taxes on certain foreign-sourced earnings.
+As of April 26, 2019, we had completed the accounting for the tax impacts of the TCJA, however, we will continue to assess the impact of further guidance from federal and state tax authorities on our business and consolidated financial statements, and recognize any adjustments in the period in which they are determined.
+During fiscal 2019, we adopted the new revenue accounting standard and, for the three months ended July 27, 2018, we recognized a $34 million discrete tax benefit for adjustments to certain intercompany transactions resulting from the retrospective application of the new revenue accounting standard.
+As of July 26, 2019, we had $293 million of gross unrecognized tax benefits.
+Inclusive of penalties, interest and certain income tax benefits, $244 million would affect our provision for income taxes if recognized, and $249 million has been recorded in other long-term liabilities.
+We continue to monitor the progress of ongoing discussions with tax authorities and the impact, if any, of the expected expiration of the statute of limitations in various taxing jurisdictions.
+We believe that within the next 12 months, it is reasonably possible that either certain audits will conclude, certain statutes of limitations will lapse, or both.
+As a result of uncertainties regarding tax audits and their possible outcomes, an estimate of the range of possible impacts to unrecognized tax benefits in the next twelve months cannot be made at this time.
+Liquidity, Capital Resources and Cash Requirements
+Cash Flows
+As of July 26, 2019, our cash, cash equivalents and short-term investments were $3.5 billion, a decrease of $0.4 billion from April 26, 2019.
+The decrease was primarily due to $250 million paid for the repurchase of our common stock, $115 million used for the payment of dividends, $219 million used for the net repayment of commercial paper notes, and $32 million in purchases of property and equipment, partially offset by $310 million of cash provided by operating activities.
+Working capital decreased by $0.4 billion to $1.3 billion as of July 26, 2019 compared to April 26, 2019 primarily due to the decreases in cash, cash equivalents and short-term investments discussed above.
+Cash Conversion Cycle
+Days may not add due to rounding
+Days sales outstanding, referred to as DSO, calculates the average collection period of our receivables.
+DSO is based on ending accounts receivable and net revenue for each period.
+DSO is calculated by dividing accounts receivable by average net revenue per day for the current quarter (91 days for each of the quarters presented above).
+DSO for the first quarter of fiscal 2020 was relatively consistent with the corresponding period of fiscal 2019, while it decreased compared to the fourth quarter of fiscal 2019 due to lower seasonal invoicing levels and more favorable shipping linearity.
+Days inventory outstanding, referred to as DIO, measures the average number of days from procurement to sale of our products.
+DIO is based on ending inventory and cost of revenues for each period.
+DIO is calculated by dividing ending inventory by average cost of revenues per day for the current quarter.
+DIO for the first quarter of fiscal 2020 increased compared to the fourth quarter of fiscal 2019 and the corresponding period of fiscal 2019, primarily due to higher levels of inventory on hand at the end of the current quarter resulting from a decline in sales towards the end of the period.
+Days payables outstanding, referred to as DPO, calculates the average number of days our payables remain outstanding before payment.
+DPO is based on ending accounts payable and cost of revenues for each period.
+DPO is calculated by dividing accounts payable by average cost of revenues per day for the current quarter.
+DPO for the first quarter of fiscal 2020 was relatively consistent with the corresponding period of fiscal 2019, while it decreased compared to the fourth quarter of 2019, primarily due to the timing of purchases from contract manufacturers.
+The cash conversion cycle is the sum of DSO and DIO less DPO.
+Items which may cause the cash conversion cycle in a particular period to differ include, but are not limited to, changes in business mix, changes in payment terms (including extended payment terms from suppliers), the extent of shipment linearity, seasonal trends and the timing of revenue recognition and inventory purchases within the period.
+Cash Flows from Operating Activities
+During the first three months of fiscal 2020, we generated cash from operating activities of $310 million, reflecting net income of $103 million, adjusted by non-cash depreciation and amortization of $49 million, and stock-based compensation of $42 million, compared to $326 million of cash generated from operating activities during the first three months of fiscal 2019.
+•
+Accounts receivable decreased $672 million, reflecting lower DSO.
+•
+Accounts payable decreased $195 million, reflecting lower DPO.
+•
+Accrued expenses decreased $277 million, primarily due to employee compensation payouts related to fiscal year 2019 commissions and incentive compensation plans.
+•
+Deferred revenue and financed unearned services revenue decreased $154 million, primarily due to a decrease in deferred software and hardware maintenance contract revenues reflecting the seasonality of maintenance contract renewal activities.
+We expect that cash provided by operating activities may materially fluctuate in future periods due to a number of factors, including fluctuations in our operating results, shipment linearity, accounts receivable collections performance, inventory and supply chain management, vendor payment initiatives, tax benefits or charges from stock-based compensation, and the timing and amount of compensation and other payments.
+Cash Flows from Investing Activities
+During the first three months of fiscal 2020, we generated $1.0 billion from maturities and sales of investments, net of purchases, and paid $32 million for capital expenditures, while during the first three months of fiscal 2019, we generated $248 million from maturities and sales of investments, net of purchases, and paid $64 million for capital expenditures.
+Additionally, during the first three months of fiscal 2020, we paid $56 million net to acquire a privately-held company.
+Cash Flows from Financing Activities
+During the first three months of fiscal 2020, we used $250 million for the repurchase of four million shares of our common stock, $115 million for the payment of dividends, and $219 million for the repayment of commercial paper notes, net, compared to $500 million used for the repurchase of seven million shares of common stock, $105 million used for the payment of dividends, and $185 million for the repayment of commercial paper notes, net, during the first three months of fiscal 2019.
+Key factors that could affect our cash flows include changes in our revenue mix and profitability, our ability to effectively manage our working capital, in particular, accounts receivable, accounts payable and inventories, the timing and amount of stock repurchases and payment of cash dividends, the impact of foreign exchange rate changes, our ability to effectively integrate acquired products, businesses and technologies and the timing of repayments of our debt.
+Based on past performance and our current business outlook, we believe that our sources of liquidity, including potential future issuances of debt, equity or other securities, will satisfy our working capital needs, capital expenditures, investment requirements, stock repurchases, cash dividends, contractual obligations, commitments, principal and interest payments on our debt and other liquidity requirements associated with operations and meet our cash requirements for at least the next 12 months.
+However, in the event our liquidity is insufficient, we may be required to curtail spending and implement additional cost saving measures and restructuring actions or enter into new financing arrangements.
+We cannot be certain that we will continue to generate cash flows at or above current levels or that we will be able to obtain additional financing, if necessary, on satisfactory terms, if at all.
+Liquidity
+Our principal sources of liquidity as of July 26, 2019 consisted of cash, cash equivalents and short-term investments, cash we expect to generate from operations, and our commercial paper program and related credit facility.
+As of July 26, 2019 and April 26, 2019, $2.7 billion and $3.7 billion, respectively, of cash, cash equivalents and short-term investments were held by various foreign subsidiaries and were generally based in U.S. dollar-denominated holdings, while $0.8 billion and $0.2 billion, respectively, were available in the U.S. at the end of each period.
+The TCJA imposed a one-time transition tax on substantially all accumulated foreign earnings through December 31, 2017, and generally allows companies to make distributions of foreign earnings without incurring additional federal taxes.
+As a part of the recognition of the impacts of the TCJA, we have reviewed our projected global cash requirements and have determined that certain historical and future foreign earnings will no longer be indefinitely reinvested.
+Our principal liquidity requirements are primarily to meet our working capital needs, support ongoing business activities, fund research and development, meet capital expenditure needs, invest in critical or complementary technologies, service interest and principal payments on our debt, fund our stock repurchase program, and pay dividends, as and if declared.
+The principal objectives of our investment policy are the preservation of principal and maintenance of liquidity.
+We attempt to mitigate default risk by investing in high-quality investment grade securities, limiting the time to maturity and monitoring the counter-parties and underlying obligors closely.
+We believe our cash equivalents and short-term investments are liquid and accessible.
+We are not aware of any significant deterioration in the fair value of our cash equivalents or investments from the values reported as of July 26, 2019.
+Senior Notes
+Interest on the Senior Notes is payable semi-annually.
+For further information on the underlying terms, see Note 9 – Financing Arrangements of the Notes to Condensed Consolidated Financial Statements.
+Commercial Paper Program and Credit Facility
+We have a commercial paper program (the Program), under which we may issue unsecured commercial paper notes.
+Amounts available under the Program may be borrowed, repaid and re-borrowed, with the aggregate face or principal amount of the notes outstanding under the Program at any time not to exceed $1.0 billion.
+The maturities of the notes can vary, but may not exceed 397 days from the date of issue.
+The notes are sold under customary terms in the commercial paper market and may be issued at a discount from par or, alternatively, may be sold at par and bear interest at rates dictated by market conditions at the time of their issuance.
+The proceeds from the issuance of the notes are used for general corporate purposes.
+As of July 26, 2019, we had commercial paper notes outstanding with an aggregate principal amount of $30 million, a weighted-average interest rate of 2.56% and a maturity of 29 days.
+In connection with the Program, we have a senior unsecured credit agreement that expires on December 10, 2021.
+The credit agreement provides a $1.0 billion revolving unsecured credit facility that serves as a back-up for the Program.
+Proceeds from the facility may also be used for general corporate purposes, providing another potential source of liquidity to the extent that the credit facility exceeds the outstanding debt issued under the Program.
+The credit agreement also includes options that allow us to request an increase in the facility of up to an additional $300 million and to extend its maturity date for two additional one-year periods, both subject to certain conditions.
+As of July 26, 2019, we were in compliance with all associated covenants in this agreement.
+No amounts were drawn against this facility during any of the periods presented.
+Capital Expenditure Requirements
+We expect to fund our capital expenditures, including our commitments related to facilities, equipment, operating leases and internal-use software development projects over the next few years through existing cash, cash equivalents, investments and cash generated from operations.
+The timing and amount of our capital requirements cannot be precisely determined and will depend on a number of factors, including future demand for products, changes in the network storage industry, hiring plans and our decisions related to the financing of our facilities and equipment requirements.
+We anticipate capital expenditures for the remainder of fiscal 2020 to be between $125 million and $175 million.
+Dividends and Stock Repurchase Program
+On August 14, 2019, we declared a cash dividend of $0.48 per share of common stock, payable on October 23, 2019 to holders of record as of the close of business on October 4, 2019.
+Our Board of Directors has authorized the repurchase of up to $13.6 billion of our common stock under our stock repurchase program.
+Under this program, we may purchase shares of our outstanding common stock through solicited or unsolicited transactions in the open market, in privately negotiated transactions, through accelerated share repurchase programs, pursuant to a Rule 10b5-1 plan or in such other manner as deemed appropriate by our management.
+The stock repurchase program may be suspended or discontinued at any time.
+Since the May 13, 2003 inception of this program through July 26, 2019, we repurchased a total of 317 million shares of our common stock at an average price of $37.80 per share, for an aggregate purchase price of $12.0 billion.
+As of July 26, 2019, the remaining authorized amount for stock repurchases under this program was $1.6 billion.
+The timing and amount of stock repurchase transactions and future dividends will depend on market conditions, corporate business and financial considerations and regulatory requirements.
+Contractual Obligations
+Purchase Orders and Other Commitments
+In the ordinary course of business, we make commitments to our third-party contract manufacturers to manage manufacturer lead times and meet product forecasts, and to other parties to purchase various key components used in the manufacture of our products.
+A significant portion of our reported purchase commitments arising from these agreements consists of firm, non-cancelable, and unconditional commitments.
+As of July 26, 2019, we had $392 million in non-cancelable purchase commitments for inventory.
+We record a liability for firm, non-cancelable and unconditional purchase commitments for quantities in excess of our future demand forecasts consistent with the valuation of our excess and obsolete inventory.
+To the extent that such forecasts are not achieved, our commitments and associated accruals may change.
+In addition to inventory commitments with contract manufacturers and component suppliers, we have open purchase orders and construction related obligations associated with our ordinary course of business for which we have not received goods or services.
+As of July 26, 2019, we had $9 million in construction related obligations and $235 million in other purchase obligations.
+Unrecognized Tax Benefits
+As of July 26, 2019, our liability for uncertain tax positions was $249 million, including interest, penalties and certain income tax benefits.
+Due to uncertainties regarding tax audits and their possible outcomes, we are unable to make reasonably reliable estimates of the period of cash settlement with the taxing authorities.
+Financing Guarantees
+While most of our arrangements for sales include short-term payment terms, from time to time we provide long-term financing to creditworthy customers.
+We have generally sold receivables financed through these arrangements on a non-recourse basis to third party financing institutions within 10 days of the contracts’ dates of execution, and we classify the proceeds from these sales as cash flows from operating activities in our condensed consolidated statements of cash flows.
+We account for the sales of these receivables as “true sales” as defined in the accounting standards on transfers of financial assets, as we are considered to have surrendered control of these financing receivables.
+Provided all other revenue recognition criteria have been met, we recognize product revenues for these arrangements, net of any payment discounts from financing transactions, upon product acceptance.
+We sold $14 million and $30 million of receivables during first quarter of fiscal 2020 and fiscal 2019, respectively.
+In addition, we enter into arrangements with leasing companies for the sale of our hardware systems products.
+These leasing companies, in turn, lease our products to end-users.
+The leasing companies generally have no recourse to us in the event of default by the end-user and we recognize revenue upon delivery to the end-user customer, if all other revenue recognition criteria have been met.
+Some of the leasing arrangements described above have been financed on a recourse basis through third-party financing institutions.
+Under the terms of recourse leases, which are generally three years or less, we remain liable for the aggregate unpaid remaining lease payments to the third-party leasing companies in the event of end-user customer default.
+These arrangements are generally collateralized by a security interest in the underlying assets.
+Where we provide a guarantee for recourse leases and collectability is probable, we account for these transactions as sales type leases.
+If collectability is not probable, the cash received is recorded as a deposit liability and revenue is deferred until the arrangement is deemed collectible.
+For leases that we are not a party to, other than providing recourse, we recognize revenue when control is transferred.
+As of July 26, 2019 and April 26, 2019, the aggregate amount by which such contingencies exceeded the associated liabilities was not significant.
+To date, we have not experienced significant losses under our lease financing programs or other financing arrangements.
+We have entered into service contracts with certain of our end-user customers that are supported by third-party financing arrangements.
+If a service contract is terminated as a result of our non-performance under the contract or our failure to comply with the terms of the financing arrangement, we could, under certain circumstances, be required to acquire certain assets related to the service contract or to pay the aggregate unpaid payments under such arrangements.
+As of July 26, 2019, we have not been required to make any payments under these arrangements, and we believe the likelihood of having to acquire a material amount of assets or make payments under these arrangements is remote.
+The portion of the financial arrangement that represents unearned services revenue is included in deferred revenue and financed unearned services revenue in our condensed consolidated balance sheets.
+Indemnification Agreements
+We enter into indemnification agreements with third parties in the ordinary course of business.
+Generally, these indemnification agreements require us to reimburse losses suffered by the third-parties due to various events, such as lawsuits arising from patent or copyright infringement.
+These indemnification obligations are considered off-balance sheet arrangements under accounting guidance.
+Legal Contingencies
+We are subject to various legal proceedings and claims which arise in the normal course of business.
+See further details on such matters in Note 17 – Commitments and Contingencies of the Notes to Condensed Consolidated Financial Statements.
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds.
+Purchases of equity securities
+In May 2003, our Board of Directors approved a stock repurchase program.
+As of July 26, 2019, our Board of Directors has authorized the repurchase of up to $13.6 billion of our common stock.
+Since inception of the program through July 26, 2019, we repurchased a total of 317 million shares of our common stock for an aggregate purchase price of $12.0 billion.
+Under this program, which we may suspend or discontinue at any time, we may purchase shares of our outstanding common stock through solicited or unsolicited transactions in the open market, in privately negotiated transactions, through accelerated share repurchase programs, pursuant to a Rule 10b5-1 plan or in such other manner as deemed appropriate by our management.

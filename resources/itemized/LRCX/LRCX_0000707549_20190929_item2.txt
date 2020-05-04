@@ -1,322 +1,133 @@
 ITEM 2.Management’s Discussion and Analysis of Financial Condition and Results of Operations
-
-
-
 CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS
-
-
-
-With the exception of historical facts, the statements contained in this discussion are forward-looking statements, which are subject to the safe harbor provisions created by the Private Securities Litigation Reform Act of 1995. Certain, but not all, of the forward-looking statements in this report are specifically identified as forward-looking, by use of phrases and words such as “believe,” “estimated,” “anticipate,” “expect,” “probable,” “intend,” “plan,” “aim,” “may,” “should,” “could,” “would,” “will,” “continue,” and other future-oriented terms. The identification of certain statements as “forward-looking” does not mean that other statements not specifically identified are not forward-looking. Forward-looking statements include but are not limited to statements that relate to: trends and opportunities in the global economic environment and the semiconductor industry; the anticipated levels of, and rates of change in, margins, market share, served addressable market, capital expenditures, research and development expenditures, international sales, revenue (actual and/or deferred), operating expenses and earnings generally; management’s plans and objectives for our current and future operations and business focus; volatility in our quarterly results; customer and end user requirements and our ability to satisfy those requirements; customer capital spending and their demand for our products and services, and the reliability of indicators of change in customer spending and demand; the effect of variability in our customers’ business plans or demand for our equipment and services; changes in demand for our products and in our market share resulting from, among other things, any changes in our customers’ proportion of capital expenditure (with respect to certain technology inflections); hedging transactions; debt or financing arrangements; our competition, and our ability to defend our market share, and to gain new market share; our ability to obtain and qualify alternative sources of supply; changes in state, federal and international tax laws, our estimated annual tax rate and the factors that affect our tax rates; anticipated growth or decline in the industry and the total market for wafer fabrication equipment, our growth relative thereto and the resulting impact on us from such growth or decline; the success of joint development and collaboration relationships with customers, suppliers, or others; outsourced activities; the role of component suppliers in our business; our leadership and competency, and our ability to facilitate innovation; our ability to continue to, including the underlying factors that, create sustainable differentiation; the resources invested to comply with evolving standards and the impact of such efforts; legal and regulatory compliance; the estimates we make, and the accruals we record, in order to implement our critical accounting policies (including but not limited to the adequacy of prior tax payments, future tax benefits or liabilities, and the adequacy of our accruals relating to them); our investment portfolio; our access to capital markets; uses of, payments of, and impact of interest rate fluctuations on, our debt; our intention to pay quarterly dividends and the amounts thereof, if any; our ability and intention to repurchase our shares; credit risks; controls and procedures; recognition or amortization of expenses; our ability to manage and grow our cash position; our strategic relevance with our customers; our ability to scale our operations to respond to changes in our business; the value of our patents; the materiality of potential losses arising from legal proceedings; the probability of making payments under our guarantees; and the sufficiency of our financial resources or liquidity to support future business activities (including but not limited to operations, investments, debt service requirements, dividends, and capital expenditures). Such statements are based on current expectations and are subject to risks, uncertainties, and changes in condition, significance, value, and effect, including without limitation those discussed below under the heading “Risk Factors” within Part II Item 1A and elsewhere in this report and other documents we file from time to time with the Securities and Exchange Commission (“SEC”), such as our annual report on Form 10-K for the year ended June 30, 2019 (our “2019 Form 10-K”), and our current reports on Form 8-K. Such risks, uncertainties, and changes in condition, significance, value, and effect could cause our actual results to differ materially from those expressed in this report and in ways not readily foreseeable. Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date hereof and are based on information currently and reasonably known to us. We do not undertake any obligation to release the results of any revisions to these forward-looking statements, which may be made to reflect events or circumstances that occur after the date of this report or to reflect the occurrence or effect of anticipated or unanticipated events.
-
-
-
+With the exception of historical facts, the statements contained in this discussion are forward-looking statements, which are subject to the safe harbor provisions created by the Private Securities Litigation Reform Act of 1995.
+Certain, but not all, of the forward-looking statements in this report are specifically identified as forward-looking, by use of phrases and words such as “believe,” “estimated,” “anticipate,” “expect,” “probable,” “intend,” “plan,” “aim,” “may,” “should,” “could,” “would,” “will,” “continue,” and other future-oriented terms.
+The identification of certain statements as “forward-looking” does not mean that other statements not specifically identified are not forward-looking.
+Forward-looking statements include but are not limited to statements that relate to: trends and opportunities in the global economic environment and the semiconductor industry; the anticipated levels of, and rates of change in, margins, market share, served addressable market, capital expenditures, research and development expenditures, international sales, revenue (actual and/or deferred), operating expenses and earnings generally; management’s plans and objectives for our current and future operations and business focus; volatility in our quarterly results; customer and end user requirements and our ability to satisfy those requirements; customer capital spending and their demand for our products and services, and the reliability of indicators of change in customer spending and demand; the effect of variability in our customers’ business plans or demand for our equipment and services; changes in demand for our products and in our market share resulting from, among other things, any changes in our customers’ proportion of capital expenditure (with respect to certain technology inflections); hedging transactions; debt or financing arrangements; our competition, and our ability to defend our market share, and to gain new market share; our ability to obtain and qualify alternative sources of supply; changes in state, federal and international tax laws, our estimated annual tax rate and the factors that affect our tax rates; anticipated growth or decline in the industry and the total market for wafer fabrication equipment, our growth relative thereto and the resulting impact on us from such growth or decline; the success of joint development and collaboration relationships with customers, suppliers, or others; outsourced activities; the role of component suppliers in our business; our leadership and competency, and our ability to facilitate innovation; our ability to continue to, including the underlying factors that, create sustainable differentiation; the resources invested to comply with evolving standards and the impact of such efforts; legal and regulatory compliance; the estimates we make, and the accruals we record, in order to implement our critical accounting policies (including but not limited to the adequacy of prior tax payments, future tax benefits or liabilities, and the adequacy of our accruals relating to them); our investment portfolio; our access to capital markets; uses of, payments of, and impact of interest rate fluctuations on, our debt; our intention to pay quarterly dividends and the amounts thereof, if any; our ability and intention to repurchase our shares; credit risks; controls and procedures; recognition or amortization of expenses; our ability to manage and grow our cash position; our strategic relevance with our customers; our ability to scale our operations to respond to changes in our business; the value of our patents; the materiality of potential losses arising from legal proceedings; the probability of making payments under our guarantees; and the sufficiency of our financial resources or liquidity to support future business activities (including but not limited to operations, investments, debt service requirements, dividends, and capital expenditures).
+Such statements are based on current expectations and are subject to risks, uncertainties, and changes in condition, significance, value, and effect, including without limitation those discussed below under the heading “Risk Factors” within Part II Item 1A and elsewhere in this report and other documents we file from time to time with the Securities and Exchange Commission (“SEC”), such as our annual report on Form 10-K for the year ended June 30, 2019 (our “2019 Form 10-K”), and our current reports on Form 8-K.
+Such risks, uncertainties, and changes in condition, significance, value, and effect could cause our actual results to differ materially from those expressed in this report and in ways not readily foreseeable.
+Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date hereof and are based on information currently and reasonably known to us.
+We do not undertake any obligation to release the results of any revisions to these forward-looking statements, which may be made to reflect events or circumstances that occur after the date of this report or to reflect the occurrence or effect of anticipated or unanticipated events.
 Documents To Review In Connection With Management’s Discussion and Analysis Of Financial Condition and Results Of Operations
-
-
-
 For a full understanding of our financial position and results of operations for the three months ended September 29, 2019, and the related Management’s Discussion and Analysis of Financial Condition and Results of Operations below, you should also read the Condensed Consolidated Financial Statements and notes presented in this Form 10-Q and the financial statements and notes in our 2019 Form 10-K.
-
-
-
 EXECUTIVE SUMMARY
-
-
-
-Lam Research Corporation is a global supplier of innovative wafer fabrication equipment and services to the semiconductor industry. We have built a strong global presence with core competencies in areas like nanoscale applications enablement, chemistry, plasma and fluidics, advanced systems engineering and a broad range of operational disciplines. Our products and services are designed to help our customers build smaller, faster, and better performing devices that are used in a variety of electronic products, including mobile phones, personal computers, servers, wearables, automotive vehicles, and data storage devices.
-
-
-
-Our customer base includes leading semiconductor memory, foundry, and integrated device manufacturers that make products such as non-volatile memory, DRAM, and logic devices. We aim to increase our strategic relevance with our customers by contributing more to their continued success. Our core technical competency is integrating hardware, process, materials, software, and process control enabling results on the wafer.
-
-
-
-Semiconductor manufacturing, our customers’ business, involves the complete fabrication of multiple dies or integrated circuits on a wafer. This involves the repetition of a set of core processes and can require hundreds of individual steps. Fabricating these devices requires highly sophisticated process technologies to integrate an increasing array of new materials with precise control at the atomic scale. Along with meeting technical requirements, wafer processing equipment must deliver high productivity and be cost-effective.
-
-
-
-Demand from the Cloud, Internet of Things, and other markets is driving the need for increasingly powerful and cost-efficient semiconductors. At the same time, there are growing technical challenges with traditional scaling. These trends are driving significant inflections in semiconductor manufacturing, such as the increasing importance of vertical 3D scaling strategies as well as multiple patterning to enable shrinks. 
-
-
-
-
-
-Despite recent semiconductor capital investment volatility, over the longer term, we believe that technology inflections in our industry, including 3D device scaling, multiple patterning, process flow, and advanced packaging chip integration will lead to an increase in our served addressable market for our products and services in deposition, etch, and clean. While there could be continued variability in the near-term, we believe that demand for our products and services will increase faster than overall spending on wafer fabrication equipment, as the proportion of customers’ capital expenditures rises in these technology inflection areas, and as we gain market share.
-
-
-
-
-
-
-
-In the September 2019 quarter, revenue decreased 8% compared to the June 2019 quarter, reflecting lower customer demand for semiconductor equipment. The decline in gross margin as a percentage of revenue in the September 2019 quarter compared to the June 2019 quarter was mainly driven by customer and product mix. The decrease in operating expenses in the September 2019 quarter compared to the June 2019 quarter, was mainly driven by decreases in supplies and employee-related costs due to reduced working days in the September quarter. 
-
-
-
-Our cash and cash equivalents, investments, and restricted cash and investments balances increased slightly to $5.8 billion at the end of the September 2019 quarter compared to $5.7 billion at the end of the June 2019 quarter. This increase was primarily 
-
-
-
-the result of $464.0 million of cash generated from operating activities, partially offset by approximately $158.9 million of dividends paid to shareholders, $78.1 million of share repurchases, including net share settlement on employee stock-based compensation, $39.3 million of capital expenditures, and $29.0 million of debt reductions. Employee headcount as of September 29, 2019, was approximately 10,700. 
-
-
-
+Lam Research Corporation is a global supplier of innovative wafer fabrication equipment and services to the semiconductor industry.
+We have built a strong global presence with core competencies in areas like nanoscale applications enablement, chemistry, plasma and fluidics, advanced systems engineering and a broad range of operational disciplines.
+Our products and services are designed to help our customers build smaller, faster, and better performing devices that are used in a variety of electronic products, including mobile phones, personal computers, servers, wearables, automotive vehicles, and data storage devices.
+Our customer base includes leading semiconductor memory, foundry, and integrated device manufacturers that make products such as non-volatile memory, DRAM, and logic devices.
+We aim to increase our strategic relevance with our customers by contributing more to their continued success.
+Our core technical competency is integrating hardware, process, materials, software, and process control enabling results on the wafer.
+Semiconductor manufacturing, our customers’ business, involves the complete fabrication of multiple dies or integrated circuits on a wafer.
+This involves the repetition of a set of core processes and can require hundreds of individual steps.
+Fabricating these devices requires highly sophisticated process technologies to integrate an increasing array of new materials with precise control at the atomic scale.
+Along with meeting technical requirements, wafer processing equipment must deliver high productivity and be cost-effective.
+Demand from the Cloud, Internet of Things, and other markets is driving the need for increasingly powerful and cost-efficient semiconductors.
+At the same time, there are growing technical challenges with traditional scaling.
+These trends are driving significant inflections in semiconductor manufacturing, such as the increasing importance of vertical 3D scaling strategies as well as multiple patterning to enable shrinks.
+Despite recent semiconductor capital investment volatility, over the longer term, we believe that technology inflections in our industry, including 3D device scaling, multiple patterning, process flow, and advanced packaging chip integration will lead to an increase in our served addressable market for our products and services in deposition, etch, and clean.
+While there could be continued variability in the near-term, we believe that demand for our products and services will increase faster than overall spending on wafer fabrication equipment, as the proportion of customers’ capital expenditures rises in these technology inflection areas, and as we gain market share.
+In the September 2019 quarter, revenue decreased 8% compared to the June 2019 quarter, reflecting lower customer demand for semiconductor equipment.
+The decline in gross margin as a percentage of revenue in the September 2019 quarter compared to the June 2019 quarter was mainly driven by customer and product mix.
+The decrease in operating expenses in the September 2019 quarter compared to the June 2019 quarter, was mainly driven by decreases in supplies and employee-related costs due to reduced working days in the September quarter.
+Our cash and cash equivalents, investments, and restricted cash and investments balances increased slightly to $5.8 billion at the end of the September 2019 quarter compared to $5.7 billion at the end of the June 2019 quarter.
+This increase was primarily
+the result of $464.0 million of cash generated from operating activities, partially offset by approximately $158.9 million of dividends paid to shareholders, $78.1 million of share repurchases, including net share settlement on employee stock-based compensation, $39.3 million of capital expenditures, and $29.0 million of debt reductions.
+Employee headcount as of September 29, 2019, was approximately 10,700.
 RESULTS OF OPERATIONS
-
-
-
 Revenue
-
-
-
-
-
-Revenue for the September 2019 quarter decreased 8% and 7% from the June 2019 and September 2018 quarters, respectively, reflecting lower customer demand for semiconductor equipment. Our deferred revenue balance at September 29, 2019 increased to $481 million, as compared to $449 million as of June 30, 2019. Our deferred revenue balance does not include system shipments to customers in Japan, for which title does not transfer until customer acceptance. Shipments to customers in Japan are classified as inventory at cost until the time of acceptance. The estimated future revenue value from shipments to customers in Japan was approximately $47 million as of September 29, 2019, and $78 million as of June 30, 2019.
-
-
-
-
-
-
-
+Revenue for the September 2019 quarter decreased 8% and 7% from the June 2019 and September 2018 quarters, respectively, reflecting lower customer demand for semiconductor equipment.
+Our deferred revenue balance at September 29, 2019 increased to $481 million, as compared to $449 million as of June 30, 2019.
+Our deferred revenue balance does not include system shipments to customers in Japan, for which title does not transfer until customer acceptance.
+Shipments to customers in Japan are classified as inventory at cost until the time of acceptance.
+The estimated future revenue value from shipments to customers in Japan was approximately $47 million as of September 29, 2019, and $78 million as of June 30, 2019.
 Gross Margin
-
-
-
-
-
-Gross margin as a percentage of revenue was lower in the September 2019 quarter compared to the June 2019 quarter primarily due to customer and product mix. The slight decrease in gross margin as a percentage of revenue in the September 2019 quarter compared to the September 2018 quarter is primarily due to lower factory utilization, partially offset by changes in customer and product mix, and lower amortization expense related to intangibles acquired through business combinations. 
-
-
-
+Gross margin as a percentage of revenue was lower in the September 2019 quarter compared to the June 2019 quarter primarily due to customer and product mix.
+The slight decrease in gross margin as a percentage of revenue in the September 2019 quarter compared to the September 2018 quarter is primarily due to lower factory utilization, partially offset by changes in customer and product mix, and lower amortization expense related to intangibles acquired through business combinations.
 Research and Development
-
-
-
-
-
-
-
 Selling, General, and Administrative
-
-
-
-
-
-
-
-
-
 Other Expense, Net
-
-
-
-
-
-
-
-Interest income decreased in the September 2019 quarter compared to the June 2019 quarter as a result of lower cash balances and lower yield. Interest income increased compared to the September 2018 quarter as a result of higher cash balances and higher yield.
-
-
-
-Interest expense decreased in the September 2019 quarter compared to the June 2019 quarter primarily due to the pay down of commercial paper under our CP Program. Interest expense increased in the September 2019 quarter compared to the September 2018 quarter due to the March 2019 issuance of $2.5 billion of senior notes. 
-
-
-
-Changes in the market value of securities in the portfolio drove the noted variability in the gains and losses on assets related to obligations under our deferred compensation plan. 
-
-
-
+Interest income decreased in the September 2019 quarter compared to the June 2019 quarter as a result of lower cash balances and lower yield.
+Interest income increased compared to the September 2018 quarter as a result of higher cash balances and higher yield.
+Interest expense decreased in the September 2019 quarter compared to the June 2019 quarter primarily due to the pay down of commercial paper under our CP Program.
+Interest expense increased in the September 2019 quarter compared to the September 2018 quarter due to the March 2019 issuance of $2.5 billion of senior notes.
+Changes in the market value of securities in the portfolio drove the noted variability in the gains and losses on assets related to obligations under our deferred compensation plan.
 Foreign exchange fluctuations are primarily due to currency movements against portions of our unhedged balance sheet exposures.
-
-
-
 Other, net increased in the September 2019 quarter compared to the June 2019 and September 2018 quarters due to investments unrelated to cash and marketable securities.
-
-
-
 Income Tax Expense
-
-
-
-
-
-
-
 The effective tax rate for the September 2019 quarter compared to the June 2019 quarter remained consistent.
-
-
-
 The increase in the effective tax rate for the September 2019 quarter compared to the September 2018 quarter was primarily due to the favorable impact of the Global Intangible Low-Taxed Income (“GILTI”) deferred policy election, offset by the adjustment to U.S. tax reform mandated one-time transition tax under Staff Accounting Bulletin (“SAB”) 118 in the September 2018 quarter.
-
-
-
-International revenues account for a significant portion of our total revenues, such that a material portion of our pre-tax income is earned and taxed outside the United States. Due to the GILTI provisions, international pre-tax income is taxable in the United States at a lower effective tax rate than the federal statutory tax rate. Please refer to Note 7, “Income Taxes,” to our Consolidated Financial Statements in Part II, Item 8 of our 2019 Form 10-K for additional information.
-
-
-
+International revenues account for a significant portion of our total revenues, such that a material portion of our pre-tax income is earned and taxed outside the United States.
+Due to the GILTI provisions, international pre-tax income is taxable in the United States at a lower effective tax rate than the federal statutory tax rate.
+Please refer to Note 7, “Income Taxes,” to our Consolidated Financial Statements in Part II, Item 8 of our 2019 Form 10-K for additional information.
 Uncertain Tax Positions
-
-
-
-We re-evaluate uncertain tax positions on a quarterly basis. This evaluation is based on factors including, but not limited to, changes in facts or circumstances, changes in tax law, effectively settled issues under audit, and new audit activity. Any change in recognition or measurement would result in the recognition of a tax benefit or an additional charge to the tax provision.
-
-
-
+We re-evaluate uncertain tax positions on a quarterly basis.
+This evaluation is based on factors including, but not limited to, changes in facts or circumstances, changes in tax law, effectively settled issues under audit, and new audit activity.
+Any change in recognition or measurement would result in the recognition of a tax benefit or an additional charge to the tax provision.
 CRITICAL ACCOUNTING POLICIES AND ESTIMATES
-
-
-
-
-
 •the recognition and valuation of revenue from arrangements with multiple performance obligations which impacts revenue;
-
-
-
 •the valuation of inventory, which impacts gross margin;
-
-
-
 •the valuation of warranty reserves, which impacts gross margin;
-
-
-
 •the recognition and measurement of current and deferred income taxes, including the measurement of uncertain tax positions, which impact our provision for income tax expenses; and
-
-
-
 •the valuation and recoverability of long-lived assets, which impacts gross margin and operating expenses when we record asset impairments or accelerate their depreciation or amortization.
-
-
-
-We believe that the following critical accounting policies reflect the more significant judgments and estimates used in the preparation of our condensed consolidated financial statements regarding the critical accounting estimates indicated above. 
-
-
-
-
-
-
-
-Identify the performance obligations in the contract. Performance obligations include sales of systems, spare parts, and services. In addition, our customer contracts contain provisions for installation and training services which have been deemed immaterial in the context of the contract.
-
-
-
-Determine the transaction price. The transaction price for our contracts with customers consists of both fixed and variable consideration provided it is probable that a significant reversal of revenue will not occur when the uncertainty related to variable consideration is resolved. Fixed consideration includes amounts to be contractually billed to the customer while variable consideration includes estimates for discounts and credits for future usage which are based on contractual terms outlined in volume purchase agreements and other factors known at the time. We generally invoice customers at shipment and for professional services either as provided or upon meeting certain milestones. Customer invoices are generally due within 30 to 90 days after issuance. Our contracts with customers typically do not include significant financing components as the period between the transfer of performance obligations and timing of payment are generally within one year.
-
-
-
-Allocate the transaction price to the performance obligations in the contract. For contracts that contain multiple performance obligations, we allocate the transaction price to the performance obligations on a relative standalone selling price basis. Standalone selling prices are based on multiple factors including, but not limited to historical discounting trends for products and services and pricing practices in different geographies.
-
-
-
-Recognize revenue when or as we satisfy a performance obligation. Revenue for systems and spares are recognized at a point in time, which is generally upon shipment or delivery. Revenue from services is recognized over time as services are completed or ratably over the contractual period of generally one year or less.
-
-
-
-
-
-
-
-
-
-We recognize the benefit from a tax position only if it is more likely than not that the position will be sustained upon audit based solely on the technical merits of the tax position. Our policy is to include interest and penalties related to unrecognized tax benefits as a component of income tax expense.
-
-
-
-
-
-The process of evaluating the potential impairment of goodwill is subjective and requires significant judgment at many points during the analysis. We determine the fair value of our reporting units by using an income approach. Under the income approach, we determine fair value based on estimated future cash flows of each reporting unit, discounted by an estimated weighted-average cost of capital, which reflects the overall level of inherent risk of a reporting unit and the rate of return an outside investor would expect to earn.
-
-
-
-In estimating the fair value of a reporting unit, we make estimates and judgments about the future cash flows of our reporting units, including estimated growth rates and assumptions about the economic environment. Although our cash flow forecasts are based on assumptions that are consistent with the plans and estimates we are using to manage the underlying businesses, there is significant judgment involved in determining the cash flows attributable to a reporting unit. In addition, we make certain judgments about allocating shared assets to the estimated balance sheets of our reporting units. Changes in judgment on these assumptions and estimates could result in a goodwill impairment charge.
-
-
-
-
-
-For other long-lived assets, we routinely consider whether indicators of impairment are present. If such indicators are present, we determine whether the sum of the estimated undiscounted cash flows attributable to the assets is less than their carrying value. If the sum is less, we recognize an impairment loss based on the excess of the carrying amount of the assets over their respective fair values. Fair value is determined by discounted future cash flows, appraisals or other methods. We recognize an impairment charge to the extent the present value of anticipated net cash flows attributable to the asset are less than the asset’s carrying value. The fair value of the asset then becomes the asset’s new carrying value, which we depreciate over the remaining estimated useful life of the asset. Assets to be disposed of are reported at the lower of the carrying amount or fair value. 
-
-
-
+We believe that the following critical accounting policies reflect the more significant judgments and estimates used in the preparation of our condensed consolidated financial statements regarding the critical accounting estimates indicated above.
+Identify the performance obligations in the contract.
+Performance obligations include sales of systems, spare parts, and services.
+In addition, our customer contracts contain provisions for installation and training services which have been deemed immaterial in the context of the contract.
+Determine the transaction price.
+The transaction price for our contracts with customers consists of both fixed and variable consideration provided it is probable that a significant reversal of revenue will not occur when the uncertainty related to variable consideration is resolved.
+Fixed consideration includes amounts to be contractually billed to the customer while variable consideration includes estimates for discounts and credits for future usage which are based on contractual terms outlined in volume purchase agreements and other factors known at the time.
+We generally invoice customers at shipment and for professional services either as provided or upon meeting certain milestones.
+Customer invoices are generally due within 30 to 90 days after issuance.
+Our contracts with customers typically do not include significant financing components as the period between the transfer of performance obligations and timing of payment are generally within one year.
+Allocate the transaction price to the performance obligations in the contract.
+For contracts that contain multiple performance obligations, we allocate the transaction price to the performance obligations on a relative standalone selling price basis.
+Standalone selling prices are based on multiple factors including, but not limited to historical discounting trends for products and services and pricing practices in different geographies.
+Recognize revenue when or as we satisfy a performance obligation.
+Revenue for systems and spares are recognized at a point in time, which is generally upon shipment or delivery.
+Revenue from services is recognized over time as services are completed or ratably over the contractual period of generally one year or less.
+We recognize the benefit from a tax position only if it is more likely than not that the position will be sustained upon audit based solely on the technical merits of the tax position.
+Our policy is to include interest and penalties related to unrecognized tax benefits as a component of income tax expense.
+The process of evaluating the potential impairment of goodwill is subjective and requires significant judgment at many points during the analysis.
+We determine the fair value of our reporting units by using an income approach.
+Under the income approach, we determine fair value based on estimated future cash flows of each reporting unit, discounted by an estimated weighted-average cost of capital, which reflects the overall level of inherent risk of a reporting unit and the rate of return an outside investor would expect to earn.
+In estimating the fair value of a reporting unit, we make estimates and judgments about the future cash flows of our reporting units, including estimated growth rates and assumptions about the economic environment.
+Although our cash flow forecasts are based on assumptions that are consistent with the plans and estimates we are using to manage the underlying businesses, there is significant judgment involved in determining the cash flows attributable to a reporting unit.
+In addition, we make certain judgments about allocating shared assets to the estimated balance sheets of our reporting units.
+Changes in judgment on these assumptions and estimates could result in a goodwill impairment charge.
+For other long-lived assets, we routinely consider whether indicators of impairment are present.
+If such indicators are present, we determine whether the sum of the estimated undiscounted cash flows attributable to the assets is less than their carrying value.
+If the sum is less, we recognize an impairment loss based on the excess of the carrying amount of the assets over their respective fair values.
+Fair value is determined by discounted future cash flows, appraisals or other methods.
+We recognize an impairment charge to the extent the present value of anticipated net cash flows attributable to the asset are less than the asset’s carrying value.
+The fair value of the asset then becomes the asset’s new carrying value, which we depreciate over the remaining estimated useful life of the asset.
+Assets to be disposed of are reported at the lower of the carrying amount or fair value.
 Recent Accounting Pronouncements
-
-
-
 For a description of recent accounting pronouncements, including the expected dates of adoption and estimated effects, if any, on our condensed consolidated financial statements, see Note 2 - Recent Accounting Pronouncements, of our Condensed Consolidated Financial Statements, included in Part 1 of this Form 10-Q.
-
-
-
 LIQUIDITY AND CAPITAL RESOURCES
-
-
-
-Total gross cash, cash equivalents, investments, and restricted cash and investments balances were $5.8 billion at September 29, 2019 compared to $5.7 billion as of June 30, 2019. This increase was primarily the result of $464.0 million of cash generated from operating activities, partially offset by approximately $158.9 million of dividends paid to shareholders, $78.1 million of share repurchases, including net share settlement on employee stock-based compensation, $39.3 million of capital expenditures, and $29.0 million of debt reductions. 
-
-
-
+Total gross cash, cash equivalents, investments, and restricted cash and investments balances were $5.8 billion at September 29, 2019 compared to $5.7 billion as of June 30, 2019.
+This increase was primarily the result of $464.0 million of cash generated from operating activities, partially offset by approximately $158.9 million of dividends paid to shareholders, $78.1 million of share repurchases, including net share settlement on employee stock-based compensation, $39.3 million of capital expenditures, and $29.0 million of debt reductions.
 Cash Flow from Operating Activities
-
-
-
-
-
-
-
-
-
 Cash Flow from Investing Activities
-
-
-
 Net cash provided by investing activities during the three months ended September 29, 2019, was $750.7 million, primarily consisting of net sales of available-for-sale securities of $790.5 million, partially offset by capital expenditures of $39.3 million.
-
-
-
 Cash Flow from Financing Activities
-
-
-
 Net cash used for financing activities during the three months ended September 29, 2019, was $262.1 million, primarily consisting of $158.9 million in dividends paid, $78.1 million in treasury stock repurchases, and $29.0 million of cash paid for debt repayment.
-
-
-
 Liquidity
-
-
-
-
-
-Under certain circumstances, our 2041 Notes may be converted and settled in cash and shares of our Common Stock. During the three months ended September 29, 2019, approximately $28.1 million principal value of convertible 2041 Notes were converted and in the subsequent period through October 25, 2019, we received notice of conversion of an additional $7.3 million principal value of 2041 Notes, which will settle in the quarter ending December 29, 2019. We expect to have sufficient levels of cash, cash equivalents, and short term investments to fund the near-term settlement of these Convertible Notes.
-
-
-
-In the longer term, liquidity will depend to a great extent on our future revenues and our ability to appropriately manage our costs based on demand for our products and services. While we have substantial cash balances, we may require additional funding and need or choose to raise the required funds through borrowings or public or private sales of debt or equity securities. We believe that, if necessary, we will be able to access the capital markets on terms and in amounts adequate to meet our objectives. However, given the possibility of changes in market conditions or other occurrences, there can be no assurance that such funding will be available in needed quantities or on terms favorable to us.
-
-
-
+Under certain circumstances, our 2041 Notes may be converted and settled in cash and shares of our Common Stock.
+During the three months ended September 29, 2019, approximately $28.1 million principal value of convertible 2041 Notes were converted and in the subsequent period through October 25, 2019, we received notice of conversion of an additional $7.3 million principal value of 2041 Notes, which will settle in the quarter ending December 29, 2019.
+We expect to have sufficient levels of cash, cash equivalents, and short term investments to fund the near-term settlement of these Convertible Notes.
+In the longer term, liquidity will depend to a great extent on our future revenues and our ability to appropriately manage our costs based on demand for our products and services.
+While we have substantial cash balances, we may require additional funding and need or choose to raise the required funds through borrowings or public or private sales of debt or equity securities.
+We believe that, if necessary, we will be able to access the capital markets on terms and in amounts adequate to meet our objectives.
+However, given the possibility of changes in market conditions or other occurrences, there can be no assurance that such funding will be available in needed quantities or on terms favorable to us.
 ITEM 2.Unregistered Sales of Equity Securities and Use of Proceeds
-
-
-
 Repurchases of Company Shares
-
-
-
-In November 2018, the Board of Directors authorized management to repurchase up to an additional $5.0 billion of Common Stock on such terms and conditions as it deems appropriate. These repurchases can be conducted on the open market or as private purchases and may include the use of derivative contracts with large financial institutions, in all cases subject to compliance with applicable law. This repurchase program has no termination date and may be suspended or discontinued at any time. Funding for this share repurchase program may be through a combination of cash on hand, cash generation, and borrowings. As of September 29, 2019, we have purchased approximately $2.0 billion of shares under this authorization, $0.5 billion via open market trading and $1.5 billion utilizing accelerated share repurchase arrangements.
-
-
-
-
-
-
-
-
-
+In November 2018, the Board of Directors authorized management to repurchase up to an additional $5.0 billion of Common Stock on such terms and conditions as it deems appropriate.
+These repurchases can be conducted on the open market or as private purchases and may include the use of derivative contracts with large financial institutions, in all cases subject to compliance with applicable law.
+This repurchase program has no termination date and may be suspended or discontinued at any time.
+Funding for this share repurchase program may be through a combination of cash on hand, cash generation, and borrowings.
+As of September 29, 2019, we have purchased approximately $2.0 billion of shares under this authorization, $0.5 billion via open market trading and $1.5 billion utilizing accelerated share repurchase arrangements.
 Accelerated Share Repurchase Agreements
-
-
-
-On June 4, 2019, we entered into four separate accelerated share repurchase agreements (collectively, the "June 2019 ASR") with two financial institutions to repurchase a total of $750 million of Common Stock. We took an initial delivery of approximately 3.1 million shares, which represented 75% of the prepayment amount divided by our closing stock price on June 4, 2019. The total number of shares received under the June 2019 ASR will be based upon the average daily volume weighted average price of our Common Stock during the repurchase period, less an agreed upon discount. Final settlement of the June 2019 ASR will occur no later than November 20, 2019.
-
-
-
+On June 4, 2019, we entered into four separate accelerated share repurchase agreements (collectively, the "June 2019 ASR") with two financial institutions to repurchase a total of $750 million of Common Stock.
+We took an initial delivery of approximately 3.1 million shares, which represented 75% of the prepayment amount divided by our closing stock price on June 4, 2019.
+The total number of shares received under the June 2019 ASR will be based upon the average daily volume weighted average price of our Common Stock during the repurchase period, less an agreed upon discount.
+Final settlement of the June 2019 ASR will occur no later than November 20, 2019.

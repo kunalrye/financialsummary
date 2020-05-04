@@ -1,690 +1,281 @@
-Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.  
-
-
-
-This section and other parts of this Form 10-Q contain forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995, that involve risks and uncertainties. Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact. Forward-looking statements also can be identified by words such as “future,” “anticipates,” “believes,” “estimates,” “expects,” “intends,” “will,” “would,” “could,” “can,” “may,” and similar terms. Forward-looking statements are not guarantees of future performance and the actual results of NetApp, Inc. (“we,” “us,” or the “Company”) may differ significantly from the results discussed in the forward-looking statements. Factors that might cause such differences include, but are not limited to, those discussed in Part II, Item 1A of this Form 10-Q under the heading “Risk Factors,” which are incorporated herein by reference. The following discussion should be read in conjunction with our consolidated financial statements as of and for the fiscal year ended April 27, 2018, and the notes thereto, contained in our Annual Report on Form 10-K, and the condensed consolidated financial statements and notes thereto included elsewhere in this Form 10-Q. We assume no obligation to revise or update any forward-looking statements for any reason, except as required by law. 
-
-
-
-
-
-Overview  
-
-
-
-Our Company 
-
-
-
-We are the data authority for the hybrid cloud. Digital transformation remains top of mind for executives. In order to successfully digitally transform, data must become the lifeblood of an organization and be used as a business accelerator. Data-driven digital transformations accelerate business outcomes. Together with our partners, we empower global organizations to unleash the full potential of their data to enable new customer touchpoints, create innovative business opportunities and optimize operations. 
-
-
-
-NetApp delivers a Data Fabric built for the data-driven world. Our Data Fabric simplifies and integrates data management across clouds and on-premises to accelerate digital transformation, enabling our customers to manage, secure and protect their data at the scale needed to accommodate the exponential data growth of the digital world. It delivers integrated data management services and applications for data visibility and insights, data access and control, and data protection and security. 
-
-
-
-We focus on delivering an exceptional customer experience to become our customers’ preferred data partner. NetApp’s unique approach to managing data holistically enables organizations to inspire innovation with the cloud, build clouds to accelerate new services, and modernize IT architecture with cloud-connected flash.  
-
-
-
-
-
-•  
-
-
-
-Continually fuel business growth by delivering data-rich customer experiences through new application deployments that easily use data and services regardless of where they reside or in what form.  
-
-
-
-•  
-
-
-
-Accelerate digital transformation by developing a next-generation, cloud-architected infrastructure that manages data and services as one integrated resource supporting both public and private clouds. 
-
-
-
-•  
-
-
-
-Free the resources necessary to fund transformation by deploying the industry’s leading flash storage solution, which is highly efficient and scales from the edge to the core to the cloud. 
-
-
-
-Customers are attracted by the speed and scale benefits of the public cloud but need new data management capabilities to keep control of data as it moves beyond the walls of the enterprise. NetApp believes the hybrid cloud is fast becoming the dominant model for enterprise IT. Whether an organization is targeting an all-cloud, hybrid cloud, or multi-cloud strategy, NetApp Cloud Data Services accelerate the time it takes to deploy or develop an application by making the data requirements seamless to the application layer. 
-
-
-
-Budget constraints and skill imbalances lead our customers to seek help in integrating, deploying and managing the solutions they need to stay competitive. This drives demand for converged and hyper-converged infrastructure solutions. FlexPod is the converged infrastructure of choice for many of the largest enterprises around the globe. Customers can break free from the limits of first-generation HCI with NetApp HCI and attain guaranteed performance with high levels flexibility, scale, automation, and integration with the Data Fabric. 
-
-
-
-Flash plays a key role in customers’ digital transformation efforts as they seek to gain advantage through greater speed, responsiveness and value from key business applications - all while lowering total cost of ownership. All-flash array technology is the de facto choice for primary application workloads as customers seek performance and economic benefits from replacing hard disk installations. With a highly differentiated and broad portfolio of all-flash and hybrid array offerings, NetApp is well positioned to enable customers to accomplish this transition. 
-
-
-
-To provide visibility into our transition from older products to our newer, higher growth products and clarity into the dynamics of our product revenue, we have historically grouped our products by “Strategic” and “Mature” solutions. Strategic solutions include Clustered ONTAP, branded E-Series, SolidFire, converged and hyper-converged infrastructure, enterprise software license agreements (ELAs) and other optional add-on software products. Mature solutions include 7-mode ONTAP, add-on hardware and related operating system (OS) software and original equipment manufacturers (OEM) products. Both our Mature and Strategic product lines include a mix of disk, hybrid and all flash storage media. 
-
-
-
-Additionally, we provide a variety of services including software maintenance, hardware maintenance and other services including professional services, global support solutions, and customer education and training to help customers most effectively manage their data. Revenues generated by our Cloud Data Services offerings are included in software maintenance revenues. 
-
-
-
-
-
-Financial Results and Key Performance Metrics Overview  
-
-
-
-
-
-
-
-
-
-Stock Repurchase Program and Dividend Activity 
-
-
-
-During the first six months of fiscal 2019, we repurchased 14 million shares of our common stock at an average price of $77.94 per share, for an aggregate of $1,061 million. We also declared aggregate cash dividends of $0.80 per share in that period, for which we paid an aggregate of $207 million. 
-
-
-
-Adoption of Revenue Accounting Standard 
-
-
-
-As of the beginning of fiscal 2019, we adopted the new accounting standard Revenue from Contracts with Customers (ASC 606) using the full retrospective method of adoption. Accordingly, our prior period condensed consolidated financial statements and supplementary data, as presented herein, have been restated to conform to the new rules. As illustrated in Note 5 – Revenue of the Notes to Condensed Consolidated Financial Statements, the overall impact of adoption was not significant to prior periods. However, application of the new rules to our ELAs resulted in approximately $20 million and $110 million of product revenues for such arrangements in the second quarter and first six months of fiscal 2019, respectively, that are incremental to the amounts we would have recognized under the old standard. Under ASC 606, we recognize the software license fee component of our ELAs up-front, whereas under the prior rules the software license fee was recognized over the term of the ELA. 
-
-
-
-Critical Accounting Policies and Estimates  
-
-
-
-Our condensed consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America, which require management to make judgments, estimates and assumptions that affect the reported amounts of assets, liabilities, net revenues and expenses, and the disclosure of contingent assets and liabilities. Our estimates are based on historical experience and various other assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities. We believe that the accounting estimates employed and the resulting balances are reasonable; however, actual results may differ from these estimates and such differences may be material.  
-
-
-
-The summary of our significant accounting policies is included under Item 7 – Management’s Discussion and Analysis of Financial Condition and Results of Operations of our fiscal 2018 Form 10-K. An accounting policy is deemed to be critical if it requires an accounting estimate to be made based on assumptions about matters that are highly uncertain at the time the estimate is made, if different estimates reasonably could have been used, or if changes in the estimate that are reasonably possible could materially impact the financial statements. There have been no material changes to the critical accounting policies and estimates as filed in such report, except with respect to revenue recognition as a result of the adoption of ASC 606 in the first quarter of fiscal 2019. Refer to Note 5 – Revenue of the Notes to Condensed Consolidated Financial Statements for details.  
-
-
-
-New Accounting Standards  
-
-
-
-See Note 2 – Recent Accounting Standards Not Yet Effective of the Notes to Condensed Consolidated Financial Statements for a full description of new accounting pronouncements, including the respective expected dates of adoption and effects on our financial statements.  
-
-
-
-
-
-Results of Operations  
-
-
-
-Our fiscal year is reported as a 52- or 53-week year that ends on the last Friday in April. Fiscal years 2019 and 2018 are each 52-week years, with 13 weeks in each of their quarters. Unless otherwise stated, references to particular years, quarters, months and periods refer to the Company’s fiscal years ended in April and the associated quarters, months and periods of those fiscal years. 
-
-
-
-
-
-
-
-Percentages may not add due to rounding 
-
-
-
-Discussion and Analysis of Results of Operations  
-
-
-
-Overview  
-
-
-
-Net revenues for the second quarter and first six months of fiscal 2019 were $1,517 million and $2,991 million, respectively, reflecting an increase of $102 million, or 7%, and $255 million, or 9%, respectively, compared to the corresponding periods of the prior year, reflecting higher product revenues. 
-
-
-
-Gross profit as a percentage of net revenues for the second quarter increased by half of one percentage point compared to the corresponding period in fiscal 2018, and increased almost two percentage points in the first six months of fiscal 2019 when compared to the corresponding period in fiscal 2018, primarily reflecting higher margins on product revenues. Gross profit margins on product revenues increased one and a half percentage points in the second quarter of fiscal 2019 and four percentage points in the first six months of fiscal 2019 compared to the corresponding periods of fiscal 2018, primarily reflecting high margins on revenue recognized during the current year periods related to the software license components of several ELAs, and, to a lesser extent, higher average selling prices (ASPs).  
-
-
-
-Sales and marketing, research and development, and general and administrative expenses for the second quarter and the first six months of fiscal 2019 totaled $688 million, or 45% of net revenues and $1,378 million, or 46% of net revenues, respectively, representing a decrease of three percentage points and four percentage points when compared to the second quarter and the first six months of fiscal 2019, respectively, primarily due to higher net revenues in the current year periods. 
-
-
-
-
-
-
-
-
-
-The increase in net revenues for the second quarter and first six months of fiscal 2019 compared to the corresponding periods of fiscal 2018 was primarily due to an increase in product revenues of $94 million and $242 million, respectively. Product revenues as a percentage of net revenues increased two percentage points and three percentage points in the second quarter and first six months of fiscal 2019, respectively, compared to the corresponding periods of fiscal 2018. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Product revenues from strategic solutions represented 71% of product revenues in the second quarter and first six months of fiscal 2019, compared to 69% in the corresponding periods of the prior year. Product revenues from mature solutions represented 29% of product revenues in the second quarter and first six months of fiscal 2019, compared to 31% in the corresponding periods of the prior year. 
-
-
-
-Total product revenues from strategic solutions totaled $649 million in the second quarter of fiscal 2019 reflecting a 15% increase from $566 million in the second quarter of fiscal 2018. Total product revenues from strategic solutions totaled $1,261 million in the first six months of fiscal 2019 reflecting a 19% increase from $1,064 million in the first six months of fiscal 2018. Contributing to these increases was over $20 million and $110 million of revenues from the software license component of several ELAs in the second quarter and first six months of fiscal 2019, respectively, which, under ASC 606, were recognized up-front. There were no comparable ELAs in the second quarter or first six months of fiscal 2018. Revenues generated from the sale of optional add-on software, unrelated to ELAs, also increased in the second quarter and first six months of fiscal 2019 compared to the corresponding periods of the prior year. 
-
-
-
-Total product revenue from mature solutions totaled $264 million in the second quarter of fiscal 2019 reflecting a 4% increase from $253 million in the second quarter of fiscal 2018. Total product revenue from mature solutions totaled $527 million in the first six months of fiscal 2019 reflecting a 9% increase from $482 million in the first six months of fiscal 2018. These increases are primarily due to an increase in add-on hardware, storage and related OS revenues of 11% and 14% in the second quarter and first six months of fiscal 2019, respectively, compared to the corresponding periods of prior year. Additionally, OEM revenues increased by 6% and 25% in the second quarter and first six months of fiscal 2019, respectively, compared to the corresponding periods of the prior year. These increases were partially offset by our discontinuation of the 7-mode systems in the first quarter of fiscal 2019, reflecting the movement of customers to our newer products.  
-
-
-
-
-
-
-
-
-
-Software maintenance revenues are associated with contracts which entitle customers to receive unspecified product upgrades and enhancements on a when-and-if-available basis, bug fixes and patch releases, as well as internet and telephone access to technical support personnel located in our global support centers. 
-
-
-
-The fluctuations in software maintenance revenues reflect fluctuations in the aggregate contract value of the installed base under software maintenance contracts, which is recognized as revenue ratably over the terms of the underlying contracts.  
-
-
-
-
-
-
-
-Hardware maintenance and other services revenues include hardware maintenance, professional services, and educational and training services revenues.  
-
-
-
-Hardware maintenance contract revenues were relatively flat year over year, at $303 million and $606 million, respectively, for the second quarter and first six months of fiscal 2019, compared to $306 million and $604 million, respectively, for the corresponding periods of the prior year.  
-
-
-
-Professional services and educational and training services revenues were $65 million and $132 million, respectively, for the second quarter and first six months of fiscal 2019, compared to $66 million and $139 million, respectively, for the corresponding periods of the prior year.  
-
-
-
-
-
-
-
-Percentages may not add due to rounding 
-
-
-
-Americas revenues consist of sales to Americas commercial and U.S. public sector markets. Our geographic distribution of revenues as a percentage of net revenues was relatively consistent in the second quarter and first six months of fiscal 2019 compared to the corresponding periods of fiscal 2018. 
-
-
-
-Cost of Revenues  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Cost of product revenues represented 47% and 46% of product revenues for the second quarter and first six months of fiscal 2019, respectively, compared to 48% and 50% for the corresponding periods of fiscal 2018. Materials costs represented 91% and 89% of product costs for the second quarter and first six months of fiscal 2019, respectively, compared to 91% and 90% in the corresponding periods of fiscal 2018. 
-
-
-
-Materials costs increased $31 million and $47 million in the second quarter and first six months of fiscal 2019, respectively, compared to the corresponding periods of the prior year, primarily due to higher unit volumes of certain products.  
-
-
-
-Average unit materials costs for Clustered ONTAP systems increased by 12% and 13% in the second quarter and first six months of fiscal 2019, respectively, compared to the corresponding periods of the prior year. 
-
-
-
-Margins on revenue recognized for strategic solutions were higher during the second quarter and first six months of fiscal 2019 compared to the corresponding periods of fiscal 2018 primarily as a result of the benefit of high margins realized on the software license components of several ELAs, and, to a lesser extent, higher ASPs. Margins for mature products increased slightly in the second quarter and first six months of fiscal 2019 compared to the corresponding periods of the prior year. 
-
-
-
-
-
-
-
-Cost of software maintenance revenues in dollars was relatively flat in the second quarter and first six months of fiscal 2019 compared to the corresponding periods of fiscal 2018 and represented 3% of software maintenance revenues for both periods. 
-
-
-
-
-
-
-
-Cost of hardware maintenance and other services revenues decreased by $5 million, or 4%, and $13 million, or 6%, respectively, for the second quarter and first six months of fiscal 2019 compared to the corresponding periods of fiscal 2018, primarily due to the favorable impact of cost savings initiatives. Costs represented 29% of hardware maintenance and other services revenues in the second quarter and first six months of fiscal 2019, compared to 30% in the second quarter and first six months of fiscal 2018. 
-
-
-
-Operating Expenses  
-
-
-
-Sales and Marketing, Research and Development and General and Administrative Expenses  
-
-
-
-Compensation costs represent the largest component of operating expenses. Included in compensation costs are salaries, benefits, other compensation-related costs, stock-based compensation expense and employee incentive compensation plan costs.  
-
-
-
-Total compensation costs included in operating expenses increased by $5 million and $10 million in the second quarter and first six months of fiscal 2019, respectively, compared to the corresponding periods of the prior year, each representing an increase of 1%. Stock-based compensation expenses decreased slightly in the current year, while the other components of compensation costs increased slightly. Average headcount was relatively flat in each period. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Compensation costs decreased for the second quarter and first six months of fiscal 2019 compared to the corresponding periods of the prior year, reflecting a 2% decrease in average headcount in each of the current year periods. Facilities and IT support costs decreased in fiscal 2019 primarily due to cost containment efforts. Commissions expense was relatively consistent in each of the respective comparative periods. 
-
-
-
-
-
-
-
-
-
-
-
-The increase in compensation costs for the second quarter and first six months of fiscal 2019 compared to the corresponding periods in the prior year was attributable to an increase in average headcount of 6% and 7%, respectively, resulting in higher salaries, benefits and incentive compensation expense, partially offset by slightly lower stock-based compensation expense. The increase in headcount reflects our investment in additional engineering resources to support the expansion and enhancement of products and solutions targeted at our most important customer and market opportunities. Development projects and outside services for the second quarter and first six months of fiscal 2019 increased as a result of higher spending on materials and services associated with engineering activities to develop new products and enhance existing ones.  
-
-
-
-
-
-
-
-
-
-
-
-
-
-The increase in compensation costs for the second quarter and first six months of fiscal 2019 compared to the corresponding periods of the prior year was attributable to a slight increase in average headcount, while the increase in facilities and IT support costs was primarily due to higher spending levels on IT projects. The decrease in professional and legal fees and outside services expense in the second quarter and the first six months of fiscal 2019 was primarily due to the lower spending levels on projects.  
-
-
-
-
-
-
-
-NM – Not Meaningful 
-
-
-
-In the first quarter of fiscal 2019, we announced a restructuring plan (the May 2018 Plan) to reduce costs and redirect resources to our highest return activities, which included a reduction in our global workforce of less than 2%. Charges related to the plan consisted primarily of employee severance-related costs. Substantially all activities under the plan have been completed. See Note 11 – Restructuring Charges of the Notes to Condensed Consolidated Financial Statements for more details. 
-
-
-
-Other Income, Net (in millions, except percentages) 
-
-
-
-
-
-
-
-Interest income increased in the second quarter and first six months of fiscal 2019 compared to the corresponding periods of the prior year, primarily due to a shift in our investment portfolio to higher-yielding investments, partially offset by a decrease in the size of the portfolio. Interest expense declined in the current year periods due to a reduction in the average amount of interest-bearing debt outstanding. 
-
-
-
-
-
-
-
-
-
-Our effective tax rate for the second quarter of fiscal 2019 was 17.7% compared to an effective tax rate of 21.6% for the second quarter of fiscal 2018. Our effective tax rate for the first six months of fiscal 2019 was 7.3% compared to an effective tax rate of 16.9% for the corresponding period of fiscal 2018. Our effective tax rates reflect the impact of a significant amount of our earnings, primarily income from our European operations which are headquartered in the Netherlands, being taxed in foreign jurisdictions at rates below the U.S. statutory tax rate. Our effective tax rate decreased for the second quarter of fiscal 2019 compared to the corresponding period in the prior year primarily due the reduction of the federal income tax rate under U.S. tax reform and discrete impacts related to stock-based compensation. Our effective tax rate decreased for the first six months of fiscal 2019 compared to the corresponding period in the prior year primarily due to the recognition of a $34 million discrete tax benefit for adjustments to certain intercompany transactions resulting from the retrospective application of the new revenue standard, increased discrete benefits for stock-based compensation, and the reduction in the federal income tax rate.  
-
-
-
-On December 22, 2017, the Tax Cuts and Jobs Act (“TCJA”) was enacted into law. The TCJA made significant changes to the U.S. corporate income tax system including a reduction of the U.S. federal corporate income tax rate from 35% to 21%, the imposition of a one-time transition tax on deferred foreign earnings, and the creation of new taxes on certain foreign-sourced earnings. As of October 26, 2018, we have not fully completed the accounting for the tax impacts of the TCJA. No significant adjustments to prior period estimates or positions have been made in the current period. The provisional amounts recorded are based on reasonable estimates and our current interpretation and understanding of the TCJA. The final impacts of U.S. tax reform may differ, possibly materially, due to factors such as the issuance of further regulatory guidance, changes in interpretations, and the collection and analysis of additional information. The Company is also still evaluating the effects of the TCJA’s global minimum tax on intangible low-taxed income (“GILTI”) and has not yet made an accounting policy election to either account for the tax under a period cost method or a deferred method. For the first six months ended October 26, 2018, we have accounted for the GILTI tax under a period cost method as we continue to evaluate potential impacts. In accordance with Staff Accounting Bulletin 118, we will complete the accounting of the tax effects of the TCJA within the measurement period not to extend beyond one year from the enactment date.  
-
-
-
-As of October 26, 2018, we had $356 million of gross unrecognized tax benefits. Inclusive of penalties, interest and certain income tax benefits, $306 million would affect our provision for income taxes if recognized, and $324 million has been recorded in other long-term liabilities. 
-
-
-
-We continue to monitor the progress of ongoing discussions with tax authorities and the impact, if any, of the expected expiration of the statute of limitations in various taxing jurisdictions. We believe that within the next 12 months, it is reasonably possible that either certain audits will conclude, certain statutes of limitations will lapse, or both. As a result of uncertainties regarding tax audits and their possible outcomes, an estimate of the range of possible impacts to unrecognized tax benefits in the next twelve months cannot be made at this time. 
-
-
-
-Liquidity, Capital Resources and Cash Requirements  
-
-
-
-
-
-
-
-
-
-
-
-Cash Flows  
-
-
-
-As of October 26, 2018, our cash, cash equivalents and short-term investments were $4.3 billion, a decrease of $1.1 billion from April 27, 2018. The decrease was primarily due to $1.1 billion paid for the repurchase of our common stock, $207 million used for the payment of dividends, $135 million used for the net repayment of commercial paper notes, and $107 million in purchases of property and equipment, partially offset by $491 million of cash provided by operating activities. Working capital decreased by $1.3 billion to $2.2 billion as of October 26, 2018 compared to April 27, 2018 primarily due to the decreases in cash, cash equivalents and short-term investments discussed above, and the reclassification of $400 million principal amount of our senior notes to current liabilities. 
-
-
-
-Cash Conversion Cycle 
-
-
-
-
-
-
-
-Days may not add due to rounding 
-
-
-
-
-
-Days sales outstanding, referred to as DSO, calculates the average collection period of our receivables. DSO is based on ending accounts receivable and net revenue for each period. DSO is calculated by dividing accounts receivable by average net revenue per day for the current quarter (91 days for each of the quarters presented above). DSO for the second quarter of fiscal 2019 increased compared to the corresponding period of fiscal 2018 due to one of our major distributors choosing not to take advantage of an early payment discount in the current quarter, while it decreased compared to the fourth quarter of fiscal 2018 due to lower seasonal invoicing levels and more favorable shipping linearity. 
-
-
-
-
-
-Days inventory outstanding, referred to as DIO, measures the average number of days from procurement to sale of our products. DIO is based on ending inventory and cost of revenues for each period. DIO is calculated by dividing ending inventory by average cost of revenues per day for the current quarter. DIO for the second quarter of fiscal 2019 decreased compared to the corresponding period of fiscal 2018 and the fourth quarter of fiscal 2018, primarily due to lower levels of purchased components and finished goods, respectively, on hand at the end of the current quarter.  
-
-
-
-
-
-Days payables outstanding, referred to as DPO, calculates the average number of days our payables remain outstanding before payment. DPO is based on ending accounts payable and cost of revenues for each period. DPO is calculated by dividing accounts payable by average cost of revenues per day for the current quarter. DPO for the second quarter of fiscal 2019 increased compared to the corresponding period of fiscal 2018, due to differences in the timing of purchases from and payments to our suppliers. DPO for the second quarter of fiscal 2019 decreased compared to the fourth quarter of 2018, primarily due to the timing of purchases from contract manufacturers. 
-
-
-
-
-
-The cash conversion cycle is the sum of DSO and DIO less DPO. Items which may cause the cash conversion cycle in a particular period to differ include, but are not limited to, changes in business mix, changes in payment terms (including extended payment terms from suppliers), the extent of shipment linearity, seasonal trends and the timing of revenue recognition and inventory purchases within the period. 
-
-
-
-Cash Flows from Operating Activities  
-
-
-
-During the first six months of fiscal 2019, we generated cash from operating activities of $491 million, reflecting net income of $524 million, adjusted by non-cash depreciation and amortization of $98 million, and stock-based compensation of $78 million, compared to $564 million of cash generated from operating activities during the first six months of fiscal 2018.  
-
-
-
-
-
-•  
-
-
-
-Accounts receivable decreased $269 million, reflecting lower DSO. 
-
-
-
-•  
-
-
-
-Accounts payable decreased $127 million, reflecting lower DPO. 
-
-
-
-•  
-
-
-
-Accrued expenses decreased $162 million, primarily due to employee compensation payouts related to fiscal year 2018 commissions and incentive compensation plans. 
-
-
-
-•  
-
-
-
-Deferred revenue and financed unearned services revenue decreased $129 million, primarily due to a decrease in deferred software and hardware maintenance contract revenues reflecting the seasonality of maintenance contract renewal activities. 
-
-
-
-•  
-
-
-
-Long-term taxes payable decreased $63 million, primarily due to transition taxes associated with U.S. tax reform. 
-
-
-
-We expect that cash provided by operating activities may materially fluctuate in future periods due to a number of factors, including fluctuations in our operating results, shipment linearity, accounts receivable collections performance, inventory and supply chain management, vendor payment initiatives, tax benefits or charges from stock-based compensation, and the timing and amount of compensation and other payments. 
-
-
-
-
-
-Cash Flows from Investing Activities  
-
-
-
-During the first six months of fiscal 2019, we generated $489 million from maturities and sales of investments, net of purchases, and paid $107 million for capital expenditures, compared to $48 million and $65 million, respectively, during the first six months of fiscal 2018. 
-
-
-
-Cash Flows from Financing Activities  
-
-
-
-During the first six months of fiscal 2019, we used $1.1 billion for the repurchase of fourteen million shares of our common stock, $207 million for the payment of dividends, and $135 million for the repayment of commercial paper notes, net, compared to $300 million used for the repurchase of seven million shares of common stock, $108 million used for the payment of dividends, $218 million generated from issuances of commercial paper notes, net, and $795 million generated from the issuance of long-term debt during the first six months of fiscal 2018.  
-
-
-
-Key factors that could affect our cash flows include changes in our revenue mix and profitability, our ability to effectively manage our working capital, in particular, accounts receivable, accounts payable and inventories, the timing and amount of stock repurchases and payment of cash dividends, the impact of foreign exchange rate changes, our ability to effectively integrate acquired products, businesses and technologies and the timing of repayments of our debt. Based on past performance and our current business outlook, we believe that our sources of liquidity, including potential future issuances of debt, equity or other securities, will satisfy our working capital needs, capital expenditures, investment requirements, stock repurchases, cash dividends, contractual obligations, commitments, principal and interest payments on our debt and other liquidity requirements associated with operations and meet our cash requirements for at least the next 12 months. However, in the event our liquidity is insufficient, we may be required to curtail spending and implement additional cost saving measures and restructuring actions or enter into new financing arrangements. We cannot be certain that we will continue to generate cash flows at or above current levels or that we will be able to obtain additional financing, if necessary, on satisfactory terms, if at all. 
-
-
-
-Liquidity  
-
-
-
-Our principal sources of liquidity as of October 26, 2018 consisted of cash, cash equivalents and short-term investments, cash we expect to generate from operations, and our commercial paper program and related credit facility.  
-
-
-
-
-
-
-
-As of October 26, 2018 and April 27, 2018, $3.9 billion and $4.5 billion, respectively, of cash, cash equivalents and short-term investments were held by various foreign subsidiaries and were generally based in U.S. dollar-denominated holdings, while $0.4 billion and $0.9 billion, respectively, were available in the U.S. at the end of each period. The TCJA imposes a one-time transition tax on substantially all accumulated foreign earnings through December 31, 2017, and generally allows companies to make distributions of foreign earnings without incurring additional federal taxes. As a part of the provisional estimates recorded for the impacts of the TCJA, we have reviewed our projected global cash requirements and have determined that certain historical and future foreign earnings will no longer be indefinitely reinvested.  
-
-
-
-Our principal liquidity requirements are primarily to meet our working capital needs, support ongoing business activities, fund research and development, meet capital expenditure needs, invest in critical or complementary technologies, service interest and principal payments on our debt, fund our stock repurchase program, and pay dividends, as and if declared. 
-
-
-
-The principal objectives of our investment policy are the preservation of principal and maintenance of liquidity. We attempt to mitigate default risk by investing in high-quality investment grade securities, limiting the time to maturity and monitoring the counter-parties and underlying obligors closely. We believe our cash equivalents and short-term investments are liquid and accessible. We are not aware of any significant deterioration in the fair value of our cash equivalents or investments from the values reported as of October 26, 2018.  
-
-
-
-Our investment portfolio has been and will continue to be exposed to market risk due to trends in the credit and capital markets. We continue to closely monitor current economic and market events to minimize the market risk of our investment portfolio. We routinely monitor our financial exposure to both sovereign and non-sovereign borrowers and counterparties. We utilize a variety of planning and financing strategies in an effort to ensure our worldwide cash is available when and where it is needed. Based on past performance and current expectations, we believe our cash and cash equivalents, investments, cash generated from operations, and ability to access capital markets and committed credit lines will satisfy, through at least the next 12 months, our liquidity requirements, both in total  
-
-
-
-
-
-
-
-Senior Notes  
-
-
-
-
-
-
-
-Interest on the Senior Notes is payable semi-annually. For further information on the underlying terms, see Note 8 – Financing Arrangements of the Notes to Condensed Consolidated Financial Statements. 
-
-
-
-Commercial Paper Program and Credit Facility 
-
-
-
-We have a commercial paper program (the Program), under which we may issue unsecured commercial paper notes. Amounts available under the Program may be borrowed, repaid and re-borrowed, with the aggregate face or principal amount of the notes outstanding under the Program at any time not to exceed $1.0 billion. The maturities of the notes can vary, but may not exceed 397 days from the date of issue. The notes are sold under customary terms in the commercial paper market and may be issued at a discount from par or, alternatively, may be sold at par and bear interest at rates dictated by market conditions at the time of their issuance. The proceeds from the issuance of the notes are used for general corporate purposes. As of October 26, 2018, we had commercial paper notes outstanding with an aggregate principal amount of $250 million, a weighted-average interest rate of 2.45% and maturities ranging from 4 days to 31 days. 
-
-
-
-In connection with the Program, we have a senior unsecured credit agreement that expires on December 10, 2021. The credit agreement provides a $1.0 billion revolving unsecured credit facility that serves as a back-up for the Program. Proceeds from the facility may also be used for general corporate purposes, providing another potential source of liquidity to the extent that the credit facility exceeds the outstanding debt issued under the Program. The credit agreement also includes options that allow us to request an increase in the facility of up to an additional $300 million and to extend its maturity date for two additional one-year periods, both subject to certain conditions. As of October 26, 2018, we were in compliance with all associated covenants in this agreement. No amounts were drawn against this facility during any of the periods presented. 
-
-
-
-Capital Expenditure Requirements  
-
-
-
-We expect to fund our capital expenditures, including our commitments related to facilities, equipment, operating leases and internal-use software development projects over the next few years through existing cash, cash equivalents, investments and cash generated from operations. The timing and amount of our capital requirements cannot be precisely determined and will depend on a number of factors, including future demand for products, changes in the network storage industry, hiring plans and our decisions related to the financing of our facilities and equipment requirements. We anticipate capital expenditures for the remainder of fiscal 2019 to be between $100 million and $150 million.  
-
-
-
-Dividends and Stock Repurchase Program  
-
-
-
-On November 14, 2018, we declared a cash dividend of $0.40 per share of common stock, payable on January 23, 2019 to holders of record as of the close of business on January 4, 2019. 
-
-
-
-Our Board of Directors has authorized the repurchase of up to $13.6 billion of our common stock under our stock repurchase program. Under this program, we may purchase shares of our outstanding common stock through solicited or unsolicited transactions in the open market, in privately negotiated transactions, through accelerated share repurchase programs, pursuant to a Rule 10b5-1 plan or in such other manner as deemed appropriate by our management. The stock repurchase program may be suspended or discontinued at any time. Since the May 13, 2003 inception of this program through October 26, 2018, we repurchased a total of 298 million shares of our common stock at an average price of $35.87 per share, for an aggregate purchase price of $10.7 billion. As of October 26, 2018, the remaining authorized amount for stock repurchases under this program was $2.9 billion. 
-
-
-
-The timing and amount of stock repurchase transactions and future dividends will depend on market conditions, corporate business and financial considerations and regulatory requirements.  
-
-
-
-
-
-Contractual Obligations  
-
-
-
-Operating Lease Commitments  
-
-
-
-As of October 26, 2018, future annual minimum lease payments under non-cancelable operating leases with an initial term in excess of one year totaled $172 million.  
-
-
-
-Purchase Orders and Other Commitments  
-
-
-
-In the ordinary course of business, we make commitments to our third-party contract manufacturers to manage manufacturer lead times and meet product forecasts, and to other parties to purchase various key components used in the manufacture of our products. A significant portion of our reported purchase commitments arising from these agreements consists of firm, non-cancelable, and unconditional commitments. As of October 26, 2018, we had $422 million in non-cancelable purchase commitments for inventory. We record a liability for firm, non-cancelable and unconditional purchase commitments for quantities in excess of our future demand forecasts consistent with the valuation of our excess and obsolete inventory. To the extent that such forecasts are not achieved, our commitments and associated accruals may change.  
-
-
-
-In addition to inventory commitments with contract manufacturers and component suppliers, we have open purchase orders and construction related obligations associated with our ordinary course of business for which we have not received goods or services. As of October 26, 2018, we had $5 million in construction related obligations and $187 million in other purchase obligations.  
-
-
-
-Unrecognized Tax Benefits  
-
-
-
-As of October 26, 2018, our liability for uncertain tax positions was $324 million, including interest, penalties and certain income tax benefits. Due to uncertainties regarding tax audits and their possible outcomes, we are unable to make reasonably reliable estimates of the period of cash settlement with the taxing authorities. 
-
-
-
-Financing Guarantees 
-
-
-
-While most of our arrangements for sales include short-term payment terms, from time to time we provide long-term financing to creditworthy customers. We have generally sold receivables financed through these arrangements on a non-recourse basis to third party financing institutions within 10 days of the contracts’ dates of execution, and we classify the proceeds from these sales as cash flows from operating activities in our condensed consolidated statements of cash flows. We account for the sales of these receivables as “true sales” as defined in the accounting standards on transfers of financial assets, as we are considered to have surrendered control of these financing receivables. Provided all other revenue recognition criteria have been met, we recognize product revenues for these arrangements, net of any payment discounts from financing transactions, upon product acceptance. We sold $43 million and $49 million of receivables during the six months ended October 26, 2018 and October 27, 2017, respectively. 
-
-
-
-In addition, we enter into arrangements with leasing companies for the sale of our hardware systems products. These leasing companies, in turn, lease our products to end-users. The leasing companies generally have no recourse to us in the event of default by the end-user and we recognize revenue upon delivery to the end-user customer, if all other revenue recognition criteria have been met.  
-
-
-
-Some of the leasing arrangements described above have been financed on a recourse basis through third-party financing institutions. Under the terms of recourse leases, which are generally three years or less, we remain liable for the aggregate unpaid remaining lease payments to the third-party leasing companies in the event of end-user customer default. These arrangements are generally collateralized by a security interest in the underlying assets. Where we provide a guarantee for recourse leases, we recognize revenues in accordance with our revenue recognition policy, as updated to reflect the adoption of ASC 606. In connection with certain recourse financing arrangements, we receive advance payments associated with undelivered elements that are subject to customer refund rights. As of October 26, 2018 and April 28, 2017, the aggregate amount by which such contingencies exceeded the associated liabilities was not significant. To date, we have not experienced significant losses under our lease financing programs or other financing arrangements. 
-
-
-
-We have entered into service contracts with certain of our end-user customers that are supported by third-party financing arrangements. If a service contract is terminated as a result of our non-performance under the contract or our failure to comply with the terms of the financing arrangement, we could, under certain circumstances, be required to acquire certain assets related to the service contract or to pay the aggregate unpaid payments under such arrangements. As of October 26, 2018, we have not been required to make any payments under these arrangements, and we believe the likelihood of having to acquire a material amount of assets or make payments under these arrangements is remote. The portion of the financial arrangement that represents unearned services revenue is included in deferred revenue and financed unearned services revenue in our condensed consolidated balance sheets.  
-
-
-
-
-
-Indemnification Agreements 
-
-
-
-We enter into indemnification agreements with third parties in the ordinary course of business. Generally, these indemnification agreements require us to reimburse losses suffered by the third-parties due to various events, such as lawsuits arising from patent or copyright infringement. These indemnification obligations are considered off-balance sheet arrangements under accounting guidance. 
-
-
-
-Legal Contingencies  
-
-
-
-We are subject to various legal proceedings and claims which arise in the normal course of business. See further details on such matters in Note 15 – Commitments and Contingencies of the Notes to Condensed Consolidated Financial Statements. 
-
-
-
-
-
-Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.  
-
-
-
-Purchases of equity securities  
-
-
-
-
-
-
-
-
-
-In May 2003, our Board of Directors approved a stock repurchase program. As of October 26, 2018, our Board of Directors has authorized the repurchase of up to $13.6 billion of our common stock. Since inception of the program through October 26, 2018, we repurchased a total of 298 million shares of our common stock for an aggregate purchase price of $10.7 billion. Under this program, which we may suspend or discontinue at any time, we may purchase shares of our outstanding common stock through solicited or unsolicited transactions in the open market, in privately negotiated transactions, through accelerated share repurchase programs, pursuant to a Rule 10b5-1 plan or in such other manner as deemed appropriate by our management. 
-
-
-
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+This section and other parts of this Form 10-Q contain forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995, that involve risks and uncertainties.
+Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact.
+Forward-looking statements also can be identified by words such as “future,” “anticipates,” “believes,” “estimates,” “expects,” “intends,” “will,” “would,” “could,” “can,” “may,” and similar terms.
+Forward-looking statements are not guarantees of future performance and the actual results of NetApp, Inc. (“we,” “us,” or the “Company”) may differ significantly from the results discussed in the forward-looking statements.
+Factors that might cause such differences include, but are not limited to, those discussed in Part II, Item 1A of this Form 10-Q under the heading “Risk Factors,” which are incorporated herein by reference.
+The following discussion should be read in conjunction with our consolidated financial statements as of and for the fiscal year ended April 27, 2018, and the notes thereto, contained in our Annual Report on Form 10-K, and the condensed consolidated financial statements and notes thereto included elsewhere in this Form 10-Q.
+We assume no obligation to revise or update any forward-looking statements for any reason, except as required by law.
+Overview
+Our Company
+We are the data authority for the hybrid cloud.
+Digital transformation remains top of mind for executives.
+In order to successfully digitally transform, data must become the lifeblood of an organization and be used as a business accelerator.
+Data-driven digital transformations accelerate business outcomes.
+Together with our partners, we empower global organizations to unleash the full potential of their data to enable new customer touchpoints, create innovative business opportunities and optimize operations.
+NetApp delivers a Data Fabric built for the data-driven world.
+Our Data Fabric simplifies and integrates data management across clouds and on-premises to accelerate digital transformation, enabling our customers to manage, secure and protect their data at the scale needed to accommodate the exponential data growth of the digital world.
+It delivers integrated data management services and applications for data visibility and insights, data access and control, and data protection and security.
+We focus on delivering an exceptional customer experience to become our customers’ preferred data partner.
+NetApp’s unique approach to managing data holistically enables organizations to inspire innovation with the cloud, build clouds to accelerate new services, and modernize IT architecture with cloud-connected flash.
+•
+Continually fuel business growth by delivering data-rich customer experiences through new application deployments that easily use data and services regardless of where they reside or in what form.
+•
+Accelerate digital transformation by developing a next-generation, cloud-architected infrastructure that manages data and services as one integrated resource supporting both public and private clouds.
+•
+Free the resources necessary to fund transformation by deploying the industry’s leading flash storage solution, which is highly efficient and scales from the edge to the core to the cloud.
+Customers are attracted by the speed and scale benefits of the public cloud but need new data management capabilities to keep control of data as it moves beyond the walls of the enterprise.
+NetApp believes the hybrid cloud is fast becoming the dominant model for enterprise IT.
+Whether an organization is targeting an all-cloud, hybrid cloud, or multi-cloud strategy, NetApp Cloud Data Services accelerate the time it takes to deploy or develop an application by making the data requirements seamless to the application layer.
+Budget constraints and skill imbalances lead our customers to seek help in integrating, deploying and managing the solutions they need to stay competitive.
+This drives demand for converged and hyper-converged infrastructure solutions.
+FlexPod is the converged infrastructure of choice for many of the largest enterprises around the globe.
+Customers can break free from the limits of first-generation HCI with NetApp HCI and attain guaranteed performance with high levels flexibility, scale, automation, and integration with the Data Fabric.
+Flash plays a key role in customers’ digital transformation efforts as they seek to gain advantage through greater speed, responsiveness and value from key business applications - all while lowering total cost of ownership.
+All-flash array technology is the de facto choice for primary application workloads as customers seek performance and economic benefits from replacing hard disk installations.
+With a highly differentiated and broad portfolio of all-flash and hybrid array offerings, NetApp is well positioned to enable customers to accomplish this transition.
+To provide visibility into our transition from older products to our newer, higher growth products and clarity into the dynamics of our product revenue, we have historically grouped our products by “Strategic” and “Mature” solutions.
+Strategic solutions include Clustered ONTAP, branded E-Series, SolidFire, converged and hyper-converged infrastructure, enterprise software license agreements (ELAs) and other optional add-on software products.
+Mature solutions include 7-mode ONTAP, add-on hardware and related operating system (OS) software and original equipment manufacturers (OEM) products.
+Both our Mature and Strategic product lines include a mix of disk, hybrid and all flash storage media.
+Additionally, we provide a variety of services including software maintenance, hardware maintenance and other services including professional services, global support solutions, and customer education and training to help customers most effectively manage their data.
+Revenues generated by our Cloud Data Services offerings are included in software maintenance revenues.
+Financial Results and Key Performance Metrics Overview
+Stock Repurchase Program and Dividend Activity
+During the first six months of fiscal 2019, we repurchased 14 million shares of our common stock at an average price of $77.94 per share, for an aggregate of $1,061 million.
+We also declared aggregate cash dividends of $0.80 per share in that period, for which we paid an aggregate of $207 million.
+Adoption of Revenue Accounting Standard
+As of the beginning of fiscal 2019, we adopted the new accounting standard Revenue from Contracts with Customers (ASC 606) using the full retrospective method of adoption.
+Accordingly, our prior period condensed consolidated financial statements and supplementary data, as presented herein, have been restated to conform to the new rules.
+As illustrated in Note 5 – Revenue of the Notes to Condensed Consolidated Financial Statements, the overall impact of adoption was not significant to prior periods.
+However, application of the new rules to our ELAs resulted in approximately $20 million and $110 million of product revenues for such arrangements in the second quarter and first six months of fiscal 2019, respectively, that are incremental to the amounts we would have recognized under the old standard.
+Under ASC 606, we recognize the software license fee component of our ELAs up-front, whereas under the prior rules the software license fee was recognized over the term of the ELA.
+Critical Accounting Policies and Estimates
+Our condensed consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America, which require management to make judgments, estimates and assumptions that affect the reported amounts of assets, liabilities, net revenues and expenses, and the disclosure of contingent assets and liabilities.
+Our estimates are based on historical experience and various other assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities.
+We believe that the accounting estimates employed and the resulting balances are reasonable; however, actual results may differ from these estimates and such differences may be material.
+The summary of our significant accounting policies is included under Item 7 – Management’s Discussion and Analysis of Financial Condition and Results of Operations of our fiscal 2018 Form 10-K. An accounting policy is deemed to be critical if it requires an accounting estimate to be made based on assumptions about matters that are highly uncertain at the time the estimate is made, if different estimates reasonably could have been used, or if changes in the estimate that are reasonably possible could materially impact the financial statements.
+There have been no material changes to the critical accounting policies and estimates as filed in such report, except with respect to revenue recognition as a result of the adoption of ASC 606 in the first quarter of fiscal 2019.
+Refer to Note 5 – Revenue of the Notes to Condensed Consolidated Financial Statements for details.
+New Accounting Standards
+See Note 2 – Recent Accounting Standards Not Yet Effective of the Notes to Condensed Consolidated Financial Statements for a full description of new accounting pronouncements, including the respective expected dates of adoption and effects on our financial statements.
+Results of Operations
+Our fiscal year is reported as a 52- or 53-week year that ends on the last Friday in April.
+Fiscal years 2019 and 2018 are each 52-week years, with 13 weeks in each of their quarters.
+Unless otherwise stated, references to particular years, quarters, months and periods refer to the Company’s fiscal years ended in April and the associated quarters, months and periods of those fiscal years.
+Percentages may not add due to rounding
+Discussion and Analysis of Results of Operations
+Overview
+Net revenues for the second quarter and first six months of fiscal 2019 were $1,517 million and $2,991 million, respectively, reflecting an increase of $102 million, or 7%, and $255 million, or 9%, respectively, compared to the corresponding periods of the prior year, reflecting higher product revenues.
+Gross profit as a percentage of net revenues for the second quarter increased by half of one percentage point compared to the corresponding period in fiscal 2018, and increased almost two percentage points in the first six months of fiscal 2019 when compared to the corresponding period in fiscal 2018, primarily reflecting higher margins on product revenues.
+Gross profit margins on product revenues increased one and a half percentage points in the second quarter of fiscal 2019 and four percentage points in the first six months of fiscal 2019 compared to the corresponding periods of fiscal 2018, primarily reflecting high margins on revenue recognized during the current year periods related to the software license components of several ELAs, and, to a lesser extent, higher average selling prices (ASPs).
+Sales and marketing, research and development, and general and administrative expenses for the second quarter and the first six months of fiscal 2019 totaled $688 million, or 45% of net revenues and $1,378 million, or 46% of net revenues, respectively, representing a decrease of three percentage points and four percentage points when compared to the second quarter and the first six months of fiscal 2019, respectively, primarily due to higher net revenues in the current year periods.
+The increase in net revenues for the second quarter and first six months of fiscal 2019 compared to the corresponding periods of fiscal 2018 was primarily due to an increase in product revenues of $94 million and $242 million, respectively.
+Product revenues as a percentage of net revenues increased two percentage points and three percentage points in the second quarter and first six months of fiscal 2019, respectively, compared to the corresponding periods of fiscal 2018.
+Product revenues from strategic solutions represented 71% of product revenues in the second quarter and first six months of fiscal 2019, compared to 69% in the corresponding periods of the prior year.
+Product revenues from mature solutions represented 29% of product revenues in the second quarter and first six months of fiscal 2019, compared to 31% in the corresponding periods of the prior year.
+Total product revenues from strategic solutions totaled $649 million in the second quarter of fiscal 2019 reflecting a 15% increase from $566 million in the second quarter of fiscal 2018.
+Total product revenues from strategic solutions totaled $1,261 million in the first six months of fiscal 2019 reflecting a 19% increase from $1,064 million in the first six months of fiscal 2018.
+Contributing to these increases was over $20 million and $110 million of revenues from the software license component of several ELAs in the second quarter and first six months of fiscal 2019, respectively, which, under ASC 606, were recognized up-front.
+There were no comparable ELAs in the second quarter or first six months of fiscal 2018.
+Revenues generated from the sale of optional add-on software, unrelated to ELAs, also increased in the second quarter and first six months of fiscal 2019 compared to the corresponding periods of the prior year.
+Total product revenue from mature solutions totaled $264 million in the second quarter of fiscal 2019 reflecting a 4% increase from $253 million in the second quarter of fiscal 2018.
+Total product revenue from mature solutions totaled $527 million in the first six months of fiscal 2019 reflecting a 9% increase from $482 million in the first six months of fiscal 2018.
+These increases are primarily due to an increase in add-on hardware, storage and related OS revenues of 11% and 14% in the second quarter and first six months of fiscal 2019, respectively, compared to the corresponding periods of prior year.
+Additionally, OEM revenues increased by 6% and 25% in the second quarter and first six months of fiscal 2019, respectively, compared to the corresponding periods of the prior year.
+These increases were partially offset by our discontinuation of the 7-mode systems in the first quarter of fiscal 2019, reflecting the movement of customers to our newer products.
+Software maintenance revenues are associated with contracts which entitle customers to receive unspecified product upgrades and enhancements on a when-and-if-available basis, bug fixes and patch releases, as well as internet and telephone access to technical support personnel located in our global support centers.
+The fluctuations in software maintenance revenues reflect fluctuations in the aggregate contract value of the installed base under software maintenance contracts, which is recognized as revenue ratably over the terms of the underlying contracts.
+Hardware maintenance and other services revenues include hardware maintenance, professional services, and educational and training services revenues.
+Hardware maintenance contract revenues were relatively flat year over year, at $303 million and $606 million, respectively, for the second quarter and first six months of fiscal 2019, compared to $306 million and $604 million, respectively, for the corresponding periods of the prior year.
+Professional services and educational and training services revenues were $65 million and $132 million, respectively, for the second quarter and first six months of fiscal 2019, compared to $66 million and $139 million, respectively, for the corresponding periods of the prior year.
+Percentages may not add due to rounding
+Americas revenues consist of sales to Americas commercial and U.S. public sector markets.
+Our geographic distribution of revenues as a percentage of net revenues was relatively consistent in the second quarter and first six months of fiscal 2019 compared to the corresponding periods of fiscal 2018.
+Cost of Revenues
+Cost of product revenues represented 47% and 46% of product revenues for the second quarter and first six months of fiscal 2019, respectively, compared to 48% and 50% for the corresponding periods of fiscal 2018.
+Materials costs represented 91% and 89% of product costs for the second quarter and first six months of fiscal 2019, respectively, compared to 91% and 90% in the corresponding periods of fiscal 2018.
+Materials costs increased $31 million and $47 million in the second quarter and first six months of fiscal 2019, respectively, compared to the corresponding periods of the prior year, primarily due to higher unit volumes of certain products.
+Average unit materials costs for Clustered ONTAP systems increased by 12% and 13% in the second quarter and first six months of fiscal 2019, respectively, compared to the corresponding periods of the prior year.
+Margins on revenue recognized for strategic solutions were higher during the second quarter and first six months of fiscal 2019 compared to the corresponding periods of fiscal 2018 primarily as a result of the benefit of high margins realized on the software license components of several ELAs, and, to a lesser extent, higher ASPs.
+Margins for mature products increased slightly in the second quarter and first six months of fiscal 2019 compared to the corresponding periods of the prior year.
+Cost of software maintenance revenues in dollars was relatively flat in the second quarter and first six months of fiscal 2019 compared to the corresponding periods of fiscal 2018 and represented 3% of software maintenance revenues for both periods.
+Cost of hardware maintenance and other services revenues decreased by $5 million, or 4%, and $13 million, or 6%, respectively, for the second quarter and first six months of fiscal 2019 compared to the corresponding periods of fiscal 2018, primarily due to the favorable impact of cost savings initiatives.
+Costs represented 29% of hardware maintenance and other services revenues in the second quarter and first six months of fiscal 2019, compared to 30% in the second quarter and first six months of fiscal 2018.
+Operating Expenses
+Sales and Marketing, Research and Development and General and Administrative Expenses
+Compensation costs represent the largest component of operating expenses.
+Included in compensation costs are salaries, benefits, other compensation-related costs, stock-based compensation expense and employee incentive compensation plan costs.
+Total compensation costs included in operating expenses increased by $5 million and $10 million in the second quarter and first six months of fiscal 2019, respectively, compared to the corresponding periods of the prior year, each representing an increase of 1%.
+Stock-based compensation expenses decreased slightly in the current year, while the other components of compensation costs increased slightly.
+Average headcount was relatively flat in each period.
+Compensation costs decreased for the second quarter and first six months of fiscal 2019 compared to the corresponding periods of the prior year, reflecting a 2% decrease in average headcount in each of the current year periods.
+Facilities and IT support costs decreased in fiscal 2019 primarily due to cost containment efforts.
+Commissions expense was relatively consistent in each of the respective comparative periods.
+The increase in compensation costs for the second quarter and first six months of fiscal 2019 compared to the corresponding periods in the prior year was attributable to an increase in average headcount of 6% and 7%, respectively, resulting in higher salaries, benefits and incentive compensation expense, partially offset by slightly lower stock-based compensation expense.
+The increase in headcount reflects our investment in additional engineering resources to support the expansion and enhancement of products and solutions targeted at our most important customer and market opportunities.
+Development projects and outside services for the second quarter and first six months of fiscal 2019 increased as a result of higher spending on materials and services associated with engineering activities to develop new products and enhance existing ones.
+The increase in compensation costs for the second quarter and first six months of fiscal 2019 compared to the corresponding periods of the prior year was attributable to a slight increase in average headcount, while the increase in facilities and IT support costs was primarily due to higher spending levels on IT projects.
+The decrease in professional and legal fees and outside services expense in the second quarter and the first six months of fiscal 2019 was primarily due to the lower spending levels on projects.
+NM – Not Meaningful
+In the first quarter of fiscal 2019, we announced a restructuring plan (the May 2018 Plan) to reduce costs and redirect resources to our highest return activities, which included a reduction in our global workforce of less than 2%.
+Charges related to the plan consisted primarily of employee severance-related costs.
+Substantially all activities under the plan have been completed.
+See Note 11 – Restructuring Charges of the Notes to Condensed Consolidated Financial Statements for more details.
+Other Income, Net (in millions, except percentages)
+Interest income increased in the second quarter and first six months of fiscal 2019 compared to the corresponding periods of the prior year, primarily due to a shift in our investment portfolio to higher-yielding investments, partially offset by a decrease in the size of the portfolio.
+Interest expense declined in the current year periods due to a reduction in the average amount of interest-bearing debt outstanding.
+Our effective tax rate for the second quarter of fiscal 2019 was 17.7% compared to an effective tax rate of 21.6% for the second quarter of fiscal 2018.
+Our effective tax rate for the first six months of fiscal 2019 was 7.3% compared to an effective tax rate of 16.9% for the corresponding period of fiscal 2018.
+Our effective tax rates reflect the impact of a significant amount of our earnings, primarily income from our European operations which are headquartered in the Netherlands, being taxed in foreign jurisdictions at rates below the U.S. statutory tax rate.
+Our effective tax rate decreased for the second quarter of fiscal 2019 compared to the corresponding period in the prior year primarily due the reduction of the federal income tax rate under U.S. tax reform and discrete impacts related to stock-based compensation.
+Our effective tax rate decreased for the first six months of fiscal 2019 compared to the corresponding period in the prior year primarily due to the recognition of a $34 million discrete tax benefit for adjustments to certain intercompany transactions resulting from the retrospective application of the new revenue standard, increased discrete benefits for stock-based compensation, and the reduction in the federal income tax rate.
+On December 22, 2017, the Tax Cuts and Jobs Act (“TCJA”) was enacted into law.
+The TCJA made significant changes to the U.S. corporate income tax system including a reduction of the U.S. federal corporate income tax rate from 35% to 21%, the imposition of a one-time transition tax on deferred foreign earnings, and the creation of new taxes on certain foreign-sourced earnings.
+As of October 26, 2018, we have not fully completed the accounting for the tax impacts of the TCJA.
+No significant adjustments to prior period estimates or positions have been made in the current period.
+The provisional amounts recorded are based on reasonable estimates and our current interpretation and understanding of the TCJA.
+The final impacts of U.S. tax reform may differ, possibly materially, due to factors such as the issuance of further regulatory guidance, changes in interpretations, and the collection and analysis of additional information.
+The Company is also still evaluating the effects of the TCJA’s global minimum tax on intangible low-taxed income (“GILTI”) and has not yet made an accounting policy election to either account for the tax under a period cost method or a deferred method.
+For the first six months ended October 26, 2018, we have accounted for the GILTI tax under a period cost method as we continue to evaluate potential impacts.
+In accordance with Staff Accounting Bulletin 118, we will complete the accounting of the tax effects of the TCJA within the measurement period not to extend beyond one year from the enactment date.
+As of October 26, 2018, we had $356 million of gross unrecognized tax benefits.
+Inclusive of penalties, interest and certain income tax benefits, $306 million would affect our provision for income taxes if recognized, and $324 million has been recorded in other long-term liabilities.
+We continue to monitor the progress of ongoing discussions with tax authorities and the impact, if any, of the expected expiration of the statute of limitations in various taxing jurisdictions.
+We believe that within the next 12 months, it is reasonably possible that either certain audits will conclude, certain statutes of limitations will lapse, or both.
+As a result of uncertainties regarding tax audits and their possible outcomes, an estimate of the range of possible impacts to unrecognized tax benefits in the next twelve months cannot be made at this time.
+Liquidity, Capital Resources and Cash Requirements
+Cash Flows
+As of October 26, 2018, our cash, cash equivalents and short-term investments were $4.3 billion, a decrease of $1.1 billion from April 27, 2018.
+The decrease was primarily due to $1.1 billion paid for the repurchase of our common stock, $207 million used for the payment of dividends, $135 million used for the net repayment of commercial paper notes, and $107 million in purchases of property and equipment, partially offset by $491 million of cash provided by operating activities.
+Working capital decreased by $1.3 billion to $2.2 billion as of October 26, 2018 compared to April 27, 2018 primarily due to the decreases in cash, cash equivalents and short-term investments discussed above, and the reclassification of $400 million principal amount of our senior notes to current liabilities.
+Cash Conversion Cycle
+Days may not add due to rounding
+Days sales outstanding, referred to as DSO, calculates the average collection period of our receivables.
+DSO is based on ending accounts receivable and net revenue for each period.
+DSO is calculated by dividing accounts receivable by average net revenue per day for the current quarter (91 days for each of the quarters presented above).
+DSO for the second quarter of fiscal 2019 increased compared to the corresponding period of fiscal 2018 due to one of our major distributors choosing not to take advantage of an early payment discount in the current quarter, while it decreased compared to the fourth quarter of fiscal 2018 due to lower seasonal invoicing levels and more favorable shipping linearity.
+Days inventory outstanding, referred to as DIO, measures the average number of days from procurement to sale of our products.
+DIO is based on ending inventory and cost of revenues for each period.
+DIO is calculated by dividing ending inventory by average cost of revenues per day for the current quarter.
+DIO for the second quarter of fiscal 2019 decreased compared to the corresponding period of fiscal 2018 and the fourth quarter of fiscal 2018, primarily due to lower levels of purchased components and finished goods, respectively, on hand at the end of the current quarter.
+Days payables outstanding, referred to as DPO, calculates the average number of days our payables remain outstanding before payment.
+DPO is based on ending accounts payable and cost of revenues for each period.
+DPO is calculated by dividing accounts payable by average cost of revenues per day for the current quarter.
+DPO for the second quarter of fiscal 2019 increased compared to the corresponding period of fiscal 2018, due to differences in the timing of purchases from and payments to our suppliers.
+DPO for the second quarter of fiscal 2019 decreased compared to the fourth quarter of 2018, primarily due to the timing of purchases from contract manufacturers.
+The cash conversion cycle is the sum of DSO and DIO less DPO.
+Items which may cause the cash conversion cycle in a particular period to differ include, but are not limited to, changes in business mix, changes in payment terms (including extended payment terms from suppliers), the extent of shipment linearity, seasonal trends and the timing of revenue recognition and inventory purchases within the period.
+Cash Flows from Operating Activities
+During the first six months of fiscal 2019, we generated cash from operating activities of $491 million, reflecting net income of $524 million, adjusted by non-cash depreciation and amortization of $98 million, and stock-based compensation of $78 million, compared to $564 million of cash generated from operating activities during the first six months of fiscal 2018.
+•
+Accounts receivable decreased $269 million, reflecting lower DSO.
+•
+Accounts payable decreased $127 million, reflecting lower DPO.
+•
+Accrued expenses decreased $162 million, primarily due to employee compensation payouts related to fiscal year 2018 commissions and incentive compensation plans.
+•
+Deferred revenue and financed unearned services revenue decreased $129 million, primarily due to a decrease in deferred software and hardware maintenance contract revenues reflecting the seasonality of maintenance contract renewal activities.
+•
+Long-term taxes payable decreased $63 million, primarily due to transition taxes associated with U.S. tax reform.
+We expect that cash provided by operating activities may materially fluctuate in future periods due to a number of factors, including fluctuations in our operating results, shipment linearity, accounts receivable collections performance, inventory and supply chain management, vendor payment initiatives, tax benefits or charges from stock-based compensation, and the timing and amount of compensation and other payments.
+Cash Flows from Investing Activities
+During the first six months of fiscal 2019, we generated $489 million from maturities and sales of investments, net of purchases, and paid $107 million for capital expenditures, compared to $48 million and $65 million, respectively, during the first six months of fiscal 2018.
+Cash Flows from Financing Activities
+During the first six months of fiscal 2019, we used $1.1 billion for the repurchase of fourteen million shares of our common stock, $207 million for the payment of dividends, and $135 million for the repayment of commercial paper notes, net, compared to $300 million used for the repurchase of seven million shares of common stock, $108 million used for the payment of dividends, $218 million generated from issuances of commercial paper notes, net, and $795 million generated from the issuance of long-term debt during the first six months of fiscal 2018.
+Key factors that could affect our cash flows include changes in our revenue mix and profitability, our ability to effectively manage our working capital, in particular, accounts receivable, accounts payable and inventories, the timing and amount of stock repurchases and payment of cash dividends, the impact of foreign exchange rate changes, our ability to effectively integrate acquired products, businesses and technologies and the timing of repayments of our debt.
+Based on past performance and our current business outlook, we believe that our sources of liquidity, including potential future issuances of debt, equity or other securities, will satisfy our working capital needs, capital expenditures, investment requirements, stock repurchases, cash dividends, contractual obligations, commitments, principal and interest payments on our debt and other liquidity requirements associated with operations and meet our cash requirements for at least the next 12 months.
+However, in the event our liquidity is insufficient, we may be required to curtail spending and implement additional cost saving measures and restructuring actions or enter into new financing arrangements.
+We cannot be certain that we will continue to generate cash flows at or above current levels or that we will be able to obtain additional financing, if necessary, on satisfactory terms, if at all.
+Liquidity
+Our principal sources of liquidity as of October 26, 2018 consisted of cash, cash equivalents and short-term investments, cash we expect to generate from operations, and our commercial paper program and related credit facility.
+As of October 26, 2018 and April 27, 2018, $3.9 billion and $4.5 billion, respectively, of cash, cash equivalents and short-term investments were held by various foreign subsidiaries and were generally based in U.S. dollar-denominated holdings, while $0.4 billion and $0.9 billion, respectively, were available in the U.S. at the end of each period.
+The TCJA imposes a one-time transition tax on substantially all accumulated foreign earnings through December 31, 2017, and generally allows companies to make distributions of foreign earnings without incurring additional federal taxes.
+As a part of the provisional estimates recorded for the impacts of the TCJA, we have reviewed our projected global cash requirements and have determined that certain historical and future foreign earnings will no longer be indefinitely reinvested.
+Our principal liquidity requirements are primarily to meet our working capital needs, support ongoing business activities, fund research and development, meet capital expenditure needs, invest in critical or complementary technologies, service interest and principal payments on our debt, fund our stock repurchase program, and pay dividends, as and if declared.
+The principal objectives of our investment policy are the preservation of principal and maintenance of liquidity.
+We attempt to mitigate default risk by investing in high-quality investment grade securities, limiting the time to maturity and monitoring the counter-parties and underlying obligors closely.
+We believe our cash equivalents and short-term investments are liquid and accessible.
+We are not aware of any significant deterioration in the fair value of our cash equivalents or investments from the values reported as of October 26, 2018.
+Our investment portfolio has been and will continue to be exposed to market risk due to trends in the credit and capital markets.
+We continue to closely monitor current economic and market events to minimize the market risk of our investment portfolio.
+We routinely monitor our financial exposure to both sovereign and non-sovereign borrowers and counterparties.
+We utilize a variety of planning and financing strategies in an effort to ensure our worldwide cash is available when and where it is needed.
+Based on past performance and current expectations, we believe our cash and cash equivalents, investments, cash generated from operations, and ability to access capital markets and committed credit lines will satisfy, through at least the next 12 months, our liquidity requirements, both in total
+Senior Notes
+Interest on the Senior Notes is payable semi-annually.
+For further information on the underlying terms, see Note 8 – Financing Arrangements of the Notes to Condensed Consolidated Financial Statements.
+Commercial Paper Program and Credit Facility
+We have a commercial paper program (the Program), under which we may issue unsecured commercial paper notes.
+Amounts available under the Program may be borrowed, repaid and re-borrowed, with the aggregate face or principal amount of the notes outstanding under the Program at any time not to exceed $1.0 billion.
+The maturities of the notes can vary, but may not exceed 397 days from the date of issue.
+The notes are sold under customary terms in the commercial paper market and may be issued at a discount from par or, alternatively, may be sold at par and bear interest at rates dictated by market conditions at the time of their issuance.
+The proceeds from the issuance of the notes are used for general corporate purposes.
+As of October 26, 2018, we had commercial paper notes outstanding with an aggregate principal amount of $250 million, a weighted-average interest rate of 2.45% and maturities ranging from 4 days to 31 days.
+In connection with the Program, we have a senior unsecured credit agreement that expires on December 10, 2021.
+The credit agreement provides a $1.0 billion revolving unsecured credit facility that serves as a back-up for the Program.
+Proceeds from the facility may also be used for general corporate purposes, providing another potential source of liquidity to the extent that the credit facility exceeds the outstanding debt issued under the Program.
+The credit agreement also includes options that allow us to request an increase in the facility of up to an additional $300 million and to extend its maturity date for two additional one-year periods, both subject to certain conditions.
+As of October 26, 2018, we were in compliance with all associated covenants in this agreement.
+No amounts were drawn against this facility during any of the periods presented.
+Capital Expenditure Requirements
+We expect to fund our capital expenditures, including our commitments related to facilities, equipment, operating leases and internal-use software development projects over the next few years through existing cash, cash equivalents, investments and cash generated from operations.
+The timing and amount of our capital requirements cannot be precisely determined and will depend on a number of factors, including future demand for products, changes in the network storage industry, hiring plans and our decisions related to the financing of our facilities and equipment requirements.
+We anticipate capital expenditures for the remainder of fiscal 2019 to be between $100 million and $150 million.
+Dividends and Stock Repurchase Program
+On November 14, 2018, we declared a cash dividend of $0.40 per share of common stock, payable on January 23, 2019 to holders of record as of the close of business on January 4, 2019.
+Our Board of Directors has authorized the repurchase of up to $13.6 billion of our common stock under our stock repurchase program.
+Under this program, we may purchase shares of our outstanding common stock through solicited or unsolicited transactions in the open market, in privately negotiated transactions, through accelerated share repurchase programs, pursuant to a Rule 10b5-1 plan or in such other manner as deemed appropriate by our management.
+The stock repurchase program may be suspended or discontinued at any time.
+Since the May 13, 2003 inception of this program through October 26, 2018, we repurchased a total of 298 million shares of our common stock at an average price of $35.87 per share, for an aggregate purchase price of $10.7 billion.
+As of October 26, 2018, the remaining authorized amount for stock repurchases under this program was $2.9 billion.
+The timing and amount of stock repurchase transactions and future dividends will depend on market conditions, corporate business and financial considerations and regulatory requirements.
+Contractual Obligations
+Operating Lease Commitments
+As of October 26, 2018, future annual minimum lease payments under non-cancelable operating leases with an initial term in excess of one year totaled $172 million.
+Purchase Orders and Other Commitments
+In the ordinary course of business, we make commitments to our third-party contract manufacturers to manage manufacturer lead times and meet product forecasts, and to other parties to purchase various key components used in the manufacture of our products.
+A significant portion of our reported purchase commitments arising from these agreements consists of firm, non-cancelable, and unconditional commitments.
+As of October 26, 2018, we had $422 million in non-cancelable purchase commitments for inventory.
+We record a liability for firm, non-cancelable and unconditional purchase commitments for quantities in excess of our future demand forecasts consistent with the valuation of our excess and obsolete inventory.
+To the extent that such forecasts are not achieved, our commitments and associated accruals may change.
+In addition to inventory commitments with contract manufacturers and component suppliers, we have open purchase orders and construction related obligations associated with our ordinary course of business for which we have not received goods or services.
+As of October 26, 2018, we had $5 million in construction related obligations and $187 million in other purchase obligations.
+Unrecognized Tax Benefits
+As of October 26, 2018, our liability for uncertain tax positions was $324 million, including interest, penalties and certain income tax benefits.
+Due to uncertainties regarding tax audits and their possible outcomes, we are unable to make reasonably reliable estimates of the period of cash settlement with the taxing authorities.
+Financing Guarantees
+While most of our arrangements for sales include short-term payment terms, from time to time we provide long-term financing to creditworthy customers.
+We have generally sold receivables financed through these arrangements on a non-recourse basis to third party financing institutions within 10 days of the contracts’ dates of execution, and we classify the proceeds from these sales as cash flows from operating activities in our condensed consolidated statements of cash flows.
+We account for the sales of these receivables as “true sales” as defined in the accounting standards on transfers of financial assets, as we are considered to have surrendered control of these financing receivables.
+Provided all other revenue recognition criteria have been met, we recognize product revenues for these arrangements, net of any payment discounts from financing transactions, upon product acceptance.
+We sold $43 million and $49 million of receivables during the six months ended October 26, 2018 and October 27, 2017, respectively.
+In addition, we enter into arrangements with leasing companies for the sale of our hardware systems products.
+These leasing companies, in turn, lease our products to end-users.
+The leasing companies generally have no recourse to us in the event of default by the end-user and we recognize revenue upon delivery to the end-user customer, if all other revenue recognition criteria have been met.
+Some of the leasing arrangements described above have been financed on a recourse basis through third-party financing institutions.
+Under the terms of recourse leases, which are generally three years or less, we remain liable for the aggregate unpaid remaining lease payments to the third-party leasing companies in the event of end-user customer default.
+These arrangements are generally collateralized by a security interest in the underlying assets.
+Where we provide a guarantee for recourse leases, we recognize revenues in accordance with our revenue recognition policy, as updated to reflect the adoption of ASC 606.
+In connection with certain recourse financing arrangements, we receive advance payments associated with undelivered elements that are subject to customer refund rights.
+As of October 26, 2018 and April 28, 2017, the aggregate amount by which such contingencies exceeded the associated liabilities was not significant.
+To date, we have not experienced significant losses under our lease financing programs or other financing arrangements.
+We have entered into service contracts with certain of our end-user customers that are supported by third-party financing arrangements.
+If a service contract is terminated as a result of our non-performance under the contract or our failure to comply with the terms of the financing arrangement, we could, under certain circumstances, be required to acquire certain assets related to the service contract or to pay the aggregate unpaid payments under such arrangements.
+As of October 26, 2018, we have not been required to make any payments under these arrangements, and we believe the likelihood of having to acquire a material amount of assets or make payments under these arrangements is remote.
+The portion of the financial arrangement that represents unearned services revenue is included in deferred revenue and financed unearned services revenue in our condensed consolidated balance sheets.
+Indemnification Agreements
+We enter into indemnification agreements with third parties in the ordinary course of business.
+Generally, these indemnification agreements require us to reimburse losses suffered by the third-parties due to various events, such as lawsuits arising from patent or copyright infringement.
+These indemnification obligations are considered off-balance sheet arrangements under accounting guidance.
+Legal Contingencies
+We are subject to various legal proceedings and claims which arise in the normal course of business.
+See further details on such matters in Note 15 – Commitments and Contingencies of the Notes to Condensed Consolidated Financial Statements.
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds.
+Purchases of equity securities
+In May 2003, our Board of Directors approved a stock repurchase program.
+As of October 26, 2018, our Board of Directors has authorized the repurchase of up to $13.6 billion of our common stock.
+Since inception of the program through October 26, 2018, we repurchased a total of 298 million shares of our common stock for an aggregate purchase price of $10.7 billion.
+Under this program, which we may suspend or discontinue at any time, we may purchase shares of our outstanding common stock through solicited or unsolicited transactions in the open market, in privately negotiated transactions, through accelerated share repurchase programs, pursuant to a Rule 10b5-1 plan or in such other manner as deemed appropriate by our management.
